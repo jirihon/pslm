@@ -5,7 +5,7 @@ function ready() {
         for (let i = 0; i < pslm_svg_sizes.length; ++i) {
             let el = document.getElementsByClassName('size-' + pslm_svg_sizes[i])[0];
             let style = getComputedStyle(el);
-            if (style.display == 'block') {
+            if (style.display == 'inline-block') {
                 return i;
             }
         }
