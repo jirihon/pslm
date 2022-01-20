@@ -75,7 +75,6 @@ function pslm_render_index() {
             $html .= '</ul>';
         }
     }
-
     ob_start();
 ?><!DOCTYPE html>
 <html lang="cs" prefix="og: http://ogp.me/ns#">
@@ -88,8 +87,8 @@ function pslm_render_index() {
 <body>
     <div class="main">
         <h1>Žaltář</h1>
+        <p><a href="o-projektu.html">O projektu</a> | <a href="https://github.com/jirihon/pslm">GitHub</a></p>
         <?= $html ?>
-        <p><a href="o-projektu.html">O projektu</a></p>
     </div>
 </body>
 </html>
@@ -97,7 +96,6 @@ function pslm_render_index() {
     $html = ob_get_clean();
     file_put_contents("html/index.html", $html);
 }
-
 
 function pslm_render_psalm_html($id) {
     global $PSLM_AUTHORS;
