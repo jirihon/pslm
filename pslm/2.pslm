@@ -1,0 +1,77 @@
+%% number: 159
+%% day: 2. neděle v mezidobí
+%% cycle: C
+%% reference: Ž 96 (95)
+%% author: olejnik
+%% source: https://josefolejnik.cz/wp-content/uploads/159-2.-nedele-v-mezidobi.jpg
+
+m: \key g \major
+
+%% part: responsum
+
+m: g'8 d d d \bar "" e d \bar "" e fis \bar "" a8. g16 g2 \bar "|"
+c8 d \bar "" c b \bar "" a g \bar "" b a~ a4 \bar "||"
+
+t: Vypravujte mezi všemi národy o Hospodinových divech.
+
+%% part: verse
+
+m: c''\breve b8 c d[(\verseAccent b)] b2 \bar "|"
+t: Zpívejte Hospodinu novou píseň,
+
+m: a\breve g8 a b[(\verseAccent g)] g2 \bar "|"
+t: * zpívejte Hospodinu, všechny země!
+
+m: fis\breve
+t: * Zpívejte Hospodinu,
+
+m: e\breve fis8 e e[(\verseAccent d)] d2 \bar "||"
+t: velebte jeho jméno!
+
+%% part: verse
+
+m: c''\breve b8 c d[(\verseAccent b)] b2 \bar "|"
+t: Rozhlašujte den ze dne jeho spásu!
+
+m: a\breve g8 a b[(\verseAccent g)] g2 \bar "|"
+t: * Vypravujte mezi pohany o jeho slávě,
+
+m: fis\breve
+t: * mezi všemi národy
+
+m: e8 fis8 e e[(\verseAccent d)] d2 \bar "||"
+t: o jeho divech.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''\breve b8 c d\verseAccent b b2 \bar "|"
+t: Vzdejte Hospodinu, rodiny národů,
+
+m: a\breve g8 a b\verseAccent g g g2 \bar "|"
+t: * vzdejte Hospodinu slávu a moc,
+
+m: fis\breve
+t: * vzdejte Hospodinu slávu
+
+m: e\breve fis8 e e[(\verseAccent d)] d2 \bar "||"
+t: hodnou jeho jména.
+
+%% part: verse
+
+m: c''\breve b8 c d\verseAccent b b b2 \bar "|"
+t: V posvátném rouchu se klaňte Hospodinu!
+
+m: a\breve g8 a b\verseAccent g g2 \bar "|"
+t: * Třeste se před ním, všechny země! + Hlásejte mezi pohany: Hospodin kraluje,
+
+m: fis\breve
+t: * národy
+
+m: e\breve fis8 e e[(\verseAccent d)] d2 \bar "||"
+t: řídí podle práva.
+
+%% use: responsum
+
+m: \bar "|."

@@ -1,0 +1,62 @@
+%% number: 51
+%% day: Čtvrtek 2. týdne
+%% reference: Ž 40 (39)
+%% author: olejnik
+%% source: https://josefolejnik.cz/wp-content/uploads/2019/04/051-2.-nedele-v-mezidobi.gif
+
+m: \key es \major
+
+%% part: responsum
+
+m: bes'4 c8 bes4 g8 \bar "" es d \bar "" c d \bar "" es \bar "" f4 f r \bar "||"
+t: Hle, přicházím, Pane, splnit tvou vůli.
+
+%% part: verse
+m: as'\breve bes8 f as\verseAccent g g g4 r \bar "|"
+t: Pevně jsem doufal v Hospodina,
+
+m: f8 c'\breve d8 c c\verseAccent bes bes2 \bar "||"
+t: * on se ke mně sklonil a vyslyšel mé volání.
+
+%% part: verse
+m: as'\breve bes8 f as[(\verseAccent g)] g2 \bar "|"
+t: Novou píseň vložil mi do úst,
+
+m: f8 c'\breve d8 c c[(\verseAccent bes)] bes4 r \bar "||"
+t: * chvalozpěv našemu Bohu.
+
+%% use: responsum
+
+%% part: verse
+m: as'\breve bes8 f as[(\verseAccent g)] g4 r \bar "|"
+t: V obětních darech si nelibuješ, Bože,
+
+m: f8 c'\breve d8 c c[(\verseAccent bes)] bes4 r \bar "||"
+t: * za to jsi mi otevřel uši.
+
+%% part: verse
+m: as'\breve bes8 f as\verseAccent g g2 \bar "|"
+t: Celopaly a smírné oběti nežádáš,
+
+m: f8 c'\breve d8 c c\verseAccent bes bes2 \bar "||"
+t: * tehdy jsem řekl: „Hle přicházím.
+
+%% use: responsum
+
+%% part: verse
+m: as'\breve bes8 f as[(\verseAccent g)] g4 r8
+t: Ve svitku knihy je o mně psáno:
+
+m: f \bar "|" c'\breve d8 c c[(\verseAccent bes)] bes4 r \bar "||"
+t: * Rád splním tvou vůli, můj Bože, + tvůj zákon je v mém nitru.“
+
+%% part: verse
+m: as'\breve bes8 f as\verseAccent g g g2 \bar "|"
+t: Spravedlnost jsem zvěstoval ve velkém shromáždění,
+
+m: f8 c'\breve d8 c c\verseAccent bes bes bes4 r \bar "||"
+t: * svým rtům jsem nebránil, ty to víš, Hospodine!
+
+%% use: responsum
+
+m: \bar "|."

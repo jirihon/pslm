@@ -1,0 +1,23 @@
+- year: 2022
+  months:
+    - month: 1
+      days:
+      - day: 23
+        name: 3. neděle v mezidobí
+        psalms: [3]
+      - day: 20
+        name: Čtvrtek 2. týdne v mezidobí
+        psalms: [5]
+      - day: 20
+        name: nezávazná památka sv. Šebestiána
+        psalms: [6]
+      - day: 19
+        name: Středa 2. týdne v mezidobí
+        psalms: [4]
+      - day: 16
+        name: 2. neděle v mezidobí
+        psalms: [2]
+      - day: 3
+        name: Pondělí po oktávu Narození Páně
+        psalms: [1]
+        

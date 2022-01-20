@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="cs" prefix="og: http://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8">
+	<title>Žaltář</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="stylesheet" href="css/style.css" media="all" />
+</head>
+<body>
+    <div class="main">
+        <h1>O projektu</h1>
+
+        <p>Autor: <a href="mailto:jiri.hon@gmail.com">Jiří Hon</a></p>
+        
+        <p>Tento žaltář je technický experiment, jehož hlavním cílem je otestovat, zda lze pohodlně zpívat žalmy z mobilu a jak náročné by bylo žalmy pro mobil připravit. Výsledky by mohly přispět ke zlepšení <a href="https://zpevnik.proscholy.cz">Zpěvníku pro scholy</a>.</p>
+
+        <p>Použité technologie: PHP, LilyPond, TiMidity++, FFmpeg</p>
+
+        <p>První testovanou funkcí je responzivnost not. Pro každý žalm se generují noty ve formátu SVG o 9 různých šířkách (od 7 do 15 cm). Prohlížeč zvolí vhodnou verzi not podle aktuální šířky obrazovky. Velikost si lze navíc přizpůsobit tlačítky. Problémem je časová náročnost generování not, pro každou verzi se musí znovu spustit LilyPond.</p>
+
+        <p>S variabilní šířkou not vzniká problém, jak vůbec žalmy pro LilyPond zapisovat. Týká se to hlavně veršů, kde většina textu patří k jedné notě (<a href="https://cs.wikipedia.org/wiki/Brevis">brevis</a>). Pokud se příslušný text nevejde na jeden řádek, musí se nějakým způsobem zalomit, a to pro každou šířku not jinak. V tomto žaltáři je použita technika rozepsání všech slabik verše na brevis osminové délky. Zobrazuje se jen první brevis a každá další, která je první notou na řádku. Tento způsob nechává dělení veršů do řádků čistě na sázecím programu LilyPond, který si s různými šířkami poradí.</p>
+
+        <p>Rozepisování slabik verše pro LilyPond je pracné a nepřehledné. Musí se spočítat slabiky a podle toho vložit příslušný počet skrytých brevis. Toto je řešeno vlastním formátem zápisu PSLM, který stejnojmenný překladač převádí na formát LilyPond. Překladač umí automaticky doplňovat skryté brevis. Navíc automaticky dělí text do slabik. Pod každým žalmem je pro srovnání odkaz na jeho zdrojový text ve formátu PSLM a LilyPond. Formát PSLM je navržen tak, aby se v něm žalmy zapisovaly co nejrychleji. PSLM také podporuje jednoduché označení akcentu ve verši, kdy sám doplní příslušné crescendo a decrescendo. Podle prvních zkušeností trvá zápis a kontrola jednoho žalmu zhruba 10 minut.</p>
+
+        <p>Poslední důležitou funkcí je vygenerování zvukové ukázky pro usnadnění nácviku žalmu. Využívá se MIDI výstup LilyPondu, který se převádí pomocí TiMidity++ a FFmpeg do formátu MP3. Zvuková ukázka obsahuje jen responsum a schéma prvního verše.</p>
+    </div>
+</body>
+</html>

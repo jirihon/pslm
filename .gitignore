@@ -1,0 +1,13 @@
+node_modules
+vendor
+composer.lock
+upload.sh
+.vscode
+html/css/sizes.css
+html/[0-9]*.html
+html/index.html
+html/mp3
+ly/*
+midi/*
+svg/*
+cache/*
