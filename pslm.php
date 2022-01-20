@@ -73,7 +73,7 @@ function pslm_fix_svg($svg_f) {
     $svg = preg_replace('#<style.*?</style>#s', '', $svg);
     file_put_contents($svg_f, $svg);
 
-    $cmd = "./node_modules/svgo/bin/svgo -q -i $svg_f";
+    $cmd = sprintf('./node_modules/svgo/bin/svgo -i %s', $svg_f);
     system($cmd);
 }
 
