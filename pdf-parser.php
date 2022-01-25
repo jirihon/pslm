@@ -1,96 +1,126 @@
 <?php
 /**
- * Find text lines in PDFs of Nedělení žaltář and Všední žaltář based on XML output of pdfminer.six
+ * Parse text lines from PDFs of Nedělení žaltář and Všední žaltář based on XML output of pdfminer.six
+ * 
+ * The XML was generated using the following command:
+ * 
+ * $ pdf2txt.py --output_type xml Zaltar.pdf > zaltar.xml
  */
+use Symfony\Component\Yaml\Yaml;
 
-$fp = fopen(dirname(__FILE__).'/db/nedelni_zaltar.xml', 'r');
+require_once 'vendor/autoload.php';
+
+define('PSLM_LINE_MARGIN', 5);
+define('PSLM_ASTERISK_LINE_MARGIN', 10);
+define('PSLM_WORD_MARGIN', 2);
 
 
-function pslm_get_line_key($lines, $top) {
-    for ($d = 0; $d <= 5; ++$d) {
+$psalm_lines = pslm_pdf_to_psalm_lines('db/nedelni_zaltar.xml.gz', 'r');
+pslm_save_psalm_lines($psalm_lines, 'db/nedelni_zaltar.yml');
+
+$psalm_lines = pslm_pdf_to_psalm_lines('db/vsedni_zaltar.xml.gz', 'r');
+pslm_save_psalm_lines($psalm_lines, 'db/vsedni_zaltar.yml');
+
+
+function pslm_save_psalm_lines($psalm_lines, $filename) {
+    file_put_contents($filename, Yaml::dump($psalm_lines));
+}
+
+function pslm_get_line_key($text_lines, $top, $margin = PSLM_LINE_MARGIN) {
+    for ($d = 0; $d <= $margin; ++$d) {
         $key_1 = $top + $d;
         $key_2 = $top - $d;
-        if (isset($lines[$key_1])) {
+        if (isset($text_lines[$key_1])) {
             return $key_1;
-        } elseif (isset($lines[$key_2])) {
+        } elseif (isset($text_lines[$key_2])) {
             return $key_2;
         }
     }
     return false;
 }
 
-function pslm_print_page($page, $lines) {
-    echo "Page: $page\n";
-    krsort($lines);
-    foreach ($lines as $words) {
-        $line = '';
+function pslm_text_lines_to_psalm_lines($text_lines) {
+    $psalm_lines = [];
 
-        if (!empty($words)) {
-            ksort($words);
-            $left = array_keys($words);
-            $text = array_values($words);
-            
-            // build up an array of right coordinates to compare with left coordinate of next text
-            $right = [$text[0][0]]; 
-            $line .= $text[0][1];
-
-            for ($i = 1; $i < count($words); ++$i) {
-                $right[$i] = $text[$i][0];
-                if ($left[$i] - $right[$i-1] > 2) {
-                    $line .= " ";
+    // reassign asterisks to lines with extended line margin
+    foreach ($text_lines as $top => $texts) {
+        foreach ($texts as $left => $text) {
+            if ($text[1] === '*') {
+                unset($text_lines[$top][$left]);
+                if (empty($text_lines[$top])) {
+                    unset($text_lines[$top]);
                 }
-                $line .= $text[$i][1];
+                $key = pslm_get_line_key($text_lines, $top, PSLM_ASTERISK_LINE_MARGIN);
+                if ($key === false) {
+                    $key = $top;
+                    $text_lines[$key] = [];
+                }
+                $text_lines[$key][$left] = $text;
             }
         }
-        //echo $top . ': '. implode(' ', $words) . "\n";
-        $line = preg_replace('#[^ěščřžýáíéóúůďťňĎŇŤŠČŘŽÝÁÍÉÚŮĚÓa-zA-Z0-9,\.\-\?\!„“":;\(\)\[\]\*\+/ ]+#u', '', $line);
-        $line = preg_replace('#\s*-\s*#u', '', $line);
-        $line = preg_replace('#\s+#u', ' ', $line);
-
-        echo "$line\n";
     }
-}
+    krsort($text_lines);
 
-$page = 0;
-$lines = [];
+    foreach ($text_lines as $top => $texts) {
+        $psalm_line = '';
 
-while (($line = fgets($fp, 4096)) !== false) {
-    ++$n;
+        ksort($texts);
+        $left = array_keys($texts);
+        $text = array_values($texts);
+        
+        // build up an array of right coordinates to compare with left coordinate of next text
+        $right = [$text[0][0]]; 
+        $psalm_line .= $text[0][1];
 
-    //preg_match('#<page number="(\d+)"#', $line, $page_m);
-    preg_match('#<page id="(\d+)"#', $line, $page_m);
-    if ($page_m) {
-        $page = $page_m[1];
-        pslm_print_page($page, $lines);
-        $lines = [];
-    }
-
-    //preg_match('#<text top="(\d+)" left="(\d+)" width="(\d+)" height="(\d+)" font="(\d+)">([^<]+)</text>#', $line, $text_m);
-    preg_match('#<text [^>]*bbox="([\d\.]+),([\d\.]+),([\d\.]+),([\d\.]+)"[^>]*>([^<]+)</text>#', $line, $text_m);
-
-    if ($text_m) {
-        /*$top = intval($text_m[1]);
-        $left = intval($text_m[2]);
-        $text = pslm_normalize($text_m[6]);*/
-        $top = intval($text_m[2]);
-        $left = intval($text_m[1]);
-        $right = intval($text_m[3]);
-        $text = $text_m[5];
-        $key = pslm_get_line_key($lines, $top);
-        if ($key === false) {
-            $key = $top;
-            $lines[$key] = [];
+        for ($i = 1; $i < count($texts); ++$i) {
+            $right[$i] = $text[$i][0];
+            if ($left[$i] - $right[$i-1] > PSLM_WORD_MARGIN) {
+                $psalm_line .= " ";
+            }
+            $psalm_line .= $text[$i][1];
         }
-        $lines[$key][$left] = [$right, $text];
-    }
+        $psalm_line = preg_replace('#[^ěščřžýáíéóúůďťňĎŇŤŠČŘŽÝÁÍÉÚŮĚÓa-zA-Z0-9,\.\-\?\!„“":;\(\)\[\]\*\+/ ]+#u', '', $psalm_line);
+        $psalm_line = preg_replace('#\s+#u', ' ', $psalm_line);
+        $psalm_line = trim($psalm_line);
+        $psalm_line = preg_replace('#^[ AQRSE]*(\d+)[ AQRSE.]* #u', '\1. ', $psalm_line);
 
-    if ($n >= 1010) {
-        //break;
+        $is_garbage = preg_match('#^[ AQRSE\.,\(\)]*$#u', $psalm_line);
+        if (!$is_garbage) {
+            $psalm_lines[] = $psalm_line;
+        }
     }
+    return $psalm_lines;
 }
-pslm_print_page($page, $lines);
 
-/*if (!feof($fp)) {
-    echo "ERROR: unexpected fgets() fail\n";
-}*/
-fclose($fp);
+function pslm_pdf_to_psalm_lines($filename) {
+    $fp = gzopen($filename, 'r');
+    $page = 0;
+    $text_lines = [];
+    $psalm_lines = [];
+    while (($xml_line = fgets($fp, 4096)) !== false) {
+        preg_match('#<page id="(\d+)"#', $xml_line, $page_m);
+        if ($page_m) {
+            if (!empty($text_lines)) {
+                $psalm_lines[$page] = pslm_text_lines_to_psalm_lines($text_lines);
+            }
+            $page = $page_m[1];
+            $text_lines = [];
+        }
+        preg_match('#<text [^>]*bbox="([\d\.]+),([\d\.]+),([\d\.]+),([\d\.]+)"[^>]*>([^<]+)</text>#', $xml_line, $text_m);
+        if ($text_m) {
+            $left = intval($text_m[1]);
+            $top = intval($text_m[2]);
+            $right = intval($text_m[3]);
+            $text = $text_m[5];
+            $key = pslm_get_line_key($text_lines, $top);
+            if ($key === false) {
+                $key = $top;
+                $text_lines[$key] = [];
+            }
+            $text_lines[$key][$left] = [$right, $text];
+        }
+    }
+    $psalm_lines[$page] = pslm_text_lines_to_psalm_lines($text_lines);
+    fclose($fp);
+    return $psalm_lines;
+}
