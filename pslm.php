@@ -217,6 +217,7 @@ responsum = \markup \concat { "R." \hspace #-1.7 \path #0.1 #\'((moveto 0 0.08) 
 melody = {
     \cadenzaOn
 %s
+    \bar "|."
 }
 words = \lyricmode {
 %s
