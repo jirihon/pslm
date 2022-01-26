@@ -1,0 +1,103 @@
+%% occasion: 'O svatých (i v době velikonoční)'
+%% responsum_reference: 'Ž 104 (103),1a .'
+%% verse_reference: 'Ž 103 (102)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Veleb, duše má, Hospodina.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Veleb, má duše, Hospodina,
+
+m: b\breve \bar "||"
+t: * vše, co je ve mně, veleb jeho svaté jméno!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Veleb, má duše, Hospodina
+
+m: b\breve \bar "||"
+t: * a nezapomeň na žádné z jeho dobrodiní!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: On odpouští všechny tvé viny,
+
+m: b\breve \bar "||"
+t: * on léčí všechny tvé neduhy.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: On vykupuje tvůj život ze záhuby,
+
+m: b\breve \bar "||"
+t: * on tě věnčí láskou a slitováním.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin je milosrdný a milostivý,
+
+m: b\breve \bar "||"
+t: * shovívavý a nadmíru dobrotivý.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nechce se přít ustavičně
+
+m: b\breve \bar "||"
+t: * ani se hněvat na věky.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jako se smilovává otec nad syny,
+
+m: b\breve \bar "||"
+t: * tak se smilovává Hospodin
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť on ví, z čeho jsme utvořeni,
+
+m: b\breve \bar "||"
+t: * má v paměti, že jsme jen prach.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodinova láska však od věků na věky
+
+m: b\breve \bar "||"
+t: * pro všechny, kdo se ho bojí,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: a jeho spravedlnost jde z dětí na děti
+
+m: b\breve \bar "||"
+t: * pro ty, kteří zachovávají jeho smlouvu.
+
+%% use: responsum
+

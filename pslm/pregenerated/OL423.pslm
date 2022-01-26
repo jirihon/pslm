@@ -1,0 +1,82 @@
+%% occasion: 'Pondělí 5. týdne 1'
+%% responsum_reference: 'Srov. Ž 104 (103),30'
+%% verse_reference: 'Ž 104 (103)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Sešli svého ducha, Pane, a obnov tvářnost země.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Veleb, má Sduše, Hospodina! Hospodine, můj Bože, jsi nadmíru veliký!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Velebností a vznešeností ses oděl,
+
+m: b\breve \bar "||"
+t: * světlem se halíš jako pláštěm.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zemi jsi založil na jejích základech,
+
+m: b\breve \bar "||"
+t: * nezakolísá na věčné věky.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Oceánem jsi ji přikryl jako šatem,
+
+m: b\breve \bar "||"
+t: * nad horami stanuly vody.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pramenům dáváš stékat v potoky,
+
+m: b\breve \bar "||"
+t: * které plynou mezi horami.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Podél nich hnízdí nebeské ptactvo,
+
+m: b\breve \bar "||"
+t: * ve větvích švitoří svou píseň.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jak četná jsou tvá díla, Hospodine!
+
+m: b\breve \bar "||"
+t: * Všechno jsi moudře učinil,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: země je plná tvého tvorstva.
+
+m: b\breve \bar "||"
+t: * Veleb, má duše, Hospodina!
+
+%% use: responsum
+

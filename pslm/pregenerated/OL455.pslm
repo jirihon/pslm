@@ -1,0 +1,62 @@
+%% occasion: 'Pátek 10. týdne 1'
+%% responsum_reference: 'Ž 116 (114),9'
+%% verse_reference: 'Ž 116 (115)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Budu kráčet před Hospodinem v zemi živých.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Měl jsem důvěru, i když jsem si řekl:
+
+m: b\breve \bar "||"
+t: * „Jsem tak sklíčen!“
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pravil jsem ve svém rozrušení:
+
+m: b\breve \bar "||"
+t: * „Každý člověk klame!“
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Drahocenná je v Hospodinových očích
+
+m: b\breve \bar "||"
+t: * smrt jeho zbožných.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Ach, Hospodine, jsem tvůj služebník, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Přinesu ti oběť díků, Hospodine,
+
+m: b\breve \bar "||"
+t: * a budu vzývat tvé jméno.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Splním své sliby Hospodinu
+
+m: b\breve \bar "||"
+t: * před veškerým jeho lidem
+
+%% use: responsum
+

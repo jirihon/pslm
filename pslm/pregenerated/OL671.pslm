@@ -1,0 +1,87 @@
+%% occasion: '(Sobota 19. týdne 2 - viz OL663)'
+%% occasion: '(Pondělí 20. týdne 2 - viz OL656)'
+%% occasion: 'Úterý 20. týdne 2'
+%% responsum_reference: 'Dt 32,39c'
+%% verse_reference: 'Dt 32'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Já usmrcuji a já oživuji.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Řekl jsem: „Jako prach bych je rozprášil,
+
+m: b\breve \bar "||"
+t: * památku na ně bych vyhladil mezi lidmi,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: kdybych se nebál drzosti nepřátel,
+
+m: b\breve \bar "||"
+t: * kdyby mnou nezhrdali jejich protivníci.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať neříkají: Naše moc zvítězila,
+
+m: b\breve \bar "||"
+t: * nebyl to Hospodin, který to všechno učinil!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vždyť je to lid zbavený rozumu,
+
+m: b\breve \bar "||"
+t: * není prozíravý.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jak by mohl jeden pronásledovat tisíc,
+
+m: b\breve \bar "||"
+t: * jak by mohli dva zahnat deset tisíc,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: kdyby je neprodala jejich Skála
+
+m: b\breve \bar "||"
+t: * a Hospodin je neopustil?
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Blízký je den jejich zkázy,
+
+m: b\breve \bar "||"
+t: * rychle přijde osud jim stanovený,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: neboť Hospodin se ujme práva svého lidu,
+
+m: b\breve \bar "||"
+t: * smiluje se nad svými služebníky.“
+
+%% use: responsum
+

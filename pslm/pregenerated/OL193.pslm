@@ -1,0 +1,66 @@
+%% occasion: '(4. neděle v mezidobí B - viz OL86-87)'
+%% occasion: '(4. neděle v mezidobí C - viz OL113)'
+%% occasion: '5. neděle v mezidobí A'
+%% responsum_reference: 'Ž 112 (111),4a'
+%% verse_reference: 'Ž 112 (111)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Spravedlivý září v temnotách jako světlo. (nebo:) Aleluja, aleluja.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Spravedlivý září v temnotách
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Blaze muži, který se slitovává a půjčuje,
+
+m: b\breve \bar "||"
+t: * stará se o své věci podle práva.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť na věky nezakolísá,
+
+m: b\breve \bar "||"
+t: * ve věčné paměti bude spravedlivý.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nemusí se obávat zlé zprávy,
+
+m: b\breve \bar "||"
+t: * jeho srdce je pevné, důvěřuje v Hospodina.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jeho srdce je zmužilé, nebojí se,
+
+m: b\breve \bar "||"
+t: * rozděluje, dává chudým,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: jeho štědrost potrvá navždy,
+
+m: b\breve \bar "||"
+t: * jeho moc poroste v slávě.
+
+%% use: responsum
+

@@ -1,0 +1,73 @@
+%% occasion: 'Sobota 4. týdne 2'
+%% responsum_reference: 'Ž 119 (118),12b'
+%% verse_reference: 'Ž 119 (118)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Nauč mě, Hospodine, svým příkazům!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jak půjde jinoch svou cestou bez úhony?
+
+m: b\breve \bar "||"
+t: * Budeli se chovat podle tvého slova.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Celým srdcem tě hledám,
+
+m: b\breve \bar "||"
+t: * nedej, abych se odchýlil od tvých předpisů!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ve svém srdci uchovávám tvůj výrok,
+
+m: b\breve \bar "||"
+t: * abych se neprohřešil proti tobě.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Veleben jsi, Hospodine,
+
+m: b\breve \bar "||"
+t: * nauč mě svým příkazům!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Svými rty vypočítávám
+
+m: b\breve \bar "||"
+t: * všechna rozhodnutí tvých úst.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Raduji se na cestě tvých přikázání
+
+m: b\breve \bar "||"
+t: * jako z velkého bohatství.
+
+%% use: responsum
+

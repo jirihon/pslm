@@ -1,0 +1,68 @@
+%% occasion: '(Pátek po 2. neděli velikonoční - viz OL10-11)'
+%% occasion: 'Sobota po 2. neděli velikonoční'
+%% responsum_reference: 'Ž 33 (32),22'
+%% verse_reference: 'Ž 33 (32)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Ať spočine na nás, Hospodine, tvé milosrdenství, jak doufáme v tebe.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Radujte se, spravedliví, z Hospodina,
+
+m: b\breve \bar "||"
+t: * sluší se, aby ho dobří chválili.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Citerou oslavujte Hospodina,
+
+m: b\breve \bar "||"
+t: * hrajte mu na desetistrunné harfě.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť Hospodinovo slovo je správné,
+
+m: b\breve \bar "||"
+t: * spolehlivé je celé jeho dílo.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Miluje spravedlnost a právo,
+
+m: b\breve \bar "||"
+t: * země je plná Hospodinovy milosti.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodinovo oko bdí nad těmi, kdo se ho bojí,
+
+m: b\breve \bar "||"
+t: * nad těmi, kdo doufají v jeho milost,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: aby jejich duše vyrval ze smrti,
+
+m: b\breve \bar "||"
+t: * aby jim život zachoval za hladu.
+
+%% use: responsum
+

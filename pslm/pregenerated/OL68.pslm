@@ -1,0 +1,65 @@
+%% occasion: '(Čtvrtek po Popeleční středě - viz OL20)'
+%% occasion: 'Pátek po Popeleční středě'
+%% responsum_reference: 'Ž 51 (50),12a'
+%% verse_reference: 'Ž 51 (50)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Stvoř mi čisté srdce Bože!
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Smiluj se nade mnou, Bože,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Úplně ze mě smyj mou vinu
+
+m: b\breve \bar "||"
+t: * a očisť mě od mého hříchu.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť já svou nepravost uznávám,
+
+m: b\breve \bar "||"
+t: * můj hřích je stále přede mnou.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jen proti tobě jsem se prohřešil,
+
+m: b\breve \bar "||"
+t: * spáchal jsem, co je před tebou zlé.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vždyť nemáš zálibu v oběti,
+
+m: b\breve \bar "||"
+t: * kdybych věnoval žertvu, nebyla by ti milá.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Mou obětí, Bože, je zkroušený duch,
+
+m: b\breve \bar "||"
+t: * zkroušeným a pokorným srdcem, Bože, nepohrdneš.
+
+%% use: responsum
+

@@ -1,0 +1,77 @@
+%% occasion: 'O Panně Marii'
+%% responsum_reference: 'Srov. Ž 113 (112),2'
+%% verse_reference: 'Ž 113 (112)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Buď veleben Hospodin nyní i na věky!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Chvalte, Hospodinovi služebníci,
+
+m: b\breve \bar "||"
+t: * chvalte jméno Hospodinovo!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Buď velebeno Hospodinovo jméno
+
+m: b\breve \bar "||"
+t: * nyní i na věky!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Od východu slunce až na jeho západ
+
+m: b\breve \bar "||"
+t: * buď chváleno Hospodinovo jméno!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Povznesen je Hospodin nade všechny národy,
+
+m: b\breve \bar "||"
+t: * nad nebesa jeho sláva.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kdo je jako Hospodin, náš Bůh, + který trůní na výsosti
+
+m: b\breve \bar "||"
+t: * a shlíží dolů na nebe i na zem?
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Slabého zdvihá z prachu,
+
+m: b\breve \bar "||"
+t: * ze smetiště povyšuje chudého,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: aby ho posadil vedle knížat,
+
+m: b\breve \bar "||"
+t: * vedle knížat svého lidu.
+
+%% use: responsum
+

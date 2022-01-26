@@ -1,0 +1,68 @@
+%% occasion: '(9. neděle v mezidobí C - viz OL145)'
+%% occasion: '10. neděle v mezidobí A'
+%% responsum_reference: 'Ž 50 (49),23b'
+%% verse_reference: 'Ž 50 (49)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Kdo žije správně, tomu ukážu Boží spásu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Svrchovaný Bůh, Hospodin, promluvil a volal zem
+
+m: b\breve \bar "||"
+t: * od východu slunce až na západ.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: „Nekárám tě pro tvé oběti,
+
+m: b\breve \bar "||"
+t: * vždyť tvé žertvy jsou stále přede mnou.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kdybych měl hlad, nebudu ti o tom říkat,
+
+m: b\breve \bar "||"
+t: * vždyť můj je svět se vším, co ho plní!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Copak požívám maso z býků
+
+m: b\breve \bar "||"
+t: * či piji kozlí krev?
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Přinášej Bohu oběť chvály
+
+m: b\breve \bar "||"
+t: * a plň Nejvyššímu své sliby!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pak mě vzývej ve dni soužení,
+
+m: b\breve \bar "||"
+t: * vysvobodím tě, a budeš mě chválit.“
+
+%% use: responsum
+

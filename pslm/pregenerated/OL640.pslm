@@ -1,0 +1,85 @@
+%% occasion: 'Čtvrtek 13. týdne 2'
+%% responsum_reference: 'Ž 19 (18),10b'
+%% verse_reference: 'Ž 19 (18)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodinovy výroky jsou pravdivé, všechny jsou spravedlivé.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodinův zákon je dokonalý,
+
+m: b\breve \bar "||"
+t: * občerstvuje duši,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodinův příkaz je spolehlivý,
+
+m: b\breve \bar "||"
+t: * nezkušenému dává moudrost.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodinovy předpisy jsou správné,
+
+m: b\breve \bar "||"
+t: * působí radost srdci,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodinův rozkaz je jasný,
+
+m: b\breve \bar "||"
+t: * osvětluje oči.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bázeň před Hospodinem je upřímná,
+
+m: b\breve \bar "||"
+t: * trvá na věky,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodinovy výroky jsou pravdivé,
+
+m: b\breve \bar "||"
+t: * všechny jsou spravedlivé.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Dražší jsou nad zlato,
+
+m: b\breve \bar "||"
+t: * nad hojnost zlata ryzího,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: sladší jsou nad med,
+
+m: b\breve \bar "||"
+t: * nad šťávu z plástů.
+
+%% use: responsum
+

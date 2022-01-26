@@ -1,0 +1,54 @@
+%% occasion: 'Pátek po 5. neděli velikonoční'
+%% responsum_reference: 'Ž 57 (56),10a'
+%% verse_reference: 'Ž 57 (56)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Budu tě chválit mezi národy, Pane!
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Plné důvěry je mé srdce, Bože, (+)
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Probuď se, má duše,(+) probuď se, citero a harfo,
+
+m: b\breve \bar "||"
+t: * chci vzbudit jitřenku.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Budu tě chválit mezi národy, Pane,
+
+m: b\breve \bar "||"
+t: * budu tě oslavovat mezi pohany,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: protože tvá milost je veliká až k nebi,
+
+m: b\breve \bar "||"
+t: * tvá věrnost až do oblak.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ukaž se ve své vznešenosti na nebesích, Bože,
+
+m: b\breve \bar "||"
+t: * nad celou zemí nechť je tvá sláva!
+
+%% use: responsum
+

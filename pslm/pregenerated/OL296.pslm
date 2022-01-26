@@ -1,0 +1,75 @@
+%% occasion: 'Výročí posvěcení kostela (v době velikonoční)'
+%% responsum_reference: 'Ž 122 (121),1'
+%% verse_reference: 'Ž 122 (121)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Radostně půjdeme do domu Pánova.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zaradoval jsem se, když mi řekli:
+
+m: b\breve \bar "||"
+t: * „Do domu Hospodinova půjdeme!“
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Už stojí naše nohy
+
+m: b\breve \bar "||"
+t: * ve tvých branách, Jeruzaléme!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jeruzalém je vystavěn jako město,
+
+m: b\breve \bar "||"
+t: * spojené v jeden celek.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tam vystupují kmeny,
+
+m: b\breve \bar "||"
+t: * kmeny Hospodinovy,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: jak to zákon přikazuje Izraeli,
+
+m: b\breve \bar "||"
+t: * aby chválil Hospodinovo jméno.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kvůli svým bratřím a přátelům
+
+m: b\breve \bar "||"
+t: * budu říkat: Pokoj v tobě!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kvůli domu Hospodina, našeho Boha,
+
+m: b\breve \bar "||"
+t: * budu ti přát štěstí.
+
+%% use: responsum
+

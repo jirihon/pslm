@@ -1,0 +1,87 @@
+%% occasion: '(Sobota 14. týdne 2 - viz OL435)'
+%% occasion: '(Pondělí 15. týdne 2 - viz OL580)'
+%% occasion: 'Úterý 15. týdne 2'
+%% responsum_reference: 'Ž 48 (47),9d'
+%% verse_reference: 'Ž 48 (47)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Bůh dává věčné trvání svému městu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin je veliký, velmi je hodný chvály
+
+m: b\breve \bar "||"
+t: * v městě našeho Boha.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jeho svatá hora, ten slavný pahorek,
+
+m: b\breve \bar "||"
+t: * je radostí celé země.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hora Sión, to tajemné sídlo Boží,
+
+m: b\breve \bar "||"
+t: * je městem velikého krále.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bůh se ukázal v jejích pevnostech
+
+m: b\breve \bar "||"
+t: * jako jistá ochrana.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť hle, sešli se králové,
+
+m: b\breve \bar "||"
+t: * spolu učinili útok.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jen však se podívali, užasli,
+
+m: b\breve \bar "||"
+t: * ve zděšení prchli.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hrůza je tam zachvátila,
+
+m: b\breve \bar "||"
+t: * křeč jak ženu, která rodí,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: jako když východní vítr
+
+m: b\breve \bar "||"
+t: * rozbíjí taršíšské lodi.
+
+%% use: responsum
+

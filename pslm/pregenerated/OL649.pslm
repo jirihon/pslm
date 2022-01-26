@@ -1,0 +1,91 @@
+%% occasion: 'Čtvrtek 15. týdne 2'
+%% responsum_reference: 'Srov. Ž 102 (101),20b'
+%% verse_reference: 'Ž 102 (101)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodin popatřil z nebe na zem.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ty, Hospodine, trváš na věky
+
+m: b\breve \bar "||"
+t: * a tvé jméno po všechna pokolení.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Povstaň a smiluj se nad Siónem,
+
+m: b\breve \bar "||"
+t: * neboť je čas, aby ses nad ním slitoval.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vždyť tvoji služebníci milují jeho kameny,
+
+m: b\breve \bar "||"
+t: * litují jeho rozvalin.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pohané budou ctít tvé jméno, Hospodine,
+
+m: b\breve \bar "||"
+t: * a všichni králové země tvou slávu,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: až Hospodin znovu zbuduje Sión,
+
+m: b\breve \bar "||"
+t: * až se objeví ve své slávě.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Skloní se k modlitbě opuštěných
+
+m: b\breve \bar "||"
+t: * a nepohrdne jejich prosbou.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kéž je to zapsáno pro příští pokolení,
+
+m: b\breve \bar "||"
+t: * 
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť Hospodin shlédl ze své vznešené svatyně,
+
+m: b\breve \bar "||"
+t: * popatřil z nebe na zem,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: aby slyšel nářek zajatců,
+
+m: b\breve \bar "||"
+t: * aby vysvobodil odsouzené k smrti.
+
+%% use: responsum
+

@@ -1,0 +1,72 @@
+%% occasion: 'Sv. Josefa, dělníka (1. května)'
+%% responsum_reference: 'Ž 90 (89),17c'
+%% verse_reference: 'Ž 90 (89)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Pane, dej zdar práci našich rukou!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Dříve než se zrodily hory, (+) než povstala země a svět,
+
+m: b\breve \bar "||"
+t: * od věčnosti do věčnosti jsi ty, Bože!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Rozkazem vracíš, Bože, člověka v prach
+
+m: b\breve \bar "||"
+t: * a pravíš: (+) „Vraťte se, smrtelníci!“
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Neboť tisíc let je v tvých očích (+)
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nauč nás počítat naše dny,
+
+m: b\breve \bar "||"
+t: * ať dojdeme k moudrosti srdce.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Obrať se, Hospodine,(+) jak dlouho ještě budeš čekat?
+
+m: b\breve \bar "||"
+t: * Slituj se nad svými služebníky!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nasyť nás brzy svou slitovností,
+
+m: b\breve \bar "||"
+t: * ať jásáme a radujeme se po celý život!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nechť se ukáže tvým služebníkům tvoje dílo,
+
+m: b\breve \bar "||"
+t: * tvá sláva jejich synům.
+
+%% use: responsum
+

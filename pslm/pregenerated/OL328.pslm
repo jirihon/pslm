@@ -1,0 +1,65 @@
+%% occasion: 'Při svatbě (v době velikonoční)'
+%% responsum_reference: 'Ž 103 (102),17a'
+%% verse_reference: 'Ž 103 (102)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodinova láska od věků pro ty, kdo se ho bojí.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Veleb, má duše, Hospodina,
+
+m: b\breve \bar "||"
+t: * vše, co je ve mně, veleb jeho svaté jméno!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Veleb, má duše, Hospodina
+
+m: b\breve \bar "||"
+t: * a nezapomeň na žádné z jeho dobrodiní!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin je milosrdný a milostivý,
+
+m: b\breve \bar "||"
+t: * shovívavý a nadmíru dobrotivý.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jako se smilovává otec nad syny,
+
+m: b\breve \bar "||"
+t: * tak se smilovává
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodinova láska však od věků na věky
+
+m: b\breve \bar "||"
+t: * pro všechny, kdo se ho bojí.,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: a jeho spravedlnost jde z dětí na děti
+
+m: b\breve \bar "||"
+t: * pro ty, kteří zachovávají jeho smlouvu.
+
+%% use: responsum
+

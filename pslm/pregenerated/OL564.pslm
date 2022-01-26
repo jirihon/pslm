@@ -1,0 +1,68 @@
+%% occasion: '(Pátek 32. týdne 1 - viz OL547)'
+%% occasion: 'Sobota 32. týdne 1'
+%% responsum_reference: 'Ž 105 (104),5a'
+%% verse_reference: 'Ž 105 (104)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Pamatujte na divy, které učinil Hospodin.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zpívejte Hospodinu, hrejte mu,
+
+m: b\breve \bar "||"
+t: * vypravujte o všech jeho divech!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Honoste se jeho svatým jménem,
+
+m: b\breve \bar "||"
+t: * ze srdce ať se radují, kdo hledají Hospodina!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pobil všechny prvorozené v jejich zemi,
+
+m: b\breve \bar "||"
+t: * prvotiny veškeré jejich mužné síly.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Potom své vyvedl se stříbrem a zlatem,
+
+m: b\breve \bar "||"
+t: * nebylo nemocných v jejich kmenech.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pamatoval na své svaté slovo,
+
+m: b\breve \bar "||"
+t: * které dal Abrahámovi, svému služebníku.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: V radosti vyvedl svůj národ,
+
+m: b\breve \bar "||"
+t: * s jásotem své vyvolené.
+
+%% use: responsum
+

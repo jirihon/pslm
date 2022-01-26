@@ -1,0 +1,78 @@
+%% occasion: 'Zmrtvýchvstání Páně, vigilie (3. čtení)'
+%% responsum_reference: 'Ex 15,1a'
+%% verse_reference: 'Ex 15'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodinu chci zpívat, neboť je velmi vznešený.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Chci zpívat Hospodinu, neboť je velmi vznešený,
+
+m: b\breve \bar "||"
+t: * koně i jezdce svrhl do moře.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin je má síla, jej opěvuji, + stalse mou spásou.
+
+m: b\breve \bar "||"
+t: * On je můj Bůh, a já ho chválím, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin je hrdina ve válce,
+
+m: b\breve \bar "||"
+t: * jeho jméno je Hospodin.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Faraónovy vozy a jeho vojsko svrhl do moře,
+
+m: b\breve \bar "||"
+t: * výkvět jeho reků byl potopen v Rákosovém moři.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hlubiny je přikryly,
+
+m: b\breve \bar "||"
+t: * zřítili se do propasti jako kámen.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Tvá pravice, Hospodine,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Přivedeš a zasadíš svůj lid na hoře, na svém vlastnictví,
+
+m: b\breve \bar "||"
+t: * na místě, kde si, Hospodine, buduješ své sídlo,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: ve svatyni, Pane, kterou vystavěly tvé ruce.
+
+m: b\breve \bar "||"
+t: * Hospodin bude kralovat na věky a navždy.
+
+%% use: responsum
+

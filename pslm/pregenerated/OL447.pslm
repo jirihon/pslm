@@ -1,0 +1,57 @@
+%% occasion: 'Úterý 9. týdne 1'
+%% responsum_reference: 'Ž 112 (111),1a'
+%% verse_reference: 'Ž 112 (111)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Blaze muži, který se bojí Hospodina.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Blaze muži, který se bojí Hospodina,
+
+m: b\breve \bar "||"
+t: * který má velkou zálibu v jeho přikázáních.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Mocné bude na zemi jeho potomstvo,
+
+m: b\breve \bar "||"
+t: * pokolení řádných lidí bude požehnáno.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jeho srdce je pevné,
+
+m: b\breve \bar "||"
+t: * důvěřuje v Hospodina.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jeho srdce je zmužilé, nebojí se,
+
+m: b\breve \bar "||"
+t: * dokud neuzří své protivníky ve zmatku.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Rozděluje, dává chudým,
+
+m: b\breve \bar "||"
+t: * jeho štědrost potrvá navždy, +
+

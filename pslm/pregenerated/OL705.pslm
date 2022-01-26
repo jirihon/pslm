@@ -1,0 +1,31 @@
+%% occasion: 'Středa 27. týdne 2'
+%% responsum_reference: 'Mk 16,15'
+%% verse_reference: 'Ž 117 (116)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Jděte do celého světa a hlásejte evangelium.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Chvalte Hospodina, všichni lidé,
+
+m: b\breve \bar "||"
+t: * oslavujte ho, všechny národy.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť mocně vládne nad námi jeho milosrden
+
+m: b\breve \bar "||"
+t: * 
+

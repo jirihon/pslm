@@ -1,0 +1,66 @@
+%% occasion: 'Sobota 3. týdne 1'
+%% occasion: 'Čtvrtek 27. týdne 2'
+%% occasion: 'Pondělí 29. týdne 1'
+%% responsum_reference: 'Lk 1,68'
+%% verse_reference: 'Lk 1'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Pochválen buď Hospodin, Bůh Izraele, neboť navštívil svůj lid.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vzbudil nám mocného spasitele,
+
+m: b\breve \bar "||"
+t: * z rodu svého služebníka Davida,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: jak slíbil od pradávna
+
+m: b\breve \bar "||"
+t: * ústy svých svatých proroků.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zachránil nás od nepřátel,
+
+m: b\breve \bar "||"
+t: * z rukou všech, kdo nás nenávidí.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Slitoval se nad našimi otci,
+
+m: b\breve \bar "||"
+t: * rozpomenul se na svou svatou smlouvu.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Na přísahu, kterou se zavázal že nám dopřeje, abychom mu beze strachu +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: zbožně a spravedlivě sloužili
+
+m: b\breve \bar "||"
+t: * po všechny dny svého života.
+
+%% use: responsum
+

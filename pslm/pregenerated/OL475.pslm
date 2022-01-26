@@ -1,0 +1,67 @@
+%% occasion: 'Čtvrtek 14. týdne 1'
+%% responsum_reference: 'Ž 105 (104),5a'
+%% verse_reference: 'Ž 105 (104)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Pamatujte na divy, které učinil Hospodin.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin přivolal na zemi hlad,
+
+m: b\breve \bar "||"
+t: * zbavil je chleba.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Poslal před nimi muže,
+
+m: b\breve \bar "||"
+t: * Josef byl prodán za otroka.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Sevřeli pouty jeho nohy,
+
+m: b\breve \bar "||"
+t: * do želez jeho hrdlo,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: dokud se nesplnil jeho výrok,
+
+m: b\breve \bar "||"
+t: * Hospodinovo slovo jej ověřilo.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Král poslal, a osvobodil ho,
+
+m: b\breve \bar "||"
+t: * vládce národů ho propustil.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ustanovil ho pánem svého domu
+
+m: b\breve \bar "||"
+t: * a vládcem veškerého svého majetku.
+
+%% use: responsum
+

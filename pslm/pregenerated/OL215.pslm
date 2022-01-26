@@ -1,0 +1,78 @@
+%% occasion: '(14. neděle v mezidobí C - viz OL161-163)'
+%% occasion: '15. neděle v mezidobí A'
+%% responsum_reference: 'Lk 8,8 . R'
+%% verse_reference: 'Ž 65 (64)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Semeno padlo na dobrou půdu a přineslo užitek.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: V milosti jsi navštívil zem a napojils ji,
+
+m: b\breve \bar "||"
+t: * velmi jsi ji obohatil.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Boží strouhou se hrne voda,
+
+m: b\breve \bar "||"
+t: * lidem nachystals obilí.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Takto jsi zemi připravil:
+
+m: b\breve \bar "||"
+t: * zavlažils její brázdy, + rozmělnils její hroudy,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: zkypřils ji dešti,
+
+m: b\breve \bar "||"
+t: * požehnals tomu, co vyrašilo.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Rok jsi korunoval svou dobrotou,
+
+m: b\breve \bar "||"
+t: * kudy jsi prošel, prýští hojnost.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pastviny na stepi mokvají vláhou,
+
+m: b\breve \bar "||"
+t: * pahorky se ovíjejí radostí.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nivy se odívají stády,
+
+m: b\breve \bar "||"
+t: * údolí se přikrývají obilím: + ozývají se jásotem azpěvem.
+
+%% use: responsum
+

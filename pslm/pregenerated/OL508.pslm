@@ -1,0 +1,69 @@
+%% occasion: '(Úterý 20. týdne 1 - viz OL454)'
+%% occasion: 'Středa 20. týdne 1'
+%% occasion: 'Sobota 1. týdne 2'
+%% responsum_reference: 'Ž 21 (20),2a'
+%% verse_reference: 'Ž 21 (20)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodine, z tvé síly se raduje král.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodine, z tvé síly se raduje král,
+
+m: b\breve \bar "||"
+t: * jak velice jásá nad tvou pomocí!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Splnil jsi mu, po čem v srdci toužil,
+
+m: b\breve \bar "||"
+t: * neodepřels, co jeho rty žádaly.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť jsi mu vyšel vstříc s hojným požehnáním,
+
+m: b\breve \bar "||"
+t: * vsadils mu na hlavu korunu z ryzího zlata.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Žádal od tebe život:
+
+m: b\breve \bar "||"
+t: * dopřáls mu dlouhá léta na věčné časy.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Veliká je sláva jeho, protožes mu pomohl,
+
+m: b\breve \bar "||"
+t: * ozdobils ho ctí a vznešeností.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Učinils ho věčným požehnáním,
+
+m: b\breve \bar "||"
+t: * oblažils ho radostí před tvou tváří.
+
+%% use: responsum
+

@@ -1,0 +1,73 @@
+%% occasion: '(29. neděle v mezidobí B - viz OL78)'
+%% occasion: '29. neděle v mezidobí C'
+%% responsum_reference: 'Srov Ž 121 R Q (120),2'
+%% verse_reference: 'Ž 121 (120)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Pomoc nám přijde od Hospodina, který učinil nebe i zemi.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Zvedám své oči k horám. Odkud mi přijde pomoc?
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pomoc mi přijde od Hospodina,
+
+m: b\breve \bar "||"
+t: * který učinil nebe i zemi.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nedá zakolísat tvé noze,
+
+m: b\breve \bar "||"
+t: * nebude dřímat tvůj strážce.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin tě střeží,
+
+m: b\breve \bar "||"
+t: * Hospodin je tvým ochráncem po tvé pravici.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Za dne ti slunce neublíží,
+
+m: b\breve \bar "||"
+t: * ani měsíc v noci.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin tě bude střežit ode všeho zlého,
+
+m: b\breve \bar "||"
+t: * střežit bude tvou duši.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin bude střežit tvůj odchod i příchod
+
+m: b\breve \bar "||"
+t: * nyní i na věky.
+
+%% use: responsum
+

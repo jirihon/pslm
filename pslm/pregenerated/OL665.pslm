@@ -1,0 +1,62 @@
+%% occasion: 'Sobota 18. týdne 2'
+%% responsum_reference: 'Ž 9,11b'
+%% verse_reference: 'Ž 9'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Neopouštíš, Hospodine, ty, kteří tě hledají.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin trůní věčně,
+
+m: b\breve \bar "||"
+t: * stolec svůj postavil k soudu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Podle práva bude svět soudit,
+
+m: b\breve \bar "||"
+t: * podle spravedlnosti vyřkne rozsudek nad národy.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin bude utlačovanému útočištěm,
+
+m: b\breve \bar "||"
+t: * útulkem v dobách tísně.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Budou v tebe důvěřovat, protože neopouštíš, Hospodine,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zpívejte Hospodinu, který sídlí na Siónu,
+
+m: b\breve \bar "||"
+t: * rozhlašujte jeho činy mezi národy,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: vždyť si na ně vzpomněl jako krevní mstitel,
+
+m: b\breve \bar "||"
+t: * nezapomněl na výkřiky ubožáků.
+
+%% use: responsum
+

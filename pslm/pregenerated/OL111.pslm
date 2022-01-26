@@ -1,0 +1,85 @@
+%% occasion: 'Květná neděle'
+%% responsum_reference: 'Ž 22 (21),2a'
+%% verse_reference: 'Ž 22 (21)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Bože můj, Bože můj, proč jsi mne opustil?
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Posmívají se mi všichni, kdo mě vidí,
+
+m: b\breve \bar "||"
+t: * šklebí rty, pokyvují hlavou:
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: „Spoléhal na Hospodina, ať ho vysvobodí,
+
+m: b\breve \bar "||"
+t: * ať ho zachrání, máli ho rád!“
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Obkličuje mě smečka psů,
+
+m: b\breve \bar "||"
+t: * tlupa zlosynů mě svírá.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Probodli mi ruce i nohy,
+
+m: b\breve \bar "||"
+t: * spočítat mohu všechny své kosti.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Dělí se o můj oděv,
+
+m: b\breve \bar "||"
+t: * losují o můj šat.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ty však, Hospodine, nestůj daleko,
+
+m: b\breve \bar "||"
+t: * má sílo, pospěš mi na pomoc!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Budu vyprávět svým bratřím o tvém jménu,
+
+m: b\breve \bar "||"
+t: * uprostřed shromáždění budu tě chválit.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: „Kdo se bojíte Hospodina, chvalte ho,
+
+m: b\breve \bar "||"
+t: * slavte ho, všichni z Jakubova potomstva.“
+
+%% use: responsum
+

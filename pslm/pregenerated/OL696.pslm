@@ -1,0 +1,49 @@
+%% occasion: 'Pátek 25. týdne 2'
+%% responsum_reference: 'Ž 144 (143),1a'
+%% verse_reference: 'Ž 144 (143)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Veleben buď Hospodin, má Skála!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Veleben buď Hospodin, má Skála,
+
+m: b\breve \bar "||"
+t: * on je mé milosrdenství, mé útočiště,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: má pevnost a můj zachránce,
+
+m: b\breve \bar "||"
+t: * můj štít a můj útulek.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodine, co je člověk, že se o něho staráš,
+
+m: b\breve \bar "||"
+t: * co je smrtelník, že na něho myslíš?
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Člověk se podobá vánku,
+
+m: b\breve \bar "||"
+t: * jeho dny stínu, který přechází.
+
+%% use: responsum
+

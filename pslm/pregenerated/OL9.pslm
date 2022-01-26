@@ -1,0 +1,91 @@
+%% occasion: 'Čtvrtek po 1. neděli adventní'
+%% responsum_reference: 'Ž 118 (117),1'
+%% verse_reference: 'Ž 118 (117)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Děkujte Hospodinu, neboť je dobrý, jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Oslavujte Hospodina, neboť je dobrý,
+
+m: b\breve \bar "||"
+t: * jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Lépe je utíkat se k Hospodinu,
+
+m: b\breve \bar "||"
+t: * než důvěřovat v člověka.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Lépe je utíkat se k Hospodinu,
+
+m: b\breve \bar "||"
+t: * než důvěřovat v mocné.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Otevřete mně brány spravedlnosti,
+
+m: b\breve \bar "||"
+t: * vejdu jimi, abych vzdal díky Hospodinu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Toto je Hospodinova brána,
+
+m: b\breve \bar "||"
+t: * jí procházejí spravedliví.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Děkuji ti, žes mě vyslyšel
+
+m: b\breve \bar "||"
+t: * a stal se mou spásou.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodine, dej spásu,
+
+m: b\breve \bar "||"
+t: * Hospodine, popřej zdaru!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Požehnaný, kdo přichází
+
+m: b\breve \bar "||"
+t: * v Hospodinově jménu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Žehnáme vám z Hospodinova domu.
+
+m: b\breve \bar "||"
+t: * Bůh je Hospodin a dopřál nám světlo.
+
+%% use: responsum
+

@@ -1,0 +1,64 @@
+%% occasion: 'Středa 10. týdne 2'
+%% responsum_reference: 'Ž 16 (15),1 S R'
+%% verse_reference: 'Ž 16 (15)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Ochraň mě, Bože, neboť se k tobě utíkám.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ochraň mě, Bože, neboť se k tobě utíkám.
+
+m: b\breve \bar "||"
+t: * Pravím Hospodinu: „Ty jsi můj Pán.“
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Rozmnožují si útrapy,
+
+m: b\breve \bar "||"
+t: * kdo se drží cizích bohů;
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: nepřidružím svou úlitbu k jejich úlitbám krve,
+
+m: b\breve \bar "||"
+t: * přes mé rty nepřejde ani jejich jméno.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Ty jsi, Hospodine,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodina mám neustále na zřeteli,
+
+m: b\breve \bar "||"
+t: * nezakolísám, když je mi po pravici.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ukážeš mi cestu k životu,
+
+m: b\breve \bar "||"
+t: * u tebe je hojná radost, +
+

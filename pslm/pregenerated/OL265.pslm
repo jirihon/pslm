@@ -1,0 +1,75 @@
+%% occasion: 'Sv. Jana Nepomuckého (16. května)'
+%% responsum_reference: 'Ž 69 (68),14c'
+%% verse_reference: 'Ž 69 (68)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Vyslyš mě, Bože, ve své veliké lásce!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Více než mám vlasů na hlavě,
+
+m: b\breve \bar "||"
+t: * je těch, kteří mě bez důvodu nenávidí,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: silnější než mé kosti
+
+m: b\breve \bar "||"
+t: * jsou ti, kteří mě stíhají bez příčiny.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nechť nejsou kvůli mně zklamáni,
+
+m: b\breve \bar "||"
+t: * kdo doufají v tebe, Pane,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: nechť kvůli mně nejsou zbaveni naděje,
+
+m: b\breve \bar "||"
+t: * kdo hledají Tebe, Bože Izraele!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vždyť pro tebe jsem snášel potupu,
+
+m: b\breve \bar "||"
+t: * pohana pokryla mou tvář.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vysvoboď mě od těch, kteří nenávidí,
+
+m: b\breve \bar "||"
+t: * vytáhni mě z hluboké vody!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Písní budu slavit Boží jm éno,
+
+m: b\breve \bar "||"
+t: * velebit je budu zpěvem chvály.
+
+%% use: responsum
+

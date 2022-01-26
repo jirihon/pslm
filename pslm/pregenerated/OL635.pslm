@@ -1,0 +1,73 @@
+%% occasion: 'Středa 12. týdne 2'
+%% responsum_reference: 'Ž 119 (118),12b'
+%% verse_reference: 'Ž 119 (118)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Nauč mě, Hospodine, svým příkazům!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ukaž mi, Hospodine, cestu svých příkazů,
+
+m: b\breve \bar "||"
+t: * a budu ji věrně zachovávat.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pouč mě, ať zachovám tvůj zákon
+
+m: b\breve \bar "||"
+t: * a chráním ho celým svým srdcem.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Voď mě po stezce svých předpisů,
+
+m: b\breve \bar "||"
+t: * neboť v ní mám zalíbení.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nakloň mé srdce k svým přikázáním,
+
+m: b\breve \bar "||"
+t: * nikoli však k nespravedlivému zisku.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Odvrať mé oči, ať nevidí marnost,
+
+m: b\breve \bar "||"
+t: * dej mi život na své cestě!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hle, toužím po tvých nařízeních,
+
+m: b\breve \bar "||"
+t: * dej mi život pro svou spravedlnost!
+
+%% use: responsum
+

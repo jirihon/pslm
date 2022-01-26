@@ -1,0 +1,72 @@
+%% occasion: 'Sobota 9. týdne 1'
+%% responsum_reference: 'Tob 13,1b'
+%% verse_reference: 'Tob 13 (zkráceno)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Veliký jsi, Hospodine, na věky.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Požehnaný Bůh věčně živý + i jeho k.rálovství,
+
+m: b\breve \bar "||"
+t: * protože on trestá a se smilovává,
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: svrhuje do podsvětí +
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Když se k němu obrátíte
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: on se k vám obrátí
+
+m: b\breve \bar "||"
+t: * a už před vámi neskryje svoji tvář.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: nyní pohleďte na to, co vám učinil,
+
+m: b\breve \bar "||"
+t: * a zplna jej oslavujte svými ústy.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Velebte spravedlivého Pána
+
+m: b\breve \bar "||"
+t: * a ctěte věčného krále!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Já se z celé duše raduji z krále nebes,
+
+m: b\breve \bar "||"
+t: * moje duše se bude radovat (+)
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Všichni vyvolení, velebte Pána, + po všechny dny svého života.
+

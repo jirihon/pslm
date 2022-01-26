@@ -1,0 +1,73 @@
+%% occasion: 'Sobota 26. týdne 2'
+%% responsum_reference: 'Ž 119 (118),135a'
+%% verse_reference: 'Ž 119 (118)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Jasnou tvář ukaž svému služebníku, Hospodine!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nauč mě moudrosti a vědění,
+
+m: b\breve \bar "||"
+t: * neboť důvěřuji tvým předpisům.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Dobře mi, že jsem byl pokořen,
+
+m: b\breve \bar "||"
+t: * abych se naučil tvým příkazům.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vím, Hospodine, že spravedlivá jsou tvá rozhodnutí,
+
+m: b\breve \bar "||"
+t: * že jsi mě pokořil podle práva.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Podle tvých rozhodnutí země trvá stále,
+
+m: b\breve \bar "||"
+t: * neboť všechno ti slouží.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jsem tvůj služebník, pouč mě,
+
+m: b\breve \bar "||"
+t: * abych poznal tvá přikázání.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Výklad tvých slov osvěcuje,
+
+m: b\breve \bar "||"
+t: * poučuje prosté lidi.
+
+%% use: responsum
+

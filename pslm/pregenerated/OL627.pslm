@@ -1,0 +1,57 @@
+%% occasion: 'Pondělí 11. týdne 2'
+%% responsum_reference: 'Ž 5,2b .'
+%% verse_reference: 'Ž 5'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodine, všimni si mého volání!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodine, slyš moje slova,
+
+m: b\breve \bar "||"
+t: * všimni si mého nářku!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Naslouchej mé hlasité prosbě,
+
+m: b\breve \bar "||"
+t: * můj králi a můj Bože!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ty nejsi Bůh, kterému by se líbila nepravost,
+
+m: b\breve \bar "||"
+t: * zlý u tebe prodlévat nesmí +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nenávidíš každého zločince,
+
+m: b\breve \bar "||"
+t: * hubíš všecky lháře.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Od vraha a podvodníka
+
+m: b\breve \bar "||"
+t: * se odvrací Hospodin s odporem.
+
+%% use: responsum
+

@@ -1,0 +1,67 @@
+%% occasion: 'Svaté Rodiny C (pokud se čte čtení z 1 Sam 1,20-28)'
+%% responsum_reference: 'Srov. Ž 84 (83),5'
+%% verse_reference: 'Ž 84 (83)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Šťastní jsou, Pane, kdo přebývají ve tvém svatém chrámě.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jak je milý tvůj příbytek, Hospodine zástupů!
+
+m: b\breve \bar "||"
+t: * Touží, ba prahne má duše
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: mé srdce i mé tělo
+
+m: b\breve \bar "||"
+t: * s jásotem tíhnou k živému Bohu.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Blaze těm, kdo přebývají ve tvém domě,
+
+m: b\breve \bar "||"
+t: * stále tě mohou chválit.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Blaze člověku, jenž u tebe nalézá pomoc,
+
+m: b\breve \bar "||"
+t: * když se chystá na svatou pouť.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodine, Bože zástupů, slyš moji modlitbu,
+
+m: b\breve \bar "||"
+t: * popřej sluchu, Bože Jakubův!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Štíte náš, Bože, pohleď,
+
+m: b\breve \bar "||"
+t: * popatř na tvář svého pomazaného!
+
+%% use: responsum
+

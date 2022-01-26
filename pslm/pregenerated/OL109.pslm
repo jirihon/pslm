@@ -1,0 +1,77 @@
+%% occasion: 'Pátek po 5. neděli postní'
+%% responsum_reference: 'Ž 18 (17),2'
+%% verse_reference: 'Ž 18 (17)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Miluji tě, Hospodine, má sílo!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Miluji tě, Hospodine, má sílo,
+
+m: b\breve \bar "||"
+t: * Hospodine, má skálo, mé útočiště, zachránce můj!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Můj Bože, má skálo, na niž se utíkám,
+
+m: b\breve \bar "||"
+t: * můj štíte, rohu mé spásy, ochrano má!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Budu vzývat Hospodina, jemuž náleží chvála,
+
+m: b\breve \bar "||"
+t: * a od svých nepřátel budu vysvobozen.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Obklopil mě smrtící příboj,
+
+m: b\breve \bar "||"
+t: * přepadly mě záhubné přívaly,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: ovinula mě osidla podsvětí,
+
+m: b\breve \bar "||"
+t: * ohrozily mě léčky smrti.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ve své tísni jsem vzýval Hospodina,
+
+m: b\breve \bar "||"
+t: * k svému Bohu jsem volal o pomoc:
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ze své svatyně slyšel můj hlas,
+
+m: b\breve \bar "||"
+t: * mé volání proniklo k jeho sluchu.
+
+%% use: responsum
+

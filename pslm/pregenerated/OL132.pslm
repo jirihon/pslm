@@ -1,0 +1,91 @@
+%% occasion: '2. neděle velikonoční B'
+%% responsum_reference: 'Ž 118 (117),1'
+%% verse_reference: 'Ž 118 (117)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Děkujte Hospodinu, neboť je dobrý, jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nechť řekne dům Izraelův:
+
+m: b\breve \bar "||"
+t: * „Jeho milosrdenství trvá na věky.“
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nechť řekne dům Árónův:
+
+m: b\breve \bar "||"
+t: * „Jeho milosrdenství trvá na věky.“
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nechť řeknou ti, kdo se bojí Hospodina:
+
+m: b\breve \bar "||"
+t: * „Jeho milosrdenství trvá na věky.“
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodinova pravice mocně zasáhla,
+
+m: b\breve \bar "||"
+t: * Hospodinova pravice mě pozvedla.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nezemřu, ale budu žít
+
+m: b\breve \bar "||"
+t: * a vypravovat o Hospodinových činech.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin mě sice těžce ztrestal,
+
+m: b\breve \bar "||"
+t: * nevydal mě však smrti.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kámen, který stavitelé zavrhli,
+
+m: b\breve \bar "||"
+t: * stal se kvádrem nárožním.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodinovým řízením se tak stalo,
+
+m: b\breve \bar "||"
+t: * je to podivuhodné v našich očích.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Toto je den, který učinil Hospodin,
+
+m: b\breve \bar "||"
+t: * jásejme a radujme se z něho!
+
+%% use: responsum
+

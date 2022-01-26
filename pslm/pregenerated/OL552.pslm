@@ -1,0 +1,77 @@
+%% occasion: '(Pondělí 29. týdne 1 - viz OL416)'
+%% occasion: '(Úterý 29. týdne 1 - viz OL409)'
+%% occasion: '(Středa 29. týdne 1 - viz OL477)'
+%% occasion: '(Čtvrtek 29. týdne 1 - viz OL438)'
+%% occasion: 'Pátek 29. týdne 1'
+%% responsum_reference: 'Ž 119 (118),12b'
+%% verse_reference: 'Ž 119 (118)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Nauč mě, Hospodine, svým příkazům!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nauč mě moudrosti a vědění,
+
+m: b\breve \bar "||"
+t: * neboť důvěřuji tvým předpisům.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jsi dobrotivý a prokazuješ dobrodiní,
+
+m: b\breve \bar "||"
+t: * nauč mě svým příkazům.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať je mi útěchou tvé milosrdenství,
+
+m: b\breve \bar "||"
+t: * jak jsi slíbil svému služebníku.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať se mi dostane tvého slitování, abych byl živ,
+
+m: b\breve \bar "||"
+t: * neboť tvůj zákon je mé potěšení.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Na věky nezapomenu na tvá nařízení,
+
+m: b\breve \bar "||"
+t: * vždyť skrze ně jsi mi dal život.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jsem tvůj, zachraň mě,
+
+m: b\breve \bar "||"
+t: * neboť jsem hledal tvá nařízení.
+
+%% use: responsum
+

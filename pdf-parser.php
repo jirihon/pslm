@@ -14,13 +14,13 @@ define('PSLM_LINE_MARGIN', 5);
 define('PSLM_ASTERISK_LINE_MARGIN', 10);
 define('PSLM_WORD_MARGIN', 2);
 
-
+/* // Really want to override?
 $psalm_lines = pslm_pdf_to_psalm_lines('db/nedelni_zaltar.xml.gz', 'r');
 pslm_save_psalm_lines($psalm_lines, 'db/nedelni_zaltar.yml');
 
 $psalm_lines = pslm_pdf_to_psalm_lines('db/vsedni_zaltar.xml.gz', 'r');
 pslm_save_psalm_lines($psalm_lines, 'db/vsedni_zaltar.yml');
-
+*/
 
 function pslm_save_psalm_lines($psalm_lines, $filename) {
     file_put_contents($filename, Yaml::dump($psalm_lines));

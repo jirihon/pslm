@@ -1,0 +1,62 @@
+%% occasion: 'Sobota 8. týdne 2'
+%% responsum_reference: 'Ž 63 (62),2b'
+%% verse_reference: 'Ž 63 (62)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Má duše po tobě žízní, Hospodine, Bože můj!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bože, ty jsi můj Bůh,
+
+m: b\breve \bar "||"
+t: * snažně tě hld.ám,
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: má duše po tobě žízní, (+)
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tak toužím spatřit tě ve svatyni,
+
+m: b\breve \bar "||"
+t: * abych viděl tvou moc a slávu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vždyť tvá milost je lepší než život,
+
+m: b\breve \bar "||"
+t: * mé rty tě budou chválit.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tak tě budu velebit ve svém životě,
+
+m: b\breve \bar "||"
+t: * v tvém jménu povznesu své dlaně k modlitbě.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Má duše se bude sytit jak tukem a morkem,
+
+m: b\breve \bar "||"
+t: * plesajícími rty zajásají ústa.
+
+%% use: responsum
+

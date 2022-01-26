@@ -1,0 +1,67 @@
+%% occasion: 'Při biřmování'
+%% responsum_reference: 'Ž 22 (21),26a'
+%% verse_reference: 'Ž 22 (21)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Budu tě chválit, Hospodine, ve velkém shromáždění.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Budu vyprávět svým bratřím o tvém jménu,
+
+m: b\breve \bar "||"
+t: * uprostřed shromáždění budu tě chválit.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: quot;Kdo se bojíte Hospodina, chvalte ho, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pro něj ho budu chválit ve velkém shromážděn,
+
+m: b\breve \bar "||"
+t: * své sliby splním před těmi, kdo ho ctí.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Chudí se najedí do sytosti,
+
+m: b\breve \bar "||"
+t: * ho chválit: + „Na věky ať žije vaše srce!“
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Rozpomenou se a k Hospodinu
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Mé potomstvo bude mu sloužit.
+
+m: b\breve \bar "||"
+t: * Bude vyprávět o Pánu příštímu pokolení,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: lidu, jenž se narodí, budou hlásat jeho spravedlnost:
+
+m: b\breve \bar "||"
+t: * „To učinil Hospodin!“
+
+%% use: responsum
+

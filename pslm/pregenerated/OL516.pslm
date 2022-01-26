@@ -1,0 +1,85 @@
+%% occasion: 'Pondělí 22. týdne 1'
+%% responsum_reference: 'Ž 96 (95),13ab'
+%% verse_reference: 'Ž 96 (95)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodin přichází řídit zemi.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zpívejte Hospodinu novou píseň,
+
+m: b\breve \bar "||"
+t: * zpívejte Hospodinu, všechny země!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vypravujte mezi pohany o jeho slávě,
+
+m: b\breve \bar "||"
+t: * mezi všemi národy o jeho divech.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť Hospodin je veliký a velmi hodný chvály,
+
+m: b\breve \bar "||"
+t: * je třeba se ho bát více nežli všech bohů.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť všichni bohové pohanů jsou výmysly,
+
+m: b\breve \bar "||"
+t: * Hospodin však stvořil nebe.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Radujte se, nebesa, zajásej, země,
+
+m: b\breve \bar "||"
+t: * zahuč, moře a vše, co je naplňuje;
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: zaplesej, pole a vše, co je na něm.
+
+m: b\breve \bar "||"
+t: * Tehdy se rozveselí všechny lesní stromy.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Před Hospodinem, že přichází,
+
+m: b\breve \bar "||"
+t: * že přichází řídit zemi.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bude řídit svět spravedlivě,
+
+m: b\breve \bar "||"
+t: * národy bude spravovat věrně.
+
+%% use: responsum
+

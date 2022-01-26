@@ -1,0 +1,68 @@
+%% occasion: '(Sobota 29. týdne 1 - viz OL414)'
+%% occasion: 'Pondělí 30. týdne 1'
+%% responsum_reference: 'Ž 68 (67),21a'
+%% verse_reference: 'Ž 68 (67)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Náš Bůh je Bohem spásy.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bůh povstává, jeho nepřátelé se rozptylují,
+
+m: b\breve \bar "||"
+t: * ti, kdo ho nenávidí, prchají před ním.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Spravedliví se však radují, jásají před Bohem
+
+m: b\breve \bar "||"
+t: * a veselí se v radosti.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Otec sirotků, ochránce vdov
+
+m: b\breve \bar "||"
+t: * je Bůh ve svém svatém příbytku.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bůh zjednává opuštěným domov,
+
+m: b\breve \bar "||"
+t: * vězně vyvádí k šťastnému životu.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať je Pán žehnán každý den,
+
+m: b\breve \bar "||"
+t: * nosí naše břemena, Bůh, naše spása.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Náš Bůh je Bohem spásy,
+
+m: b\breve \bar "||"
+t: * Hospodin, Bůh, dává smrti uniknout.
+
+%% use: responsum
+

@@ -1,0 +1,69 @@
+%% occasion: '7. neděle velikonoční A'
+%% responsum_reference: 'Ž 27 (26),13'
+%% verse_reference: '1. 2.'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Věřím, že uvidím blaho od Hospodina v zemi živých!
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: 2.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin je záštita mého života,
+
+m: b\breve \bar "||"
+t: * před kým bych se třásl?
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jedno od Hospodina žádám
+
+m: b\breve \bar "||"
+t: * a po tom toužím:
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: abych směl přebývat v Hospodinově domě po všechny dny svého života,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: abych požíval Hospodinovy něhy
+
+m: b\breve \bar "||"
+t: * a patřil na jeho chrám.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Slyš, Hospodine, můj hlas, jak volám,
+
+m: b\breve \bar "||"
+t: * smiluj se nade mnou, vyslyš mě!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Mé srdce k tobě mluví,
+
+m: b\breve \bar "||"
+t: * má tvář tě hledá.
+
+%% use: responsum
+

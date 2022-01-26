@@ -1,0 +1,85 @@
+%% occasion: 'Středa 15. týdne 2'
+%% responsum_reference: 'Ž 94 (93),14a'
+%% verse_reference: 'Ž 94 (93)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Nezavrhne Hospodin svůj národ.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodine, šlapou po tvém lidu
+
+m: b\breve \bar "||"
+t: * a tvé dědictví trýzní.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vdovy a přistěhovalce vraždí,
+
+m: b\breve \bar "||"
+t: * sirotky zabíjejí.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Říkají: „Hospodin nevidí,
+
+m: b\breve \bar "||"
+t: * nevšímá si toho Bůh Jakubův.“
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Dejte pozor, pošetilci z lidu,
+
+m: b\breve \bar "||"
+t: * nerozumní, kdy dostanete rozum?
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Že by neslyšel, kdo vsadil ucho?
+
+m: b\breve \bar "||"
+t: * Že by neviděl, kdo utvořil oko?
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Že by nepotrestal, kdo vychovává národy,
+
+m: b\breve \bar "||"
+t: * kdo učí lid moudrosti?
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť nezavrhne Hospodin svůj národ
+
+m: b\breve \bar "||"
+t: * a své dědictví neopustí.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ale ke spravedlnosti se vrátí právo,
+
+m: b\breve \bar "||"
+t: * následovat ji budou všichni upřímného srdce.
+
+%% use: responsum
+

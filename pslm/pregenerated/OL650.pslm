@@ -1,0 +1,56 @@
+%% occasion: 'Pátek 15. týdne 2'
+%% responsum_reference: 'Iz 38,17b'
+%% verse_reference: 'Iz 38'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Ty, Hospodine, jsi zachránil mou duši, aby nezhynula.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Řekl jsem: „Uprostřed svého života mám odejít,
+
+m: b\breve \bar "||"
+t: * u bran podsvětí mám postrádat zbytek svých let.“
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Řekl jsem: (+) nemám už hledět na nikoho
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Můj příbytek je stržen, je ode mě odnesen
+
+m: b\breve \bar "||"
+t: * jako stan pastýřů.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bůh svinul jako tkadlec můj život,
+
+m: b\breve \bar "||"
+t: * odřízl mě od osnovy.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pane, v tebe doufá mé srdce;
+
+m: b\breve \bar "||"
+t: * ať ožije můj duch. + Uzdrav mě a oživ!“
+
+%% use: responsum
+

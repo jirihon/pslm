@@ -1,0 +1,72 @@
+%% occasion: 'Úterý 9. týdne 2'
+%% responsum_reference: 'Ž 90 (89),1'
+%% verse_reference: 'PůvodnQí tónina F dur.'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Pane, tys nám býval útočištěm od pokolení do pokolení.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Dříve než se zrodily hory, (+) než povstala země a svět,
+
+m: b\breve \bar "||"
+t: * od věčnosti do věčnosti jsi ty, Bože!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Rozkazem vracíš, Bože, člověka v prach
+
+m: b\breve \bar "||"
+t: * a pravíš: (+) „Vraťte se, smrtelníci!“
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Neboť tisíc let je v tvých očích (+)
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Našich let bývá úhrnem sedmdesát,
+
+m: b\breve \bar "||"
+t: * u toho, kdo je při síle, osmdesát.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Většina jich je lopota a trýzeň,
+
+m: b\breve \bar "||"
+t: * neboť rychle pomíjejí, a my odlétáme.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nasyť nás brzy svou slitovností,
+
+m: b\breve \bar "||"
+t: * ať jásáme a radujeme se po celý život!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nechť se ukáže tvým služebníkům tvoje dílo,
+
+m: b\breve \bar "||"
+t: * tvá sláva jejich synům.
+
+%% use: responsum
+

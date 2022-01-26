@@ -5,9 +5,14 @@ upload.sh
 .vscode
 html/css/sizes.css
 html/[0-9]*.html
+html/OL[0-9]*.html
 html/index.html
 html/mp3
 ly/*
 midi/*
 svg/*
 cache/*
+db/*.xml
+db/*.gz
+db/*_zaltar.yml
+pslm/*.pdf

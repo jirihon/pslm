@@ -1,0 +1,91 @@
+%% occasion: 'Středa Svatého týdne'
+%% responsum_reference: 'Ž 69 (68),14c'
+%% verse_reference: 'Ž 69 (68)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Vyslyš mě, Hospodine, ve své veliké lásce!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pro tebe, Bože, jsem snášel potupu,
+
+m: b\breve \bar "||"
+t: * pohana pokryla mou tvář.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Svým bratrům stal jsem se cizincem,
+
+m: b\breve \bar "||"
+t: * synům své matky neznámým.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť mě stravuje horlivost pro tvůj dům,
+
+m: b\breve \bar "||"
+t: * padají na mě urážky těch, kdo tě urážejí.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Potupa zlomila mé srdce, a proto chřadnu,
+
+m: b\breve \bar "||"
+t: * čekal jsem, že někdo bude mít soucit, (+)
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: čekal jsem, kdo by mě potěšil,
+
+m: b\breve \bar "||"
+t: * ale nikoho jsem nenašel.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Žluč mi dali do pokrmu
+
+m: b\breve \bar "||"
+t: * a v žízni mě napojili octem.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Písní budu slavit Boží jméno,
+
+m: b\breve \bar "||"
+t: * velebit je budu zpěvem chvály.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Uvědomte si to, ubožáci, a radujte se;
+
+m: b\breve \bar "||"
+t: * pookřejte v srdci vy, kdo hledáte Boha!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť Hospodin slyší chudáky,
+
+m: b\breve \bar "||"
+t: * nepohrdá svými vězni.
+
+%% use: responsum
+

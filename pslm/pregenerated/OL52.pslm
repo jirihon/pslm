@@ -1,0 +1,67 @@
+%% occasion: '2. neděle po Narození Páně'
+%% responsum_reference: 'Jan 1,14'
+%% verse_reference: 'Ž 147'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Slovo se stalo tělem a přebývalo mezi námi.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jeruzaléme, oslavuj Hospodina,
+
+m: b\breve \bar "||"
+t: * chval svého Boha, Sióne,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: že zpevnil závory tvých bran,
+
+m: b\breve \bar "||"
+t: * požehnal tvým synům v tobě.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zjednal tvému území pokoj
+
+m: b\breve \bar "||"
+t: * a sytí tě jadrnou pšenicí.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Sesílá svůj rozkaz na zemi,
+
+m: b\breve \bar "||"
+t: * rychle běží jeho slovo.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Oznámil své slovo Jakubovi,
+
+m: b\breve \bar "||"
+t: * své zákony a přikázání Izraeli.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tak nejednal se žádným národem:
+
+m: b\breve \bar "||"
+t: * nesdělil jim svá přikázání.
+
+%% use: responsum
+

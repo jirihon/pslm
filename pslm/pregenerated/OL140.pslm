@@ -1,0 +1,59 @@
+%% occasion: '3. neděle velikonoční B'
+%% responsum_reference: 'Ž 4,7b'
+%% verse_reference: 'Ž 4'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodine, ukaž nám svou jasnou tvář!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bože, zastánce mého práva,
+
+m: b\breve \bar "||"
+t: * vyslechni mě, když volám,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: tys mě v soužení vysvobodil,
+
+m: b\breve \bar "||"
+t: * smiluj se nade mnou a slyš mou prsbu!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pamatujte: Hospodin vyznamenává svého svatého;
+
+m: b\breve \bar "||"
+t: * Hospodin vyslyší, když k němu zavolám.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Mnoho lidí říká: „Kdo nám ukáže dobro?“
+
+m: b\breve \bar "||"
+t: * Hospodine, ukaž nám svou jasnou tvář!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Usínám klidně, sotva si lehnu,
+
+m: b\breve \bar "||"
+t: * vždyť ty sám, Hospodine,
+

@@ -1,0 +1,67 @@
+%% occasion: 'Čtvrtek 33. týdne 2'
+%% responsum_reference: 'Zj 5,10'
+%% verse_reference: 'Ž 149'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Vytvořil jsi z nás našemu Bohu království a kněze.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zpívejte Hospodinu novou píseň,
+
+m: b\breve \bar "||"
+t: * jeho chvála ať zaznívá ve sboru svatých.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať se raduje Izrael ze svého tvůrce,
+
+m: b\breve \bar "||"
+t: * synové Siónu ať jásají nad svým králem.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať chválí jeho jméno tancem,
+
+m: b\breve \bar "||"
+t: * ať mu hrají na buben a na citeru,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: neboť Hospodin miluje svůj národ
+
+m: b\breve \bar "||"
+t: * a pokorné zdobí vítězstvím.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať svatí jásají chvalozpěvem,
+
+m: b\breve \bar "||"
+t: * ať se veselí na svých ložích.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Boží chválu ať mají v hrdlech.
+
+m: b\breve \bar "||"
+t: * Všem jeho svatým bude to ke cti.
+
+%% use: responsum
+

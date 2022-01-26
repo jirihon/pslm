@@ -1,0 +1,85 @@
+%% occasion: 'Pondělí 10. týdne 1'
+%% responsum_reference: 'Ž 34 (33),9a . R'
+%% verse_reference: 'Ž 34 (33)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Okuste a vizte, jak je Hospodin dobrý.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ustavičně chci velebit Hospodina,
+
+m: b\breve \bar "||"
+t: * vždy bude v mých ústech jeho chvála.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: V Hospodinu nechť se chlubí moje duše,
+
+m: b\breve \bar "||"
+t: * ať to slyší pokorní a radují se.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Velebte se mnou Hospodina,
+
+m: b\breve \bar "||"
+t: * oslavujme spolu jeho jméno!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hledal jsem Hospodina a vyslyšel mě,
+
+m: b\breve \bar "||"
+t: * vysvobodil mě ze všech mých obav.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pohleďte k němu, ať se rozveselíte,
+
+m: b\breve \bar "||"
+t: * vaše tvář se nemusí zardívat han
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hle, ubožák zavolal, a Hospodin slyšel,
+
+m: b\breve \bar "||"
+t: * pomohl mu ve všech jeho strastech.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jak ochránce se utábořil Hospodinův anděl
+
+m: b\breve \bar "||"
+t: * kolem těch, kdo Hospodina ctí, a vysvobodil je.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Okuste a vizte, jak je Hospodin dobrý,
+
+m: b\breve \bar "||"
+t: * blaze člověku, který se k němu utíká.
+
+%% use: responsum
+

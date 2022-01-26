@@ -1,0 +1,57 @@
+%% occasion: 'Úterý 13. týdne 2'
+%% responsum_reference: 'Ž 5,9a'
+%% verse_reference: 'Ž 5'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Veď mě ve své spravedlnosti, Hospodine!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ty nejsi Bůh, kterému by se líbila nepravost,
+
+m: b\breve \bar "||"
+t: * zlý u tebe prodlévat nesmí +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nenávidíš každého zločince,
+
+m: b\breve \bar "||"
+t: * hubíš všecky lháře.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Od vraha a podvodníka
+
+m: b\breve \bar "||"
+t: * se odvrací Hospodin s odporem.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Já však pro tvou velikou milost
+
+m: b\breve \bar "||"
+t: * smím vstoupit do tvého domu,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: padnu na tvář před tvým svatým chrámem
+
+m: b\breve \bar "||"
+t: * v bázni před tebou, Hospodine!
+
+%% use: responsum
+

@@ -1,0 +1,72 @@
+%% occasion: 'Úterý 22. týdne 1'
+%% responsum_reference: 'Ž 27 (26),13'
+%% verse_reference: '1. 2.'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Věřím, že uvidím blaho od Hospodina v zemi živých!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin je mé světlo a má spása,
+
+m: b\breve \bar "||"
+t: * koho bych se bál?
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin je záštita mého života,
+
+m: b\breve \bar "||"
+t: * před kým bych se třásl?
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jedno od Hospodina žádám
+
+m: b\breve \bar "||"
+t: * a po tom toužím:
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: abych směl přebývat v Hospodinově domě po všechny dny svého života,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: abych požíval Hospodinovy něhy
+
+m: b\breve \bar "||"
+t: * a patřil na jeho chrám.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Věřím, že uvidím blaho od Hospodina
+
+m: b\breve \bar "||"
+t: * v zemi živých!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Důvěřuj v Hospodina, buď silný,
+
+m: b\breve \bar "||"
+t: * ať se vzmuží tvé srdce, doufej v Hospodina!
+
+%% use: responsum
+

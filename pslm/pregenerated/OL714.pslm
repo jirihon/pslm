@@ -1,0 +1,59 @@
+%% occasion: '(Pátek 29. týdne 2 - viz OL414)'
+%% occasion: 'Sobota 29. týdne 2'
+%% occasion: 'Pátek 31. týdne 2'
+%% responsum_reference: 'Srov. Ž 122 . (121),1'
+%% verse_reference: 'Ž 122 (121)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Do domu Hospodinova s radostí půjdeme.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zaradoval jsem se, když mi řekli:
+
+m: b\breve \bar "||"
+t: * „Do domu Hospodinova půjdem !“
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Už stojí naše nohy
+
+m: b\breve \bar "||"
+t: * ve tvých branách, Jeruzaléme!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tam vystupují kmeny,
+
+m: b\breve \bar "||"
+t: * kmeny Hospodinovy,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: jak to zákon přikazuje Izraeli,
+
+m: b\breve \bar "||"
+t: * aby chválil Hospodinovo jméno.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tam stojí soudní stolce,
+
+m: b\breve \bar "||"
+t: * stolce Davidova domu.
+
+%% use: responsum
+

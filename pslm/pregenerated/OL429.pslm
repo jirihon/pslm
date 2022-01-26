@@ -1,0 +1,62 @@
+%% occasion: 'Pondělí 6. týdne 1'
+%% responsum_reference: 'Ž 50 (49),23b'
+%% verse_reference: 'Ž 50 (49)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Kdo žije správně, tomu ukážu Boží spásu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Svrchovaný Bůh, Hospodin, promluvil a volal zem
+
+m: b\breve \bar "||"
+t: * od východu slunce až na západ.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: „Nekárám tě pro tvé oběti,
+
+m: b\breve \bar "||"
+t: * vždyť tvé žertvy jsou stále přede mnou.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Proč odříkáváš má přikázání
+
+m: b\breve \bar "||"
+t: * a bereš do úst mou smlouvu
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: ty, který nenávidíš kázeň
+
+m: b\breve \bar "||"
+t: * a má slova házíš za sebe?
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bavil ses pomlouváním svého bratra,
+
+m: b\breve \bar "||"
+t: * tupil jsi syna své matky.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Takto jsi jednal, a já mám mlčet? +
+

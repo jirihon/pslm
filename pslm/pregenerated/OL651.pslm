@@ -1,0 +1,85 @@
+%% occasion: 'Sobota 15. týdne 2'
+%% responsum_reference: 'Ž 10 (9),12b'
+%% verse_reference: 'Ž 10 (9)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Nezapomínej na chudáky, Hospodine!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodine, proč jsi tak vzdálen,
+
+m: b\breve \bar "||"
+t: * proč se skrýváš v dobách tísně?
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bezbožník zpupně pronásleduje ubožáka,
+
+m: b\breve \bar "||"
+t: * chytí ho do nástrah, které si přichystal.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vždyť hříšník se chlubí svou náruživostí,
+
+m: b\breve \bar "||"
+t: * rouhá se chamtivec, pohrdá Hospodinem.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Namlouvá si bezbožník ve své opovážlivosti:
+
+m: b\breve \bar "||"
+t: * „On nepotrestá! Bůh není!“
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jeho ústa jsou plná kletby, lsti a úkladu,
+
+m: b\breve \bar "||"
+t: * pod jeho jazykem jen útrapa a hoře.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Sedí na číhané poblíž osad,
+
+m: b\breve \bar "||"
+t: * zabíjí nevinného ve skrytu.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ty však vidíš; ty sleduješ žal i útrapy,
+
+m: b\breve \bar "||"
+t: * abys je vzal do svých rukou.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Na tebe se ubožák spoléhá,
+
+m: b\breve \bar "||"
+t: * sirotkovi tys pomocníkem.
+
+%% use: responsum
+

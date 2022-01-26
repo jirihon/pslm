@@ -1,0 +1,75 @@
+%% occasion: '18. a 23. neděle v mezidobí C'
+%% responsum_reference: 'Ž 90 (89),1'
+%% verse_reference: 'PůvodnQí tónina F dur.'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Pane, tys nám býval útočištěm od pokolení do pokolení.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Rozkazem vracíš, Bože, člověka v prach
+
+m: b\breve \bar "||"
+t: * a pravíš: (+) „Vraťte se, smrtelníci!“
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Neboť tisíc let je v tvých očích (+)
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Uchvacuješ je, (+) jsou jako ranní sen,
+
+m: b\breve \bar "||"
+t: * podobají se pučící trávě:
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zrána kvete a bují,
+
+m: b\breve \bar "||"
+t: * večer je skosena a vadne.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nauč nás počítat naše dny,
+
+m: b\breve \bar "||"
+t: * ať dojdeme k moudrosti srdce.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Obrať se, Hospodine, (+) jak dlouho ještě budeš čekat?
+
+m: b\breve \bar "||"
+t: * Slituj se nad svými služebníky!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nasyť nás brzy svou slitovností,
+
+m: b\breve \bar "||"
+t: * ať jásáme a radujeme se po celý život!
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Ať je nad námi dobrotivost Pána, našeho Boha, +
+

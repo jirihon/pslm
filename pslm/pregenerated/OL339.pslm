@@ -1,0 +1,62 @@
+%% occasion: 'Za zemřelé / Při pohřbu'
+%% responsum_reference: 'Ž 116 (114),9'
+%% verse_reference: 'Ž 116 (114, 115)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Budu kráčet před Hospodinem v zemi živých.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin je milostivý a spravedlivý,
+
+m: b\breve \bar "||"
+t: * Bůh náš je milosrdný.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin chrání prosté lidi;
+
+m: b\breve \bar "||"
+t: * pomohl mi, když jsem byl v bídě.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Měl jsem důvěru, i když jsem si řekl:
+
+m: b\breve \bar "||"
+t: * „Jsem tak sklíčen!“
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pravil jsem ve svém rozrušení:
+
+m: b\breve \bar "||"
+t: * Každý člověk klame!“
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Drahocenná je v Hospodinových očích
+
+m: b\breve \bar "||"
+t: * smrt jeho zbožných.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Ach, Hospodine, jsem tvůj služebník, +
+

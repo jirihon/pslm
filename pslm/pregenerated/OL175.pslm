@@ -1,0 +1,46 @@
+%% occasion: '(Čtvrtek po 7. neděli velikonoční - viz OL125)'
+%% occasion: '(Pátek po 7. neděli velikonoční - viz OL170)'
+%% occasion: 'Sobota po 7. neděli velikonoční'
+%% responsum_reference: 'Ž 11 (10),7b'
+%% verse_reference: 'Ž 11 (10)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Zbožní uzří tvou tvář, Hospodine.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin sídlí ve svém posvátném chrámě,
+
+m: b\breve \bar "||"
+t: * na nebesích má Hospodin, svůj trůn,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: jeho oči pozorují,
+
+m: b\breve \bar "||"
+t: * smrtelníky zkoumá jeho zrak.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin zkouší spravedlivého i bezbožníka,
+
+m: b\breve \bar "||"
+t: * milujeli kdo bezpráví, toho z duše nenávidí.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Vždyť Hospodin je spravedlivý, +
+

@@ -1,0 +1,67 @@
+%% occasion: '18. neděle v mezidobí B'
+%% responsum_reference: 'Ž 78 (77),24b'
+%% verse_reference: 'Ž 78 (77)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Nebeský pokrm dal jim Hospodin.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Co jsme slyšeli a poznali,
+
+m: b\breve \bar "||"
+t: * co nám otcové vyprávěli,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: příštímu pokolení budeme vypravovat
+
+m: b\breve \bar "||"
+t: * slavné Hospodinovy činy i jeho moc.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Poručil mrakům nahoře
+
+m: b\breve \bar "||"
+t: * a otevřel brány nebes,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: seslal na ně déšť many, aby se najedli,
+
+m: b\breve \bar "||"
+t: * a dal jim nebeský pokrm.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Člověk jedl chléb silných,
+
+m: b\breve \bar "||"
+t: * pokrm jim poslal do sytosti.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Přivedl je do své svaté země,
+
+m: b\breve \bar "||"
+t: * k horám, které získala jeho pravice.
+
+%% use: responsum
+

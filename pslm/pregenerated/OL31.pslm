@@ -1,0 +1,64 @@
+%% occasion: 'Předvánoční týden (18. prosince)'
+%% responsum_reference: 'Ž 72 (71),7'
+%% verse_reference: 'Ž 72 (71)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: V jeho dnech rozkvete spravedlnost a hojnost pokoje na věky.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bože, svěř králi svou pravomoc,
+
+m: b\breve \bar "||"
+t: * svou spravedlnost královskému synu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať vládne tvému lidu spravedlivě,
+
+m: b\breve \bar "||"
+t: * nestranně tvým ubohým.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: On vysvobodí chudáka,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Smiluje se nad nuzným a chudým,
+
+m: b\breve \bar "||"
+t: * zachrání ubožákům život.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Požehnaný Hospodin, Bůh Izraele,
+
+m: b\breve \bar "||"
+t: * on sám koná divy.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: požehnané jeho slavné jméno na věky,
+
+m: b\breve \bar "||"
+t: * jeho slávou ať je naplněna celá země!
+
+%% use: responsum
+

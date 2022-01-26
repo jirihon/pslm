@@ -1,0 +1,64 @@
+%% occasion: 'Sobota po 3. neděli velikonoční'
+%% responsum_reference: 'Ž 116 (115),13'
+%% verse_reference: 'Ž 116 (115)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Vezmu kalich spásy a budu vzývat jméno Hospodinovo.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Čím se odplatím Hospodinu
+
+m: b\breve \bar "||"
+t: * za všechno, co mi prokázal?
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vezmu kalich spásy
+
+m: b\breve \bar "||"
+t: * a budu vzývat jméno Hospodinovo.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Splním své sliby Hospodinu
+
+m: b\breve \bar "||"
+t: * před veškerým jeho lidem.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Drahocenná je v Hospodinových očích
+
+m: b\breve \bar "||"
+t: * smrt jeho zbožných.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Ach Hospodine, jsem tvůj služebník, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Přinesu ti oběť díků, Hospodine,
+
+m: b\breve \bar "||"
+t: * a budu vzývat tvé jméno.
+
+%% use: responsum
+

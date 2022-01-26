@@ -1,0 +1,83 @@
+%% occasion: 'Při biřmování (i v době velikonoční)'
+%% responsum_reference: 'Srov. Ž 104 (103),30'
+%% verse_reference: 'Ž 104 (103)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Sešli svého ducha, Hospodine, a obnovíš tvář země.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Veleb, má duše, Hospodina!
+
+m: b\breve \bar "||"
+t: * Hospodine, můj Bože, jsi nadmíru veliký!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jak četná jsou tvá díla, Hospodine!
+
+m: b\breve \bar "||"
+t: * Všechno jsi moudře učinil, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Všichni čekají od tebe,
+
+m: b\breve \bar "||"
+t: * že jim dáš obživu v pravý čas.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ty jim dáváš, a oni sbírají,
+
+m: b\breve \bar "||"
+t: * otvíráš ruku, a sytí se dobrými dary.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Když sešleš svého ducha, jsou stvořeni,
+
+m: b\breve \bar "||"
+t: * a obnovuješ tvář země.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nechť věčně trvá Hospodinova sláva,
+
+m: b\breve \bar "||"
+t: * ať se Hospodin těší ze svého díla!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Chci zpívat Hospodinu, pokud žiji,
+
+m: b\breve \bar "||"
+t: * opěvovat chci svého Boha, dokud budu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kéž se mu líbí má píseň:
+
+m: b\breve \bar "||"
+t: * má radost bude v Hospodinu.
+
+%% use: responsum
+

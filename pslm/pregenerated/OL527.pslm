@@ -1,0 +1,44 @@
+%% occasion: 'Pondělí 24. týdne 1'
+%% responsum_reference: 'Ž 28 (27),6'
+%% verse_reference: 'Ž 28 (27)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Požehnán buď Hospodin, že vyslyšel mou úpěnlivou prosbu!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Slyš mou úpěnlivou prosbu, když k tobě volám ,
+
+m: b\breve \bar "||"
+t: * když vztahuji své ruce
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Hospodin je má síla a můj štít, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin je silou svého lidu,
+
+m: b\breve \bar "||"
+t: * záštitou spásy svému pomazanému.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zachraň svůj lid a žehnej svému dědictví,
+
+m: b\breve \bar "||"
+t: * pas je a nes je až na věky!
+
+%% use: responsum
+

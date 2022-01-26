@@ -1,0 +1,67 @@
+%% occasion: 'Pondělí 31. týdne 1'
+%% responsum_reference: 'Ž 69 (68),14c'
+%% verse_reference: 'Ž 69 (68)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Vyslyš mě, Hospodine, ve své veliké lásce!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jsem ubohý a plný bolesti,
+
+m: b\breve \bar "||"
+t: * ať mě ochrání, Bože, tvá pomoc.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Písní budu slavit Boží jméno,
+
+m: b\breve \bar "||"
+t: * velebit je budu zpěvem chvály.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Uvědomte si to, ubožáci, a radujte se;
+
+m: b\breve \bar "||"
+t: * pookřejte v srdci vy, kdo hledáte Boha!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť Hospodin slyší chudáky,
+
+m: b\breve \bar "||"
+t: * nepohrdá svými vězni.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť Bůh pomůže Siónu a vystaví judská města:
+
+m: b\breve \bar "||"
+t: * budou tam bydlet a obsadí je.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zdědí je potomci jeho služebníků,
+
+m: b\breve \bar "||"
+t: * budou tam sídlit, kdo milují jeho jméno.
+
+%% use: responsum
+

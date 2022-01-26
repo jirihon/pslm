@@ -1,0 +1,31 @@
+%% occasion: 'Středa 22. týdne 1'
+%% responsum_reference: 'Ž 52 (51),10b'
+%% verse_reference: 'Ž 52 (51)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Stále spoléhám na Boží slitovnost.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jsem jako zelená oliva v Božím domě,
+
+m: b\breve \bar "||"
+t: * stále se spoléhám na Boží slitovnost.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ustavičně tě chci chválit, že jsi to učinil,
+
+m: b\breve \bar "||"
+t: * před tvými svatými chci slavit
+

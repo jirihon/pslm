@@ -1,0 +1,67 @@
+%% occasion: 'Pátek 2. týdne 1'
+%% responsum_reference: 'Ž 85 (84),8a'
+%% verse_reference: 'Ž 85 (84)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Pane, ukaž nám své milosrdenství!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ukaž nám, Hospodine, své milosrdenství
+
+m: b\breve \bar "||"
+t: * a dej nám svou spásu!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jistě je blízko jeho spása těm, kteří se ho bojí,
+
+m: b\breve \bar "||"
+t: * aby sídlila jeho velebnost v naší zemi.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Milosrdenství a věrnost se potkají,
+
+m: b\breve \bar "||"
+t: * spravedlnost a pokoj se políbí.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Věrnost vypučí ze země,
+
+m: b\breve \bar "||"
+t: * spravedlnost shlédne z nebe.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin též popřeje dobro
+
+m: b\breve \bar "||"
+t: * a naše země vydá plody.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Spravedlnost bude ho předcházet
+
+m: b\breve \bar "||"
+t: * a spása mu půjde v patách.
+
+%% use: responsum
+

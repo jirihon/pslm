@@ -1,0 +1,68 @@
+%% occasion: '(7. neděle v mezidobí C - viz OL197-198)'
+%% occasion: '8. neděle v mezidobí A'
+%% responsum_reference: 'Ž 62 (61),6a'
+%% verse_reference: 'Ž 62 (61)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: V Bohu jen odpočívej, duše má.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jen v Bohu odpočívá má duše,
+
+m: b\breve \bar "||"
+t: * od něho je má spása.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jen on je má skála a spása,
+
+m: b\breve \bar "||"
+t: * má tvrz, nic mnou nepohne.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jen v Bohu odpočívej, má duše,
+
+m: b\breve \bar "||"
+t: * od něho pochází to, v co doufám.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jen on je má skála a spása,
+
+m: b\breve \bar "||"
+t: * má tvrz, nepohnu se!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: U Boha je má spása a sláva,
+
+m: b\breve \bar "||"
+t: * má pevná skála: mé útočiště je v Bohu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Lidé, doufejte v něho v každé době,
+
+m: b\breve \bar "||"
+t: * před ním vylejte své srdce.
+
+%% use: responsum
+

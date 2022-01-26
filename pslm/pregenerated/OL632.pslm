@@ -1,0 +1,82 @@
+%% occasion: 'Sobota 11. týdne 2'
+%% responsum_reference: 'Ž 89 (88),2a'
+%% verse_reference: 'Ž 89 (88)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Na věky chci zpívat o Hospodinových milostech.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Smlouvu jsem sjednal se svým vyvoleným, přísahal jsem Davidovi, svému služebníku:
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tvůj rod zajistím na věky
+
+m: b\breve \bar "||"
+t: * a tvůj trůn zbuduji na všechna pokolení.“
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: „Na věky mu zachovám svou milost,
+
+m: b\breve \bar "||"
+t: * má smlouva s ním platit nepřestane.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Dám věčné trvání jeho rodu,
+
+m: b\breve \bar "||"
+t: * jeho trůn bude jako věk nebes.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jestliže jeho synové opustí můj zákon
+
+m: b\breve \bar "||"
+t: * a nebudou jednat podle mých příkazů,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: jestliže poskvrní má ustanovení
+
+m: b\breve \bar "||"
+t: * a nezachovají má přikázání:
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Potrestám metlou jejich nepravost
+
+m: b\breve \bar "||"
+t: * a ranami jejich provinění.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Svou milost mu však neodejmu
+
+m: b\breve \bar "||"
+t: * a svou věrnost neporuším.“
+
+%% use: responsum
+

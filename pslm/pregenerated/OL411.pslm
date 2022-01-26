@@ -1,0 +1,67 @@
+%% occasion: 'Sobota 2. týdne 1'
+%% responsum_reference: 'Ž 47 (46),6'
+%% verse_reference: 'Ž 47 (46)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Bůh se vznáší za jásotu, Hospodin vystupuje za hlaholu polnice.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Všechny národy, tleskejte rukama,
+
+m: b\breve \bar "||"
+t: * jásejte Bohu radostným hlasem,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: protože Hospodin je vznešený, hrozný,
+
+m: b\breve \bar "||"
+t: * je to veliký král nad celou zemí.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bůh se vznáší za jásotu,
+
+m: b\breve \bar "||"
+t: * Hospodin vystupuje za hlaholu polnice.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zpívejte Bohu, zpívejte,
+
+m: b\breve \bar "||"
+t: * zpívejte našemu králi, zpívejte!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Protože Bůh je králem celého světa,
+
+m: b\breve \bar "||"
+t: * zpívejte mu chvalozpěv!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bůh vládne národů ,
+
+m: b\breve \bar "||"
+t: * Bůh zasedá na svém svatém trůnu.
+
+%% use: responsum
+

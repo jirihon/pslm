@@ -1,0 +1,69 @@
+%% occasion: '(Středa 12. týdne 1 - viz OL403)'
+%% occasion: 'Čtvrtek 12. týdne 1'
+%% occasion: 'Pátek 13. týdne 1'
+%% responsum_reference: 'Ž 107 (106),1'
+%% verse_reference: 'Ž 106 (105)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Oslavujte Hospodina, neboť na věky trvá jeho milosrdenství.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Oslavujte Hospodina, neboť je dobrý,
+
+m: b\breve \bar "||"
+t: * jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kdo vylíčí mocné Hospodinovy činy,
+
+m: b\breve \bar "||"
+t: * kdo vypoví všechnu jeho slávu?
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Blaze těm, kteří dbají práva,
+
+m: b\breve \bar "||"
+t: * spravedlivě jednají v každé době.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pamatuj na mě, Hospodine,
+
+m: b\breve \bar "||"
+t: * pro náklonnost k svému lidu.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ujmi se mě a pomoz mi,
+
+m: b\breve \bar "||"
+t: * abych se těšil ze štěstí tvých vyvolených,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: abych se radoval z radosti tvého lidu,
+
+m: b\breve \bar "||"
+t: * abych se chlubil spolu s tvým dědictvím.
+
+%% use: responsum
+

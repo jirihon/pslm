@@ -1,0 +1,67 @@
+%% occasion: 'Pátek 28. týdne 2'
+%% responsum_reference: 'Ž 33 (32),12b'
+%% verse_reference: 'Ž 33 (32)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Blaze lidu, který si Hospodin vyvolil za svůj majetek.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Radujte se, spravedliví, z Hospodina,
+
+m: b\breve \bar "||"
+t: * sluší se, aby ho dobří chválili.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Citerou oslavujte Hospodina,
+
+m: b\breve \bar "||"
+t: * hrajte mu na desetistrunné harfě.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť Hospodinovo slovo je správné,
+
+m: b\breve \bar "||"
+t: * spolehlivé je celé jeho dílo.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Miluje spravedlnost a právo,
+
+m: b\breve \bar "||"
+t: * země je plná Hospodinovy milosti.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Blaze národu, jehož Bohem je Hospodin,
+
+m: b\breve \bar "||"
+t: * blaze lidu, který si vyvolil za svůj majetek.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Z nebe shlíží Hospodin,
+
+m: b\breve \bar "||"
+t: * vidí všechny smrtelníky.
+
+%% use: responsum
+

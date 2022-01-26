@@ -1,0 +1,101 @@
+%% occasion: 'Při řeholních slibech (i v době velikonoční)'
+%% responsum_reference: 'Ž 33 (32),12b'
+%% verse_reference: 'Ž 33 (32)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Blaze lidu, který si Hospodin vyvolil za svůj majetek.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Citerou oslavujte Hospodina,
+
+m: b\breve \bar "||"
+t: * hrajte mu na desetistrunné harfě.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zpívejte mu novou píseň,
+
+m: b\breve \bar "||"
+t: * dovedně sáhněte do strun, (+)
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť Hospodinovo slovo je správné,
+
+m: b\breve \bar "||"
+t: * spolehlivé je celé jeho dílo.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Miluje spravedlnost a právo,
+
+m: b\breve \bar "||"
+t: * země je plná Hospodinovy milosti.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodinův úmysl trvá na věky,
+
+m: b\breve \bar "||"
+t: * myšlenky jeho srdce po všechna pokolení.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Blaze národu, jehož Bohem je Hospodin,
+
+m: b\breve \bar "||"
+t: * blaze lidu, který si vyvolil za svůj majetek.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Z nebe shlíží Hospodin,
+
+m: b\breve \bar "||"
+t: * vidí všechny smrtelníky.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Z místa, kde sídlí, dívá se
+
+m: b\breve \bar "||"
+t: * na všechny obyvatele země.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodinovo oko bdí nad těmi, kdo se ho bojí,
+
+m: b\breve \bar "||"
+t: * nad těmi, kdo doufají v jeho milost,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: aby jejich duše vyrval ze smrti,
+
+m: b\breve \bar "||"
+t: * aby jim život zachoval za hladu.
+
+%% use: responsum
+

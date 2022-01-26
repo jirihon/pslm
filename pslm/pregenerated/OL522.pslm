@@ -1,0 +1,41 @@
+%% occasion: 'Pondělí 23. týdne 1'
+%% responsum_reference: 'Ž 62 (61),6a'
+%% verse_reference: 'Ž 62 (61)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: V Bohu jen odpočívej, duše má.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jen v Bohu odpočívá má duše,
+
+m: b\breve \bar "||"
+t: * od něho pochází to, v co doufám.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jen on je má skála a spása,
+
+m: b\breve \bar "||"
+t: * má tvrz, nepohnu se!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Lidé, doufejte v něho v každé době,
+
+m: b\breve \bar "||"
+t: * před ním vylejte své srdce, + Bůh je naše útočiště!
+
+%% use: responsum
+

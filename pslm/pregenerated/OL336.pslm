@@ -1,0 +1,85 @@
+%% occasion: 'Při svěcení oltáře (v době velikonoční)'
+%% responsum_reference: 'Ž 118 (117),1'
+%% verse_reference: 'Ž 118 (117)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Děkujte Hospodinu, neboť je dobrý, jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jásot ze spásy
+
+m: b\breve \bar "||"
+t: * zní ve stanech spravedlivých.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodinova pravice mocně zasáhla,
+
+m: b\breve \bar "||"
+t: * Hospodinova pravice mě pozvedla.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Otevřete mně brány spravedlnosti,
+
+m: b\breve \bar "||"
+t: * vejdu jimi, abych vzdal díky Hospodinu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Toto je Hospodinova brána,
+
+m: b\breve \bar "||"
+t: * jí procházejí spravedliví.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kámen, který stavitelé zavrhli,
+
+m: b\breve \bar "||"
+t: * stal se kvádrem nárožním.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodinovým řízením se tak stalo,
+
+m: b\breve \bar "||"
+t: * je to podivuhodné v našich očích.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bůh je Hospodin
+
+m: b\breve \bar "||"
+t: * a dopřál nám světlo.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Seřaďte průvod s hojnými ratolestmi
+
+m: b\breve \bar "||"
+t: * až k rohům oltáře!
+
+%% use: responsum
+

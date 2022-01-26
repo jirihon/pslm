@@ -1,0 +1,83 @@
+%% occasion: 'Pátek 17. týdne 2'
+%% responsum_reference: 'Ž 69 (68),14c'
+%% verse_reference: 'Ž 69 (68)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Vyslyš mě, Hospodine, ve své veliké lásce!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Více než mám vlasů na hlavě,
+
+m: b\breve \bar "||"
+t: * je těch, kteří mě bez důvodu nenávidí,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: silnější než mé kosti
+
+m: b\breve \bar "||"
+t: * jsou ti, kteří mě stíhají bez příčiny.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Co jsem neuloupil,
+
+m: b\breve \bar "||"
+t: * to mám vrátit?
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vždyť pro tebe jsem snášel potupu,
+
+m: b\breve \bar "||"
+t: * pohana pokryla mou tvář.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Svým bratrům stal jsem se cizincem,
+
+m: b\breve \bar "||"
+t: * synům své matky neznámým.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť mě stravuje horlivost pro tvůj dům,
+
+m: b\breve \bar "||"
+t: * padají na mě urážky těch, kdo tě urážejí.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Já se však, Hospodine, obracím modlitbou k tobě
+
+m: b\breve \bar "||"
+t: * v čas milosti, Bože!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vyslyš mě ve své veliké lásce,
+
+m: b\breve \bar "||"
+t: * věrně mi pomoz!
+
+%% use: responsum
+

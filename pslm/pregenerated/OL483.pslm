@@ -1,0 +1,60 @@
+%% occasion: 'Pondělí 16. týdne 1'
+%% responsum_reference: 'Ex 15,1a'
+%% verse_reference: 'Ex 15'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodinu chci zpívat, neboť je velmi vznešený.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Chci zpívat Hospodinu, neboť je velmi vznešený,
+
+m: b\breve \bar "||"
+t: * koně i jezdce svrhl do moře.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin je má síla, jej opěvuji, + stal se mou spásou.
+
+m: b\breve \bar "||"
+t: * On je můj Bůh, a já ho chválím, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin je hrdina ve válce,
+
+m: b\breve \bar "||"
+t: * jeho jméno je Hospodin.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Faraónovy vozy a jeho vojsko svrhl do moře,
+
+m: b\breve \bar "||"
+t: * výkvět jeho reků byl potopen v Rákosovém moři.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hlubiny je přikryly,
+
+m: b\breve \bar "||"
+t: * zřítili se do propasti jako kámen.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Tvá pravice, Hospodine,
+

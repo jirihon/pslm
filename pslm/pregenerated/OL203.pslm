@@ -1,0 +1,85 @@
+%% occasion: '9. neděle v mezidobí B'
+%% responsum_reference: 'Ž 81 (80),2a'
+%% verse_reference: 'PůvoQnQí tón.ina d moll.'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Plesejte Bohu, který nám pomáhá.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zanoťte píseň, udeřte v buben,
+
+m: b\breve \bar "||"
+t: * na líbezně zvučící citeru a harfu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zadujte do trub v den novoluní,
+
+m: b\breve \bar "||"
+t: * v den úplňku, v čas našeho svátku.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Takový je příkaz v Izraeli,
+
+m: b\breve \bar "||"
+t: * je to zákon Jakubova Boha.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nařízení, které dal Josefovi,
+
+m: b\breve \bar "||"
+t: * když se postavil proti egyptské zemi.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Slyšel jsem hlas mně neznámý:
+
+m: b\breve \bar "||"
+t: * „Zbavil jsem jeho šíji břemena,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: z jeho rukou jsem vzal koš robotníka.
+
+m: b\breve \bar "||"
+t: * V soužení jsi volal, a osvobodil jsem tě.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nesmíš mít boha jiného,
+
+m: b\breve \bar "||"
+t: * nesmíš se klanět bohu cizímu!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Já jsem Hospodin, tvůj Bůh,
+
+m: b\breve \bar "||"
+t: * já jsem tě vyvedl z egyptské země!
+
+%% use: responsum
+

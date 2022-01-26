@@ -1,0 +1,79 @@
+%% occasion: 'Velký pátek'
+%% responsum_reference: 'Lk 23,46'
+%% verse_reference: 'Ž 31 (30)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Otče, do tvých rukou poroučím ducha svého.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: tobě se utíkám, Hospodine, (+)
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Do tvých rukou svěřuji svého ducha,
+
+m: b\breve \bar "||"
+t: * Hospodine, věrný Bože, ty mě vysvobodíš.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Všichni nepřátelé mnou opovrhují, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vypadl jsem z paměti, jako bych byl mrtev,
+
+m: b\breve \bar "||"
+t: * podoben jsem rozbitému hrnci.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Já však, Hospodine, v tebe doufám,
+
+m: b\breve \bar "||"
+t: * říkám: Ty jsi můj Bůh!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Můj osud je ve tvé ruce,
+
+m: b\breve \bar "||"
+t: * vysvoboď mě z moci mých úhlavních nepřátel!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Svou jasnou tvář ukaž svému služebníku,
+
+m: b\breve \bar "||"
+t: * zachraň mě svou slitovností.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vzmužte se a buďte srdnatí,
+
+m: b\breve \bar "||"
+t: * všichni, kdo spoléháte na Hospodina.
+
+%% use: responsum
+

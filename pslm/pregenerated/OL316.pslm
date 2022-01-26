@@ -1,0 +1,93 @@
+%% occasion: 'Při křtu (v době velikonoční)'
+%% responsum_reference: 'Ž 27 (26),1a'
+%% verse_reference: 'Ž 27 (26)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodin je mé světlo a má spása.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: ospodin je mé světlo a má spása,
+
+m: b\breve \bar "||"
+t: * koho bych se bál?
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin je záštita mého života,
+
+m: b\breve \bar "||"
+t: * před kým bych se třásl?
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jedno od Hospodina žádám
+
+m: b\breve \bar "||"
+t: * a po tom toužím:
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: abych směl přebývat v Hospodinově domě
+
+m: b\breve \bar "||"
+t: * po všechny dny svého života,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: abych požíval Hospodinovy něhy
+
+m: b\breve \bar "||"
+t: * a patřil na jeho chrám.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodine, hledám tvou tvář.
+
+m: b\breve \bar "||"
+t: * Neskrývej svou tvář přede mnou,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: v hněvu neodmítej svého služebníka!
+
+m: b\breve \bar "||"
+t: * Tys má pomoc, nezavrhuj mě!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Věřím, že uvidím blaho od Hospodina
+
+m: b\breve \bar "||"
+t: * v zemi živých!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Důvěřuj v Hospodina, buď silný,
+
+m: b\breve \bar "||"
+t: * ať se vzmuží tvé srdce, doufej v Hospodina!
+
+%% use: responsum
+

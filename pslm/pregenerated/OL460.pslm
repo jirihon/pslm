@@ -1,0 +1,67 @@
+%% occasion: 'Čtvrtek 11. týdne 1'
+%% responsum_reference: 'Ž 111 (110),7a . .'
+%% verse_reference: 'Ž 111 (110)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Skutky tvých rukou, Pane, jsou věrné a spravedlivé.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Oslavím Hospodina celým srdcem
+
+m: b\breve \bar "||"
+t: * ve sboru spravedlivých i ve shromáždění.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Veliká jsou Hospodinova díla,
+
+m: b\breve \bar "||"
+t: * ať o nich uvažují všichni, kteří je milují.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Velebnost a vznešenost je jeho dílo
+
+m: b\breve \bar "||"
+t: * a jeho spravedlnost zůstává na věky.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Památku ustanovil na své divy,
+
+m: b\breve \bar "||"
+t: * Hospodin je milosrdný a dobrotivý.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Skutky jeho rukou jsou věrné a spravedlivé,
+
+m: b\breve \bar "||"
+t: * spolehlivé jsou všechny jeho příkazy,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: pevné na věky, navždy,
+
+m: b\breve \bar "||"
+t: * provedené v pravdě a právu.
+
+%% use: responsum
+

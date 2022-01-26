@@ -1,0 +1,33 @@
+%% occasion: 'Narození Panny Marie (8. září)'
+%% responsum_reference: 'Iz 61,10 .'
+%% verse_reference: 'Ž 13 (12)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Radostí zajásám v Pánu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Důvěřuji v tvé slitování,
+
+m: b\breve \bar "||"
+t: * pro tvou pomoc ať zaplesá mé srdce.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zazpívám Hospodinu, který mě zahrnul dobrem,
+
+m: b\breve \bar "||"
+t: * opěvovat budu jméno nejvyššího Pána.
+
+%% use: responsum
+

@@ -1,0 +1,60 @@
+%% occasion: 'Středa 2. týdne 2'
+%% occasion: 'Čtvrtek 30. týdne 2'
+%% responsum_reference: 'Ž 144 (143),1a'
+%% verse_reference: 'Ž 144 (143)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Veleben buď Hospodin, má Skála!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Veleben buď Hospodin, má Skála,
+
+m: b\breve \bar "||"
+t: * on učí mé ruce bojovat, mé prsty zápolit.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: On je mé milosrdenství, mé útočiště,
+
+m: b\breve \bar "||"
+t: * má pevnost a můj zachránce,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: můj štít a můj útulek,
+
+m: b\breve \bar "||"
+t: * on mi podmaňuje národy.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bože, novou píseň ti zazpívám,
+
+m: b\breve \bar "||"
+t: * na harfě s deseti strunami ti zahraji;
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: tobě, jenž dáváš králům vítězství,
+
+m: b\breve \bar "||"
+t: * který jsi vysvobodil Davida, svého služebníka.
+
+%% use: responsum
+

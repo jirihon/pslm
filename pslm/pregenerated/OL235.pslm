@@ -1,0 +1,84 @@
+%% occasion: '(23. neděle v mezidobí C - viz OL225)'
+%% occasion: '(24. neděle v mezidobí A - viz OL85)'
+%% occasion: '24. neděle v mezidobí B'
+%% responsum_reference: 'Ž 116 (114),9'
+%% verse_reference: 'Ž 116 (114)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Budu kráčet před Hospodinem v zemi živých.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Miluji Hospodina,
+
+m: b\breve \bar "||"
+t: * neboť slyšel můj prosebný hlas,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: neboť naklonil ke mně svůj sluch
+
+m: b\breve \bar "||"
+t: * v den, kdy jsem ho vzýval.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Obepjaly mě provazy smrti, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodinovo jméno jsem vzýval:
+
+m: b\breve \bar "||"
+t: * „Ach Hospodine, zachraň mi život!“
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin je milostivý a spravedlivý,
+
+m: b\breve \bar "||"
+t: * Bůh náš je milosrdný.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin chrání prosté lidi;
+
+m: b\breve \bar "||"
+t: * pomohl mi, když jsem byl v bídě.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vždyť vysvobodil můj život ze smrti,
+
+m: b\breve \bar "||"
+t: * mé oči ze slz, mé nohy z pádu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Budu kráčet před Hospodinem
+
+m: b\breve \bar "||"
+t: * v zemi živých.
+
+%% use: responsum
+

@@ -1,0 +1,67 @@
+%% occasion: 'Úterý 13. týdne 1'
+%% responsum_reference: 'Ž 26 (25),3a'
+%% verse_reference: 'Ž 26 (25)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Tvou dobrotu, Pane, mám na zřeteli.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zkoumej mě, Hospodine, a zkoušej,
+
+m: b\breve \bar "||"
+t: * vyšetřuj mé ledví a srdce!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tvou dobrotu mám na zřeteli,
+
+m: b\breve \bar "||"
+t: * jednám podle tvé pravdy.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nezahlazuj mou duši s hříšníky
+
+m: b\breve \bar "||"
+t: * ani můj život s vražedníky;
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: na jejich rukou lpí zločin,
+
+m: b\breve \bar "||"
+t: * jejich pravice je plna úplatků.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Já se však chovám bezúhonně,
+
+m: b\breve \bar "||"
+t: * vysvoboď mě a smiluj se nade mnou!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Má noha stojí na rovné cestě,
+
+m: b\breve \bar "||"
+t: * ve shromáždění budu velebit Hospodina.
+
+%% use: responsum
+

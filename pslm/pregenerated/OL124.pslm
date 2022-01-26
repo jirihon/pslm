@@ -1,0 +1,64 @@
+%% occasion: 'Zmrtvýchvstání Páně'
+%% responsum_reference: 'Ž 118 (117),24'
+%% verse_reference: 'Ž 118 (117)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Toto je den, který připravil Pán, jásejme a radujme se z něho!
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Oslavujte Hospodina, neboť je dobrý, jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nechť řekne dům Izraelův:
+
+m: b\breve \bar "||"
+t: * „Jeho milosrdenství trvá na věky.“
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodinova pravice mocně zasáhla,
+
+m: b\breve \bar "||"
+t: * Hospodinova pravice mě pozvedla.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nezemřu, ale budu žít
+
+m: b\breve \bar "||"
+t: * a vypravovat o Hospodinových činech.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kámen, který stavitelé zavrhli,
+
+m: b\breve \bar "||"
+t: * ......................................... stal se kvádrem nárožním.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodinovým řízením se tak stalo,
+
+m: b\breve \bar "||"
+t: * je to podivuhodné v našich očích.
+
+%% use: responsum
+

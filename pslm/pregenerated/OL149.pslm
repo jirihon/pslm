@@ -1,0 +1,63 @@
+%% occasion: '(Pondělí po 4. neděli velikonoční - viz OL90)'
+%% occasion: 'Úterý po 4. neděli velikonoční'
+%% responsum_reference: 'Ž 117 (116),1a'
+%% verse_reference: 'Ž 87 (86)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Chvalte Hospodina, všechny národy!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin miluje, co založil na svatých horách,
+
+m: b\breve \bar "||"
+t: * miluje brány Siónu
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Slavné věci se o tobě vypravují,
+
+m: b\breve \bar "||"
+t: * město Boží!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Připočtu Rahab i Bábel mezi své ctitele,
+
+m: b\breve \bar "||"
+t: * ba i Filištínsko, Tyrus s Etiopií; +
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: O Siónu se řekne: (+) i ti se tam narodili.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin zapíše do knihy národů:
+
+m: b\breve \bar "||"
+t: * „Tito se tam narodili.“
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Při tanci budou zpívat:
+
+m: b\breve \bar "||"
+t: * „Všechna zřídla mé spásy jsou v tobě.“
+
+%% use: responsum
+

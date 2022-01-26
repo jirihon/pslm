@@ -1,0 +1,57 @@
+%% occasion: '25. neděle v mezidobí B'
+%% responsum_reference: 'Ž 54 (53),6b'
+%% verse_reference: 'Ž 54 (53)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Pán mě udržuje naživu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bože, zachraň mě pro své jméno,
+
+m: b\breve \bar "||"
+t: * svou mocí zjednej mi právo!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bože, slyš moji modlitbu,
+
+m: b\breve \bar "||"
+t: * popřej sluchu slovům mých úst!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť povstali proti mně zpupní lid.é,
+
+m: b\breve \bar "||"
+t: * násilníci mi ukládali o život, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hle, Bůh mi pomáhá,
+
+m: b\breve \bar "||"
+t: * Pán mě udržuje naživu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Budu s radostí přinášet oběti,
+
+m: b\breve \bar "||"
+t: * chválit tvé jméno, Hospodine, že je dobré.
+
+%% use: responsum
+

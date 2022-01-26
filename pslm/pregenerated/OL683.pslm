@@ -1,0 +1,52 @@
+%% occasion: 'Sobota 22. týdne 2'
+%% responsum_reference: 'Ž 145 (144),18a'
+%% verse_reference: 'Ž 145 (144)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Blízký je Hospodin všem, kdo ho vzývají.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Spravedlivý je Hospodin na všech svých cestá.ch
+
+m: b\breve \bar "||"
+t: * a svatý ve všech svých činech.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Blízko je Hospodin všem, kdo ho vzývají,
+
+m: b\breve \bar "||"
+t: * všem, kdo ho vzývají upřímně.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vyplní vůli svých ctitelů,
+
+m: b\breve \bar "||"
+t: * slyší jejich volání a zachrání je.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Zachovává Hospodin
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať má ústa hlásají Hospodinovu chválu,
+
+m: b\breve \bar "||"
+t: * vše, co žije, ať velebí
+

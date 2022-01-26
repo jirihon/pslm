@@ -1,0 +1,57 @@
+%% occasion: 'Sobota 2. týdne 2'
+%% responsum_reference: 'Ž 80 (79),4'
+%% verse_reference: 'PůvodnQí tónina d moll.'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Bože, obnov nás, rozjasni svou tvář, a budeme spaseni.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Slyš, Izraelův pastýři,
+
+m: b\breve \bar "||"
+t: * který vodíš Josefa jak ovce.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Skvěj se září, ty, který trůníš nad cheruby,
+
+m: b\breve \bar "||"
+t: * před Efraimem, Benjamínem a Manassem,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: probuď svou sílu
+
+m: b\breve \bar "||"
+t: * a přijď nás zachránit!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Bože zástupů,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nasytils jej chlebem slzavým
+
+m: b\breve \bar "||"
+t: * a slzami jsi ho napojil vrchovatě.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Dopouštíš,
+

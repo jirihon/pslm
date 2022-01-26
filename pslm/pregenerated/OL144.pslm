@@ -1,0 +1,59 @@
+%% occasion: 'Čtvrtek po 3. neděli velikonoční'
+%% responsum_reference: 'Ž 66 (65),1'
+%% verse_reference: 'Ž 66 (65)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Jásejte Bohu, všechny země! (nebo:) Aleluja, aleluja.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Velebte, národy, našeho Boha
+
+m: b\breve \bar "||"
+t: * a rozhlašujte jeho chválu!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: On dal život naší duši,
+
+m: b\breve \bar "||"
+t: * nedopustil, aby klopýtaly naše nohy.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pojďte, slyšte, všichni bohabojní,
+
+m: b\breve \bar "||"
+t: * chci vyprávět, co prokázal Bůh mé duši.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Svými ústy jsem k němu volal,
+
+m: b\breve \bar "||"
+t: * velebil jsem ho svým jazykem.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bůh buď veleben, že neodmítl mou prsbu,
+
+m: b\breve \bar "||"
+t: * že mi neodňal svou lásku.
+
+%% use: responsum
+

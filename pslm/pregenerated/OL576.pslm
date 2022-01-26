@@ -1,0 +1,87 @@
+%% occasion: 'Úterý 1. týdne 2'
+%% responsum_reference: '1 Sam 2,1a .'
+%% verse_reference: '1. Sam 2'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Mé srdce jásá v Bohu, mém spasiteli.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Mé srdce jásá v Hospodinu,
+
+m: b\breve \bar "||"
+t: * moje moc se vyvyšuje v mém Bohu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ústa se otvírají proti mým nepřátelům,
+
+m: b\breve \bar "||"
+t: * neboť se raduji z tvé pomoci.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Luky siláků se lámou,
+
+m: b\breve \bar "||"
+t: * ale slabí se opásávají silou.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Kdo bývali sytí,
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Neplodná dostává sedm dětí, matka mnoha synů vadne osamělá.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin usmrcuje i oživuje,
+
+m: b\breve \bar "||"
+t: * uvádí do říše smrti a zase přivádí nazpět.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin dává zchudnout, ale i zbohatnout,
+
+m: b\breve \bar "||"
+t: * ponižuje a povyšuje.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pozvedá z prachu ubožáka,
+
+m: b\breve \bar "||"
+t: * ze smetiště povyšuje chudáka,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: aby ho posadil mezi knížaty
+
+m: b\breve \bar "||"
+t: * a obdařil ho stolcem slávy.
+
+%% use: responsum
+

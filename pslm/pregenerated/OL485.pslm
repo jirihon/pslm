@@ -1,0 +1,85 @@
+%% occasion: 'Středa 16. týdne 1'
+%% responsum_reference: 'Ž 78 (77),24b'
+%% verse_reference: 'Ž 78 (77)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Nebeský pokrm dal jim Hospodin.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pokoušeli Boha ve svém srdci,
+
+m: b\breve \bar "||"
+t: * když žádali pokrm podle své choutky.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pohrdlivě mluvili proti Bohu,
+
+m: b\breve \bar "||"
+t: * řekli: „Dokáže Bůh prostřít stůl zde na poušti?“
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Poručil tedy mrakům nahoře
+
+m: b\breve \bar "||"
+t: * a otevřel brány nebes,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: seslal na ně déšť many, aby se najedli,
+
+m: b\breve \bar "||"
+t: * a dal jim nebeský pokrm.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Člověk jedl chléb silných,
+
+m: b\breve \bar "||"
+t: * pokrm jim poslal do sytosti.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Východnímu větru dal vanout z nebe
+
+m: b\breve \bar "||"
+t: * a svou mocí přivedl vítr od jihu.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jak by to prach byl, seslal na ně déšť masa,
+
+m: b\breve \bar "||"
+t: * jak by to byl mořský písek, dal jim pernaté ptáky.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Padli do jejich tábora,
+
+m: b\breve \bar "||"
+t: * kolem jejich stanů.
+
+%% use: responsum
+

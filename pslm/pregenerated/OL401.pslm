@@ -1,0 +1,34 @@
+%% occasion: 'Pondělí 1. týdne 1'
+%% responsum_reference: 'Ž 97 (96),1a.9a'
+%% verse_reference: 'Ž 97 (96)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodin kraluje, je povznesen nad celou zemí.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Spravedlnost a právo jsou základem jeho trůnu.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: všichni bohové se mu koří.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: svrchovaně vynikáš nade všemi bohy.
+
+%% use: responsum
+

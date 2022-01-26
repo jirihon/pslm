@@ -1,0 +1,64 @@
+%% occasion: '(Pátek 16. týdne 2 - viz OL536)'
+%% occasion: '(Sobota 16. týdne 2 - viz OL492)'
+%% occasion: 'Pondělí 17. a 20. týdne 2'
+%% responsum_reference: 'Dt 32,18a'
+%% verse_reference: 'Dt 32'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Opustil jsi Boha, který tě zplodil.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Na Skálu, která tě zrodila, jsi zapomněl,
+
+m: b\breve \bar "||"
+t: * opustil jsi Boha, který tě zplodil.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin to viděl a zavrhl je,
+
+m: b\breve \bar "||"
+t: * rozhněval se na své syny a dcery.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pravil: „Skryji svou tvář před nimi,
+
+m: b\breve \bar "||"
+t: * uvidím, co se s nimi stane,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: neboť je to zvrácené pokolení,
+
+m: b\breve \bar "||"
+t: * synové, jimž nelze věřit.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Popudili mě k žárlivosti kvůli tomu, kdo není Bůh,
+
+m: b\breve \bar "||"
+t: * rozhněvali mě svými modlami.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Nuže, já je popudím k žárlivosti
+

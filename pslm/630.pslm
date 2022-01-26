@@ -1,0 +1,77 @@
+%% occasion: 'Čtvrtek 2. týdne'
+%% responsum_reference: 'Ž 56 (55)'
+%% verse_reference: 'Ž 56 (55), 7bc'
+%% author: olejnik
+%% source: zaltar_iv
+%% url: https://josefolejnik.cz/wp-content/uploads/2019/04/630-ctvrtek-2.-tydne.gif
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'4 d \bar "" g8 g \bar "" g g \bar "|" g g \bar "" f g \bar "" a2 \bar "||"
+t: V Boha důvěřuji, nebudu se bát.
+
+%% part: verse
+
+m: bes'\breve a8 g g[(\verseAccent f)] f4 r \bar "|"
+t: Smiluj se nade mnou, Bože, neboť člověk po mě šlape,
+
+m: f\breve e8 d d[(\verseAccent c)] c4 r \bar "||"
+t: * stále mě tísní bojem.
+
+%% part: verse
+
+m: bes'\breve a8 g g\verseAccent f f f4 r \bar "|"
+t: Stále po mně šlapou moji protivníci,
+
+m: f\breve e8 d d[(\verseAccent c)] c2 \bar "||"
+t: * je jich hodně, kdo proti mně brojí.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'\breve a8 g g[(\verseAccent f)] f4 r \bar "|"
+t: Ty sám si zapiš mou bídu,
+
+m: f\breve e8 d d[(\verseAccent c)] c4 r \bar "||"
+t: * vpiš mé slzy do svého záznamu, + mé trampoty do svého svitku!
+
+%% part: verse
+
+m: bes'\breve a8 g g\verseAccent f f f2 \bar "|"
+t: Pak ustoupí moji nepřátelé,
+
+m: f\breve e8 d d[(\verseAccent c)] c4 r \bar "||"
+t: * kdykoli tě budu volat, + vím velmi dobře, že Bůh je pro mě!
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'\breve a8 g g\verseAccent f f2 \bar "|"
+t: V Boha, jehož slib velebím,
+
+m: f\breve e8 d d\verseAccent c c2 \bar "||"
+t: * v Hospodina, jehož slib velebím,
+
+%% part: verse
+
+m: bes'\breve a8 g g\verseAccent f f2 \bar "|"
+t: v Boha důvěřuji a nebudu se bát
+
+m: f\breve e8 d d[(\verseAccent c)] c4 r \bar "||"
+t: * co mi může udělat člověk.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'\breve a8 g g[(\verseAccent f)] f4 r \bar "|"
+t: Bože, jsem ti zavázán sliby,
+
+m: f\breve e8 d d[(\verseAccent c)] c4 r \bar "||"
+t: * přinesu ti děkovnou oběť.
+
+%% use: responsum

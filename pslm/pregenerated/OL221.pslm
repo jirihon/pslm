@@ -1,0 +1,67 @@
+%% occasion: '17. neděle v mezidobí B'
+%% responsum_reference: 'Srov. Ž 145 (144),16'
+%% verse_reference: 'Ž 145 (144)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Otvíráš svou ruku a sytíš nás, Hospodine.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať tě chválí, Hospodine, všechna tvá díla
+
+m: b\breve \bar "||"
+t: * a tvoji zbožní ať tě velebí!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať vypravují o slávě tvého království,
+
+m: b\breve \bar "||"
+t: * ať mluví o tvé síle.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Oči všech doufají v tebe
+
+m: b\breve \bar "||"
+t: * a ty jim dáváš pokrm v pravý čas.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Otvíráš svou ruku
+
+m: b\breve \bar "||"
+t: * a sytíš vše živé s laskavostí.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Spravedlivý je Hospodin na všech svých cestách
+
+m: b\breve \bar "||"
+t: * a svatý ve všech svých činech.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Blízko je Hospodin všem, kdo ho vzývají,
+
+m: b\breve \bar "||"
+t: * všem, kdo ho vzývají upřímně.
+
+%% use: responsum
+

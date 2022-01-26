@@ -1,0 +1,86 @@
+%% occasion: 'Sv. Jakuba (25. července)'
+%% occasion: 'O mučednících (i v době velikonoční)'
+%% responsum_reference: 'Ž 126 (125),5'
+%% verse_reference: 'Ž 126 (125)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Kdo sejí v slzách žnout budou s jásotem.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Když Hospodin přiváděl siónské zajatce,
+
+m: b\breve \bar "||"
+t: * byli jsme jako ve snách.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tehdy naše ústa byla plná smíchu
+
+m: b\breve \bar "||"
+t: * a náš jazyk plný jásotu.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tehdy se říkalo mezi pohany:
+
+m: b\breve \bar "||"
+t: * „Velkou věc s nimi učinil Hospodin!“
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ano, velkou věc s námi učinil Hospodin,
+
+m: b\breve \bar "||"
+t: * naplnila nás radost.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodine, změň náš osud,
+
+m: b\breve \bar "||"
+t: * jako se mění údolí na jihu země.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kdo sejí v slzách,
+
+m: b\breve \bar "||"
+t: * žnouti budou s jásotem.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vycházejí s pláčem,
+
+m: b\breve \bar "||"
+t: * když nesou semeno k setí:
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: přijdou však s jásotem
+
+m: b\breve \bar "||"
+t: * a přinesou své snopy.
+
+%% use: responsum
+

@@ -1,0 +1,67 @@
+%% occasion: 'Za zemřelé / Při pohřbu'
+%% responsum_reference: 'Ž 25 (24),1b'
+%% verse_reference: 'Ž 25 (24)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: K tobě pozvedám svou duši, Hospodine.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Rozpomeň se, Hospodine, na své slitování,
+
+m: b\breve \bar "||"
+t: * na své milosrdenství, které trvá věčně.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pamatuj na mě ve svém milosrdenství
+
+m: b\breve \bar "||"
+t: * pro svou dobrotivost, Hospodine!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ulev mi v úzkostech srdce,
+
+m: b\breve \bar "||"
+t: * vyprosť mě z nesnází!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Popatř na mou bídu a trápení,
+
+m: b\breve \bar "||"
+t: * odpusť mi všechny hříchy!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Opatruj mou duši a zachraň mě,
+
+m: b\breve \bar "||"
+t: * ať nejsem zahanben, že jsem se utekl k tobě.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať mě chrání nevina a upřímnost,
+
+m: b\breve \bar "||"
+t: * oněvadž doufám v tebe, Hospodine!
+
+%% use: responsum
+

@@ -1,0 +1,49 @@
+%% occasion: 'Při svěcení jáhnů (v době velikonoční)'
+%% responsum_reference: 'Srov. 1 Kor 10,16'
+%% verse_reference: 'Ž 116 (115)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Kalich požehnání je společenstvím Krve Kristovy.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Čím se odplatím Hospodinu
+
+m: b\breve \bar "||"
+t: * za všechno, co mi prokázal?
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vezmu kalich spásy
+
+m: b\breve \bar "||"
+t: * a budu vzývat jméno Hospodinovo.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Přinesu ti oběť díků, Hospodine,
+
+m: b\breve \bar "||"
+t: * a budu vzývat tvé jméno.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Splním své sliby Hospodinu
+
+m: b\breve \bar "||"
+t: * před veškerým jeho lidem
+
+%% use: responsum
+

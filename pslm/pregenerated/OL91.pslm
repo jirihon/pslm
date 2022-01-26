@@ -1,0 +1,60 @@
+%% occasion: 'Úterý po 3. neděli postní'
+%% responsum_reference: 'Ž 25 (24),6a'
+%% verse_reference: 'Ž 25 (24)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Rozpomeň se, Hospodine, na své slitování.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ukaž mi své cesty, Hospodine,
+
+m: b\breve \bar "||"
+t: * a pouč mě o svých stezkách.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Veď mě ve své pravdě a uč mě, neboť ty jsi Bůh, můj spasitel, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Rozpomeň se, Hospodine, na své slitování,
+
+m: b\breve \bar "||"
+t: * na své milosrdenství, které trvá věčně.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nemysli na hříchy mého mládí, na má provinění,
+
+m: b\breve \bar "||"
+t: * pamatuj na mě ve svém milosrdenství +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin je dobrý a dokonalý,
+
+m: b\breve \bar "||"
+t: * proto ukazuje hříšníkům cestu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pokorné vede k správnému jednání,
+
+m: b\breve \bar "||"
+t: * pokorné učí své cestě.
+
+%% use: responsum
+

@@ -1,0 +1,86 @@
+%% occasion: '2. neděle adventní C'
+%% occasion: '5. neděle postní C'
+%% responsum_reference: 'Ž 126 (125),3'
+%% verse_reference: 'PůvoQdní tónina G dur.'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Velkou věc s námi učinil Hospodin, naplnila nás radost.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Když Hospodin přiváděl siónské zajatce,
+
+m: b\breve \bar "||"
+t: * byli jsme jako vesnách.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tehdy naše ústa byla plná smíchu
+
+m: b\breve \bar "||"
+t: * a náš jazyk plný jásotu.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tehdy se říkalo mezi pohany:
+
+m: b\breve \bar "||"
+t: * „Velkou věc s nimi učinil Hospodin!“
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ano, velkou věc s námi učinil Hospodin,
+
+m: b\breve \bar "||"
+t: * naplnila nás radost.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodine, změň náš osud,
+
+m: b\breve \bar "||"
+t: * jako se mění údolí na jihu země.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kdo sejí v slz.h,
+
+m: b\breve \bar "||"
+t: * žnouti budou s jásotem.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vycházejí s pláčem,
+
+m: b\breve \bar "||"
+t: * když nesou semeno k st.í:
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: přijdou však s jásotem
+
+m: b\breve \bar "||"
+t: * a přinesou své snpy.
+
+%% use: responsum
+

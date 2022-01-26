@@ -1,0 +1,85 @@
+%% occasion: '12. neděle v mezidobí B'
+%% responsum_reference: 'Ž 107 (106),1'
+%% verse_reference: 'Ž 107 (106)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Oslavujte Hospodina, neboť na věky trvá jeho milosrdenství.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pustili se po lodích na moře,
+
+m: b\breve \bar "||"
+t: * sháněli obchody po širých vodách.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Viděli Hospodinova díla
+
+m: b\breve \bar "||"
+t: * a na širém moři jeho divy.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Rozkázal a vyvolal bouřný vítr,
+
+m: b\breve \bar "||"
+t: * který do výše vzdouval vlny.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Stoupali až k nebi, sestupovali do propastí,
+
+m: b\breve \bar "||"
+t: * jejich duše se třásla v nebezpečí.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tu volali ve své tísni k Hospodinu
+
+m: b\breve \bar "||"
+t: * a on je z jejich úzkostí vysvobodil.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Uklidnil bouři v tichý vánek,
+
+m: b\breve \bar "||"
+t: * a utišily se mořské vlny.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Radovali se, že se uklidnily,
+
+m: b\breve \bar "||"
+t: * a dovedl je do vytouženého přístavu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať chválí Hospodina za jeho milosrdenství,
+
+m: b\breve \bar "||"
+t: * za jeho divy k dobru lidí;
+
+%% use: responsum
+

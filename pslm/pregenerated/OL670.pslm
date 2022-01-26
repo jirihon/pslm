@@ -1,0 +1,72 @@
+%% occasion: 'Pátek 19. týdne 2'
+%% responsum_reference: 'Iz 12,6'
+%% verse_reference: 'PůvoQdnQí tónina F dur.'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Plesejte a jásejte, neboť nad vámi vládne Svatý Izraele.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bůh je má spása!
+
+m: b\breve \bar "||"
+t: * Bez obavy mohu doufat.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin je má síla a má chvála,
+
+m: b\breve \bar "||"
+t: * stal se mou spásou.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Budete vážit vodu s radostí
+
+m: b\breve \bar "||"
+t: * z pramenů spásy.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Děkujte Hospodinu,
+
+m: b\breve \bar "||"
+t: * a vzývejte jeho jméno!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hlásejte mezi národy jeho díla,
+
+m: b\breve \bar "||"
+t: * zvěstujte vznešenost jeho jména!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Zpívejte Hospodinu, (+)
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Plesejte a jásejte, obyvatelé Siónu,
+
+m: b\breve \bar "||"
+t: * neboť velikým uprostřed vás je Svatý Izraele.
+
+%% use: responsum
+

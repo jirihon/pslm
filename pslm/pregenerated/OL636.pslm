@@ -1,0 +1,69 @@
+%% occasion: '(Čtvrtek 12. týdne 2 - viz OL540) Sobota 12. týdne 2'
+%% responsum_reference: 'Ž 10 (9),12b'
+%% verse_reference: 'Ž 74 (73)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Nezapomínej na chudáky, Hospodine!
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Proč jsi nás, Bože, nadobro zavrhl, proč dýmá tvůj hněv proti ovcím, které paseš?
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Pamatuj na svou obec, kterou sis kdysi získal, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zaměř své kroky k dávným troskám:
+
+m: b\breve \bar "||"
+t: * nepřítel ve svatyni všechno zničil.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Tvoji protivníci hlučeli
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Jsou podobni těm, hned širočinou a kladivem
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tvou svatyni vydali ohni,
+
+m: b\breve \bar "||"
+t: * až do základů znesvětili příbytektvého jména.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Shlédni na svou smlouvu,
+
+m: b\breve \bar "||"
+t: * vždyťzákoutí země i pole jsou plná násilí.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať se ponížený nevrací zklamán,
+
+m: b\breve \bar "||"
+t: * ubohý a nuzný nechť chválí tvé jméno!
+
+%% use: responsum
+

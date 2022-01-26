@@ -1,0 +1,82 @@
+%% occasion: 'Úterý 26. týdne 2'
+%% responsum_reference: 'Ž 88 (87),3a'
+%% verse_reference: 'Ž 88 (87)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Kéž pronikne k tobě má modlitba, Hospodine!
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Hospodine, můj Bože, volám ve dne, hořekuji před tebou v no
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kéž pronikne k tobě má modlitba,
+
+m: b\breve \bar "||"
+t: * nakloň svůj sluch k mému volání!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť bědami je nasycena má duše
+
+m: b\breve \bar "||"
+t: * a můj život se blíží podsvětí.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Počítají mě k těm, kdo klesli do hrobu,
+
+m: b\breve \bar "||"
+t: * jsem jako člověk bez pomoci.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Mezi mrtvými je moje lože,
+
+m: b\breve \bar "||"
+t: * mezi zabitými, kteří leží v hrobě;
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: na ty už nevzpomínáš,
+
+m: b\breve \bar "||"
+t: * jsou vyloučeni z tvé péče.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Položils mě do hluboké jámy,
+
+m: b\breve \bar "||"
+t: * do temnot a do propastí.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Doléhá na mě tvůj hněv,
+
+m: b\breve \bar "||"
+t: * všechny své přívaly jsi na mě vylil.
+
+%% use: responsum
+

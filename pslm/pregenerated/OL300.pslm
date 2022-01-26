@@ -1,0 +1,85 @@
+%% occasion: 'O duchovních pastýřích'
+%% responsum_reference: 'Ž 89 (88),2a'
+%% verse_reference: 'Ž 89 (88)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Na věky chci zpívat o Hospodinových milostech.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Na věky chci zpívat o Hospodinových milostech,
+
+m: b\breve \bar "||"
+t: * po všechna pokolení hlásat
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Řekl jsi totiž: „Na věky je založena milost.“
+
+m: b\breve \bar "||"
+t: * Na nebi jsi upevnil svou věrnost.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: „Smlouvu jsem sjednal se svým vyvoleným,
+
+m: b\breve \bar "||"
+t: * přísahal jsem Davidovi, svému služebníku:
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tvůj rod zajistím na věky
+
+m: b\breve \bar "||"
+t: * a tvůj trůn zbuduji na všechna pokolení.“
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: „Nalezl jsem Davida, svého služebníka,
+
+m: b\breve \bar "||"
+t: * pomazal jsem ho svým svatým olejem,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: pevně ho drží má ruka
+
+m: b\breve \bar "||"
+t: * i mé rámě ho posiluje.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Má věrnost a láska ho budou provázet,
+
+m: b\breve \bar "||"
+t: * ve jménu mém zmohutní jeho síla.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: On mě bude vzývat: Ty jsi můj otec,
+
+m: b\breve \bar "||"
+t: * můj Bůh a skála mé spásy.“
+
+%% use: responsum
+

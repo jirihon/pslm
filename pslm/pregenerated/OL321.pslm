@@ -1,0 +1,62 @@
+%% occasion: 'Při svěcení jáhnů'
+%% responsum_reference: 'Ž 84 (83),5a'
+%% verse_reference: 'Ž 84 (83)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Blaze těm, kdo přebývají ve tvém domě, Bože.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Touží, ba prahne má duše mé srdce i mé tělo
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: I vrabec si nalézá příbytek
+
+m: b\breve \bar "||"
+t: * a vlaštovka své hnízdo,(+) kde ukládá svá mláďata:
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tvé oltáře, Hospodine zástupů,
+
+m: b\breve \bar "||"
+t: * můj králi a můj Bože!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Blaze těm, kdo přebývají ve tvém domě,
+
+m: b\breve \bar "||"
+t: * stále tě mohou chválit.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Věru, lepší je den ve tvých nádvořích
+
+m: b\breve \bar "||"
+t: * než jinde tisíce:
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: raději budu stát na prahu domu svého Boha
+
+m: b\breve \bar "||"
+t: * než přebývat ve stanech bezbožníka.
+
+%% use: responsum
+

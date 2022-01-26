@@ -1,0 +1,111 @@
+%% occasion: 'Čtvrtek 3. týdne 2'
+%% responsum_reference: 'Lk 1,32b'
+%% verse_reference: 'Ž 132 (131)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Pán Bůh mu dá trůn jeho otce Davida.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: da,
+
+m: b\breve \bar "||"
+t: * jeho starostlivost,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: jak přísahal Hospodinu,
+
+m: b\breve \bar "||"
+t: * sliboval Mocnému Jakubovu:
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: „Nevkročím do svého obytného domu,
+
+m: b\breve \bar "||"
+t: * nevstoupím na své připravené lůžko,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: nepopřeji spánku svým očím,
+
+m: b\breve \bar "||"
+t: * svým víčkům odpočinku,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: dokud nenaleznu místo pro Hospodina,
+
+m: b\breve \bar "||"
+t: * příbytek Mocnému Jakubovu.“
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Přísahal Hospodin Davidovi
+
+m: b\breve \bar "||"
+t: * s věrností, kterou neporuší:
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: „Potomka z tvého rodu
+
+m: b\breve \bar "||"
+t: * dosadím na tvůj trůn.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Budouli tvoji synové dbát na mou smlouvu,
+
+m: b\breve \bar "||"
+t: * na mé příkazy, kterým je naučím ,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: též jejich synové na věky
+
+m: b\breve \bar "||"
+t: * budou sedět na tvém trůně!“
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť Hospodin si vyvolil Sión,
+
+m: b\breve \bar "||"
+t: * přál si ho mít za své sídlo:
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: „To je můj příbytek na věk,
+
+m: b\breve \bar "||"
+t: * zde budu sídlit, ten jsem si zvolil.“
+
+%% use: responsum
+

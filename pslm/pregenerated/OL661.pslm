@@ -1,0 +1,75 @@
+%% occasion: 'Sobota 17. týdne 2'
+%% responsum_reference: 'Ž 69 (68),14c'
+%% verse_reference: 'Ž 69 (68)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Vyslyš mě, Hospodine, ve své veliké lásce!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vyprosť mě z bahna, abych neutonul,
+
+m: b\breve \bar "||"
+t: * vysvoboď mě od těch, kteří mě nenávidí,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: vytáhni mě z hluboké vody!
+
+m: b\breve \bar "||"
+t: * Ať mě nezaplaví vodní příboj,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: ať mě nepohltí hlubina,
+
+m: b\breve \bar "||"
+t: * ať propast nade mnou nezavře jícen!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Já jsem ubohý a plný bolesti,
+
+m: b\breve \bar "||"
+t: * ať mě ochrání, Bože, tvá pomoc.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Písní budu slavit Boží jméno,
+
+m: b\breve \bar "||"
+t: * velebit je budu zpěvem chvály.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Uvědomte si to, ubožáci, a radujte se;
+
+m: b\breve \bar "||"
+t: * pookřejte v srdci vy, kdo hledáte Boha!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť Hospodin slyší chudáky,
+
+m: b\breve \bar "||"
+t: * nepohrdá svými vězni.
+
+%% use: responsum
+

@@ -1,0 +1,68 @@
+%% occasion: 'Pondělí 11. a 28. týdne 1'
+%% occasion: 'Pátek 31. týdne 1'
+%% responsum_reference: 'Srov. Ž 98 (97),2'
+%% verse_reference: 'Ž 98 (97)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodin zjevil svou spásu před zraky pohanů.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zpívejte Hospodinu novou píseň,
+
+m: b\breve \bar "||"
+t: * neboť učinil podivuhodné věci.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vítězství je dílem jeho pravice,
+
+m: b\breve \bar "||"
+t: * jeho svatého ramene.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin uvedl ve známost svou spásu,
+
+m: b\breve \bar "||"
+t: * před zraky pohanů zjevil svou spravedlnost.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Rozpomenul se na svou dobrotu a věrnost
+
+m: b\breve \bar "||"
+t: * Izraelovu domu.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Uzřely všechny končiny země
+
+m: b\breve \bar "||"
+t: * spásu našeho Boha.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jásejte Hospodinu, všechny země,
+
+m: b\breve \bar "||"
+t: * radujte se, plesejte a hrejte!
+
+%% use: responsum
+

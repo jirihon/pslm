@@ -1,0 +1,59 @@
+%% occasion: 'Při svatbě'
+%% responsum_reference: 'Ž 33 (32),5b S R'
+%% verse_reference: 'Ž 33 (32)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Země je plná Hospodinovy milosti.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Blaze národu, jehož Bohem je Hospodin,
+
+m: b\breve \bar "||"
+t: * blaze lidu, který si vyvolil za svůj majetek.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodinovo oko bdí nad těmi, kdo se ho bojí,
+
+m: b\breve \bar "||"
+t: * nad těmi, kdo doufají v jeho milost.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Naše duše vyhlíží Hospodina,
+
+m: b\breve \bar "||"
+t: * on sám je naše pomoc a štít.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: V něm se raduje naše srdce,
+
+m: b\breve \bar "||"
+t: * důvěřujeme v jeho svaté jméno.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať spočine na nás, Hospodine, tvé milosrdenství,
+
+m: b\breve \bar "||"
+t: * jak doufáme v tebe.
+
+%% use: responsum
+

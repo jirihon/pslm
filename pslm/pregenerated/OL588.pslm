@@ -1,0 +1,67 @@
+%% occasion: 'Středa 3. týdne 2'
+%% responsum_reference: 'Ž 89 (88),2a'
+%% verse_reference: 'Ž 89 (88)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Na věky chci zpívat o Hospodinových milostech.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: „Smlouvu jsem sjednal se svým vyvoleným,
+
+m: b\breve \bar "||"
+t: * přísahal jsem Davidovi, svému služebníku:
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tvůj rod zajistím na věky
+
+m: b\breve \bar "||"
+t: * a tvůj trůn zbuduji na všechna pokolení.“
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: „On mě bude vzývat: Ty jsi můj otec,
+
+m: b\breve \bar "||"
+t: * můj Bůh a skála mé spásy.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Já ho pak ustanovím prvorozeným synem,
+
+m: b\breve \bar "||"
+t: * nejvyšším mezi králi země.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Na věky mu zachovám svou milost,
+
+m: b\breve \bar "||"
+t: * má smlouva s ním platit nepřestane.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Dám věčné trvání jeho rodu,
+
+m: b\breve \bar "||"
+t: * jeho trůn bude jako věk nebes.“
+
+%% use: responsum
+

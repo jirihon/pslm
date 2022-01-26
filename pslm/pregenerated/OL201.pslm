@@ -1,0 +1,69 @@
+%% occasion: '(8. neděle v mezidobí B - viz OL197-198)'
+%% occasion: '8. neděle v mezidobí C'
+%% occasion: '11. neděle v mezidobí B'
+%% responsum_reference: 'Srov. Ž 92 (91),2a'
+%% verse_reference: 'Ž 92 (91)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Dobré je chválit Hospodina.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Dobré je chválit Hospodina,
+
+m: b\breve \bar "||"
+t: * opěvovat tvé jméno, Svrchovaný!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zrána hlásat tvé milosrdenství
+
+m: b\breve \bar "||"
+t: * a za noci tvou věrnost.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Spravedlivý pokvete jak palma,
+
+m: b\breve \bar "||"
+t: * poroste jak cedr na Libanonu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kdo jsou zasazeni v domě Hospodinově,
+
+m: b\breve \bar "||"
+t: * pokvetou v nádvořích našeho Boha.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ještě ve stáří budou přinášet užitek,
+
+m: b\breve \bar "||"
+t: * zůstanou šťavnatí a svěží,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: aby hlásali, jak spravedlivý je Hospodin,
+
+m: b\breve \bar "||"
+t: * má skála, v němž není nepravosti.
+
+%% use: responsum
+

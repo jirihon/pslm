@@ -1,0 +1,50 @@
+%% occasion: '9. neděle v mezidobí A'
+%% responsum_reference: 'Ž 31 (30),3b'
+%% verse_reference: 'Ž 31 (30)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Buď mi, Hospodine, ochrannou skálou!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: vysvoboď mě, jsi spravedlivý!
+
+m: b\breve \bar "|"
+t: * Popřej mi sluchu,
+
+m: b\breve \bar "||"
+t: * rychle mě zachraň!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: opevněnou tvrzí k mé záchraně,
+
+m: b\breve \bar "|"
+t: * vždyť ty jsi má skála a má tvrz,
+
+m: b\breve \bar "||"
+t: * pro své jméno
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: zachraň mě svou slitovností.
+
+m: b\breve \bar "|"
+t: * Vzmužte se a buďte srdnatí,
+
+m: b\breve \bar "||"
+t: * všichni, kdo spoléháte na Hospodina.
+
+%% use: responsum
+

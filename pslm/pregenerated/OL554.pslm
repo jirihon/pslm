@@ -1,0 +1,50 @@
+%% occasion: '(Úterý 30. týdne 1 - viz OL532)'
+%% occasion: 'Středa 30. týdne 1'
+%% responsum_reference: 'Ž 13 (12),6a'
+%% verse_reference: 'Ž 13 (12)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Důvěřuji v tvé slitování, Hospodine!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Shlédni a vyslyš mě, Hospodine, můj Bože!
+
+m: b\breve \bar "||"
+t: * Rozjasni mé oči, ať neusnu v smrti,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: aby neřekl můj nepřítel: „Zdolal jsem ho!“
+
+m: b\breve \bar "||"
+t: * Ať nejásají moji protivníci, že jsem klesl.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Já však důvěřuji v tvé slitování,
+
+m: b\breve \bar "||"
+t: * pro tvou pomoc ať zaplesá mé srdce,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: zazpívám Hospodinu,
+
+m: b\breve \bar "||"
+t: * který mě zahrnul dobrem.
+
+%% use: responsum
+

@@ -1,0 +1,85 @@
+%% occasion: 'Úterý 24. týdne 1'
+%% responsum_reference: 'Ž 101 (100),2c'
+%% verse_reference: 'Ž 101 (100)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Chci kráčet v nevinnosti srdce.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: O dobrotivosti a spravedlnosti chci zpívat,
+
+m: b\breve \bar "||"
+t: * tobě, Hospodine, chci zahrát.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Chci se ubírat cestou bezúhonnou,
+
+m: b\breve \bar "||"
+t: * kdy ke mně přijdeš?
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Chci kráčet v nevinnosti srdce,
+
+m: b\breve \bar "||"
+t: * ve svém domě.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nepostavím si před oči
+
+m: b\breve \bar "||"
+t: * nic hanebného.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kdo svého bližního v skrytu pomlouvá,
+
+m: b\breve \bar "||"
+t: * toho zahubím.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pyšného očima a nadutého srdcem,
+
+m: b\breve \bar "||"
+t: * toho nesnesu.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Svým zrakem budu hledat věrné v zemi,
+
+m: b\breve \bar "||"
+t: * aby přebývali se
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kdo kráčí životem bezúhonně,
+
+m: b\breve \bar "||"
+t: * ten mi bude sloužit.
+
+%% use: responsum
+

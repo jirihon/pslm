@@ -1,0 +1,80 @@
+%% occasion: 'Za zemřelé / Při pohřbu'
+%% responsum_reference: 'Ž 103 (102),8a'
+%% verse_reference: 'Ž 103 (102)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodin je milosrdný a milostivý.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin je milosrdný a milostivý,
+
+m: b\breve \bar "||"
+t: * shovívavý a nadmíru dobrotivý.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nejedná s námi podle našich hříchů
+
+m: b\breve \bar "||"
+t: * ani podle našich vin nám neodplácí.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jako se smilovává otec nad syny,
+
+m: b\breve \bar "||"
+t: * tak se smilovává Hospodin nad těmi,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť on ví, z čeho jsme utvořeni,
+
+m: b\breve \bar "||"
+t: * má v paměti, že jsme jen prach.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Dni člověka jsou jako tráva,
+
+m: b\breve \bar "||"
+t: * kvete jak polní květ.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Sotva jej vítr ovane, již ho není,
+
+m: b\breve \bar "||"
+t: * nezbude po něm ani stopa.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Hospodinova láska však od věků
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: pro ty, kteří zachovávají jeho smlouvu,
+
+m: b\breve \bar "||"
+t: * kteří pamatují
+

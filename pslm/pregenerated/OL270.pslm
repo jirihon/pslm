@@ -1,0 +1,68 @@
+%% occasion: 'Sv. Prokopa (4. července)'
+%% occasion: 'O svatých'
+%% responsum_reference: 'Ž 1,2a'
+%% verse_reference: 'Ž 1'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Má zalíbení v Hospodinově zákoně.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Blaze tomu, kdo nechodí, jak mu radí bezbožní,
+
+m: b\breve \bar "||"
+t: * nepostává na cestě, kudy chodí hříšní, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: ale má zalíbení v Hospodinově zákoně
+
+m: b\breve \bar "||"
+t: * a o jeho zákoně přemítá dnem i nocí.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Podobá se tak stromu zasazenému u vodních proudů,
+
+m: b\breve \bar "||"
+t: * ve svůj čas přináší ovoce,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: listí mu nevadne
+
+m: b\breve \bar "||"
+t: * a daří se mu vše, co koná.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jinak je tomu s bezbožnými, zcela jinak:
+
+m: b\breve \bar "||"
+t: * jsou jako pleva rozvátá větrem,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: vždyť Hospodin dbá o cestu spravedlivých,
+
+m: b\breve \bar "||"
+t: * ale cesta bezbožných skončí záhubou.
+
+%% use: responsum
+

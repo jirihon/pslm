@@ -1,0 +1,63 @@
+%% occasion: '1. neděle adventní C'
+%% occasion: 'Předvánoční týden (23. prosince)'
+%% responsum_reference: 'Ž 25 (24),1b'
+%% verse_reference: 'Ž 25 (24)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Pane, Bože můj, k tobě pozvedám svou duši.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ukaž mi své cesty, Hospodine,
+
+m: b\breve \bar "||"
+t: * a pouč mě o svých stezkách.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Veď mě ve své pravdě a uč mě,
+
+m: b\breve \bar "||"
+t: * neboť ty jsi Bůh, můj spasitel.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin je dobrý a dokonalý,
+
+m: b\breve \bar "||"
+t: * proto ukazuje hříšníkům cestu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pokorné vede k správnému jednání,
+
+m: b\breve \bar "||"
+t: * pokorné učí své cestě.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodinovo jednání je jen láska a věrnost
+
+m: b\breve \bar "||"
+t: * pro ty, kdo plní jeho smlouvu a nařízení.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Důvěrně se stýká Hospodin s těmi,
+

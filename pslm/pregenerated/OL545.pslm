@@ -1,0 +1,65 @@
+%% occasion: '(Čtvrtek 27. týdne 1 - viz OL438)'
+%% occasion: 'Pátek 27. týdne 1'
+%% responsum_reference: 'Ž 9,9a'
+%% verse_reference: 'Ž 9'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodin bude soudit svět podle práva.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Hospodine,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: V tobě se chci radovat a jásat,
+
+m: b\breve \bar "||"
+t: * opěvovat tvé jméno, Svrchovaný.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Obořil ses na pohany, bezbožníka jsi potřel,
+
+m: b\breve \bar "||"
+t: * navždy jsi vyhladil jejich jméno.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pohané zapadli do jámy, kterou vykopali,
+
+m: b\breve \bar "||"
+t: * noha jim uvázla v léčce, kterou nastražili.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin však trůní věčně,
+
+m: b\breve \bar "||"
+t: * stolec svůj postavil k soudu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Podle práva bude svět soudit,
+
+m: b\breve \bar "||"
+t: * podle spravedlnosti vyřkne rozsudek nad národy.
+
+%% use: responsum
+

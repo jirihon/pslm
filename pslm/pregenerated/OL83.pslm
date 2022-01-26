@@ -1,0 +1,67 @@
+%% occasion: 'Středa po 2. neděli postní'
+%% responsum_reference: 'Ž 31 (30),17b .'
+%% verse_reference: 'Ž 31 (30)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Zachraň mě svou slitovností, Hospodine.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vyprostíš mě z léčky pro mě nastražené,
+
+m: b\breve \bar "||"
+t: * neboť ty jsi mé útočiště.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Do tvých rukou svěřuji svého ducha,
+
+m: b\breve \bar "||"
+t: * Hospodine, věrný Bože, ty mě vysvobodíš.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vždyť se tolik o mně šeptá
+
+m: b\breve \bar "||"
+t: * slyšel jsem to, hrůza odevšad!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Spolu se proti mně radí,
+
+m: b\breve \bar "||"
+t: * usilují zničit můj život.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Já však, Hospodine, v tebe doufám,
+
+m: b\breve \bar "||"
+t: * říkám: Ty jsi můj Bůh!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Můj osud je ve tvé ruce,
+
+m: b\breve \bar "||"
+t: * vysvoboď mě z moci mých úhlavních nepřátel!
+
+%% use: responsum
+

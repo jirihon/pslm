@@ -1,0 +1,73 @@
+%% occasion: 'Pondělí 22. týdne 2'
+%% responsum_reference: 'Ž 119 (118),97a'
+%% verse_reference: 'Ž 119 (118)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Jak miluji tvůj zákon, Hospodine.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jak miluji tvůj zákon, Hospodine!
+
+m: b\breve \bar "||"
+t: * Po celý den o něm rozjímám.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Moudřejším nad mé nepřátele mě učinil tvůj předpis,
+
+m: b\breve \bar "||"
+t: * neboť na věky je se mnou.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Rozumnější jsem nad všechny své učitele,
+
+m: b\breve \bar "||"
+t: * neboť rozjímám o tvých přikázáních.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Rozvážnější jsem nad starce,
+
+m: b\breve \bar "||"
+t: * neboť zachovávám tvá nařízení.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zadržuji své nohy od každé zlé cesty,
+
+m: b\breve \bar "||"
+t: * abych dbal na tvá slova.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neuchyluji se od tvých rozhodnutí,
+
+m: b\breve \bar "||"
+t: * protože tys mě poučil.
+
+%% use: responsum
+

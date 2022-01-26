@@ -1,0 +1,79 @@
+%% occasion: '(Středa po 3. neděli adventní - viz OL13-15)'
+%% occasion: 'Čtvrtek po 3. neděli adventní'
+%% occasion: 'Pondělí po 4. neděli postní'
+%% occasion: 'Zmrtvýchvstání Páně, vigilie (4. čtení)'
+%% occasion: '3. neděle velikonoční C'
+%% responsum_reference: 'Ž 30 (29),2a'
+%% verse_reference: 'Ž 30 (29)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Chci tě oslavovat, Hospodine, neboť jsi mě vysvobodil. 10. neděle v mezidobí C
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Chci tě oslavovat, Hospodine, neboť jsi mě vysvobodil,
+
+m: b\breve \bar "||"
+t: * nedopřál jsi,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodine, z podsvětí jsi vyvedl mou duši,
+
+m: b\breve \bar "||"
+t: * zachovals mi život mezi těmi, kteříklesli do hrobu.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zpívejte Hospodinu, jeho zbožní,
+
+m: b\breve \bar "||"
+t: * a vzdávejte díky jeho svatému jménu!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vždyť jeho hněv trvá chvíli,
+
+m: b\breve \bar "||"
+t: * ale jeho laskavost po celý život,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: zvečera se uhostí pláč,
+
+m: b\breve \bar "||"
+t: * zjitra však jásot.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Slyš, Hospodine, a smiluj se nade mnou,
+
+m: b\breve \bar "||"
+t: * pomoz mi, Hospodine!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Můj nářek jsi obrátil v tanec,
+
+m: b\breve \bar "||"
+t: * Hospodine, můj Bože, chci tě chválit na věky!
+
+%% use: responsum
+

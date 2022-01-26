@@ -1,0 +1,80 @@
+%% occasion: 'Čtvrtek 4. týdne 1'
+%% responsum_reference: 'Ž 48 (47),10'
+%% verse_reference: 'Ž 48 (47)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Vzpomínáme, Bože, na tvé milosrdenství ve tvém chrámě.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin je veliký, velmi je hodný chvály
+
+m: b\breve \bar "||"
+t: * v městě našeho Boha.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jeho svatá hora, ten slavný pahorek,
+
+m: b\breve \bar "||"
+t: * je radostí celé země.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hora Sión, to tajemné sídlo Bož,
+
+m: b\breve \bar "||"
+t: * je městem velikého krále.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bůh se ukázal v jejích pevnostech
+
+m: b\breve \bar "||"
+t: * jako jistá ochrana.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jak jsme to slýchali, tak jsme to viděli
+
+m: b\breve \bar "||"
+t: * v městě Hospodina zástupů,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: v městě našeho Boha:
+
+m: b\breve \bar "||"
+t: * Bůh mu dává věčné trvání.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vzpomínáme, Bože, na tvé milosrdenst í
+
+m: b\breve \bar "||"
+t: * ve tvém chrámě.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Jako tvé jméno, Bože, (+)
+

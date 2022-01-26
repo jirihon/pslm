@@ -1,0 +1,67 @@
+%% occasion: 'O pannách (i v době velikonoční)'
+%% responsum_reference: 'Srov. Mt 25,6'
+%% verse_reference: 'Ž 45 (44)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hle, ženich přichází, jděte naproti Kristu Pánu!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Slyš, dcero, pohleď a naslouchej,
+
+m: b\breve \bar "||"
+t: * zapomeň na svůj národ, na svůj otcovský dům!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Sám král touží po tvé kráse:
+
+m: b\breve \bar "||"
+t: * vždyť je tvým pánem, před ním se skloň!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: V plné kráse vstupuje královská dcera,
+
+m: b\breve \bar "||"
+t: * její šat je protkán zlatem.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: V barevném rouchu ji vedou ke králi,
+
+m: b\breve \bar "||"
+t: * za ní ti přivádějí panny, její družky.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Provázeny radostným jásotem
+
+m: b\breve \bar "||"
+t: * vstupují v královský palác.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Místa tvých otců zaujmou tvoji synové,
+
+m: b\breve \bar "||"
+t: * ustanovíš je za knížata po celé zemi.
+
+%% use: responsum
+

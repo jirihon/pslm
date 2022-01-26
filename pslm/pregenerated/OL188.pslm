@@ -1,0 +1,49 @@
+%% occasion: 'Těla a Krve Páně C'
+%% occasion: 'Sv. Hilaria (13. ledna)'
+%% occasion: 'O duchovních pastýřích (v době velikonoční)'
+%% occasion: 'Při svěcení kněží a biskupů (v době velikonoční)'
+%% responsum_reference: 'Ž 110 (109),4b'
+%% verse_reference: ':'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: :
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin řekl mému Pánu:
+
+m: b\breve \bar "||"
+t: * „Seď po mé pravici, + dokud nepoložím
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Žezlo moci ti podává Hospodin ze Siónu:
+
+m: b\breve \bar "||"
+t: * „Panuj uprostřed svých nepřátel!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Ode dne zrození je ti určeno
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin přísahal a nebude toho litovat:
+
+m: b\breve \bar "||"
+t: * „Ty jsi kněz na věky podle Melchizedechova řádu!“
+
+%% use: responsum
+

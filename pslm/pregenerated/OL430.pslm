@@ -1,0 +1,67 @@
+%% occasion: 'Úterý 6. týdne 1'
+%% responsum_reference: 'Ž 29 (28),11b'
+%% verse_reference: 'Ž 29 (28)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Pán dá požehnání a pokoj svému lidu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vzdejte Hospodinu, Boží synové,
+
+m: b\breve \bar "||"
+t: * vzdejte Hospodinu slávu a moc.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vzdejte Hospodinu slávu hodnou jeho jména,
+
+m: b\breve \bar "||"
+t: * v posvátném rouchu se klaňte Hospodinu!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodinův hlas nad vodami!
+
+m: b\breve \bar "||"
+t: * Hospodin nad spoustami vod!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hlas Hospodinův, jak je mocný,
+
+m: b\breve \bar "||"
+t: * hlas Hospodinův, jak je velkolepý!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vznešený Bůh zaburácel hromem,
+
+m: b\breve \bar "||"
+t: * v jeho chrámu však všichni vola jí: Sláva!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin trůnil nad potopou,
+
+m: b\breve \bar "||"
+t: * Hospodin jako král bude trůnit věčně.
+
+%% use: responsum
+

@@ -1,0 +1,65 @@
+%% occasion: 'Středa po 7. neděli velikonoční'
+%% responsum_reference: 'Ž 68 (67),11b'
+%% verse_reference: 'Ž 68 (67)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Bože, ve své dobrotě ses postaral o chudáka.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ukaž, Bože, svou moc,
+
+m: b\breve \bar "||"
+t: * tu moc, Bože, kterou na nás vykonáváš!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať pro tvůj chrám v Jeruzalémě
+
+m: b\breve \bar "||"
+t: * přinášejí králové dary!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pozemské říše, zpívejte Bohu, velebte Pána,
+
+m: b\breve \bar "||"
+t: * který jezdí po nebesích, po odvěkém nebi!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hle, ozývá se jeho hlas, hlas mocný:
+
+m: b\breve \bar "||"
+t: * „Uznejte Boží moc!“
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nad Izraelem se zjevuje jeho vzneše
+
+m: b\breve \bar "||"
+t: * 
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bázeň budí Bůh ze své svatyně, Bůh Izraelův,
+
+m: b\breve \bar "||"
+t: * on dává sílu a
+

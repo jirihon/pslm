@@ -1,0 +1,68 @@
+%% occasion: '(Pondělí 4. týdne 2 - viz OL566)'
+%% occasion: 'Úterý 4. týdne 2'
+%% responsum_reference: 'Ž 86 (85),5a'
+%% verse_reference: 'Ž 86 (85)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Tys, Pane, dobrý a shovívavý.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nakloň, Hospodine, svůj sluch a vyslyš mě,
+
+m: b\breve \bar "||"
+t: * vždyť jsem ubohý a chudý.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zachovej mou duši, neboť jsem ti oddán,
+
+m: b\breve \bar "||"
+t: * pomoz svému služebníku, který v tebe doufá.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ty jsi můj Bůh, smiluj se nade mnou, Pane,
+
+m: b\breve \bar "||"
+t: * neboť stále k tobě volám.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Obvesel život svého služebníka,
+
+m: b\breve \bar "||"
+t: * neboť k tobě, Pane, pozvedám svou duši.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tys totiž, Pane, dobrý a shovívavý,
+
+m: b\breve \bar "||"
+t: * nejvýš milosrdný ke všem, kdo volají k tobě.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vyslyš, Hospodine, mou modlitbu,
+
+m: b\breve \bar "||"
+t: * všimni si hlasu mé snažné prosby.
+
+%% use: responsum
+

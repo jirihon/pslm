@@ -1,0 +1,71 @@
+%% occasion: 'Úterý 10. týdne 2'
+%% responsum_reference: 'Ž 4,7b'
+%% verse_reference: 'Ž 4'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodine, ukaž nám svou jasnou tvář!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bože, zastánce mého práva,
+
+m: b\breve \bar "||"
+t: * vyslechni mě, když volám,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: tys mě v soužení vysvobodil,
+
+m: b\breve \bar "||"
+t: * smiluj se nade mnou a slyš mou prsbu!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Lidé, jak dlouho chcete mít nechápavé srdce?
+
+m: b\breve \bar "||"
+t: * Proč lpíte na tom, co je marné, (+)
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pamatujte: Hospodin vyznamenává svého svatého;
+
+m: b\breve \bar "||"
+t: * Hospodin vyslyší, když k němu zavolám.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Třeste se a nehřešte,
+
+m: b\breve \bar "||"
+t: * na svých ložích uvažujte
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Mnoho lidí říká: „Kdo nám ukáže dobro?“
+
+m: b\breve \bar "||"
+t: * Hospodine, ukaž nám svou jasnou tvář!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Do mého srdce jsi vložil větší radost,
+
+m: b\breve \bar "||"
+t: * než bývá z nadbytku obilí a vinného moštu.
+
+%% use: responsum
+

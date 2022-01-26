@@ -1,0 +1,74 @@
+%% occasion: '(Pondělí 25. týdne 2 - viz OL604)'
+%% occasion: 'Úterý 25. týdne 2'
+%% responsum_reference: 'Ž 119 (118),35a'
+%% verse_reference: 'Ž 119 (118)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Voď mě po cestě svých předpisů, Hospodine.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Blaze těm, jejichž cesta je bezúhonná,
+
+m: b\breve \bar "||"
+t: * kteří kráčejí v zákoně Hospodinově.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pouč mě o smyslu svých nařízení
+
+m: b\breve \bar "||"
+t: * a budu rozjímat o tvých divech.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vyvolil jsem si cestu pravdy,
+
+m: b\breve \bar "||"
+t: * dal jsem přednost tvým rozhodnutím.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pouč mě, ať zachovám tvůj zákon
+
+m: b\breve \bar "||"
+t: * a chráním ho celým svým srdcem.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Voď mě po stezce svých předpisů,
+
+m: b\breve \bar "||"
+t: * neboť v ní mám zalíbení.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tvůj zákon chci stále střežit,
+
+m: b\breve \bar "||"
+t: * na věky a navždy.
+
+%% use: responsum
+

@@ -1,0 +1,74 @@
+%% occasion: '(Pondělí 28. týdne 2 - viz OL526)'
+%% occasion: 'Úterý 28. týdne 2'
+%% responsum_reference: 'Ž 119 (118),77a'
+%% verse_reference: 'Ž 119 (118)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Ať se mi dostane tvého slitování, Hospodine, abych byl živ.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať se mi dostane tvého slitování, Hospodine,
+
+m: b\breve \bar "||"
+t: * tvé pomoci podle tvého slibu.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neodnímej z mých úst slovo pravdy,
+
+m: b\breve \bar "||"
+t: * neboť doufám v tvá rozhodnutí.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tvůj zákon chci stále střežit,
+
+m: b\breve \bar "||"
+t: * na věky a navždy.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pak si budu volně kráčet,
+
+m: b\breve \bar "||"
+t: * protože hledám tvá nařízení.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Budu se těšit tvými předpisy,
+
+m: b\breve \bar "||"
+t: * které miluji.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pozvednu své ruce k tvým předpisům
+
+m: b\breve \bar "||"
+t: * a budu rozjímat o tvých příkazech.
+
+%% use: responsum
+

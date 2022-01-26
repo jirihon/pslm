@@ -1,0 +1,65 @@
+%% occasion: 'Pátek 2. týdne 2'
+%% responsum_reference: 'Ž 57 (56),2a'
+%% verse_reference: 'Ž 57 (56)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Smiluj se nade mnou, Bože, smiluj se!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Smiluj se nade mnou, Bože, smiluj se,
+
+m: b\breve \bar "||"
+t: * neboť k tobě se utíká má duše,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: uchyluji se do stínu tvých křídel,
+
+m: b\breve \bar "||"
+t: * dokud se nepřežene zkáza.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Volám k svrchovanému Bohu,
+
+m: b\breve \bar "||"
+t: * k Bohu, který mi prokazuje dobro.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať zasáhne z nebe a zachrání mě,
+
+m: b\breve \bar "||"
+t: * ať zahanbí ty, kteří se na mě sápou, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ukaž se ve své vznešenosti na nebesích, Bože,
+
+m: b\breve \bar "||"
+t: * nad celou zemí nechť je tvá sláva!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Protože tvá milost je veliká až k nebi,
+
+m: b\breve \bar "||"
+t: * tvá věrnost až do oblak.
+
+%% use: responsum
+

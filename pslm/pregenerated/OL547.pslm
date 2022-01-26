@@ -1,0 +1,51 @@
+%% occasion: '(Pondělí 28. týdne 1 - viz OL457)'
+%% occasion: 'Úterý 28. týdne 1'
+%% occasion: 'Pátek 32. týdne 1'
+%% responsum_reference: 'Srov. Ž 19 (18),5a'
+%% verse_reference: 'Ž 19 (18)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Všude na zemi pronikl jejich hlas.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nebesa vypravují o Boží slávě
+
+m: b\breve \bar "||"
+t: * a dílo jeho rukou zvěstuje obloha.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Den dni o tom podává zprávu,
+
+m: b\breve \bar "||"
+t: * noc noci sděluje poučení.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Není to slovo a nejsou to řeči,
+
+m: b\breve \bar "||"
+t: * jejichž hlas by nebylo slyšet.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Do celé země vychází jejich hlahol,
+
+m: b\breve \bar "||"
+t: * až na konec světa jejich slova.
+
+%% use: responsum
+

@@ -1,0 +1,91 @@
+%% occasion: 'Pondělí po 2. neděli velikonoční'
+%% responsum_reference: 'Ž 2,12c'
+%% verse_reference: 'Ž 2'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Blaze všem, kdo se uchylují k Hospodinu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Proč se pohané bouří,
+
+m: b\breve \bar "||"
+t: * proč národy strojí marné plány?
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pozdvihují se pozemští králové
+
+m: b\breve \bar "||"
+t: * a vladaři se spolu umlouvají +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: „Rozlámejme jejich okovy
+
+m: b\breve \bar "||"
+t: * a odhoďme jejich pouta!“
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Směje se ten, který na nebesích trůní,
+
+m: b\breve \bar "||"
+t: * jsou Pánu k smíchu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Potom k nim rozhorlen mluví,
+
+m: b\breve \bar "||"
+t: * děsí je svým hněvem.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: „Já jsem přece ustanovil svého krále
+
+m: b\breve \bar "||"
+t: * na Siónu, na své svaté hoře!“
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vyhlásím Hospodinovo rozhodnutí,
+
+m: b\breve \bar "||"
+t: * Pán mi řekl: „Ty jsi můj syn, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Požádej mě, a dám ti v majetek národy,
+
+m: b\breve \bar "||"
+t: * do vlastnictví končiny země.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Můžeš je roztlouci železným prutem,
+
+m: b\breve \bar "||"
+t: * jako hliněnou nádobu je můžeš rozbít.“
+
+%% use: responsum
+

@@ -1,0 +1,78 @@
+%% occasion: '(4. neděle adventní C - viz OL3)'
+%% occasion: 'Předvánoční týden (17. prosince)'
+%% responsum_reference: 'Ž 72 (71),7 R'
+%% verse_reference: 'Ž 72 (71)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: V jeho dnech rozkvete spravedlnost a hojnost pokoje na věky.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bože, svěř králi svou pravomoc,
+
+m: b\breve \bar "||"
+t: * svou spravedlnost královskému synu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať vládne tvému lidu spravedlivě,
+
+m: b\breve \bar "||"
+t: * nestranně tvým ubohým.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hory přinesou lidu pokoj
+
+m: b\breve \bar "||"
+t: * pahorky spravedlnost.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zjedná právo ubohým z lidu,
+
+m: b\breve \bar "||"
+t: * pomůže chudákům.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: V jeho dnech rozkvete
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bude vládnout od moře k moři,
+
+m: b\breve \bar "||"
+t: * od Řeky až do končin země.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jeho jménu se bude žehnat na věky,
+
+m: b\breve \bar "||"
+t: * pokud bude slunce svítit, potrvá jeho jméno.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: v něm budou požehnána
+

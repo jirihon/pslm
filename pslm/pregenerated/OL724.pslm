@@ -1,0 +1,70 @@
+%% occasion: '(Sobota 32. týdne 2 - viz OL446)'
+%% occasion: '(Pondělí 33. týdne 2 - viz OL438)'
+%% occasion: '(Úterý 33. týdne 2 - viz OL464)'
+%% occasion: 'Středa 33. týdne 2'
+%% responsum_reference: 'Zj 4,8b'
+%% verse_reference: 'Ž 150'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Svatý, svatý, svatý, Pán, Bůh vševládný.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Chvalte Hospodina v jeho svatyni,
+
+m: b\breve \bar "||"
+t: * chvalte ho na jeho vznešené obloze!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Chvalte ho pro jeho mocná díla,
+
+m: b\breve \bar "||"
+t: * chvalte ho pro jeho svrchovanou velebnost!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Chvalte ho hlaholem polnice,
+
+m: b\breve \bar "||"
+t: * chvalte ho harfou a citerou!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Chvalte ho bubnem a tancem,
+
+m: b\breve \bar "||"
+t: * chvalte ho strunnými nástroji a flétnou!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Chvalte ho zvučnými cimbály,
+
+m: b\breve \bar "||"
+t: * chvalte ho cimbály hlučnými!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Všechno, co dýchá,
+
+m: b\breve \bar "||"
+t: * ať chválí Hospodina!
+
+%% use: responsum
+

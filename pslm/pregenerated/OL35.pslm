@@ -1,0 +1,69 @@
+%% occasion: '(Předvánoční týden (23. prosince) - viz OL4-5)'
+%% occasion: '(Předvánoční týden (24. prosince) - viz OL29)'
+%% occasion: 'Narození Páně, vigilie'
+%% responsum_reference: 'Srov. Ž 89 (88),2a'
+%% verse_reference: 'Ž 89 (88)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Na věky budu zpívat o tvém milosrdenství, Hospodine.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: „Smlouvu jsem sjednal se svým vyvoleným,
+
+m: b\breve \bar "||"
+t: * přísahal jsem Davidovi, svému služebníku:
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tvůj rod zajistím na věky
+
+m: b\breve \bar "||"
+t: * a tvůj trůn zbuduji na všechna pokolení.“
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Šťastný je lid, který dovede oslavovat,
+
+m: b\breve \bar "||"
+t: * chodí, Hospodine, v záři tvé tváře.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: V tvém jménu jásají ustavičně
+
+m: b\breve \bar "||"
+t: * a honosí se tvou spravedlností.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: „On mě bude vzývat: Ty jsi můj otec,
+
+m: b\breve \bar "||"
+t: * můj Bůh a skála mé spásy.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Na věky mu zachovám svou milost,
+
+m: b\breve \bar "||"
+t: * má smlouva s ním platit nepřestane.“
+
+%% use: responsum
+

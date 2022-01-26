@@ -1,0 +1,86 @@
+%% occasion: 'Sobota po 2. neděli postní'
+%% occasion: '24. neděle v mezidobí A'
+%% responsum_reference: 'Ž 103 (102),8a'
+%% verse_reference: 'Ž 103 (102)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodin je milosrdný a milostivý.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Veleb, má duše, Hospodina,
+
+m: b\breve \bar "||"
+t: * vše, co je ve mně, veleb jeho svaté jméno!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Veleb, má duše, Hospodina
+
+m: b\breve \bar "||"
+t: * a nezapomeň na žádné z jeho dobrodiní!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: On odpouští všechny tvé viny,
+
+m: b\breve \bar "||"
+t: * on léčí všechny tvé neduhy.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: On vykupuje tvůj život ze záhuby,
+
+m: b\breve \bar "||"
+t: * on tě věnčí láskou a slitováním.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nechce se přít ustavičně
+
+m: b\breve \bar "||"
+t: * ani se hněvat na věky.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nejedná s námi podle našich hříchů
+
+m: b\breve \bar "||"
+t: * ani podle našich vin nám neodplácí.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jako je vysoko nebe nad zemí,
+
+m: b\breve \bar "||"
+t: * tak je velká jeho láska k těm, kdo se ho bojí.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jako je vzdálen východ od západu,
+
+m: b\breve \bar "||"
+t: * tak vzdaluje od nás naše nepravosti.
+
+%% use: responsum
+

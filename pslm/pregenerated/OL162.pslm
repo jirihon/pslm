@@ -1,0 +1,86 @@
+%% occasion: '6. neděle velikonoční A'
+%% occasion: '14. neděle v mezidobí C'
+%% responsum_reference: 'Ž 66 (65),1'
+%% verse_reference: 'Ž 66 (65)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Jásejte Bohu, všechny země! (nebo:) Aleluja, aleluja.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jásejte Bohu, všechny země,
+
+m: b\breve \bar "||"
+t: * opěvujte slávu jeho jména,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: vzdejte mu velkolepou chválu!
+
+m: b\breve \bar "||"
+t: * Řekněte Bohu: „Jak úžasná jsou tvá díla!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať se ti koří celá země, ať ti zpívá,
+
+m: b\breve \bar "||"
+t: * nechť opěvuje tvé jméno.“
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pojďte a pozorujte Boží skutky:
+
+m: b\breve \bar "||"
+t: * podivuhodně jednal s lidmi!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Moře proměnil v souš;
+
+m: b\breve \bar "||"
+t: * suchou nohou přešli řeku,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: proto se radujme v Bohu!
+
+m: b\breve \bar "||"
+t: * Vládne svou mocí na věky.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pojďte, slyšte, všichni bohabojní,
+
+m: b\breve \bar "||"
+t: * chci vyprávět, co prokázal Bůh mé duši.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bůh buď veleben, že neodmítl mou prsbu,
+
+m: b\breve \bar "||"
+t: * že mi neodňal svou lsku.
+
+%% use: responsum
+

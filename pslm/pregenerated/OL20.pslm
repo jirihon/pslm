@@ -1,0 +1,69 @@
+%% occasion: 'Pátek po 2. neděli adventní'
+%% occasion: 'Čtvrtek po Popeleční středě'
+%% occasion: 'Čtvrtek po 2. neděli postní'
+%% responsum_reference: 'Ž 40 (39),5a'
+%% verse_reference: 'Ž 1'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Blaze tomu, kdo svou naději vložil do Hospodina.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Blaze tomu, kdo nechodí, jak mu radí bezbožní,
+
+m: b\breve \bar "||"
+t: * nepostává na cestě, kudy chodí hříšní, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: ale má zalíbení v Hospodinově zákoně
+
+m: b\breve \bar "||"
+t: * a o jeho zákoně přemítádnem i nocí.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Podobá se tak stromu zasazenému u vodních proudů,
+
+m: b\breve \bar "||"
+t: * ve svůj čas přináší ovoce,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: listí mu nevadne
+
+m: b\breve \bar "||"
+t: * a daří se mu vše, co koná.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jinak je tomu s bezbožnými, zcela jinak:
+
+m: b\breve \bar "||"
+t: * jsou jako pleva rozvátá větrem,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: vždyť Hospodin dbá o cestu spravedlivých,
+
+m: b\breve \bar "||"
+t: * ale cesta bezbožných skončí záhubou.
+
+%% use: responsum
+

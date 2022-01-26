@@ -1,0 +1,67 @@
+%% occasion: '14. neděle v mezidobí B'
+%% responsum_reference: 'Ž 123 (122),2cd'
+%% verse_reference: 'Ž 123 (122)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Naše oči hledí na Hospodina, dokud se nad námi nesmiluje.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zvedám své oči k tobě,
+
+m: b\breve \bar "||"
+t: * který trůníš na nebi.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hle, jako oči služebníků hledí
+
+m: b\breve \bar "||"
+t: * na ruce svých pánů.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jako oči služebnice hledí
+
+m: b\breve \bar "||"
+t: * na ruce své paní,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: tak hledí naše oči na Hospodina, našeho Boha,
+
+m: b\breve \bar "||"
+t: * dokud se nad námi nesmiluje.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Smiluj se nad námi, Hospodine, smiluj se nad námi,
+
+m: b\breve \bar "||"
+t: * neboť jsme přesyceni pohanou.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Přesycena je naše duše
+
+m: b\breve \bar "||"
+t: * výsměchem boháčů, pohanou pyšných.
+
+%% use: responsum
+

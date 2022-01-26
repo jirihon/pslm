@@ -1,0 +1,59 @@
+%% occasion: 'Pondělí 12. týdne 2'
+%% responsum_reference: 'Ž 60 (59),7b'
+%% verse_reference: 'Ž 60 (59)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Pomoz, Bože, svou pravicí a vyslyš nás!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bože, odvrhl jsi nás, (+) rozbil jsi naše šiky,
+
+m: b\breve \bar "||"
+t: * v hněvu ses od nás odvrátil.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Otřásl jsi zemí, rozštěpils ji;
+
+m: b\breve \bar "||"
+t: * zacel její trhliny, neboť kolísá.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Dal jsi zakusit svému lidu tvrdý úděl,
+
+m: b\breve \bar "||"
+t: * napojil jsi nás vínem, až se potácíme.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Přispěj nám na pomoc proti nepříteli,
+
+m: b\breve \bar "||"
+t: * vždyť lidská podpora je marná.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bohem si povedem udatně,
+
+m: b\breve \bar "||"
+t: * on rozdupá naše nepřátele.
+
+%% use: responsum
+

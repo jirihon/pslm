@@ -1,0 +1,67 @@
+%% occasion: 'Sv. Jáchyma a Anny (26. července)'
+%% responsum_reference: 'Lk 1,32b'
+%% verse_reference: 'Ž 132 (131)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Pán Bůh mu dá trůn jeho otce Davida.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Přísahal Hospodin Davidovi
+
+m: b\breve \bar "||"
+t: * s věrností, kterou neporuší:
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: „Potomka z tvého rodu
+
+m: b\breve \bar "||"
+t: * dosadím na tvůj trůn.“
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť Hospodin si vyvolil Sión,
+
+m: b\breve \bar "||"
+t: * přál si ho mít za své sídlo:
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: „To je můj příbytek na věky,
+
+m: b\breve \bar "||"
+t: * zde budu sídlit, ten jsem si zvolil.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zde dám vyrašit rohu Davidovu,
+
+m: b\breve \bar "||"
+t: * rozžehnu svítilnu svému pomazanému.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jeho nepřátele obléknu hanbou,
+
+m: b\breve \bar "||"
+t: * ale na něm zazáří má koruna.“
+
+%% use: responsum
+

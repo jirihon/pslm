@@ -1,0 +1,65 @@
+%% occasion: 'Pátek po 4. neděli velikonoční'
+%% responsum_reference: 'Ž 2,7'
+%% verse_reference: 'Ž 2'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Ty jsi můj syn, já dnes jsem tě zplodil.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Já jsem ustanovil svého krále
+
+m: b\breve \bar "||"
+t: * na Siónu, na své svaté hoře!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vyhlásím Hospodinovo rozhodnutí,
+
+m: b\breve \bar "||"
+t: * Pán mi řekl: „Ty jsi můj syn, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: „Požádej mě, a dám ti v majetek národy,
+
+m: b\breve \bar "||"
+t: * do vlastnictví končiny země.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Můžeš je roztlouci železným prutem,
+
+m: b\breve \bar "||"
+t: * jako hliněnou nádobu je můžeš rozbít.“
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nuže, králové, pochopte!
+
+m: b\breve \bar "||"
+t: * Dejte si říci, vladaři země!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: V bázni se podrobte Hospodinu,
+
+m: b\breve \bar "||"
+t: * s chvěním ho poslouchejte!
+
+%% use: responsum
+

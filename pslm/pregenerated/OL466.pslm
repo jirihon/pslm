@@ -1,0 +1,78 @@
+%% occasion: '(Pátek 12. týdne 1 - viz OL426)'
+%% occasion: 'Sobota 12. týdne 1'
+%% responsum_reference: 'Lk 1,54b'
+%% verse_reference: 'Lk 1'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Pán pamatoval na své milosrdenství.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Velebí má duše Hospodina a můj duch jásá v Bohu, mém spasite li, Q
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: neboť shlédl na svou nepatrnou služebnici. Od této chvíle mě budou
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Že mi učinil veliké věci ten, který je mocný.
+
+m: b\breve \bar "||"
+t: * Jeho jméno je svat .
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: jeho milosrdenství trvá
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Mocně zasáhl svým ramenem,
+
+m: b\breve \bar "||"
+t: * rozptýlil ty, kdo v srdci smýšlejí pyšně.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Mocné sesadil z trůnu
+
+m: b\breve \bar "||"
+t: * a ponížené povýšil,
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: hladové nasytil dobrými věcmi a bohaté propustil s prázdnou.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ujal se svého služebníka Izraele,
+
+m: b\breve \bar "||"
+t: * pamatoval na své milosrdenství,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: jak slíbil našim předkům,
+
+m: b\breve \bar "||"
+t: * Abrahámovi a jeho potomkům na věky.
+
+%% use: responsum
+

@@ -1,0 +1,64 @@
+%% occasion: '24. neděle v mezidobí C'
+%% responsum_reference: 'Lk 15,18'
+%% verse_reference: 'Ž 51 (50)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Vstanu a půjdu k svému Otci.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Smiluj se nade mnou, Bože,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Úplně ze mě smyj mou vinu
+
+m: b\breve \bar "||"
+t: * a očisť mě od mého hříchu.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Stvoř mi čisté srdce, Bože!
+
+m: b\breve \bar "||"
+t: * Obnov ve mně ducha vytrvalosti.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neodvrhuj mě od své tváře
+
+m: b\breve \bar "||"
+t: * a neodnímej mi svého svatého ducha.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Otevři mé rty, Pane,
+
+m: b\breve \bar "||"
+t: * aby má ústa zvěstovala tvou chválu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Mou obětí, Bože, je zkroušený duch,
+
+m: b\breve \bar "||"
+t: * zkroušeným a pokorným srdcem, Bože, nepohrdneš.
+
+%% use: responsum
+

@@ -1,0 +1,67 @@
+%% occasion: 'Sobota po 1. neděli adventní'
+%% responsum_reference: 'Srov. Ž 147 (146),3a'
+%% verse_reference: 'Ž 147 (146)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Chvalte Hospodina, který uzdravuje ty, jimžpuká srdce.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Chvalte Hospodina, neboť je dobrý,
+
+m: b\breve \bar "||"
+t: * opěvujte našeho Boha, neboť je milý, (+)
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin buduje Jeruzalém,
+
+m: b\breve \bar "||"
+t: * shromažďuje rozptýlené z Izraele.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Uzdravuje ty, jimž puká srdce,
+
+m: b\breve \bar "||"
+t: * a obvazuje jejich rány.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Určuje počet hvězd,
+
+m: b\breve \bar "||"
+t: * každou z nich nazývá jménem.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Velký je náš Pán a přemocný,
+
+m: b\breve \bar "||"
+t: * jeho moudrost je bez míry.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pokorné Hospodin pozvedá,
+
+m: b\breve \bar "||"
+t: * bezbožné však ponižuje k zemi.
+
+%% use: responsum
+

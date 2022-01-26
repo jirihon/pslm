@@ -1,0 +1,67 @@
+%% occasion: 'Středa po 4. neděli postní'
+%% responsum_reference: 'Ž 145 (144),18a'
+%% verse_reference: 'Ž 145 (144)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Blízký je Hospodin všem, kdo ho vzývají.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Milosrdný a milostivý je Hospodin,
+
+m: b\breve \bar "||"
+t: * shovívavý a plný lásky.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Dobrotivý je Hospodin kevšm
+
+m: b\breve \bar "||"
+t: * a soucit má se všemi svými tvry.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Věrný je Hospodin ve všech svých slibech
+
+m: b\breve \bar "||"
+t: * a svatý ve všech svých činech.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin podpírá všechny, kdo klesají,
+
+m: b\breve \bar "||"
+t: * a pozvedá všechny sklíčené.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Spravedlivý je Hospodin na všech svých cest.ách
+
+m: b\breve \bar "||"
+t: * a svatý ve všech svých činech.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Blízko je Hospodin všem, kdo ho vzývají,
+
+m: b\breve \bar "||"
+t: * všem, kdo ho vzývají upřímně.
+
+%% use: responsum
+

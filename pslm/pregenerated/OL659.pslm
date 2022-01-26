@@ -1,0 +1,59 @@
+%% occasion: 'Čtvrtek 17. týdne 2'
+%% responsum_reference: 'Ž 146 (145),1b'
+%% verse_reference: 'Ž 146 (145)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Duše má, chval Hospodina!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pokud žiji, chci chválit Hospodina,
+
+m: b\breve \bar "||"
+t: * pokud budu, chci opěvovat svého Boha.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nespoléhejte na knížata, na člověka,
+
+m: b\breve \bar "||"
+t: * u něho není spásy.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vrací se do své půdy, když vyjde jeho dech,
+
+m: b\breve \bar "||"
+t: * tehdy se zhatí všechny jeho plány.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Šťastný, komu pomáhá Bůh Jakubův,
+
+m: b\breve \bar "||"
+t: * kdo doufá v Hospodina, svého Boha.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: On učinil nebe i zemi,
+
+m: b\breve \bar "||"
+t: * moře i vše, co je v nich.
+
+%% use: responsum
+

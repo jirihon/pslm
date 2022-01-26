@@ -1,0 +1,52 @@
+%% occasion: 'Sobota 24. týdne 2'
+%% responsum_reference: 'Ž 116 (114),9'
+%% verse_reference: 'Ž 56 (55)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Budu kráčet před Hospodinem v zemi živých.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pak ustoupí moji nepřátelé,
+
+m: b\breve \bar "||"
+t: * kdykoli tě budu volat; +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: V Boha, jehož slib velebím,
+
+m: b\breve \bar "||"
+t: * v Hospodina, jehož slib velebím,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: v Boha důvěřuji a nebudu se bát,
+
+m: b\breve \bar "||"
+t: * co mi může udělat člověk?
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bože, jsem ti zavázán sliby,
+
+m: b\breve \bar "||"
+t: * přinesu ti děkovnou oběť,
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: že jsi vysvobodil můj život ze smrti, (+)
+

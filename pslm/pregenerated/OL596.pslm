@@ -1,0 +1,57 @@
+%% occasion: 'Pondělí 5. týdne 2'
+%% responsum_reference: 'Ž 132 (131),8'
+%% verse_reference: 'Ž 132 (131)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Vstaň, Hospodine, vejdi na místo svého odpočinku, ty i tvá vznešená archa!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hle, slyšeli jsme o ní v Efratě,
+
+m: b\breve \bar "||"
+t: * nalezli jsme ji na polích Jaaru.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vejděme do Hospodinova příbytku,
+
+m: b\breve \bar "||"
+t: * klaňme se u podnože jeho nohou.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vstaň, Hospodine,(+) vejdi na místo svého odpočinku,
+
+m: b\breve \bar "||"
+t: * ty i tvá vznešená archa!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tvoji kněží ať obléknou spravedlnost
+
+m: b\breve \bar "||"
+t: * a tvoji zbožní ať se jásotem rozjásají!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pro Davida, svého služebníka,
+
+m: b\breve \bar "||"
+t: * eodmítej tvář svého pomazaného!
+
+%% use: responsum
+

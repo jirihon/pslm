@@ -1,0 +1,85 @@
+%% occasion: 'Čtvrtek 7. týdne 2'
+%% responsum_reference: 'Mt 5,3'
+%% verse_reference: 'Ž 49 (48)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Blahoslavení chudí v duchu, neboť jejich je království nebeské.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Takové je chování těch, kteří důvěřují v sebe,
+
+m: b\breve \bar "||"
+t: * takový je konec těch,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kladou je jak ovce do podsvětí,
+
+m: b\breve \bar "||"
+t: * smrt je pase a spravedliví nad nimi vládnou.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jejich vzezření záhy pomine,
+
+m: b\breve \bar "||"
+t: * podsvětí jim bude příbytkem.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ale mou duši Bůh vysvobodí z podsvětí,
+
+m: b\breve \bar "||"
+t: * neboť mě vezme k sobě.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboj se, jestliže někdo zbohatne
+
+m: b\breve \bar "||"
+t: * a vzroste majetek jeho domu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Až zemře, nic si s sebou nevezme,
+
+m: b\breve \bar "||"
+t: * nesestoupí s ním jeho jmění.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: I kdyby si za svého života liboval:
+
+m: b\breve \bar "||"
+t: * „Budou tě chválit, že sis to dobře zařídil“,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: přece se připojí ke svým předkům,
+
+m: b\breve \bar "||"
+t: * kteří navěky neuzří světla.
+
+%% use: responsum
+

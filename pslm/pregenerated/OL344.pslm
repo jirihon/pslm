@@ -1,0 +1,67 @@
+%% occasion: 'Při pohřbu pokřtěného dítěte - verze a)'
+%% responsum_reference: 'Ž 25 (24),1b'
+%% verse_reference: 'Ž 25 (24)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: K tobě pozvedám svou duši, Hospodine.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ukaž mi své cesty, Hospodine,
+
+m: b\breve \bar "||"
+t: * a pouč mě o svých stezkách.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Veď mě ve své pravdě a uč mě,
+
+m: b\breve \bar "||"
+t: * eboť ty jsi Bůh, můj spasitel.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Rozpomeň se, Hospodine, na své slitování,
+
+m: b\breve \bar "||"
+t: * na své milosrdenství, které trvá věčně.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pamatuj na mě ve svém milosrdenství
+
+m: b\breve \bar "||"
+t: * pro svou dobrotivost, Hospodine!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ulev mi v úzkostech srdce,
+
+m: b\breve \bar "||"
+t: * vyprosť mě z nesnází!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Opatruj mou duši a zachraň mě,
+
+m: b\breve \bar "||"
+t: * ať nejsem zahanben, že jsem se utekl k tobě.
+
+%% use: responsum
+

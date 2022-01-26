@@ -1,0 +1,65 @@
+%% occasion: 'Úterý 27. týdne 1'
+%% responsum_reference: 'Ž 130 (129),7bc'
+%% verse_reference: 'Ž 130 (129)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: U Hospodina je slitování, hojné u něho je vykoupení.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Z hlubin volám k tobě, Hospodine,
+
+m: b\breve \bar "||"
+t: * Pane, vyslyš hlas můj!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tvůj sluch ať je nakloně
+
+m: b\breve \bar "||"
+t: * 
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Budešli uchovávat v paměti viny, Hospodine,
+
+m: b\breve \bar "||"
+t: * Pane, kdo obstojí?
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ale u tebe je odpuštění,
+
+m: b\breve \bar "||"
+t: * abychom ti mohli v úctě sloužit.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť u Hospodina je slitování,
+
+m: b\breve \bar "||"
+t: * hojné u něho je vykoupe
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: On vykoupí Izraele
+
+m: b\breve \bar "||"
+t: * ze všech jeho provinění.
+
+%% use: responsum
+

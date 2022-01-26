@@ -1,0 +1,72 @@
+%% occasion: 'Čtvrtek 11. týdne 2'
+%% responsum_reference: 'Ž 97 (96),12a'
+%% verse_reference: 'Ž 97 (96)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Radujte se, spravedliví, v Hospodinu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin kraluje, ať zajásá země,
+
+m: b\breve \bar "||"
+t: * ať se radují četné ostrovy!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Mrak a temnota ho obklopují,
+
+m: b\breve \bar "||"
+t: * spravedlnost a právo jsou základem jeho trůnu.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Předchází jej oheň
+
+m: b\breve \bar "||"
+t: * a kolem dokola spaluje protivníky.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jeho blesky svět ozařují,
+
+m: b\breve \bar "||"
+t: * země to vidí a chvěje se.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jako vosk se taví hory před Hospodinem,
+
+m: b\breve \bar "||"
+t: * před vladařem celé země.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nebesa hlásají jeho spravedlnost
+
+m: b\breve \bar "||"
+t: * a všechny národy vidí jeho slávu.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Hanbí se všichni ctitelé model, +
+

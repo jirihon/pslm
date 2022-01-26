@@ -1,0 +1,85 @@
+%% occasion: 'Středa 18. týdne 1'
+%% responsum_reference: 'Srov. Ž 106 (105),4a'
+%% verse_reference: 'Ž 106 (105)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Pamatuj na nás, Hospodine, pro náklonnost k svému lidu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hřešili jsme jako naši otcové,
+
+m: b\breve \bar "||"
+t: * páchali jsme nepravost, jednali bezbožně.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Naši otcové v Egyptě
+
+m: b\breve \bar "||"
+t: * nechápali tvé divy.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Brzy zapomněli na Hospodinovy skutky,
+
+m: b\breve \bar "||"
+t: * nevyčkali jeho rozhodnutí.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Dali se strhnout žádostivostí na poušti,
+
+m: b\breve \bar "||"
+t: * pokoušeli Boha na pustině.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zapomněli na Boha, který je zachránil,
+
+m: b\breve \bar "||"
+t: * který v Egyptě vykonal divy,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: zázraky v Chámově zemi,
+
+m: b\breve \bar "||"
+t: * úžasné skutky u Rudého moře.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Rozhodl se, že je zničí,
+
+m: b\breve \bar "||"
+t: * kdyby se Mojžíš, jeho vyvolený, u něho nepřimlouval,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: aby odvrátil jeho hněv,
+
+m: b\breve \bar "||"
+t: * jímž je chtěl zahubit.
+
+%% use: responsum
+

@@ -1,0 +1,75 @@
+%% occasion: 'Úterý 16. týdne 1'
+%% responsum_reference: 'Ex 15,1a'
+%% verse_reference: 'Ex 15'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodinu chci zpívat, neboť je velmi vznešený.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Dechem tvých nozder se nakupily vody,
+
+m: b\breve \bar "||"
+t: * jako hráz se vztyčily proudící vlny,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: příboje ztuhly uprostřed moře.
+
+m: b\breve \bar "||"
+t: * Nepřítel řekl: „Budu pronásledovat a dostihnu;
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: rozdělím kořist, naplní se jí má touha:
+
+m: b\breve \bar "||"
+t: * vytasím svůj meč, má ruka je zahubí!“
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tu zavál tvůj hněv, a přikrylo je moře;
+
+m: b\breve \bar "||"
+t: * potopili se jak olovo v bouřných vodách.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vztáhl jsi svou pravici,
+
+m: b\breve \bar "||"
+t: * a pohltila je země.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Přivedeš a zasadíš svůj lid na hoře, na svém vlastnictví,
+
+m: b\breve \bar "||"
+t: * na místě, kde si, Hospodine, buduješ své sídlo,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: ve svatyni, Pane, kterou vystavěly tvé ruce.
+
+m: b\breve \bar "||"
+t: * Hospodin bude kralovat na věky a navždy.
+
+%% use: responsum
+

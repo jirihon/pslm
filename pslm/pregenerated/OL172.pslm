@@ -1,0 +1,65 @@
+%% occasion: 'Pondělí po 7. neděli velikonoční'
+%% responsum_reference: 'Ž 68 (67),11b'
+%% verse_reference: 'Ž 68 (67)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Bože, ve své dobrotě ses postaral o chudáka.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bůh povstává, jeho nepřátelé se rozptylují,
+
+m: b\breve \bar "||"
+t: * ti, kdo ho nenávidí, prchají před ním,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: tratí se, jako se rozplývá dým,
+
+m: b\breve \bar "||"
+t: * jako taje vosk před ohněm, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Spravedliví se však radují, jásají před Bohem
+
+m: b\breve \bar "||"
+t: * a veselí se v radosti.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zpívejte Bohu, velebte jeho jméno,
+
+m: b\breve \bar "||"
+t: * jeho jméno je Hospodin.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Otec sirotků, ochránce vdov
+
+m: b\breve \bar "||"
+t: * je Bůh ve svém svatém příbytku.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bůh zjednává opuštěným domov,
+
+m: b\breve \bar "||"
+t: * vězně vyvádí k šťastnému životu.
+
+%% use: responsum
+

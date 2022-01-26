@@ -1,0 +1,49 @@
+%% occasion: 'Sobota 23. týdne 2'
+%% responsum_reference: 'Ž 116 (115),13'
+%% verse_reference: 'Ž 116 (115)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Vezmu kalich spásy a budu vzývat jméno Hospodinovo.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Čím se odplatím Hospodinu
+
+m: b\breve \bar "||"
+t: * za všechno, co mi prokázal?
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vezmu kalich spásy
+
+m: b\breve \bar "||"
+t: * a budu vzývat jméno Hospodinovo.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Přinesu ti oběť díků, Hospodi
+
+m: b\breve \bar "||"
+t: * 
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Splním své sliby Hospodinu
+
+m: b\breve \bar "||"
+t: * před veškerým jeho lidem.
+
+%% use: responsum
+

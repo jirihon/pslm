@@ -1,0 +1,85 @@
+%% occasion: 'Úterý Svatého týdne'
+%% occasion: '4. neděle v mezidobí C'
+%% responsum_reference: 'Ž 71 (70),15a'
+%% verse_reference: 'Ž 71 (70)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key d \major
+
+%% part: responsum
+
+m: fis'8. e16 d4 \bar "" e8 fis \bar "" g fis4 e8 \bar "|" fis g \bar "" a b \bar "" a a a4~ a8 r \bar "||"
+t: Ústa má budou vyprávět o tvé spravedlnosti.
+
+%% part: verse
+
+m: g'\breve fis8\verseAccent g a a4 r8
+t: K tobě se utíkám, Hospodine,
+
+m: e8 \bar "|" e\breve d8[(\verseAccent e)] fis fis4 r \bar "||"
+t: * nechť nejsem zahanben na věky!
+
+%% part: verse
+
+m: g'\breve fis8[(\verseAccent g)] a a4 r4 \bar "|"
+t: Ve své spravedlnosti mě vyprosť a vysvoboď,
+
+m: e\breve d8[(\verseAccent e)] fis fis4 r \bar "||"
+t: * nakloň ke mně svůj sluch a zachraň mě!
+
+%% use: responsum
+
+%% part: verse
+
+m: g'\breve fis8[(\verseAccent g a)] a2 \bar "|"
+t: Buď mi ochrannou skálou,
+
+m: e\breve d8[(\verseAccent e)] fis fis4 r \bar "||"
+t: * pevností k mé záchraně,
+
+%% part: verse
+
+m: g'\breve fis8\verseAccent g a a4 r \bar "|"
+t: neboť tys moje skála a tvrz.
+
+m: e\breve d8\verseAccent e fis fis4 r \bar "||"
+t: * Bože můj, vysvoboď mě z ruky bezbožného.
+
+%% use: responsum
+
+%% part: verse
+
+m: g'\breve fis8[(\verseAccent g a)] a4 r8
+t: Vždyť tys má naděje, Pane,
+
+m: e \bar "|" e\breve d8\verseAccent e fis fis4 r \bar "||"
+t: * má důvěra od mého mládí, Hospodine!
+
+%% part: verse
+
+m: g'\breve fis8[(\verseAccent g a)] a4 r \bar "|"
+t: V tobě jsem měl oporu od matčina lůna,
+
+m: e\breve d8\verseAccent e[( fis)] fis4 r \bar "||"
+t: * od klína mé matky byls mým ochráncem.
+
+%% use: responsum
+
+%% part: verse
+
+m: g'\breve fis8\verseAccent g a a a4 r4 \bar "|"
+t: Ústa má budou vyprávět o tvé spravedlnosti,
+
+m: e\breve d8[(\verseAccent e)] fis fis4 r \bar "||"
+t: * po celý den budu vyprávět o tvé pomoci.
+
+%% part: verse
+
+m: g'\breve fis8[(\verseAccent g a)] a4 r8
+t: Bože, učils mě od mého mládí,
+
+m: e \bar "|" e\breve d8[(\verseAccent e fis)] fis4 r \bar "||"
+t: * až dosud hlásám tvé podivuhodné činy.
+
+%% use: responsum

@@ -1,0 +1,67 @@
+%% occasion: 'Pátek 18. týdne 2'
+%% responsum_reference: 'Dt 32,39c'
+%% verse_reference: 'Dt 32'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Já usmrcuji a já oživuji.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Blízký je den jejich zkázy,
+
+m: b\breve \bar "||"
+t: * rychle přijde osud jim stanovený,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: neboť Hospodin se ujme práva svého lidu,
+
+m: b\breve \bar "||"
+t: * smiluje se nad svými služebníky.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Podívejte se, že já, já to jsem,
+
+m: b\breve \bar "||"
+t: * není mimo mne boha,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: já usmrcuji a já oživuji,
+
+m: b\breve \bar "||"
+t: * když udeřím, tak i uzdravuji!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jestliže naostřím svůj blýskavý meč,
+
+m: b\breve \bar "||"
+t: * připravíli se k právu má ruka,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: pomstím se svým nepřátelům,
+
+m: b\breve \bar "||"
+t: * odplatím těm, kdo mě nenávidí.
+
+%% use: responsum
+

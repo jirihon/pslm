@@ -1,0 +1,93 @@
+%% occasion: '(5. neděle postní C - viz OL16)'
+%% occasion: '(Pondělí po 5. neděli postní - viz OL95-96)'
+%% occasion: 'Úterý po 5. neděli postní'
+%% responsum_reference: 'Ž 102 (101),2'
+%% verse_reference: 'Ž 102 (101)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodine, slyš mou modlitbu a volání mé ať k tobě pronikne!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodine, slyš mou modlitbu
+
+m: b\breve \bar "||"
+t: * a volání mé ať k tobě pronikne!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neskrývej svou tvář přede mnou
+
+m: b\breve \bar "||"
+t: * v den, kdy je mi úzko.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nakloň ke mně svůj sluch:
+
+m: b\breve \bar "||"
+t: * když volám, rychle mě vyslyš!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pohané budou ctít tvé jméno, Hospodine,
+
+m: b\breve \bar "||"
+t: * a všichni králové země tvou slávu,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: až Hospodin znovu zbuduje Sión,
+
+m: b\breve \bar "||"
+t: * až se objeví ve své slávě.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Skloní se k modlitbě opuštěných
+
+m: b\breve \bar "||"
+t: * a nepohrdne jejich prosbou.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kéž je to zapsáno pro příští pokolení,
+
+m: b\breve \bar "||"
+t: * aby budoucí národ chválil Hospodina.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť Hospodin shlédl ze své vznešené svatyně,
+
+m: b\breve \bar "||"
+t: * popatřil z nebe na zem,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: aby slyšel nářek zajatců,
+
+m: b\breve \bar "||"
+t: * aby vysvobodil odsouzené k smrti.
+
+%% use: responsum
+

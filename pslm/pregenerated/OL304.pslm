@@ -1,0 +1,41 @@
+%% occasion: 'O učitelích Církve (v době velikonoční)'
+%% responsum_reference: 'Jan 6,63b'
+%% verse_reference: 'Ž 19 (18)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Tvá slova, Pane, jsou duch a jsou život.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Hospodinův zákon je dokonalý, (+) R
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Hospodinovy předpisy jsou správné, (+)
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bázeň před Hospodinem je upřímná,trvá na věky,
+
+m: b\breve \bar "||"
+t: * Hospodinovy výroky jsou pravdivé, (+)
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Dražší jsou nad zlato, nad hojnost zlata ryzího,
+
+m: b\breve \bar "||"
+t: * sladší jsou nad med, nad šťávu z plástů.
+
+%% use: responsum
+

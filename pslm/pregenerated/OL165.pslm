@@ -1,0 +1,82 @@
+%% occasion: '(6. neděle velikonoční C - viz OL150)'
+%% occasion: '(Pondělí po 6. neděli velikonoční - viz OL58)'
+%% occasion: '(Úterý po 6. neděli velikonoční - viz OL75)'
+%% occasion: 'Středa po 6. neděli velikonoční'
+%% occasion: 'O pannách (i v době velikonoční)'
+%% occasion: 'Při pohřbu pokřtěného dítěte'
+%% responsum_reference: 'Srov. Ž 148,12'
+%% verse_reference: 'Ž 148'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Jinoši a panny, chvalte Hospodinovo jméno! (v době velikonoční)
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Chvalte Hospodina z nebes,
+
+m: b\breve \bar "||"
+t: * chvalte ho na výsostech!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Chvalte ho, všichni jeho andělé,
+
+m: b\breve \bar "||"
+t: * chvalte ho, všechny jeho zástupy!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Králové země a všechny národy,
+
+m: b\breve \bar "||"
+t: * knížata a všichni soudcové země,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: jinoši a s nimi panny,
+
+m: b\breve \bar "||"
+t: * starci spolu s dětmi.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať chválí jméno Hospodinovo,
+
+m: b\breve \bar "||"
+t: * neboť jen jeho jméno je vznešené.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jeho velebnost převyšuje zemi i nebe
+
+m: b\breve \bar "||"
+t: * a velikou moc dal svému lidu.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Chválou je všem svým svatým,
+
+m: b\breve \bar "||"
+t: * synům Izraele, (+) lidu, který je mu blízký.
+
+%% use: responsum
+

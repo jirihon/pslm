@@ -1,0 +1,62 @@
+%% occasion: 'Sobota 10. týdne 2'
+%% responsum_reference: 'Ž 16 (15),5a'
+%% verse_reference: 'Ž 16 (15)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Ty jsi, Hospodine, mým dědičným podílem.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ochraň mě, Bože, neboť se k tobě utíkám.
+
+m: b\breve \bar "||"
+t: * Pravím Hospodinu: „Ty jsi můj Pán.“
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Ty jsi, Hospodine,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Velebím Hospodina, že mi byl rádcem,
+
+m: b\breve \bar "||"
+t: * k tomu mě i za noci vybízí mé nitro.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodina mám neustále na zřeteli,
+
+m: b\breve \bar "||"
+t: * nezakolísám, když je mi po pravici.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Proto se raduje mé srdce, má duše plesá,
+
+m: b\breve \bar "||"
+t: * i mé tělo bydlí v bezpečí,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: neboť nezanecháš mou duši v podsvětí,
+
+m: b\breve \bar "||"
+t: * nedopustíš, aby tvůj svatý spatřil porušení.
+
+%% use: responsum
+

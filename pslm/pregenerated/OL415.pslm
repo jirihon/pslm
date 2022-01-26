@@ -1,0 +1,83 @@
+%% occasion: 'Pátek 3. týdne 1'
+%% responsum_reference: 'Ž 37 (36),30a'
+%% verse_reference: 'Ž 37 (36)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Ústa spravedlivého mluví moudře.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Doufej v Hospodina a čiň dobro,
+
+m: b\breve \bar "||"
+t: * pak budeš přebývat v zemi a těšit se klidu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Raduj se v Hospodinu,
+
+m: b\breve \bar "||"
+t: * a dá ti, po čem touží tvé srdce.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodinu svěř svůj osud,
+
+m: b\breve \bar "||"
+t: * v něho důvěřuj, on sám bude jednat.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tvé spravedlnosti dá vzejít jako světlu,
+
+m: b\breve \bar "||"
+t: * tvému právu jak polednímu jasu.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin dává krokům člověka sílu,
+
+m: b\breve \bar "||"
+t: * má zalíbení v jeho životní cestě.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jestliže padne, nezůstane ležet,
+
+m: b\breve \bar "||"
+t: * protože mu Hospodin podpírá ruku.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Spravedlivým přichází spása od Hospodina,
+
+m: b\breve \bar "||"
+t: * v dobách tísně je jim útočištěm.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin jim pomáhá a je vysvobozuje,
+
+m: b\breve \bar "||"
+t: * bezbožníků je zbavuje a chrání je, +
+

@@ -1,0 +1,44 @@
+%% occasion: 'Středa 8. týdne 1'
+%% responsum_reference: 'Sir 36,1b'
+%% verse_reference: 'Ž 98 (97)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Ukaž nám, Pane, světlo svého slitování.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nepřipomínej nám viny předků,
+
+m: b\breve \bar "||"
+t: * tvé milosrdenství ať nám pospíchá vstříc, +
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Pomoz nám, Bože, náš spasiteli, (+)
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať k tobě přijde vzdychání zajatých,
+
+m: b\breve \bar "||"
+t: * mocí svého ramene nech naživu odsouzené na smrt.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: My však, tvůj lid a ovce tvé pastvy,
+
+m: b\breve \bar "||"
+t: * budem tě chválit na věky, +
+

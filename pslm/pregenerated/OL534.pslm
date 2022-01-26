@@ -1,0 +1,65 @@
+%% occasion: 'Středa 25. týdne 1'
+%% responsum_reference: 'Tob 13,1b'
+%% verse_reference: 'Tob 13'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Veliký jsi, Hospodine, na věky.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Požehnaný Bůh věčně živý + i jeho království,
+
+m: b\breve \bar "||"
+t: * protože on trestá a se smilovává,
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: svrhuje do podsvětí +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Oslavujte ho před národy, synové Izraele,
+
+m: b\breve \bar "||"
+t: * neboť vás mezi ně rozptýlil +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ctěte ho přede vším, co žije,
+
+m: b\breve \bar "||"
+t: * protože on je náš Pán a on je náš otec, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bude vás trestat pro vaše nepravosti,
+
+m: b\breve \bar "||"
+t: * ale smiluje se nad vámi nade všem i
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: a shromáždí vás ze všech národů,
+
+m: b\breve \bar "||"
+t: * kdekoli jste byli rozptýleni.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Všichni vyvolení, velebte Pána, +
+

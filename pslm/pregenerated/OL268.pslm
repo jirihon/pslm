@@ -1,0 +1,67 @@
+%% occasion: 'Narození sv. Jana Křtitele (24. června)'
+%% responsum_reference: 'Ž 139 (138),14a'
+%% verse_reference: 'Ž 139 (138)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Chválím tě, že jsem vznikl tak podivuhodně.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodine, ty mě zkoumáš a znáš,
+
+m: b\breve \bar "||"
+t: * ty víš, když sedám i když vstávám.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Poznáváš mé myšlenky již zdálky;
+
+m: b\breve \bar "||"
+t: * ať jdu nebo ležím, ty to určuješ,+ všímáš si všech mých cest.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tys přece stvořil mé ledví,
+
+m: b\breve \bar "||"
+t: * utkal jsi mě v lůně mé matky.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Chválím tě, že jsem vznikl tak podivuhodně,
+
+m: b\breve \bar "||"
+t: * úžasná jsou tvoje díla.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Dokonale znáš mou duši,
+
+m: b\breve \bar "||"
+t: * má podstata ti nezůstala utajena,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: když jsem byl tvořen v skrytu,
+
+m: b\breve \bar "||"
+t: * spřádán v hlubinách země.
+
+%% use: responsum
+

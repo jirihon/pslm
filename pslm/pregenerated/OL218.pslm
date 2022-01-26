@@ -1,0 +1,67 @@
+%% occasion: '16. neděle v mezidobí A'
+%% responsum_reference: 'Ž 86 (85),5a .'
+%% verse_reference: 'Ž 86 (85)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Tys, Pane, dobrý a shovívavý.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tys, Pane, dobrý a shovívavý,
+
+m: b\breve \bar "||"
+t: * nejvýš milosrdný ke všem, kdo volají k tobě.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vyslyš, Hospodine, mou modlitbu,
+
+m: b\breve \bar "||"
+t: * všimni si hlasu mé snažné prosby.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Všechny národy, které jsi učinil, přijdou,
+
+m: b\breve \bar "||"
+t: * budou se ti klanět, Pane, + a velebit tvé jméno.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Protože tys veliký a činíš divy,
+
+m: b\breve \bar "||"
+t: * ty jediný jsi Bůh.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ty však jsi, Pane, Bůh milosrdný a milostivý,
+
+m: b\breve \bar "||"
+t: * váhavý k hněvu, (+)
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Obrať se ke mně
+
+m: b\breve \bar "||"
+t: * a smiluj se nade mnou.
+
+%% use: responsum
+

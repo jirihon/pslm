@@ -1,0 +1,68 @@
+%% occasion: 'Úterý po 4. neděli postní'
+%% occasion: 'a Posvěcení lateránské baziliky (9. listopadu)'
+%% responsum_reference: 'Ž 46 (45),5'
+%% verse_reference: 'Původní verze žalmu z roku 1975.'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Proudy bystřin jsou k radosti Božímu městu, přesvatému stánku Nejvyššího.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bůh je naše útočiště a síla,
+
+m: b\breve \bar "||"
+t: * osvědčil se jako nejlepší pomocník v nouzi.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Proto se nebojíme, i kdyby se kácela země,
+
+m: b\breve \bar "||"
+t: * i kdyby se hory řítily do hlubin moře.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Proudy bystřin jsou k radosti Božímu městu,
+
+m: b\breve \bar "||"
+t: * přesvatému stánku Nejvyššího,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bůh je v jeho středu, nepohne se,
+
+m: b\breve \bar "||"
+t: * od časného jitra ho Bůh bude chránit.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: námi je Hospodin zástupů,
+
+m: b\breve \bar "||"
+t: * Bůh Jakubův je naší tvrzí.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pojďte, pozorujte Boží skutky,
+
+m: b\breve \bar "||"
+t: * které učinil k úžasu země.
+
+%% use: responsum
+

@@ -1,0 +1,52 @@
+%% occasion: 'Pátek 24. týdne 2'
+%% responsum_reference: 'Ž 17 (16),15b'
+%% verse_reference: 'Ž 17 (16)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Až procitnu, Hospodine, nasytím se pohledem na tebe.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Slyš, Hospodine, spravedlivou žádost,
+
+m: b\breve \bar "||"
+t: * všimni si mého nářku, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Volám k tobě, protože mě vyslyšíš, Bože,
+
+m: b\breve \bar "||"
+t: * popřej mi sluchu, slyš mé slovo!
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Ukaž mi svou zvláštní milost +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Opatruj mě jako zřítelnici oka,
+
+m: b\breve \bar "||"
+t: * do stínu svých perutí mě ukryj.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ve spravedlnosti uzřím tvou tvář,
+
+m: b\breve \bar "||"
+t: * až procitnu, nasytím se pohledem na tebe.
+
+%% use: responsum
+

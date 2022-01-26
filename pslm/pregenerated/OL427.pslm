@@ -1,0 +1,62 @@
+%% occasion: 'Pátek 5. týdne 1'
+%% responsum_reference: 'Srov Ž 32 (31),7'
+%% verse_reference: 'Ž 32 (31)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Tys mé útočiště, zahrneš mě radostí ze záchrany.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Šťastný je ten, komu byla odpuštěna nepravost,
+
+m: b\breve \bar "||"
+t: * jehož hřích je přikryt.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Šťastný je člověk,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vyznal jsem se ti ze svého hříchu,
+
+m: b\breve \bar "||"
+t: * svou nepravost jsem nezatajil.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Řekl jsem:(+)„Vyznávám se Hospodinu ze své ničemnosti.“
+
+m: b\breve \bar "||"
+t: * tys odpustil, co jsem zavinil hříchem.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Proto se bude k tobě modlit každý zbožný v čas tísně.
+
+m: b\breve \bar "||"
+t: * Až budou dorážet přívaly vod, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tys mé útočiště, ušetříš mě úzkostí,
+
+m: b\breve \bar "||"
+t: * zahrneš mě radostí ze záchrany.
+
+%% use: responsum
+

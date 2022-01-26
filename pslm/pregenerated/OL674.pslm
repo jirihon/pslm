@@ -1,0 +1,48 @@
+%% occasion: '(Úterý 21. týdne 2 - viz OL613)'
+%% occasion: 'Středa 21. týdne 2'
+%% responsum_reference: 'Ž 128 (127),1a'
+%% verse_reference: 'Ž 128 (127)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Blaze každému, kdo se bojí Hospodina.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Blaze každému, kdo se bojí Hospodina,
+
+m: b\breve \bar "||"
+t: * kdo kráčí po jeho cestách.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Budeš jísti z výtěžku svých rukou,
+
+m: b\breve \bar "||"
+t: * bude ti blaze a dobře.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hle, tak bývá požehnán muž,
+
+m: b\breve \bar "||"
+t: * který se bojí Hospodina.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať ti Hospodin požehná ze Siónu,
+
+m: b\breve \bar "||"
+t: * abys viděl štěstí Jeruzaléma (+)
+

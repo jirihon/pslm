@@ -1,0 +1,80 @@
+%% occasion: 'Pondělí 13. týdne 2'
+%% responsum_reference: 'Ž 50 (49),23b'
+%% verse_reference: 'Ž 50 (49)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Kdo žije správně, tomu ukážu Boží spásu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Proč odříkáváš má přikázání
+
+m: b\breve \bar "||"
+t: * a bereš do úst mou smlouvu
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: ty, který nenávidíš kázeň
+
+m: b\breve \bar "||"
+t: * a má slova házíš za sebe?
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Když jsi viděl zloděje, běžel jsi s ním
+
+m: b\breve \bar "||"
+t: * a s cizoložníky jsi míval účast.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zlo jsi vypouštěl ze svých úst
+
+m: b\breve \bar "||"
+t: * a tvůj jazyk osnoval úskok.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bavil ses pomlouváním svého bratra,
+
+m: b\breve \bar "||"
+t: * tupil jsi syna své matky.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Takto jsi jednal, a já mám mlčet? +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Uvažte to, kdo zapomínáte na Boha!
+
+m: b\breve \bar "||"
+t: * Jinak vás zahubím a nikdo vám nepomůže!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kdo přináší oběť chvály, ten mě ctí,
+
+m: b\breve \bar "||"
+t: * kdo žije správně, tomu ukážu Boží spásu.
+
+%% use: responsum
+

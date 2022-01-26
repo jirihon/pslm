@@ -1,0 +1,80 @@
+%% occasion: 'Úterý po 1. neděli postní'
+%% responsum_reference: 'Ž 34 (33),5b'
+%% verse_reference: 'Ž 34 (33)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Pán mě vysvobodil ze všech mých obav.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Velebte se mnou Hospodina,
+
+m: b\breve \bar "||"
+t: * oslavujme spolu jeho jméno!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hledal jsem Hospodina a vyslyšel mě,
+
+m: b\breve \bar "||"
+t: * vysvobodil mě ze všech mých obav.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pohleďte k němu, ať se rozveselíte,
+
+m: b\breve \bar "||"
+t: * vaše tvář se nemusí zardívat hanbou.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hle, ubožák zavolal, a Hospodin slyšel,
+
+m: b\breve \bar "||"
+t: * pomohl mu ve všech jeho strastech.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodinovy oči hledí na spravedlivé,
+
+m: b\breve \bar "||"
+t: * k jejich volání se kloní jeho sluch.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodinův hněv stíhá ty, kdo páchají zlo,
+
+m: b\breve \bar "||"
+t: * aby vyhladil ze země vzpomínku na ně.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Spravedliví volali, a Hospodin slyšel,
+
+m: b\breve \bar "||"
+t: * vysvobodil je z každé jejich tísně.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Blízko je Hospodin těm,
+

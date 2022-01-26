@@ -1,0 +1,73 @@
+%% occasion: 'Čtvrtek 32. týdne 1'
+%% responsum_reference: 'Ž 119 (118),12b'
+%% verse_reference: 'Ž 119 (118)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Nauč mě, Hospodine, svým příkazům!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Na věky, Hospodine, trvá tvé slovo,
+
+m: b\breve \bar "||"
+t: * je pevné jako nebesa.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Od pokolení do pokolení je tvá věrnost,
+
+m: b\breve \bar "||"
+t: * založil jsi zemi, a ona trvá.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Podle tvých rozhodnutí trvá stále,
+
+m: b\breve \bar "||"
+t: * neboť všechno ti slouží.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Výklad tvých slov osvěcuje,
+
+m: b\breve \bar "||"
+t: * poučuje prosté lidi.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jasnou tvář ukaž svému služebníku
+
+m: b\breve \bar "||"
+t: * a nauč mě svým příkazům!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kéž jsem živ, abych tě chválil,
+
+m: b\breve \bar "||"
+t: * a tvá rozhodnutí ať mi pomáhají!
+
+%% use: responsum
+

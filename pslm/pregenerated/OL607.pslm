@@ -1,0 +1,36 @@
+%% occasion: 'Pondělí 7. týdne 2'
+%% responsum_reference: 'Ž 19 (18),9a . .'
+%% verse_reference: 'Ž 19 (18)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodinovy předpisy jsou správné, působí radost srdci.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Hospodinův zákon je dokonalý, (+)
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Hospodinovy předpisy jsou správné, (+)
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bázeň před Hospodinem je upřímná, trvá na věky,
+
+m: b\breve \bar "||"
+t: * Hospodinovy výroky jsou pravdivé, (+)
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Nechť se ti líbí slova mých úst +
+

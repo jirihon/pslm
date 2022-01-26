@@ -1,0 +1,85 @@
+%% occasion: 'Úterý 19. týdne 1'
+%% responsum_reference: 'Dt 32,9a'
+%% verse_reference: 'Dt 32'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodinovým podílem je jeho lid.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodinovo jméno budu vzývat,
+
+m: b\breve \bar "||"
+t: * vzdejte čest našemu Bohu!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Je Skála, dokonalá jsou jeho díla,
+
+m: b\breve \bar "||"
+t: * neboť všechny jeho cesty jsou spravedlivé.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pamatuj na dávné dny,
+
+m: b\breve \bar "||"
+t: * uvažuj o létech mnohých pokolení!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ptej se svého otce, a oznámí ti,
+
+m: b\breve \bar "||"
+t: * ptej se svých starců, a řeknou ti:
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Když Nejvyšší vykazoval národům jejich sídla,
+
+m: b\breve \bar "||"
+t: * když rozděloval syny Adamovy,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: stanovil hranice národů
+
+m: b\breve \bar "||"
+t: * podle počtu synů Izraele.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť Hospodinovým podílem je jeho lid,
+
+m: b\breve \bar "||"
+t: * Jakub je dědičný jeho úděl.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin sám ho vedl,
+
+m: b\breve \bar "||"
+t: * nebyl u něho cizí Bůh.
+
+%% use: responsum
+

@@ -1,0 +1,44 @@
+%% occasion: 'Čtvrtek 24. týdne 1'
+%% responsum_reference: 'Ž 111 (110),2a'
+%% verse_reference: 'Ž 111 (110)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Veliká jsou Hospodinova díla.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Skutky jeho rukou jsou věrné a spravedlivé,
+
+m: b\breve \bar "||"
+t: * spolehlivé jsou všechny jeho příkazy,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: pevné na věky, navždy,
+
+m: b\breve \bar "||"
+t: * provedené v pravdě a právu.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Vykoupení seslal svému lidu, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Počátek moudrosti je bát se Hospodina:
+
+m: b\breve \bar "||"
+t: * moudře jednají všichni, kdo tak činí; +
+

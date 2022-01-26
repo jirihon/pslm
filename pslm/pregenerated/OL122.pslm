@@ -1,0 +1,57 @@
+%% occasion: '(Zmrtvýchvstání Páně, vigilie (4. čtení) - viz OL26)'
+%% occasion: '(Zmrtvýchvstání Páně, vigilie (5. čtení) - viz OL65)'
+%% occasion: '(Zmrtvýchvstání Páně, vigilie (6. čtení) - viz OL88)'
+%% occasion: 'Zmrtvýchvstání Páně, vigilie (7. čtení)'
+%% responsum_reference: 'Ž 42 (41),2'
+%% verse_reference: 'Ž 42 (41), 43 (42)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Jako laň prahne po vodních bystřinách, tak prahne má duše po tobě, Bože!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Má duše žízní po Bohu, po živém Bohu:
+
+m: b\breve \bar "||"
+t: * kdy už smím přijít a spatřit Boží tvář?
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vzpomínám, jak jsem putovával v zástupu,
+
+m: b\breve \bar "||"
+t: * jak jsem je vodíval k Božímu domu
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: s hlasitým jásotem a chvalozpěvem
+
+m: b\breve \bar "||"
+t: * ve svátečním průvodu.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Sešli své světlo a svou věrnost:
+
+m: b\breve \bar "||"
+t: * ty ať mě vedou a přivedou +
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Pak přistoupím k Božímu oltáři, +
+

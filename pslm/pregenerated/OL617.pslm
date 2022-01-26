@@ -1,0 +1,49 @@
+%% occasion: 'Středa 9. týdne 2'
+%% responsum_reference: 'Ž 123 (122),2cd'
+%% verse_reference: 'Ž 123 (122)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Naše oči hledí na Hospodina, dokud se nad námi nesmiluje.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zvedám své oči k tobě,
+
+m: b\breve \bar "||"
+t: * který trůníš na nebi.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hle, jako oči služebníků hledí
+
+m: b\breve \bar "||"
+t: * na ruce svých pánů.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jako oči služebnice hledí
+
+m: b\breve \bar "||"
+t: * na ruce své paní,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: tak hledí naše oči na Hospodina, našeho Boha,
+
+m: b\breve \bar "||"
+t: * dokud se nad námi nesmiluje.
+
+%% use: responsum
+

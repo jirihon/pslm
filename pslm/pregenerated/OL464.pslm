@@ -1,0 +1,57 @@
+%% occasion: 'Úterý 12. týdne 1'
+%% responsum_reference: 'Ž 15 (14),1a'
+%% verse_reference: 'Ž 15 (14)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodine, kdo smí prodlévat ve tvém stánku?
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kdo žije bez vady a koná spravedlnost,
+
+m: b\breve \bar "||"
+t: * upřímně smýšlí ve svém srdci, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nečiní příkoří svému bližnímu,
+
+m: b\breve \bar "||"
+t: * netupí svého souseda.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nešlechetným člověkem pohrdá,
+
+m: b\breve \bar "||"
+t: * ale váží si těch, kdo se bojí Hospodina.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nelichvaří svými penězi
+
+m: b\breve \bar "||"
+t: * a nebere úplatky proti nevinnému.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kdo takto jedná,
+
+m: b\breve \bar "||"
+t: * nikdy nezakolísá!
+
+%% use: responsum
+

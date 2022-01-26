@@ -1,0 +1,68 @@
+%% occasion: '(Středa 32. týdne 2 - viz OL422)'
+%% occasion: 'Čtvrtek 32. týdne 2'
+%% responsum_reference: 'Ž 146 (145),1b'
+%% verse_reference: 'Ž 146 (145)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Duše má, chval Hospodina!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin zachovává věrnost na věky,
+
+m: b\breve \bar "||"
+t: * zjednává právo utlačeným,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: dává chléb lačným.
+
+m: b\breve \bar "||"
+t: * Hospodin vysvobozuje vězně.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin otvírá oči slepým,
+
+m: b\breve \bar "||"
+t: * Hospodin napřimuje sklíčené,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin miluje spravedlivé,
+
+m: b\breve \bar "||"
+t: * Hospodin chrání přistěhovalce.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin podporuje sirotka a vdovu,
+
+m: b\breve \bar "||"
+t: * ale mate cestu bezbožníků.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin bude vládnout na věky,
+
+m: b\breve \bar "||"
+t: * tvůj Bůh, Sióne, po všechna pokolení.
+
+%% use: responsum
+

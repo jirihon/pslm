@@ -1,0 +1,67 @@
+%% occasion: 'Při svatbě'
+%% responsum_reference: 'Ž 145 (144),18a'
+%% verse_reference: 'Ž 145 (144)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Blízký je Hospodin všem, kdo ho vzývají.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Milosrdný a milostivý je Hospodin,
+
+m: b\breve \bar "||"
+t: * shovívavý a plný lásky.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Dobrotivý je Hospodin kevšem
+
+m: b\breve \bar "||"
+t: * a soucit má se všemi svými tvory.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať tě chválí, Hospodine, všechna tvá díla
+
+m: b\breve \bar "||"
+t: * a tvoji zbožní ať tě velebí!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Oči všech doufají v tb
+
+m: b\breve \bar "||"
+t: * a ty jim dáváš pokrm v pravý čas.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Spravedlivý je Hospodin na všech svých
+
+m: b\breve \bar "||"
+t: * a svatý
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Blízko je Hospodin všem, kdo ho vzývají,
+
+m: b\breve \bar "||"
+t: * všem, kdo ho vzývají upřímně.
+
+%% use: responsum
+

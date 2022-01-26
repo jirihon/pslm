@@ -1,0 +1,65 @@
+%% occasion: 'Čtvrtek po 4. neděli postní'
+%% responsum_reference: 'Srov. Ž 106 (105),4a'
+%% verse_reference: 'Ž 106 (105)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Pamatuj na nás, Hospodine, pro náklonnost k svému lidu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zhotovili si tele u Chorebu
+
+m: b\breve \bar "||"
+t: * a klaněli se modle ulité z kovu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zaměnili tak svoji Slávu
+
+m: b\breve \bar "||"
+t: * za sochu býka, který požírá trávu.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zapomněli na Boha, který je zachránil,
+
+m: b\breve \bar "||"
+t: * který v Egyptě vykonal divy,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: zázraky v Chámově zemi,
+
+m: b\breve \bar "||"
+t: * úžasné skutky u Rudého moře.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Rozhodl se, že je zničí,
+
+m: b\breve \bar "||"
+t: * kdyby se Mojžíš, jeho vyvolený, u něho nepřimlouval,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: aby odvrátil jeho hněv,
+
+m: b\breve \bar "||"
+t: * jímž
+

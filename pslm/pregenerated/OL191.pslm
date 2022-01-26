@@ -1,0 +1,41 @@
+%% occasion: '2. neděle v mezidobí C'
+%% responsum_reference: 'Ž 96 (95),3'
+%% verse_reference: 'Ž 96 (95)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Vypravujte mezi všemi národy o Hospodinových divech.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Zpívejte Hospodinu, velebte jeho jméno!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: mezi všemi národy o jeho divech.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: vzdejte Hospodinu slávu, hodnou jeho jména.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: národy řídí podle práva.
+
+%% use: responsum
+

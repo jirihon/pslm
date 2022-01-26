@@ -1,0 +1,67 @@
+%% occasion: 'Pátek 1. týdne 1'
+%% responsum_reference: 'Srov. Ž 78 (77),7c'
+%% verse_reference: 'Ž 78 (77)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Nezapomínejte na Boží skutky!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Co jsme slyšeli a poznali,
+
+m: b\breve \bar "||"
+t: * co nám otcové vyprávěli,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: příštímu pokolení budeme vypravovat
+
+m: b\breve \bar "||"
+t: * slavné Hospodinovy činy i jeho moc.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Mají to vyprávět svým dětem,
+
+m: b\breve \bar "||"
+t: * aby vložili svou důvěru v Boha,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: aby nezapomněli na Boží skutky
+
+m: b\breve \bar "||"
+t: * a zachovávali jeho nařízení.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Aby nebyli jako jejich otcové,
+
+m: b\breve \bar "||"
+t: * vzpurné a zatvrzelé pokolení,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: pokolení nestálého srdce,
+
+m: b\breve \bar "||"
+t: * jehož duch nebyl věrný Bohu.
+
+%% use: responsum
+

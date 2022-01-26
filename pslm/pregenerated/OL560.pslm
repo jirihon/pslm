@@ -1,0 +1,96 @@
+%% occasion: '(Čtvrtek 31. týdne 1 - viz OL517)'
+%% occasion: '(Pátek 31. týdne 1 - viz OL457)'
+%% occasion: '(Sobota 31. týdne 1 - viz OL434)'
+%% occasion: 'Pondělí 32. týdne 1'
+%% responsum_reference: 'Ž 139 (138),1a'
+%% verse_reference: 'Ž 139 (138)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodine, ty mě zkoumáš a znáš.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodine, ty mě zkoumáš a znáš,
+
+m: b\breve \bar "||"
+t: * ty víš, když sedám i když vstávám.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Poznáváš mé myšlenky již zdálky;
+
+m: b\breve \bar "||"
+t: * ať jdu nebo ležím, ty to určuješ, + všímáš sivšech mých cest.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Slovo ještě nemám na jazyku:
+
+m: b\breve \bar "||"
+t: * hle, už je znáš, Hospodine, celé.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Obklopuješ mě zezadu i zepředu
+
+m: b\breve \bar "||"
+t: * a kladeš na mě svou dlaň.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Podivuhodná je pro mě tvá znalost,
+
+m: b\breve \bar "||"
+t: * vznešená a nepochopitelná.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kam se mohu uchýlit před tvým duchem,
+
+m: b\breve \bar "||"
+t: * kam až utéci před tvou tváří?
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: I kdybych vystoupil na nebe, ty jsi tam ,
+
+m: b\breve \bar "||"
+t: * i kdybych ulehl v podsvětí, i tady jsi.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: I kdybych si připjal křídla jitřenky
+
+m: b\breve \bar "||"
+t: * a spočinul na nejzazším moři,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: i tam mě povede tvá ruka
+
+m: b\breve \bar "||"
+t: * a uchopí mě tvá pravice.
+
+%% use: responsum
+

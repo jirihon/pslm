@@ -1,0 +1,67 @@
+%% occasion: 'Pondělí 8. týdne 2'
+%% responsum_reference: 'Ž 105 (104),8a'
+%% verse_reference: 'Ž 111 (110)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodin pamatuje věčně na svoji smlouvu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Oslavím Hospodina celým srdcem
+
+m: b\breve \bar "||"
+t: * ve sboru spravedlivých i ve shromáždění.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Veliká jsou Hospodinova díla,
+
+m: b\breve \bar "||"
+t: * ať o nich uvažují všichni, kteří je milují.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pokrm dal těm, kdo se ho bojí,
+
+m: b\breve \bar "||"
+t: * neustále bude pamatovat na svou smlouvu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Své mocné činy ukázal svému lidu,
+
+m: b\breve \bar "||"
+t: * když jim dal majetek pohanů.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vykoupení seslal svému lidu,
+
+m: b\breve \bar "||"
+t: * sjednal na věky svou smlouvu;
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: svaté a velebné je jeho jméno.
+
+m: b\breve \bar "||"
+t: * Jeho chvála zůstává navždy.
+
+%% use: responsum
+

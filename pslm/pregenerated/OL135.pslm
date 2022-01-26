@@ -1,0 +1,41 @@
+%% occasion: 'Úterý po 2. neděli velikonoční'
+%% responsum_reference: 'Ž 93 (92),1a'
+%% verse_reference: 'Ž 93 (92)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodin kraluje, oděl se velebností.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin kraluje, oděl se velebností,
+
+m: b\breve \bar "||"
+t: * oděl se Hospodin, opásal se mocí.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Dal světu základ, že nezakolísá.
+
+m: b\breve \bar "||"
+t: * Pevný je trůn tvůj od pradávna, jsi od věčnosti.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tvé výroky jsou nejvýš spolehlivé,
+
+m: b\breve \bar "||"
+t: * tvému domu přísluší svatost, Hospodine,
+

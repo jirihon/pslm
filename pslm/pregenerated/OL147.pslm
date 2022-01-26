@@ -1,0 +1,92 @@
+%% occasion: '(4. neděle velikonoční A - viz OL95-96)'
+%% occasion: '4. neděle velikonoční B'
+%% responsum_reference: 'Ž 118 (117),22'
+%% verse_reference: 'Ž 118 (117)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Kámen, který stavitelé zavrhli, stal se kvádrem nárožním.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Oslavujte Hospodina, neboť je dobrý,
+
+m: b\breve \bar "||"
+t: * jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Lépe je utíkat se k Hospodinu,
+
+m: b\breve \bar "||"
+t: * než důvěřovat v člověka.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Lépe je utíkat se k Hospodinu,
+
+m: b\breve \bar "||"
+t: * než důvěřovat v mocné.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Děkuji ti, žes mě vyslyšel
+
+m: b\breve \bar "||"
+t: * a stal se mou spásou.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kámen, který stavitelé zavrhli,
+
+m: b\breve \bar "||"
+t: * stal se kvádrem nárožním.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodinovým řízením se tak stalo,
+
+m: b\breve \bar "||"
+t: * je to podivuhodné v našich očích.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Požehnaný, kdo přichází v Hospodinově jménu.
+
+m: b\breve \bar "||"
+t: * Žehnáme vám z Hospodinova domu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ty jsi můj Bůh, děkuji ti;
+
+m: b\breve \bar "||"
+t: * budu tě slavit, můj Bože!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Oslavujte Hospodina, neboť je dobrý,
+
+m: b\breve \bar "||"
+t: * jeho milosrdenství trvá na věky.
+
+%% use: responsum
+

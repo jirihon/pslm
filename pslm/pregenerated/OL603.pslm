@@ -1,0 +1,57 @@
+%% occasion: 'Úterý 6. týdne 2'
+%% responsum_reference: 'Ž 94 (93),12a'
+%% verse_reference: 'Ž 94 (93)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Šťastný člověk, jehož vychováváš, Hospodine.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Šťastný člověk, jehož vychováváš, Hospodine,
+
+m: b\breve \bar "||"
+t: * a ve svém zákoně vyučuješ, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť nezavrhne Hospodin svůj národ
+
+m: b\breve \bar "||"
+t: * a své dědictví neopustí.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ale ke spravedlnosti se vrátí právo,
+
+m: b\breve \bar "||"
+t: * následovat ji budou všichni upřímného srdce.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jen si pomyslím: „Má noha je vratká“,
+
+m: b\breve \bar "||"
+t: * už mě podpírá, Hospodine, tvá milost.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Když se mi v nitru rozmnoží starosti,
+
+m: b\breve \bar "||"
+t: * tvá útěcha vzpruží mou duši.
+
+%% use: responsum
+

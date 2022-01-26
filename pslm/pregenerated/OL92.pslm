@@ -1,0 +1,64 @@
+%% occasion: 'Středa po 3. neděli postní'
+%% responsum_reference: 'Ž 147,12a'
+%% verse_reference: 'Ž 147'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Jeruzaléme, oslavuj Hospodina!
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Jeruzaléme, o na, chval svého Boha, Sióne,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: že zpevnil závory tvých bran,
+
+m: b\breve \bar "||"
+t: * požehnal tvým synům v tobě.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Sesílá svůj rozkaz na zemi,
+
+m: b\breve \bar "||"
+t: * rychle běží jeho slovo.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Dává sníh jako vlnu,
+
+m: b\breve \bar "||"
+t: * jíní sype jako popel.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Oznámil své slovo Jakubo
+
+m: b\breve \bar "||"
+t: * 
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tak nejednal se žádným národem,
+
+m: b\breve \bar "||"
+t: * nesdělil jim svá přikázání.
+
+%% use: responsum
+

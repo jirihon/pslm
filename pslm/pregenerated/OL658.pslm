@@ -1,0 +1,96 @@
+%% occasion: 'Středa 17. týdne 2'
+%% occasion: '1. 5. 6.'
+%% responsum_reference: 'Ž 59 (58),17d'
+%% verse_reference: 'Ž 59 (58)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Bůh je mé útočiště, když je mi úzko. úzko.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vysvoboď mě od mých nepřátel, můj Bože,
+
+m: b\breve \bar "||"
+t: * před mými protivníky mě ochraň!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vysvoboď mě od těch, kdo páchají nepravost,
+
+m: b\breve \bar "||"
+t: * z moci vrahů mě vyprosť!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť hle, ukládají mi o život,
+
+m: b\breve \bar "||"
+t: * napadají mě mocní.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jsem bez viny a bez hříchu, Hospodine,
+
+m: b\breve \bar "||"
+t: * nic jsem nezavinil, a přece vyrážejí a útočí.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Má sílo, k tobě vzhlížím,
+
+m: b\breve \bar "||"
+t: * neboť ty, Bože, jsi mé útočiště, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kéž mně Bůh pomůže,
+
+m: b\breve \bar "||"
+t: * ať mi dá popást se pohledem na mé nepřátele!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Budu opěvovat tvoji moc,
+
+m: b\breve \bar "||"
+t: * zrána jásat nad tvou přízní,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: neboť ses osvědčil jako mé útočiště,
+
+m: b\breve \bar "||"
+t: * jako úkryt, když je mi úzko.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Má sílo, tobě budu zpívat,
+
+m: b\breve \bar "||"
+t: * Bože, tys mé útočiště, + můj Bůh, má láska!
+
+%% use: responsum
+

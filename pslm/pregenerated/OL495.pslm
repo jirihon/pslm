@@ -1,0 +1,62 @@
+%% occasion: 'Pondělí 18. týdne 1'
+%% responsum_reference: 'Ž 81 (80),2a'
+%% verse_reference: 'PůvoQnQí tón.ina d moll.'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Plesejte Bohu, který nám pomáhá.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Můj národ nedbal na můj hlas,
+
+m: b\breve \bar "||"
+t: * Izrael mě neposlouchal.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Nechal jsem je tedy
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kéž by mě můj národ slyšel,
+
+m: b\breve \bar "||"
+t: * kéž by Izrael kráčel po mých cestách!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hned bych pokořil jejich nepřátele,
+
+m: b\breve \bar "||"
+t: * na jejich protivníky bych obrátil svou ruku.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ti, kdo nenávidí Hospodina, by mu lichotili,
+
+m: b\breve \bar "||"
+t: * jejich osud by trval navždy.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jeho bych však živil jadrnou pšenicí,
+
+m: b\breve \bar "||"
+t: * medem ze skály bych jej sytil.
+
+%% use: responsum
+

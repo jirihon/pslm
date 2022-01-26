@@ -1,0 +1,85 @@
+%% occasion: 'Seslání Ducha Svatého, vigilie (po posledním čtení ze Starého zákona)'
+%% responsum_reference: 'Srov. Ž 104 (103),30'
+%% verse_reference: 'Ž 104 (103)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Sešli svého ducha, Pane, a obnov tvářnost země.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Veleb, má duše, Hospodina!
+
+m: b\breve \bar "||"
+t: * Hospodine, můj Bože, jsi nadmíru veliký!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Velebností a vznešeností ses oděl,
+
+m: b\breve \bar "||"
+t: * světlem se halíš jako pláštěm.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jak četná jsou tvá díla, Hospodine!
+
+m: b\breve \bar "||"
+t: * Všechno jsi moudře učinil,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: země je plná tvého tvorstva.
+
+m: b\breve \bar "||"
+t: * Veleb, má duše, Hospodina!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Všichni čekají od tebe,
+
+m: b\breve \bar "||"
+t: * že jim dáš obživu v pravý čas.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ty jim dáváš, a oni sbírají,
+
+m: b\breve \bar "||"
+t: * otvíráš ruku, a sytí se dobrými dary.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hynou, když vezmeš jim život,
+
+m: b\breve \bar "||"
+t: * a vracejí se do svého prachu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Když sešleš svého ducha, jsou stvořeni,
+
+m: b\breve \bar "||"
+t: * a obnovuješ tvář země.
+
+%% use: responsum
+

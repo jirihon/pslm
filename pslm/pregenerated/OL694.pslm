@@ -1,0 +1,73 @@
+%% occasion: 'Středa 25. týdne 2'
+%% responsum_reference: 'Ž 119 (118),105a'
+%% verse_reference: 'Ž 119 (118)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Svítilnou mým nohám je tvé slovo.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Odvrať mě od cesty lži,
+
+m: b\breve \bar "||"
+t: * uštědři mi svůj zákon!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Lepší je pro mě zákon tvých úst
+
+m: b\breve \bar "||"
+t: * než tisíce ve zlatě a stříbře.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Na věky, Hospodine, trvá tvé slovo,
+
+m: b\breve \bar "||"
+t: * je pevné jako nebesa.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zadržuji své nohy od každé zlé cesty,
+
+m: b\breve \bar "||"
+t: * abych dbal na tvá slova.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tvými nařízeními jsem zmoudřel,
+
+m: b\breve \bar "||"
+t: * proto nenávidím kdejakou neřestnou cestu.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nenávidím nepravost a protiví se mi,
+
+m: b\breve \bar "||"
+t: * miluji však tvůj zákon.
+
+%% use: responsum
+

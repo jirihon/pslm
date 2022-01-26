@@ -1,0 +1,67 @@
+%% occasion: 'Čtvrtek 19. týdne 2'
+%% responsum_reference: 'Srov. Ž 78 (77),7c'
+%% verse_reference: 'Ž 78 (77)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Nezapomínejte na Boží skutky!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pokoušeli a dráždili Boha, Nejvyššího,
+
+m: b\breve \bar "||"
+t: * a nedbali na jeho přikázání.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Odpadli a byli nevěrní jako jejich otcové,
+
+m: b\breve \bar "||"
+t: * zklamali jak zrádný luk.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Do hněvu ho přiváděli svými oběťmi na výšinách,
+
+m: b\breve \bar "||"
+t: * svými modlami vzbudili jeho žárlivost.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bůh to slyšel a rozhněval se,
+
+m: b\breve \bar "||"
+t: * ostře odmítl Izraele.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vydal do zajetí svou sílu,
+
+m: b\breve \bar "||"
+t: * svou slávu v moc protivníka.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Odevzdal svůj národ meči,
+
+m: b\breve \bar "||"
+t: * proti svému dědictví vzplanul hněvem.
+
+%% use: responsum
+

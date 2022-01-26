@@ -1,0 +1,85 @@
+%% occasion: 'Pátek 24. týdne 1'
+%% responsum_reference: 'Mt 5,3'
+%% verse_reference: 'Ž 49 (48)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Blahoslavení chudí v duchu, neboť jejich je království nebeské.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Proč bych se měl bát za dnů neštěstí,
+
+m: b\breve \bar "||"
+t: * když mě svírá zloba nepřátel,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: kteří spoléhají na svůj majetek
+
+m: b\breve \bar "||"
+t: * a chlubí se přemírou bohatství?
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vždyť nikdo sám sebe nevykoupí,
+
+m: b\breve \bar "||"
+t: * není s to zaplatit Bohu své výkupné.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Cena života je příliš veliká, + nikdy nebude stačit,
+
+m: b\breve \bar "||"
+t: * aby člověk žil navěky a neviděl zkázu.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboj se, jestliže někdo zbohatne
+
+m: b\breve \bar "||"
+t: * a vzroste majetek jeho domu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Až zemře, nic si s sebou nevezme,
+
+m: b\breve \bar "||"
+t: * nesestoupí s ním jeho jmění.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: I kdyby si za svého života liboval:
+
+m: b\breve \bar "||"
+t: * „Budou tě chválit, že sis to dobře zařídil“,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: přece se připojí ke svým předkům,
+
+m: b\breve \bar "||"
+t: * kteří navěky neuzří světla.
+
+%% use: responsum
+

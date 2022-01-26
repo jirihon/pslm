@@ -1,0 +1,67 @@
+%% occasion: 'Všech svatých (1. listopadu)'
+%% responsum_reference: 'Srov. Ž 24 . (23),6'
+%% verse_reference: 'Ž 24 (23)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: To je pokolení těch, kdo hledají tvář tvou, Hospodine.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodinu náleží země i to, co je na ní,
+
+m: b\breve \bar "||"
+t: * svět i ti, kdo jej obývají.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť on jej založil nad moři,
+
+m: b\breve \bar "||"
+t: * upevnil ho nad proudy vod.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kdo smí vystoupit na Hospodinovu horu,
+
+m: b\breve \bar "||"
+t: * kdo smí stát na jeho svatém místě?
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ten, kdo má nevinné ruce a čisté srdce,
+
+m: b\breve \bar "||"
+t: * jehož duše nebaží po marnosti.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ten přijme požehnání od Hospodina,
+
+m: b\breve \bar "||"
+t: * odměnu od Boha, svého spasitele.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: To je pokolení těch, kdo po něm touží,
+
+m: b\breve \bar "||"
+t: * kdo hledají tvář Jakubova Boha.
+
+%% use: responsum
+

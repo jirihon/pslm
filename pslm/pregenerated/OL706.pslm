@@ -1,0 +1,68 @@
+%% occasion: '(Čtvrtek 27. týdne 2 - viz OL416)'
+%% occasion: 'Pátek 27. týdne 2'
+%% responsum_reference: 'Ž 105 (104),8a'
+%% verse_reference: 'Ž 111 (110)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodin pamatuje věčně na svoji smlouvu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Oslavím Hospodina celým srdcem
+
+m: b\breve \bar "||"
+t: * ve sboru spravedlivých i ve shromáždění.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Veliká jsou Hospodinova díla,
+
+m: b\breve \bar "||"
+t: * ať o nich uvažují všichni, kteří je milují.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Velebnost a vznešenost je jeho dílo
+
+m: b\breve \bar "||"
+t: * a jeho spravedlnost zůstává na věky.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Památku ustanovil na své divy,
+
+m: b\breve \bar "||"
+t: * Hospodin je milosrdný a dobrotivý.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pokrm dal těm, kdo se ho bojí,
+
+m: b\breve \bar "||"
+t: * neustále bude pamatovat na svou smlouvu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Své mocné činy ukázal svému lidu,
+
+m: b\breve \bar "||"
+t: * když jim dal majetek pohanů.
+
+%% use: responsum
+

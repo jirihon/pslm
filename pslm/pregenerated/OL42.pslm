@@ -1,0 +1,68 @@
+%% occasion: 'Svaté rodiny A(BC) (pokud se čte čtení z Sir 3,3-17)'
+%% occasion: '33. neděle v mezidobí A'
+%% occasion: 'O svatých'
+%% occasion: 'Při svatbě'
+%% responsum_reference: 'Ž 128 (127),1a'
+%% verse_reference: 'Ž 128 (127)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Blaze každému, kdo se bojí Hospodina.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Blaze každému, kdo se bojí Hospodina,
+
+m: b\breve \bar "||"
+t: * kdo kráčí po jeho cestách.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Budeš jísti z výtěžku svých rukou,
+
+m: b\breve \bar "||"
+t: * bude ti blaze a dobře.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tvá manželka bude jako plodná réva
+
+m: b\breve \bar "||"
+t: * uvnitř tvého domu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tvoji synové jako výhonky oliv
+
+m: b\breve \bar "||"
+t: * kolem tvého stolu.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hle, tak bývá požehnán muž,
+
+m: b\breve \bar "||"
+t: * který se bojí Hospodina.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať ti Hospodin požehná ze Siónu,
+
+m: b\breve \bar "||"
+t: * abys viděl štěstí Jeruzaléma (+)
+

@@ -1,0 +1,65 @@
+%% occasion: 'Čtvrtek 16. týdne 2'
+%% responsum_reference: 'Ž 36 (35),10a'
+%% verse_reference: 'Ž 36 (35)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: U tebe je, Bože, pramen života.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodine, tvé milosrdenství sahá až do nebes,
+
+m: b\breve \bar "||"
+t: * tvoje věrnost až k oblakům.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tvá spravedlnost je jak Boží hory,
+
+m: b\breve \bar "||"
+t: * tvé rozsudky jsou jak mořská hlubina.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jak vzácná je tvá milost, Bože,
+
+m: b\breve \bar "||"
+t: * lidé se utíkají do stínu tvých křídel.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Sytí se hojností tvého domu,
+
+m: b\breve \bar "||"
+t: * napájíš je proudem svého blaha.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť u tebe je pramen života,
+
+m: b\breve \bar "||"
+t: * v tvé záři vidíme světlo.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zachovej svou milost těm, kdo tě znají,
+
+m: b\breve \bar "||"
+t: * svou spravedlnost těm,
+

@@ -1,0 +1,58 @@
+%% occasion: '(Čtvrtek 26. týdne 1 - viz OL445)'
+%% occasion: 'Pátek 26. týdne 1'
+%% responsum_reference: 'Ž 79 (78),9bc'
+%% verse_reference: 'Ž 79 (78)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Pro slávu svého jména vysvoboď nás, Pane!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bože, pohané vtrhli do tvého dědictví,
+
+m: b\breve \bar "||"
+t: * poskvrnili tvůj svatý chrám, +
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Dali mrtvoly tvých služebníků Jeruzalém proměnili v trosky.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Jejich krev vylévali
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jsme vydáni pohaně svých sousedů,
+
+m: b\breve \bar "||"
+t: * na potupu a výsměch svému okolí.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Jak dlouho, Hospodine? (+)
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nepřipomínej nám viny předků,
+
+m: b\breve \bar "||"
+t: * tvé milosrdenství ať nám pospíchá vstříc, +
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Pomoz nám, Bože, náš spasiteli, (+)
+

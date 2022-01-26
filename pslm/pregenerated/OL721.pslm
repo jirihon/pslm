@@ -1,0 +1,68 @@
+%% occasion: '(Pondělí 32. týdne 2 - viz OL414)'
+%% occasion: 'Úterý 32. týdne 2'
+%% responsum_reference: 'Ž 37 (36),30a'
+%% verse_reference: 'Ž 37 (36)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Ústa spravedlivého mluví moudře.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Doufej v Hospodina a čiň dobro,
+
+m: b\breve \bar "||"
+t: * pak budeš přebývat v zemi a těšit se klidu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Raduj se v Hospodinu,
+
+m: b\breve \bar "||"
+t: * a dá ti, po čem touží tvé srdce.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin pečuje o život bezúhonných,
+
+m: b\breve \bar "||"
+t: * dědictví jejich přetrvá věky.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin dává krokům člověka sílu,
+
+m: b\breve \bar "||"
+t: * má zalíbení v jeho životní cestě.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Chraň se zlého a čiň dobré,
+
+m: b\breve \bar "||"
+t: * a přežiješ věky.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Spravedliví budou vlastnit zemi,
+
+m: b\breve \bar "||"
+t: * budou ji obývat věčně.
+
+%% use: responsum
+

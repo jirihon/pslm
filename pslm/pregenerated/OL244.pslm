@@ -1,0 +1,86 @@
+%% occasion: '(28. neděle v mezidobí C - viz OL164)'
+%% occasion: '29. neděle v mezidobí A'
+%% responsum_reference: 'Ž 96 (95),7b'
+%% verse_reference: 'Ž 96 (95)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Vzdejte Hospodinu moc a slávu!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zpívejte Hospodinu novou píseň,
+
+m: b\breve \bar "||"
+t: * zpívejte Hospodinu, všechny země!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vypravujte mezi pohany o jeho slávě,
+
+m: b\breve \bar "||"
+t: * mezi všemi národy o jeho divech.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť Hospodin je veliký a velmi hodný chvály,
+
+m: b\breve \bar "||"
+t: * je třeba se ho bát více nežli všech bohů.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť všichni bohové pohanů jsou výmysly,
+
+m: b\breve \bar "||"
+t: * Hospodin však stvořil nebe.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vzdejte Hospodinu, rodiny národů,
+
+m: b\breve \bar "||"
+t: * vzdejte Hospodinu slávu a moc,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: vzdejte Hospodinu slávu, hodnou jeho jména.
+
+m: b\breve \bar "||"
+t: * Přineste oběť a vstupte do jeho nádvoří.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: V posvátném rouchu klaňte se Hospodinu!
+
+m: b\breve \bar "||"
+t: * Třeste se před ním, všechny země!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hlásejte mezi pohany: Hospodin kraluje,
+
+m: b\breve \bar "||"
+t: * národy řídí podle práva.
+
+%% use: responsum
+

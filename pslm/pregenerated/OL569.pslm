@@ -1,0 +1,64 @@
+%% occasion: 'Sobota 33. týdne 1'
+%% responsum_reference: 'Ž 9,15'
+%% verse_reference: 'Ž 9'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Rozjásám se nad tvou pomocí, Hospodine!
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Hospodine, chci tě oslavovat chci vyprávět
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: V tobě se chci radovat a jásat,
+
+m: b\breve \bar "||"
+t: * opěvovat tvé jméno, Svrchovaný.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Protože se moji nepřátelé stáhli,
+
+m: b\breve \bar "||"
+t: * zhroutili se a zanikli před tvou tváří.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Obořil ses na pohany, bezbožníka jsi potřel,
+
+m: b\breve \bar "||"
+t: * navždy jsi vyhladil jejich jméno.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pohané zapadli do jámy, kterou vykopali,
+
+m: b\breve \bar "||"
+t: * noha jim uvázla v léčce, kterou nastražili,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: neboť nebude na věky zapomenut chudák,
+
+m: b\breve \bar "||"
+t: * naděje ubohých nezajde navždy!
+
+%% use: responsum
+

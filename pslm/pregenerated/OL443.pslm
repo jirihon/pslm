@@ -1,0 +1,83 @@
+%% occasion: 'Čtvrtek 8. týdne 1'
+%% responsum_reference: 'Ž 33 (32),5b S R'
+%% verse_reference: 'Ž 33 (32)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Země je plná Hospodinovy milosti.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Citerou oslavujte Hospodina,
+
+m: b\breve \bar "||"
+t: * hrajte mu na desetistrunné harfě.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zpívejte mu novou píseň,
+
+m: b\breve \bar "||"
+t: * dovedně sáhněte do strun, (+)
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť Hospodinovo slovo je správné,
+
+m: b\breve \bar "||"
+t: * spolehlivé je celé jeho dílo.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Miluje spravedlnost a právo,
+
+m: b\breve \bar "||"
+t: * země je plná Hospodinovy milosti.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jeho slovem vznikla nebesa,
+
+m: b\breve \bar "||"
+t: * dechem jeho úst všechen jejich zástup.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vodstva moří shrnuje jako do měchu,
+
+m: b\breve \bar "||"
+t: * do nádrží slévá oceány.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nechť se bojí Hospodina celá země,
+
+m: b\breve \bar "||"
+t: * všichni obyvatelé světa ať se před ním děsí.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: On totiž řekl a stalo se,
+
+m: b\breve \bar "||"
+t: * on poručil a vše povstalo.
+
+%% use: responsum
+

@@ -1,0 +1,67 @@
+%% occasion: 'O učitelích Církve (i v době velikonoční)'
+%% responsum_reference: 'Ž 37 (36),30a'
+%% verse_reference: 'Ž 37 (36)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Ústa spravedlivého mluví moudře.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Doufej v Hospodina a čiň dobro,
+
+m: b\breve \bar "||"
+t: * pak budeš přebývat v zemi a těšit se klidu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Raduj se v Hospodinu,
+
+m: b\breve \bar "||"
+t: * a dá ti, po čem touží tvé srdce.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodinu svěř svůj osud,
+
+m: b\breve \bar "||"
+t: * v něho důvěřuj, on sám bude jednat.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tvé spravedlnosti dá vzejít jako světlu,
+
+m: b\breve \bar "||"
+t: * tvému právu jak polednímu jasu.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ústa spravedlivého mluví moudře,
+
+m: b\breve \bar "||"
+t: * jeho jazyk hovoří, co je správné.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Boží zákon mu ovládá srdce,
+
+m: b\breve \bar "||"
+t: * proto nevrávorají jeho kroky.
+
+%% use: responsum
+

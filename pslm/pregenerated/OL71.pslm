@@ -1,0 +1,80 @@
+%% occasion: '1. neděle postní C'
+%% responsum_reference: 'Srov. Ž 91 . (90),15b'
+%% verse_reference: 'Ž 91 (90)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Buď se mnou, Pane, v mé tísni.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kdo přebýváš v ochraně Nejvyššího,
+
+m: b\breve \bar "||"
+t: * kdo dlíš ve stínu Všemocného,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: řekni Hospodinu: (+) „Jsi mé útočiště a má tvrz,
+
+m: b\breve \bar "||"
+t: * můj Bůh, v něhož doufám!“
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nepřihodí se ti nic zlého
+
+m: b\breve \bar "||"
+t: * a útrapa se k tvému stanu nepřiblíží.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vždyť svým andělům vydal o tobě příkaz,
+
+m: b\breve \bar "||"
+t: * aby tě střežili na všech tvých cestách.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Na svých rukou tě ponesou,
+
+m: b\breve \bar "||"
+t: * abys nenarazil o kámen svou nohou.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Po zmiji a hadu budeš kráčet,
+
+m: b\breve \bar "||"
+t: * šlapat budeš po lvu i draku.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: „Vysvobodím ho, protože lne ke mně,
+
+m: b\breve \bar "||"
+t: * ochráním ho, protože zná mé jméno.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Vyslyším ho, až mě bude vzývat, +
+

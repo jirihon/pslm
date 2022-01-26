@@ -1,0 +1,63 @@
+%% occasion: '(26. neděle v mezidobí A - viz OL91)'
+%% occasion: '26. neděle v mezidobí B'
+%% responsum_reference: 'Ž 19 (18),9a . .'
+%% verse_reference: 'Ž 19 (18)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodinovy předpisy jsou správné, působí radost srdci.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Hospodinův zákon je dokonalý, (+)
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bázeň před Hospodinem je upřímná, trvá na věky,
+
+m: b\breve \bar "||"
+t: * Hospodinovy výroky jsou pravdivé, (+)
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tvůj služebník si na ně dává pozor
+
+m: b\breve \bar "||"
+t: * a velmi bedlivě je zachovává.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kdo však pozná každé pochybení?
+
+m: b\breve \bar "||"
+t: * Očisť mě od chyb, jež jsou mi skryty!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Chraň svého služebníka před zpupností,
+
+m: b\breve \bar "||"
+t: * ať mě neovládne!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pak budu bez úhony
+
+m: b\breve \bar "||"
+t: * a vyvaruji se velkého hříchu.
+
+%% use: responsum
+

@@ -1,0 +1,53 @@
+%% occasion: '(Čtvrtek 30. týdne 2 - viz OL582)'
+%% occasion: '(Pátek 30. týdne 2 - viz OL529)'
+%% occasion: 'Sobota 30. týdne 2'
+%% responsum_reference: 'Ž 63 (62),2b'
+%% verse_reference: 'Ž 42 (41), 43 (42)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Má duše žízní po tobě, Pane, Bože můj!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jako laň prahne po vodách bystřin,
+
+m: b\breve \bar "||"
+t: * tak prahne má duše po tobě, Bože!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Má duše žízní po Bohu, po živém Bohu:
+
+m: b\breve \bar "||"
+t: * kdy už smím přijít a spatřit Boží tvář?
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vzpomínám, jak jsem putovával v zástupu,
+
+m: b\breve \bar "||"
+t: * jak jsem je vodíval k Božímu domu
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: s hlasitým jásotem a chvalozpěvem
+
+m: b\breve \bar "||"
+t: * ve svátečním průvodu.
+
+%% use: responsum
+

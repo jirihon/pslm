@@ -1,0 +1,67 @@
+%% occasion: '13. neděle v mezidobí A'
+%% responsum_reference: 'Ž 89 (88),2a'
+%% verse_reference: 'Ž 89 (88)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Na věky chci zpívat o Hospodinových milostech.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Na věky chci zpívat o Hospodinových milostech,
+
+m: b\breve \bar "||"
+t: * po všechna pokolení
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Řekl jsi totiž: „Na věky je založena milost.“
+
+m: b\breve \bar "||"
+t: * Na nebi jsi upevnil svou věrnost.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Šťastný je lid, který dovede oslavovat,
+
+m: b\breve \bar "||"
+t: * chodí, Hospodine, v záři tvé tváře.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: V tvém jménu jásají ustavičně
+
+m: b\breve \bar "||"
+t: * a honosí se tvou spravedlností.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť ty jsi leskem jejich moci
+
+m: b\breve \bar "||"
+t: * a tvou přízní roste naše síla.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vždyť náš vladař náleží Hospodinu,
+
+m: b\breve \bar "||"
+t: * náš král Svatému Izraele.
+
+%% use: responsum
+

@@ -1,0 +1,62 @@
+%% occasion: 'Úterý 4. týdne 1'
+%% responsum_reference: 'Ž 22 (21),26a'
+%% verse_reference: 'Ž 22 (21)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Budu tě chválit, Hospodine, ve velkém shromáždění.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Své sliby splním před těmi, kdo ctí Hospodina.
+
+m: b\breve \bar "||"
+t: * Chudí se najedí do sytosti,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: kdo hledají Hospodina, budou ho chválit:
+
+m: b\breve \bar "||"
+t: * „Na věky ať žije vaše srdce!“
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Rozpomenou se a k Hospodinu
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jen jemu se budou kořit všichni,kdo spí v zemi,
+
+m: b\breve \bar "||"
+t: * před ním se skloní všichni, kdo sestupují v prach.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: I má duše bude pro něho žít,
+
+m: b\breve \bar "||"
+t: * mé potomstvo bude mu sloužit.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bude vyprávět o Pánu příštímu pokolení,
+
+m: b\breve \bar "||"
+t: * lidu, jenž se narodí, budou hlásat
+

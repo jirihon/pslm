@@ -1,0 +1,91 @@
+%% occasion: '12. neděle v mezidobí A'
+%% responsum_reference: 'Ž 69 (68),14c'
+%% verse_reference: 'Ž 69 (68)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Vyslyš mě, Hospodine, ve své veliké lásce!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pro tebe, Bože, jsem snášel potupu,
+
+m: b\breve \bar "||"
+t: * pohana pokryla mou tvář.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Svým bratrům stal jsem se cizincem,
+
+m: b\breve \bar "||"
+t: * synům své matky neznámým.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť mě stravuje horlivost pro tvůj dům,
+
+m: b\breve \bar "||"
+t: * padají na mě urážky těch, kdo tě urážejí.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Já se však, Hospodine, obracím modlitbou k tobě
+
+m: b\breve \bar "||"
+t: * v čas milosti, Bože!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vyslyš mě ve své veliké lásce,
+
+m: b\breve \bar "||"
+t: * věrně mi pomoz!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vyslyš mě, Hospodine, tvá láska je dobrotivá,
+
+m: b\breve \bar "||"
+t: * obrať se ke mně se svým nesmírným slitováním.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Uvědomte si to, ubožáci, a radujte se;
+
+m: b\breve \bar "||"
+t: * pookřejte v srdci vy, kdo hledáte Boha!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť Hospodin slyší chudáky,
+
+m: b\breve \bar "||"
+t: * nepohrdá svými vězni.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nechť ho chválí nebe a země,
+
+m: b\breve \bar "||"
+t: * moře a vše, co se v nich hýbe.
+
+%% use: responsum
+

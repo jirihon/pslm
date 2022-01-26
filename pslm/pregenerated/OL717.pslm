@@ -1,0 +1,72 @@
+%% occasion: '(Pondělí 31. týdne 2 - viz OL558) Úterý 31. týdne 2'
+%% responsum_reference: 'Ž 22 (21),26a'
+%% verse_reference: 'Ž 22 (21)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Budu tě chválit, Hospodine, ve velkém shromáždění.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Své sliby splním před těmi, kdo ctí Hospodina.
+
+m: b\breve \bar "||"
+t: * Chudí se najedí do sytosti,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: kdo hledají Hospodina, budou ho chválit:
+
+m: b\breve \bar "||"
+t: * „Na věky ať žije vaše srce!“
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Rozpomenou se a k Hospodinu
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: protože Hospodinu náleží vláda,
+
+m: b\breve \bar "||"
+t: * on sám panuje nad národy.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jen jemu se budou kořit všichni,
+
+m: b\breve \bar "||"
+t: * kdo spí v zemi.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Mé potomstvo bude mu sloužit.
+
+m: b\breve \bar "||"
+t: * Bude vyprávět o Pánu příštímu pokolení,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: lidu, jenž se narodí, budou hlásat jeho spravedlnost:
+
+m: b\breve \bar "||"
+t: * „To učinil Hospodin!“
+
+%% use: responsum
+

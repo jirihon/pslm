@@ -1,0 +1,68 @@
+%% occasion: 'Sobota 25. týdne 1'
+%% occasion: 'Pátek 16. týdne 2'
+%% responsum_reference: 'Jer 31,10d Ho-spo-din bu - de nad ná - mi bdít, ja - ko pa-stýř nad svým stá - dem. stá - dem.'
+%% verse_reference: 'Jer 31'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: 1. 3. 4.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Slyšte, pohané, Hospodinovo slovo,
+
+m: b\breve \bar "||"
+t: * zvěstujte ho na ostrovech v dáli!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Řekněte: Shromáždí Izraele ten, kdo ho rozptýlil,
+
+m: b\breve \bar "||"
+t: * bude nad ním bdít jako pastýř nad svým stádem.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vykoupí Hospodin Jakuba
+
+m: b\breve \bar "||"
+t: * a vysvobodí ho z ruky mocnějšího.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Přijdou a budou jásat na hoře Siónu,
+
+m: b\breve \bar "||"
+t: * těšit se budou z Hospodinových dobrodiní.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tehdy se rozveselí v tanci panna,
+
+m: b\breve \bar "||"
+t: * zaradují se jinoši a starci.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Proměním jejich nářek v jásot,
+
+m: b\breve \bar "||"
+t: * útěchu a radost jim vleji po jejich smutku.
+
+%% use: responsum
+

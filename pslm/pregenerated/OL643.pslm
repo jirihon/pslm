@@ -1,0 +1,85 @@
+%% occasion: 'Úterý 14. týdne 2'
+%% responsum_reference: 'Ž 115 (113),9a'
+%% verse_reference: 'Ž 115 (113)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Izraelův dům doufá v Hospodina.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bůh náš je na nebesích,
+
+m: b\breve \bar "||"
+t: * všechno, co chtěl, učinil.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Modly pohanů jsou stříbro a zlato,
+
+m: b\breve \bar "||"
+t: * dílo lidských rukou.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Mají ústa, ale nemluví,
+
+m: b\breve \bar "||"
+t: * mají oči, ale nevidí.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Mají uši, ale neslyší,
+
+m: b\breve \bar "||"
+t: * mají nos, ale nečichají.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Mají ruce, ale nehmatají,
+
+m: b\breve \bar "||"
+t: * mají nohy, ale nechodí.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jim jsou podobni ti, kdo je zhotovují,
+
+m: b\breve \bar "||"
+t: * každý, kdo v ně doufá.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Izraelův dům doufá v Hospodina,
+
+m: b\breve \bar "||"
+t: * je jim pomocníkem a štítem.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Árónův dům doufá v Hospodina,
+
+m: b\breve \bar "||"
+t: * je jim pomocníkem a štítem.
+
+%% use: responsum
+

@@ -1,0 +1,73 @@
+%% occasion: 'Pondělí 6. týdne 2'
+%% responsum_reference: 'Ž 119 (118),77a'
+%% verse_reference: 'Ž 119 (118)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Ať se mi dostane tvého slitování, Hospodine, abych byl živ.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bloudil jsem před svým pokořením,
+
+m: b\breve \bar "||"
+t: * nyní však dbám na tvůj výrok.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jsi dobrotivý a prokazuješ dobrodiní,
+
+m: b\breve \bar "||"
+t: * nauč mě svým příkazům.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Dobře mi, že jsem byl pokořen,
+
+m: b\breve \bar "||"
+t: * abych se naučil tvým příkazům.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Lepší je pro mě zákon tvých úst
+
+m: b\breve \bar "||"
+t: * než tisíce ve zlatě a stříbře.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vím, Hospodine, že spravedlivá jsou tvá rozhodnutí,
+
+m: b\breve \bar "||"
+t: * že jsi mě pokořil podle práva.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať je mi útěchou tvé milosrdenství,
+
+m: b\breve \bar "||"
+t: * jak jsi slíbil svému služebníku.
+
+%% use: responsum
+

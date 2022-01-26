@@ -1,0 +1,67 @@
+%% occasion: 'Úterý 25. týdne 1'
+%% responsum_reference: 'Srov. Ž 122 . (121),1'
+%% verse_reference: 'Ž 122 (121)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Do domu Hospodinova s radostí půjdeme.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zaradoval jsem se, když mi řekli:
+
+m: b\breve \bar "||"
+t: * „Do domu Hospodinova půjdeme!“
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Už stojí naše nohy
+
+m: b\breve \bar "||"
+t: * ve tvých branách, Jeruzaléme!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jeruzalém je vystavěn jako město,
+
+m: b\breve \bar "||"
+t: * spojené v jeden celek.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tam vystupují kmeny,
+
+m: b\breve \bar "||"
+t: * kmeny Hospodinovy.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jak to zákon přikazuje Izraeli,
+
+m: b\breve \bar "||"
+t: * aby chválil Hospodinovo jméno.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tam stojí soudní stolce,
+
+m: b\breve \bar "||"
+t: * stolce Davidova domu.
+
+%% use: responsum
+

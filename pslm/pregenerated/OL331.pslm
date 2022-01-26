@@ -1,0 +1,77 @@
+%% occasion: 'Při řeholních slibech'
+%% responsum_reference: 'Srov. Ž 40 (39), 8a.9a'
+%% verse_reference: 'Ž 40 (39)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hle, přicházím, Pane, splnit tvou vůli.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pevně jsem doufal v Hospodina,
+
+m: b\breve \bar "||"
+t: * on se ke mně sklonil a vyslyšel mé volání.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Novou píseň vložil mi do úst,
+
+m: b\breve \bar "||"
+t: * chvalozpěv našemu Bohu.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: V obětních darech si nelibuješ, Bože,
+
+m: b\breve \bar "||"
+t: * zato jsi mi otevřel uši.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Celopaly a smírné oběti nežádáš,
+
+m: b\breve \bar "||"
+t: * tehdy jsem řekl: „Hle, přicházím.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ve svitku knihy je o mně psáno:
+
+m: b\breve \bar "||"
+t: * Rád splním tvou vůli, můj Bože, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Spravedlnost jsem zvěstoval ve velkém shromáždění,
+
+m: b\breve \bar "||"
+t: * svým rtům jsem nebránil, ty to víš, Hospodine!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neodpírej mi, Hospodine, své slitování,
+
+m: b\breve \bar "||"
+t: * tvá láska a věrnost ať mě neustále chrání,
+
+%% use: responsum
+

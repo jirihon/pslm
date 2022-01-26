@@ -1,0 +1,57 @@
+%% occasion: 'Středa 11. týdne 2'
+%% responsum_reference: 'Ž 31 (30),25'
+%% verse_reference: 'Ž 31 (30)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Vzmužte se a buďte srdnatí, všichni, kdo spoléháte na Hospodina.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jak nesmírná je tvá dobrotivost, Hospodine,
+
+m: b\breve \bar "||"
+t: * uchoval jsi ji těm, kdo se tě bojí, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tvoje tvář je jim bezpečnou ochranou
+
+m: b\breve \bar "||"
+t: * před spiknutím lidí,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: ukrýváš je ve stanu
+
+m: b\breve \bar "||"
+t: * před svárlivými řečmi.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Milujte Hospodina, všichni jeho svatí,
+
+m: b\breve \bar "||"
+t: * Hospodin zachovává věrné,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: ale plnou měrou odplácí těm,
+
+m: b\breve \bar "||"
+t: * kdo si drze počínají.
+
+%% use: responsum
+

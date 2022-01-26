@@ -1,0 +1,67 @@
+%% occasion: 'Středa 26. týdne 2'
+%% responsum_reference: 'Ž 88 (87),3a'
+%% verse_reference: 'Ž 88 (87)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Kéž pronikne k tobě má modlitba, Hospodine!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Denně k tobě volám, Hospodine,
+
+m: b\breve \bar "||"
+t: * k tobě vztahuji své ruce.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Děláš snad zázraky pro mrtvé,
+
+m: b\breve \bar "||"
+t: * či vstanou lidské stíny a budou tě chválit?
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Což se dá v hrobě vyprávět o tvé dobrotě,
+
+m: b\breve \bar "||"
+t: * o tvé věrnosti v příbytku mrtvých?
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Lze poznat tvé divy v temnotách,
+
+m: b\breve \bar "||"
+t: * tvou milost v kraji zapomnění?
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Já však volám k tobě, Hospodine,
+
+m: b\breve \bar "||"
+t: * má modlitba ti přichází vstříc hned ráno.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Proč mě odmítáš, Hospodine,
+
+m: b\breve \bar "||"
+t: * a přede mnou skrýváš svou tvář?
+
+%% use: responsum
+

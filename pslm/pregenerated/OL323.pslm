@@ -1,0 +1,41 @@
+%% occasion: 'Při svěcení kněží'
+%% responsum_reference: 'Srov. Ž 19 (18),5a'
+%% verse_reference: 'Ž 100 (99)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Vy jste mými přáteli, budeteli činiti to, co vám přikazuji.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: vstupte před něho s jásotem!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: jsme jeho lid a stádce na jeho pastvině.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: slavte ho, žehnejte jeho jménu!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: po všechna pokolení trvá jeho věrnost.
+
+%% use: responsum
+

@@ -1,0 +1,86 @@
+%% occasion: '(Seslání Ducha Svatého, vigilie (po čtení z Ex 19,3-20, pokud následuje čtení ze Starého zákona) - viz OL88)'
+%% occasion: 'Seslání Ducha Svatého, vigilie (po čtení z Ez 37,1-14, pokud následuje čtení ze Starého zákona)'
+%% responsum_reference: 'Ž 107 (106),1'
+%% verse_reference: 'Ž 107 (106)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Oslavujte Hospodina, neboť na věky trvá jeho milosrdenství.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tak ať mluví vykoupení Hospodinem,
+
+m: b\breve \bar "||"
+t: * ti, které vykoupil z nepřátelské moci,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: které shromáždil ze zemí,
+
+m: b\breve \bar "||"
+t: * d východu a od západu,(+) ze severu a z jihu.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bloudili na stepi, po pustině,
+
+m: b\breve \bar "||"
+t: * nenašli cestu k městu, kde by mohli bydlet.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hladověli a žíznili,
+
+m: b\breve \bar "||"
+t: * život v nich chřadl.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tu volali ve své tísni k Hospodinu,
+
+m: b\breve \bar "||"
+t: * a on je z jejich úzkostí vysvobodil.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vedl je pravou cestou,
+
+m: b\breve \bar "||"
+t: * aby došli do města, kde by mohli bydlet.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať chválí Hospodina za jeho milosrdenství,
+
+m: b\breve \bar "||"
+t: * za jeho divy k dobru lidí,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: neboť žíznivou duši ukojil,
+
+m: b\breve \bar "||"
+t: * hladovou duši naplnil dobrými věcmi.
+
+%% use: responsum
+

@@ -1,0 +1,69 @@
+%% occasion: '(Pondělí 30. týdne 2 - viz OL438)'
+%% occasion: '(Úterý 30. týdne 2 - OL426)'
+%% occasion: 'Středa 30. týdne 2'
+%% responsum_reference: 'Srov. Ž 145 (144),1'
+%% verse_reference: 'Ž 145 (144)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Budu tě oslavovat na věky, můj Bože, králi.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať tě chválí, Hospodine, všechna tvá díla
+
+m: b\breve \bar "||"
+t: * a tvoji zbožní ať tě velebí!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať vypravují o slávě tvého království,
+
+m: b\breve \bar "||"
+t: * ať mluví o tvé síle.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Aby poučili lidi o tvé moci,
+
+m: b\breve \bar "||"
+t: * o slávě tvé vznešené říše.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tvé království je království všech věků
+
+m: b\breve \bar "||"
+t: * a tvá vláda trvá po všechna pokolení.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Věrný je Hospodin ve všech svých slibech
+
+m: b\breve \bar "||"
+t: * a svatý ve všech svých činech.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin podpírá všechny, kdo klesají,
+
+m: b\breve \bar "||"
+t: * a pozvedá všechny sklíčené.
+
+%% use: responsum
+

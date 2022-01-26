@@ -1,0 +1,67 @@
+%% occasion: 'Ježíše Krista, nejvyššího a věčného kněze C'
+%% responsum_reference: 'Ž 23 (22),1'
+%% verse_reference: 'Ž 23 (22)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodin je můj pastýř, nic nepostrádám.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodin je můj pastýř, nic nepostrádám,
+
+m: b\breve \bar "||"
+t: * dává mi prodlévat na svěžích pastvinách,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: vodí mě k vodám, kde si mohu odpočinout.
+
+m: b\breve \bar "||"
+t: * Občerstvuje mou duši.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Prostíráš pro mě stůl
+
+m: b\breve \bar "||"
+t: * před zraky mých nepřátel,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: hlavu mi mažeš olejem,
+
+m: b\breve \bar "||"
+t: * má číše přetéká.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Štěstí a přízeň mě provázejí
+
+m: b\breve \bar "||"
+t: * po všechny dny mého života,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: přebývat smím v Hospodinově domě
+
+m: b\breve \bar "||"
+t: * na dlouhé, předlouhé časy.
+
+%% use: responsum
+

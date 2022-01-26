@@ -1,0 +1,64 @@
+%% occasion: 'Sobota 28. týdne 2'
+%% responsum_reference: 'Ž 8,2ab'
+%% verse_reference: 'Ž 8'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodine, Pane náš, jak podivuhodné je tvé jméno po celé zemi!
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Hospodine, Pane náš, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Z úst dětí a nemluvňat sis připravil slávu
+
+m: b\breve \bar "||"
+t: * navzdory svým odpůrcům.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Když se zahledím na tvá nebesa, dílo tvých prstů,
+
+m: b\breve \bar "||"
+t: * na měsíc, na hvězdy, které jsi stvořil:
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Co je člověk, že na něho myslíš,
+
+m: b\breve \bar "||"
+t: * co je smrtelník, že se o něho staráš?
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Učinils ho jen o málo menším, než jsou andělé,
+
+m: b\breve \bar "||"
+t: * ověnčils ho ctí a slávou,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: dals mu vládnout nad dílem svých rukou,
+
+m: b\breve \bar "||"
+t: * položils mu k nohám všechno.
+
+%% use: responsum
+

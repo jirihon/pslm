@@ -1,0 +1,86 @@
+%% occasion: '(26. neděle v mezidobí C - viz OL234)'
+%% occasion: '27. neděle v mezidobí A'
+%% responsum_reference: 'Iz 5,7a'
+%% verse_reference: 'Ž 80 (79)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Dům Izraelův je vinicí Páně.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Révu z Egypta jsi přenesl, Bože,
+
+m: b\breve \bar "||"
+t: * vyhnals pohany a zasadils ji.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vyhnala své ratolesti až k moři
+
+m: b\breve \bar "||"
+t: * a své úponky až k Řece.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Proč jsi dal strhnout její ohradu?
+
+m: b\breve \bar "||"
+t: * Obírají ji všichni, kdo kolem chodí.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pustoší ji kanec z lesa
+
+m: b\breve \bar "||"
+t: * a polní zvěř ji spásá.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bože zástupů, vrať se,
+
+m: b\breve \bar "||"
+t: * shlédni z nebe a podívej se, (+) pečuj o tuto révu!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ochraňuj, co tvá pravice zasadila,
+
+m: b\breve \bar "||"
+t: * výhonek, který sis vypěstoval!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Už od tebe neustoupíme,
+
+m: b\breve \bar "||"
+t: * zachovej nás naživu,(+) a budeme velebit tvé jméno.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodine, Bože zástupů, obnov nás,
+
+m: b\breve \bar "||"
+t: * rozjasni svou tvář, a budeme spaseni.
+
+%% use: responsum
+

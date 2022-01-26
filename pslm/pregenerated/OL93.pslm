@@ -1,0 +1,86 @@
+%% occasion: '(Čtvrtek po 3. neděli postní - viz OL86-87)'
+%% occasion: 'Pátek po 3. neděli postní'
+%% responsum_reference: 'Ž 81 (80),2a'
+%% verse_reference: 'PůvoQdnQí tón.ina d moll.'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Plesejte Bohu, který nám pomáhá.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Slyšel jsem hlas mně neznámý:
+
+m: b\breve \bar "||"
+t: * „Zbavil jsem jeho šíji břemena,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: z jeho rukou jsem vzal koš robotníka.
+
+m: b\breve \bar "||"
+t: * V soužení jsi volal, a osvobodil jsem tě.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Odpověděl jsem ti z hřímajícího mraku,
+
+m: b\breve \bar "||"
+t: * u vody v Meribě jsem tě zkoušel.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Slyš,můj národe, chci tě napomenout,
+
+m: b\breve \bar "||"
+t: * Izraeli, kéž bys mě poslouchal!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nesmíš mít boha jiného,
+
+m: b\breve \bar "||"
+t: * nesmíš se klanět bohu cizímu!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Já jsem Hospodin, tvůj Bůh,
+
+m: b\breve \bar "||"
+t: * já jsem tě vyvedl z egyptské země!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kéž by mě můj národ slyšel,
+
+m: b\breve \bar "||"
+t: * kéž by Izrael kráčel po mých cestách!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jeho bych však živil jadrnou pšenicí,
+
+m: b\breve \bar "||"
+t: * medem ze skály bych jej sytil.
+
+%% use: responsum
+

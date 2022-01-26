@@ -1,0 +1,67 @@
+%% occasion: 'Pátek 6. týdne 1'
+%% responsum_reference: 'Ž 33 (32),12b'
+%% verse_reference: 'Ž 33 (32)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Blaze lidu, který si Hospodin vyvolil za svůj majetek.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Plány pohanů maří Hospodin,
+
+m: b\breve \bar "||"
+t: * v nic uvádí myšlení národů.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodinův úmysl trvá na věky,
+
+m: b\breve \bar "||"
+t: * myšlenky jeho srdce po všechna pokolení.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Blaze národu, jehož Bohem je Hospodin,
+
+m: b\breve \bar "||"
+t: * blaze lidu, který si vyvolil za svůj majetek.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Z nebe shlíží Hospodin,
+
+m: b\breve \bar "||"
+t: * vidí všechny smrtelníky.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Z místa, kde sídlí, dívá se
+
+m: b\breve \bar "||"
+t: * na všechny obyvatele země.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Každému z nich uhnětl srdce,
+
+m: b\breve \bar "||"
+t: * uvažuje o všech jejich skutcích.
+
+%% use: responsum
+

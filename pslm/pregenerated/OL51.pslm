@@ -1,0 +1,57 @@
+%% occasion: 'Matky Boží, Panny Marie (1. ledna)'
+%% responsum_reference: 'Ž 67 (66),2a'
+%% verse_reference: 'Ž 67 (66)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Bože, buď milostiv a žehnej nám!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bože, buď milostiv a žehnej nám,
+
+m: b\breve \bar "||"
+t: * ukaž nám svou jasnou tvář,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: kéž se pozná na zemi, jak jednáš,
+
+m: b\breve \bar "||"
+t: * kéž poznají všechny národy, jak zachraňuješ.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nechť se lidé radují a jásají,
+
+m: b\breve \bar "||"
+t: * že soudíš národy spravedlivě +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ať tě, Bože, velebí národy,
+
+m: b\breve \bar "||"
+t: * ať tě velebí kdekterý národ!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kéž nám Bůh žehná,
+
+m: b\breve \bar "||"
+t: * ať ho ctí všechny končiny země!
+
+%% use: responsum
+

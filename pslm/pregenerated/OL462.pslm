@@ -1,0 +1,67 @@
+%% occasion: 'Sobota 11. týdne 1'
+%% responsum_reference: 'Ž 34 (33),9a . R'
+%% verse_reference: 'Ž 34 (33)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Okuste a vizte, jak je Hospodin dobrý.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jak ochránce se utábořil Hospodinův anděl
+
+m: b\breve \bar "||"
+t: * kolem těch, kdo Hospodina ctí, a vysvobodil je.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Okuste a vizte, jak je Hospodin dobrý,
+
+m: b\breve \bar "||"
+t: * blaze člověku, který se k němu utíká.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bojte se Hospodina, jeho svatí!
+
+m: b\breve \bar "||"
+t: * Těm, kdo se ho bojí, nic nechybí.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Mocní strádají a hynou hlady,
+
+m: b\breve \bar "||"
+t: * nic nechybí těm, kdo hledají Hospodina.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pojďte, synové, a slyšte mě,
+
+m: b\breve \bar "||"
+t: * naučím vás bát se Hospodina.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Chraň se zlého a čiň dobré,
+
+m: b\breve \bar "||"
+t: * hledej pokoj a usiluj o něj!
+
+%% use: responsum
+

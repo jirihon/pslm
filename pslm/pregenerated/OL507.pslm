@@ -1,0 +1,85 @@
+%% occasion: 'Pondělí 20. týdne 1'
+%% responsum_reference: 'Srov. Ž 106 (105),4a'
+%% verse_reference: 'Ž 106 (105)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Pamatuj na nás, Hospodine, pro náklonnost k svému lidu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Otcové naši nevyhubili národy,
+
+m: b\breve \bar "||"
+t: * jak jim Hospodin rozkázal,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: ale smísili se s pohany
+
+m: b\breve \bar "||"
+t: * a naučili se jejich skutkům.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Uctívali jejich modly,
+
+m: b\breve \bar "||"
+t: * a ty se jim staly léčkou.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Obětovali své syny
+
+m: b\breve \bar "||"
+t: * i své dcery zlým duchům.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Znečistili se svými skutky
+
+m: b\breve \bar "||"
+t: * a zpronevěřili se svými zločiny.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Tu vzplanul hněv Hospodinův proti jeho národu
+
+m: b\breve \bar "||"
+t: * a zošklivil si své dědictví.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Mnohokrát je vysvobodil,
+
+m: b\breve \bar "||"
+t: * oni ho však roztrpčovali svými pletichami.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ale shlédl na jejich soužení,
+
+m: b\breve \bar "||"
+t: * když slyšel jejich prosbu.
+
+%% use: responsum
+

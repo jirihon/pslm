@@ -1,0 +1,111 @@
+%% occasion: 'Křtu Páně C (pokud se čte čtení z Iz 40,1-11)'
+%% responsum_reference: 'Ž 104 (103),1a .'
+%% verse_reference: 'Ž 104 (103) Q'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Veleb, duše má, Hospodina.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodine, můj Bože, jsi nadmíru veliký!
+
+m: b\breve \bar "||"
+t: * Velebností a vznešeností ses oděl, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Napjals nebesa jak stanovou plachtu,
+
+m: b\breve \bar "||"
+t: * nad vodami jsi zbudoval své síně.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Z mraků si děláš svůj vůz,
+
+m: b\breve \bar "||"
+t: * kráčíš na perutích větru.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Větry si volíš za své posly,
+
+m: b\breve \bar "||"
+t: * za své služebníky plameny ohně.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jak četná jsou tvá díla, Hospodine!
+
+m: b\breve \bar "||"
+t: * Všechno jsi moudře učinil,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: země je plná tvého tvorstva.
+
+m: b\breve \bar "||"
+t: * Zde moře mohutné a široširé,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: v něm nespočetné hemžení
+
+m: b\breve \bar "||"
+t: * živočichů drobných i velkých.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Všichni čekají od tebe,
+
+m: b\breve \bar "||"
+t: * že jim dáš obživu v pravý čas.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ty jim dáváš, a oni sbírají,
+
+m: b\breve \bar "||"
+t: * otvíráš ruku, a sytí se dobrými dary.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Děsí se, když skryješ svou tvář,
+
+m: b\breve \bar "||"
+t: * hynou, když vezmeš jim život, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Když sešleš svého ducha, jsou stvořeni,
+
+m: b\breve \bar "||"
+t: * a obnovuješ tvář země.
+
+%% use: responsum
+

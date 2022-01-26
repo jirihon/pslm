@@ -1,0 +1,67 @@
+%% occasion: 'Pátek 15. týdne 1'
+%% responsum_reference: 'Ž 116 (115),13'
+%% verse_reference: 'Ž 116 (115)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Vezmu kalich spásy a budu vzývat jméno Hospodinovo.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Čím se odplatím Hospodinu
+
+m: b\breve \bar "||"
+t: * za všechno, co mi prokázal?
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vezmu kalich spásy
+
+m: b\breve \bar "||"
+t: * a budu vzývat jméno Hospodinovo.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Drahocenná je v Hospodinových očích
+
+m: b\breve \bar "||"
+t: * smrt jeho zbožných.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jsem tvůj služebník, syn tvé služebnice,
+
+m: b\breve \bar "||"
+t: * rozvázal jsi moje pouta.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Přinesu ti oběť díků, Hospodine,
+
+m: b\breve \bar "||"
+t: * a budu vzývat tvé jméno.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Splním své sliby Hospodinu
+
+m: b\breve \bar "||"
+t: * před veškerým jeho lidem.
+
+%% use: responsum
+

@@ -1,0 +1,68 @@
+%% occasion: '(Pátek 6. týdne 2 - viz OL446)'
+%% occasion: 'Sobota 6. týdne 2'
+%% responsum_reference: 'Ž 12 (11),8a'
+%% verse_reference: 'Ž 12 (11)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Ty nás, Hospodine, ochráníš.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pomoz, Hospodine, zbožných ubývá,
+
+m: b\breve \bar "||"
+t: * mezi lidmi se vytrácí věrnost.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Klamou se navzájem falešnými slovy,
+
+m: b\breve \bar "||"
+t: * hovoří úlisným rtem, dvojakým srdcem.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nechť Hospodin každý úlisný ret zničí,
+
+m: b\breve \bar "||"
+t: * jazyk, který chlubivě mluví,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: ty, kteří říkají: „Naše síla je v jazyku,
+
+m: b\breve \bar "||"
+t: * rty máme k vlastnímu prospěchu;kdo je náš pán?“
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Hospodinovy výroky jsou upřímná slova,
+
+m: b\breve \bar "||"
+t: * ryzí stříbro, zbavené hlíny, sedmkrát tříbené.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ty nás, Hospodine, ochráníš
+
+m: b\breve \bar "||"
+t: * a zachováš navždy před tímto pokolením.
+
+%% use: responsum
+

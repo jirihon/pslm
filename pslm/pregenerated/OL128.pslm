@@ -1,0 +1,54 @@
+%% occasion: 'Čtvrtek v oktávu velikonočním'
+%% responsum_reference: 'Ž 8,2ab'
+%% verse_reference: 'Ž 8'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodine, Pane náš, jak podivuhodné je tvé jméno po celé zemi!
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Hospodine, náš Pane, +
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Učinils ho jen o málo menším, než jsou andělé,
+
+m: b\breve \bar "||"
+t: * ověnčils ho ctí a slávou,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: dals mu vládnout nad dílem svých rukou,
+
+m: b\breve \bar "||"
+t: * položils mu k nohám všechno:
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Ovce i veškerý dobytek,
+
+m: b\breve \bar "||"
+t: * k tomu i polní zvířata,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: ptáky na nebi a ryby v moři,
+
+m: b\breve \bar "||"
+t: * vše, co se hemží na stezkách moří.
+
+%% use: responsum
+

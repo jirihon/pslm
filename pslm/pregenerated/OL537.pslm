@@ -1,0 +1,91 @@
+%% occasion: 'Pondělí 26. týdne 1'
+%% responsum_reference: 'Ž 102 (101),17'
+%% verse_reference: 'Ž 102 (101)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodin znovu zbuduje Sión, objeví se ve své slávě.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pohané budou ctít tvé jméno, Hospodine,
+
+m: b\breve \bar "||"
+t: * a všichni králové země tvou slávu,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: až Hospodin znovu zbuduje Sión,
+
+m: b\breve \bar "||"
+t: * až se objeví ve své slávě.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Skloní se k modlitbě opuštěných
+
+m: b\breve \bar "||"
+t: * a nepohrdne jejich prosbou.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kéž je to zapsáno pro příští pokolení,
+
+m: b\breve \bar "||"
+t: * aby budoucí národ chválil Hospodina.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť Hospodin shlédl ze své vznešené svatyně,
+
+m: b\breve \bar "||"
+t: * popatřil z nebe na zem,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: aby slyšel nářek zajatců,
+
+m: b\breve \bar "||"
+t: * aby vysvobodil odsouzené k smrti.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Synové tvých služebníků budou bydlet v bezpečí
+
+m: b\breve \bar "||"
+t: * a jejich potomstvo potrvá před tebou,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: aby hlásali na Siónu Hospodinovo jméno
+
+m: b\breve \bar "||"
+t: * a jeho chválu v Jeruzalémě,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: když se spolu sejdou národy a království,
+
+m: b\breve \bar "||"
+t: * aby sloužily Hospodinu.
+
+%% use: responsum
+

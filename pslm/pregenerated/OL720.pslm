@@ -1,0 +1,68 @@
+%% occasion: '(Pátek 31. týdne 2 - viz OL714)'
+%% occasion: 'Sobota 31. týdne 2'
+%% responsum_reference: 'Ž 112 (111),1a'
+%% verse_reference: 'Ž 112 (111)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Blaze muži, který se bojí Hospodina.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Blaze muži, který se bojí Hospodina,
+
+m: b\breve \bar "||"
+t: * který má velkou zálibu v jeho přikázáních.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Mocné bude na zemi jeho potomstvo,
+
+m: b\breve \bar "||"
+t: * pokolení řádných lidí bude požehnáno.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Blaze muži, který se slitovává a půjčuje,
+
+m: b\breve \bar "||"
+t: * stará se o své věci podle práva.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť na věky nezakolísá,
+
+m: b\breve \bar "||"
+t: * ve věčné paměti bude spravedlivý.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jeho srdce je zmužilé, nebojí se,
+
+m: b\breve \bar "||"
+t: * rozděluje, dává chudým,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: jeho štědrost potrvá navždy,
+
+m: b\breve \bar "||"
+t: * jeho moc poroste v slávě.
+
+%% use: responsum
+

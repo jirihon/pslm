@@ -1,0 +1,62 @@
+%% occasion: '3. neděle postní A'
+%% occasion: 'Čtvrtek po 3. neděli postní'
+%% occasion: '4. neděle v mezidobí B'
+%% responsum_reference: 'Ž 95 (94), 7c-8a'
+%% verse_reference: 'Ž 95 (94)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Zaslechneteli dnes jeho hlas, nezatvrzujte svá srdce!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pojďme, jásejme Hospodinu,
+
+m: b\breve \bar "||"
+t: * oslavujme Skálu své spásy,
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: předstupme před něho s chvalozpěvy
+
+m: b\breve \bar "||"
+t: * a písněmi mu zajásejme!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Pojďme, padněme, klaňme se,
+
+m: b\breve \bar "||"
+t: * poklekněme před svým tvůrcem, Hospodinem!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť on je náš Bůh
+
+m: b\breve \bar "||"
+t: * a my jsme lid, který pase, (+)
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kéž byste dnes uposlechli jeho hlas:
+
+m: b\breve \bar "||"
+t: * „Nezatvrzujte svá srdce jako v Meribě,
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: jako tehdy v Masse na poušti, +
+

@@ -1,0 +1,53 @@
+%% occasion: 'Úterý 3. týdne 2'
+%% responsum_reference: 'Ž 24 (23),10b'
+%% verse_reference: 'Ž 24 (23)'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Hospodin zástupů, on je král slávy!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zdvihněte, brány, své klenby,
+
+m: b\breve \bar "||"
+t: * zvyšte se, prastaré vchody, + ať vejde král slávy!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kdo je ten král slávy?
+
+m: b\breve \bar "||"
+t: * Silný a mocný Hospodin, + Hospodin udatný v boji.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Zdvihněte, brány, své klenby,
+
+m: b\breve \bar "||"
+t: * zvyšte se, prastaré vchody, + ať vejde král slávy!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Kdo je ten král slávy?
+
+m: b\breve \bar "||"
+t: * Hospodin zástupů, + on je král slávy!
+
+%% use: responsum
+

@@ -1,0 +1,37 @@
+%% occasion: 'Panny Marie Lurdské (11. února)'
+%% occasion: 'O Panně Marii (i v době velikonoční)'
+%% responsum_reference: 'Jdt 15,10d'
+%% verse_reference: 'Jdt 13'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Ty jsi čest našeho lidu. lidu.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Požehnaná jsi, dcero, od Pána, nejvyššího Boha,
+
+m: b\breve \bar "||"
+t: * přede všemi, ženami na zemi.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Veleben buď Hospodin,
+
+m: b\breve \bar "||"
+t: * který stvořil nebe i zemi.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Vždyť tvé jméno dnes tak proslavil, +
+

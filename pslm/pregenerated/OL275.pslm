@@ -1,0 +1,75 @@
+%% occasion: 'Sv. Vavřince (10. srpna)'
+%% responsum_reference: 'Ž 112 (111),5a'
+%% verse_reference: 'Ž 112 (111)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Blaze muži, který se slitovává a půjčuje.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Blaze muži, který se bojí Hospodina,
+
+m: b\breve \bar "||"
+t: * který má velkou zálibu v jeho přikázáních.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Mocné bude na zemi jeho potomstvo,
+
+m: b\breve \bar "||"
+t: * pokolení řádných lidí bude požehnáno.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Blaze muži, který se slitovává a půjčuje,
+
+m: b\breve \bar "||"
+t: * stará se o své věci podle práva.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neboť na věky nezakolísá,
+
+m: b\breve \bar "||"
+t: * ve věčné paměti bude spravedlivý.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Nemusí se obávat zlé zprávy,
+
+m: b\breve \bar "||"
+t: * jeho srdce je pevné, důvěřuje v Hospodina.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Jeho srdce je zmužilé, nebojí se,
+
+m: b\breve \bar "||"
+t: * dokud neuzří své protivníky ve zmatku.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Rozděluje, dává chudým,
+
+m: b\breve \bar "||"
+t: * jeho štědrost potrvá navždy, +
+

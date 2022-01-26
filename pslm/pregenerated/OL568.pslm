@@ -1,0 +1,42 @@
+%% occasion: '(Čtvrtek 33. týdne 1 - viz OL488) Pátek 33. týdne 1'
+%% occasion: 'Čtvrtek 4. týdne 2'
+%% responsum_reference: '1 Kron 29,12b'
+%% verse_reference: '1. Kron 29'
+%% author: olejnik
+%% source: vsedni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Ty, Hospodine, vládneš nade vším.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: od věků n.a věky.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: neboť tobě patří všechno na nebi i na zemi.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: od tebe je bohatství a velebnost.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: z tvé ruky pochází všechna velikost a vláda.
+
+%% use: responsum
+

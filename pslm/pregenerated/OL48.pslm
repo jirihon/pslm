@@ -1,0 +1,34 @@
+%% occasion: 'Šestý den v oktávu Narození Páně (30. prosince)'
+%% responsum_reference: 'Ž 96 (95),3'
+%% verse_reference: 'Ž 96 (95)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Vypravujte mezi všemi národy o Hospodinových divech.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: vzdejte Hospodinu slávu, hodnou jeho jména.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: Třeste se před ním, všechny země!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: národy řídí podle práva.
+
+%% use: responsum
+

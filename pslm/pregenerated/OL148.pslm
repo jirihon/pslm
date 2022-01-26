@@ -1,0 +1,35 @@
+%% occasion: '4. neděle velikonoční C'
+%% occasion: '11. neděle v mezidobí A'
+%% responsum_reference: 'Ž 100 (99),3c R'
+%% verse_reference: 'Ž 100 (99)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Jsme jeho lid a stádce, které on pase.
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: vstupte před něho s jásotem!
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: jsme jeho lid a stádce na jeho pastvině.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "||"
+t: po všechna pokolení trvá jeho věrnost.
+
+%% use: responsum
+

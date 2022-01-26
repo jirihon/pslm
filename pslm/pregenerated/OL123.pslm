@@ -1,0 +1,67 @@
+%% occasion: 'Zmrtvýchvstání Páně, vigilie (7. čtení)'
+%% responsum_reference: 'Ž 51 (50),12a'
+%% verse_reference: 'Ž 51 (50)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key c \major
+
+%% part: responsum
+
+m: b\breve \bar "||"
+t: Stvoř mi čisté srdce, Bože!
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Stvoř mi čisté srdce, Bože!
+
+m: b\breve \bar "||"
+t: * Obnov ve mně ducha vytrvalosti.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Neodvrhuj mě od své tváře
+
+m: b\breve \bar "||"
+t: * a neodnímej mi svého svatého ducha.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vrať mi radost ze své ochrany
+
+m: b\breve \bar "||"
+t: * a posilni mou velkodušnost.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Bezbožné budu učit tvým cestám
+
+m: b\breve \bar "||"
+t: * a hříšníci se budou obracet k tobě.
+
+%% use: responsum
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Vždyť nemáš zálibu v oběti,
+
+m: b\breve \bar "||"
+t: * kdybych věnoval žertvu, nebyla by ti milá.
+
+%% part: verse
+
+m: b\breve \bar "|"
+t: Mou obětí, Bože, je zkroušený duch,
+
+m: b\breve \bar "||"
+t: * zkroušeným a pokorným srdcem, Bože, nepohrdneš.
+
+%% use: responsum
+
