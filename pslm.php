@@ -415,19 +415,16 @@ function pslm_text_to_lyrics($text) {
         $PSLM_HYPH_EXCEPTIONS = [$search, $replace];
     }
     $htext = preg_replace($PSLM_HYPH_EXCEPTIONS[0], $PSLM_HYPH_EXCEPTIONS[1], $htext);
-
     $repl = [
         '#\s{2,}#' => ' ', // normalize white-spaces to single space
         '# -- ([sšjdb]) -- #ui' => '\1 -- ', // move s, š or j to the previous syllable if both options are possible
         '# -- ([tz]) -- #ui' => ' -- \1', // move "t" to the next syllable if both options are posible
         '# -- (sť|ls)\b#ui' => '\1', // move unsyllabic parts to the previous syllable
-        //'# -- ([sš])([pt])#ui' => '\1 -- \2', // move s or š to the previous syllable if there is "p" or "t following
         
         '#\b[ksvz] [^\s]+#ui' => '"\0"', // join unsyllabic preposition to the next syllable
         '#[^\s]+ \+#ui' => '"\0"', // join + sign to the previous syllable
     ];
     $htext = preg_replace(array_keys($repl), array_values($repl), $htext);
-
     return $htext;
 }
 
