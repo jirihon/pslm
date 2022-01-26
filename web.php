@@ -13,6 +13,7 @@ define('PSLM_PX_PER_STEP', 50);
 define('PSLM_MAX_WIDTH', 732);
 
 $PSLM_AUTHORS = null;
+$PSLM_SOURCES = null;
 
 pslm_render_sizes_css();
 pslm_render_index();
@@ -27,6 +28,15 @@ function pslm_lyrics_to_text($lyrics) {
     $text = preg_replace('#\s*\\\\set stanza = ("[^"]*"|\\\\responsum)\s*#', '', $text);
     $text = str_replace('"', '', $text);
     return $text;
+}
+
+function pslm_psalm_title($id, $psalm) {
+    return sprintf(
+        '%s – %s – %s',
+        $id,
+        pslm_lyrics_to_text($psalm['text']['responsum']),
+        $psalm['opts']['verse_reference']
+    );
 }
 
 function pslm_render_index() {
@@ -59,15 +69,11 @@ function pslm_render_index() {
                 foreach ($day['psalms'] as $id) {
                     if (!isset($psalms[$id])) {
                         $psalms[$id] = pslm_render_psalm_html($id);
-                        $psalms[$id]['opts']['responsum'] = pslm_lyrics_to_text($psalms[$id]['text']['responsum']);
-                        $info = $psalms[$id]['opts'];
                     }
                     $day_html[] = sprintf(
-                        '<a href="%s.html">%s – %s – %s</a>',
+                        '<a href="%s.html">%s</a>',
                         $id,
-                        $info['number'],
-                        $info['responsum'],
-                        $info['reference']
+                        pslm_psalm_title($id, $psalms[$id])
                     );
                 }
                 $html .= sprintf('<li>%s</li>', implode('<br />', $day_html));
@@ -87,6 +93,9 @@ function pslm_render_index() {
 <body>
     <div class="main">
         <h1>Žaltář</h1>
+        <p><i>„Zpěvem se Boží slovo ukládá do srdce, aby se nám vynořilo v pravý
+čas, kdy budeme plni radosti, bolesti, starosti, úzkosti nebo vděčnosti. Tak se zpívané Boží slovo žalmů stane útěchou, posilou a
+světlem v našem putování do věčného domova.“</i> P. Josef Olejník</p>
         <p><a href="o-projektu.html">O projektu</a> | <a href="https://github.com/jirihon/pslm">GitHub</a></p>
         <?= $html ?>
     </div>
@@ -98,31 +107,29 @@ function pslm_render_index() {
 }
 
 function pslm_render_psalm_html($id) {
-    global $PSLM_AUTHORS;
+    global $PSLM_AUTHORS, $PSLM_SOURCES;
     if ($PSLM_AUTHORS === null) {
         $PSLM_AUTHORS = Yaml::parseFile(dirname(__FILE__).'/db/authors.yml');
+    }
+    if ($PSLM_SOURCES === null) {
+        $PSLM_SOURCES = Yaml::parseFile(dirname(__FILE__).'/db/sources.yml');
     }
     $psalm = pslm_engrave($id, 'svg');
     $opts = $psalm['opts'];
 
-    $number = isset($opts['number']) ? $opts['number'] : '';
-    $day = isset($opts['day']) ? $opts['day'] : '';
-    $cycle = isset($opts['cycle']) ? $opts['cycle'] : '';
-    $author = isset($opts['author']) && isset($PSLM_AUTHORS[$opts['author']]) ? $PSLM_AUTHORS[$opts['author']] : '';
-    $source = isset($opts['source']) ? $opts['source'] : '';
-    preg_match('#://([^/]+)#', $source, $m);
-    if (!empty($m)) {
-        $source_domain = $m[1];
+    if (!is_array($opts['occasion'])) {
+        $occasions = [$opts['occasion']];
     } else {
-        $source_domain = $source;
+        $occasions = $opts['occasion'];
     }
+    $source = isset($opts['source']) && isset($PSLM_SOURCES[$opts['source']]) ? $PSLM_SOURCES[$opts['source']] : '';
 
     ob_start();
 ?><!DOCTYPE html>
 <html lang="cs" prefix="og: http://ogp.me/ns#">
 <head>
 	<meta charset="UTF-8">
-	<title><?= $number ?></title>
+	<title><?= $id ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 	<link rel="stylesheet" href="css/sizes.css?ver=<?= time() ?>" media="all" />
 	<link rel="stylesheet" href="css/style.css?ver=<?= time() ?>" media="all" />
@@ -133,11 +140,13 @@ function pslm_render_psalm_html($id) {
 </head>
 <body class="zoom-0">
     <div class="main">
-        <h1><?= $number ?></h1>
-        <h2><?= $day ?> <?= $cycle ?></h2>
-        <?php if (!empty($author)): ?>
-        <p><?= $author ?></p>
-        <?php endif ?>
+        <h1><?= $id ?></h1>
+        <?php foreach($occasions as $occasion): ?>
+        <h3><?= $occasion ?></h3>
+        <?php endforeach ?>
+        
+        <p>Odpověď: <?= $opts['responsum_reference'] ?></p>
+        <p>Verše: <?= $opts['verse_reference'] ?></p>
 
         <p><audio controls src="mp3/<?= $id ?>.mp3"></audio></p>
         <p><a href="#" id="zoom-in-button">Zvětšit</a> – <a href="#" id="zoom-out-button">Zmenšit</a> – <a href="#" id="zoom-reset-button">Resetovat</a></p>
@@ -149,7 +158,7 @@ function pslm_render_psalm_html($id) {
         </div>
         
         <?php if (!empty($source)): ?>
-        <p>Zdroj: <a href="<?= $source ?>"><?= $source_domain ?></a></p>
+        <p><?= $source ?></p>
         <p>Zdrojový kód: <a href="pslm/<?= $id ?>.pslm">PSLM</a>,
         <?php foreach (PSLM_SVG_SIZES as $size): ?>
         <a class="size-<?= $size ?>" href="ly/<?= $id ?>-<?= $size ?>.ly">LilyPond</a>
