@@ -1,0 +1,6 @@
+AddType text/plain .ly
+AddType text/plain .pslm
+AddDefaultCharset utf-8
+
+RewriteEngine on
+RewriteRule . - [L]
