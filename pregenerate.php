@@ -31,12 +31,15 @@ function pslm_pregenerate($filename, $source) {
                 break;
             }
         }
+        $psalm = array_values($psalm); // reindex array
+        
         if (empty($id) || $id === 'OL107' || $id === 'OL491' || $id === 'OL486' || $id == 'OL453') {
             continue;
         }
         foreach ($psalm as $i => $psalm_line) {
             if ($psalm_line[0] == '[') {
-                $occasions = array_slice($psalm, 0, $i - 2);            
+                $occasions = array_slice($psalm, 0, $i - 1);
+                
                 $responsum = $psalm[$i-1];
                 if (preg_match('#\]#u', $psalm_line)) {
                     $responsum_reference = $psalm_line;
