@@ -361,15 +361,15 @@ function pslm_parse_psalm($psalm) {
 function pslm_process_snippet($music, $text) {
     // replace shortcuts
     $shortcuts = [
-        '|' => '\bar "|"',
-        '/' => '\bar ""',
-        '||' => '\bar "||"',
-        'B' => '\breve',
-        '(' => '[(',
-        ')' => ')]',
-        '_' => '\verseAccent',
+        '#(?<=\s|^)\|\|(?=\s|$)#' => '\bar "||"',
+        '#(?<=\s|^)\|(?=\s|$)#' => '\bar "|"',
+        '#/#' => '\bar ""',
+        '#B#' => '\breve',
+        '#\(#' => '[(',
+        '#\)#' => ')]',
+        '#_#' => '\verseAccent',
     ];
-    $music = str_replace(array_keys($shortcuts), array_values($shortcuts), $music);
+    $music = preg_replace(array_keys($shortcuts), array_values($shortcuts), $music);
 
     preg_match_all('#\\\\breve#', $music, $m);
     if (count($m[0]) > 1) {

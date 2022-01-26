@@ -129,7 +129,7 @@ function pslm_render_psalm_html($id) {
 <html lang="cs" prefix="og: http://ogp.me/ns#">
 <head>
 	<meta charset="UTF-8">
-	<title><?= $id ?></title>
+	<title><?= pslm_psalm_title($id, $psalm) ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 	<link rel="stylesheet" href="css/sizes.css?ver=<?= time() ?>" media="all" />
 	<link rel="stylesheet" href="css/style.css?ver=<?= time() ?>" media="all" />
