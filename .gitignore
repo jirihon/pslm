@@ -16,3 +16,4 @@ db/*.xml
 db/*.gz
 db/*_zaltar.yml
 pslm/*.pdf
+pslm/*.ly
