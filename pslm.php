@@ -10,6 +10,7 @@ define('PSLM_TOKEN_HYPHEN', $i++);
 define('PSLM_TOKEN_KEY', $i++);
 define('PSLM_TOKEN_NOTE_SYLLABLE', $i++);
 define('PSLM_TOKEN_NOTE', $i++);
+define('PSLM_TOKEN_REST', $i++);
 define('PSLM_TOKEN_OTHER', $i++);
 define('PSLM_TOKEN_BAR', $i++);
 define('PSLM_STATE_INIT', $i++);
@@ -60,7 +61,7 @@ function pslm_engrave($id, $svg_d) {
         file_put_contents("midi/$id.ly", $lily);
         $cmd = "lilypond -o midi/$id midi/$id.ly";
         system($cmd);
-        $cmd = "timidity --quiet -T 150 --output-24bit -Ow -o - $midi_f | ffmpeg -hide_banner -loglevel error -y -i - -acodec libmp3lame -ab 64k html/mp3/$id.mp3";
+        $cmd = "timidity --quiet -T 150 --output-24bit -Ow -o - $midi_f | ffmpeg -hide_banner -loglevel error -y -i - -filter:a loudnorm -acodec libmp3lame -qscale:a 3 html/mp3/$id.mp3";
         system($cmd);
     }
     return $psalm;
@@ -108,7 +109,9 @@ function pslm_process_music_part($music) {
         $i = $accent_i;
         $cresc_start = $i;
         $dist = 0;
-        while ($i >= 0 && $dist <= PSLM_CRESC_MAX_DIST && !pslm_token_is_visible_bar($tokens[$i])) {
+        while ($i >= 0 &&
+               $dist <= PSLM_CRESC_MAX_DIST &&
+               !pslm_token_is_visible_bar($tokens[$i])) {
             if (pslm_token_is_note($tokens[$i])) {
                 ++$dist;
                 $cresc_start = $i;
@@ -120,7 +123,9 @@ function pslm_process_music_part($music) {
         }
         $i = $accent_i;
         $decresc_end = $i;
-        while ($i < count($tokens) && !pslm_token_is_visible_bar($tokens[$i])) {
+        while ($i < count($tokens) &&
+               !pslm_token_is_visible_bar($tokens[$i]) &&
+               $tokens[$i][0] !== PSLM_TOKEN_REST) {
             if (pslm_token_is_note($tokens[$i])) {
                 $decresc_end = $i;
             }
@@ -137,9 +142,10 @@ function pslm_process_music_part($music) {
 
 function pslm_music_implode($parts) {
     $ret = '';
-    foreach ($parts as $music) {
+    foreach ($parts as $key => $music) {
         $music = trim(implode(' ', $music));
         $music = pslm_process_music_part($music);
+
         if (pslm_is_note($music)) {
             $ret .= "\\relative { $music }\n";
         } else {
@@ -323,7 +329,18 @@ function pslm_parse_psalm($psalm) {
                     $psalm['text'][] = $psalm['text'][$key];
                     $part = '';
                 } else {
-                    $opts = array_merge($opts, $line_opts);
+                    foreach ($line_opts as $key => $value) {
+                        if (isset($opts[$key])) {
+                            if (is_array($opts[$key])) {
+                                $opts[$key][] = $value;
+                            } else {
+                                $opts[$key] = [$opts[$key], $value];
+                            }
+                        } else {
+                            $opts[$key] = $value;
+                        }
+                    }
+                    //$opts = array_merge($opts, $line_opts);
                 }
                 continue; // move to the next line
             } elseif ($cmd == 'm:') {    
@@ -371,6 +388,7 @@ function pslm_process_snippet($music, $text) {
         $n_syllabels_to_add = -$n_notes_to_add;
         $text .= sprintf(' \repeat unfold %d { \skip 1 }', $n_syllabels_to_add);
     }
+    $music = str_replace('\bar "||"', '\bar "||" \break', $music);
     $text = str_replace('*', '\set stanza = \star', $text);
     return [$music, $text];
 }
@@ -402,6 +420,7 @@ function pslm_text_to_lyrics($text) {
         '#\s{2,}#' => ' ', // normalize white-spaces to single space
         '# -- ([sšjdb]) -- #ui' => '\1 -- ', // move s, š or j to the previous syllable if both options are possible
         '# -- ([tz]) -- #ui' => ' -- \1', // move "t" to the next syllable if both options are posible
+        '# -- (sť|ls) #ui' => '\1 ', // move "sť" to the previous syllable
         //'# -- ([sš])([pt])#ui' => '\1 -- \2', // move s or š to the previous syllable if there is "p" or "t following
         
         '#\b[ksvz] [^\s]+#ui' => '"\0"', // join unsyllabic preposition to the next syllable
@@ -511,6 +530,8 @@ function pslm_parse_music($music) {
                 ($state == PSLM_STATE_LIGATURE && !preg_match('#~#', $event))) {
                 $state = PSLM_STATE_INIT;
             }
+        } elseif ($event[0] == 'r') {
+            $tokens[] = [PSLM_TOKEN_REST, $event];
         } else {
             $tokens[] = [PSLM_TOKEN_OTHER, $event];
         }
