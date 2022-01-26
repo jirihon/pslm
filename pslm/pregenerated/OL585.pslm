@@ -39,8 +39,11 @@ t: * a přijď nás zachránit!
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Bože zástupů, jak dlouho budeš dýmat hněvem,
+
 m: b\breve \bar "||"
-t: Bože zástupů,
+t: * když se modlí tvůj lid?
 
 %% part: verse
 
@@ -52,6 +55,11 @@ t: * a slzami jsi ho napojil vrchovatě.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Dopouštíš, že se kvůli nám sousedé sváří
+
 m: b\breve \bar "||"
-t: Dopouštíš,
+t: * a naši nepřátelé se nám posmívají.
+
+%% use: responsum
 

@@ -25,7 +25,9 @@ m: b\breve \bar "|"
 t: Hospodin je má síla, jej opěvuji, + stalse mou spásou.
 
 m: b\breve \bar "||"
-t: * On je můj Bůh, a já ho chválím, +
+t: * On je můj Bůh, a já ho chválím, + Bůh mého otce, a já ho oslavuji.
+
+%% use: responsum
 
 %% part: verse
 
@@ -55,8 +57,11 @@ t: * zřítili se do propasti jako kámen.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Tvá pravice, Hospodine, lu, tvá pravice, Hospodine, drtí nepřátele. R. ukazuje svou moc a sí
+
 m: b\breve \bar "||"
-t: Tvá pravice, Hospodine,
+t: * 
 
 %% part: verse
 

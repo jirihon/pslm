@@ -75,6 +75,11 @@ t: * ochráním ho, protože zná mé jméno.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Vyslyším ho, až mě bude vzývat, + budu při něm v tísni,
+
 m: b\breve \bar "||"
-t: Vyslyším ho, až mě bude vzývat, +
+t: * zachráním ho a oslavím.“
+
+%% use: responsum
 

@@ -13,8 +13,11 @@ t: Blaze muži, který se slitovává a půjčuje.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Blaze muži, který se bojí Hospodina, který má velkou zálibu v jeho přikázáních. Q
+
 m: b\breve \bar "||"
-t: Blaze muži, který se bojí Hospodina, který má velkou zálibu v jeho přikázáních.
+t: * 
 
 %% part: verse
 
@@ -50,5 +53,7 @@ m: b\breve \bar "|"
 t: Rozděluje, dává chudým,
 
 m: b\breve \bar "||"
-t: * jeho štědrost potrvá navždy, +
+t: * jeho štědrost potrvá navždy, + jeho moc poroste v slávě.
+
+%% use: responsum
 

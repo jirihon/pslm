@@ -35,7 +35,7 @@ m: b\breve \bar "|"
 t: Jako se smilovává otec nad syny,
 
 m: b\breve \bar "||"
-t: * tak se smilovává Hospodin nad těmi,
+t: * tak se smilovává Hospodin nad těmi, kdo se ho bojí.
 
 %% part: verse
 
@@ -67,8 +67,11 @@ t: * nezbude po něm ani stopa.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Hospodinova láska však od věků na věky + pro všechny, kdo se ho bojí,
+
 m: b\breve \bar "||"
-t: Hospodinova láska však od věků
+t: * a jeho spravedlnost jde z dětí na děti
 
 %% part: verse
 
@@ -76,5 +79,7 @@ m: b\breve \bar "|"
 t: pro ty, kteří zachovávají jeho smlouvu,
 
 m: b\breve \bar "||"
-t: * kteří pamatují
+t: * kteří pamatují na jeho přikázání tím, že je plní.
+
+%% use: responsum
 

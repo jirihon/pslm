@@ -17,7 +17,9 @@ m: b\breve \bar "|"
 t: Hospodin miluje, co založil na svatých horách,
 
 m: b\breve \bar "||"
-t: * miluje brány Siónu
+t: * miluje brány Siónu nad všechna Jakubova sídla.
+
+%% use: responsum
 
 %% part: verse
 
@@ -29,8 +31,13 @@ t: * město Boží!
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: O Siónu se řekne: (+) „Jeden jako druhý se v něm narodil,
+
 m: b\breve \bar "||"
-t: O Siónu se řekne: (+)
+t: * sám Svrchovaný mu dal pevný základ.“
+
+%% use: responsum
 
 %% part: verse
 

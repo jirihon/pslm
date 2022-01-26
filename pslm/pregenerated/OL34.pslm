@@ -40,15 +40,19 @@ t: * ale slabí se opásávají silou.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Kdo bývali sytí, ch.léb; kdo hladověli, mohou ustat od práce. dávají se nyní najímat za
+
 m: b\breve \bar "||"
-t: Kdo bývali sytí,
+t: * 
 
 %% part: verse
 
-m: b\breve \bar "||"
-t: Neplodná dostává sedm dětí, matka mnoha synů vadne osamělá.
+m: b\breve \bar "|"
+t: Neplodná dostává sedm dětí, matka mnoha synů vadne osamělá. R.
 
-%% use: responsum
+m: b\breve \bar "||"
+t: * 
 
 %% part: verse
 

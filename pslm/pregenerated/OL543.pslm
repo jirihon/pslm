@@ -17,7 +17,9 @@ m: b\breve \bar "|"
 t: Z hlubin volám k tobě, Hospodine,
 
 m: b\breve \bar "||"
-t: * Pane, vyslyš hlas můj!
+t: * Pane, vyslyš hlas můj! ný k mé snažné prosbě!
+
+%% use: responsum
 
 %% part: verse
 
@@ -41,9 +43,7 @@ m: b\breve \bar "|"
 t: Ale u tebe je odpuštění,
 
 m: b\breve \bar "||"
-t: * abychom ti mohli v úctě sloužit.
-
-%% use: responsum
+t: * abychom ti mohli v úctě sloužit. R. ní.
 
 %% part: verse
 

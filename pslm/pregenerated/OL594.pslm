@@ -14,8 +14,13 @@ t: Miluji tě, Hospodine, má sílo!
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Boží cesta je dokonalá, + Hospodinovo slovo, tříbené ohněm,
+
 m: b\breve \bar "||"
-t: Boží cesta je dokonalá, +
+t: * štítem je všem, kdo se k němu utíkají.
+
+%% use: responsum
 
 %% part: verse
 
@@ -41,5 +46,7 @@ m: b\breve \bar "|"
 t: Veliká vítězství jsi popřál svému králi,
 
 m: b\breve \bar "||"
-t: * dáváš přízeň svému pomazanému, +
+t: * dáváš přízeň svému pomazanému, + Davidovi a jeho potomstvu na věky.
+
+%% use: responsum
 

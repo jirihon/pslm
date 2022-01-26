@@ -31,8 +31,11 @@ t: * „Na věky ať žije vaše srce!“
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Rozpomenou se a k Hospodinu se obrátí všechny končiny zem,
+
 m: b\breve \bar "||"
-t: Rozpomenou se a k Hospodinu
+t: * před ním se skloní všechna lidská pokolení,
 
 %% part: verse
 

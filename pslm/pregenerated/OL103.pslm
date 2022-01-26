@@ -17,7 +17,7 @@ m: b\breve \bar "|"
 t: Hospodine, můj Bože, k tobě se utíkám;
 
 m: b\breve \bar "||"
-t: * zachraň mě přede všemi,
+t: * zachraň mě přede všemi, kdo mě pronásledují, a vysvoboď mě;
 
 %% part: verse
 
@@ -39,8 +39,13 @@ t: * a není na mně viny.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Ať přestane ničemnost bezbožníků, (+) ty, který zkoumáš srdce i ledví, (+) podepři spravedlivého
+
 m: b\breve \bar "||"
-t: Ať přestane ničemnost bezbožníků, (+) ty, který zkoumáš srdce i ledví, (+)
+t: * spravedlivý Bože!
+
+%% use: responsum
 
 %% part: verse
 

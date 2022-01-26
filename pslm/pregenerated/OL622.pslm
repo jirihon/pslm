@@ -33,7 +33,9 @@ m: b\breve \bar "|"
 t: Lidé, jak dlouho chcete mít nechápavé srdce?
 
 m: b\breve \bar "||"
-t: * Proč lpíte na tom, co je marné, (+)
+t: * Proč lpíte na tom, co je marné, (+) a proč se sháníte po lži?
+
+%% use: responsum
 
 %% part: verse
 
@@ -49,7 +51,9 @@ m: b\breve \bar "|"
 t: Třeste se a nehřešte,
 
 m: b\breve \bar "||"
-t: * na svých ložích uvažujte
+t: * na svých ložích uvažujte ve svém srdci a buďte klidn.í!
+
+%% use: responsum
 
 %% part: verse
 

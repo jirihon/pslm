@@ -21,8 +21,13 @@ t: * jehož hřích je přikryt.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Šťastný je člověk, kterému Hospodin nepřičítá vinu,
+
 m: b\breve \bar "||"
-t: Šťastný je člověk,
+t: * v jehož duši není klamu.
+
+%% use: responsum
 
 %% part: verse
 
@@ -48,7 +53,9 @@ m: b\breve \bar "|"
 t: Proto se bude k tobě modlit každý zbožný v čas tísně.
 
 m: b\breve \bar "||"
-t: * Až budou dorážet přívaly vod, +
+t: * Až budou dorážet přívaly vod, + k němu nedosáhnou.
+
+%% use: responsum
 
 %% part: verse
 

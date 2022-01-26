@@ -17,7 +17,7 @@ m: b\breve \bar "|"
 t: Na věky chci zpívat o Hospodinových milostech,
 
 m: b\breve \bar "||"
-t: * po všechna pokolení hlásat
+t: * po všechna pokolení hlásat svými ústy tvou věrnost.
 
 %% part: verse
 
@@ -35,7 +35,9 @@ m: b\breve \bar "|"
 t: Nebesa oslavují tvé divy, Hospodine,
 
 m: b\breve \bar "||"
-t: * a tvou věrnost shromáždění svatých.
+t: * a tvou věrnost shromáždění svatých. nu, z Božích synů se podobá Pánu?
+
+%% use: responsum
 
 %% part: verse
 

@@ -21,8 +21,13 @@ t: * Pravím Hospodinu: „Ty jsi můj Pán.“
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Ty jsi, Hospodine, mým dědičným podílem i mou číší,
+
 m: b\breve \bar "||"
-t: Ty jsi, Hospodine,
+t: * ty mně zachováváš můj úděl.
+
+%% use: responsum
 
 %% part: verse
 

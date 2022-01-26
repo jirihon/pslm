@@ -14,13 +14,23 @@ t: Pane, ty máš slova věčného života.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Hospodinův zákon je dokonalý, (+) občerstvuje duši,
+
 m: b\breve \bar "||"
-t: Hospodinův zákon je dokonalý, (+)
+t: * Hospodinův příkaz je spolehlivý, (+) nezkušenému dává moudrost.
+
+%% use: responsum
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Hospodinovy předpisy jsou správné, (+) působí radost srdci,
+
 m: b\breve \bar "||"
-t: Hospodinovy předpisy jsou správné, (+)
+t: * Hospodinův rozkaz je jasný, (+) osvětluje oči.
+
+%% use: responsum
 
 %% part: verse
 
@@ -28,7 +38,9 @@ m: b\breve \bar "|"
 t: Bázeň před Hospodinem je upřímná, trvá na věky,
 
 m: b\breve \bar "||"
-t: * Hospodinovy výroky jsou pravdivé, (+)
+t: * Hospodinovy výroky jsou pravdivé, (+) všechny jsou spravedlivé.
+
+%% use: responsum
 
 %% part: verse
 

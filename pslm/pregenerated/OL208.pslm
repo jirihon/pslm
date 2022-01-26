@@ -25,8 +25,13 @@ t: * snažně tě hledá ,
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: má duše po tobě žízní, (+) lo jak vyprahlá, žíznivá, bezvodá země. prahne po tobě mé tě
+
 m: b\breve \bar "||"
-t: má duše po tobě žízní, (+)
+t: * 
+
+%% use: responsum
 
 %% part: verse
 

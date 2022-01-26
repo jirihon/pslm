@@ -23,8 +23,13 @@ t: * ať dojdeme k moudrosti srdce.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Obrať se, Hospodine, (+) jak dlouho ještě budeš čekat?
+
 m: b\breve \bar "||"
-t: Obrať se, Hospodine, (+)
+t: * Slituj se nad svými služebníky!
+
+%% use: responsum
 
 %% part: verse
 
@@ -54,6 +59,11 @@ t: * tvá sláva jejich synům.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Ať je nad námi dobrotivost Pána, našeho Boha, + dej zdar práci našich rukou,
+
 m: b\breve \bar "||"
-t: Ať je nad námi dobrotivost Pána,
+t: * dej zdar práci našich rukou!
+
+%% use: responsum
 

@@ -21,8 +21,13 @@ t: * ať nade mnou nejásají moji nepřátelé.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Vždyť nikdo z těch, do hanby padnou ti, kdo v tebe doufají, nepadne do hanby;
+
 m: b\breve \bar "||"
-t: Vždyť nikdo z těch, do hanby padnou ti,
+t: * kdo lehkovážně ruší věrnost.
+
+%% use: responsum
 
 %% part: verse
 

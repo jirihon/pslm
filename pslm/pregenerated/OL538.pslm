@@ -39,8 +39,13 @@ t: * ba i Filištínsko, Tyrus s Etiopií; +
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: O Siónu se řekne: (+) i ti se tam narodili. „Jeden jako druhý se v něm narodil,
+
 m: b\breve \bar "||"
-t: O Siónu se řekne: (+) i ti se tam narodili.
+t: * sám Svrchovaný mu dal pevný základ.“
+
+%% use: responsum
 
 %% part: verse
 

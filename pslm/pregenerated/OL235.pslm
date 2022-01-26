@@ -33,8 +33,11 @@ t: * v den, kdy jsem ho vzýval.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Obepjaly mě provazy smrti, + dostihly mě smyčky podsvětí,
+
 m: b\breve \bar "||"
-t: Obepjaly mě provazy smrti, +
+t: * uvízl jsem v tísni a trýzni.
 
 %% part: verse
 

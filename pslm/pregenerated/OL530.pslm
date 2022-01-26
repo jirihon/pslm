@@ -31,8 +31,13 @@ t: * provedené v pravdě a právu.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Vykoupení seslal svému lidu, + sjednal na věky svou smlouvu;
+
 m: b\breve \bar "||"
-t: Vykoupení seslal svému lidu, +
+t: * svaté a velebné je jeho jméno.
+
+%% use: responsum
 
 %% part: verse
 
@@ -40,5 +45,7 @@ m: b\breve \bar "|"
 t: Počátek moudrosti je bát se Hospodina:
 
 m: b\breve \bar "||"
-t: * moudře jednají všichni, kdo tak činí; +
+t: * moudře jednají všichni, kdo tak činí; + jeho chvála zůstává navždy.
+
+%% use: responsum
 

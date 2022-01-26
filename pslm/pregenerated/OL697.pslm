@@ -18,7 +18,9 @@ m: b\breve \bar "|"
 t: Slyš, Hospodine, spravedlivou žádost,
 
 m: b\breve \bar "||"
-t: * všimni si mého nářku, +
+t: * všimni si mého nářku, + popřej sluchu mé modlitbě z bezelstných rtů!
+
+%% use: responsum
 
 %% part: verse
 
@@ -30,8 +32,13 @@ t: * tvé oči vidí, co je správné.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Jestliže zkoušíš mé srdce, (+) zkoumáš mě v noci, tříbíš mě ohněm,
+
 m: b\breve \bar "||"
-t: Jestliže zkoušíš mé srdce, (+)
+t: * nenalezneš na mně nepravosti.
+
+%% use: responsum
 
 %% part: verse
 
@@ -43,6 +50,11 @@ t: * popřej mi sluchu, slyš mé slovo!
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Ukaž mi svou zvláštní milost + ty, který zachraňuješ před odpůrci všechny,
+
 m: b\breve \bar "||"
-t: Ukaž mi svou zvláštní milost +
+t: * kdo se utíkají k tvé pravici.
+
+%% use: responsum
 

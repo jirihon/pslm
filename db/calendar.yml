@@ -1,5 +1,10 @@
 - year: 2022
   months:
+    - month: 2
+      days:
+      - day: 6
+        name: 5. neděle v mezidobí
+        psalms: [OL194]
     - month: 1
       days:
       - day: 30

@@ -13,8 +13,11 @@ t: Jeho potomstvo potrvá na věky.
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: b\breve \bar "|"
 t: Na věky chci zpívat o Hospodinových milostech, po všechna pokolení
+
+m: b\breve \bar "||"
+t: * hlásat svými ústy tvou věrnost.
 
 %% part: verse
 

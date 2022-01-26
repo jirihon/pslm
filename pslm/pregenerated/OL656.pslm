@@ -59,6 +59,11 @@ t: * rozhněvali mě svými modlami.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Nuže, já je popudím k žárlivosti kvůli tomu, kdo není národ,
+
 m: b\breve \bar "||"
-t: Nuže, já je popudím k žárlivosti
+t: * kvůli pošetilému lidu je rozhněvám.“
+
+%% use: responsum
 

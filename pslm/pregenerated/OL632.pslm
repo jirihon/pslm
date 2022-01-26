@@ -13,8 +13,11 @@ t: Na věky chci zpívat o Hospodinových milostech.
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: b\breve \bar "|"
 t: Smlouvu jsem sjednal se svým vyvoleným, přísahal jsem Davidovi, svému služebníku:
+
+m: b\breve \bar "||"
+t: * 
 
 %% part: verse
 

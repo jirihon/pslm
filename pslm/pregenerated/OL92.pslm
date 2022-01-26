@@ -13,8 +13,11 @@ t: Jeruzaléme, oslavuj Hospodina!
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Jeruzaléme, o na, chval svého Boha, Sióne,slavuj Hospodi
+
 m: b\breve \bar "||"
-t: Jeruzaléme, o na, chval svého Boha, Sióne,
+t: * 
 
 %% part: verse
 
@@ -40,9 +43,7 @@ m: b\breve \bar "|"
 t: Dává sníh jako vlnu,
 
 m: b\breve \bar "||"
-t: * jíní sype jako popel.
-
-%% use: responsum
+t: * jíní sype jako popel. R. vi, své zákony a přikázání Izraeli.
 
 %% part: verse
 

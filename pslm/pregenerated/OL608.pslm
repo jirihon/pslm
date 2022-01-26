@@ -31,8 +31,13 @@ t: * zůstal bych na poušti.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Rychle bych spěchal do útočiště + před vichrem a bouří.
+
 m: b\breve \bar "||"
-t: Rychle bych spěchal do útočiště +
+t: * Pane, zmať a rozděl jim jazyky.
+
+%% use: responsum
 
 %% part: verse
 

@@ -32,6 +32,11 @@ t: * který stvořil nebe i zemi.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Vždyť tvé jméno dnes tak proslavil, + že tvá chvála nevymizí z lidských úst,
+
 m: b\breve \bar "||"
-t: Vždyť tvé jméno dnes tak proslavil, +
+t: * ale budou pamatovat na moc Hospodinovu na věky.
+
+%% use: responsum
 

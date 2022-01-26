@@ -13,8 +13,11 @@ t: Sešli svého ducha, Pane, a obnov tvářnost země.
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: b\breve \bar "|"
 t: Veleb, má Sduše, Hospodina! Hospodine, můj Bože, jsi nadmíru veliký!
+
+m: b\breve \bar "||"
+t: * 
 
 %% part: verse
 

@@ -13,8 +13,11 @@ t: Budou se ti, Hospodine, klanět všechny národy.
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: b\breve \bar "|"
 t: Bože, svěř králi svou pravomoc, svou spravedlnost královskému synu.
+
+m: b\breve \bar "||"
+t: * 
 
 %% part: verse
 
@@ -36,15 +39,19 @@ t: * pahorky spravedlnost.
 
 %% part: verse
 
-m: b\breve \bar "||"
-t: Zjedná právo ubohým z lidu, pomůže chudákům.
+m: b\breve \bar "|"
+t: Zjedná právo ubohým z lidu, pomůže chudákům. R.
 
-%% use: responsum
+m: b\breve \bar "||"
+t: * 
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: V jeho dnech rozkvete spravedlnost a hojnost pokoje,
+
 m: b\breve \bar "||"
-t: V jeho dnech rozkvete
+t: * dokud nezanikne luna.
 
 %% part: verse
 

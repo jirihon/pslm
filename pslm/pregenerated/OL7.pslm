@@ -31,8 +31,11 @@ t: * nestranně tvým ubohým.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: V jeho dnech rozkvete spravedlnost a hojnost pokoje,
+
 m: b\breve \bar "||"
-t: V jeho dnech rozkvete
+t: * dokud nezanikne luna.
 
 %% part: verse
 
@@ -46,8 +49,11 @@ t: * od Řeky až do končin země.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: On vysvobodí chudáka, který se dovolává pomoci,
+
 m: b\breve \bar "||"
-t: On vysvobodí chudáka,
+t: * ubožáka, jehož se nikdo neujímá.
 
 %% part: verse
 
@@ -69,6 +75,11 @@ t: * pokud bude slunce svítit, potrvá jeho jméno.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: v něm budou požehnána všechna plemena země,
+
 m: b\breve \bar "||"
-t: v něm budou požehnána
+t: * blahoslavit ho budou všechny národy.
+
+%% use: responsum
 

@@ -13,8 +13,11 @@ t: Kéž pronikne k tobě má modlitba, Hospodine!
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: b\breve \bar "|"
 t: Hospodine, můj Bože, volám ve dne, hořekuji před tebou v no
+
+m: b\breve \bar "||"
+t: * ci.
 
 %% part: verse
 

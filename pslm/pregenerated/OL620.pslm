@@ -13,8 +13,11 @@ t: Ústa má budou vyprávět o tvé spravedlnosti.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Ústa má oplývala tvou lou, po celý den pěla tvou slávu. chvá
+
 m: b\breve \bar "||"
-t: Ústa má oplývala tvou lou, po celý den pěla tvou slávu.
+t: * 
 
 %% part: verse
 

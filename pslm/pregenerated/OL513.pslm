@@ -21,8 +21,13 @@ t: * a pravíš: „Vraťte se, smrtelníci!“
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Neboť tisíc let je v tvých očích (+) jako včerejší den který minul,
+
 m: b\breve \bar "||"
-t: Neboť tisíc let je v tvých očích (+)
+t: * a jako noční hlídka.
+
+%% use: responsum
 
 %% part: verse
 
@@ -34,8 +39,13 @@ t: * ať dojdeme k moudrosti srdce.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Obrať se, Hospodine, (+) jak dlouho ještě budeš čekat?
+
 m: b\breve \bar "||"
-t: Obrať se, Hospodine, (+)
+t: * Slituj se nad svými služebníky!
+
+%% use: responsum
 
 %% part: verse
 

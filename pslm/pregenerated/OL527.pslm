@@ -17,12 +17,19 @@ m: b\breve \bar "|"
 t: Slyš mou úpěnlivou prosbu, když k tobě volám ,
 
 m: b\breve \bar "||"
-t: * když vztahuji své ruce
+t: * když vztahuji své ruce k tvému svatému chrámu.
+
+%% use: responsum
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Hospodin je má síla a můj štít, + důvěřuje v něho mé srdce, dostal jsem pomoc,
+
 m: b\breve \bar "||"
-t: Hospodin je má síla a můj štít, +
+t: * proto jásá mé srdce a svou písní ho chválím.
+
+%% use: responsum
 
 %% part: verse
 

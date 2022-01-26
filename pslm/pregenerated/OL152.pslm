@@ -25,7 +25,9 @@ m: b\breve \bar "|"
 t: Vyhlásím Hospodinovo rozhodnutí,
 
 m: b\breve \bar "||"
-t: * Pán mi řekl: „Ty jsi můj syn, +
+t: * Pán mi řekl: „Ty jsi můj syn, + já jsem tě dnes zplodil.“
+
+%% use: responsum
 
 %% part: verse
 

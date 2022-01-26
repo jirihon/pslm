@@ -19,6 +19,7 @@ function pslm_pregenerate($filename, $source) {
         $responsum = '';
         $responsum_reference = '';
         $verse_reference = '';
+        $verse_number = false;
 
         foreach ($psalm as $i => $psalm_line) {
             if (preg_match('#^OL\d+[a-z]*#u', $psalm_line, $id_m)) {
@@ -34,8 +35,6 @@ function pslm_pregenerate($filename, $source) {
             continue;
         }
         foreach ($psalm as $i => $psalm_line) {
-            $verse_number = false;
-
             if ($psalm_line[0] == '[') {
                 $occasions = array_slice($psalm, 0, $i - 2);            
                 $responsum = $psalm[$i-1];
@@ -51,8 +50,9 @@ function pslm_pregenerate($filename, $source) {
                 $verse_number = intval($verse_m[1]);
                 $verses[$verse_number] = $verse_m[2];
             } elseif ($verse_number) {
-                $verses[$verse_number] .= $psalm_line;
+                $verses[$verse_number] .= ' ' . $psalm_line;
             }
+
         }
         $pslm = [];
         foreach ($occasions as $occasion) {

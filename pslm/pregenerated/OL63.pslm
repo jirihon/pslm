@@ -57,6 +57,11 @@ t: * pokud bude slunce svítit, potrvá jeho jméno.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: v něm budou požehnána všechna plemena země,
+
 m: b\breve \bar "||"
-t: v něm budou požehnána
+t: * blahoslavit ho budou všechny národy.
+
+%% use: responsum
 

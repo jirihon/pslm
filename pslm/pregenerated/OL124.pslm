@@ -13,8 +13,11 @@ t: Toto je den, který připravil Pán, jásejme a radujme se z něho!
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: b\breve \bar "|"
 t: Oslavujte Hospodina, neboť je dobrý, jeho milosrdenství trvá na věky.
+
+m: b\breve \bar "||"
+t: * 
 
 %% part: verse
 

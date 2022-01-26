@@ -21,8 +21,13 @@ t: * za to ho vysvobodí Hospodin v nouzi.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Hospodin ho bude chránit, (+) učiní ho šťastným na zemi, (+) zachová ho naživu,
+
 m: b\breve \bar "||"
-t: Hospodin ho bude chránit, (+) učiní ho šťastným na zemi, (+)
+t: * nevydá ho zvůli jeho nepřátel.
+
+%% use: responsum
 
 %% part: verse
 

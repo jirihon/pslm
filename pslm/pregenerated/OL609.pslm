@@ -67,6 +67,11 @@ t: * aby člověk žil navěky a neviděl zkázu.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Neboť uvidí, že umírají moudří, + že stejně hyne pošetilec i hlupák
+
 m: b\breve \bar "||"
-t: Neboť uvidí, že umírají moudří, +
+t: * a zanechávají své bohatství jiným.
+
+%% use: responsum
 

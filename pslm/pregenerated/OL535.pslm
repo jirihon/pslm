@@ -14,8 +14,13 @@ t: Doufej v Boha, vždyť zase ho budu chválit, svého spasitele a svého Boha!
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Bože, zjednej mi právo + a ujmi se mé pře proti bezbožnému lidu,
+
 m: b\breve \bar "||"
-t: Bože, zjednej mi právo +
+t: * zbav mě člověka lstivého a zločinného!
+
+%% use: responsum
 
 %% part: verse
 
@@ -33,10 +38,17 @@ m: b\breve \bar "|"
 t: Sešli své světlo a svou věrnost:
 
 m: b\breve \bar "||"
-t: * ty ať mě vedou a přivedou +
+t: * ty ať mě vedou a přivedou + na tvou svatou horu a do tvých stanů.
+
+%% use: responsum
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Pak přistoupím k Božímu oltáři, + k Bohu, který mě naplňuje radostí.
+
 m: b\breve \bar "||"
-t: Pak přistoupím k Božímu oltáři, +
+t: * Oslavím tě citerou, Bože, můj Bože!
+
+%% use: responsum
 

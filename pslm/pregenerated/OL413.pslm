@@ -49,8 +49,13 @@ t: * tehdy jsem řekl: „Hle, přicházím.“
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Spravedlnost jsem zvěstoval ve velkém shromáždění,
+
 m: b\breve \bar "||"
-t: Spravedlnost jsem
+t: * svým rtům jsem nebránil, ty to víš, Hospodine!
+
+%% use: responsum
 
 %% part: verse
 

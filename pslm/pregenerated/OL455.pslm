@@ -39,8 +39,13 @@ t: * smrt jeho zbožných.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Ach, Hospodine, jsem tvůj služebník, + jsem tvůj služebník, syn tvé služebnice,
+
 m: b\breve \bar "||"
-t: Ach, Hospodine, jsem tvůj služebník, +
+t: * rozvázal jsi moje pouta.
+
+%% use: responsum
 
 %% part: verse
 

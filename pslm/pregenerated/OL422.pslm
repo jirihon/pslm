@@ -13,8 +13,11 @@ t: Hospodin je můj pastýř, nic nepostrádám.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Hospodin je můj pastýř, nic nepostrádám, dává mi prodlévat na svěžích pastvinách, Q
+
 m: b\breve \bar "||"
-t: Hospodin je můj pastýř, nic nepostrádám, dává mi prodlévat na svěžích pastvinách,
+t: * 
 
 %% part: verse
 

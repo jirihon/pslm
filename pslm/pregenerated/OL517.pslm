@@ -39,8 +39,11 @@ t: * a po tom toužím:
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: b\breve \bar "|"
 t: abych směl přebývat v Hospodinově domě po všechny dny svého života,
+
+m: b\breve \bar "||"
+t: * 
 
 %% part: verse
 

@@ -13,13 +13,21 @@ t: Nezapomínej na chudáky, Hospodine!
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: b\breve \bar "|"
 t: Proč jsi nás, Bože, nadobro zavrhl, proč dýmá tvůj hněv proti ovcím, které paseš?
+
+m: b\breve \bar "||"
+t: * 
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Pamatuj na svou obec, kterou sis kdysi získal, + na svůj kmen, který sis vykoupil do vlastnictví,
+
 m: b\breve \bar "||"
-t: Pamatuj na svou obec, kterou sis kdysi získal, +
+t: * na horu Sión, kde ses usídlil.
+
+%% use: responsum
 
 %% part: verse
 
@@ -31,13 +39,21 @@ t: * nepřítel ve svatyni všechno zničil.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Tvoji protivníci hlučeli uvnitř tvého svatého místa,
+
 m: b\breve \bar "||"
-t: Tvoji protivníci hlučeli
+t: * své korouhve tam vztyčili na vítězství.
+
+%% use: responsum
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Jsou podobni těm, hned širočinou a kladivem kdo v houštině mávají sekyrou,
+
 m: b\breve \bar "||"
-t: Jsou podobni těm, hned širočinou a kladivem
+t: * rozbíjejí všechny její brány.
 
 %% part: verse
 

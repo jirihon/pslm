@@ -13,8 +13,13 @@ t: Hospodine, Pane náš, jak podivuhodné je tvé jméno po celé zemi!
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Hospodine, náš Pane, + co je člověk, že na něho myslíš,
+
 m: b\breve \bar "||"
-t: Hospodine, náš Pane, +
+t: * co je smrtelník, že se o něho staráš?
+
+%% use: responsum
 
 %% part: verse
 

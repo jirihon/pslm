@@ -14,13 +14,23 @@ t: Tvá slova, Pane, jsou duch a jsou život.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Hospodinův zákon je dokonalý, (+) R občerstvuje duši,
+
 m: b\breve \bar "||"
-t: Hospodinův zákon je dokonalý, (+) R
+t: * Hospodinův příkaz je spolehlivý, (+) nezkušenému dává moudrost.
+
+%% use: responsum
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Hospodinovy předpisy jsou správné, (+) působí radost srdci,
+
 m: b\breve \bar "||"
-t: Hospodinovy předpisy jsou správné, (+)
+t: * Hospodinův rozkaz je jasný, (+) osvětluje oči.
+
+%% use: responsum
 
 %% part: verse
 
@@ -28,10 +38,17 @@ m: b\breve \bar "|"
 t: Bázeň před Hospodinem je upřímná,trvá na věky,
 
 m: b\breve \bar "||"
-t: * Hospodinovy výroky jsou pravdivé, (+)
+t: * Hospodinovy výroky jsou pravdivé, (+) všechny jsou spravedlivé.
+
+%% use: responsum
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Nechť se ti líbí slova mých úst + i smýšlení mého srdce,
+
 m: b\breve \bar "||"
-t: Nechť se ti líbí slova mých úst +
+t: * Hospodine, má Skálo, vykupiteli můj!
+
+%% use: responsum
 

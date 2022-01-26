@@ -75,8 +75,11 @@ t: * knížata a všichni soudcové země,
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: b\breve \bar "|"
 t: jinoši a s nimi panny, starci spolu mi.
+
+m: b\breve \bar "||"
+t: * s dět
 
 %% part: verse
 

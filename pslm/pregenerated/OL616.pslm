@@ -31,8 +31,13 @@ t: * a pravíš: (+) „Vraťte se, smrtelníci!“
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Neboť tisíc let je v tvých očích (+) jako včerejší den, který minul,
+
 m: b\breve \bar "||"
-t: Neboť tisíc let je v tvých očích (+)
+t: * a jako noční hlídka.
+
+%% use: responsum
 
 %% part: verse
 

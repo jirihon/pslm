@@ -25,12 +25,17 @@ m: b\breve \bar "|"
 t: Budu ti hrát před anděly,
 
 m: b\breve \bar "||"
-t: * vrhnu se na tvář směrem
+t: * vrhnu se na tvář směrem k tvému svatému chrámu
+
+%% use: responsum
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Slavit budu tvé jméno neboť nade vše jsi pro tvou dobrotu a tvou věrnost,
+
 m: b\breve \bar "||"
-t: Slavit budu tvé jméno neboť nade vše jsi
+t: * zvelebil své jméno a své zaslíbení.
 
 %% part: verse
 

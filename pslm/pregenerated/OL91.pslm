@@ -21,8 +21,13 @@ t: * a pouč mě o svých stezkách.
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: b\breve \bar "|"
 t: Veď mě ve své pravdě a uč mě, neboť ty jsi Bůh, můj spasitel, +
+
+m: b\breve \bar "||"
+t: * nepřestávám v tebe důvěřovat.
+
+%% use: responsum
 
 %% part: verse
 
@@ -38,7 +43,9 @@ m: b\breve \bar "|"
 t: Nemysli na hříchy mého mládí, na má provinění,
 
 m: b\breve \bar "||"
-t: * pamatuj na mě ve svém milosrdenství +
+t: * pamatuj na mě ve svém milosrdenství + pro svou dobrotivost, Hospodine!
+
+%% use: responsum
 
 %% part: verse
 

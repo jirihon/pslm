@@ -23,8 +23,13 @@ t: * u bran podsvětí mám postrádat zbytek svých let.“
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Řekl jsem: (+) nemám už hledět na nikoho „Nemám už vidět Hospodina v zemi živých,
+
 m: b\breve \bar "||"
-t: Řekl jsem: (+) nemám už hledět na nikoho
+t: * mezi obyvateli světa.
+
+%% use: responsum
 
 %% part: verse
 

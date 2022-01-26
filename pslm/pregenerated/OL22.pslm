@@ -25,7 +25,9 @@ m: b\breve \bar "|"
 t: neboť shlédl na svou nepatrnou služebnici.
 
 m: b\breve \bar "||"
-t: * Od této chvíle mě
+t: * Od této chvíle mě budou blahoslavit všechna pokolení.
+
+%% use: responsum
 
 %% part: verse
 
@@ -37,8 +39,13 @@ t: * Jeho jméno je svaté
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: a jeho milosrdenství trvá od pokolení do pokolení
+
 m: b\breve \bar "||"
-t: a jeho milosrdenství
+t: * k těm, kdo se ho bojí.
+
+%% use: responsum
 
 %% part: verse
 

@@ -25,7 +25,9 @@ m: b\breve \bar "|"
 t: Budu ti hrát před anděly,
 
 m: b\breve \bar "||"
-t: * vrhnu se na tvář směrem
+t: * vrhnu se na tvář směrem k tvému svatému chrámu
+
+%% use: responsum
 
 %% part: verse
 
@@ -47,13 +49,21 @@ t: * v mé duši jsi rozhojnil sílu.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Jistě, vznešený je Hospodin, (+) a přece shlíží na pokorného,
+
 m: b\breve \bar "||"
-t: Jistě, vznešený je Hospodin, (+)
+t: * pyšného však zdaleka pozná.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Když procházím soužením, zachováváš mi život,
+
 m: b\breve \bar "||"
-t: Když procházím soužením,
+t: * proti hněvu mých nepřátel napřahuješ ruku.
+
+%% use: responsum
 
 %% part: verse
 

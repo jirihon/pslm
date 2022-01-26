@@ -43,9 +43,7 @@ m: b\breve \bar "|"
 t: Hle, ozývá se jeho hlas, hlas mocný:
 
 m: b\breve \bar "||"
-t: * „Uznejte Boží moc!“
-
-%% use: responsum
+t: * „Uznejte Boží moc!“ R. nost, jeho moc v oblacích.
 
 %% part: verse
 
@@ -61,5 +59,7 @@ m: b\breve \bar "|"
 t: Bázeň budí Bůh ze své svatyně, Bůh Izraelův,
 
 m: b\breve \bar "||"
-t: * on dává sílu a
+t: * on dává sílu a statečnost svému lidu. + Bůh buď veleben!
+
+%% use: responsum
 

@@ -18,7 +18,9 @@ m: b\breve \bar "|"
 t: Kdo žije bez vady a koná spravedlnost,
 
 m: b\breve \bar "||"
-t: * upřímně smýšlí ve svém srdci, +
+t: * upřímně smýšlí ve svém srdci, + svým jazykem nepomlouvá.
+
+%% use: responsum
 
 %% part: verse
 

@@ -22,7 +22,9 @@ t: * a můj duch jásá v Bohu, mém spasite li,
 %% part: verse
 
 m: b\breve \bar "||"
-t: neboť shlédl na svou nepatrnou služebnici. Od této chvíle mě budou
+t: neboť shlédl na svou nepatrnou služebnici. Od této chvíle mě budou blahoslavit všechna pokolení.
+
+%% use: responsum
 
 %% part: verse
 
@@ -34,8 +36,13 @@ t: * Jeho jméno je svaté.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: jeho milosrdenství trvá od pokolení do pokolení
+
 m: b\breve \bar "||"
-t: jeho milosrdenství
+t: * k těm, kdo se ho bojí.
+
+%% use: responsum
 
 %% part: verse
 
@@ -55,10 +62,11 @@ t: * a ponížené povýšil,
 
 %% part: verse
 
-m: b\breve \bar "||"
-t: hladové nasytil dobrými věcmi a bohaté propustil s prázdnou.
+m: b\breve \bar "|"
+t: hladové nasytil dobrými věcmi a bohaté propustil s prázdnou. R.
 
-%% use: responsum
+m: b\breve \bar "||"
+t: * 
 
 %% part: verse
 

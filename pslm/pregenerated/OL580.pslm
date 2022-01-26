@@ -50,8 +50,11 @@ t: * a má slova házíš za sebe?
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Takto jsi jednal, a já mám mlčet? + Myslil jsi, že jsem jako ty?
+
 m: b\breve \bar "||"
-t: Takto jsi jednal, a já mám mlčet? +
+t: * Usvědčím tě a řeknu ti to do očí!
 
 %% part: verse
 

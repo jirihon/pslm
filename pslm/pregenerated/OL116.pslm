@@ -57,8 +57,9 @@ t: * a budu vzývat tvé jméno.
 
 %% part: verse
 
-m: b\breve \bar "||"
-t: Splním své sliby Hospodinu před veškerým jeho lidem
+m: b\breve \bar "|"
+t: Splním své sliby Hospodinu před veškerým jeho lidem R.
 
-%% use: responsum
+m: b\breve \bar "||"
+t: * 
 

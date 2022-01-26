@@ -21,8 +21,13 @@ t: * uprostřed shromáždění budu tě chválit.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: quot;Kdo se bojíte Hospodina, chvalte ho, + slavte ho, všichni z Jakubova potomstva,
+
 m: b\breve \bar "||"
-t: quot;Kdo se bojíte Hospodina, chvalte ho, +
+t: * boj se ho, celé Izraelovo plémě!“
+
+%% use: responsum
 
 %% part: verse
 
@@ -30,7 +35,7 @@ m: b\breve \bar "|"
 t: Pro něj ho budu chválit ve velkém shromážděn,
 
 m: b\breve \bar "||"
-t: * své sliby splním před těmi, kdo ho ctí.
+t: * své sliby splním před těmi, kdo ho ctí. kdo hledají Hospodina, budou
 
 %% part: verse
 
@@ -44,8 +49,11 @@ t: * ho chválit: + „Na věky ať žije vaše srce!“
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Rozpomenou se a k Hospodinu se obrátí všechny končiny země,
+
 m: b\breve \bar "||"
-t: Rozpomenou se a k Hospodinu
+t: * před ním se skloní všechna lidská pokolení.
 
 %% part: verse
 

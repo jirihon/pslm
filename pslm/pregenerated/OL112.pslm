@@ -41,8 +41,13 @@ t: * moji protivníci a nepřátelé klopýtají a klesají.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: I když se proti mně utáboří vojsko, (+) když proti mně vypukne válka, (+) nevyděsí se mé srdce,
+
 m: b\breve \bar "||"
-t: I když se proti mně utáboří vojsko, (+) když proti mně vypukne válka, (+)
+t: * jsem pln důvěry.
+
+%% use: responsum
 
 %% part: verse
 

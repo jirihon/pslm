@@ -13,8 +13,13 @@ t: Na věky chci zpívat o Hospodinových milostech.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Kdysi ve vidění jsi mluvil „Jinochu jsem dal přednost ke svým zbožným a řekls: před bojovníkem, +
+
 m: b\breve \bar "||"
-t: Kdysi ve vidění jsi mluvil „Jinochu jsem dal přednost
+t: * povýšil jsem vyvoleného z lidu.
+
+%% use: responsum
 
 %% part: verse
 
@@ -44,8 +49,9 @@ t: * ve jménu mém zmohutní jeho síla.
 
 %% part: verse
 
-m: b\breve \bar "||"
-t: Položím jeho ruku na moře a na řeky jeho pravici.“
+m: b\breve \bar "|"
+t: Položím jeho ruku na moře a na řeky jeho pravici.“ R.
 
-%% use: responsum
+m: b\breve \bar "||"
+t: * 
 

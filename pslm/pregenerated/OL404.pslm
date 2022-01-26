@@ -25,7 +25,9 @@ m: b\breve \bar "|"
 t: Neboť on je náš Bůh
 
 m: b\breve \bar "||"
-t: * a my jsme lid, který pase, (+)
+t: * a my jsme lid, který pase, (+) stádce vedené jeho rukou.
+
+%% use: responsum
 
 %% part: verse
 
@@ -37,8 +39,13 @@ t: * „Nezatvrzujte svá srdce jako v Meribě,
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: jako tehdy v Masse na poušti, + kde mě dráždili vaši otcové,
+
 m: b\breve \bar "||"
-t: jako tehdy v Masse na poušti, +
+t: * zkoušeli mě, ač viděli mé činy.
+
+%% use: responsum
 
 %% part: verse
 
@@ -46,7 +53,7 @@ m: b\breve \bar "|"
 t: Čtyřicet let mi bylo protivné ono pokolení;
 
 m: b\breve \bar "||"
-t: * řekl jsem: Je to lid, který bloudí v srdci, +
+t: * řekl jsem: Je to lid, který bloudí v srdci, + nepoznali mé cesty.
 
 %% part: verse
 

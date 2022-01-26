@@ -13,8 +13,13 @@ t: Na věky chci zpívat o Hospodinových milostech.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Kdysi ve vidění jsi mluvil „Jinochu jsem dal přednost ke svým zbožným a řekls: před bojovníkem, +
+
 m: b\breve \bar "||"
-t: Kdysi ve vidění jsi mluvil „Jinochu jsem dal přednost
+t: * povýšil jsem vyvoleného z lidu.
+
+%% use: responsum
 
 %% part: verse
 

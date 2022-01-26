@@ -18,7 +18,9 @@ m: b\breve \bar "|"
 t: Hospodin řekl mému Pánu:
 
 m: b\breve \bar "||"
-t: * „Seď po mé pravici, + dokud nepoložím
+t: * „Seď po mé pravici, + dokud nepoložím tvé nepřátele za podnož tvým nohám.“
+
+%% use: responsum
 
 %% part: verse
 
@@ -32,6 +34,11 @@ t: * „Panuj uprostřed svých nepřátel!
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Ode dne zrození je ti určeno vládnout v posvátném lesku:
+
 m: b\breve \bar "||"
-t: Ode dne zrození
+t: * zplodil jsem tě jako rosu před jitřenkou.“
+
+%% use: responsum
 

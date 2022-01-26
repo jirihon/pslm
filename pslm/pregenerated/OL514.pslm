@@ -49,8 +49,13 @@ t: * a všechny národy vidí jeho slávu.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Hospodin miluje ty, kdo nenávidí zlo, + chrání život svých svatých,
+
 m: b\breve \bar "||"
-t: Hospodin miluje ty, kdo nenávidí zlo, +
+t: * z ruky bezbožníků je vytrhuje.
+
+%% use: responsum
 
 %% part: verse
 

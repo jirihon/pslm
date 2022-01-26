@@ -61,7 +61,9 @@ m: b\breve \bar "|"
 t: Neboť v den neštěstí skryje mě ve svém stánku,
 
 m: b\breve \bar "||"
-t: * v úkrytu svého stanu mě schová, +
+t: * v úkrytu svého stanu mě schová, + na skálu zdvihne.
+
+%% use: responsum
 
 %% part: verse
 
@@ -69,7 +71,9 @@ m: b\breve \bar "|"
 t: Hospodine, hledám tvou tvář.
 
 m: b\breve \bar "||"
-t: * Neskrývej svou tvář přede mnou, +
+t: * Neskrývej svou tvář přede mnou, + v hněvu neodmítej svého služebníka!
+
+%% use: responsum
 
 %% part: verse
 

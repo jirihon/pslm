@@ -21,13 +21,21 @@ t: * protože on trestá a se smilovává,
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: svrhuje do podsvětí + a vyvádí ze záhuby svou vznešeností!
+
 m: b\breve \bar "||"
-t: svrhuje do podsvětí +
+t: * Nikdo nemůže uniknout jeho ruce.
+
+%% use: responsum
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Když se k němu obrátíte celým svým srdcem (+) a celou svou duší
+
 m: b\breve \bar "||"
-t: Když se k němu obrátíte
+t: * a budete před ním jednat správně,
 
 %% part: verse
 
@@ -67,6 +75,11 @@ t: * moje duše se bude radovat (+)
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Všichni vyvolení, velebte Pána, + po všechny dny svého života. všichni chvalte jeho vznešenost.
+
 m: b\breve \bar "||"
-t: Všichni vyvolení, velebte Pána, + po všechny dny svého života.
+t: * Chvalte ho ve dnech radosti a oslavujte ho.
+
+%% use: responsum
 

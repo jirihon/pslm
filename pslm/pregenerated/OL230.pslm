@@ -23,8 +23,13 @@ t: * on se ke mně sklonil a vyslyšel mé volání.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Vytáhl mě z podzemní jámy, (+) na skálu postavil mé nohy, (+) z bahnitého kalu,
+
 m: b\breve \bar "||"
-t: Vytáhl mě z podzemní jámy, (+) na skálu postavil mé nohy, (+)
+t: * dodal síly mým krokům.
+
+%% use: responsum
 
 %% part: verse
 

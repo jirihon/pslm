@@ -39,8 +39,13 @@ t: * útulkem v dobách tísně.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Budou v tebe důvěřovat, protože neopouštíš, Hospodine, kdo se znají k tvému jménu,
+
 m: b\breve \bar "||"
-t: Budou v tebe důvěřovat, protože neopouštíš, Hospodine,
+t: * ty, kteří tě hledají!
+
+%% use: responsum
 
 %% part: verse
 

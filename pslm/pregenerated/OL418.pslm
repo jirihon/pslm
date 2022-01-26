@@ -31,8 +31,11 @@ t: * „Na věky ať žije vaše srdce!“
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Rozpomenou se a k Hospodinu se obrátí všechny končiny země,
+
 m: b\breve \bar "||"
-t: Rozpomenou se a k Hospodinu
+t: * před ním se skloní všechna lidská pokolení.
 
 %% part: verse
 
@@ -58,5 +61,7 @@ m: b\breve \bar "|"
 t: Bude vyprávět o Pánu příštímu pokolení,
 
 m: b\breve \bar "||"
-t: * lidu, jenž se narodí, budou hlásat
+t: * lidu, jenž se narodí, budou hlásat jeho spravedlnost: + „To učinil Hospodin!“
+
+%% use: responsum
 

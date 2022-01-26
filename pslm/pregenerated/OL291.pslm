@@ -13,8 +13,13 @@ t: Jak milý je tvůj příbytek, Hospodine zástupů!
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Touží, ba prahne má duše mé srdce i mé tělo po Hospodinových síních,
+
 m: b\breve \bar "||"
-t: Touží, ba prahne má duše mé srdce i mé tělo
+t: * s jásotem tíhnou k živému Bohu.
+
+%% use: responsum
 
 %% part: verse
 

@@ -26,8 +26,13 @@ t: * snažně tě hld.ám,
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: má duše po tobě žízní, (+) mé tělo prahne po tobě
+
 m: b\breve \bar "||"
-t: má duše po tobě žízní, (+)
+t: * jak vyprahlá, žíznivá, bezvodá země.
+
+%% use: responsum
 
 %% part: verse
 
@@ -43,9 +48,7 @@ m: b\breve \bar "|"
 t: Vždyť tvá milost je lepší než život,
 
 m: b\breve \bar "||"
-t: * mé rty tě budou chválit.
-
-%% use: responsum
+t: * mé rty tě budou chválit. R. bě.
 
 %% part: verse
 

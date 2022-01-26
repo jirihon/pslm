@@ -13,8 +13,13 @@ t: Zachovej mi život, Pane, a budu dbát na tvá přikázání.
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: b\breve \bar "|"
 t: Pobouření mě jímá pro bezbožníky, kteří opouštějí tvůj zákon.
+
+m: b\breve \bar "||"
+t: * 
+
+%% use: responsum
 
 %% part: verse
 

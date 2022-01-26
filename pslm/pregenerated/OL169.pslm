@@ -13,8 +13,11 @@ t: Věřím, že uvidím blaho od Hospodina v zemi živých!
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: 2. Ž 27 (26) 1S. Hospodin je mé světlo a má spása,
+
 m: b\breve \bar "||"
-t: 2.
+t: * koho bych se bál?
 
 %% part: verse
 
@@ -36,8 +39,11 @@ t: * a po tom toužím:
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: b\breve \bar "|"
 t: abych směl přebývat v Hospodinově domě po všechny dny svého života,
+
+m: b\breve \bar "||"
+t: * 
 
 %% part: verse
 

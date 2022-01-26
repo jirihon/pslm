@@ -13,13 +13,23 @@ t: Dnes se nám narodil Spasitel, Kristus Pán.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Zpívejte Hospodinu píseň novou, + S zpívejte Hospodinu, všechny země!
+
 m: b\breve \bar "||"
-t: Zpívejte Hospodinu píseň novou, + S
+t: * Zpívejte Hospodinu, velebte jeho jméno!
+
+%% use: responsum
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Rozhlašujte den ze dne jeho spásu, + vypravujte mezi pohany o jeho slávě,
+
 m: b\breve \bar "||"
-t: Rozhlašujte den ze dne jeho spásu, +
+t: * mezi všemi národy o jeho divech.
+
+%% use: responsum
 
 %% part: verse
 

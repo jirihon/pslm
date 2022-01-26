@@ -13,8 +13,11 @@ t: Pomoc nám přijde od Hospodina, který učinil nebe i zemi.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Zvedám své oči k horám. Odkud mi přijde pomoc? Q
+
 m: b\breve \bar "||"
-t: Zvedám své oči k horám. Odkud mi přijde pomoc?
+t: * 
 
 %% part: verse
 
@@ -31,8 +34,13 @@ t: * který učinil nebe i zemi.
 m: b\breve \bar "|"
 t: Nedá zakolísat tvé noze,
 
+m: b\breve \bar "|"
+t: * nebude dřímat tvůj strážce. 4, Ano, nebude dřímat a spát
+
 m: b\breve \bar "||"
-t: * nebude dřímat tvůj strážce.
+t: * strážce Izraelův.
+
+%% use: responsum
 
 %% part: verse
 

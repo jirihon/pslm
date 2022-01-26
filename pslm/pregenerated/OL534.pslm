@@ -21,8 +21,13 @@ t: * protože on trestá a se smilovává,
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: svrhuje do podsvětí + a vyvádí ze záhuby svou vznešeností!
+
 m: b\breve \bar "||"
-t: svrhuje do podsvětí +
+t: * Nikdo nemůže uniknout jeho ruce.
+
+%% use: responsum
 
 %% part: verse
 
@@ -30,7 +35,9 @@ m: b\breve \bar "|"
 t: Oslavujte ho před národy, synové Izraele,
 
 m: b\breve \bar "||"
-t: * neboť vás mezi ně rozptýlil +
+t: * neboť vás mezi ně rozptýlil + a tam ukázal svoji vznešenost.
+
+%% use: responsum
 
 %% part: verse
 
@@ -38,7 +45,9 @@ m: b\breve \bar "|"
 t: Ctěte ho přede vším, co žije,
 
 m: b\breve \bar "||"
-t: * protože on je náš Pán a on je náš otec, +
+t: * protože on je náš Pán a on je náš otec, + on je náš Bůh po všechny věky.
+
+%% use: responsum
 
 %% part: verse
 
@@ -60,6 +69,11 @@ t: * kdekoli jste byli rozptýleni.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Všichni vyvolení, velebte Pána, + všichni chvalte jeho vznešenost.
+
 m: b\breve \bar "||"
-t: Všichni vyvolení, velebte Pána, +
+t: * Chvalte ho ve dnech radosti a oslavujte ho.
+
+%% use: responsum
 

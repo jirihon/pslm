@@ -49,6 +49,11 @@ t: * a všechny národy vidí jeho slávu.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Neboť ty, Hospodine, (+) jsi povznesen nad celou zemí,
+
 m: b\breve \bar "||"
-t: Neboť ty, Hospodine, (+)
+t: * svrchovaně vynikáš nade všemi bohy.
+
+%% use: responsum
 

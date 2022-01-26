@@ -39,8 +39,13 @@ t: * slyší jejich volání a zachrání je.
 
 %% part: verse
 
+m: b\breve \bar "|"
+t: Zachovává Hospodin všechny, kdo ho milují,
+
 m: b\breve \bar "||"
-t: Zachovává Hospodin
+t: * a všechny bezbožníky zničí.
+
+%% use: responsum
 
 %% part: verse
 
@@ -48,5 +53,7 @@ m: b\breve \bar "|"
 t: Ať má ústa hlásají Hospodinovu chválu,
 
 m: b\breve \bar "||"
-t: * vše, co žije, ať velebí
+t: * vše, co žije, ať velebí jeho svaté jméno po všechny věky!
+
+%% use: responsum
 
