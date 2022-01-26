@@ -359,6 +359,18 @@ function pslm_parse_psalm($psalm) {
 
 
 function pslm_process_snippet($music, $text) {
+    // replace shortcuts
+    $shortcuts = [
+        '|' => '\bar "|"',
+        '/' => '\bar ""',
+        '||' => '\bar "||"',
+        'B' => '\breve',
+        '(' => '[(',
+        ')' => ')]',
+        '_' => '\verseAccent',
+    ];
+    $music = str_replace(array_keys($shortcuts), array_values($shortcuts), $music);
+
     preg_match_all('#\\\\breve#', $music, $m);
     if (count($m[0]) > 1) {
         echo "ERROR: More than one breve in a piece of music.\n";
