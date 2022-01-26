@@ -9,59 +9,59 @@ m: \key es \major
 
 %% part: responsum
 
-m: bes'4 c8 bes4 g8 \bar "" es d \bar "" c d \bar "" es \bar "" f4 f r \bar "||"
+m: bes'4 c8 bes4 g8 / es d / c d / es / f4 f r ||
 t: Hle, přicházím, Pane, splnit tvou vůli.
 
 %% part: verse
 
-m: as'\breve bes8 f as\verseAccent g g g4 r \bar "|"
+m: as'B bes8 f as_ g g g4 r |
 t: Pevně jsem doufal v Hospodina,
 
-m: f8 c'\breve d8 c c\verseAccent bes bes2 \bar "||"
+m: f8 c'B d8 c c_ bes bes2 ||
 t: * on se ke mně sklonil a vyslyšel mé volání.
 
 %% part: verse
 
-m: as'\breve bes8 f as[(\verseAccent g)] g2 \bar "|"
+m: as'B bes8 f as(_ g) g2 |
 t: Novou píseň vložil mi do úst,
 
-m: f8 c'\breve d8 c c[(\verseAccent bes)] bes4 r \bar "||"
+m: f8 c'B d8 c c(_ bes) bes4 r ||
 t: * chvalozpěv našemu Bohu.
 
 %% use: responsum
 
 %% part: verse
 
-m: as'\breve bes8 f as[(\verseAccent g)] g4 r \bar "|"
+m: as'B bes8 f as(_ g) g4 r |
 t: V obětních darech si nelibuješ, Bože,
 
-m: f8 c'\breve d8 c c[(\verseAccent bes)] bes4 r \bar "||"
+m: f8 c'B d8 c c(_ bes) bes4 r ||
 t: * za to jsi mi otevřel uši.
 
 %% part: verse
 
-m: as'\breve bes8 f as\verseAccent g g2 \bar "|"
+m: as'B bes8 f as_ g g2 |
 t: Celopaly a smírné oběti nežádáš,
 
-m: f8 c'\breve d8 c c\verseAccent bes bes2 \bar "||"
+m: f8 c'B d8 c c_ bes bes2 ||
 t: * tehdy jsem řekl: „Hle přicházím.
 
 %% use: responsum
 
 %% part: verse
 
-m: as'\breve bes8 f as[(\verseAccent g)] g4 r8
+m: as'B bes8 f as(_ g) g4 r8
 t: Ve svitku knihy je o mně psáno:
 
-m: f \bar "|" c'\breve d8 c c[(\verseAccent bes)] bes4 r \bar "||"
+m: f | c'B d8 c c(_ bes) bes4 r ||
 t: * Rád splním tvou vůli, můj Bože, + tvůj zákon je v mém nitru.“
 
 %% part: verse
 
-m: as'\breve bes8 f as\verseAccent g g g2 \bar "|"
+m: as'B bes8 f as_ g g g2 |
 t: Spravedlnost jsem zvěstoval ve velkém shromáždění,
 
-m: f8 c'\breve d8 c c\verseAccent bes bes bes4 r \bar "||"
+m: f8 c'B d8 c c_ bes bes bes4 r ||
 t: * svým rtům jsem nebránil, ty to víš, Hospodine!
 
 %% use: responsum

@@ -9,41 +9,41 @@ m: \key es \major
 
 %% part: responsum
 
-m: es'4 es8 d \bar "" c d es \bar "" f4 \bar "|" es8 f \bar "" g[( bes)] bes4 r \bar "||"
+m: es'4 es8 d / c d es / f4 | es8 f / g( bes) bes4 r ||
 t: Tvá slova, Pane, jsou duch a jsou život.
 
 %% part: verse
 
-m: c''\breve bes8 as g[(\verseAccent f)] f4 r \bar "|"
+m: c''B bes8 as g(_ f) f4 r |
 t: Hospodinův zákon je dokonalý, + občerstvuje duši,
 
-m: f\breve es8 f as[(\verseAccent g)] g4 r \bar "||"
+m: fB es8 f as(_ g) g4 r ||
 t: * Hospodinův příkaz je spolehlivý, + nezkušenému dává moudrost.
 
 %% part: verse
 
-m: c''\breve bes8 as g[(\verseAccent f)] f4 r \bar "|"
+m: c''B bes8 as g(_ f) f4 r |
 t: Hospodinovy předpisy jsou správné, + působí radost srdci,
 
-m: f\breve es8 f as[(\verseAccent g)] g4 r \bar "||"
+m: fB es8 f as(_ g) g4 r ||
 t: * Hospodinův rozkaz je jasný, + osvětluje oči.
 
 %% use: responsum
 
 %% part: verse
 
-m: c''\breve bes8 as g\verseAccent f f4 r \bar "|"
+m: c''B bes8 as g_ f f4 r |
 t: Bázeň před Hospodinem je upřímná, trvá na věky,
 
-m: f\breve es8 f as\verseAccent g g g2 \bar "||"
+m: fB es8 f as_ g g g2 ||
 t: * Hospodinovy výroky jsou pravdivé, + všechny jsou spravedlivé.
 
 %% part: verse
 
-m: c''\breve bes8 as g[(\verseAccent f)] f4 r \bar "|"
+m: c''B bes8 as g(_ f) f4 r |
 t: Nechť se ti líbí slova mých úst + i smýšlení mého srdce,
 
-m: f\breve es8 f as\verseAccent g g g2 \bar "||"
+m: fB es8 f as_ g g g2 ||
 t: * Hospodine, má skálo, vykupiteli můj!
 
 %% use: responsum

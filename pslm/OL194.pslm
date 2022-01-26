@@ -8,77 +8,77 @@ m: \key f \major
 
 %% part: responsum
 
-m: a'8 f g a2 \bar "|" c8 bes \bar "" a f \bar "" a g g g4 r \bar "||"
+m: a'8 f g a2 | c8 bes / a f / a g g g4 r ||
 t: Budu ti hrát, Hospodine, před anděly.
 
 %% part: verse
 
-m: bes'\breve c8 bes a[(\verseAccent g)] g4 r8
+m: bes'B c8 bes a(_ g) g4 r8
 t: Chci tě chválit, Hospodine, celým svým srdcem,
 
-m: g \bar "|" g\breve a8 f d[(\verseAccent c)] c2 \bar "||"
+m: g | gB a8 f d(_ c) c2 ||
 t: * žes vyslyšel slova mých úst.
 
 %% part: verse
 
-m: bes'\breve c8 bes a\verseAccent g g g4 r \bar "|"
+m: bes'B c8 bes a_ g g g4 r |
 t: Budu ti hrát před anděly,
 
-m: g\breve a8 f d[(\verseAccent c)] c4 r \bar "||"
+m: gB a8 f d(_ c) c4 r ||
 t: * vrhnu se na tvář směrem k tvému svatému chrámu
 
 %% use: responsum
 
 %% part: verse
 
-m: bes'\breve c8 bes a[(\verseAccent g)] g4 r \bar "|"
+m: bes'B c8 bes a(_ g) g4 r |
 t: Slavit budu tvé jméno
 
-m: g\breve a8 f d[(\verseAccent c)] c4 r \bar "||"
+m: gB a8 f d(_ c) c4 r ||
 t: * pro tvou dobrotu a tvou věrnost.
 
 %% part: verse
 
-m: bes'\breve c8 bes a\verseAccent g g g4 r \bar "|"
+m: bes'B c8 bes a_ g g g4 r |
 t: Když jsem volal, vyslyšels mě,
 
-m: g\breve a8 f d[(\verseAccent c)] c4 r \bar "||"
+m: gB a8 f d(_ c) c4 r ||
 t: * v mé duši jsi rozhojnil sílu.
 
 %% use: responsum
 
 %% part: verse
 
-m: bes'\breve c8 bes a[(\verseAccent g)] g4 r8
+m: bes'B c8 bes a(_ g) g4 r8
 t: Budou tě oslavovat, Hospodine, všichni králové země,
 
-m: g \bar "|" g\breve a8 f d[(\verseAccent c)] c2 \bar "||"
+m: g | gB a8 f d(_ c) c2 ||
 t: * až uslyší slova tvých úst.
 
 %% part: verse
 
-m: bes'\breve c8 bes a[(\verseAccent g)] g4 r \bar "|"
+m: bes'B c8 bes a(_ g) g4 r |
 t: Budou opěvovat Hospodinovy cesty:
 
-m: g\breve a8 f d[(\verseAccent c)] c4 r \bar "||"
+m: gB a8 f d(_ c) c4 r ||
 t: * „Věru, veliká je Hospodinova sláva!“
 
 %% use: responsum
 
 %% part: verse
 
-m: bes'\breve c8 bes a\verseAccent g g4 r \bar "|"
+m: bes'B c8 bes a_ g g4 r |
 t: Zachraňuje mě tvá pravice.
 
-m: g\breve a8 f d[(\verseAccent c)] c4 r \bar "||"
+m: gB a8 f d(_ c) c4 r ||
 t: * Hospodin pro mě dokončí, co začal.
 
 %% part: verse
 
-m: bes'\breve c8 bes a\verseAccent g g4 r \bar "|"
+m: bes'B c8 bes a_ g g4 r |
 t: Hospodine, tvá dobrota trvá na věky,
 
-m: g\breve a8 f d\verseAccent c c c4 r \bar "||"
+m: gB a8 f d_ c c c4 r ||
 t: * dílo svých rukou neopouštěj!
 
 %% use: responsum
