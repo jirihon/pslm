@@ -15,6 +15,10 @@ function pslm_pregenerate($filename, $source) {
     foreach ($psalms as $psalm) {
         $id = '';
         $verses = [];
+        $occasions = [];
+        $responsum = '';
+        $responsum_reference = '';
+        $verse_reference = '';
 
         foreach ($psalm as $i => $psalm_line) {
             if (preg_match('#^OL\d+[a-z]*#u', $psalm_line, $id_m)) {
@@ -30,8 +34,7 @@ function pslm_pregenerate($filename, $source) {
             continue;
         }
         foreach ($psalm as $i => $psalm_line) {
-            $verse_number = 0;
-            $verse_text = '';
+            $verse_number = false;
 
             if ($psalm_line[0] == '[') {
                 $occasions = array_slice($psalm, 0, $i - 2);            
@@ -43,11 +46,9 @@ function pslm_pregenerate($filename, $source) {
                     $responsum_reference = $psalm_line . ' ' . $psalm[$i+1];
                     $verse_reference = $psalm[$i+2];
                 }
-            } elseif (preg_match('#^(\d+)\.\s*(.*)$#u', $psalm_line, $verse_m)) {
-                if (!empty($verse_text)) {
-                    $verses[$verse_number] = $verse_text;
-                }
-                $verse_number = $verse_m[1];
+            } elseif (!empty($responsum) && preg_match('#^(\d+)\.\s*(.*)$#u', $psalm_line, $verse_m)) {
+                // verse beginning
+                $verse_number = intval($verse_m[1]);
                 $verses[$verse_number] = $verse_m[2];
             } elseif ($verse_number) {
                 $verses[$verse_number] .= $psalm_line;
@@ -55,7 +56,7 @@ function pslm_pregenerate($filename, $source) {
         }
         $pslm = [];
         foreach ($occasions as $occasion) {
-            $pslm[] = "%% ocassion: '$occasion'";
+            $pslm[] = "%% occasion: '$occasion'";
         }
         $responsum_reference = preg_replace('#[\[\]]#u', '', $responsum_reference);
         $responsum_reference = trim($responsum_reference);
