@@ -9,77 +9,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Vzdejte Hospodinu moc a slávu!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zpívejte Hospodinu novou píseň,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zpívejte Hospodinu, všechny země!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vypravujte mezi pohany o jeho slávě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * mezi všemi národy o jeho divech.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť Hospodin je veliký a velmi hodný chvály,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * je třeba se ho bát více nežli všech bohů.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť všichni bohové pohanů jsou výmysly,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodin však stvořil nebe.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vzdejte Hospodinu, rodiny národů,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vzdejte Hospodinu slávu a moc,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: vzdejte Hospodinu slávu, hodnou jeho jména.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Přineste oběť a vstupte do jeho nádvoří.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: V posvátném rouchu klaňte se Hospodinu!
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Třeste se před ním, všechny země!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hlásejte mezi pohany: Hospodin kraluje,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * národy řídí podle práva.
 
 %% use: responsum

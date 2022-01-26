@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Pán Bůh mu dá trůn jeho otce Davida.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Přísahal Hospodin Davidovi
 
-m: b\breve \bar "||"
+m: bB ||
 t: * s věrností, kterou neporuší:
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: „Potomka z tvého rodu
 
-m: b\breve \bar "||"
+m: bB ||
 t: * dosadím na tvůj trůn.“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť Hospodin si vyvolil Sión,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * přál si ho mít za své sídlo:
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: „To je můj příbytek na věky,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zde budu sídlit, ten jsem si zvolil.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zde dám vyrašit rohu Davidovu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * rozžehnu svítilnu svému pomazanému.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jeho nepřátele obléknu hanbou,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ale na něm zazáří má koruna.“
 
 %% use: responsum

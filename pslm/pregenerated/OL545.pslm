@@ -9,59 +9,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodin bude soudit svět podle práva.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodine, chci vyprávět chci tě oslavovat z celého svého srdce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * o všech tvých podivuhodných skutcích.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: V tobě se chci radovat a jásat,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * opěvovat tvé jméno, Svrchovaný.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Obořil ses na pohany, bezbožníka jsi potřel,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * navždy jsi vyhladil jejich jméno.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pohané zapadli do jámy, kterou vykopali,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * noha jim uvázla v léčce, kterou nastražili.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin však trůní věčně,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * stolec svůj postavil k soudu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Podle práva bude svět soudit,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * podle spravedlnosti vyřkne rozsudek nad národy.
 
 %% use: responsum

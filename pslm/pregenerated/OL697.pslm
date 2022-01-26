@@ -9,51 +9,51 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Popřej mi sluchu, slyš mé slovo!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Slyš, Hospodine, spravedlivou žádost,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * všimni si mého nářku, + popřej sluchu mé modlitbě z bezelstných rtů!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ty sám posuď mou spravedlnost,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tvé oči vidí, co je správné.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jestliže zkoušíš mé srdce, (+) zkoumáš mě v noci, tříbíš mě ohněm,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nenalezneš na mně nepravosti.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Volám k tobě, protože mě vyslyšíš, Bože,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * popřej mi sluchu, slyš mé slovo!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ukaž mi svou zvláštní milost + ty, který zachraňuješ před odpůrci všechny,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kdo se utíkají k tvé pravici.
 
 %% use: responsum

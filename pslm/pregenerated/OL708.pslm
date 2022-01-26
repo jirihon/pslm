@@ -9,65 +9,65 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Ať se mi dostane tvého slitování, Hospodine, abych byl živ.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať se mi dostane tvého slitování, Hospodine,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tvé pomoci podle tvého slibu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neodnímej z mých úst slovo pravdy,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť doufám v tvá rozhodnutí.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tvůj zákon chci stále střežit,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * na věky a navždy.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pak si budu volně kráčet,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * protože hledám tvá nařízení.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Budu se těšit tvými předpisy,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * které miluji.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pozvednu své ruce k tvým předpisům
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a budu rozjímat o tvých příkazech.
 
 %% use: responsum

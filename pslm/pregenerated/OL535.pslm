@@ -9,45 +9,45 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Doufej v Boha, vždyť zase ho budu chválit, svého spasitele a svého Boha!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bože, zjednej mi právo + a ujmi se mé pře proti bezbožnému lidu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zbav mě člověka lstivého a zločinného!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bože, vždyť ty jsi má síla, + proč jsi mě zahnal?
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Proč se musím smutně vláčet tísněn nepřítelem?
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Sešli své světlo a svou věrnost:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ty ať mě vedou a přivedou + na tvou svatou horu a do tvých stanů.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pak přistoupím k Božímu oltáři, + k Bohu, který mě naplňuje radostí.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Oslavím tě citerou, Bože, můj Bože!
 
 %% use: responsum

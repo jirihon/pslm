@@ -8,67 +8,67 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Smiluj se, Pane, neboť jsme zhřešili.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Smiluj se nade mnou, Bože, pro své milosrdenství,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pro své velké slitování zahlaď mou nepravost.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Úplně ze mě smyj mou vinu
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a očisť mě od mého hříchu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť já svou nepravost uznávám,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * můj hřích je stále přede mnou.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jen proti tobě jsem se prohřešil,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * spáchal jsem, co je před tebou zlé,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: takže se ukáže, jak je tvůj rozsudek spravedlivý,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * že jsi bez úhony ve svém soudu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Stvoř mi čisté srdce, Bože!
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Obnov ve mně ducha vytrvalosti.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neodvrhuj mě od své tváře
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a neodnímej mi svého svatého ducha.
 
 %% use: responsum

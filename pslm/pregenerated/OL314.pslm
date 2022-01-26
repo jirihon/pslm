@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Jásejte Bohu, všechny země! (nebo:) Aleluja, aleluja.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jásejte Bohu, všechny země,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * opěvujte slávu jeho jména,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: vzdejte mu velkolepou chválu!
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Řekněte Bohu: „Jak úžasná jsou tvá díla!“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Velebte, národy, našeho Boha
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a rozhlašujte jeho chválu!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: On dal život naší duši,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nedopustil, aby klopýtaly naše nohy.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pojďte, slyšte, všichni bohabojní,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * chci vyprávět, co prokázal Bůh mé duši.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Svými ústy jsem k němu volal,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * velebil jsem ho svým jazykem.
 
 %% use: responsum

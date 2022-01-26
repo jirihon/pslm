@@ -8,67 +8,67 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Budu tě chválit, Hospodine, ve velkém shromáždění.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Budu vyprávět svým bratřím o tvém jménu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * uprostřed shromáždění budu tě chválit.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: quot;Kdo se bojíte Hospodina, chvalte ho, + slavte ho, všichni z Jakubova potomstva,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * boj se ho, celé Izraelovo plémě!“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pro něj ho budu chválit ve velkém shromážděn,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * své sliby splním před těmi, kdo ho ctí. kdo hledají Hospodina, budou
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Chudí se najedí do sytosti,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ho chválit: + „Na věky ať žije vaše srce!“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Rozpomenou se a k Hospodinu se obrátí všechny končiny země,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * před ním se skloní všechna lidská pokolení.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Mé potomstvo bude mu sloužit.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Bude vyprávět o Pánu příštímu pokolení,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: lidu, jenž se narodí, budou hlásat jeho spravedlnost:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * „To učinil Hospodin!“
 
 %% use: responsum

@@ -8,61 +8,61 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodin je mé světlo a má spása.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin je mé světlo a má spása,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * koho bych se bál?
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin je záštita mého života,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * před kým bych se třásl?
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Když na mě útočí zločinci, aby hryzli mé tělo,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * moji protivníci a nepřátelé klopýtají a klesají.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: I když se proti mně utáboří vojsko, (+) když proti mně vypukne válka, (+) nevyděsí se mé srdce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jsem pln důvěry.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Věřím, že uvidím blaho od Hospodina
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v zemi živých!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Důvěřuj v Hospodina, buď silný,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať se vzmuží tvé srdce, doufej v Hospodina!
 
 %% use: responsum

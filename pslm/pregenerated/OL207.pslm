@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Oslavujte Hospodina, neboť na věky trvá jeho milosrdenství.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pustili se po lodích na moře,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * sháněli obchody po širých vodách.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Viděli Hospodinova díla
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a na širém moři jeho divy.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Rozkázal a vyvolal bouřný vítr,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * který do výše vzdouval vlny.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Stoupali až k nebi, sestupovali do propastí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jejich duše se třásla v nebezpečí.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tu volali ve své tísni k Hospodinu
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a on je z jejich úzkostí vysvobodil.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Uklidnil bouři v tichý vánek,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a utišily se mořské vlny.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Radovali se, že se uklidnily,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a dovedl je do vytouženého přístavu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať chválí Hospodina za jeho milosrdenství,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * za jeho divy k dobru lidí;
 
 %% use: responsum

@@ -8,65 +8,65 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Jasnou tvář ukaž svému služebníku, Hospodine!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Podivuhodná jsou tvá přikázání,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * proto je zachovává má duše.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Výklad tvých slov osvěcuje,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * poučuje prosté lidi.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Otvírám ústa a nabírám dech,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť toužím po tvých předpisech.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Obrať se ke mně a smiluj se nade mnou,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jak činíváš těm, kdo milují tvé jméno.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Veď mé kroky podle svého výroku,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať mi nevládne žádná nepravost!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jasnou tvář ukaž svému služebníku
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a nauč mě svým příkazům!
 
 %% use: responsum

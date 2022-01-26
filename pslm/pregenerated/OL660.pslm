@@ -8,75 +8,75 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Vyslyš mě, Hospodine, ve své veliké lásce!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Více než mám vlasů na hlavě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * je těch, kteří mě bez důvodu nenávidí,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: silnější než mé kosti
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jsou ti, kteří mě stíhají bez příčiny.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Co jsem neuloupil,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * to mám vrátit?
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vždyť pro tebe jsem snášel potupu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pohana pokryla mou tvář.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Svým bratrům stal jsem se cizincem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * synům své matky neznámým.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť mě stravuje horlivost pro tvůj dům,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * padají na mě urážky těch, kdo tě urážejí.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Já se však, Hospodine, obracím modlitbou k tobě
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v čas milosti, Bože!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vyslyš mě ve své veliké lásce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * věrně mi pomoz!
 
 %% use: responsum

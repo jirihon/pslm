@@ -8,103 +8,103 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Veleb, duše má, Hospodina.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodine, můj Bože, jsi nadmíru veliký!
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Velebností a vznešeností ses oděl, + světlem se halíš jako pláštěm.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Napjals nebesa jak stanovou plachtu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nad vodami jsi zbudoval své síně.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Z mraků si děláš svůj vůz,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kráčíš na perutích větru.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Větry si volíš za své posly,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * za své služebníky plameny ohně.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jak četná jsou tvá díla, Hospodine!
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Všechno jsi moudře učinil,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: země je plná tvého tvorstva.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Zde moře mohutné a široširé,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: v něm nespočetné hemžení
 
-m: b\breve \bar "||"
+m: bB ||
 t: * živočichů drobných i velkých.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Všichni čekají od tebe,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * že jim dáš obživu v pravý čas.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ty jim dáváš, a oni sbírají,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * otvíráš ruku, a sytí se dobrými dary.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Děsí se, když skryješ svou tvář,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * hynou, když vezmeš jim život, + a vracejí se do svého prachu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Když sešleš svého ducha, jsou stvořeni,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a obnovuješ tvář země.
 
 %% use: responsum

@@ -8,33 +8,33 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: V Bohu jen odpočívej, duše má.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jen v Bohu odpočívá má duše,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * od něho pochází to, v co doufám.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jen on je má skála a spása,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * má tvrz, nepohnu se!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Lidé, doufejte v něho v každé době,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * před ním vylejte své srdce, + Bůh je naše útočiště!
 
 %% use: responsum

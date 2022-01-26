@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Pane, tys nám býval útočištěm od pokolení do pokolení.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Rozkazem vracíš, Bože, člověka v prach
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a pravíš: (+) „Vraťte se, smrtelníci!“
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť tisíc let je v tvých očích (+) jako včerejší den, který minul,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a jako noční hlídka.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Uchvacuješ je, (+) jsou jako ranní sen,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * podobají se pučící trávě:
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zrána kvete a bují,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * večer je skosena a vadne.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nauč nás počítat naše dny,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať dojdeme k moudrosti srdce.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Obrať se, Hospodine, (+) jak dlouho ještě budeš čekat?
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Slituj se nad svými služebníky!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nasyť nás brzy svou slitovností,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať jásáme a radujeme se po celý život!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať je nad námi dobrotivost Pána, našeho Boha, + dej zdar práci našich rukou,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * dej zdar práci našich rukou!
 
 %% use: responsum

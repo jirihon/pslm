@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Vytvořil jsi z nás našemu Bohu království a kněze.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zpívejte Hospodinu novou píseň,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jeho chvála ať zaznívá ve sboru svatých.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať se raduje Izrael ze svého tvůrce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * synové Siónu ať jásají nad svým králem.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať chválí jeho jméno tancem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať mu hrají na buben a na citeru,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: neboť Hospodin miluje svůj národ
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a pokorné zdobí vítězstvím.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať svatí jásají chvalozpěvem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať se veselí na svých ložích.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Boží chválu ať mají v hrdlech.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Všem jeho svatým bude to ke cti.
 
 %% use: responsum

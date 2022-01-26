@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hledejte vždy Hospodinovu tvář!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zpívejte Hospodinu, hrejte mu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vypravujte o všech jeho divech!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Honoste se jeho svatým jménem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ze srdce ať se radují, kdo hledají Hospodina!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Uvažujte o Hospodinu a jeho moci,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * hledejte stále jeho tvář!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pamatujte na divy, které učinil,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * na jeho zázraky a rozsudky jeho úst.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Potomstvo Abraháma, jeho služebníka,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * synové Jakuba, jeho vyvoleného!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin sám je náš Bůh,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * po celé zemi platí jeho rozhodnutí.
 
 %% use: responsum

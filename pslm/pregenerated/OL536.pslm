@@ -10,59 +10,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: 1. 3. 4.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Slyšte, pohané, Hospodinovo slovo,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zvěstujte ho na ostrovech v dáli!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Řekněte: Shromáždí Izraele ten, kdo ho rozptýlil,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * bude nad ním bdít jako pastýř nad svým stádem.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vykoupí Hospodin Jakuba
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a vysvobodí ho z ruky mocnějšího.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Přijdou a budou jásat na hoře Siónu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * těšit se budou z Hospodinových dobrodiní.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tehdy se rozveselí v tanci panna,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zaradují se jinoši a starci.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Proměním jejich nářek v jásot,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * útěchu a radost jim vleji po jejich smutku.
 
 %% use: responsum

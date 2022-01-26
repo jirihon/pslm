@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Slovo se stalo tělem a přebývalo mezi námi.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jeruzaléme, oslavuj Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * chval svého Boha, Sióne,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: že zpevnil závory tvých bran,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * požehnal tvým synům v tobě.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zjednal tvému území pokoj
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a sytí tě jadrnou pšenicí.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Sesílá svůj rozkaz na zemi,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * rychle běží jeho slovo.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Oznámil své slovo Jakubovi,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * své zákony a přikázání Izraeli.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tak nejednal se žádným národem:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nesdělil jim svá přikázání.
 
 %% use: responsum

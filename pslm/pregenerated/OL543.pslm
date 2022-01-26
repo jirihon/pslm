@@ -8,57 +8,57 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: U Hospodina je slitování, hojné u něho je vykoupení.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Z hlubin volám k tobě, Hospodine,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Pane, vyslyš hlas můj! ný k mé snažné prosbě!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tvůj sluch ať je nakloně
 
-m: b\breve \bar "||"
+m: bB ||
 t: * 
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Budešli uchovávat v paměti viny, Hospodine,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Pane, kdo obstojí?
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ale u tebe je odpuštění,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * abychom ti mohli v úctě sloužit. R. ní.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť u Hospodina je slitování,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * hojné u něho je vykoupe
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: On vykoupí Izraele
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ze všech jeho provinění.
 
 %% use: responsum

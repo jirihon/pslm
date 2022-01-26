@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Blaze těm, kdo kráčejí v zákoně Hospodinově.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Blaze těm, jejichž cesta je bezúhonná,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kteří kráčejí v zákoně Hospodinově.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Blaze těm, kdo dbají na jeho přikázání,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * hledají ho celým srdcem.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tys, Hospodine, dal svá nařízení,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * aby se jich dbalo svědomitě.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kéž jsou pevné mé cesty,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * abych zachovával tvé příkazy.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Prokaž dobro svému služebníku, abych byl živ
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a zachovával tvé slovo.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Otevři mé oči,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať pozoruji divy tvého zákona.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ukaž mi, Hospodine, cestu svých příkazů,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a budu ji věrně zachovávat.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pouč mě, ať zachovám tvůj zákon
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a chráním ho celým svým srdcem.
 
 %% use: responsum

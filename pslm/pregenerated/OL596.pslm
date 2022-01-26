@@ -8,49 +8,49 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Vstaň, Hospodine, vejdi na místo svého odpočinku, ty i tvá vznešená archa!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hle, slyšeli jsme o ní v Efratě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nalezli jsme ji na polích Jaaru.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vejděme do Hospodinova příbytku,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * klaňme se u podnože jeho nohou.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vstaň, Hospodine,(+) vejdi na místo svého odpočinku,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ty i tvá vznešená archa!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tvoji kněží ať obléknou spravedlnost
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a tvoji zbožní ať se jásotem rozjásají!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pro Davida, svého služebníka,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * eodmítej tvář svého pomazaného!
 
 %% use: responsum

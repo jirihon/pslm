@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Na věky chci zpívat o Hospodinových milostech.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: „Smlouvu jsem sjednal se svým vyvoleným,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * přísahal jsem Davidovi, svému služebníku:
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tvůj rod zajistím na věky
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a tvůj trůn zbuduji na všechna pokolení.“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Šťastný je lid, který dovede oslavovat,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * chodí, Hospodine, v záři tvé tváře.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: V tvém jménu jásají ustavičně
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a honosí se tvou spravedlností.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: „On mě bude vzývat: Ty jsi můj otec,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * můj Bůh a skála mé spásy.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Na věky mu zachovám svou milost,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * má smlouva s ním platit nepřestane.“
 
 %% use: responsum

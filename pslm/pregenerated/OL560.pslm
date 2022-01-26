@@ -11,85 +11,85 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodine, ty mě zkoumáš a znáš.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodine, ty mě zkoumáš a znáš,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ty víš, když sedám i když vstávám.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Poznáváš mé myšlenky již zdálky;
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať jdu nebo ležím, ty to určuješ, + všímáš sivšech mých cest.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Slovo ještě nemám na jazyku:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * hle, už je znáš, Hospodine, celé.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Obklopuješ mě zezadu i zepředu
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a kladeš na mě svou dlaň.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Podivuhodná je pro mě tvá znalost,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vznešená a nepochopitelná.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kam se mohu uchýlit před tvým duchem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kam až utéci před tvou tváří?
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: I kdybych vystoupil na nebe, ty jsi tam ,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * i kdybych ulehl v podsvětí, i tady jsi.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: I kdybych si připjal křídla jitřenky
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a spočinul na nejzazším moři,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: i tam mě povede tvá ruka
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a uchopí mě tvá pravice.
 
 %% use: responsum

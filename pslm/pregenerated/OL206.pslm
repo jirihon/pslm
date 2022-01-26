@@ -8,83 +8,83 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Vyslyš mě, Hospodine, ve své veliké lásce!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pro tebe, Bože, jsem snášel potupu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pohana pokryla mou tvář.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Svým bratrům stal jsem se cizincem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * synům své matky neznámým.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť mě stravuje horlivost pro tvůj dům,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * padají na mě urážky těch, kdo tě urážejí.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Já se však, Hospodine, obracím modlitbou k tobě
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v čas milosti, Bože!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vyslyš mě ve své veliké lásce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * věrně mi pomoz!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vyslyš mě, Hospodine, tvá láska je dobrotivá,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * obrať se ke mně se svým nesmírným slitováním.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Uvědomte si to, ubožáci, a radujte se;
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pookřejte v srdci vy, kdo hledáte Boha!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť Hospodin slyší chudáky,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nepohrdá svými vězni.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nechť ho chválí nebe a země,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * moře a vše, co se v nich hýbe.
 
 %% use: responsum

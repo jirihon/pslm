@@ -8,57 +8,57 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Budou se ti, Hospodine, klanět všechny národy.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bože, svěř králi svou pravomoc, svou spravedlnost královskému synu.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * 
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať vládne tvému lidu spravedlivě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nestranně tvým ubohým.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hory přinesou lidu pokoj
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pahorky spravedlnost.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zjedná právo ubohým z lidu, pomůže chudákům. R.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * 
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: V jeho dnech rozkvete spravedlnost a hojnost pokoje,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * dokud nezanikne luna.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bude vládnout od moře k moři,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * od Řeky až do končin země.
 
 %% use: responsum

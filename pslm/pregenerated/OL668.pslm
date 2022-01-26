@@ -8,51 +8,51 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Nad nebesa je sláva Hospodinova.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Chvalte, Hospodinovi služebníci,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * chvalte jméno Hospodinovo!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Buď velebeno Hospodinovo jméno
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nyní i na věky!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Od východu slunce až na jeho západ
 
-m: b\breve \bar "||"
+m: bB ||
 t: * buď chváleno Hospodinovo jméno!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Povznesen je Hospodin nade všechny národy,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nad nebesa jeho sláva.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kdo je jako Hospodin, náš Bůh, + který trůní na výsosti
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a shlíží dolů na nebe i na zem?
 
 %% use: responsum

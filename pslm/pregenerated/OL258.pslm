@@ -10,33 +10,33 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Ty jsi čest našeho lidu. lidu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Požehnaná jsi, dcero, od Pána, nejvyššího Boha,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * přede všemi, ženami na zemi.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Veleben buď Hospodin,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * který stvořil nebe i zemi.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vždyť tvé jméno dnes tak proslavil, + že tvá chvála nevymizí z lidských úst,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ale budou pamatovat na moc Hospodinovu na věky.
 
 %% use: responsum

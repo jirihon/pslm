@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Sešli svého ducha, Pane, a obnov tvářnost země.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Veleb, má Sduše, Hospodina! Hospodine, můj Bože, jsi nadmíru veliký!
 
-m: b\breve \bar "||"
+m: bB ||
 t: * 
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Velebností a vznešeností ses oděl,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * světlem se halíš jako pláštěm.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zemi jsi založil na jejích základech,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nezakolísá na věčné věky.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Oceánem jsi ji přikryl jako šatem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nad horami stanuly vody.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pramenům dáváš stékat v potoky,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * které plynou mezi horami.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Podél nich hnízdí nebeské ptactvo,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ve větvích švitoří svou píseň.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jak četná jsou tvá díla, Hospodine!
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Všechno jsi moudře učinil,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: země je plná tvého tvorstva.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Veleb, má duše, Hospodina!
 
 %% use: responsum

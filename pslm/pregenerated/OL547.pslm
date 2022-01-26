@@ -10,41 +10,41 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Všude na zemi pronikl jejich hlas.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nebesa vypravují o Boží slávě
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a dílo jeho rukou zvěstuje obloha.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Den dni o tom podává zprávu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * noc noci sděluje poučení.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Není to slovo a nejsou to řeči,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jejichž hlas by nebylo slyšet.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Do celé země vychází jejich hlahol,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * až na konec světa jejich slova.
 
 %% use: responsum

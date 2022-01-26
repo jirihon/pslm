@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Vzpomínáme, Bože, na tvé milosrdenství ve tvém chrámě.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin je veliký, velmi je hodný chvály
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v městě našeho Boha.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jeho svatá hora, ten slavný pahorek,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * je radostí celé země.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hora Sión, to tajemné sídlo Bož,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * je městem velikého krále.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bůh se ukázal v jejích pevnostech
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jako jistá ochrana.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jak jsme to slýchali, tak jsme to viděli
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v městě Hospodina zástupů,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: v městě našeho Boha:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Bůh mu dává věčné trvání.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vzpomínáme, Bože, na tvé milosrdenst í
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ve tvém chrámě.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jako tvé jméno, Bože, (+) tak i tvá chvála sahá až na konec země.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Tvá pravice oplývá spravedlností.
 
 %% use: responsum

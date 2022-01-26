@@ -8,51 +8,51 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Pomoz, Bože, svou pravicí a vyslyš nás!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bože, odvrhl jsi nás, (+) rozbil jsi naše šiky,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v hněvu ses od nás odvrátil.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Otřásl jsi zemí, rozštěpils ji;
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zacel její trhliny, neboť kolísá.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Dal jsi zakusit svému lidu tvrdý úděl,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * napojil jsi nás vínem, až se potácíme.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Přispěj nám na pomoc proti nepříteli,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vždyť lidská podpora je marná.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bohem si povedem udatně,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * on rozdupá naše nepřátele.
 
 %% use: responsum

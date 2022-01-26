@@ -8,67 +8,67 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodine, ukaž nám svou jasnou tvář!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bože, zastánce mého práva,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vyslechni mě, když volám,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: tys mě v soužení vysvobodil,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * smiluj se nade mnou a slyš mou prsbu!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Lidé, jak dlouho chcete mít nechápavé srdce?
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Proč lpíte na tom, co je marné, (+) a proč se sháníte po lži?
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pamatujte: Hospodin vyznamenává svého svatého;
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodin vyslyší, když k němu zavolám.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Třeste se a nehřešte,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * na svých ložích uvažujte ve svém srdci a buďte klidn.í!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Mnoho lidí říká: „Kdo nám ukáže dobro?“
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodine, ukaž nám svou jasnou tvář!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Do mého srdce jsi vložil větší radost,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * než bývá z nadbytku obilí a vinného moštu.
 
 %% use: responsum

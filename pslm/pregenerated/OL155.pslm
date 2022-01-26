@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Nikoliv nám, Hospodine, ale svému jménu zjednej slávu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nikoli nám, Hospodine, nikoli nám,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ale svému jménu zjednej slávu + pro své milosrdenství, pro svou věrnost!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Proč mají pohané říkat:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * „Kdepak je ten jejich Bůh?“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bůh náš je na nebesích,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * všechno, co chtěl učinil.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jejich modly jsou stříbro a zlato,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * dílo lidských rukou.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Požehnáni jste od Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * který učinil nebe i zemi.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nebesa jsou nebem pro Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * avšak zemi dal lidským dětem.
 
 %% use: responsum

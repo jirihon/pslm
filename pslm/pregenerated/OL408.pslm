@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodin pamatuje věčně na svoji smlouvu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Oslavím Hospodina celým srdcem
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ve sboru spravedlivých i ve shromáždění.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Veliká jsou Hospodinova díla,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať o nich uvažují všichni, kteří je milují.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Památku ustanovil na své divy,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodin je milosrdný a dobrotivý.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pokrm dal těm, kdo se ho bojí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neustále bude pamatovat na svou smlouvu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vykoupení seslal svému lidu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * sjednal na věky svou smlouvu;
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: svaté a velebné je jeho jméno,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jeho chvála zůstává navždy.
 
 %% use: responsum

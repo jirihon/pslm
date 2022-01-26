@@ -8,65 +8,65 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Ať se mi dostane tvého slitování, Hospodine, abych byl živ.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bloudil jsem před svým pokořením,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nyní však dbám na tvůj výrok.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jsi dobrotivý a prokazuješ dobrodiní,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nauč mě svým příkazům.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Dobře mi, že jsem byl pokořen,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * abych se naučil tvým příkazům.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Lepší je pro mě zákon tvých úst
 
-m: b\breve \bar "||"
+m: bB ||
 t: * než tisíce ve zlatě a stříbře.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vím, Hospodine, že spravedlivá jsou tvá rozhodnutí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * že jsi mě pokořil podle práva.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať je mi útěchou tvé milosrdenství,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jak jsi slíbil svému služebníku.
 
 %% use: responsum

@@ -8,83 +8,83 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Blaze všem, kdo se uchylují k Hospodinu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Proč se pohané bouří,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * proč národy strojí marné plány?
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pozdvihují se pozemští králové
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a vladaři se spolu umlouvají + proti Hospodinu a jeho Pomazanému.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: „Rozlámejme jejich okovy
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a odhoďme jejich pouta!“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Směje se ten, který na nebesích trůní,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jsou Pánu k smíchu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Potom k nim rozhorlen mluví,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * děsí je svým hněvem.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: „Já jsem přece ustanovil svého krále
 
-m: b\breve \bar "||"
+m: bB ||
 t: * na Siónu, na své svaté hoře!“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vyhlásím Hospodinovo rozhodnutí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Pán mi řekl: „Ty jsi můj syn, + já jsem tě dnes zplodil.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Požádej mě, a dám ti v majetek národy,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * do vlastnictví končiny země.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Můžeš je roztlouci železným prutem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jako hliněnou nádobu je můžeš rozbít.“
 
 %% use: responsum

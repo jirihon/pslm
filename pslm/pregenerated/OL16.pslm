@@ -10,77 +10,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Velkou věc s námi učinil Hospodin, naplnila nás radost.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Když Hospodin přiváděl siónské zajatce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * byli jsme jako vesnách.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tehdy naše ústa byla plná smíchu
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a náš jazyk plný jásotu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tehdy se říkalo mezi pohany:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * „Velkou věc s nimi učinil Hospodin!“
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ano, velkou věc s námi učinil Hospodin,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * naplnila nás radost.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodine, změň náš osud,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jako se mění údolí na jihu země.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kdo sejí v slz.h,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * žnouti budou s jásotem.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vycházejí s pláčem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * když nesou semeno k st.í:
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: přijdou však s jásotem
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a přinesou své snpy.
 
 %% use: responsum

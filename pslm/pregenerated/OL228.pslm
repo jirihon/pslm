@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Blaze lidu, který si Hospodin vyvolil za svůj majetek.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Radujte se, spravedliví, z Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * sluší se, aby ho dobří chválili.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Blaze národu, jehož Bohem je Hospodin,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * blaze lidu, který si vyvolil za svůj majetek.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinovo oko bdí nad těmi, kdo se ho bojí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nad těmi, kdo doufají v jeho milost,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: aby jejich duše vyrval ze smrti,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * aby jim život zachoval za hladu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Naše duše vyhlíží Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * on sám je naše pomoc a štít.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať spočine na nás, Hospodine, tvé milosrdenství,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jak doufáme v tebe.
 
 %% use: responsum

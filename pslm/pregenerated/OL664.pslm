@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Já usmrcuji a já oživuji.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Blízký je den jejich zkázy,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * rychle přijde osud jim stanovený,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: neboť Hospodin se ujme práva svého lidu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * smiluje se nad svými služebníky.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Podívejte se, že já, já to jsem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * není mimo mne boha,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: já usmrcuji a já oživuji,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * když udeřím, tak i uzdravuji!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jestliže naostřím svůj blýskavý meč,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * připravíli se k právu má ruka,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: pomstím se svým nepřátelům,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * odplatím těm, kdo mě nenávidí.
 
 %% use: responsum

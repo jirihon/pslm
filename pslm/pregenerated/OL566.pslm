@@ -9,59 +9,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Povstaň, Hospodine, zachraň mě!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodine, kolik je těch, kdo mě sužují!
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Mnoho jich na mě dotírá!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Mnoho jich o mně říká:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * „Ani Bůh mu nepomůže!“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ty však, Hospodine, jsi můj štít,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jsi má chlouba, ty mi pozvedáš hlavu! nu, a vyslyšel mě ze své svaté hory.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hlasitě jsem volal k Hospodi
 
-m: b\breve \bar "||"
+m: bB ||
 t: * 
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Klidně jsem ulehl a usnul.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Probudil jsem se, protože mi Hospodin pomáhá.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nezaleknu se ani tisíců, kteří mě obkličují.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Povstaň, Hospodine, můj Bože, zachraň mě!
 
 %% use: responsum

@@ -9,59 +9,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Ať spočine na nás, Hospodine, tvé milosrdenství, jak doufáme v tebe.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinovo slovo je správné,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * spolehlivé je celé jeho dílo.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Miluje spravedlnost a právo,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * země je plná Hospodinovy milosti.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinovo oko bdí nad těmi, kdo se ho bojí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nad těmi, kdo doufají v jeho milost,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: aby jejich duše vyrval ze smrti,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * aby jim život zachoval za hladu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Naše duše vyhlíží Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * on sám je naše pomoc a štít.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať spočine na nás, Hospodine, tvé milosrdenství,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jak doufáme v tebe.
 
 %% use: responsum

@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Budu kráčet před Hospodinem v zemi živých.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Miluji Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť slyšel můj prosebný hlas,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: neboť naklonil ke mně svůj sluch
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v den, kdy jsem ho vzýval.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Obepjaly mě provazy smrti, + dostihly mě smyčky podsvětí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * uvízl jsem v tísni a trýzni.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinovo jméno jsem vzýval:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * „Ach Hospodine, zachraň mi život!“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin je milostivý a spravedlivý,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Bůh náš je milosrdný.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin chrání prosté lidi;
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pomohl mi, když jsem byl v bídě.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vždyť vysvobodil můj život ze smrti,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * mé oči ze slz, mé nohy z pádu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Budu kráčet před Hospodinem
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v zemi živých.
 
 %% use: responsum

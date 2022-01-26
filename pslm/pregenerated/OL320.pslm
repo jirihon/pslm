@@ -8,33 +8,33 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Vypravujte mezi všemi národy o Hospodinových divech.
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: bB ||
 t: Zpívejte Hospodinu, velebte jeho jméno!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: bB ||
 t: mezi všemi národy o jeho divech.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hlásejte mezi pohany: Hospodin kraluje.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: bB ||
 t: zaplesej, pole a vše, co je na něm.
 
 %% use: responsum

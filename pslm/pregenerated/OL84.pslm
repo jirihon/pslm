@@ -9,59 +9,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Pamatujte na divy, které učinil Hospodin.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin přivolal na zemi hlad,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zbavil je chleba.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Poslal před nimi muže,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Josef byl prodán za otroka.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Sevřeli pouty jeho nohy,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * do želez jeho hrdlo,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: dokud se nesplnil jeho výrok,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodinovo slovo jej ověřilo.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Král poslal, a osvobodil ho,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vládce národů ho propustil.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ustanovil ho pánem svého domu
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a vládcem veškerého svého majetku.
 
 %% use: responsum

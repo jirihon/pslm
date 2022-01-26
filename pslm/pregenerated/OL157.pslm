@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Do domu Hospodinova s radostí půjdeme.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zaradoval jsem se, když mi řekli:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * „Do domu Hospodinova půjdeme!“
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Už stojí naše nohy
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ve tvých branách, Jeruzaléme!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jeruzalém je vystavěn jako město,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * spojené v jeden celek.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tam vystupují kmeny,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kmeny Hospodinovy.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jak to zákon přikazuje Izraeli,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * aby chválil Hospodinovo jméno.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tam stojí soudní stolce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * stolce Davidova domu.
 
 %% use: responsum

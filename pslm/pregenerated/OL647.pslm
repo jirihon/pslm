@@ -10,77 +10,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Bůh dává věčné trvání svému městu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin je veliký, velmi je hodný chvály
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v městě našeho Boha.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jeho svatá hora, ten slavný pahorek,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * je radostí celé země.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hora Sión, to tajemné sídlo Boží,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * je městem velikého krále.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bůh se ukázal v jejích pevnostech
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jako jistá ochrana.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť hle, sešli se králové,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * spolu učinili útok.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jen však se podívali, užasli,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ve zděšení prchli.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hrůza je tam zachvátila,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * křeč jak ženu, která rodí,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: jako když východní vítr
 
-m: b\breve \bar "||"
+m: bB ||
 t: * rozbíjí taršíšské lodi.
 
 %% use: responsum

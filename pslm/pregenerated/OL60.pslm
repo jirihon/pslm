@@ -8,41 +8,41 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Dám ti v majetek národy.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pán mi řekl: „Ty jsi můj syn,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * já jsem tě dnes zplodil.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Požádej mě, a dám ti v majetek národy,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * do vlastnictví končiny země.“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nuže, králové, pochopte!
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Dejte si říci, vladaři země!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: V bázni se podrobte Hospodinu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * s chvě ním ho poslouchejte.
 
 %% use: responsum

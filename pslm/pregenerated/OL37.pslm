@@ -8,61 +8,61 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Dnes se nám narodil Spasitel, Kristus Pán.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zpívejte Hospodinu píseň novou, + S zpívejte Hospodinu, všechny země!
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Zpívejte Hospodinu, velebte jeho jméno!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Rozhlašujte den ze dne jeho spásu, + vypravujte mezi pohany o jeho slávě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * mezi všemi národy o jeho divech.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Radujte se, nebesa, zajásej, země,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zahuč, moře a vše, co je naplňuje.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zaplesej, pole a vše, co je na něm.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Tehdy se rozveselí všechny lesní stromy.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Před Hospodinem, že přichází,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * že přichází řídit zemi.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bude řídit svět spravedlivě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * národy bude spravovat věrně.
 
 %% use: responsum

@@ -9,51 +9,51 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Nezavrhne Hospodin svůj národ.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Šťastný člověk, jehož vychováváš, Hospodine,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a ve svém zákoně vyučuješ, + abys mu popřál klidu od zlých časů.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť nezavrhne Hospodin svůj národ
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a své dědictví neopustí.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ale ke spravedlnosti se vrátí právo,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * následovat ji budou všichni upřímného srdce.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kdyby mně Hospodin nepomáhal,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * brzo by odpočívala má duše v tichu smrti.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jen si pomyslím: „Má noha je vratká“,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * už mě podpírá, Hospodine, tvá milost.
 
 %% use: responsum

@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Blaze těm, kdo kráčejí v zákoně Hospodinově.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Blaze těm, jejichž cesta je bezúhonná,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kteří kráčejí v zákoně Hospodinově.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Blaze těm, kdo dbají na jeho přikázání,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * hledají ho celým srdcem.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jsi spravedlivý, Hospodine,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a správné je tvé rozhodnutí.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Se spravedlností jsi uložil svá přikázání,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * s pevností svrchovanou.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Má horlivost mě stravuje,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * eboť moji protivníci zapomněli na tvá slova.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Blíží se ti, kdo mě lstivě pronásledují,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * daleko jsou od tvého zákona.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Knížata mě stíhají bez důvodu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * mé srdce má však úctu k tvým slovům.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Střežím tvá nařízení a přikázání,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť před tebou jsou všechny mé cesty.
 
 %% use: responsum

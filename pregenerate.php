@@ -32,7 +32,7 @@ function pslm_pregenerate($filename, $source) {
             }
         }
         $psalm = array_values($psalm); // reindex array
-        
+
         if (empty($id) || $id === 'OL107' || $id === 'OL491' || $id === 'OL486' || $id == 'OL453') {
             continue;
         }
@@ -72,7 +72,7 @@ function pslm_pregenerate($filename, $source) {
         $pslm[] = '';
         $pslm[] = '%% part: responsum';
         $pslm[] = '';
-        $pslm[] = 'm: b\breve \bar "||"';
+        $pslm[] = 'm: bB ||';
         $responsum = preg_replace('#\s*-\s*#u', '', $responsum);
         $pslm[] = "t: $responsum";
         $pslm[] = '';
@@ -88,9 +88,9 @@ function pslm_pregenerate($filename, $source) {
             $verse_parts = preg_split('#\s*\*\s*#u', $verse);
             foreach ($verse_parts as $i => $verse_part) {
                 if ($i < count($verse_parts) - 1) {
-                    $pslm[] = 'm: b\breve \bar "|"';
+                    $pslm[] = 'm: bB |';
                 } else {
-                    $pslm[] = 'm: b\breve \bar "||"';
+                    $pslm[] = 'm: bB ||';
                 }
                 if ($i > 0) {
                     $text = '* ';

@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Dobré je chválit Hospodina.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Dobré je chválit Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * opěvovat tvé jméno, Svrchovaný!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zrána hlásat tvé milosrdenství
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a za noci tvou věrnost.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť mi působíš radost, Hospodine, svými činy,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * z díla tvých rukou se veselím.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jak velkolepá jsou tvá díla, Hospodine,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jak hluboké tvé myšlenky!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Spravedlivý pokvete jak palma,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * poroste jak cedr na Libanonu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kdo jsou zasazeni v domě Hospodinově,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pokvetou v nádvořích našeho Boha.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ještě ve stáří budou přinášet užitek,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zůstanou šťavnatí a svěží,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: aby hlásali, jak spravedlivý je Hospodin,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * má skála, v němž není nepravosti.
 
 %% use: responsum

@@ -9,59 +9,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Ústa spravedlivého mluví moudře.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Doufej v Hospodina a čiň dobro,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pak budeš přebývat v zemi a těšit se klidu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Raduj se v Hospodinu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a dá ti, po čem touží tvé srdce.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin pečuje o život bezúhonných,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * dědictví jejich přetrvá věky.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin dává krokům člověka sílu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * má zalíbení v jeho životní cestě.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Chraň se zlého a čiň dobré,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a přežiješ věky.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Spravedliví budou vlastnit zemi,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * budou ji obývat věčně.
 
 %% use: responsum

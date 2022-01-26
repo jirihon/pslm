@@ -8,65 +8,65 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Zachovej mi život, Pane, a budu dbát na tvá přikázání.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pobouření mě jímá pro bezbožníky, kteří opouštějí tvůj zákon.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * 
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ovinuly mě provazy bezbožníků,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ale nezapomněl jsem na tvůj zákon.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vysvoboď mě z útisku lidí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * chci dbát na tvá nařízení.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Blíží se ti, kdo mě lstivě pronásledují,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * daleko jsou od tvého zákona.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Daleko je od bezbožníků spása,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť tvé příkazy nehledají.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Viděl jsem odpadlíky a zhnusili se mi,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * poněvadž nedbali na tvůj výrok.
 
 %% use: responsum

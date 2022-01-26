@@ -9,59 +9,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Chvalte Hospodina, protože je dobrý.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Chvalte jméno Hospodinovo;
 
-m: b\breve \bar "||"
+m: bB ||
 t: * chvalte, Hospodinovi služebníci,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: kteří sloužíte v Hospodinově domě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v nádvořích domu našeho Boha.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Chvalte Hospodina, protože dobrý je Hospodin,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * opěvujte jeho jméno, protože je sladké.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť Hospodin si vyvolil Jakuba,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Izraele za svůj majetek.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vždyť já vím: velký je Hospodin
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a náš Pán je nade všemi bohy.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Cokoli chce Hospodin, činí na nebi i na zemi,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v moři i ve všech hlubinách vod.
 
 %% use: responsum

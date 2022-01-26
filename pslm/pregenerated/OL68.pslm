@@ -9,59 +9,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Stvoř mi čisté srdce Bože!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Smiluj se nade mnou, Bože, pro své milosrdenství,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pro své velké slitování zahlaď mou nepravost.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Úplně ze mě smyj mou vinu
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a očisť mě od mého hříchu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť já svou nepravost uznávám,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * můj hřích je stále přede mnou.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jen proti tobě jsem se prohřešil,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * spáchal jsem, co je před tebou zlé.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vždyť nemáš zálibu v oběti,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kdybych věnoval žertvu, nebyla by ti milá.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Mou obětí, Bože, je zkroušený duch,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zkroušeným a pokorným srdcem, Bože, nepohrdneš.
 
 %% use: responsum

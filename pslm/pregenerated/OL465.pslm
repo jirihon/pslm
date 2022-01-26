@@ -10,59 +10,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Oslavujte Hospodina, neboť na věky trvá jeho milosrdenství.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Oslavujte Hospodina, neboť je dobrý,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jeho milosrdenství trvá na věky.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kdo vylíčí mocné Hospodinovy činy,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kdo vypoví všechnu jeho slávu?
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Blaze těm, kteří dbají práva,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * spravedlivě jednají v každé době.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pamatuj na mě, Hospodine,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pro náklonnost k svému lidu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ujmi se mě a pomoz mi,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * abych se těšil ze štěstí tvých vyvolených,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: abych se radoval z radosti tvého lidu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * abych se chlubil spolu s tvým dědictvím.
 
 %% use: responsum

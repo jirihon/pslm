@@ -9,59 +9,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Pamatujte na divy, které učinil Hospodin.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zpívejte Hospodinu, hrejte mu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vypravujte o všech jeho divech!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Honoste se jeho svatým jménem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ze srdce ať se radují, kdo hledají Hospodina!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pobil všechny prvorozené v jejich zemi,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * prvotiny veškeré jejich mužné síly.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Potom své vyvedl se stříbrem a zlatem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nebylo nemocných v jejich kmenech.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pamatoval na své svaté slovo,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * které dal Abrahámovi, svému služebníku.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: V radosti vyvedl svůj národ,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * s jásotem své vyvolené.
 
 %% use: responsum

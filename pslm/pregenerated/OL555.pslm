@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Zachraň mě, Hospodine, podle svého slitování!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodine, Pane, zastaň se mě pro své jméno,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vysvoboď mě, vždyť tvá láska je dobrotivá!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Já jsem totiž chudák a ubožák,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * srdce se mi v nitru svíjí.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pomoz mi, Hospodine, můj Bože,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zachraň mě podle svého slitování!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať poznají, že je to tvá ruka,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * že tys to učinil, Hospodine!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Velmi budu oslavovat Hospodina svými ústy,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * uprostřed velkého zástupu ho budu chválit,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: neboť stanul chudákovi po pravici,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * aby ho zachránil před soudci.
 
 %% use: responsum

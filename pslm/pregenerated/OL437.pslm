@@ -8,65 +8,65 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Jak miluji tvůj zákon, Hospodine.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hojný pokoj těm, kdo milují tvůj zákon,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nic zlého je nemůže potkat.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Střežím tvá nařízení a přikázání,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť před tebou jsou všechny mé cesty.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať oplývají mé rty chvalozpěvem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * žes mě naučil svým příkazům.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať můj jazyk opěvuje tvůj výrok,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť všechny tvé předpisy jsou spravedlivé.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Toužím po tvé spáse, Hospodine,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a tvůj zákon je mým potěšením.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kéž jsem živ, abych tě chválil,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a tvá rozhodnutí ať mi pomáhají!
 
 %% use: responsum

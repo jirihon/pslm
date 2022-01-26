@@ -8,67 +8,67 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Budu tě chválit, Hospodine, ve velkém shromáždění.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Své sliby splním před těmi, kdo ctí Hospodina.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Chudí se najedí do sytosti,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: kdo hledají Hospodina, budou ho chválit:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * „Na věky ať žije vaše srce!“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Rozpomenou se a k Hospodinu se obrátí všechny končiny zem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * před ním se skloní všechna lidská pokolení,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: protože Hospodinu náleží vláda,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * on sám panuje nad národy.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jen jemu se budou kořit všichni,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kdo spí v zemi.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Mé potomstvo bude mu sloužit.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Bude vyprávět o Pánu příštímu pokolení,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: lidu, jenž se narodí, budou hlásat jeho spravedlnost:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * „To učinil Hospodin!“
 
 %% use: responsum

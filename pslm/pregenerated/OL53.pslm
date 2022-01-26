@@ -9,59 +9,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Uzřely všechny končiny země spásu našeho Boha.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zpívejte Hospodinu novou píseň,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť učinil podivuhodné věci.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vítězství je dílem jeho pravice,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jeho svatého ramene.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin uvedl ve známost svou spásu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * před zraky pohanů zjevil svou spravedlnost.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Rozpomenul se na svou dobrotu a věrnost
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Izraelovu domu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Uzřely všechny končiny země
 
-m: b\breve \bar "||"
+m: bB ||
 t: * spásu našeho Boha.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jásejte Hospodinu, všechny země,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * radujte se, plesejte a hrejte!
 
 %% use: responsum

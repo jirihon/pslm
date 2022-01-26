@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Budou se ti, Hospodine, klanět všechny národy.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bože, svěř králi svou pravomoc,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * svou spravedlnost královskému synu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať vládne tvému lidu spravedlivě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nestranně tvým ubohým.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vymaní je z křivdy a násilí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť jejich krev je drahá v jeho očích.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Stále se budou za něho modlit,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ustavičně mu budou žehnat.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jeho jménu se bude žehnat na věky,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pokud bude slunce svítit, potrvá jeho jméno.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: v něm budou požehnána všechna plemena země,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * blahoslavit ho budou všechny národy.
 
 %% use: responsum

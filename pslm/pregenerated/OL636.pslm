@@ -9,77 +9,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Nezapomínej na chudáky, Hospodine!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Proč jsi nás, Bože, nadobro zavrhl, proč dýmá tvůj hněv proti ovcím, které paseš?
 
-m: b\breve \bar "||"
+m: bB ||
 t: * 
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pamatuj na svou obec, kterou sis kdysi získal, + na svůj kmen, který sis vykoupil do vlastnictví,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * na horu Sión, kde ses usídlil.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zaměř své kroky k dávným troskám:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nepřítel ve svatyni všechno zničil.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tvoji protivníci hlučeli uvnitř tvého svatého místa,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * své korouhve tam vztyčili na vítězství.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jsou podobni těm, hned širočinou a kladivem kdo v houštině mávají sekyrou,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * rozbíjejí všechny její brány.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tvou svatyni vydali ohni,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * až do základů znesvětili příbytektvého jména.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Shlédni na svou smlouvu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vždyťzákoutí země i pole jsou plná násilí.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať se ponížený nevrací zklamán,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ubohý a nuzný nechť chválí tvé jméno!
 
 %% use: responsum

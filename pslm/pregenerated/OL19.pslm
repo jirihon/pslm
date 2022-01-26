@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Budu tě oslavovat na věky, můj Bože, králi.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Budu tě oslavovat, můj Bože, králi,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * budu velebit tvé jméno po všechny věky.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Dobrotivý je Hospodin ke všem
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a soucit má se všemi svými tvory.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať tě chválí, Hospodine, všechna tvá díla
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a tvoji zbožní ať tě velebí!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať vypravují o slávě tvého království,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať mluví o tvé síle!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Aby poučili lidi o tvé moci,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * o slávě tvé vznešené říše.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tvé království je království všech věků
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a tvá vláda trvá po všechna pokolení.
 
 %% use: responsum

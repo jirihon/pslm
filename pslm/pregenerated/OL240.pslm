@@ -9,61 +9,61 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodinovy předpisy jsou správné, působí radost srdci.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinův zákon je dokonalý, (+) občerstvuje duši,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodinův příkaz je spolehlivý, (+) nezkušenému dává moudrost.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bázeň před Hospodinem je upřímná, trvá na věky,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodinovy výroky jsou pravdivé, (+) všechny jsou spravedlivé.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tvůj služebník si na ně dává pozor
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a velmi bedlivě je zachovává.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kdo však pozná každé pochybení?
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Očisť mě od chyb, jež jsou mi skryty!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Chraň svého služebníka před zpupností,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať mě neovládne!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pak budu bez úhony
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a vyvaruji se velkého hříchu.
 
 %% use: responsum

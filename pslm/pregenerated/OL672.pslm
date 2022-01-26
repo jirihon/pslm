@@ -9,77 +9,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Oslavujte Hospodina, neboť na věky trvá jeho milosrdenství.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tak ať mluví vykoupení Hospodinem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ti, které vykoupil z nepřátelské moci,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: které shromáždil ze zemí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * od východu a od západu,(+) ze severu a z jihu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bloudili na stepi, po pustině,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nenašli cestu k městu, kde by mohli bydlet.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hladověli a žíznili,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * život v nich chřadl.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tu volali ve své tísni k Hospodinu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a on je z jejich úzkostí vysvobodil.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vedl je pravou cestou,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * aby došli do města, kde by mohli bydlet.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať chválí Hospodina za jeho milosrdenství,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * za jeho divy k dobru lidí,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: neboť žíznivou duši ukojil,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * hladovou duši naplnil dobrými věcmi.
 
 %% use: responsum

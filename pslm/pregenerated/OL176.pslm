@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Blaze lidu, který si Hospodin vyvolil za svůj majetek.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Plány pohanů maří Hospodin,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v nic uvádí myšlení národů.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinův úmysl trvá na věky,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * myšlenky jeho srdce po všechna pokolení.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Blaze národu, jehož Bohem je Hospodin,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * blaze lidu, který si vyvolil za svůj majetek.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Z nebe shlíží Hospodin,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vidí všechny smrtelníky.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Z místa, kde sídlí, dívá se
 
-m: b\breve \bar "||"
+m: bB ||
 t: * na všechny obyvatele země.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Každému z nich uhnětl srdce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * uvažuje o všech jejich skutcích.
 
 %% use: responsum

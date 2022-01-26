@@ -9,87 +9,87 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Bůh je mé útočiště, když je mi úzko. úzko.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vysvoboď mě od mých nepřátel, můj Bože,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * před mými protivníky mě ochraň!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vysvoboď mě od těch, kdo páchají nepravost,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * z moci vrahů mě vyprosť!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť hle, ukládají mi o život,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * napadají mě mocní.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jsem bez viny a bez hříchu, Hospodine,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nic jsem nezavinil, a přece vyrážejí a útočí.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Má sílo, k tobě vzhlížím,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť ty, Bože, jsi mé útočiště, + ska! můj Bůh, má lá
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kéž mně Bůh pomůže,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať mi dá popást se pohledem na mé nepřátele!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Budu opěvovat tvoji moc,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zrána jásat nad tvou přízní,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: neboť ses osvědčil jako mé útočiště,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jako úkryt, když je mi úzko.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Má sílo, tobě budu zpívat,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Bože, tys mé útočiště, + můj Bůh, má láska!
 
 %% use: responsum

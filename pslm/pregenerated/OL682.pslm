@@ -8,85 +8,85 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Ústa spravedlivého mluví moudře.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Doufej v Hospodina a čiň dobro,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pak budeš přebývat v zemi a těšit se klidu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Raduj se v Hospodinu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a dá ti, po čem touží tvé srdce.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinu svěř svůj osud,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v něho důvěřuj, on sám bude jednat.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tvé spravedlnosti dá vzejít jako světlu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tvému právu jak polednímu jasu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Chraň se zlého a čiň dobré,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a přežiješ věky,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: neboť Hospodin miluje spravedlnost,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neopouští svoje zbožné.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zločinci však zajdou,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * potomstvo bezbožníků bude vyhlazeno.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Spravedlivým přichází spása od Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v dobách tísně je jim útočištěm.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin jim pomáhá a je vysvobozuje,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * bezbožníků je zbavuje a chrání je, + protože se k němu utíkají.
 
 %% use: responsum

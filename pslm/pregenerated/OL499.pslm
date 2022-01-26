@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Vzpomínám na Hospodinovy činy.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vzpomínám na Hospodinovy činy,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ano, vzpomínám na dávné tvé divy.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Rozvažuji všechna tvá díla,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * přemítám o všech tvých skutcích.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bože, svaté je tvé chování:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * který bůh je tak veliký jako náš Bůh?
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ty jsi Bůh, který činí divy,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * národům jsi dal poznat svou moc.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Svým ramenem jsi vykoupil svůj národ,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Jakubovy a Josefovy syny.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jak stádo jsi vedl svůj národ,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Mojžíšovou a Árónovou rukou.
 
 %% use: responsum

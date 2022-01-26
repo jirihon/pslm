@@ -8,41 +8,41 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Bože, obnov nás, rozjasni svou tvář, a budeme spaseni.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Slyš, Izraelův pastýři,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * skvěj se září, ty, který trůníš nad cheruby,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: probuď svou sílu
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a přijď nás zachránit!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bože zástupů, vrať se,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * shlédni z nebe a podívej se, (+) pečuj o tuto révu!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ochraňuj, co tvá pravice zasadila,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * výhonek, který sis vypěstoval!
 
 %% use: responsum

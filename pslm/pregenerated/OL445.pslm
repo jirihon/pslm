@@ -9,45 +9,45 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodinovy předpisy jsou správné, působí radost srdci.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinův zákon je dokonalý, (+) občerstvuje duši,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodinův příkaz je spolehlivý, (+) nezkušenému dává moudrost.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinovy předpisy jsou správné, (+) působí radost srdci,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodinův rozkaz je jasný, (+) osvětluje oči.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bázeň před Hospodinem je upřímná, trvá na věky,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodinovy výroky jsou pravdivé, (+) všechny jsou spravedlivé.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Dražší jsou nad zlato, nad hojnost zlata ryzího,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * sladší jsou nad med, nad šťávu z plástů.
 
 %% use: responsum

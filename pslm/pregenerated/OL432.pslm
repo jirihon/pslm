@@ -8,83 +8,83 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodin popatřil z nebe na zem.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pohané budou ctít tvé jméno, Hospodine,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a všichni králové země tvou slávu,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: až Hospodin znovu zbuduje Sión,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * až se objeví ve své slávě.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Skloní se k modlitbě opuštěných
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a nepohrdne jejich prosbou.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kéž je to zapsáno pro příští pokolení,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * aby budoucí národ chválil Hospodina.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť Hospodin shlédl ze své vznešené svatyně,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * popatřil z nebe na zem,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: aby slyšel nářek zajatců,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * aby vysvobodil odsouzené k smrti.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Synové tvých služebníků budou bydlet v bezpečí
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a jejich potomstvo potrvá před tebou,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: aby hlásali na Siónu Hospodinovo jméno
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a jeho chválu v Jeruzalémě,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: když se spolu sejdou národy a království,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * aby sloužily Hospodinu.
 
 %% use: responsum

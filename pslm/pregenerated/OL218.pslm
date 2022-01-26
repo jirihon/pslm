@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Tys, Pane, dobrý a shovívavý.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tys, Pane, dobrý a shovívavý,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nejvýš milosrdný ke všem, kdo volají k tobě.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vyslyš, Hospodine, mou modlitbu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * všimni si hlasu mé snažné prosby.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Všechny národy, které jsi učinil, přijdou,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * budou se ti klanět, Pane, + a velebit tvé jméno.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Protože tys veliký a činíš divy,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ty jediný jsi Bůh.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ty však jsi, Pane, Bůh milosrdný a milostivý,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * váhavý k hněvu, (+) svrchovaně laskavý a věrný.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Obrať se ke mně
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a smiluj se nade mnou.
 
 %% use: responsum

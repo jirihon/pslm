@@ -8,65 +8,65 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Nauč mě, Hospodine, svým příkazům!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jak půjde jinoch svou cestou bez úhony?
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Budeli se chovat podle tvého slova.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Celým srdcem tě hledám,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nedej, abych se odchýlil od tvých předpisů!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ve svém srdci uchovávám tvůj výrok,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * abych se neprohřešil proti tobě.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Veleben jsi, Hospodine,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nauč mě svým příkazům!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Svými rty vypočítávám
 
-m: b\breve \bar "||"
+m: bB ||
 t: * všechna rozhodnutí tvých úst.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Raduji se na cestě tvých přikázání
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jako z velkého bohatství.
 
 %% use: responsum

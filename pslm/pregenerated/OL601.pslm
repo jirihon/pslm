@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Pamatuj na nás, Hospodine, pro náklonnost k svému lidu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hřešili jsme jako naši otcové,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * páchali jsme nepravost, jednali bezbožně.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Naši otcové v Egyptě
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nechápali tvé divy.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zhotovili si tele u Chorebu
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a klaněli se modle ulité z kovu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zaměnili tak svoji Slávu
 
-m: b\breve \bar "||"
+m: bB ||
 t: * za sochu býka, který požírá trávu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zapomněli na Boha, který je zachránil,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * který v Egyptě vykonal divy,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: zázraky v Chámově zemi,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * úžasné skutky u Rudého moře.
 
 %% use: responsum

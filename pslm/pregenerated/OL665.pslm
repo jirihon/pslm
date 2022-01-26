@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Neopouštíš, Hospodine, ty, kteří tě hledají.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin trůní věčně,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * stolec svůj postavil k soudu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Podle práva bude svět soudit,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * podle spravedlnosti vyřkne rozsudek nad národy.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin bude utlačovanému útočištěm,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * útulkem v dobách tísně.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Budou v tebe důvěřovat, protože neopouštíš, Hospodine, kdo se znají k tvému jménu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ty, kteří tě hledají!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zpívejte Hospodinu, který sídlí na Siónu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * rozhlašujte jeho činy mezi národy,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: vždyť si na ně vzpomněl jako krevní mstitel,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nezapomněl na výkřiky ubožáků.
 
 %% use: responsum

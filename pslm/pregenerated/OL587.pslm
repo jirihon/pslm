@@ -8,45 +8,45 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodin zástupů, on je král slávy!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zdvihněte, brány, své klenby,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zvyšte se, prastaré vchody, + ať vejde král slávy!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kdo je ten král slávy?
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Silný a mocný Hospodin, + Hospodin udatný v boji.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zdvihněte, brány, své klenby,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zvyšte se, prastaré vchody, + ať vejde král slávy!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kdo je ten král slávy?
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodin zástupů, + on je král slávy!
 
 %% use: responsum

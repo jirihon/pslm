@@ -8,57 +8,57 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Bože, obnov nás, rozjasni svou tvář, a budeme spaseni.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Slyš, Izraelův pastýři,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * který vodíš Josefa jak ovce.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Skvěj se září, ty, který trůníš nad cheruby,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * před Efraimem, Benjamínem a Manassem,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: probuď svou sílu
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a přijď nás zachránit!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bože zástupů, jak dlouho budeš dýmat hněvem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * když se modlí tvůj lid?
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nasytils jej chlebem slzavým
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a slzami jsi ho napojil vrchovatě.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Dopouštíš, že se kvůli nám sousedé sváří
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a naši nepřátelé se nám posmívají.
 
 %% use: responsum

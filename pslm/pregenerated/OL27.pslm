@@ -8,51 +8,51 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Ať tě, Bože, velebí národy, ať tě velebí, kdekterý národ!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bože, buď milostiv a žehnej nám,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ukaž nám svou jasnou tvář,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: kéž se pozná na zemi, jak jednáš,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kéž poznají všechny národy, jak zachraňuješ.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nechť se lidé radují a jásají,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * že soudíš národy spravedlivě + a lidi na zemi řídíš.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Země vydala svou úrodu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Bůh, náš Bůh, nám požehnal.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kéž nám Bůh žehná,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať ho ctí všechny končiny země!
 
 %% use: responsum

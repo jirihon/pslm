@@ -10,41 +10,41 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Zbožní uzří tvou tvář, Hospodine.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin sídlí ve svém posvátném chrámě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * na nebesích má Hospodin, svůj trůn,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: jeho oči pozorují,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * smrtelníky zkoumá jeho zrak.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin zkouší spravedlivého i bezbožníka,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * milujeli kdo bezpráví, toho z duše nenávidí.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vždyť Hospodin je spravedlivý, + má rád spravedlivé skutky,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zbožní uzří jeho tvář.
 
 %% use: responsum

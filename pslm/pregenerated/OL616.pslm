@@ -8,69 +8,69 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Pane, tys nám býval útočištěm od pokolení do pokolení.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Dříve než se zrodily hory, (+) než povstala země a svět,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * od věčnosti do věčnosti jsi ty, Bože!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Rozkazem vracíš, Bože, člověka v prach
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a pravíš: (+) „Vraťte se, smrtelníci!“
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť tisíc let je v tvých očích (+) jako včerejší den, který minul,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a jako noční hlídka.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Našich let bývá úhrnem sedmdesát,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * u toho, kdo je při síle, osmdesát.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Většina jich je lopota a trýzeň,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť rychle pomíjejí, a my odlétáme.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nasyť nás brzy svou slitovností,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať jásáme a radujeme se po celý život!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nechť se ukáže tvým služebníkům tvoje dílo,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tvá sláva jejich synům.
 
 %% use: responsum

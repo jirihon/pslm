@@ -8,51 +8,51 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Budou se ti, Hospodine, klanět všechny národy.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bože, svěř králi svou pravomoc,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * svou spravedlnost královskému synu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať vládne tvému lidu spravedlivě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nestranně tvým ubohým.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Králové Taršíše a ostrovů přinesou dary,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * králové Arábie a Sáby zaplatí daně.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: On vysvobodí chudáka, který se dovolává pomoci,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ubožáka, jehož se nikdo neujímá.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Smiluje se nad nuzným a chudým,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zachrání ubožákům život.
 
 %% use: responsum

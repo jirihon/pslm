@@ -8,51 +8,51 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Vzmužte se a buďte srdnatí, všichni, kdo spoléháte na Hospodina.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jak nesmírná je tvá dobrotivost, Hospodine,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * uchoval jsi ji těm, kdo se tě bojí, + popřáváš ji těm, kdo se k tobě utíkají před lidmi.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tvoje tvář je jim bezpečnou ochranou
 
-m: b\breve \bar "||"
+m: bB ||
 t: * před spiknutím lidí,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: ukrýváš je ve stanu
 
-m: b\breve \bar "||"
+m: bB ||
 t: * před svárlivými řečmi.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Milujte Hospodina, všichni jeho svatí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodin zachovává věrné,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: ale plnou měrou odplácí těm,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kdo si drze počínají.
 
 %% use: responsum

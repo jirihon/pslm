@@ -9,85 +9,85 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Zaradoval jsem se, když mi řekli: „Do domu Hospodinova půjdeme!“
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zaradoval jsem se, když mi řekli:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * „Do domu Hospodinova půjdeme!“
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Už stojí naše nohy
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ve tvých branách, Jeruzaléme!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tam vystupují kmeny,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kmeny Hospodinovy,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: jak to zákon přikazuje Izraeli,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * aby chválil Hospodinovo jméno.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tam stojí soudní stolce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * stolce Davidova domu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vyprošujte Jeruzalému pokoj:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať jsou v bezpečí, kdo tě milují,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: ať vládne mír ve tvých hradbách,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * bezpečnost ve tvých palácích!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kvůli svým bratřím a přátelům
 
-m: b\breve \bar "||"
+m: bB ||
 t: * budu říkat: Pokoj v tobě!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kvůli domu Hospodina, našeho Boha,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * budu ti přát štěstí.
 
 %% use: responsum

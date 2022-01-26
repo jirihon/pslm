@@ -8,65 +8,65 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Nauč mě, Hospodine, svým příkazům!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Odvrať mě od cesty lži,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * uštědři mi svůj zákon!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neodnímej z mých úst slovo pravdy,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť doufám v tvá rozhodnutí.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať se obrátí ke mně ti, kdo se tě bojí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kdo zachovávají tvá přikázání!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nechť je mé srdce dokonalé v tvých příkazech,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * abych se nemusil hanbit.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bezbožníci na mě číhají, aby mě zahubili,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * já však dávám pozor na tvá přikázání.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neuchyluji se od tvých rozhodnutí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * protože tys mě poučil.
 
 %% use: responsum

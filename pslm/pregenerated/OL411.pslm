@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Bůh se vznáší za jásotu, Hospodin vystupuje za hlaholu polnice.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Všechny národy, tleskejte rukama,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jásejte Bohu radostným hlasem,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: protože Hospodin je vznešený, hrozný,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * je to veliký král nad celou zemí.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bůh se vznáší za jásotu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodin vystupuje za hlaholu polnice.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zpívejte Bohu, zpívejte,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zpívejte našemu králi, zpívejte!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Protože Bůh je králem celého světa,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zpívejte mu chvalozpěv!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bůh vládne národů ,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Bůh zasedá na svém svatém trůnu.
 
 %% use: responsum

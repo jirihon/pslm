@@ -8,49 +8,49 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Budu tě chválit mezi národy, Pane!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Plné důvěry je mé srdce, Bože, (+) plné důvěry je mé srdce;
 
-m: b\breve \bar "||"
+m: bB ||
 t: * budu hrát a zpívat.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Probuď se, má duše,(+) probuď se, citero a harfo,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * chci vzbudit jitřenku.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Budu tě chválit mezi národy, Pane,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * budu tě oslavovat mezi pohany,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: protože tvá milost je veliká až k nebi,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tvá věrnost až do oblak.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ukaž se ve své vznešenosti na nebesích, Bože,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nad celou zemí nechť je tvá sláva!
 
 %% use: responsum

@@ -8,51 +8,51 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodine, všimni si mého volání!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodine, slyš moje slova,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * všimni si mého nářku!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Naslouchej mé hlasité prosbě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * můj králi a můj Bože!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ty nejsi Bůh, kterému by se líbila nepravost,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zlý u tebe prodlévat nesmí + ani rouhači před tebou neobstojí.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nenávidíš každého zločince,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * hubíš všecky lháře.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Od vraha a podvodníka
 
-m: b\breve \bar "||"
+m: bB ||
 t: * se odvrací Hospodin s odporem.
 
 %% use: responsum

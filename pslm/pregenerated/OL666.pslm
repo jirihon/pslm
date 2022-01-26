@@ -8,69 +8,69 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Jinoši a panny, chvalte Hospodinovo jméno!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Chvalte Hospodina z nebes,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * chvalte ho na výsostech!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Chvalte ho, všichni jeho andělé,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * chvalte ho, všechny jeho zástupy!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Králové země a všechny národy,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * knížata a všichni soudcové země,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: jinoši a s nimi panny,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * starci spolu s dětmi.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať chválí jméno Hospodinovo,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť jen jeho jméno je vznešené.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jeho velebnost převyšuje zemi i nebe
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a velikou moc dal svému lidu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Chválou je všem svým svatým,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * synům Izraele, (+) lidu, který je mu blízký.
 
 %% use: responsum

@@ -12,59 +12,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Pane, ukaž nám své milosrdenství!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kéž mohu slyšet, co mluví Hospodin, Bůh:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jistě mluví o pokoji pro svůj lid a pro své svaté.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jistě je blízko jeho spása těm, kteří se ho bojí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * aby sídlila jeho velebnost v naší zemi.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Milosrdenství a věrnost se potkají,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * spravedlnost a pokoj se políbí.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Věrnost vypučí ze země,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * spravedlnost shlédne z nebe.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin též popřeje dobro
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a naše země vydá plody.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Spravedlnost bude ho předcházet
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a spása mu půjde v patách.
 
 %% use: responsum

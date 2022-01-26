@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodinovým podílem je jeho lid.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinovo jméno budu vzývat,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vzdejte čest našemu Bohu!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Je Skála, dokonalá jsou jeho díla,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť všechny jeho cesty jsou spravedlivé.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pamatuj na dávné dny,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * uvažuj o létech mnohých pokolení!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ptej se svého otce, a oznámí ti,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ptej se svých starců, a řeknou ti:
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Když Nejvyšší vykazoval národům jejich sídla,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * když rozděloval syny Adamovy,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: stanovil hranice národů
 
-m: b\breve \bar "||"
+m: bB ||
 t: * podle počtu synů Izraele.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť Hospodinovým podílem je jeho lid,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Jakub je dědičný jeho úděl.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin sám ho vedl,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nebyl u něho cizí Bůh.
 
 %% use: responsum

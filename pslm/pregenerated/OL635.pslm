@@ -8,65 +8,65 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Nauč mě, Hospodine, svým příkazům!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ukaž mi, Hospodine, cestu svých příkazů,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a budu ji věrně zachovávat.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pouč mě, ať zachovám tvůj zákon
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a chráním ho celým svým srdcem.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Voď mě po stezce svých předpisů,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť v ní mám zalíbení.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nakloň mé srdce k svým přikázáním,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nikoli však k nespravedlivému zisku.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Odvrať mé oči, ať nevidí marnost,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * dej mi život na své cestě!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hle, toužím po tvých nařízeních,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * dej mi život pro svou spravedlnost!
 
 %% use: responsum

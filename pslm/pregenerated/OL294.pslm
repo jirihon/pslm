@@ -9,67 +9,67 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Kéž byste dnes uposlechli jeho hlasu: „Nezatvrzujte svá srdce!“
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pojďme, jásejme Hospodinu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * oslavujme Skálu své spásy,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: předstupme před něho s chvalozpěvy
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a písněmi mu zajásejme!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť veliký Bůh je Hospodin
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a veliký Král nade všemi bohy.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: V jeho ruce jsou hlubiny země
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a jemu patří výšiny hor.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jeho je moře, vždyť on je učinil,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * i souš, kterou zhnětly jeho ruce.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pojďme, padněme, klaňme se,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * poklekněme před svým tvůrcem, Hospodinem!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť on je náš Bůh
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a my jsme lid, který pase, (+) stádce vedené jeho rukou.
 
 %% use: responsum

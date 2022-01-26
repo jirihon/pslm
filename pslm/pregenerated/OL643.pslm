@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Izraelův dům doufá v Hospodina.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bůh náš je na nebesích,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * všechno, co chtěl, učinil.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Modly pohanů jsou stříbro a zlato,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * dílo lidských rukou.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Mají ústa, ale nemluví,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * mají oči, ale nevidí.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Mají uši, ale neslyší,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * mají nos, ale nečichají.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Mají ruce, ale nehmatají,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * mají nohy, ale nechodí.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jim jsou podobni ti, kdo je zhotovují,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * každý, kdo v ně doufá.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Izraelův dům doufá v Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * je jim pomocníkem a štítem.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Árónův dům doufá v Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * je jim pomocníkem a štítem.
 
 %% use: responsum

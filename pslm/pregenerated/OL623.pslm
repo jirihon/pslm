@@ -8,61 +8,61 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Ochraň mě, Bože, neboť se k tobě utíkám.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ochraň mě, Bože, neboť se k tobě utíkám.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Pravím Hospodinu: „Ty jsi můj Pán.“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Rozmnožují si útrapy,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kdo se drží cizích bohů;
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: nepřidružím svou úlitbu k jejich úlitbám krve,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * přes mé rty nepřejde ani jejich jméno.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ty jsi, Hospodine, mým dědičným podílem i mou číší,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ty mně zachováváš můj úděl.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodina mám neustále na zřeteli,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nezakolísám, když je mi po pravici.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ukážeš mi cestu k životu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * u tebe je hojná radost, + po tvé pravici je věčná slast.
 
 %% use: responsum

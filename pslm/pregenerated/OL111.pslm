@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Bože můj, Bože můj, proč jsi mne opustil?
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Posmívají se mi všichni, kdo mě vidí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * šklebí rty, pokyvují hlavou:
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: „Spoléhal na Hospodina, ať ho vysvobodí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať ho zachrání, máli ho rád!“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Obkličuje mě smečka psů,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tlupa zlosynů mě svírá.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Probodli mi ruce i nohy,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * spočítat mohu všechny své kosti.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Dělí se o můj oděv,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * losují o můj šat.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ty však, Hospodine, nestůj daleko,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * má sílo, pospěš mi na pomoc!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Budu vyprávět svým bratřím o tvém jménu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * uprostřed shromáždění budu tě chválit.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: „Kdo se bojíte Hospodina, chvalte ho,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * slavte ho, všichni z Jakubova potomstva.“
 
 %% use: responsum

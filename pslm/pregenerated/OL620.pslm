@@ -8,69 +8,69 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Ústa má budou vyprávět o tvé spravedlnosti.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ústa má oplývala tvou lou, po celý den pěla tvou slávu. chvá
 
-m: b\breve \bar "||"
+m: bB ||
 t: * 
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nezavrhuj mě v čas stáří,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neopouštěj mě, až ochabnou síly!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Já však budu stále doufat,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * všude šířit tvoji chválu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ústa má budou vyprávět o tvé spravedlnosti,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * po celý den budu vyprávět o tvé pomoci.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Opěvovat budu tvou moc, Bože,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodine, budu hlásat jedině tvou spravedlnost.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bože, učils mě od mého mládí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * až dosud hlásám tvé podivuhodné činy.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: I já budu na harfě chválit tvou věrnost, Bože,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * budu tě opěvovat na citeře, tebe, Svatý Izraele!
 
 %% use: responsum

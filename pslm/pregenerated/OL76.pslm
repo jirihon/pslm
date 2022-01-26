@@ -11,85 +11,85 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: U Hospodina je slitování, hojné u něho je vykoupení.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Z hlubin volám k tobě, Hospodine,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Pane, vyslyš hlas můj! ný k mé snažné
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tvůj sluch ať je nakloně
 
-m: b\breve \bar "||"
+m: bB ||
 t: * prosbě!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Budešli uchovávat v paměti viny, Hospodine,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Pane, kdo obstojí?
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ale u tebe je odpuštění,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * abychom ti mohli v úctě sloužit.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Doufám v Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * duše má doufá v jeho slovo,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: má duše čeká na Pána
 
-m: b\breve \bar "||"
+m: bB ||
 t: * více než stráže na svítání.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Více než stráže na svítání
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať čeká Izrael na Hospodina,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: neboť u Hospodina je slitování,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * hojné u něho je vykoupení.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: On vykoupí Izraele
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ze všech jeho provinění.
 
 %% use: responsum

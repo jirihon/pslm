@@ -9,65 +9,65 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Jak miluji tvůj zákon, Hospodine.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Raduji se na cestě tvých přikázání
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jako z velkého bohatství.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vždyť tvá přikázání jsou mým potěšením ,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tvé příkazy jsou mými rádci.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Lepší je pro mě zákon tvých úst
 
-m: b\breve \bar "||"
+m: bB ||
 t: * než tisíce ve zlatě a stříbře.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jak sladké jsou na mém patru tvé výroky,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nad med jsou sladší pro má ústa.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Mým dědictvím na věky jsou tvá přikázání,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť jsou radostí mého srdce.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Otvírám ústa a nabírám dech,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť toužím po tvých předpisech.
 
 %% use: responsum

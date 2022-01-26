@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Blaze těm, kdo přebývají v tvém domě, Bože.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jak je milý tvůj příbytek, Hospodine zástupů!
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Touží, ba prahne má duše po Hospodinových síních,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: mé srdce i mé tělo
 
-m: b\breve \bar "||"
+m: bB ||
 t: * s jásotem tíhnou k živému Bohu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Blaze těm, kdo přebývají ve tvém domě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * stále tě mohou chválit.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Blaze člověku, jenž u tebe nalézá pomoc,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * když se chystá na svatou pouť.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodine, Bože zástupů, slyš moji modlitbu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * popřej sluchu, Bože Jakubův!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Štíte náš, Bože, pohleď,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * popatř na tvář svého pomazaného!
 
 %% use: responsum

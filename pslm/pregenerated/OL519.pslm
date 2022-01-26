@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodin zjevil svou spásu před zraky pohanů.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin uvedl ve známost svou spásu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * před zraky pohanů zjevil svou spravedlnost.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Rozpomenul se na svou dobrotu a věrnost
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Izraelovu domu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Uzřely všechny končiny země
 
-m: b\breve \bar "||"
+m: bB ||
 t: * spásu našeho Boha.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jásejte Hospodinu, všechny země,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * radujte se, plesejte a hrejte!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hrejte Hospodinu na citeru,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * na citeru a s doprovodem zpěvu,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: za hlaholu trub a rohů,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jásejte před králem Hospodinem!
 
 %% use: responsum

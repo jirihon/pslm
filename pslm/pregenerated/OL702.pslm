@@ -8,65 +8,65 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Jasnou tvář ukaž svému služebníku, Hospodine!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nauč mě moudrosti a vědění,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť důvěřuji tvým předpisům.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Dobře mi, že jsem byl pokořen,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * abych se naučil tvým příkazům.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vím, Hospodine, že spravedlivá jsou tvá rozhodnutí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * že jsi mě pokořil podle práva.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Podle tvých rozhodnutí země trvá stále,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť všechno ti slouží.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jsem tvůj služebník, pouč mě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * abych poznal tvá přikázání.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Výklad tvých slov osvěcuje,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * poučuje prosté lidi.
 
 %% use: responsum

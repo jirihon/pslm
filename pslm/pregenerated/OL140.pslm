@@ -8,53 +8,53 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodine, ukaž nám svou jasnou tvář!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bože, zastánce mého práva,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vyslechni mě, když volám,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: tys mě v soužení vysvobodil,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * smiluj se nade mnou a slyš mou prsbu!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pamatujte: Hospodin vyznamenává svého svatého;
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodin vyslyší, když k němu zavolám.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Mnoho lidí říká: „Kdo nám ukáže dobro?“
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodine, ukaž nám svou jasnou tvář!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Usínám klidně, sotva si lehnu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vždyť ty sám, Hospodine, dáváš mi přebývat v bezpečí!
 
 %% use: responsum

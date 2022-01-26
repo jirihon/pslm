@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Duch můj plesá v Bohu mém!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Velebí má duše Hospodina
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a můj duch jásá v Bohu, mém spasite li,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: neboť shlédl na svou nepatrnou služebnici.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Od této chvíle mě budou blahoslavit všechna pokolení.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Že mi učinil veliké věci ten, který je mocný.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Jeho jméno je svaté
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: a jeho milosrdenství trvá od pokolení do pokolení
 
-m: b\breve \bar "||"
+m: bB ||
 t: * k těm, kdo se ho bojí.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hladové nasytil dobrými věcmi
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a bohaté propustil s prázdnou.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ujal se svého služebníka Izraele,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pamatoval na své milosrdenství.
 
 %% use: responsum

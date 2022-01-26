@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Kdo žije správně, tomu ukážu Boží spásu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Proč odříkáváš má přikázání
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a bereš do úst mou smlouvu
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: ty, který nenávidíš kázeň
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a má slova házíš za sebe?
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Když jsi viděl zloděje, běžel jsi s ním
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a s cizoložníky jsi míval účast.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zlo jsi vypouštěl ze svých úst
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a tvůj jazyk osnoval úskok.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bavil ses pomlouváním svého bratra,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tupil jsi syna své matky.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Takto jsi jednal, a já mám mlčet? + Myslil jsi, že jsem jako ty?
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Usvědčím tě a řeknu ti to do očí!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Uvažte to, kdo zapomínáte na Boha!
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Jinak vás zahubím a nikdo vám nepomůže!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kdo přináší oběť chvály, ten mě ctí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kdo žije správně, tomu ukážu Boží spásu.
 
 %% use: responsum

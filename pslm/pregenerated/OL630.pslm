@@ -8,69 +8,69 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Radujte se, spravedliví, v Hospodinu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin kraluje, ať zajásá země,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať se radují četné ostrovy!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Mrak a temnota ho obklopují,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * spravedlnost a právo jsou základem jeho trůnu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Předchází jej oheň
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a kolem dokola spaluje protivníky.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jeho blesky svět ozařují,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * země to vidí a chvěje se.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jako vosk se taví hory před Hospodinem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * před vladařem celé země.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nebesa hlásají jeho spravedlnost
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a všechny národy vidí jeho slávu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hanbí se všichni ctitelé model, + kteří se chlubí bůžky,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * všichni andělé se mu koří.
 
 %% use: responsum

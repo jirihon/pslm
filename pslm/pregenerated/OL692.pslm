@@ -8,51 +8,51 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Budu kráčet před Hospodinem v zemi živých.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pak ustoupí moji nepřátelé,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kdykoli tě budu volat; + vím velmi dobře, že Bůh je pro mě!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: V Boha, jehož slib velebím,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v Hospodina, jehož slib velebím,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: v Boha důvěřuji a nebudu se bát,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * co mi může udělat člověk?
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bože, jsem ti zavázán sliby,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * přinesu ti děkovnou oběť,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: že jsi vysvobodil můj život ze smrti, (+) mé nohy z pádu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * abych kráčel před Bohem ve světle živých.
 
 %% use: responsum

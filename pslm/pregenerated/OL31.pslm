@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: V jeho dnech rozkvete spravedlnost a hojnost pokoje na věky.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bože, svěř králi svou pravomoc,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * svou spravedlnost královskému synu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať vládne tvému lidu spravedlivě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nestranně tvým ubohým.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: On vysvobodí chudáka, který se dovolává pomoci,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ubožáka, jehož se nikdo neujímá.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Smiluje se nad nuzným a chudým,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zachrání ubožákům život.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Požehnaný Hospodin, Bůh Izraele,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * on sám koná divy.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: požehnané jeho slavné jméno na věky,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jeho slávou ať je naplněna celá země!
 
 %% use: responsum

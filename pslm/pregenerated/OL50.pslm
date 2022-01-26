@@ -11,59 +11,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodine, Pane náš, jak podivuhodné je tvé jméno po celé zemi!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Když se zahledím na tvá nebesa, dílo tvých prstů,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * na měsíc, na hvězdy, které jsi stvořil:
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Co je člověk, že na něho myslíš,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * co je smrtelník, že se o něho staráš?
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Učinils ho jen o málo menším, než jsou andělé,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ověnčils ho ctí a slávou,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: dals mu vládnout nad dílem svých rukou,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * položils mu k nohám všechno:
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ovce i veškerý dobytek,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * k tomu i polní zvířata,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: ptáky na nebi a ryby v moři,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vše, co se hemží na stezkách moří.
 
 %% use: responsum

@@ -10,59 +10,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodine, z tvé síly se raduje král.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodine, z tvé síly se raduje král,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jak velice jásá nad tvou pomocí!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Splnil jsi mu, po čem v srdci toužil,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neodepřels, co jeho rty žádaly.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť jsi mu vyšel vstříc s hojným požehnáním,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vsadils mu na hlavu korunu z ryzího zlata.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Žádal od tebe život:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * dopřáls mu dlouhá léta na věčné časy.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Veliká je sláva jeho, protožes mu pomohl,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ozdobils ho ctí a vznešeností.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Učinils ho věčným požehnáním,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * oblažils ho radostí před tvou tváří.
 
 %% use: responsum

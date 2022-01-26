@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Plesejte Bohu, který nám pomáhá.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zanoťte píseň, udeřte v buben,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * na líbezně zvučící citeru a harfu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zadujte do trub v den novoluní,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v den úplňku, v čas našeho svátku.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Takový je příkaz v Izraeli,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * je to zákon Jakubova Boha.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nařízení, které dal Josefovi,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * když se postavil proti egyptské zemi.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Slyšel jsem hlas mně neznámý:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * „Zbavil jsem jeho šíji břemena,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: z jeho rukou jsem vzal koš robotníka.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * V soužení jsi volal, a osvobodil jsem tě.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nesmíš mít boha jiného,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nesmíš se klanět bohu cizímu!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Já jsem Hospodin, tvůj Bůh,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * já jsem tě vyvedl z egyptské země!
 
 %% use: responsum

@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Kéž pronikne k tobě má modlitba, Hospodine!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodine, můj Bože, volám ve dne, hořekuji před tebou v no
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ci.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kéž pronikne k tobě má modlitba,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nakloň svůj sluch k mému volání!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť bědami je nasycena má duše
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a můj život se blíží podsvětí.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Počítají mě k těm, kdo klesli do hrobu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jsem jako člověk bez pomoci.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Mezi mrtvými je moje lože,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * mezi zabitými, kteří leží v hrobě;
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: na ty už nevzpomínáš,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jsou vyloučeni z tvé péče.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Položils mě do hluboké jámy,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * do temnot a do propastí.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Doléhá na mě tvůj hněv,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * všechny své přívaly jsi na mě vylil.
 
 %% use: responsum

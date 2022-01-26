@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Tvou dobrotu, Pane, mám na zřeteli.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zkoumej mě, Hospodine, a zkoušej,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vyšetřuj mé ledví a srdce!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tvou dobrotu mám na zřeteli,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jednám podle tvé pravdy.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nezahlazuj mou duši s hříšníky
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ani můj život s vražedníky;
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: na jejich rukou lpí zločin,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jejich pravice je plna úplatků.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Já se však chovám bezúhonně,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vysvoboď mě a smiluj se nade mnou!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Má noha stojí na rovné cestě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ve shromáždění budu velebit Hospodina.
 
 %% use: responsum

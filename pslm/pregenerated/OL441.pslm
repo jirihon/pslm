@@ -9,59 +9,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Kdo žije správně, tomu ukážu Boží spásu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: „Shromážděte mi mé svaté,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kteří obětí sjednali mou smlouvu!“
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nebesa zvěstují jeho spravedlnost,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * že sám Bůh je soudcem.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: „Slyš, můj lide, budu mluvit, + Izraeli, proti tobě budu svědčit,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * já jsem Bůh, tvůj Bůh!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nekárám tě pro tvé oběti,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vždyť tvé žertvy jsou stále přede mnou.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Přinášej Bohu oběť chvály
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a plň Nejvyššímu své sliby!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kdo přináší oběť chvály, ten mě ctí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kdo žije správně, tomu ukážu Boží spásu.“
 
 %% use: responsum

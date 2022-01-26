@@ -8,43 +8,43 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Požehnán buď Hospodin, že vyslyšel mou úpěnlivou prosbu!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Slyš mou úpěnlivou prosbu, když k tobě volám ,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * když vztahuji své ruce k tvému svatému chrámu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin je má síla a můj štít, + důvěřuje v něho mé srdce, dostal jsem pomoc,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * proto jásá mé srdce a svou písní ho chválím.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin je silou svého lidu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * záštitou spásy svému pomazanému.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zachraň svůj lid a žehnej svému dědictví,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pas je a nes je až na věky!
 
 %% use: responsum

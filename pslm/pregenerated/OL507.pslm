@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Pamatuj na nás, Hospodine, pro náklonnost k svému lidu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Otcové naši nevyhubili národy,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jak jim Hospodin rozkázal,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: ale smísili se s pohany
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a naučili se jejich skutkům.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Uctívali jejich modly,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a ty se jim staly léčkou.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Obětovali své syny
 
-m: b\breve \bar "||"
+m: bB ||
 t: * i své dcery zlým duchům.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Znečistili se svými skutky
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a zpronevěřili se svými zločiny.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tu vzplanul hněv Hospodinův proti jeho národu
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a zošklivil si své dědictví.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Mnohokrát je vysvobodil,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * oni ho však roztrpčovali svými pletichami.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ale shlédl na jejich soužení,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * když slyšel jejich prosbu.
 
 %% use: responsum

@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Svým andělům vydal o tobě příkaz, aby tě střežili na všech tvých cestách.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kdo přebýváš v ochraně Nejvyššího,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kdo dlíš ve stínu Všemocného,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: řekni Hospodinu:(+) „Jsi mé útočiště a má tvrz,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * můj Bůh, v něhož doufám!“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť on tě vysvobodil z léčky ptáčníka,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ze zhoubného moru.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ochrání tě svými perutěmi,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * uchýlíš se pod jeho křídla.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Štít a pavéza je věrnost jeho.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Nemusíš se bát noční hrůzy, + šípu létajícího ve dne,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: moru, který se plíží ve tmě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nákazy, jež pustoší o polednách.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nepřihodí se ti nic zlého
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a útrapa se k tvému stanu nepřiblíží.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vždyť svým andělům vydal o tobě příkaz,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * aby tě střežili na všech tvých cestách.
 
 %% use: responsum

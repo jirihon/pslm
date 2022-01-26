@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Smiluj se, Pane, neboť jsme zhřešili.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Smiluj se nade mnou, Bože, pro své milosrdenství,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pro své velké slitování zahlaď mou nepravost.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Úplně ze mě smyj mou vinu
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a očisť mě od mého hříchu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vždyť nemáš zálibu v oběti,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kdybych věnoval žertvu, nebyla by ti milá.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Mou obětí, Bože, je zkroušený duch,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zkroušeným a pokorným srdcem, Bože, nepohrdneš.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pane, obšťastni Sión svou přízní,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * znovu zbuduj hradby Jeruzaléma.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pak opět najdeš zalíbení v zákonitých obětech, + v celopalech i žertvách,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * na oltář ti budou klást býčky.
 
 %% use: responsum

@@ -9,67 +9,67 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Plesejte a jásejte, neboť nad vámi vládne Svatý Izraele.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bůh je má spása!
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Bez obavy mohu doufat.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin je má síla a má chvála,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * stal se mou spásou.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Budete vážit vodu s radostí
 
-m: b\breve \bar "||"
+m: bB ||
 t: * z pramenů spásy.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Děkujte Hospodinu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a vzývejte jeho jméno!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hlásejte mezi národy jeho díla,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zvěstujte vznešenost jeho jména!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zpívejte Hospodinu, (+) neboť učinil velkolepé věci,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať je to známo po celé zemi!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Plesejte a jásejte, obyvatelé Siónu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť velikým uprostřed vás je Svatý Izraele.
 
 %% use: responsum

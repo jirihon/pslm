@@ -9,77 +9,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodinova láska od věků pro ty, kdo se ho bojí.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Veleb, má duše, Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vše, co je ve mně, veleb jeho svaté jméno!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Veleb, má duše, Hospodina
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a nezapomeň na žádné z jeho dobrodiní!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: On odpouští všechny tvé viny,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * on léčí všechny tvé neduhy.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: On vykupuje tvůj život ze záhuby,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * on tě věnčí láskou a slitováním.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin koná spravedlivé skutky,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zjednává právo všem utlačeným.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Oznámil své plány Mojžíšovi,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * izraelským synům své sk.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin je milosrdný a milostivý,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * shovívavý a nadmíru dobrotivý.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nejedná s námi podle našich hříchů
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ani podle našich vin nám neodplácí.
 
 %% use: responsum

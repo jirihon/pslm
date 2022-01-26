@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Smiluj se nade mnou, Bože, smiluj se!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Smiluj se nade mnou, Bože, smiluj se,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť k tobě se utíká má duše,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: uchyluji se do stínu tvých křídel,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * dokud se nepřežene zkáza.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Volám k svrchovanému Bohu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * k Bohu, který mi prokazuje dobro.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať zasáhne z nebe a zachrání mě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať zahanbí ty, kteří se na mě sápou, + ať Bůh sešle svou milost a věrnost.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ukaž se ve své vznešenosti na nebesích, Bože,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nad celou zemí nechť je tvá sláva!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Protože tvá milost je veliká až k nebi,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tvá věrnost až do oblak.
 
 %% use: responsum

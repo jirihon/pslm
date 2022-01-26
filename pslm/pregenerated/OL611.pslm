@@ -9,41 +9,41 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Má modlitba, Pane, ať je před tebou jako kadidlo.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodine, volám k tobě, pospěš mi na pomoc,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * slyš můj hlas, když k tobě volám .
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Má modlitba ať je před tebou jako kadidlo,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * mé zvednuté dlaně jako večerní oběť.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Postav, Hospodine, stráž k mým ústům,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * hlídku k bráně mých rtů.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: K tobě, Hospodine, Pane, se obracejí mé oči,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * k tobě se utíkám, nevydávej mě smrti!
 
 %% use: responsum

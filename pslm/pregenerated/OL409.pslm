@@ -11,61 +11,61 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hle, přicházím, Pane, splnit tvou vůli.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: V obětních darech si nelibuješ, Bože,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zato jsi mi otevřel uši.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Celopaly a smírné oběti nežádáš,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tehdy jsem řekl: „Hle, přicházím.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ve svitku knihy je o mně psáno:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Rád splním tvou vůli, můj Bože, + tvůj zákon je v mém nitru.“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Spravedlnost jsem zvěstoval ve velkém shromáždění,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * svým rtům jsem nebránil, ty to víš, Hospodine!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nechť jásají a v tobě se radují
 
-m: b\breve \bar "||"
+m: bB ||
 t: * všichni, kteří tě hledají,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: ti, kteří touží po tvé pomoci,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať mohou stále říkat: „Buď veleben Hospodin!“
 
 %% use: responsum

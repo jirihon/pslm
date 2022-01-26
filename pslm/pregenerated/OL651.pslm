@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Nezapomínej na chudáky, Hospodine!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodine, proč jsi tak vzdálen,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * proč se skrýváš v dobách tísně?
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bezbožník zpupně pronásleduje ubožáka,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * chytí ho do nástrah, které si přichystal.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vždyť hříšník se chlubí svou náruživostí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * rouhá se chamtivec, pohrdá Hospodinem.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Namlouvá si bezbožník ve své opovážlivosti:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * „On nepotrestá! Bůh není!“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jeho ústa jsou plná kletby, lsti a úkladu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pod jeho jazykem jen útrapa a hoře.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Sedí na číhané poblíž osad,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zabíjí nevinného ve skrytu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ty však vidíš; ty sleduješ žal i útrapy,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * abys je vzal do svých rukou.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Na tebe se ubožák spoléhá,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * sirotkovi tys pomocníkem.
 
 %% use: responsum

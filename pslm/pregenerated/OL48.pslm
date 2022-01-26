@@ -8,26 +8,26 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Vypravujte mezi všemi národy o Hospodinových divech.
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: bB ||
 t: vzdejte Hospodinu slávu, hodnou jeho jména.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: bB ||
 t: Třeste se před ním, všechny země!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: bB ||
 t: národy řídí podle práva.
 
 %% use: responsum

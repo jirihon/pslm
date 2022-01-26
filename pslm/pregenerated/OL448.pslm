@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: K tobě pozvedám svou duši, Hospodine.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: V tebe důvěřuji, můj Bože, kéž nejsem zahanben,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať nade mnou nejásají moji nepřátelé.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vždyť nikdo z těch, do hanby padnou ti, kdo v tebe doufají, nepadne do hanby;
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kdo lehkovážně ruší věrnost.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ukaž mi své cesty, Hospodine,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a pouč mě o svých stezkách.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Veď mě ve své pravdě a uč mě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť ty jsi Bůh, můj spasitel.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Rozpomeň se, Hospodine, na své slitování,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * na své milosrdenství, které trvá věčně.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pamatuj na mě ve svém milosrdenství
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pro svou dobrotivost, Hospodine!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin je dobrý a dokonalý,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * proto ukazuje hříšníkům cestu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pokorné vede k správnému jednání,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pokorné učí své cestě.
 
 %% use: responsum

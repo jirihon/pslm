@@ -8,65 +8,65 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Nauč mě, Hospodine, svým příkazům!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Na věky, Hospodine, trvá tvé slovo,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * je pevné jako nebesa.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Od pokolení do pokolení je tvá věrnost,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * založil jsi zemi, a ona trvá.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Podle tvých rozhodnutí trvá stále,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť všechno ti slouží.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Výklad tvých slov osvěcuje,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * poučuje prosté lidi.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jasnou tvář ukaž svému služebníku
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a nauč mě svým příkazům!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kéž jsem živ, abych tě chválil,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a tvá rozhodnutí ať mi pomáhají!
 
 %% use: responsum

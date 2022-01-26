@@ -8,41 +8,41 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Na věky chci zpívat o Hospodinových milostech.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Šťastný je lid, který dovede oslavovat,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * chodí, Hospodine, v záři tvé tváře.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: V tvém jménu jásají ustavičně
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a honosí se tvou spravedlností.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť ty jsi leskem jejich moci
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a tvou přízní roste naše síla.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vždyť náš vladař náleží Hospodinu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * náš král Svatému Izraele.
 
 %% use: responsum

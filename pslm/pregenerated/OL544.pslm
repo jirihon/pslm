@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Tys, Pane, dobrý a shovívavý.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ty jsi můj Bůh, smiluj se nade mnou, Pane,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť stále k tobě volám.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Obvesel život svého služebníka,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť k tobě, Pane, pozvedám svou duši.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tys totiž, Pane, dobrý a shovívavý,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nejvýš milosrdný ke všem, kdo volají k tobě.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vyslyš, Hospodine, mou modlitbu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * všimni si hlasu mé snažné prosby.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Všechny národy, které jsi učinil, přijdou,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * budou se ti klanět, Pane, + a velebit tvé jméno.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Protože tys veliký a činíš divy,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ty jediný jsi Bůh.
 
 %% use: responsum

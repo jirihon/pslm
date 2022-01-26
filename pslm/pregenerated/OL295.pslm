@@ -9,67 +9,67 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Do domu Hospodinova s radostí půjdeme.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zaradoval jsem se, když mi řekli:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * „Do domu Hospodinova půjdeme!“
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Už stojí naše nohy
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ve tvých branách, Jeruzaléme!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jeruzalém je vystavěn jako město,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * spojené v jeden celek.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tam vystupují kmeny,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kmeny Hospodinovy,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: jak to zákon přikazuje Izraeli,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * aby chválil Hospodinovo jméno.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kvůli svým bratřím a přátelům
 
-m: b\breve \bar "||"
+m: bB ||
 t: * budu říkat: Pokoj v tobě!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kvůli domu Hospodina, našeho Boha,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * budu ti přát štěstí.
 
 %% use: responsum

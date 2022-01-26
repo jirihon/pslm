@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Rozjásám se nad tvou pomocí, Hospodine!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodine, chci tě oslavovat chci vyprávět z celého svého srdce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * o všech tvých podivuhodných skutcích.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: V tobě se chci radovat a jásat,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * opěvovat tvé jméno, Svrchovaný.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Protože se moji nepřátelé stáhli,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zhroutili se a zanikli před tvou tváří.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Obořil ses na pohany, bezbožníka jsi potřel,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * navždy jsi vyhladil jejich jméno.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pohané zapadli do jámy, kterou vykopali,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * noha jim uvázla v léčce, kterou nastražili,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: neboť nebude na věky zapomenut chudák,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * naděje ubohých nezajde navždy!
 
 %% use: responsum

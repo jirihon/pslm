@@ -8,41 +8,41 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Veleben buď Hospodin, má Skála!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Veleben buď Hospodin, má Skála,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * on je mé milosrdenství, mé útočiště,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: má pevnost a můj zachránce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * můj štít a můj útulek.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodine, co je člověk, že se o něho staráš,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * co je smrtelník, že na něho myslíš?
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Člověk se podobá vánku,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jeho dny stínu, který přechází.
 
 %% use: responsum

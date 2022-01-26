@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Okuste a vizte, jak je Hospodin dobrý.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jak ochránce se utábořil Hospodinův anděl
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kolem těch, kdo Hospodina ctí, a vysvobodil je.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Okuste a vizte, jak je Hospodin dobrý,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * blaze člověku, který se k němu utíká.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bojte se Hospodina, jeho svatí!
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Těm, kdo se ho bojí, nic nechybí.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Mocní strádají a hynou hlady,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nic nechybí těm, kdo hledají Hospodina.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pojďte, synové, a slyšte mě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * naučím vás bát se Hospodina.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Chraň se zlého a čiň dobré,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * hledej pokoj a usiluj o něj!
 
 %% use: responsum

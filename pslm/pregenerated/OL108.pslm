@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodin pamatuje věčně na svoji smlouvu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Uvažujte o Hospodinu a jeho moci,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * hledejte stále jeho tvář!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pamatujte na divy, které učinil,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * na jeho zázraky a rozsudky jeho úst.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Potomstvo Abraháma, jeho služebníka,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * synové Jakuba, jeho vyvoleného!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin sám je náš Bůh,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * po celé zemi platí jeho rozhodnutí.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pamatuje věčně na svoji smlouvu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * na slib, který ustanovil pro tisíc pokolení,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: na smlouvu, kterou sjednal s Abrahámem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * na svou přísahu Izákovi.
 
 %% use: responsum

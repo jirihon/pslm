@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Vezmu kalich spásy a budu vzývat jméno Hospodinovo.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Čím se odplatím Hospodinu
 
-m: b\breve \bar "||"
+m: bB ||
 t: * za všechno, co mi prokázal?
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vezmu kalich spásy
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a budu vzývat jméno Hospodinovo.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Drahocenná je v Hospodinových očích
 
-m: b\breve \bar "||"
+m: bB ||
 t: * smrt jeho zbožných.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jsem tvůj služebník, syn tvé služebnice,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * rozvázal jsi moje pouta.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Přinesu ti oběť díků, Hospodine,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a budu vzývat tvé jméno.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Splním své sliby Hospodinu
 
-m: b\breve \bar "||"
+m: bB ||
 t: * před veškerým jeho lidem.
 
 %% use: responsum

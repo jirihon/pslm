@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Na věky chci zpívat o Hospodinových milostech.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Na věky chci zpívat o Hospodinových milostech,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * po všechna pokolení hlásat svými ústy tvou věrnost.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Řekl jsi totiž: „Na věky je založena milost.“
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Na nebi jsi upevnil svou věrnost.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nebesa oslavují tvé divy, Hospodine,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a tvou věrnost shromáždění svatých. nu, z Božích synů se podobá Pánu?
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť kdo se může v oblacích rovnat Hospodi
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kdo
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Šťastný je lid, který dovede oslavovat,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * chodí, Hospodine, v záři tvé tváře.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: V tvém jménu jásají ustavičně
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a honosí se tvou spravedlností.
 
 %% use: responsum

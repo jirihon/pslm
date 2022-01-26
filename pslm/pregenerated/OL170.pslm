@@ -9,59 +9,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodin si zřídil na nebi trůn.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Veleb, má duše, Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vše, co je ve mně, veleb jeho svaté jméno!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Veleb, má duše, Hospodina
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a nezapomeň na žádné z jeho dobrodiní!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jako je vysoko nebe nad zemí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tak je velká jeho láska k těm, kdo se ho bojí.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jako je vzdálen východ od západu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tak vzdaluje od nás naše nepravosti.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin si zřídil na nebi trůn
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a všechno řídí jeho vláda.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Velebte Hospodina, všichni jeho andělé,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * mocní silou, dbalí jeho rozkazů.
 
 %% use: responsum

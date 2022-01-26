@@ -8,87 +8,87 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Kdo žije správně, tomu ukážu Boží spásu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: „Slyš, můj lide, budu mluvit,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Izraeli, proti tobě budu svědčit, + já jsem Bůh, tvůj Bůh!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nekárám tě pro tvé oběti,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vždyť tvé žertvy jsou stále přede mnou.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nemusím brát býka z tvého chléva
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ani kozly z tvých ohrad.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť mně patří veškerá lesní zvěř
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a na svých horách mám zvířat na tisíc.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Znám všechny ptáky na nebi,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * mé je vše, co se hemží na poli.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kdybych měl hlad, nebudu ti o tom říkat,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vždyť můj je svět se vším, co ho plní!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Copak požívám maso z býků
 
-m: b\breve \bar "||"
+m: bB ||
 t: * či piji kozlí krev?
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Proč odříkáváš má přikázání
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a bereš do úst mou smlouvu
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: ty, který nenávidíš kázeň
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a má slova házíš za sebe?
 
 %% use: responsum

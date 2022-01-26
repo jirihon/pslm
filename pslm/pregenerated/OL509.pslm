@@ -8,53 +8,53 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hle, přicházím, Pane, splnit tvou vůli.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Blaze tomu, kdo svou naději vložil v Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kdo nic nemá s modláři, (+) s těmi, kdo se uchylují ke lži.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: V obětních darech si nelibuješ, Bože,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zato jsi mi otevřel uši.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Celopaly a smírné oběti nežádáš,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tehdy jsem řekl: „Hle, přicházím.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ve svitku knihy je o mně psáno:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Rád splním tvou vůli, můj Bože, + tvůj zákon je v mém nitru.“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Spravedlnost jsem zvěstoval ve velkém shromáždění,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * svým rtům jsem nebránil, ty to víš, Hospodine!
 
 %% use: responsum

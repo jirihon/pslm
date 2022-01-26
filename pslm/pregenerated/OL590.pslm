@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Smiluj se, Pane, neboť jsme zhřešili.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Smiluj se nade mnou, Bože, pro své milosrdenství,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pro své velké slitování zahlaď mou nepravost.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Úplně ze mě smyj mou vinu
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a očisť mě od mého hříchu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť já svou nepravost uznávám,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * můj hřích je stále přede mnou.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jen proti tobě jsem se prohřešil,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * spáchal jsem, co je před tebou zlé.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Takže se ukáže, jak je tvůj rozsudek spravedlivý,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * že jsi bez úhony ve svém soudu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hle, s vinou jsem se narodil
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a v hříchu mě počala má matka.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Popřej mi slyšet hlas veselí a radosti,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať zajásají kosti, které jsi rozdrtil.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Odvrať svou tvář od mých hříchů
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a zahlaď všechny mé viny.
 
 %% use: responsum

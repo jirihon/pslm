@@ -9,83 +9,83 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Kámen, který stavitelé zavrhli, stal se kvádrem nárožním.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Oslavujte Hospodina, neboť je dobrý,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jeho milosrdenství trvá na věky.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Lépe je utíkat se k Hospodinu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * než důvěřovat v člověka.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Lépe je utíkat se k Hospodinu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * než důvěřovat v mocné.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Děkuji ti, žes mě vyslyšel
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a stal se mou spásou.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kámen, který stavitelé zavrhli,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * stal se kvádrem nárožním.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinovým řízením se tak stalo,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * je to podivuhodné v našich očích.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Požehnaný, kdo přichází v Hospodinově jménu.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Žehnáme vám z Hospodinova domu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ty jsi můj Bůh, děkuji ti;
 
-m: b\breve \bar "||"
+m: bB ||
 t: * budu tě slavit, můj Bože!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Oslavujte Hospodina, neboť je dobrý,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jeho milosrdenství trvá na věky.
 
 %% use: responsum

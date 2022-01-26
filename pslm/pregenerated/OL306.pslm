@@ -9,59 +9,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hle, ženich přichází, jděte naproti Kristu Pánu!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Slyš, dcero, pohleď a naslouchej,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zapomeň na svůj národ, na svůj otcovský dům!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Sám král touží po tvé kráse:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vždyť je tvým pánem, před ním se skloň!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: V plné kráse vstupuje královská dcera,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * její šat je protkán zlatem.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: V barevném rouchu ji vedou ke králi,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * za ní ti přivádějí panny, její družky.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Provázeny radostným jásotem
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vstupují v královský palác.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Místa tvých otců zaujmou tvoji synové,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ustanovíš je za knížata po celé zemi.
 
 %% use: responsum

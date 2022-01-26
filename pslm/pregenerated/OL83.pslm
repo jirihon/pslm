@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Zachraň mě svou slitovností, Hospodine.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vyprostíš mě z léčky pro mě nastražené,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť ty jsi mé útočiště.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Do tvých rukou svěřuji svého ducha,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodine, věrný Bože, ty mě vysvobodíš.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vždyť se tolik o mně šeptá
 
-m: b\breve \bar "||"
+m: bB ||
 t: * slyšel jsem to, hrůza odevšad!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Spolu se proti mně radí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * usilují zničit můj život.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Já však, Hospodine, v tebe doufám,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * říkám: Ty jsi můj Bůh!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Můj osud je ve tvé ruce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vysvoboď mě z moci mých úhlavních nepřátel!
 
 %% use: responsum

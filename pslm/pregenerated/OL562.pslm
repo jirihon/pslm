@@ -8,41 +8,41 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Povstaň, Bože, suď zemi!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zastávejte se utiskovaného a sirotka,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ubohému a chudému pomáhejte k právu!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vysvoboďte utlačovaného a nuzného,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * z moci bezbožných ho vytrhněte!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Já jsem řekl: „Jste bohy,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * všichni jste syny Nejvyššího.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ale zemřete jako lidé,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * padnete jako každý z knížat.“
 
 %% use: responsum

@@ -8,75 +8,75 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Chci kráčet v nevinnosti srdce.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: O dobrotivosti a spravedlnosti chci zpívat,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tobě, Hospodine, chci zahrát.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Chci se ubírat cestou bezúhonnou,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kdy ke mně přijdeš?
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Chci kráčet v nevinnosti srdce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ve svém domě.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nepostavím si před oči
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nic hanebného.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kdo svého bližního v skrytu pomlouvá,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * toho zahubím.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pyšného očima a nadutého srdcem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * toho nesnesu. R. mnou.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Svým zrakem budu hledat věrné v zemi,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * aby přebývali se
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kdo kráčí životem bezúhonně,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ten mi bude sloužit.
 
 %% use: responsum

@@ -10,59 +10,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Pochválen buď Hospodin, Bůh Izraele, neboť navštívil svůj lid.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vzbudil nám mocného spasitele,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * z rodu svého služebníka Davida,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: jak slíbil od pradávna
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ústy svých svatých proroků.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zachránil nás od nepřátel,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * z rukou všech, kdo nás nenávidí.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Slitoval se nad našimi otci,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * rozpomenul se na svou svatou smlouvu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Na přísahu, kterou se zavázal že nám dopřeje, abychom mu beze strachu + našemu otci Abrahámovi:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a vysvobozeni z rukou nepřátel
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: zbožně a spravedlivě sloužili
 
-m: b\breve \bar "||"
+m: bB ||
 t: * po všechny dny svého života.
 
 %% use: responsum

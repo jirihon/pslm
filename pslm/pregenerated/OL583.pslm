@@ -8,69 +8,69 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: V Boha důvěřuji, nebudu se bát.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Smiluj se nade mnou, Bože, neboť člověk po mně šlape,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * stále mě tísní bojem.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Stále po mně šlapou moji protivníci,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * je jich hodně, kdo proti mně brojí.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ty sám si zapiš mou bídu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vpiš mé slzy do svého záznamu, + mé trampoty do svého svitku!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pak ustoupí moji nepřátelé,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kdykoli tě budu volat; + vím velmi dobře, že Bůh je pro mě!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: V Boha, jehož slib velebím,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v Hospodina, jehož slib velebím,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: v Boha důvěřuji a nebudu se bát,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * co mi může udělat člověk?
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bože, jsem ti zavázán sliby,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * přinesu ti děkovnou oběť.
 
 %% use: responsum

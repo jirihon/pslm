@@ -10,59 +10,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Opustil jsi Boha, který tě zplodil.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Na Skálu, která tě zrodila, jsi zapomněl,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * opustil jsi Boha, který tě zplodil.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin to viděl a zavrhl je,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * rozhněval se na své syny a dcery.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pravil: „Skryji svou tvář před nimi,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * uvidím, co se s nimi stane,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: neboť je to zvrácené pokolení,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * synové, jimž nelze věřit.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Popudili mě k žárlivosti kvůli tomu, kdo není Bůh,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * rozhněvali mě svými modlami.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nuže, já je popudím k žárlivosti kvůli tomu, kdo není národ,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kvůli pošetilému lidu je rozhněvám.“
 
 %% use: responsum

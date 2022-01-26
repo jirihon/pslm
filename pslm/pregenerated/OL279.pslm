@@ -8,25 +8,25 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Radostí zajásám v Pánu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Důvěřuji v tvé slitování,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pro tvou pomoc ať zaplesá mé srdce.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zazpívám Hospodinu, který mě zahrnul dobrem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * opěvovat budu jméno nejvyššího Pána.
 
 %% use: responsum

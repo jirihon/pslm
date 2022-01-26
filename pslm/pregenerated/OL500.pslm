@@ -8,51 +8,51 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Miluji tě, Hospodine, má sílo!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Miluji tě, Hospodine, má sílo,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodine, má skálo, mé útočiště, zachránce můj!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Můj Bože, má skálo, na niž se utíkám,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * můj štíte, rohu mé spásy, ochrano má!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Budu vzývat Hospodina, jemuž náleží chvála,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a od svých nepřátel budu vysvobozen.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať žije Hospodin, (+) požehnána buď moje Skála,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * sláva buď Bohu, mému spasiteli!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Veliká vítězství jsi popřál svému králi,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * dáváš přízeň svému pomazanému.
 
 %% use: responsum

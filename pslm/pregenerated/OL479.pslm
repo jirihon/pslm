@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodin je milosrdný a milostivý.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Veleb, má duše, Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vše, co je ve mně, veleb jeho svaté jméno!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Veleb, má duše, Hospodina
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a nezapomeň na žádné z jeho dobrodiní!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: On odpouští všechny tvé viny,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * on léčí všechny tvé neduhy.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: On vykupuje tvůj život ze záhuby,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * on tě věnčí láskou a slitováním.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin koná spravedlivé skutky,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zjednává právo všem utlačeným.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Oznámil své plány Mojžíšovi,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * izraelským synům své skutky.
 
 %% use: responsum

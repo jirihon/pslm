@@ -8,103 +8,103 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Pán Bůh mu dá trůn jeho otce Davida.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: da,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jeho starostlivost,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: jak přísahal Hospodinu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * sliboval Mocnému Jakubovu:
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: „Nevkročím do svého obytného domu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nevstoupím na své připravené lůžko,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: nepopřeji spánku svým očím,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * svým víčkům odpočinku,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: dokud nenaleznu místo pro Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * příbytek Mocnému Jakubovu.“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Přísahal Hospodin Davidovi
 
-m: b\breve \bar "||"
+m: bB ||
 t: * s věrností, kterou neporuší:
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: „Potomka z tvého rodu
 
-m: b\breve \bar "||"
+m: bB ||
 t: * dosadím na tvůj trůn.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Budouli tvoji synové dbát na mou smlouvu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * na mé příkazy, kterým je naučím ,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: též jejich synové na věky
 
-m: b\breve \bar "||"
+m: bB ||
 t: * budou sedět na tvém trůně!“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť Hospodin si vyvolil Sión,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * přál si ho mít za své sídlo:
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: „To je můj příbytek na věk,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zde budu sídlit, ten jsem si zvolil.“
 
 %% use: responsum

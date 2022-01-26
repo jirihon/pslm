@@ -9,35 +9,35 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodin kraluje, oděl se velebností.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin kraluje, oděl se velebností,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * oděl se Hospodin, opásal se mocí.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Dal světu základ, že nezakolísá.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Pevný je trůn tvůj od pradávna, jsi od věčnosti.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tvé výroky jsou nejvýš spolehlivé,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tvému domu přísluší svatost, Hospodine, na věčné časy.
 
 %% use: responsum

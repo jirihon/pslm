@@ -8,69 +8,69 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Ze záhuby vysvobodíš můj život, Hospodine!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ve své tísni jsem volal k Hospodinu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a on mě vyslyšel.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Z lůna podsvětí jsem křičel,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a slyšel jsi můj hlas.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Do hlubiny, doprostřed moře jsi mě vrhl,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * proud mě obklíčil,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: všechny tvé příboje a vlny
 
-m: b\breve \bar "||"
+m: bB ||
 t: * se přes mě převalily.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Řekl jsem si: (+) „Jsem zavržen od tvých očí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ale znovu spatřím tvůj svatý chrám.“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Když zmalátněla má duše,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vzpomněl jsem si na Hospodina
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: a modlitba má přišla k tobě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * do tvého svatého chrámu.
 
 %% use: responsum

@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Budu velebit tvé jméno, můj Bože, králi.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Každý den tě budu velebit
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a chválit tvé jméno po všechny věky.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Veliký je Hospodin a veškeré chvály hodný,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jeho velikost je nevýstižná.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jedno pokolení zvěstuje druhému tvé činy
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a oznamuje tvoji moc.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Mluví o nádherné slávě tvé vznešenosti,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * rozmlouvají o tvých divech.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vypravují o moci tvých hrozivých skutků,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * hovoří o tvé nesmírnosti.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Rozhlašují chválu tvé velké laskavosti,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jásají nad tvou spravedlností.
 
 %% use: responsum

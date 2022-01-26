@@ -12,45 +12,45 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: :
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin řekl mému Pánu:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * „Seď po mé pravici, + dokud nepoložím tvé nepřátele za podnož tvým nohám.“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Žezlo moci ti podává Hospodin ze Siónu:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * „Panuj uprostřed svých nepřátel!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ode dne zrození je ti určeno vládnout v posvátném lesku:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zplodil jsem tě jako rosu před jitřenkou.“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin přísahal a nebude toho litovat:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * „Ty jsi kněz na věky podle Melchizedechova řádu!“
 
 %% use: responsum

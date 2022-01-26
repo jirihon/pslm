@@ -8,53 +8,53 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Svou starost hoď na Hospodina, a on tě zachová.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Říkám si: Kéž bych měl křídla jak holub,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * odletěl bych a dopřál si klidu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hle, daleko bych utekl,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zůstal bych na poušti.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Rychle bych spěchal do útočiště + před vichrem a bouří.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Pane, zmať a rozděl jim jazyky.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vždyť vidím násilí a svár ve městě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ve dne v noci obcházejí po jeho hradbách.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Svou starost hoď na Hospodina, + a on tě zachová,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nikdy nedopustí, aby se viklal spravedlivý.
 
 %% use: responsum

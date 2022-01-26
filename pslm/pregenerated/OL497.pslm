@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Pamatuj na nás, Hospodine, pro náklonnost k svému lidu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hřešili jsme jako naši otcové,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * páchali jsme nepravost, jednali bezbožně.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Naši otcové v Egyptě
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nechápali tvé divy.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Brzy zapomněli na Hospodinovy skutky,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nevyčkali jeho rozhodnutí.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Dali se strhnout žádostivostí na poušti,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pokoušeli Boha na pustině.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zapomněli na Boha, který je zachránil,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * který v Egyptě vykonal divy,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: zázraky v Chámově zemi,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * úžasné skutky u Rudého moře.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Rozhodl se, že je zničí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kdyby se Mojžíš, jeho vyvolený, u něho nepřimlouval,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: aby odvrátil jeho hněv,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jímž je chtěl zahubit.
 
 %% use: responsum

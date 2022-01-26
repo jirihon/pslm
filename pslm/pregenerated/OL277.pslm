@@ -8,35 +8,35 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Po své pravici máš královnu ozdobenou ofirským zlatem.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Po své pravici máš královnu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ozdobenou ofirským zlatem.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Slyš, dcero, pohleď a naslouchej,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * sám král touží po tvé kráse.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Provázena radostným jásotem
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vstupuje v královský palác.
 
 %% use: responsum

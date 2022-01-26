@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Blahoslavení chudí v duchu, neboť jejich je království nebeské.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Proč bych se měl bát za dnů neštěstí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * když mě svírá zloba nepřátel,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: kteří spoléhají na svůj majetek
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a chlubí se přemírou bohatství?
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vždyť nikdo sám sebe nevykoupí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * není s to zaplatit Bohu své výkupné.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Cena života je příliš veliká, + nikdy nebude stačit,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * aby člověk žil navěky a neviděl zkázu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboj se, jestliže někdo zbohatne
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a vzroste majetek jeho domu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Až zemře, nic si s sebou nevezme,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nesestoupí s ním jeho jmění.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: I kdyby si za svého života liboval:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * „Budou tě chválit, že sis to dobře zařídil“,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: přece se připojí ke svým předkům,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kteří navěky neuzří světla.
 
 %% use: responsum

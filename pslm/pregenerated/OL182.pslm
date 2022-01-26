@@ -9,51 +9,51 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Chvalte Hospodina, všechny národy!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin miluje, co založil na svatých horách,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * miluje brány Siónu nad všechna Jakubova sídla.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Slavné věci se o tobě vypravují,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * město Boží!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: O Siónu se řekne: (+) „Jeden jako druhý se v něm narodil,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * sám Svrchovaný mu dal pevný základ.“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin zapíše do knihy národů:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * „Tito se tam narodili.“
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Při tanci budou zpívat:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * „Všechna zřídla mé spásy jsou v tobě.“
 
 %% use: responsum

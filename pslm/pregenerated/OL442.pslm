@@ -8,45 +8,45 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Ukaž nám, Pane, světlo svého slitování.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nepřipomínej nám viny předků,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tvé milosrdenství ať nám pospíchá vstříc, + vždyť jsme tak zbědovaní!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pomoz nám, Bože, náš spasiteli, (+) pro slávu svého jména,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vysvoboď nás a odpusť nám hříchy pro své jméno.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať k tobě přijde vzdychání zajatých,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * mocí svého ramene nech naživu odsouzené na smrt.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: My však, tvůj lid a ovce tvé pastvy,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * budem tě chválit na věky, + po všechna pokolení budem vypravovat o tvé slávě.
 
 %% use: responsum

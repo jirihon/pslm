@@ -8,57 +8,57 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Jeruzaléme, oslavuj Hospodina!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jeruzaléme, o na, chval svého Boha, Sióne,slavuj Hospodi
 
-m: b\breve \bar "||"
+m: bB ||
 t: * 
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: že zpevnil závory tvých bran,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * požehnal tvým synům v tobě.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Sesílá svůj rozkaz na zemi,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * rychle běží jeho slovo.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Dává sníh jako vlnu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jíní sype jako popel. R. vi, své zákony a přikázání Izraeli.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Oznámil své slovo Jakubo
 
-m: b\breve \bar "||"
+m: bB ||
 t: * 
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tak nejednal se žádným národem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nesdělil jim svá přikázání.
 
 %% use: responsum

@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Nezapomínejte na Boží skutky!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Když vytáhl Izrael z Egypta,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Jakubův dům z cizáckého lidu,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: stal se Juda Boží svatyní,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Izrael Božím panstvím.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Moře to vidělo a prchlo,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Jordán se obrátil nazpět,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: hory poskočily jako berani,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pahorky jako jehňata.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Co je ti, moře, že prcháš,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Jordáne, že se obracíš nazpět,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: hory, proč poskakujete jako berani,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pahorky, proč skáčete jako jehňata?
 
 %% use: responsum

@@ -8,33 +8,33 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Vy jste mými přáteli, budeteli činiti to, co vám přikazuji.
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: bB ||
 t: vstupte před něho s jásotem!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: bB ||
 t: jsme jeho lid a stádce na jeho pastvině.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: bB ||
 t: slavte ho, žehnejte jeho jménu!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: bB ||
 t: po všechna pokolení trvá jeho věrnost.
 
 %% use: responsum

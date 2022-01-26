@@ -9,59 +9,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Blaze muži, který se bojí Hospodina.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Blaze muži, který se bojí Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * který má velkou zálibu v jeho přikázáních.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Mocné bude na zemi jeho potomstvo,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pokolení řádných lidí bude požehnáno.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Blaze muži, který se slitovává a půjčuje,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * stará se o své věci podle práva.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť na věky nezakolísá,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ve věčné paměti bude spravedlivý.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jeho srdce je zmužilé, nebojí se,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * rozděluje, dává chudým,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: jeho štědrost potrvá navždy,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jeho moc poroste v slávě.
 
 %% use: responsum

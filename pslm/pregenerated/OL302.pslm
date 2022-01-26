@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodinovy výroky jsou pravdivé, všechny jsou spravedlivé.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinův zákon je dokonalý,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * občerstvuje duši,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinův příkaz je spolehlivý,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nezkušenému dává moudrost.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinovy předpisy jsou správné,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * působí radost srdci,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinův rozkaz je jasný,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * osvětluje oči.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bázeň před Hospodinem je upřímná,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * trvá na věky,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinovy výroky jsou pravdivé,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * všechny jsou spravedlivé.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Dražší jsou nad zlato,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nad hojnost zlata ryzího,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: sladší jsou nad med,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nad šťávu z plástů.
 
 %% use: responsum

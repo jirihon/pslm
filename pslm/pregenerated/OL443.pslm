@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Země je plná Hospodinovy milosti.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Citerou oslavujte Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * hrajte mu na desetistrunné harfě.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zpívejte mu novou píseň,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * dovedně sáhněte do strun, (+) slavnostně je rozezvučte!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť Hospodinovo slovo je správné,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * spolehlivé je celé jeho dílo.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Miluje spravedlnost a právo,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * země je plná Hospodinovy milosti.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jeho slovem vznikla nebesa,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * dechem jeho úst všechen jejich zástup.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vodstva moří shrnuje jako do měchu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * do nádrží slévá oceány.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nechť se bojí Hospodina celá země,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * všichni obyvatelé světa ať se před ním děsí.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: On totiž řekl a stalo se,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * on poručil a vše povstalo.
 
 %% use: responsum

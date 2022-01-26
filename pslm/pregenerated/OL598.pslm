@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Ústa spravedlivého mluví moudře.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinu svěř svůj osud,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v něho důvěřuj, on sám bude jednat.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tvé spravedlnosti dá vzejít jako světlu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tvému právu jak polednímu jasu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ústa spravedlivého mluví moudře,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jeho jazyk hovoří, co je správné.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Boží zákon mu ovládá srdce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * proto nevrávorají jeho kroky.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Spravedlivým přichází spása od Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v dobách tísně je jim útočištěm.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin jim pomáhá a je vysvobozuje,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * bezbožníků je zbavuje a chrání je, + protože se k němu utíkají.
 
 %% use: responsum

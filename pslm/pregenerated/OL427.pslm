@@ -9,61 +9,61 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Tys mé útočiště, zahrneš mě radostí ze záchrany.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Šťastný je ten, komu byla odpuštěna nepravost,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jehož hřích je přikryt.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Šťastný je člověk, kterému Hospodin nepřičítá vinu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v jehož duši není klamu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vyznal jsem se ti ze svého hříchu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * svou nepravost jsem nezatajil.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Řekl jsem:(+)„Vyznávám se Hospodinu ze své ničemnosti.“
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tys odpustil, co jsem zavinil hříchem.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Proto se bude k tobě modlit každý zbožný v čas tísně.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Až budou dorážet přívaly vod, + k němu nedosáhnou.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tys mé útočiště, ušetříš mě úzkostí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zahrneš mě radostí ze záchrany.
 
 %% use: responsum

@@ -8,51 +8,51 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Blaze muži, který se bojí Hospodina.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Blaze muži, který se bojí Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * který má velkou zálibu v jeho přikázáních.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Mocné bude na zemi jeho potomstvo,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pokolení řádných lidí bude požehnáno.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hojnost a bohatství budou v jeho domě
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a jeho štědrost potrvá navždy.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Září v temnotách jako světlo řádným lidem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * je milosrdný, dobrotivý a spravedlivý.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Rozděluje, dává chudým,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jeho štědrost potrvá navždy, + jeho moc poroste v slávě.
 
 %% use: responsum

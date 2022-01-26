@@ -9,41 +9,41 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Blaze každému, kdo se bojí Hospodina.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Blaze každému, kdo se bojí Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kdo kráčí po jeho cestách.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Budeš jísti z výtěžku svých rukou,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * bude ti blaze a dobře.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hle, tak bývá požehnán muž,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * který se bojí Hospodina.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať ti Hospodin požehná ze Siónu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * abys viděl štěstí Jeruzaléma (+) po všechny dny svého života.
 
 %% use: responsum

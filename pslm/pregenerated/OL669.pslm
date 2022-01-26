@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Nezapomínejte na Boží skutky!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pokoušeli a dráždili Boha, Nejvyššího,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a nedbali na jeho přikázání.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Odpadli a byli nevěrní jako jejich otcové,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zklamali jak zrádný luk.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Do hněvu ho přiváděli svými oběťmi na výšinách,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * svými modlami vzbudili jeho žárlivost.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bůh to slyšel a rozhněval se,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ostře odmítl Izraele.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vydal do zajetí svou sílu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * svou slávu v moc protivníka.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Odevzdal svůj národ meči,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * proti svému dědictví vzplanul hněvem.
 
 %% use: responsum

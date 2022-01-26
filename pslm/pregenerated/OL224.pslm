@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Nebeský pokrm dal jim Hospodin.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Co jsme slyšeli a poznali,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * co nám otcové vyprávěli,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: příštímu pokolení budeme vypravovat
 
-m: b\breve \bar "||"
+m: bB ||
 t: * slavné Hospodinovy činy i jeho moc.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Poručil mrakům nahoře
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a otevřel brány nebes,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: seslal na ně déšť many, aby se najedli,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a dal jim nebeský pokrm.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Člověk jedl chléb silných,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pokrm jim poslal do sytosti.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Přivedl je do své svaté země,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * k horám, které získala jeho pravice.
 
 %% use: responsum

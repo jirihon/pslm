@@ -8,50 +8,50 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Na věky chci zpívat o Hospodinových milostech.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kdysi ve vidění jsi mluvil „Jinochu jsem dal přednost ke svým zbožným a řekls: před bojovníkem, +
 
-m: b\breve \bar "||"
+m: bB ||
 t: * povýšil jsem vyvoleného z lidu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nalezl jsem Davida, svého služebníka,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pomazal jsem ho svým svatým olejem,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: pevně ho drží má ruka
 
-m: b\breve \bar "||"
+m: bB ||
 t: * i mé rámě ho posiluje.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Má věrnost a láska ho budou provázet,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ve jménu mém zmohutní jeho síla.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Položím jeho ruku na moře a na řeky jeho pravici.“ R.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * 
 

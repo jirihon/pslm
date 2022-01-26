@@ -8,51 +8,51 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Až procitnu, Hospodine, nasytím se pohledem na tebe.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Slyš, Hospodine, spravedlivou žádost,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * všimni si mého nářku, + popřej sluchu mé modlitbě z bezelstných rtů!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Mé kroky pevně setrvaly na tvých stezkách,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nezakolísaly mé nohy.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Volám k tobě, protože mě vyslyšíš, Bože,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * popřej mi sluchu, slyš mé slovo!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Opatruj mě jako zřítelnici oka,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * do stínu svých perutí mě ukryj.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Já však ve spravedlnosti uzřím tvou tvář,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * až procitnu, nasytím se pohledem na tebe.
 
 %% use: responsum

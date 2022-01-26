@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Všechno, co dýchá, ať chválí Hospodina!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Chvalte Hospodina v jeho svatyni,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * chvalte ho na jeho vznešené obloze!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Chvalte ho pro jeho mocná díla,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * chvalte ho pro jeho svrchovanou velebnost!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Chvalte ho hlaholem polnice,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * chvalte ho harfou a citerou!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Chvalte ho bubnem a tancem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * chvalte ho strunnými nástroji a flétnou!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Chvalte ho zvučnými cimbály,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * chvalte ho cimbály hlučnými!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Všechno, co dýchá,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať chválí Hospodina!
 
 %% use: responsum

@@ -9,51 +9,51 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Ty jsi, Hospodine, mým dědičným podílem.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ochraň mě, Bože, neboť se k tobě utíkám.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Pravím Hospodinu: „Ty jsi můj Pán.“
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ty jsi, Hospodine, mým dědičným podílem i mou číší,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ty mně zachováváš můj úděl.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Velebím Hospodina, že mi byl rádcem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * k tomu mě i za noci vybízí mé nitro.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodina mám neustále na zřeteli,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nezakolísám, když je mi po pravici.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ukážeš mi cestu k životu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * u tebe je hojná radost, + po tvé pravici je věčná slast.
 
 %% use: responsum

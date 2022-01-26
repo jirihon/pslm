@@ -8,24 +8,24 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Jděte do celého světa a hlásejte evangelium.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Chvalte Hospodina, všichni lidé,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * oslavujte ho, všechny národy. R. ství a Hospodinova věrnost trvá na věky.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť mocně vládne nad námi jeho milosrden
 
-m: b\breve \bar "||"
+m: bB ||
 t: * 
 

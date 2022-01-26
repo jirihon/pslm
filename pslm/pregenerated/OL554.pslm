@@ -9,41 +9,41 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Důvěřuji v tvé slitování, Hospodine!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Shlédni a vyslyš mě, Hospodine, můj Bože!
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Rozjasni mé oči, ať neusnu v smrti,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: aby neřekl můj nepřítel: „Zdolal jsem ho!“
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Ať nejásají moji protivníci, že jsem klesl.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Já však důvěřuji v tvé slitování,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pro tvou pomoc ať zaplesá mé srdce,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: zazpívám Hospodinu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * který mě zahrnul dobrem.
 
 %% use: responsum

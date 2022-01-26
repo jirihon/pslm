@@ -9,51 +9,51 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Spravedlivý bude, Pane, přebývat na tvé svaté hoře.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kdo žije bez vady a koná spravedlnost,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * upřímně smýšlí ve svém srdci, + svým jazykem nepomlouvá.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nečiní příkoří svému bližnímu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * netupí svého souseda.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nešlechetným člověkem pohrdá,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ale váží si těch, kdo se bojí Hospodina.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nelichvaří svými penězi
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a nebere úplatky proti nevinnému.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kdo takto jedná,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nikdy nezakolísá!
 
 %% use: responsum

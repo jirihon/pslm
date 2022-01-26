@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Plesejte Bohu, který nám pomáhá.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nesmíš mít boha jiného,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nesmíš se klanět bohu cizímu!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Já jsem Hospodin, tvůj Bůh,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * já jsem tě vyvedl z egyptské země!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: le můj národ nedbal na můj hlas,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Izrael mě neposlouchal.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nechal jsem je tedy v zatvrzelosti jejich srdce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať si žijí podle svých nápadů!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kéž by mě můj národ slyšel,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kéž by Izrael kráčel po mých cestách!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hned bych pokořil jejich nepřátele,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * na jejich protivníky bych obrátil svou ruku.
 
 %% use: responsum

@@ -8,67 +8,67 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodinu chci zpívat, neboť je velmi vznešený.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Dechem tvých nozder se nakupily vody,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jako hráz se vztyčily proudící vlny,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: příboje ztuhly uprostřed moře.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Nepřítel řekl: „Budu pronásledovat a dostihnu;
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: rozdělím kořist, naplní se jí má touha:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vytasím svůj meč, má ruka je zahubí!“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tu zavál tvůj hněv, a přikrylo je moře;
 
-m: b\breve \bar "||"
+m: bB ||
 t: * potopili se jak olovo v bouřných vodách.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vztáhl jsi svou pravici,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a pohltila je země.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Přivedeš a zasadíš svůj lid na hoře, na svém vlastnictví,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * na místě, kde si, Hospodine, buduješ své sídlo,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: ve svatyni, Pane, kterou vystavěly tvé ruce.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodin bude kralovat na věky a navždy.
 
 %% use: responsum

@@ -9,77 +9,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Okuste a vizte, jak je Hospodin dobrý.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ustavičně chci velebit Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vždy bude v mých ústech jeho chvála.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: V Hospodinu nechť se chlubí moje duše,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať to slyší pokorní a radují se.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bojte se Hospodina, jeho svatí!
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Těm, kdo se ho bojí, nic nechybí.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Mocní strádají a hynou hlady,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nic nechybí těm, kdo hledají Hospodina.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pojďte, synové, a slyšte mě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * naučím vás bát se Hospodina.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Miluje kdo život?
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Přeje si dny štěstí?
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zdržuj svůj jazyk od zlého,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * své rty od falešných slov.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Chraň se zlého a čiň dobré,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * hledej pokoj a usiluj o něj!
 
 %% use: responsum

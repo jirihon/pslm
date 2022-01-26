@@ -8,65 +8,65 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Jak miluji tvůj zákon, Hospodine.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jak miluji tvůj zákon, Hospodine!
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Po celý den o něm rozjímám.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Moudřejším nad mé nepřátele mě učinil tvůj předpis,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť na věky je se mnou.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Rozumnější jsem nad všechny své učitele,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť rozjímám o tvých přikázáních.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Rozvážnější jsem nad starce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť zachovávám tvá nařízení.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zadržuji své nohy od každé zlé cesty,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * abych dbal na tvá slova.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neuchyluji se od tvých rozhodnutí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * protože tys mě poučil.
 
 %% use: responsum

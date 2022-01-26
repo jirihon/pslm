@@ -9,59 +9,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Chvalte Hospodina, který uzdravuje ty, jimžpuká srdce.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Chvalte Hospodina, neboť je dobrý,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * opěvujte našeho Boha, neboť je milý, (+) zaslouží si chvály.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin buduje Jeruzalém,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * shromažďuje rozptýlené z Izraele.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Uzdravuje ty, jimž puká srdce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a obvazuje jejich rány.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Určuje počet hvězd,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * každou z nich nazývá jménem.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Velký je náš Pán a přemocný,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jeho moudrost je bez míry.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pokorné Hospodin pozvedá,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * bezbožné však ponižuje k zemi.
 
 %% use: responsum

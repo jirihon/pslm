@@ -9,59 +9,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Naše duše vyvázla jako pták z ptáčníkovy léčky.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kdyby Hospodin nebyl s námi,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * když se na nás lidé obořili,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: zaživa by nás pohltili,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * když jejich hněv vzplál proti nám.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Voda by nás byla zatopila,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * příval by se byl přelil přes nás,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: přes nás by se převalily
 
-m: b\breve \bar "||"
+m: bB ||
 t: * rozbouřené vody.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Léčka se přetrhla,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a my jsme volní.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Naše pomoc je ve jménu Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * který učinil nebe a zemi.
 
 %% use: responsum

@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Děkujte Hospodinu, neboť je dobrý, jeho milosrdenství trvá na věky.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jásot ze spásy
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zní ve stanech spravedlivých.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinova pravice mocně zasáhla,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodinova pravice mě pozvedla.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Otevřete mně brány spravedlnosti,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vejdu jimi, abych vzdal díky Hospodinu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Toto je Hospodinova brána,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jí procházejí spravedliví.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kámen, který stavitelé zavrhli,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * stal se kvádrem nárožním.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinovým řízením se tak stalo,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * je to podivuhodné v našich očích.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bůh je Hospodin
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a dopřál nám světlo.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Seřaďte průvod s hojnými ratolestmi
 
-m: b\breve \bar "||"
+m: bB ||
 t: * až k rohům oltáře!
 
 %% use: responsum

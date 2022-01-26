@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodine, tvá dobrota trvá na věky, dílo svých rukou neopouštěj!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Chci tě chválit, Hospodine, celým svým srdcem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * žes vyslyšel slova mých úst.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Budu ti hrát před anděly,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vrhnu se na tvář směrem k tvému svatému chrámu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Slavit budu tvé jméno
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pro tvou dobrotu a tvou věrnost.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Když jsem volal, vyslyšels mě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v mé duši jsi rozhojnil sílu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jistě, vznešený je Hospodin, (+) a přece shlíží na pokorného,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pyšného však zdaleka pozn.á.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodine, tvá dobrota trvá na věky,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * dílo svých rukou neopouštěj!
 
 %% use: responsum

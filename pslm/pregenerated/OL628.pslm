@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Smiluj se, Pane, neboť jsme zhřešili.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Smiluj se nade mnou, Bože, pro své milosrdenství,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pro své velké slitování zahlaď mou nepravost.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Úplně ze mě smyj mou vinu
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a očisť mě od mého hříchu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť já svou nepravost uznávám,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * můj hřích je stále přede mnou.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jen proti tobě jsem se prohřešil,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * spáchal jsem, co je před tebou zlé.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Odvrať svou tvář od mých hříchů
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a zahlaď všechny mé viny.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zbav mě, Bože, trestu za prolitou krev, Bože, můj spasiteli,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať zajásá můj jazyk nad tvou spravedlností.
 
 %% use: responsum

@@ -9,59 +9,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Ty nás, Hospodine, ochráníš.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pomoz, Hospodine, zbožných ubývá,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * mezi lidmi se vytrácí věrnost.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Klamou se navzájem falešnými slovy,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * hovoří úlisným rtem, dvojakým srdcem.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nechť Hospodin každý úlisný ret zničí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jazyk, který chlubivě mluví,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: ty, kteří říkají: „Naše síla je v jazyku,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * rty máme k vlastnímu prospěchu;kdo je náš pán?“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinovy výroky jsou upřímná slova,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ryzí stříbro, zbavené hlíny, sedmkrát tříbené.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ty nás, Hospodine, ochráníš
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a zachováš navždy před tímto pokolením.
 
 %% use: responsum

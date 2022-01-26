@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Sešli svého ducha, Hospodine, a obnovíš tvář země.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Veleb, má duše, Hospodina!
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodine, můj Bože, jsi nadmíru veliký!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Velebností a vznešeností ses oděl,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * světlem se halíš jako pláštěm.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jak četná jsou tvá díla, Hospodine!
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Všechno jsi moudře učinil,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: země je plná tvého tvorstva.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Veleb, má duše, Hospodina!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Všichni čekají od tebe,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * že jim dáš obživu v pravý čas.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ty jim dáváš, a oni sbírají,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * otvíráš ruku, a sytí se dobrými dary.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hynou, když vezmeš jim život,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a vracejí se do svého prachu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Když sešleš svého ducha, jsou stvořeni,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a obnovuješ tvář země.
 
 %% use: responsum

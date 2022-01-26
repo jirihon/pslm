@@ -8,95 +8,95 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Okuste a vizte, jak je Hospodin dobrý.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ustavičně chci velebit Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vždy bude v mých ústech jeho chvála.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: V Hospodinu nechť se chlubí moje duše,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať to slyší pokorní a radují se.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinovy oči hledí na spravedlivé,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * k jejich volání se kloní jeho sluch.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinův hněv stíhá ty, kdo páchají zlo,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * aby vyhladil ze země vzpomínku na ně.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Spravedliví volali, a Hospodin slyšel,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vysvobodil je z každé jejich tísně.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Blízko je Hospodin těm, kdo mají zkroušené srdce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * na duchu zlomené zachraňuje.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Spravedlivý mívá mnoho soužení,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodin však ho ze všech vyprostí.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Chrání všechny jeho kosti,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ani jedna z nich se nezlomí.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zloba uštve bezbožníka k smrti,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kdo nenávidí spravedlivého, budou potrestáni.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin zachraňuje duše svých služebníků,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nebudou pykat, kdo se k němu utíkají.
 
 %% use: responsum

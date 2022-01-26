@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Bože, ve své dobrotě ses postaral o chudáka.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bůh povstává, jeho nepřátelé se rozptylují,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ti, kdo ho nenávidí, prchají před ním,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: tratí se, jako se rozplývá dým,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jako taje vosk před ohněm, + tak hříšníci hynou před Bohem.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Spravedliví se však radují, jásají před Bohem
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a veselí se v radosti.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zpívejte Bohu, velebte jeho jméno,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jeho jméno je Hospodin.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Otec sirotků, ochránce vdov
 
-m: b\breve \bar "||"
+m: bB ||
 t: * je Bůh ve svém svatém příbytku.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bůh zjednává opuštěným domov,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vězně vyvádí k šťastnému životu.
 
 %% use: responsum

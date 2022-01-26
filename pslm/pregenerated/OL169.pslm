@@ -8,67 +8,67 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Věřím, že uvidím blaho od Hospodina v zemi živých!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: 2. Ž 27 (26) 1S. Hospodin je mé světlo a má spása,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * koho bych se bál?
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin je záštita mého života,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * před kým bych se třásl?
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jedno od Hospodina žádám
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a po tom toužím:
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: abych směl přebývat v Hospodinově domě po všechny dny svého života,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * 
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: abych požíval Hospodinovy něhy
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a patřil na jeho chrám.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Slyš, Hospodine, můj hlas, jak volám,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * smiluj se nade mnou, vyslyš mě!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Mé srdce k tobě mluví,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * má tvář tě hledá.
 
 %% use: responsum

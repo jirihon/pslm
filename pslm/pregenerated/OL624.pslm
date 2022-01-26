@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Semeno padlo na dobrou půdu a přineslo užitek.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: V milosti jsi navštívil zem a napojils ji,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * velmi jsi ji obohatil.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Boží strouhou se hrne voda,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * lidem nachystals obilí.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Takto jsi zemi připravil:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zavlažils její brázdy, + rozmělnils její hroudy,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: zkypřils ji dešti,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * požehnals tomu, co vyrašilo.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Rok jsi korunoval svou dobrotou,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kudy jsi prošel, prýští hojnost.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pastviny na stepi mokvají vláhou,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pahorky se ovíjejí radostí.
 
 %% use: responsum

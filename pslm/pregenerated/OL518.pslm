@@ -8,25 +8,25 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Stále spoléhám na Boží slitovnost.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jsem jako zelená oliva v Božím domě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * stále se spoléhám na Boží slitovnost.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ustavičně tě chci chválit, že jsi to učinil,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * před tvými svatými chci slavit tvé jméno, (+) neboť je dobré.
 
 %% use: responsum

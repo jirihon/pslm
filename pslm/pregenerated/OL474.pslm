@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Ať spočine na nás, Hospodine, tvé milosrdenství, jak doufáme v tebe.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Citerou oslavujte Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * hrajte mu na desetistrunné harfě.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zpívejte mu novou píseň,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * dovedně sáhněte do strun, (+) slavnostně je rozezvučte!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Plány pohanů maří Hospodin,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v nic uvádí myšlení národů.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinův úmysl trvá na věky,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * myšlenky jeho srdce po všechna pokolení.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinovo oko bdí nad těmi, kdo se ho bojí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nad těmi, kdo doufají v jeho milost,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: aby jejich duše vyrval ze smrti,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * aby jim život zachoval za hladu.
 
 %% use: responsum

@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Vysvoboď nás, Pane, pro svou lásku!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nyní jsi nás zavrhl a zahanbil,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * netáhneš už, Bože, s našimi vojsky.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Dopustil jsi, že jsme utíkali před odpůrci,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nabrali si lupu ti, kdo nás nenávidí.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Našim sousedům jsi nás vydal na pohanu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * našemu okolí v potupu a posměch.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Dopustils, že jsme se stali pro národy pořekadlem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pohané nad námi posměšně kývají hlavou.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vzbuď se, proč spíš, Pane?
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Probuď se, neodháněj nás navždy!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Proč skrýváš svou tvář,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zapomínáš na naši bídu a útisk?
 
 %% use: responsum

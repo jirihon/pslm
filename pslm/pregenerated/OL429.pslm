@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Kdo žije správně, tomu ukážu Boží spásu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Svrchovaný Bůh, Hospodin, promluvil a volal zem
 
-m: b\breve \bar "||"
+m: bB ||
 t: * od východu slunce až na západ.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: „Nekárám tě pro tvé oběti,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vždyť tvé žertvy jsou stále přede mnou.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Proč odříkáváš má přikázání
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a bereš do úst mou smlouvu
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: ty, který nenávidíš kázeň
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a má slova házíš za sebe?
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bavil ses pomlouváním svého bratra,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tupil jsi syna své matky.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Takto jsi jednal, a já mám mlčet? + Myslil jsi, že jsem jako ty?
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Usvědčím tě a řeknu ti to do očí!“
 
 %% use: responsum

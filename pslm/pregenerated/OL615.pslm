@@ -8,51 +8,51 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Buď se mnou, Pane, v mé tísni.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kdo přebýváš v ochraně Nejvyššího,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kdo dlíš ve stínu Všemocného,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: řekni Hospodinu: (+) „Jsi mé útočiště a má tvrz,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * můj Bůh, v něhož doufám!“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: „Vysvobodím ho, protože lne ke mně,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ochráním ho, protože zná mé jméno.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vyslyším ho, až mě bude vzývat,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * budu při něm v tísni.“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zachráním ho a oslavím, + nasytím ho dlouhým věkem
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a ukáži mu svou spásu.
 
 %% use: responsum

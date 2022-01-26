@@ -8,41 +8,41 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Pán mě udržuje naživu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bože, zachraň mě pro své jméno,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * svou mocí zjednej mi právo!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bože, slyš moji modlitbu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * popřej sluchu slovům mých úst!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hle, Bůh mi pomáhá,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Pán mě udržuje naživu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Budu s radostí přinášet oběti,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * chválit tvé jméno, Hospodine, že je dobré.
 
 %% use: responsum

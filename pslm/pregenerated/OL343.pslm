@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodine, slyš mou modlitbu a volání mé ať k tobě pronikne!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodine, slyš moji modlitbu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pro svou věrnost popřej sluchu mé úpěnlivé prosbě, + vyslyš mě pro svou spravedlnost.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nepoháněj na soud svého služebníka,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nikdo z živých není před tebou spravedlivý.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vzpomínám si na dávné dny,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * uvažuji o všech tvých činech, + myslím na skutky tvých rukou.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Rozpínám k tobě své ruce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * má duše po tobě žízní jak vyprahlá země.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Rychle mě vyslyš, Hospodine,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť můj duch malátní.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Dej, ať záhy dojdu tvé milosti,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vždyť v tebe doufám.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pouč mě, abych konal tvou vůli,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vždyť ty jsi můj Bůh!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Dobrotivý je tvůj duch,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať mě vede rovným krajem.
 
 %% use: responsum

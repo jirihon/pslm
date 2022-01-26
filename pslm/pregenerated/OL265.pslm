@@ -8,67 +8,67 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Vyslyš mě, Bože, ve své veliké lásce!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Více než mám vlasů na hlavě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * je těch, kteří mě bez důvodu nenávidí,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: silnější než mé kosti
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jsou ti, kteří mě stíhají bez příčiny.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nechť nejsou kvůli mně zklamáni,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kdo doufají v tebe, Pane,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: nechť kvůli mně nejsou zbaveni naděje,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kdo hledají Tebe, Bože Izraele!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vždyť pro tebe jsem snášel potupu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pohana pokryla mou tvář.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vysvoboď mě od těch, kteří nenávidí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vytáhni mě z hluboké vody!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Písní budu slavit Boží jm éno,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * velebit je budu zpěvem chvály.
 
 %% use: responsum

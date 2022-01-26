@@ -10,49 +10,49 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodine, ty mě zkoumáš a znáš.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodine, ty mě zkoumáš a znáš,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ty víš, když sedám i když vstávám.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Poznáváš mé myšlenky již zdálky;
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať jdu nebo ležím, ty to určuješ, + všímáš sivšech mých cest.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Slovo ještě nemám na jazyku:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * hle, už je znáš, Hospodine, celé. du a kladeš na mě svou dlaň.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Obklopuješ mě zezadu i zepře
 
-m: b\breve \bar "||"
+m: bB ||
 t: * 
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Podivuhodná je pro mě tvá znalost,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vznešená a nepochopitelná.
 
 %% use: responsum

@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Blaze těm, kdo kráčejí v zákoně Hospodinově.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Blaze těm, jejichž cesta je bezúhonná,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kteří kráčejí v zákoně Hospodinově.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Blaze těm, kdo dbají na jeho přikázání,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * hledají ho celým srdcem.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tys, Hospodine, dal svá nařízení,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * aby se jich dbalo svědomitě.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kéž jsou pevné mé cesty,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * abych zachovával tvé příkazy.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Oslavím tě upřímným srdcem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * když se naučím tvým spravedlivým rozhodnutím.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tvé příkazy chci zachovávat,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jenom mě neopouštěj!
 
 %% use: responsum

@@ -8,57 +8,57 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Bože, ve své dobrotě ses postaral o chudáka.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ukaž, Bože, svou moc,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tu moc, Bože, kterou na nás vykonáváš!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať pro tvůj chrám v Jeruzalémě
 
-m: b\breve \bar "||"
+m: bB ||
 t: * přinášejí králové dary!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pozemské říše, zpívejte Bohu, velebte Pána,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * který jezdí po nebesích, po odvěkém nebi!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hle, ozývá se jeho hlas, hlas mocný:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * „Uznejte Boží moc!“ R. nost, jeho moc v oblacích.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nad Izraelem se zjevuje jeho vzneše
 
-m: b\breve \bar "||"
+m: bB ||
 t: * 
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bázeň budí Bůh ze své svatyně, Bůh Izraelův,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * on dává sílu a statečnost svému lidu. + Bůh buď veleben!
 
 %% use: responsum

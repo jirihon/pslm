@@ -9,59 +9,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Blaze těm, kdo kráčejí v zákoně Hospodinově.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: I když se knížata ve schůzce proti mně umlouvají;
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tvůj služebník rozjímá o tvých předpisech.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vždyť tvá přikázání jsou mým potěšením,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tvé příkazy jsou mými rádci.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vyjevil jsem své osudy, a vyslyšels mě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nauč mě svým příkazům!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pouč mě o smyslu svých nařízení
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a budu rozjímat o tvých divech.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Odvrať mě od cesty lži,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * uštědři mi svůj zákon!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vyvolil jsem si cestu pravdy,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * dal jsem přednost tvým rozhodnutím.
 
 %% use: responsum

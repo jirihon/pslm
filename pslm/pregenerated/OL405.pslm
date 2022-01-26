@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Nezapomínejte na Boží skutky!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Co jsme slyšeli a poznali,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * co nám otcové vyprávěli,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: příštímu pokolení budeme vypravovat
 
-m: b\breve \bar "||"
+m: bB ||
 t: * slavné Hospodinovy činy i jeho moc.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Mají to vyprávět svým dětem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * aby vložili svou důvěru v Boha,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: aby nezapomněli na Boží skutky
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a zachovávali jeho nařízení.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Aby nebyli jako jejich otcové,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vzpurné a zatvrzelé pokolení,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: pokolení nestálého srdce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jehož duch nebyl věrný Bohu.
 
 %% use: responsum

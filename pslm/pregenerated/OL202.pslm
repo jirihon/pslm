@@ -8,44 +8,44 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Buď mi, Hospodine, ochrannou skálou!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: vysvoboď mě, jsi spravedlivý!
 
-m: b\breve \bar "|"
+m: bB |
 t: * Popřej mi sluchu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * rychle mě zachraň!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: opevněnou tvrzí k mé záchraně,
 
-m: b\breve \bar "|"
+m: bB |
 t: * vždyť ty jsi má skála a má tvrz,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pro své jméno mě povedeš a budeš řídit.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: zachraň mě svou slitovností.
 
-m: b\breve \bar "|"
+m: bB |
 t: * Vzmužte se a buďte srdnatí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * všichni, kdo spoléháte na Hospodina.
 
 %% use: responsum

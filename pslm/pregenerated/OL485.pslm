@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Nebeský pokrm dal jim Hospodin.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pokoušeli Boha ve svém srdci,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * když žádali pokrm podle své choutky.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pohrdlivě mluvili proti Bohu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * řekli: „Dokáže Bůh prostřít stůl zde na poušti?“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Poručil tedy mrakům nahoře
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a otevřel brány nebes,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: seslal na ně déšť many, aby se najedli,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a dal jim nebeský pokrm.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Člověk jedl chléb silných,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pokrm jim poslal do sytosti.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Východnímu větru dal vanout z nebe
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a svou mocí přivedl vítr od jihu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jak by to prach byl, seslal na ně déšť masa,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jak by to byl mořský písek, dal jim pernaté ptáky.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Padli do jejich tábora,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kolem jejich stanů.
 
 %% use: responsum

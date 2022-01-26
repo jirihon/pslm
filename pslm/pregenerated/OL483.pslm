@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodinu chci zpívat, neboť je velmi vznešený.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Chci zpívat Hospodinu, neboť je velmi vznešený,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * koně i jezdce svrhl do moře.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin je má síla, jej opěvuji, + stal se mou spásou.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * On je můj Bůh, a já ho chválím, + Bůh mého otce, a já ho oslavuji.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin je hrdina ve válce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jeho jméno je Hospodin.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Faraónovy vozy a jeho vojsko svrhl do moře,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * výkvět jeho reků byl potopen v Rákosovém moři.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hlubiny je přikryly,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zřítili se do propasti jako kámen.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tvá pravice, Hospodine, ukazuje svou moc a sílu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tvá pravice, Hospodine, drtí nepřátele.
 
 %% use: responsum

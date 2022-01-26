@@ -8,49 +8,49 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Vyslyš mě, Hospodine, ve své veliké lásce!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Uvědomte si to, ubožáci, a radujte se;
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pookřejte v srdci vy, kdo hledáte Boha!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť Hospodin slyší chudáky,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nepohrdá svými vězni.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nechť ho chválí nebe a země,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * moře a vše, co se v nich hýbe.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť Bůh pomůže Siónu a vystaví judská města:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * budou tam bydlet a obsadí je.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zdědí je potomci jeho služebníků,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * budou tam sídlit, kdo milují jeho jméno.
 
 %% use: responsum

@@ -9,85 +9,85 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodin je můj pastýř, nic nepostrádám.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin je můj pastýř, nic nepostrádám, dává mi prodlévat na svěžích pastvinách, Q
 
-m: b\breve \bar "||"
+m: bB ||
 t: * 
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: vodí mě k vodám, kde si mohu odpočinout.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Občerstvuje mou duši.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vede mě po správných cestách
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pro svoje jméno.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: I kdybych šel temnotou rokle,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nezaleknu se zla, vždyť ty jsi se mnou.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tvůj kyj a tvá hůl,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ty jsou má útěcha.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Prostíráš pro mě stůl
 
-m: b\breve \bar "||"
+m: bB ||
 t: * před zraky mých nepřátel,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: hlavu mi mažeš olejem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * má číše přetéká.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Štěstí a přízeň mě provázejí
 
-m: b\breve \bar "||"
+m: bB ||
 t: * po všechny dny mého života,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: přebývat smím v Hospodinově domě
 
-m: b\breve \bar "||"
+m: bB ||
 t: * na dlouhé, předlouhé časy.
 
 %% use: responsum

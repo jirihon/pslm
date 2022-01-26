@@ -8,60 +8,60 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Chválím tě, že jsem vznikl tak podivuhodně.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodine, ty mě zkoumáš a znáš,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ty víš, když sedám i když vstávám.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Poznáváš mé myšlenky již zdálky;
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať jdu nebo ležím, ty to určuješ, + všímáš si všech mých cest.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tys přece stvořil mé ledví,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * utkal jsi mě v lůně mé matky.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Chválím tě, že jsem vznikl tak podivuhodně,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * úžasná jsou tvoje díla.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zkoumej mě, Bože, a poznej mé srdce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zkoušej mě a poznej mé smýšlení! nou, a veď mě cestou odvěkou!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pohleď, zda jdu cestou špat
 
-m: b\breve \bar "||"
+m: bB ||
 t: * 
 

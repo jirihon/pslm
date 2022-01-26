@@ -9,65 +9,65 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Voď mě po cestě svých předpisů, Hospodine.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Blaze těm, jejichž cesta je bezúhonná,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kteří kráčejí v zákoně Hospodinově.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pouč mě o smyslu svých nařízení
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a budu rozjímat o tvých divech.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vyvolil jsem si cestu pravdy,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * dal jsem přednost tvým rozhodnutím.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pouč mě, ať zachovám tvůj zákon
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a chráním ho celým svým srdcem.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Voď mě po stezce svých předpisů,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť v ní mám zalíbení.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tvůj zákon chci stále střežit,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * na věky a navždy.
 
 %% use: responsum

@@ -13,75 +13,75 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: (v době velikonoční)
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bože, ty jsi můj Bůh,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * snažně tě hld.ám,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: má duše po tobě žízní, (+) mé tělo prahne po tobě
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jak vyprahlá, žíznivá, bezvodá země.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tak toužím spatřit tě ve svatyni,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * abych viděl tvou moc a slávu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vždyť tvá milost je lepší než život,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * mé rty tě budou chválit. R. bě.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tak tě budu velebit ve svém životě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v tvém jménu povznesu své dlaně k modlit
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Má duše se bude sytit jak tukem a morkem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * plesajícími rty zajásají ústa.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť stal ses mým pomocníkem
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a ve stínu tvých křídel jásám.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Má duše lne k tobě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tvá pravice mě podpírá.
 
 %% use: responsum

@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Jak miluji tvůj zákon, Hospodine.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Prohlásil jsem za svůj úděl, Hospodine,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * že budu střežit tvá slova.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Lepší je pro mě zákon tvých úst
 
-m: b\breve \bar "||"
+m: bB ||
 t: * než tisíce ve zlatě a stříbře.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať je mi útěchou tvé milosrdenství,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jak jsi slíbil svému služebníku.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať se mi dostane tvého slitování, abych byl živ,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť tvůj zákon je mé potěšení.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Proto miluji tvé předpisy
 
-m: b\breve \bar "||"
+m: bB ||
 t: * více než zlato, než ryzí zlato.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Proto jsem si vyvolil všechna tvá nařízení,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nenávidím každou falešnou cestu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Podivuhodná jsou tvá přikázání,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * proto je zachovává má duše.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Výklad tvých slov osvěcuje,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * poučuje prosté lidi.
 
 %% use: responsum

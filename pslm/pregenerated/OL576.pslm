@@ -8,83 +8,83 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Mé srdce jásá v Bohu, mém spasiteli.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Mé srdce jásá v Hospodinu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * moje moc se vyvyšuje v mém Bohu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ústa se otvírají proti mým nepřátelům,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť se raduji z tvé pomoci.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Luky siláků se lámou,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ale slabí se opásávají silou.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kdo bývali sytí, ch.léb; kdo hladověli, mohou ustat od práce. dávají se nyní najímat za
 
-m: b\breve \bar "||"
+m: bB ||
 t: * 
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neplodná dostává sedm dětí, matka mnoha synů vadne osamělá. R.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * 
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin usmrcuje i oživuje,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * uvádí do říše smrti a zase přivádí nazpět.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin dává zchudnout, ale i zbohatnout,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ponižuje a povyšuje.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pozvedá z prachu ubožáka,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ze smetiště povyšuje chudáka,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: aby ho posadil mezi knížaty
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a obdařil ho stolcem slávy.
 
 %% use: responsum

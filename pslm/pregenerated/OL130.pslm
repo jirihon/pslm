@@ -8,83 +8,83 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Děkujte Hospodinu, neboť je dobrý, jeho milosrdenství trvá na věky.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Oslavujte Hospodina, neboť je dobrý,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jeho milosrdenství trvá na věky.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin je má síla a statečnost,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * stal se mou spásou.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jásot ze spásy
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zní ve stanech spravedlivých.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinova pravice mocně zasáhla,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodinova pravice mě pozvedla.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nezemřu, ale budu žít
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a vypravovat o Hospodinových činech.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin mě sice těžce ztrestal,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nevydal mě však smrti.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Otevřete mně brány spravedlnosti,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vejdu jimi, abych vzdal díky Hospodinu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Toto je Hospodinova brána,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jí procházejí spravedliví.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Děkuji ti, žes mě vyslyšel
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a stal se mou spásou.
 
 %% use: responsum

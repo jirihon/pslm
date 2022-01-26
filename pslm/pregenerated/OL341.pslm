@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: K tobě pozvedám svou duši, Hospodine.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Rozpomeň se, Hospodine, na své slitování,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * na své milosrdenství, které trvá věčně.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pamatuj na mě ve svém milosrdenství
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pro svou dobrotivost, Hospodine!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ulev mi v úzkostech srdce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vyprosť mě z nesnází!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Popatř na mou bídu a trápení,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * odpusť mi všechny hříchy!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Opatruj mou duši a zachraň mě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať nejsem zahanben, že jsem se utekl k tobě.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať mě chrání nevina a upřímnost,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * oněvadž doufám v tebe, Hospodine!
 
 %% use: responsum

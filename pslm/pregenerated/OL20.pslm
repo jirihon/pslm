@@ -11,59 +11,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Blaze tomu, kdo svou naději vložil do Hospodina.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Blaze tomu, kdo nechodí, jak mu radí bezbožní,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nepostává na cestě, kudy chodí hříšní, + a nezasedá ve shromáždění rouhačů,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: ale má zalíbení v Hospodinově zákoně
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a o jeho zákoně přemítádnem i nocí.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Podobá se tak stromu zasazenému u vodních proudů,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ve svůj čas přináší ovoce,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: listí mu nevadne
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a daří se mu vše, co koná.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jinak je tomu s bezbožnými, zcela jinak:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jsou jako pleva rozvátá větrem,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: vždyť Hospodin dbá o cestu spravedlivých,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ale cesta bezbožných skončí záhubou.
 
 %% use: responsum

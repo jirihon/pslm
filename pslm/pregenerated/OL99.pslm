@@ -11,59 +11,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Proudy bystřin jsou k radosti Božímu městu, přesvatému stánku Nejvyššího.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bůh je naše útočiště a síla,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * osvědčil se jako nejlepší pomocník v nouzi.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Proto se nebojíme, i kdyby se kácela země,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * i kdyby se hory řítily do hlubin moře.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Proudy bystřin jsou k radosti Božímu městu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * přesvatému stánku Nejvyššího,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bůh je v jeho středu, nepohne se,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * od časného jitra ho Bůh bude chránit.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: námi je Hospodin zástupů,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Bůh Jakubův je naší tvrzí.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pojďte, pozorujte Boží skutky,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * které učinil k úžasu země.
 
 %% use: responsum

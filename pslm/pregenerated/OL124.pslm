@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Toto je den, který připravil Pán, jásejme a radujme se z něho!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Oslavujte Hospodina, neboť je dobrý, jeho milosrdenství trvá na věky.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * 
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nechť řekne dům Izraelův:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * „Jeho milosrdenství trvá na věky.“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinova pravice mocně zasáhla,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodinova pravice mě pozvedla.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nezemřu, ale budu žít
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a vypravovat o Hospodinových činech.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kámen, který stavitelé zavrhli,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ......................................... stal se kvádrem nárožním.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinovým řízením se tak stalo,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * je to podivuhodné v našich očích.
 
 %% use: responsum

@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Na věky chci zpívat o Hospodinových milostech.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Řekl jsi totiž: „Na věky je založena milost.“
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Na nebi jsi upevnil svou věrnost.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: „Smlouvu jsem sjednal se svým vyvoleným,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * přísahal jsem Davidovi, svému služebníku.“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Šťastný je lid, který dovede oslavovat,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * chodí, Hospodine, v záři tvé tváře.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: V tvém jménu jásají ustavičně
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a honosí se tvou spravedlností.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: „Nalezl jsem Davida, svého služebníka,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pomazal jsem ho svým svatým olejem,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: pevně ho drží má ruka
 
-m: b\breve \bar "||"
+m: bB ||
 t: * i mé rámě ho posiluje.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Má věrnost a láska ho budou provázet,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ve jménu mém zmohutní jeho síla.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: On mě bude vzývat: Ty jsi můj otec,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * můj Bůh a skála mé spásy.“
 
 %% use: responsum

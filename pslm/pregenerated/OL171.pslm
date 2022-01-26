@@ -8,26 +8,26 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodin kraluje, je povznesen nad celou zemí.
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: bB ||
 t: Spravedlnost a právo jsou základem jeho trůnu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: bB ||
 t: všichni bohové se mu koří.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: bB ||
 t: svrchovaně vynikáš nade všemi bohy.
 
 %% use: responsum

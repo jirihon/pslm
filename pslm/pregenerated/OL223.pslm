@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Otvíráš svou ruku a sytíš nás, Hospodine.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Milosrdný a milostivý je Hospodin,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * shovívavý a plný lásky.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Dobrotivý je Hospodin ke všem
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a soucit má se všemi svými tvory.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Oči všech doufají v tebe
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a ty jim dáváš pokrm v pravý čas.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Otvíráš svou ruku
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a sytíš vše živé s laskavostí.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Spravedlivý je Hospodin na všech svých cestách
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a svatý ve všech svých činech.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Blízko je Hospodin všem, kdo ho vzývají,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * všem, kdo ho vzývají upřímně.
 
 %% use: responsum

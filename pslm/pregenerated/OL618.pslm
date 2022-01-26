@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Ukaž mi své cesty, Hospodine.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ukaž mi své cesty, Hospodine,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a pouč mě o svých stezkách.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Veď mě ve své pravdě a uč mě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť ty jsi Bůh, můj spasitel.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin je dobrý a dokonalý,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * proto ukazuje hříšníkům cestu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pokorné vede k správnému jednání,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pokorné učí své cestě.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinovo jednání je jen láska a věrnost
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pro ty, kdo plní jeho smlouvu a nařízení.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Důvěrně se stýká Hospodin s těmi, kdo se ho bojí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * dává jim poznat svou smlouvu.
 
 %% use: responsum

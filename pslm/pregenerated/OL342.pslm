@@ -9,43 +9,43 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Má duše žízní po tobě, Pane, Bože můj!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jako laň prahne po vodách bystřin,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tak prahne má duše po tobě, Bože!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Má duše žízní po Bohu, po živém Bohu:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kdy už smím přijít a spatřit Boží tvář?
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vzpomínám, jak jsem putovával v zástupu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jak jsem je vodíval k Božímu domu
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: s hlasitým jásotem a chvalozpěvem
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ve svátečním průvodu.
 
 %% use: responsum

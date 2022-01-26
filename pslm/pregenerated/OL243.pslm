@@ -10,59 +10,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Nasyť nás, Pane, svou slitovností, abychom se radovali.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nauč nás počítat naše dny,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať dojdeme k moudrosti srdce.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Obrať se, Hospodine, (+) jak dlouho ještě budeš čekat?
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Slituj se nad svými služebníky!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nasyť nás brzy svou slitovností,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať jásáme a radujeme se po celý život!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Potěš nás za dny, kdy jsi nás soužil,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * za léta, kdy jsme zakoušeli zlé.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nechť se ukáže tvým služebníkům tvoje dílo,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tvá sláva jejich synům.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať je nad námi dobrotivost Pána, našeho Boha, + dej zdar práci našich rukou,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * dej zdar práci našich rukou!
 
 %% use: responsum

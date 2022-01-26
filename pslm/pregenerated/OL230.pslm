@@ -8,61 +8,61 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodine, na pomoc mi pospěš!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pevně jsem doufal v Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * on se ke mně sklonil a vyslyšel mé volání.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vytáhl mě z podzemní jámy, (+) na skálu postavil mé nohy, (+) z bahnitého kalu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * dodal síly mým krokům.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Novou píseň vložil mi do úst,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * chvalozpěv našemu Bohu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Mnozí to uvidí a nabudou úcty,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * budou doufat v Hospodina.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Já jsem jen chudák a ubožák,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ale Pán se o mě stará.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tys můj pomocník, můj zachránce:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neprodlévej, můj Bože!
 
 %% use: responsum

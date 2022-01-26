@@ -8,53 +8,53 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Ty, Hospodine, jsi zachránil mou duši, aby nezhynula.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Řekl jsem: „Uprostřed svého života mám odejít,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * u bran podsvětí mám postrádat zbytek svých let.“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Řekl jsem: (+) nemám už hledět na nikoho „Nemám už vidět Hospodina v zemi živých,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * mezi obyvateli světa.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Můj příbytek je stržen, je ode mě odnesen
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jako stan pastýřů.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bůh svinul jako tkadlec můj život,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * odřízl mě od osnovy.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pane, v tebe doufá mé srdce;
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať ožije můj duch. + Uzdrav mě a oživ!“
 
 %% use: responsum

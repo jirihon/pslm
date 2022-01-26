@@ -8,67 +8,67 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Vyslyš mě, Hospodine, ve své veliké lásce!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vyprosť mě z bahna, abych neutonul,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vysvoboď mě od těch, kteří mě nenávidí,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: vytáhni mě z hluboké vody!
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Ať mě nezaplaví vodní příboj,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: ať mě nepohltí hlubina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať propast nade mnou nezavře jícen!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Já jsem ubohý a plný bolesti,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať mě ochrání, Bože, tvá pomoc.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Písní budu slavit Boží jméno,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * velebit je budu zpěvem chvály.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Uvědomte si to, ubožáci, a radujte se;
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pookřejte v srdci vy, kdo hledáte Boha!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť Hospodin slyší chudáky,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nepohrdá svými vězni.
 
 %% use: responsum

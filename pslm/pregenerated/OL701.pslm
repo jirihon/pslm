@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Chválím tě, že jsem vznikl tak podivuhodně.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodine, ty mě zkoumáš a znáš,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ty víš, když sedám i když vstávám.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Poznáváš mé myšlenky již zdálky;
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať jdu nebo ležím, ty to určuješ, + všímáš si všech mých cest.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kam se mohu uchýlit před tvým duchem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kam až utéci před tvou tváří?
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: I kdybych vystoupil na nebe, ty jsi tam,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * i kdybych ulehl v podsvětí, i tady jsi.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: I kdybych si připjal křídla jitřenky
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a spočinul na nejzazším moři,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: i tam mě povede tvá ruka
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a uchopí mě tvá pravice.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tys přece stvořil mé ledví,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * utkal jsi mě v lůně mé matky.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Chválím tě, že jsem vznikl tak podivuhodně,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * úžasná jsou tvoje díla.
 
 %% use: responsum

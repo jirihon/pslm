@@ -8,65 +8,65 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Svítilnou mým nohám je tvé slovo.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Odvrať mě od cesty lži,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * uštědři mi svůj zákon!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Lepší je pro mě zákon tvých úst
 
-m: b\breve \bar "||"
+m: bB ||
 t: * než tisíce ve zlatě a stříbře.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Na věky, Hospodine, trvá tvé slovo,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * je pevné jako nebesa.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zadržuji své nohy od každé zlé cesty,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * abych dbal na tvá slova.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tvými nařízeními jsem zmoudřel,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * proto nenávidím kdejakou neřestnou cestu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nenávidím nepravost a protiví se mi,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * miluji však tvůj zákon.
 
 %% use: responsum

@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodin sám je náš Bůh, pamatuje věčně na svoji smlouvu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Oslavujte Hospodina, vzývejte jeho jméno,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * hlásejte mezi národy jeho díla.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zpívejte mu, hrejte mu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vypravujte o všech jeho divech!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Honoste se jeho svatým jménem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ze srdce ať se radují, kdo hledají Hospodina!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Uvažujte o Hospodinu a jeho moci,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * hledejte stále jeho tvář!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pamatujte na divy, které učinil,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * na jeho zázraky a rozsudky jeho úst,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: potomstvo Abraháma, jeho služebníka,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * synové Jakuba, jeho vyvoleného!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pamatuje věčně na svoji smlouvu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * na slib, který ustanovil pro tisíc pokolení,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: na smlouvu, kterou sjednal s Abrahámem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * na svou přísahu Izákovi.
 
 %% use: responsum

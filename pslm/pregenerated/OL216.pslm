@@ -9,67 +9,67 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hledejte, ubožáci, Hospodina a pookřejte v srdci.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Obracím se modlitbou k tobě Hospodine,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v čas milosti, Bože!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vyslyš mě ve své veliké lásce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * věrně mi pomoz!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vyslyš mě, Hospodine, tvá láska je dobrotivá,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * brať se ke mně se svým nesmírným slitováním.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Já jsem ubohý a plný bolesti,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať mě ochrání, Bože, tvá pomoc.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Písní budu slavit Boží jméno,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * velebit je budu zpěvem chvály.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť Bůh pomůže Siónu
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a vystaví judská města:
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zdědí je potomci jeho služebníků,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * budou tam sídlit, kdo milují jeho jméno.
 
 %% use: responsum

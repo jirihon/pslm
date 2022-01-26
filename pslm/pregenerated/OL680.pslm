@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Blaze lidu, který si Hospodin vyvolil za svůj majetek.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Blaze národu, jehož Bohem je Hospodin,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * blaze lidu, který si vyvolil za svůj majetek.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Z nebe shlíží Hospodin,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vidí všechny smrtelníky.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Z místa, kde sídlí, dívá se
 
-m: b\breve \bar "||"
+m: bB ||
 t: * na všechny obyvatele země.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Každému z nich uhnětl srdce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * uvažuje o všech jejich skutcích.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Naše duše vyhlíží Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * on sám je naše pomoc a štít.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: V něm se raduje naše srdce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * důvěřujeme v jeho svaté jméno.
 
 %% use: responsum

@@ -8,71 +8,71 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hle, přicházím, Pane, splnit tvou vůli.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pevně jsem doufal v Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * on se ke mně sklonil a vyslyšel mé volání.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Novou píseň vložil mi do úst,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * chvalozpěv našemu Bohu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: V obětních darech si nelibuješ, Bože,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zato jsi mi otevřel uši.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Celopaly a smírné oběti nežádáš,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tehdy jsem řekl: „Hle, přicházím.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ve svitku knihy je o mně psáno:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Rád splním tvou vůli, můj Bože, + tvůj zákon je v mém nitru.“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Spravedlnost jsem zvěstoval ve velkém shromáždění,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * svým rtům jsem nebránil, ty to víš, Hospodine!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neodpírej mi, Hospodine, své slitování,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tvá láska a věrnost ať mě neustále chrání,
 
 %% use: responsum

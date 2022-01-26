@@ -8,55 +8,55 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Voď mě po cestě svých předpisů, Hospodine.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Veleben jsi, Hospodine,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nauč mě svým příkazům!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ze tvých příkazů se budu těšit,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nezapomenu na tvá slova.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Otevři mé oči,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať pozoruji divy tvého zákona.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pouč mě, ať zachovám tvůj zákon
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a chráním ho celým svým srdcem.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Voď mě po stezce svých předpisů,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť v ní mám zalíbení.
 
 %% use: responsum

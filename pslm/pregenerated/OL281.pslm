@@ -8,95 +8,95 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Zachraň mě svou slitovností, Hospodine.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: K tobě se utíkám, Hospodine, (+) ať nejsem zahanben na věky,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vysvoboď mě, jsi spravedlivý!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Popřej mi sluchu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * rychle mě zachraň!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Buď mi ochrannou skálou,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * opevněnou tvrzí k mé záchraně,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: vždyť ty jsi má skála a má tvrz,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pro své jméno mě povedeš a budeš řídit.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vyprostíš mě z léčky pro mě nastražené,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť ty jsi mé útočiště.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Do tvých rukou svěřuji svého ducha,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodine, věrný Bože, ty mě vysvobodíš.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Já však, Hospodine, v tebe doufám,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * říkám: Ty jsi můj Bůh!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Můj osud je ve tvé ruce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vysvoboď mě z moci mých úhlavních nepřátel!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jak nesmírná je tvá dobrotivost, Hospodine,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * uchoval jsi ji těm, kdo se tě bojí,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: popřáváš ji těm,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kdo se k tobě utíkají před lidmi.
 
 %% use: responsum

@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Otče, do tvých rukou poroučím ducha svého.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: tobě se utíkám, Hospodine, (+) ať nejsem zahanben na věky,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vysvoboď mě, jsi spravedlivý!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Do tvých rukou svěřuji svého ducha,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodine, věrný Bože, ty mě vysvobodíš.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Všichni nepřátelé mnou opovrhují, + sousedům jsem pro smích, na postrach svým známým,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kdo mě venku zhlédne, prchá přede mnou.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vypadl jsem z paměti, jako bych byl mrtev,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * podoben jsem rozbitému hrnci.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Já však, Hospodine, v tebe doufám,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * říkám: Ty jsi můj Bůh!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Můj osud je ve tvé ruce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vysvoboď mě z moci mých úhlavních nepřátel!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Svou jasnou tvář ukaž svému služebníku,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zachraň mě svou slitovností.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vzmužte se a buďte srdnatí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * všichni, kdo spoléháte na Hospodina.
 
 %% use: responsum

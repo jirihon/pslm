@@ -8,65 +8,65 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Jak miluji tvůj zákon, Hospodine.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Blaze těm, kdo dbají na jeho přikázání,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * hledají ho celým srdcem.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Celým srdcem tě hledám,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nedej, abych se odchýlil od tvých předpisů!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Umdlévá má duše,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * když stále dychtí po tvých rozhodnutích.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vyvolil jsem si cestu pravdy,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * dal jsem přednost tvým rozhodnutím.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hle, toužím po tvých nařízeních,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * dej mi život pro svou spravedlnost!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Otvírám ústa a nabírám dech,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť toužím po tvých předpisech.
 
 %% use: responsum

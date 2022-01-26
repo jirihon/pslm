@@ -9,69 +9,69 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Duše má, chval Hospodina!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pokud žiji, chci chválit Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pokud budu, chci opěvovat svého Boha.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: On zachovává věrnost na věky,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zjednává právo utlačeným,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: dává chléb lačným.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodin vysvobozuje vězně.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin otvírá oči slepým,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodin napřimuje sklíčené,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin miluje spravedlivé,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodin chrání přistěhovalce.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Podporuje sirotka a vdovu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ale mate cestu bezbožníků.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin bude vládnout na věky,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tvůj Bůh, Sióne, po všechna pokolení.
 
 %% use: responsum

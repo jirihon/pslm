@@ -8,75 +8,75 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Okuste a vizte, jak je Hospodin dobrý.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ustavičně chci velebit Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vždy bude v mých ústech jeho chvála.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: V Hospodinu nechť se chlubí moje duše,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať to slyší pokorní a radují se.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Velebte se mnou Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * oslavujme spolu jeho jméno!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hledal jsem Hospodina a vyslyšel mě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vysvobodil mě ze všech mých obav. R. bou.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Pohleďte k němu, ať se rozveselíte,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vaše tvář se nemusí zardívat han
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hle, ubožák zavolal, a Hospodin slyšel,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pomohl mu ve všech jeho strastech.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jak ochránce se utábořil Hospodinův anděl
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kolem těch, kdo Hospodina ctí, a vysvobodil je.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Okuste a vizte, jak je Hospodin dobrý,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * blaze člověku, který se k němu utíká.
 
 %% use: responsum

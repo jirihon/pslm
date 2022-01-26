@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: U tebe je, Bože, pramen života.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodine, tvé milosrdenství sahá až do nebes,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tvoje věrnost až k oblakům.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tvá spravedlnost je jak Boží hory,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tvé rozsudky jsou jak mořská hlubina.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jak vzácná je tvá milost, Bože,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * lidé se utíkají do stínu tvých křídel.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Sytí se hojností tvého domu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * napájíš je proudem svého blaha.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť u tebe je pramen života,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v tvé záři vidíme světlo.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zachovej svou milost těm, kdo tě znají,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * svou spravedlnost těm, kdo jsou upřímného srdce!
 
 %% use: responsum

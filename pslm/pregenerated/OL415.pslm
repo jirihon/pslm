@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Ústa spravedlivého mluví moudře.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Doufej v Hospodina a čiň dobro,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * pak budeš přebývat v zemi a těšit se klidu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Raduj se v Hospodinu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a dá ti, po čem touží tvé srdce.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinu svěř svůj osud,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v něho důvěřuj, on sám bude jednat.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tvé spravedlnosti dá vzejít jako světlu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * tvému právu jak polednímu jasu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin dává krokům člověka sílu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * má zalíbení v jeho životní cestě.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jestliže padne, nezůstane ležet,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * protože mu Hospodin podpírá ruku.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Spravedlivým přichází spása od Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v dobách tísně je jim útočištěm.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin jim pomáhá a je vysvobozuje,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * bezbožníků je zbavuje a chrání je, + protože se k němu utíkají.
 
 %% use: responsum

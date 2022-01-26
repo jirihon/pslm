@@ -8,61 +8,61 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Hospodin je mé světlo a má spása.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin je mé světlo a má spása,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * koho bych se bál?
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin je záštita mého života,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * před kým bych se třásl?
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: I když se proti mně utáboří vojsko, (+) když proti mně vypukne válka, (+) nevyděsí se mé srdce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jsem pln důvěry.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť v den neštěstí skryje mě ve svém stánku,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v úkrytu svého stanu mě schová, + na skálu zdvihne.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodine, hledám tvou tvář.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Neskrývej svou tvář přede mnou,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: v hněvu neodmítej svého služebníka!
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Tys má pomoc, nezavrhuj mě!
 
 %% use: responsum

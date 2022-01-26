@@ -8,82 +8,82 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Věřím, že uvidím blaho od Hospodina v zemi živých!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin je mé světlo a má spása,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * koho bych se bál?
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin je záštita mého života,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * před kým bych se třásl?
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: bB ||
 t: Jedno od Hospodina žádám a po tom toužím:
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: abych směl přebývat v Hospodinově domě
 
-m: b\breve \bar "||"
+m: bB ||
 t: * o všechny dny svého života,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: abych požíval Hospodinovy něhy
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a patřil na jeho chrám.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Slyš, Hospodine, můj hlas, jak volám,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * smiluj se nade mnou, vyslyš mě!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodine, hledám tvou tvář.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Neskrývej svou tvář přede mnou.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Věřím, že uvidím blaho od Hospodina
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v zemi živých!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Důvěřuj v Hospodina, buď silný,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať se vzmuží tvé srdce,doufej v Hospodina!
 
 %% use: responsum

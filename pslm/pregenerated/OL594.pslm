@@ -9,43 +9,43 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Miluji tě, Hospodine, má sílo!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Boží cesta je dokonalá, + Hospodinovo slovo, tříbené ohněm,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * štítem je všem, kdo se k němu utíkají.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ať žije Hospodin,(+) požehnána buď moje Skála,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * sláva buď Bohu, mému spasiteli!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Proto tě budu, Hospodine, mezi národy chválit,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * opěvovat chci tvoje jméno.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Veliká vítězství jsi popřál svému králi,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * dáváš přízeň svému pomazanému, + Davidovi a jeho potomstvu na věky.
 
 %% use: responsum

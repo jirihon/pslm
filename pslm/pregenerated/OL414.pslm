@@ -12,59 +12,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: To je pokolení těch, kdo hledají tvář tvou, Hospodine.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinu náleží země i to, co je na ní,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * svět i ti, kdo jej obývají.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Neboť on jej založil nad moři,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * upevnil ho nad proudy vod.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kdo smí vystoupit na Hospodinovu horu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kdo smí stát na jeho svatém místě?
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ten, kdo má nevinné ruce a čisté srdce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jehož duše nebaží po marnosti.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ten přijme požehnání od Hospodina,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * odměnu od Boha, svého spasitele.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: To je pokolení těch, kdo po něm touží,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kdo hledají tvář Jakubova Boha.
 
 %% use: responsum

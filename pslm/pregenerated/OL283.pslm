@@ -8,26 +8,26 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Ty, Hospodine, vládneš nade vším.
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: bB ||
 t: neboť tobě patří všechno na nebi i n.a zemi.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: bB ||
 t: od tebe je bohatství a velebnost.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "||"
+m: bB ||
 t: z tvé ruky pochází všechna velikost a vláda.
 
 %% use: responsum

@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Pán dá požehnání a pokoj svému lidu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vzdejte Hospodinu, Boží synové,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vzdejte Hospodinu slávu a moc.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vzdejte Hospodinu slávu hodnou jeho jména,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v posvátném rouchu se klaňte Hospodinu!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinův hlas nad vodami!
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodin nad spoustami vod!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hlas Hospodinův, jak je mocný,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * hlas Hospodinův, jak je velkolepý!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vznešený Bůh zaburácel hromem,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v jeho chrámu však všichni vola jí: Sláva!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodin trůnil nad potopou,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodin jako král bude trůnit věčně.
 
 %% use: responsum

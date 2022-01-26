@@ -8,83 +8,83 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Děkujte Hospodinu, neboť je dobrý, jeho milosrdenství trvá na věky.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nechť řekne dům Izraelův:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * „Jeho milosrdenství trvá na věky.“
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nechť řekne dům Árónův:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * „Jeho milosrdenství trvá na věky.“
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Nechť řeknou ti, kdo se bojí Hospodina:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * „Jeho milosrdenství trvá na věky.“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Kámen, který stavitelé zavrhli,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * stal se kvádrem nárožním.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodinovým řízením se tak stalo,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * je to podivuhodné v našich očích.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Toto je den, který učinil Hospodin,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jásejme a radujme se z něho!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hospodine, dej spásu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Hospodine, popřej zdaru!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Požehnaný, kdo přichází
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v Hospodinově jménu.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Žehnáme vám z Hospodinova domu.
 
-m: b\breve \bar "||"
+m: bB ||
 t: * Bůh je Hospodin a dopřál nám světlo.
 
 %% use: responsum

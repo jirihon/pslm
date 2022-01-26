@@ -8,77 +8,77 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Na věky chci zpívat o Hospodinových milostech.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Smlouvu jsem sjednal se svým vyvoleným, přísahal jsem Davidovi, svému služebníku:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * 
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tvůj rod zajistím na věky
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a tvůj trůn zbuduji na všechna pokolení.“
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: „Na věky mu zachovám svou milost,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * má smlouva s ním platit nepřestane.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Dám věčné trvání jeho rodu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jeho trůn bude jako věk nebes.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jestliže jeho synové opustí můj zákon
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a nebudou jednat podle mých příkazů,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: jestliže poskvrní má ustanovení
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a nezachovají má přikázání:
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Potrestám metlou jejich nepravost
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a ranami jejich provinění.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Svou milost mu však neodejmu
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a svou věrnost neporuším.“
 
 %% use: responsum

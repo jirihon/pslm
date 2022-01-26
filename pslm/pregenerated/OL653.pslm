@@ -8,67 +8,67 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Pane, ukaž nám své milosrdenství!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Byl jsi milostivý, Hospodine, své zemi,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * změnil jsi k dobru Jakubův úděl.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Odpustils vinu svého lidu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * přikryl jsi všechny jeho hříchy.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zadržels všechno své rozhořčení,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * uklidnil jsi žár svého hněvu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bože, náš spasiteli, obnov nás,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * odlož svou nevoli proti nám!
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Což se budeš na nás stále hněvat,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * svůj hněv rozšíříš na všechna pokolení?
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Což nám už nevrátíš život,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * aby se tvůj lid mohl v tobě radovat?
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ukaž nám, Hospodine, své milosrdenství
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a dej nám svou spásu!
 
 %% use: responsum

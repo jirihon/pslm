@@ -11,59 +11,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Bože, ve své dobrotě ses postaral o chudáka.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Spravedliví se radují, jásají před Bohem
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a veselí se v radosti.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zpívejte Bohu, velebte jeho jméno,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jeho jméno je Hospodin.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Otec sirotků, ochránce vdov
 
-m: b\breve \bar "||"
+m: bB ||
 t: * je Bůh ve svém svatém příbytku.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Bůh zjednává opuštěným domov,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vězně vyvádí k šťastnému životu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Seslal jsi hojný déšť, Bože, na své dědictví,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * vzkřísils je, když zemdlelo.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Usadilo se v něm tvoje stádce,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ve své dobrotě ses postaral o chudáka, Bože!
 
 %% use: responsum

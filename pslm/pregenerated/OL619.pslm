@@ -8,65 +8,65 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Jak miluji tvůj zákon, Hospodine.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Mnozí mě stíhají a tísní,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * od tvých přikázání neustoupím.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Základem tvého slova je stálost,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * věčná jsou všechna tvá spravedlivá rozhodnutí.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Knížata mě stíhají bez důvodu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * mé srdce však má úctu k tvým slovům.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hojný pokoj těm, kdo milují tvůj zákon,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nic zlého je nemůže potkat.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Očekávám tvou pomoc, Hospodine,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a plním tvé předpisy.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Střežím tvá nařízení a přikázání,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * neboť před tebou jsou všechny mé cesty.
 
 %% use: responsum

@@ -8,59 +8,59 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Budu kráčet před Hospodinem v zemi živých.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Měl jsem důvěru, i když jsem si řekl:
 
-m: b\breve \bar "||"
+m: bB ||
 t: * „Jsem tak sklíčen!“
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Drahocenná je v Hospodinových očích
 
-m: b\breve \bar "||"
+m: bB ||
 t: * smrt jeho zbožných.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ach, Hospodine, jsem tvůj služebník, + jsem tvůj služebník, syn tvé služebnice,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * rozvázal jsi moje pouta.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Přinesu ti oběť díků, Hospodine,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a budu vzývat tvé jméno.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Splním své sliby Hospodinu
 
-m: b\breve \bar "||"
+m: bB ||
 t: * před veškerým jeho lidem
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: v nádvořích domu Hospodinova,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * uprostřed tebe, Jeruzaléme!
 
 %% use: responsum

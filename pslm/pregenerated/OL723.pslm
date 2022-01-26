@@ -8,65 +8,65 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Blaze těm, kdo kráčejí v zákoně Hospodinově.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Blaze těm, jejichž cesta je bezúhonná,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * kteří kráčejí v zákoně Hospodinově.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Blaze těm, kdo dbají na jeho přikázání,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * hledají ho celým srdcem.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Celým srdcem tě hledám,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * nedej, abych se odchýlil od tvých předpisů!
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Ve svém srdci uchovávám tvůj výrok,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * abych se neprohřešil proti tobě.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Prokaž dobro svému služebníku, abych byl živ
 
-m: b\breve \bar "||"
+m: bB ||
 t: * a zachovával tvé slovo.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Otevři mé oči,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * ať pozoruji divy tvého zákona.
 
 %% use: responsum

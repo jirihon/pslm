@@ -12,61 +12,61 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Odpusť, Pane, co jsem zavinil hříchem.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Šťastný je ten, komu byla odpuštěna nepravost,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jehož hřích je přikryt.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Šťastný je člověk, kterému Hospodin nepřičítá vinu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * v jehož duši není klamu.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Vyznal jsem se ti ze svého hříchu,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * svou nepravost jsem nezatajil.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Řekl jsem: (+) „Vyznávám se Hospodinu ze své ničemnosti.“
 
-m: b\breve \bar "||"
+m: bB ||
 t: * A tys odpustil, co jsem zavinil hříchem.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Tys mé útočiště, ušetříš mě úzkostí,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * zahrneš mě radostí ze záchrany.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Radujte se z Hospodina a těšte se, spravedliví,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * jásejte všichni, kdo jste upřímného srdce.
 
 %% use: responsum

@@ -8,41 +8,41 @@ m: \key c \major
 
 %% part: responsum
 
-m: b\breve \bar "||"
+m: bB ||
 t: Naše oči hledí na Hospodina, dokud se nad námi nesmiluje.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Zvedám své oči k tobě,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * který trůníš na nebi.
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Hle, jako oči služebníků hledí
 
-m: b\breve \bar "||"
+m: bB ||
 t: * na ruce svých pánů.
 
 %% use: responsum
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: Jako oči služebnice hledí
 
-m: b\breve \bar "||"
+m: bB ||
 t: * na ruce své paní,
 
 %% part: verse
 
-m: b\breve \bar "|"
+m: bB |
 t: tak hledí naše oči na Hospodina, našeho Boha,
 
-m: b\breve \bar "||"
+m: bB ||
 t: * dokud se nad námi nesmiluje.
 
 %% use: responsum
