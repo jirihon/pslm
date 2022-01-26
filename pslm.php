@@ -420,7 +420,7 @@ function pslm_text_to_lyrics($text) {
         '#\s{2,}#' => ' ', // normalize white-spaces to single space
         '# -- ([sšjdb]) -- #ui' => '\1 -- ', // move s, š or j to the previous syllable if both options are possible
         '# -- ([tz]) -- #ui' => ' -- \1', // move "t" to the next syllable if both options are posible
-        '# -- (sť|ls) #ui' => '\1 ', // move "sť" to the previous syllable
+        '# -- (sť|ls)\b#ui' => '\1', // move unsyllabic parts to the previous syllable
         //'# -- ([sš])([pt])#ui' => '\1 -- \2', // move s or š to the previous syllable if there is "p" or "t following
         
         '#\b[ksvz] [^\s]+#ui' => '"\0"', // join unsyllabic preposition to the next syllable
