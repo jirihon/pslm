@@ -34,17 +34,16 @@ function pslm_engrave($id, $svg_d) {
     $psalm = pslm_parse_psalm($psalm);
 
     foreach (PSLM_SVG_SIZES as $size) {
-        $svg_f = "svg/$id-$size.svg";
-        
-        if (PSLM_CACHE && file_exists($svg_f) && filemtime($svg_f) > $pslm_mtime) {
-            echo "Skipping SVG engraving for $id-$size.\n";
+        $lily = pslm_lilypond($psalm, $size);
+
+        $lily_f = "ly/$id-$size.ly";
+        if (PSLM_CACHE && file_exists($lily_f) && $lily === file_get_contents($lily_f)) {
+            echo "Skipping SVG engraving for $id-$size, lilypond is the same.\n";
             continue;
         }
-        $lily = pslm_lilypond($psalm, $size);
-        file_put_contents("ly/$id-$size.ly", $lily);
+        file_put_contents($lily_f, $lily);
 
         $svg_name = "$svg_d/$id-$size";
-
         $cmd = "lilypond --svg -dno-point-and-click -o $svg_name ly/$id-$size.ly";
         system($cmd);
 
@@ -53,13 +52,14 @@ function pslm_engrave($id, $svg_d) {
 
     $midi_f = "midi/$id.midi";
 
-    if (PSLM_CACHE && file_exists($midi_f) && filemtime($midi_f) > $pslm_mtime) {
-        echo "Skipping MIDI engraving for $id.\n";
+    $lily = pslm_midi($psalm);
+    $lily_f = "midi/$id.ly";
+    
+    if (PSLM_CACHE && file_exists($lily_f) && $lily === file_get_contents($lily_f)) {
+        echo "Skipping MP3 engraving for $id, lilypond is the same.\n";
     } else {
-        $lily = pslm_midi($psalm);
-
-        file_put_contents("midi/$id.ly", $lily);
-        $cmd = "lilypond -o midi/$id midi/$id.ly";
+        file_put_contents($lily_f, $lily);
+        $cmd = "lilypond -o midi/$id $lily_f";
         system($cmd);
         $cmd = "timidity --quiet -T 150 --output-24bit -Ow -o - $midi_f | ffmpeg -hide_banner -loglevel error -y -i - -filter:a loudnorm -acodec libmp3lame -qscale:a 3 html/mp3/$id.mp3";
         system($cmd);
