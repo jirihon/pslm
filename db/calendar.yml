@@ -2,6 +2,9 @@
   months:
     - month: 2
       days:
+      - day: 20
+        name: 7. neděle v mezidobí
+        psalms: [OL197]
       - day: 13
         name: 6. neděle v mezidobí
         psalms: [OL20]

@@ -14,6 +14,8 @@ svg/*
 cache/*
 db/*.xml
 db/*.gz
-db/*_zaltar.yml
+db/*_zaltar.*
 pslm/*.pdf
 pslm/*.ly
+pslm/*.svg
+tiny_example.*
