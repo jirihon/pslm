@@ -28,7 +28,6 @@ $PSLM_HYPH_EXCEPTIONS = null;
 
 function pslm_engrave($id, $svg_d) {
     $pslm_f = "pslm/$id.pslm";
-    $pslm_mtime = filemtime($pslm_f);
 
     $psalm = file_get_contents($pslm_f);
     $psalm = pslm_parse_psalm($psalm);
