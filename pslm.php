@@ -203,17 +203,88 @@ function pslm_lilypond($psalm, $size) {
     paper-width = %s\cm
     page-breaking = #ly:one-page-breaking 
 }
-#(define prevx 9999)
-#(define (unhide-after-line-break g)
-    (let* ((ss (ly:grob-object g \'staff-symbol))
-        (refp (ly:grob-common-refpoint g ss X))
-        (x (- (ly:grob-relative-coordinate g refp X)
-                (ly:grob-relative-coordinate ss refp X)))
-        (transparent (ly:grob-property g \'transparent)))
-    (if (and (< x prevx) (equal? transparent #t)) (begin
-        (ly:grob-set-property! g \'color (rgb-color 0.5 0.5 0.5))
-        (ly:grob-set-property! g \'transparent #f)))
-    (set! prevx x)))
+
+
+%% Author: Thomas Morley https://lists.gnu.org/archive/html/lilypond-user/2020-05/msg00002.html
+#(define (line-position grob)
+"Returns position of @var[grob} in current system:
+   @code{\'start}, if at first time-step
+   @code{\'end}, if at last time-step
+   @code{\'middle} otherwise
+"
+  (let* ((col (ly:item-get-column grob))
+         (ln (ly:grob-object col \'left-neighbor))
+         (rn (ly:grob-object col \'right-neighbor))
+         (col-to-check-left (if (ly:grob? ln) ln col))
+         (col-to-check-right (if (ly:grob? rn) rn col))
+         (break-dir-left
+           (and
+             (ly:grob-property col-to-check-left \'non-musical #f)
+             (ly:item-break-dir col-to-check-left)))
+         (break-dir-right
+           (and
+             (ly:grob-property col-to-check-right \'non-musical #f)
+             (ly:item-break-dir col-to-check-right))))
+        (cond ((eqv? 1 break-dir-left) \'start)
+              ((eqv? -1 break-dir-right) \'end)
+              (else \'middle))))
+
+#(define (tranparent-at-line-position vctor)
+  (lambda (grob)
+  "Relying on @code{line-position} select the relevant enry from @var{vctor}.
+Used to determine transparency,"
+    (case (line-position grob)
+      ((end) (not (vector-ref vctor 0)))
+      ((middle) (not (vector-ref vctor 1)))
+      ((start) (not (vector-ref vctor 2))))))
+
+noteHeadBreakVisibility =
+#(define-music-function (break-visibility)(vector?)
+"Makes @code{NoteHead}s transparent relying on @var{break-visibility}"
+#{
+  \override NoteHead.transparent =
+    #(tranparent-at-line-position break-visibility)
+#})
+
+#(define delete-ledgers-for-transparent-note-heads
+  (lambda (grob)
+    "Reads whether a @code{NoteHead} is transparent.
+If so this @code{NoteHead} is removed from @code{\'note-heads} from
+@var{grob}, which is supposed to be @code{LedgerLineSpanner}.
+As a result ledgers are not printed for this @code{NoteHead}"
+    (let* ((nhds-array (ly:grob-object grob \'note-heads))
+           (nhds-list
+             (if (ly:grob-array? nhds-array)
+                 (ly:grob-array->list nhds-array)
+                 \'()))
+           ;; Relies on the transparent-property being done before
+           ;; Staff.LedgerLineSpanner.after-line-breaking is executed.
+           ;; This is fragile ...
+           (to-keep
+             (remove
+               (lambda (nhd)
+                 (ly:grob-property nhd \'transparent #f))
+               nhds-list)))
+      ;; TODO find a better method to iterate over grob-arrays, similiar
+      ;; to filter/remove etc for lists
+      ;; For now rebuilt from scratch
+      (set! (ly:grob-object grob \'note-heads)  \'())
+      (for-each
+        (lambda (nhd)
+          (ly:pointer-group-interface::add-grob grob \'note-heads nhd))
+        to-keep))))
+
+hideNotes = {
+  \noteHeadBreakVisibility #begin-of-line-visible
+  \stopStaff
+  \override NoteHead.color = #(rgb-color 0.5 0.5 0.5)
+  \override Staff.LedgerLineSpanner.color = #(rgb-color 0.5 0.5 0.5)
+  \startStaff
+}
+unHideNotes = {
+  \noteHeadBreakVisibility #all-visible
+  \revert NoteHead.color
+}
 
 accentMark = \markup \raise #0.5 \rotate #-20 \musicglyph "scripts.rvarcomma"
 accent = #(make-dynamic-script accentMark)
@@ -232,10 +303,10 @@ words = \lyricmode {
     \context {
         \Staff
         \remove "Time_signature_engraver"
+        \override LedgerLineSpanner.after-line-breaking = #delete-ledgers-for-transparent-note-heads
     }
     \context {
         \Voice {
-            \override NoteHead.after-line-breaking = #unhide-after-line-break
             \override NoteHead.output-attributes = #\'((class . "notehead"))
             \override Hairpin.height = #0.55
         }
@@ -363,7 +434,7 @@ function pslm_process_snippet($music, $text) {
     $shortcuts = [
         '#(?<=\s|^)\|\|(?=\s|$)#' => '\bar "||"',
         '#(?<=\s|^)\|(?=\s|$)#' => '\bar "|"',
-        '#/#' => '\bar ""',
+        '#(?<=\s|^)/(?=\s|$)#' => '\bar ""',
         '#B#' => '\breve',
         '#\(#' => '[(',
         '#\)#' => ')]',
