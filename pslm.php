@@ -446,8 +446,8 @@ function pslm_process_snippet($music, $text) {
         echo "ERROR: More than one breve in a piece of music.\n";
         return [];
     }
-    $note_tokens = pslm_parse_music($music);
-    $note_syllables = pslm_note_syllables($note_tokens);
+    $music_tokens = pslm_parse_music($music);
+    $note_syllables = pslm_note_syllables($music_tokens);
     $n_note_syllables = count($note_syllables);
 
     $text = pslm_text_to_lyrics($text);
