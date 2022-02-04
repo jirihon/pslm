@@ -1,0 +1,53 @@
+%% occasion: 'Uvedení Páně do chrámu (2. února)'
+%% responsum_reference: 'Ž 24 (23),10b'
+%% verse_reference: 'Ž 24 (23)'
+%% author: olejnik
+%% source: nedelni_zaltar
+
+m: \key f \major
+
+%% part: responsum
+
+m: r8 a' f a c8. c16 c4 | r8 d bes a g4 g ||
+t: Hospodin zástupů, on je král slávy!
+
+%% part: verse
+
+m: bes'B c8 g bes(_ a) a4 r |
+t: Zdvihněte, brány, své klenby,
+
+m: d,B e8 f a(_ g) g4 r ||
+t: * zvyšte se, prastaré vchody, + ať vejde král slávy!
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 g bes(_ a) a4 r |
+t: Kdo je ten král slávy?
+
+m: d,B e8 f a(_ g) g4 r ||
+t: * Silný a mocný Hospodin, + Hospodin udatný v boji.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 g bes(_ a) a4 r |
+t: Zdvihněte, brány, své klenby,
+
+m: d,B e8 f a(_ g) g4 r ||
+t: * zvyšte se, prastaré vchody, + ať vejde král slávy!
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 g bes(_ a) a4 r |
+t: Kdo je ten král slávy?
+
+m: d,B e8 f a(_ g) g4 r ||
+t: * Hospodin zástupů, + on je král slávy!
+
+%% use: responsum
+

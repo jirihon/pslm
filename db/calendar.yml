@@ -11,6 +11,9 @@
       - day: 6
         name: 5. neděle v mezidobí
         psalms: [OL194]
+      - day: 2
+        name: Svátek Uvedení Páně do chrámu
+        psalms: [OL257]
     - month: 1
       days:
       - day: 30

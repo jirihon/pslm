@@ -145,7 +145,7 @@ function pslm_music_implode($parts) {
         $music = trim(implode(' ', $music));
         $music = pslm_process_music_part($music);
 
-        if (pslm_is_note($music)) {
+        if (pslm_contains_note($music)) {
             $ret .= "\\relative { $music }\n";
         } else {
             $ret .= "$music\n";
@@ -576,6 +576,10 @@ function pslm_note_syllables($tokens) {
 
 function pslm_is_note($event) {
     return preg_match('#^([abcdefg]|\\\\breve)#', $event);
+}
+
+function pslm_contains_note($music) {
+    return preg_match('#(^|\s)([abcdefg]|\\\\breve)#', $music);
 }
 
 function pslm_parse_music($music) {
