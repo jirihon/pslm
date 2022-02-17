@@ -491,9 +491,11 @@ function pslm_text_to_lyrics($text) {
         
         $search = str_replace('-', '', $hyph);
         for ($i = 0; $i < count($search); ++$i) {
-            $search[$i] = '#'.$search[$i].'#ui';
+            $search[$i] = '#'.$search[$i].'#ui'; // case-insensitive
         }
         $replace = str_replace('-', ' -- ', $hyph);
+        $search[] = '#([aáeéěiíoóuúůyý])([bflmpsšvzžhcčkrřdďtťnň][aáeéěiíoóuúůyý])#ui'; // general pattern for two vowels separated by a consonant
+        $replace[] = '\1 -- \2';
         $PSLM_HYPH_EXCEPTIONS = [$search, $replace];
     }
     $htext = preg_replace($PSLM_HYPH_EXCEPTIONS[0], $PSLM_HYPH_EXCEPTIONS[1], $htext);
