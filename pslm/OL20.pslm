@@ -24,10 +24,10 @@ t: * nepostává na cestě, kudy chodí hříšní, + a nezasedá ve shromážd�
 
 %% part: verse
 
-m: as'B g8 as bes(_ c) bes bes4 r8
+m: as'B g8 as bes(_ c) bes bes4 |
 t: ale má zalíbení v Hospodinově zákoně
 
-m: f8 | fB es8 f g(_ as g) g2 ||
+m: r8 f8 fB es8 f g(_ as g) g2 ||
 t: * a o jeho zákoně přemítá dnem i nocí.
 
 %% use: responsum
@@ -37,30 +37,30 @@ t: * a o jeho zákoně přemítá dnem i nocí.
 m: as'B g8 as bes(_ c bes) bes2 |
 t: Podobá se tak stromu zasazenému u vodních proudů,
 
-m: fB es8 f g(_ as) g g4 r8
+m: fB es8 f g(_ as) g g4 ||
 t: * ve svůj čas přináší ovoce,
 
 %% part: verse
 
-m: as' || g as bes(_ c) bes bes4 r8
+m: r8 as' g as bes(_ c) bes bes4 |
 t: listí mu nevadne
 
-m: f8 | fB es8 f g(_ as g) g2 ||
+m: r8 f8 fB es8 f g(_ as g) g2 ||
 t: * a daří se mu vše, co koná.
 
 %% use: responsum
 
 %% part: verse
 
-m: as'B g8 as bes(_ c bes) bes4 r8
+m: as'B g8 as bes(_ c bes) bes4 |
 t: Jinak je tomu s bezbožnými, zcela jinak:
 
-m: f | fB es8 f g(_ as g) g4 r8
+m: r8 f fB es8 f g(_ as g) g4 ||
 t: * jsou jako pleva rozvátá větrem,
 
 %% part: verse
 
-m: as' || asB g8 as bes_ c bes bes2 |
+m: r8 as' asB g8 as bes_ c bes bes2 |
 t: vždyť Hospodin dbá o cestu spravedlivých,
 
 m: fB es8 f g(_ as) g g2 ||

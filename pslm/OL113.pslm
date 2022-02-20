@@ -14,10 +14,10 @@ t: Ústa má budou vyprávět o tvé spravedlnosti.
 
 %% part: verse
 
-m: g'B fis8_ g a a4 r8
+m: g'B fis8_ g a a4 |
 t: K tobě se utíkám, Hospodine,
 
-m: e8 | eB d8(_ e) fis fis4 r ||
+m: r8 e8 eB d8(_ e) fis fis4 r ||
 t: * nechť nejsem zahanben na věky!
 
 %% part: verse
@@ -50,10 +50,10 @@ t: * Bože můj, vysvoboď mě z ruky bezbožného.
 
 %% part: verse
 
-m: g'B fis8(_ g a) a4 r8
+m: g'B fis8(_ g a) a4 |
 t: Vždyť tys má naděje, Pane,
 
-m: e | eB d8_ e fis fis4 r ||
+m: r8 e eB d8_ e fis fis4 r ||
 t: * má důvěra od mého mládí, Hospodine!
 
 %% part: verse
@@ -76,10 +76,10 @@ t: * po celý den budu vyprávět o tvé pomoci.
 
 %% part: verse
 
-m: g'B fis8(_ g a) a4 r8
+m: g'B fis8(_ g a) a4 |
 t: Bože, učils mě od mého mládí,
 
-m: e | eB d8(_ e fis) fis4 r ||
+m: r8 e eB d8(_ e fis) fis4 r ||
 t: * až dosud hlásám tvé podivuhodné činy.
 
 %% use: responsum

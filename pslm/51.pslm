@@ -50,10 +50,10 @@ t: * tehdy jsem řekl: „Hle přicházím.
 
 %% part: verse
 
-m: as'B bes8 f as(_ g) g4 r8
+m: as'B bes8 f as(_ g) g4 |
 t: Ve svitku knihy je o mně psáno:
 
-m: f | c'B d8 c c(_ bes) bes4 r ||
+m: r8 f c'B d8 c c(_ bes) bes4 r ||
 t: * Rád splním tvou vůli, můj Bože, + tvůj zákon je v mém nitru.“
 
 %% part: verse

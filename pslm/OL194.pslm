@@ -13,10 +13,10 @@ t: Budu ti hrát, Hospodine, před anděly.
 
 %% part: verse
 
-m: bes'B c8 bes a(_ g) g4 r8
+m: bes'B c8 bes a(_ g) g4 |
 t: Chci tě chválit, Hospodine, celým svým srdcem,
 
-m: g | gB a8 f d(_ c) c2 ||
+m: r8 g gB a8 f d(_ c) c2 ||
 t: * žes vyslyšel slova mých úst.
 
 %% part: verse
@@ -49,10 +49,10 @@ t: * v mé duši jsi rozhojnil sílu.
 
 %% part: verse
 
-m: bes'B c8 bes a(_ g) g4 r8
+m: bes'B c8 bes a(_ g) g4 |
 t: Budou tě oslavovat, Hospodine, všichni králové země,
 
-m: g | gB a8 f d(_ c) c2 ||
+m: r8 g gB a8 f d(_ c) c2 ||
 t: * až uslyší slova tvých úst.
 
 %% part: verse
