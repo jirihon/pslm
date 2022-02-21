@@ -274,21 +274,23 @@ As a result ledgers are not printed for this @code{NoteHead}"
         to-keep))))
 
 hideNotes = {
-  \noteHeadBreakVisibility #begin-of-line-visible
-  \stopStaff
-  \override NoteHead.color = #(rgb-color 0.5 0.5 0.5)
-  \override Staff.LedgerLineSpanner.color = #(rgb-color 0.5 0.5 0.5)
-  \startStaff
+    \noteHeadBreakVisibility #begin-of-line-visible
+    \stopStaff
+    \override NoteHead.X-extent = #\'(1 . 1)
+    \override NoteHead.color = #(rgb-color 0.5 0.5 0.5)
+    \override Staff.LedgerLineSpanner.color = #(rgb-color 0.5 0.5 0.5)
+    \startStaff
 }
 unHideNotes = {
-  \noteHeadBreakVisibility #all-visible
-  \revert NoteHead.color
+    \noteHeadBreakVisibility #all-visible
+    \revert NoteHead.X-extent
+    \revert NoteHead.color
 }
 
 accentMark = \markup \raise #0.5 \rotate #-20 \musicglyph "scripts.rvarcomma"
 accent = #(make-dynamic-script accentMark)
 star = \markup { \lower #0.65 \larger "*" }
-responsum = \markup \concat { "R." \hspace #-1.7 \path #0.1 #\'((moveto 0 0.08) (lineto 0.8 0.7)) }
+responsum = \markup \concat { "R" \hspace #-1.05 \path #0.1 #\'((moveto 0 0.07) (lineto 0.9 0.7)) \hspace #0.05 "." }
 
 melody = {
     \cadenzaOn
@@ -313,6 +315,9 @@ words = \lyricmode {
     \context {
         \Lyrics {
             \override StanzaNumber.output-attributes = #\'((class . "stanzanumber"))
+            \override LyricSpace.minimum-distance = #0.8
+            \override LyricText.font-name = #"TeX Gyre Schola"
+            \override StanzaNumber.font-name = #"TeX Gyre Schola Bold"
         }
     }
 }
@@ -461,9 +466,9 @@ function pslm_process_snippet($music, $text) {
     if ($n_notes_to_add > 0) {
         $breve = '\breve*1/16';
         $extra_breves = str_repeat(sprintf('%s \bar "" ', $breve), $n_notes_to_add);
-        $music = str_replace(
-            '\breve',
-            sprintf('%s \hideNotes %s\unHideNotes', $breve, $extra_breves),
+        $music = preg_replace(
+            '#([^\s]+)\\\\breve#',
+            sprintf('\1%s \hideNotes %s\unHideNotes', $breve, $extra_breves),
             $music
         );
     } elseif ($n_notes_to_add < 0) {
