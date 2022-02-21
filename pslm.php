@@ -276,14 +276,12 @@ As a result ledgers are not printed for this @code{NoteHead}"
 hideNotes = {
     \noteHeadBreakVisibility #begin-of-line-visible
     \stopStaff
-    \override NoteHead.X-extent = #\'(1 . 1)
     \override NoteHead.color = #(rgb-color 0.5 0.5 0.5)
     \override Staff.LedgerLineSpanner.color = #(rgb-color 0.5 0.5 0.5)
     \startStaff
 }
 unHideNotes = {
     \noteHeadBreakVisibility #all-visible
-    \revert NoteHead.X-extent
     \revert NoteHead.color
 }
 
@@ -315,7 +313,7 @@ words = \lyricmode {
     \context {
         \Lyrics {
             \override StanzaNumber.output-attributes = #\'((class . "stanzanumber"))
-            \override LyricSpace.minimum-distance = #0.8
+            \override LyricSpace.minimum-distance = #0.9
             \override LyricText.font-name = #"TeX Gyre Schola"
             \override StanzaNumber.font-name = #"TeX Gyre Schola Bold"
         }
