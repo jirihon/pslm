@@ -1,6 +1,16 @@
-zaltar_i: 'Josef Olejník. Žaltář (I): Responsoriální žalmy pro neděle, slavnosti, svátky, památky a mše spojené s určitými obřady. Pro všechny liturgické cykly. Vydavatelství Matice Cyrilometodějská s.r.o. Olomouc. 1994.'
-zaltar_ii: 'Josef Olejník. Žaltář II: Responsoriální žalmy pro všední dny doby adventní, vánoční, postní a velikonoční. Vydavatelství Gloria. Rosice u Brna. 2002.'
-zaltar_iii: 'Josef Olejník. Žaltář III: Responsoriální žalmy pro všední dny liturgického mezidobí – cyklus 1. Vydavatelství Gloria. Rosice u Brna. 2002.'
-zaltar_iv: 'Josef Olejník. Žaltář IV: Responsoriální žalmy pro všední dny liturgického mezidobí – cyklus 2. Vydavatelství Gloria. Rosice u Brna. 2002.'
-nedelni_zaltar: 'Josef Olejník. Žaltář I: Responzoriální žalmy pro neděle, svátky, obřady a všední dny doby adventní, vánoční, postní a velikonoční. Vydavatel Matice Cyrilometodějská s.r.o. Olomouc. 2021.'
-vsedni_zaltar: 'Josef Olejník. Žaltář II: Responzoriální žalmy pro všední dny liturgického mezidobí. Vydavatel Matice Cyrilometodějská s.r.o. Olomouc. 2021.'
+nedelni_zaltar:
+  reference: 'Josef Olejník. Žaltář I: Responzoriální žalmy pro neděle, svátky, obřady a všední dny doby adventní, vánoční, postní a velikonoční. Vydavatel Matice Cyrilometodějská s.r.o. Olomouc. 2021.'
+  prefix: OL
+  range: [1, 344]
+vsedni_zaltar:
+  reference: 'Josef Olejník. Žaltář II: Responzoriální žalmy pro všední dny liturgického mezidobí. Vydavatel Matice Cyrilometodějská s.r.o. Olomouc. 2021.'
+  prefix: OL
+  range: [401, 728]
+zaltar_i:
+  reference: 'Josef Olejník. Žaltář (I): Responsoriální žalmy pro neděle, slavnosti, svátky, památky a mše spojené s určitými obřady. Pro všechny liturgické cykly. Vydavatelství Matice Cyrilometodějská s.r.o. Olomouc. 1994.'
+zaltar_ii:
+  reference: 'Josef Olejník. Žaltář II: Responsoriální žalmy pro všední dny doby adventní, vánoční, postní a velikonoční. Vydavatelství Gloria. Rosice u Brna. 2002.'
+zaltar_iii:
+  reference: 'Josef Olejník. Žaltář III: Responsoriální žalmy pro všední dny liturgického mezidobí – cyklus 1. Vydavatelství Gloria. Rosice u Brna. 2002.'
+zaltar_iv:
+  reference: 'Josef Olejník. Žaltář IV: Responsoriální žalmy pro všední dny liturgického mezidobí – cyklus 2. Vydavatelství Gloria. Rosice u Brna. 2002.'
