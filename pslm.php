@@ -502,7 +502,7 @@ function pslm_text_to_lyrics($text) {
     $htext = preg_replace($PSLM_HYPH_EXCEPTIONS[0], $PSLM_HYPH_EXCEPTIONS[1], $htext);
     $repl = [
         '#\s{2,}#' => ' ', // normalize white-spaces to single space
-        '# -- ([sšjdb]) -- #ui' => '\1 -- ', // move s, š or j to the previous syllable if both options are possible
+        '# -- ([sšjdbr]) -- #ui' => '\1 -- ', // move s, š or j to the previous syllable if both options are possible
         '# -- ([tzvn]|st) -- #ui' => ' -- \1', // move t, z, v, n to the next syllable if both options are posible
         '# -- (sť|ls)\b#ui' => '\1', // move unsyllabic parts to the previous syllable
         
