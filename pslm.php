@@ -495,7 +495,7 @@ function pslm_text_to_lyrics($text) {
             $search[$i] = '#'.$search[$i].'#ui'; // case-insensitive
         }
         $replace = str_replace('-', ' -- ', $hyph);
-        $search[] = '#([aáeéěiíoóuúůyý])(([bflmpsšvzžhcčkrřdďtťnň]|ch|chr|sl)[aáeéěiíoóuúůyý])#ui'; // general pattern for two vowels separated by a consonant or consonant group
+        $search[] = '#([aáeéěiíoóuúůyý])(([bflmpsšvzžhcčkrřdďtťnň]|ch|chr|sl|tl)[aáeéěiíoóuúůyý])#ui'; // general pattern for two vowels separated by a consonant or consonant group
         $replace[] = '\1 -- \2';
         $PSLM_HYPH_EXCEPTIONS = [$search, $replace];
     }
@@ -503,10 +503,11 @@ function pslm_text_to_lyrics($text) {
     $repl = [
         '#\s{2,}#' => ' ', // normalize white-spaces to single space
         '# -- ([sšjdb]) -- #ui' => '\1 -- ', // move s, š or j to the previous syllable if both options are possible
-        '# -- ([tzv]) -- #ui' => ' -- \1', // move t, z or v to the next syllable if both options are posible
+        '# -- ([tzvn]|st) -- #ui' => ' -- \1', // move t, z, v, n to the next syllable if both options are posible
         '# -- (sť|ls)\b#ui' => '\1', // move unsyllabic parts to the previous syllable
         
         '#\bjs -- me\b#ui' => 'jsme', // fix js -- me
+
         '#\b[ksvz] [^\s]+#ui' => '"\0"', // join unsyllabic preposition to the next syllable
         '#[^\s]+ \+#ui' => '"\0"', // join + sign to the previous syllable
     ];
