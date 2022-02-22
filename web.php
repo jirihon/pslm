@@ -58,12 +58,26 @@ function pslm_render_index() {
     ];
     $psalms = [];
 
+    $c_year = intval(date('Y'));
+    $c_month = intval(date('n'));
+    $c_day = intval(date('j'));
+    echo "$c_year $c_month $c_day\n";
+
     $html = '';
     foreach ($cal as $year) {
+        if ($year['year'] < $c_year) {
+            continue;
+        }
         $html .= sprintf('<h2>%s</h2>', $year['year']);
         foreach ($year['months'] as $month) {
+            if ($year['year'] == $c_year && $month['month'] < $c_month) {
+                continue;
+            }
             $html .= sprintf('<h3>%s</h3><ul>', $month_to_text[$month['month']]);
             foreach ($month['days'] as $day) {
+                if ($year['year'] == $c_year && $month['month'] == $c_month && $day['day'] < $c_day) {
+                    continue;
+                }
                 $day_html = [];
                 $day_html[] = sprintf('<strong>%s. %s.</strong> – %s', $day['day'], $month['month'], $day['name']);
                 foreach ($day['psalms'] as $id) {
