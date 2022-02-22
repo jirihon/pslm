@@ -1,0 +1,89 @@
+%% occasion: '2. neděle postní C'
+%% responsum_reference: 'Ž 27 (26),1a'
+%% verse_reference: 'Ž 27 (26)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 88
+
+m: \key f \major
+
+%% part: responsum
+
+m: a'8 a g f bes4 c8 a | d, f g4 g r ||
+t: Hospodin je mé světlo a má spása.
+
+%% part: verse
+
+m: bes'B a8(_ bes c) c4 r  |
+t: Hospodin je mé světlo a má spása,
+
+m: gB f8(_ g) a a2 ||
+t: * koho bych se bál?
+
+%% part: verse
+
+m: bes'B a8(_ bes) c c4 r |
+t: Hospodin je záštita mého života,
+
+m: gB f8(_ g a) a4 r ||
+t: * před kým bych se třásl?
+
+%% part: responsum_short
+
+m: a'8 a g f bes4 c8 a | d, f g4 g ||
+t: Hospodin je mé světlo a má spása.
+
+%% part: verse
+
+m: r8 bes' besB a8(_ bes c) c2 |
+t: Slyš, Hospodine, můj hlas, jak volám,
+
+m: gB f8(_ g) a a4 ||
+t: * smiluj se nade mnou, vyslyš mě!
+
+%% part: verse
+
+m: r8 bes' besB a8(_ bes c) c4 |
+t: Mé srdce k tobě mluví,
+
+m: r8 g gB f8(_ g a) a2 ||
+t: * má tvář tě hledá.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8(_ bes c) c2 |
+t: Hospodine, hledám tvou tvář.
+
+m: gB f8(_ g) a a2 ||
+t: * Neskrývej svou tvář přede mnou,
+
+%% part: verse
+
+m: bes'B a8_ bes c c4 r |
+t: v hněvu neodmítej svého služebníka!
+
+m: gB f8_ g a a a4 r ||
+t: * Tys má pomoc, nezavrhuj mě!
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8_ bes c c c4 r |
+t: Věřím, že uvidím blaho od Hospodina
+
+m: gB f8(_ g a) a2 ||
+t: * v zemi živých!
+
+%% part: verse
+
+m: bes'B a8(_ bes c) c2 |
+t: Důvěřuj v Hospodina, buď silný,
+
+m: gB f8_ g a a4 r ||
+t: * ať se vzmuží tvé srdce, doufej v Hospodina!
+
+%% use: responsum
+

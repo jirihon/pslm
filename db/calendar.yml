@@ -2,22 +2,34 @@
   months:
     - month: 3
       days:
+      - day: 20
+        name: 3. neděle postní C
+        psalms: [OL89]
+      - day: 19
+        name: Sv. Josefa (19. března)
+        psalms: [OL259]
+      - day: 13
+        name: 2. neděle postní C
+        psalms: [OL80]
+      - day: 6
+        name: 1. neděle postní C
+        psalms: [OL71]
       - day: 2
         name: Popeleční středa
         psalms: [OL67]
     - month: 2
       days:
       - day: 27
-        name: 8. neděle v mezidobí
+        name: 8. neděle v mezidobí C
         psalms: [OL201]
       - day: 20
-        name: 7. neděle v mezidobí
+        name: 7. neděle v mezidobí C
         psalms: [OL197]
       - day: 13
-        name: 6. neděle v mezidobí
+        name: 6. neděle v mezidobí C
         psalms: [OL20]
       - day: 6
-        name: 5. neděle v mezidobí
+        name: 5. neděle v mezidobí C
         psalms: [OL194]
       - day: 2
         name: Svátek Uvedení Páně do chrámu
@@ -25,12 +37,12 @@
     - month: 1
       days:
       - day: 30
-        name: 4. neděle v mezidobí
+        name: 4. neděle v mezidobí C
         psalms: [OL113, 161]
       - day: 23
-        name: 3. neděle v mezidobí
+        name: 3. neděle v mezidobí C
         psalms: [160]
       - day: 16
-        name: 2. neděle v mezidobí
+        name: 2. neděle v mezidobí C
         psalms: [159]
         
