@@ -1,5 +1,10 @@
 - year: 2022
   months:
+    - month: 3
+      days:
+      - day: 2
+        name: Popeleční středa
+        psalms: [OL67]
     - month: 2
       days:
       - day: 27
