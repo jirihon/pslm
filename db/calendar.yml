@@ -2,6 +2,9 @@
   months:
     - month: 3
       days:
+      - day: 27
+        name: 4. neděle postní C
+        psalms: [OL98]
       - day: 20
         name: 3. neděle postní C
         psalms: [OL89]
