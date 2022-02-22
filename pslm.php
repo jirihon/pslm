@@ -321,10 +321,8 @@ words = \lyricmode {
 }
 \score {
     <<
-        \new Staff <<
-            \new Voice = "melody" \melody
-            \new Lyrics \lyricsto "melody" \words
-        >>
+        \new Voice = "melody" \melody
+        \new Lyrics \lyricsto "melody" \words
     >>
     \layout {}
 }
