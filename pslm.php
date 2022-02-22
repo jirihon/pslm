@@ -7,6 +7,7 @@ require_once 'vendor/autoload.php';
 $i = 0;
 define('PSLM_TOKEN_SYLLABLE', $i++);
 define('PSLM_TOKEN_HYPHEN', $i++);
+define('PSLM_TOKEN_STAR', $i++);
 define('PSLM_TOKEN_KEY', $i++);
 define('PSLM_TOKEN_NOTE_SYLLABLE', $i++);
 define('PSLM_TOKEN_NOTE', $i++);
@@ -200,7 +201,8 @@ function pslm_lilypond($psalm, $size) {
     bottom-margin = 0\cm
     left-margin = 0\cm
     paper-width = %s\cm
-    page-breaking = #ly:one-page-breaking 
+    page-breaking = #ly:one-page-breaking
+    system-system-spacing.basic-distance = #11
 }
 
 
@@ -438,7 +440,7 @@ function pslm_process_snippet($music, $text) {
         '#B#' => '\breve',
         '#\(#' => '[(',
         '#\)#' => ')]',
-        '#_#' => '\verseAccent',
+        //'#_#' => '\verseAccent',
     ];
     $music = preg_replace(array_keys($shortcuts), array_values($shortcuts), $music);
 
@@ -453,6 +455,36 @@ function pslm_process_snippet($music, $text) {
 
     $text = pslm_text_to_lyrics($text);
     $text_tokens = pslm_parse_lyrics($text);
+    
+    $accent_syllable_i = -1;
+    foreach ($note_syllables as $i => $token) {
+        if (strpos($token[1], '_') !== false) {
+            $accent_syllable_i = $i;
+            break;
+        }
+    }
+    if ($accent_syllable_i > -1) {
+        $n_syllables_from_end = count($note_syllables) - $accent_syllable_i;
+        $n_text_syllables = 0;
+        for ($i = count($text_tokens) - 1; $i >= 0; --$i) {
+            if ($text_tokens[$i][0] == PSLM_TOKEN_SYLLABLE) {
+                ++$n_text_syllables;
+                if ($n_text_syllables == $n_syllables_from_end) {
+                    $text_tokens[$i][1] = sprintf('\markup { \override #\'(offset . 4.3) \underline "%s" }', $text_tokens[$i][1]);
+                }
+            }
+        }
+    }
+    $text = implode(' ', array_map(function($token) {
+        if ($token[1][0] != '\\' && strpos($token[1], ' ') !== false) {
+            // should be escaped
+            return sprintf('"%s"', $token[1]);
+        } else {
+            return $token[1];
+        }
+    }, $text_tokens));
+
+    $music = str_replace('_', '', $music);
     
     $text_syllables = pslm_text_syllables($text_tokens);
     $n_text_syllables = count($text_syllables);
@@ -530,7 +562,9 @@ function pslm_parse_lyrics($text) {
                 $state = PSLM_STATE_STR;
             } elseif ($ch[$i] === ' ') {
                 if ($s !== '') {
-                    if ($s !== '*') {
+                    if ($s === '*') {
+                        $tokens[] = [PSLM_TOKEN_STAR, $s];
+                    } else {
                         $tokens[] = [PSLM_TOKEN_SYLLABLE, $s];
                     }
                     $s = '';
@@ -567,15 +601,15 @@ function pslm_print_text_tokens($tokens) {
 }
 
 function pslm_text_syllables($tokens) {
-    return array_filter($tokens, function($token) { 
+    return array_values(array_filter($tokens, function($token) { 
         return $token[0] == PSLM_TOKEN_SYLLABLE;
-    });
+    }));
 }
 
 function pslm_note_syllables($tokens) {
-    return array_filter($tokens, function($token) {
+    return array_values(array_filter($tokens, function($token) {
         return $token[0] == PSLM_TOKEN_NOTE_SYLLABLE;
-    });
+    }));
 }
 
 
