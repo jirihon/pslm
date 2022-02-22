@@ -12,7 +12,7 @@ pslm_pregenerate('db/vsedni_zaltar.yml', 'vsedni_zaltar');
 function pslm_pregenerate($filename, $source) {
     $psalms = Yaml::parseFile($filename);
 
-    foreach ($psalms as $psalm) {
+    foreach ($psalms as $page => $psalm) {
         $id = '';
         $verses = [];
         $occasions = [];
@@ -67,6 +67,7 @@ function pslm_pregenerate($filename, $source) {
         $pslm[] = "%% verse_reference: '$verse_reference'";
         $pslm[] = '%% author: olejnik';
         $pslm[] = "%% source: $source";
+        $pslm[] = "%% page: $page";
         $pslm[] = '';
         $pslm[] = 'm: \key c \major';
         $pslm[] = '';
