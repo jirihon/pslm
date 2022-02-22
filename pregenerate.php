@@ -89,7 +89,7 @@ function pslm_pregenerate($filename, $source) {
             $verse_parts = preg_split('#\s*\*\s*#u', $verse);
             foreach ($verse_parts as $i => $verse_part) {
                 if ($i < count($verse_parts) - 1) {
-                    $pslm[] = 'm: bB |';
+                    $pslm[] = 'm: aB |';
                 } else {
                     $pslm[] = 'm: bB ||';
                 }
