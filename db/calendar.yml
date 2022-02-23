@@ -1,5 +1,10 @@
 - year: 2022
   months:
+    - month: 4
+      days:
+      - day: 3
+        name: 5. neděle postní C
+        psalms: [OL16]
     - month: 3
       days:
       - day: 27
