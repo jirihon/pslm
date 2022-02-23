@@ -189,6 +189,15 @@ function pslm_midi($psalm) {
 
 
 function pslm_lilypond($psalm, $size) {
+    foreach ($psalm['music'] as $key => $music) {
+        if (preg_match('#^verse#', $key)) {
+            preg_match_all('#\\\\accent#', implode(' ', $psalm['text'][$key]), $m);
+            if (count($m[0]) < 2) {
+                echo "WARNING: $key does not have at least two accents\n";
+            }
+        }
+    }
+
     $music = pslm_music_implode($psalm['music']);
     $text = pslm_text_implode($psalm['text']);
 
@@ -287,8 +296,11 @@ unHideNotes = {
     \revert NoteHead.color
 }
 
-accentMark = \markup \raise #0.5 \rotate #-20 \musicglyph "scripts.rvarcomma"
-accent = #(make-dynamic-script accentMark)
+#(define-markup-command (accent layout props text) (markup?)
+  "Underline accented syllable"
+  (interpret-markup layout props
+    #{\markup \override #\'(offset . 4.3) \underline { #text }#}))
+
 star = \markup { \lower #0.65 \larger "*" }
 responsum = \markup \concat { "R" \hspace #-1.05 \path #0.1 #\'((moveto 0 0.07) (lineto 0.9 0.7)) \hspace #0.05 "." }
 
@@ -438,8 +450,8 @@ function pslm_process_snippet($music, $text) {
         '#(?<=\s|^)\|(?=\s|$)#' => '\bar "|"',
         '#(?<=\s|^)/(?=\s|$)#' => '\bar ""',
         '#B#' => '\breve',
-        '#\(#' => '[(',
-        '#\)#' => ')]',
+        //'#\(#' => '[(',
+        //'#\)#' => ')]',
         //'#_#' => '\verseAccent',
     ];
     $music = preg_replace(array_keys($shortcuts), array_values($shortcuts), $music);
@@ -455,6 +467,18 @@ function pslm_process_snippet($music, $text) {
 
     $text = pslm_text_to_lyrics($text);
     $text_tokens = pslm_parse_lyrics($text);
+
+    $duration = '4';
+    foreach ($music_tokens as &$token) {
+        preg_match('#(1|2|4|8|16)#', $token[1], $m);
+        if ($m) {
+            $duration = $m[1];
+        }
+        if ($duration == '8') {
+            $token[1] = preg_replace(['#\(#', '#\)#'], ['[(', ')]'], $token[1]);
+        }
+    }
+    $music = implode(' ', array_map(function($token) { return $token[1]; }, $music_tokens));
     
     $accent_syllable_i = -1;
     foreach ($note_syllables as $i => $token) {
@@ -470,7 +494,7 @@ function pslm_process_snippet($music, $text) {
             if ($text_tokens[$i][0] == PSLM_TOKEN_SYLLABLE) {
                 ++$n_text_syllables;
                 if ($n_text_syllables == $n_syllables_from_end) {
-                    $text_tokens[$i][1] = sprintf('\markup { \override #\'(offset . 4.3) \underline "%s" }', $text_tokens[$i][1]);
+                    $text_tokens[$i][1] = sprintf('\markup \accent "%s"', $text_tokens[$i][1]);
                 }
             }
         }
