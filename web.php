@@ -141,7 +141,7 @@ function pslm_render_index() {
 
     $html = '';
     $html .= '<p><i>„Zpěvem se Boží slovo ukládá do srdce, aby se nám vynořilo v pravý čas, kdy budeme plni radosti, bolesti, starosti, úzkosti nebo vděčnosti. Tak se zpívané Boží slovo žalmů stane útěchou, posilou a světlem v našem putování do věčného domova.“</i> P. Josef Olejník</p>';
-    $html .= '<p><a href="rejstrik.html">Rejstřík</a> | <a href="o-projektu.html">O projektu</a> | <a href="https://github.com/jirihon/pslm">GitHub</a></p>';
+    $html .= '<p><a href="rejstrik.html">Rejstřík</a> | <a href="o-projektu.html">O projektu</a></p>';
 
     foreach ($cal as &$year) {
         usort($year['months'], function($a, $b) {
