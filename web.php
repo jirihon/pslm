@@ -115,6 +115,10 @@ function pslm_render_index() {
     global $PSLM_PSALMS;
     $cal = Yaml::parseFile('db/calendar.yml');
 
+    usort($cal, function($a, $b) {
+        return ($a['year'] < $b['year']) ? -1 : 1;
+    });
+
     $month_to_text = [
         1 => 'Leden',
         2 => 'Únor',
@@ -139,16 +143,24 @@ function pslm_render_index() {
     $html .= '<p><i>„Zpěvem se Boží slovo ukládá do srdce, aby se nám vynořilo v pravý čas, kdy budeme plni radosti, bolesti, starosti, úzkosti nebo vděčnosti. Tak se zpívané Boží slovo žalmů stane útěchou, posilou a světlem v našem putování do věčného domova.“</i> P. Josef Olejník</p>';
     $html .= '<p><a href="rejstrik.html">Rejstřík</a> | <a href="o-projektu.html">O projektu</a> | <a href="https://github.com/jirihon/pslm">GitHub</a></p>';
 
-    foreach ($cal as $year) {
+    foreach ($cal as &$year) {
+        usort($year['months'], function($a, $b) {
+            return ($a['month'] < $b['month']) ? -1 : 1;
+        });
         if ($year['year'] < $c_year) {
             continue;
         }
         $html .= sprintf('<h2>%s</h2>', $year['year']);
-        foreach ($year['months'] as $month) {
+
+        foreach ($year['months'] as &$month) {
+            usort($month['days'], function($a, $b) {
+                return ($a['day'] < $b['day']) ? -1 : 1;
+            });
             if ($year['year'] == $c_year && $month['month'] < $c_month) {
                 continue;
             }
             $html .= sprintf('<h3>%s</h3><ul>', $month_to_text[$month['month']]);
+
             foreach ($month['days'] as $day) {
                 if ($year['year'] == $c_year && $month['month'] == $c_month && $day['day'] < $c_day) {
                     continue;
