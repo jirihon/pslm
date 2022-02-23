@@ -1,0 +1,86 @@
+%% occasion: 'Květná neděle'
+%% responsum_reference: 'Ž 22 (21),2a'
+%% verse_reference: 'Ž 22 (21)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 120
+
+m: \key f \major
+
+%% part: responsum
+
+m: a'8 g g4( f) | bes8 a a4( g) | c d c | a8 g g2 ||
+t: Bože můj, Bože můj, proč jsi mne opustil?
+
+%% part: verse
+
+m: c'B d8 e g(_ f) f2 |
+t: Posmívají se mi všichni, kdo mě vidí,
+
+m: dB e8 f a(_ g) g2 ||
+t: * šklebí rty, pokyvují hlavou:
+
+%% part: verse
+
+m: c'B d8 e g_ f f f2 |
+t: „Spoléhal na Hospodina, ať ho vysvobodí,
+
+m: dB e8 f a_ g g g2 ||
+t: * ať ho zachrání, má -- li ho rád!“
+
+%% use: responsum
+
+%% part: verse
+
+m: c'B d8 e g_ f f2 |
+t: Obkličuje mě smečka psů,
+
+m: dB e8 f a(_ g) g2 ||
+t: * tlupa zlosynů mě svírá.
+
+%% part: verse
+
+m: c'B d8 e g(_ f) f4 r |
+t: Probodli mi ruce i nohy,
+
+m: dB e8 f a(_ g) g4 r ||
+t: * spočítat mohu všechny své kosti.
+
+%% use: responsum
+
+%% part: verse
+
+m: c'B d8 e g(_ f) f4 |
+t: Dělí se o můj oděv,
+
+m: r8 d e f a_ g g4 r ||
+t: * losují o můj šat.
+
+%% part: verse
+
+m: c'B d8 e g_ f f4 |
+t: Ty však, Hospodine, nestůj daleko,
+
+m: r8 d dB e8 f a_ g g4 r ||
+t: * má sílo, pospěš mi na pomoc!
+
+%% use: responsum
+
+%% part: verse
+
+m: c'B d8 e g(_ f) f4 r |
+t: Budu vyprávět svým bratřím o tvém jménu,
+
+m: dB e8 f a(_ g) g4 r ||
+t: * uprostřed shromáždění budu tě chválit.
+
+%% part: verse
+
+m: c'B d8 e g_ f f4 r |
+t: „Kdo se bojíte Hospodina, chvalte ho,
+
+m: dB e8 f a_ g g4 r ||
+t: * slavte ho, všichni z Jakubova potomstva.“
+
+%% use: responsum
+

@@ -2,6 +2,9 @@
   months:
     - month: 4
       days:
+      - day: 10
+        name: Květná neděle
+        psalms: [OL111]
       - day: 3
         name: 5. neděle postní C
         psalms: [OL16]
