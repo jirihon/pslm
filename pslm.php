@@ -536,7 +536,7 @@ function pslm_text_to_lyrics($text) {
         '#\s{2,}#' => ' ', // normalize white-spaces to single space
         '# -- ([sšjdbr]) -- #ui' => '\1 -- ', // move s, š or j to the previous syllable if both options are possible
         '# -- ([tzvn]|st) -- #ui' => ' -- \1', // move t, z, v, n to the next syllable if both options are posible
-        '# -- (sť|ls)\b#ui' => '\1', // move unsyllabic parts to the previous syllable
+        '# -- (sť|ls|ch)\b#ui' => '\1', // move unsyllabic parts to the previous syllable
         
         '#\bjs -- me\b#ui' => 'jsme', // fix js -- me
 
