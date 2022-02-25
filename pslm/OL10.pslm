@@ -1,0 +1,78 @@
+%% occasion: 'Pátek po 1. neděli adventní'
+%% occasion: 'Pátek po 2. neděli velikonoční'
+%% occasion: '3. neděle v mezidobí A'
+%% responsum_reference: 'Ž 27 (26),1a'
+%% verse_reference: 'Ž 27 (26)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 18
+
+m: \key f \major
+
+%% part: responsum
+
+m: a'8 a g f bes4 c8 a | d, f g4 g r ||
+t: Hospodin je mé světlo a má spása.
+
+%% part: verse
+
+m: bes'B a8(_ bes c) c4 r |
+t: Hospodin je mé světlo a má spása,
+
+m: gB f8(_ g) a a2 ||
+t: * koho bych se bál?
+
+%% part: verse
+
+m: bes'B a8(_ bes) c c4 r |
+t: Hospodin je záštita mého života,
+
+m: gB f8(_ g a) a4 r ||
+t: * před kým bych se třásl?
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8(_ bes c) c4 |
+t: Jedno od Hospodina žádám
+
+m: r8 g gB f8(_ g a) a2 ||
+t: * a po tom toužím:
+
+%% part: verse
+
+m: bes'B a8 bes c c4 r |
+t: abych směl přebývat v Hospodinově domě
+
+m: gB  f8(_ g) a a4 r8 ||
+t: * po všechny dny svého života,
+
+%% part: verse
+
+m: bes'B a8(_ bes c) c4 r |
+t: abych požíval Hospodinovy něhy
+
+m: r8 g gB f8_ g a a2 ||
+t: * a patřil na jeho chrám.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8_ bes c c2 |
+t: Věřím, že uvidím blaho od Hospodina
+
+m: gB f8(_ g a) a2 ||
+t: * v zemi živých!
+
+%% part: verse
+
+m: bes'B a8(_ bes c) c2 |
+t: Důvěřuj v Hospodina, buď silný,
+
+m: gB f8_ g a a4 r ||
+t: * ať se vzmuží tvé srdce, doufej v Hospodina!
+
+%% use: responsum
+
