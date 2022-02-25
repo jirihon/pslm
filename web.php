@@ -243,7 +243,7 @@ function pslm_render_psalm_html($id) {
         <?php endforeach ?></p>
         <?php endif ?>
         
-        <p><a href="mailto:jiri.hon@gmail.com?subject=<?= urlencode('Chyba v žalmu ' . $id) ?>">Nahlásit chybu</a></p>
+        <p><a href="mailto:jiri.hon@gmail.com?subject=Chyba v žalmu <?= $id ?>">Nahlásit chybu</a></p>
     </div>
 </body>
 </html>
