@@ -1,0 +1,70 @@
+%% occasion: 'Pondělí 11. a 28. týdne 1'
+%% occasion: 'Pátek 31. týdne 1'
+%% occasion: 'Úterý 8. týdne 2'
+%% responsum_reference: 'Srov. Ž 98 (97),2'
+%% verse_reference: 'Ž 98 (97)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 66
+
+m: \key bes \major
+
+%% part: responsum
+
+m: f'8 f f f g a bes4 bes | c8 c a g f f2 ||
+t: Hospodin zjevil svou spásu před zraky pohanů.
+
+%% part: verse
+
+m: bes8 d fB f8 d g(_ f) f2 |
+t: Zpívejte Hospodinu novou píseň,
+
+m: gB a8 bes c(_ a f) f2 ||
+t: * neboť učinil podivuhodné věci.
+
+%% part: verse
+
+m: bes8 d fB f8 d g_ f f2 |
+t: Vítězství je dílem jeho pravice,
+
+m: gB a8 bes c(_ a) f f2 ||
+t: * jeho svatého ramene.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes8 d fB f8 d g(_ f) f2 |
+t: Hospodin uvedl ve známost svou spásu,
+
+m: gB a8 bes c_ a f f2 ||
+t: * před zraky pohanů zjevil svou spravedlnost.
+
+%% part: verse
+
+m: bes8 d fB f8 d g(_ f) f2 |
+t: Rozpomenul se na svou dobrotu a věrnost
+
+m: gB a8 bes c(_ a f) f2 ||
+t: * Izraelovu domu.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes8 d fB f8 s g(_ f) f2 |
+t: Uzřely všechny končiny země
+
+m: gB a8 bes c(_ a f) f2 ||
+t: * spásu našeho Boha.
+
+%% part: verse
+
+m: bes8 d fB f8 d g(_ f) f2 |
+t: Jásejte Hospodinu, všechny země,
+
+m: gB a8 bes c(_ a f) f2 ||
+t: * radujte se, plesejte a hrejte!
+
+%% use: responsum
+

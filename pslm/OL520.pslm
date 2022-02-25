@@ -1,0 +1,69 @@
+%% occasion: 'Pátek 22. týdne 1'
+%% occasion: 'Sobota 24. týdne 1'
+%% occasion: 'Čtvrtek 8. a 34. týdne 2'
+%% occasion: 'Úterý 24. týdne 2'
+%% responsum_reference: 'Ž 100 (99),3c'
+%% verse_reference: 'Ž 100 (99)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 129
+
+m: \key f \major
+
+%% part: responsum
+
+m: c''8( d) c a | a4 r8 f | bes4 c8 | bes bes a | g( e) c4 r ||
+t: Jsme jeho lid a stádce, které on pase.
+
+%% part: verse
+
+m: d'B e8 f a(_ g) g4 r |
+t: Plesejte Hospodinu, všechny země,
+
+m: gB f8 g bes_ a a2 |
+t: * služte Hopodinu s radostí,
+
+m: besB c8 d d_ c c2 ||
+t: * vstupte před něho s jásotem!
+
+%% use: responsum
+
+%% part: verse
+
+m: d'B e8 f a_ g g2 |
+t: Uznejte, že Hospodin je Bůh:
+
+m: gB f8 g bes_ a a4 r |
+t: * on nás učinil, a my mu náležíme,
+
+m: r8 bes besB c8 d d_ c c2 ||
+t: * jsme jeho lid a stádce na jeho pastvině.
+
+%% use: responsum
+
+%% part: verse
+
+m: d'B e8 f a(_ g) g2 |
+t: Vstupte do jeho bran s díkem,
+
+m: gB f8 g bes_ a a2 |
+t: * do jeho nádvoří s chvalozpěvem,
+
+m: besB c8 d d(_ c) c2 ||
+t: * slavte ho, žehnejte jeho jménu!
+
+%% use: responsum
+
+%% part: verse
+
+m: d'B e8 f a(_ g) g2 |
+t: Neboť Hospodin je dobrý,
+
+m: gB f8 g bes(_ a)m a2 |
+t: * jeho milosrdenství je věčné,
+
+m: besB c8 d d(_ c) c2 ||
+t: * po všechna pokolení trvá jeho věrnost.
+
+%% use: responsum
+

@@ -1,0 +1,70 @@
+%% occasion: 'Pondělí 19. týdne 1'
+%% occasion: 'Pátek 30. týdne 1'
+%% occasion: 'Středa 8. týdne 2'
+%% responsum_reference: 'Ž 147,12a'
+%% verse_reference: 'Ž 147'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 110
+
+m: \key c \major
+
+%% part: responsum
+
+m: g'8 a b c4 c8 | a b c d b g | g4 r8 ||
+t: Jeruzaléme, oslavuj Hospodina!
+
+%% part: verse
+
+m: f'B g8 a a_ g g g4 r |
+t: Jeruzaléme, oslavuj Hospodina,
+
+m: dB c8 d f_ e e4 r ||
+t: * chval svého Boha, Sióne,
+
+%% part: verse
+
+m: r8 f' fB g8 a a(_ g) g2 |
+t: že zpevnil závory tvých bran,
+
+m: dB c8 d f(_ e) e2 ||
+t: * požehnal tvým synům v tobě.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B g8 a a(_ g) g4 r |
+t: Zjednal tvému území pokoj
+
+m: r8 d dB c8 d f_ e e2 ||
+t: * a sytí tě jadrnou pšenicí.
+
+%% part: verse
+
+m: f'B g8 a a_ g g2 |
+t: Sesílá svůj rozkaz na zemi,
+
+m: dB c8 d f(_ e) e2 ||
+t: * rychle běží jeho slovo.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B g8 a a_ g g4 r |
+t: Oznámil své slovo Jakubovi,
+
+m: r8 d dB c8 d f e e e4 r ||
+t: * své zákony a přikázání Izraeli.
+
+%% part: verse
+
+m: r8 f' fB g8 a a g g2 |
+t: Tak nejednal se žádným národem,
+
+m: dB c8 d f e e e2 ||
+t: * nesdělil jim svá přikázání.
+
+%% use: responsum
+
