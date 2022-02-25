@@ -38,8 +38,8 @@ function pslm_engrave($id, $svg_d) {
 
         $lily_f = "ly/$id-$size.ly";
         if (PSLM_CACHE && file_exists($lily_f) && $lily === file_get_contents($lily_f)) {
-            echo "Skipping SVG engraving for $id-$size, lilypond is the same.\n";
-            continue;
+            echo "Skipping SVG engraving for $id, lilypond for size $size is the same.\n";
+            break;
         }
         file_put_contents($lily_f, $lily);
 
