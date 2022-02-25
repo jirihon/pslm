@@ -23,7 +23,7 @@ t: Plesejte Hospodinu, všechny země,
 m: gB f8 g bes_ a a2 |
 t: * služte Hopodinu s radostí,
 
-m: besB c8 d d_ c c2 ||
+m: besB c8 d d_ c c4 r ||
 t: * vstupte před něho s jásotem!
 
 %% use: responsum
@@ -33,23 +33,23 @@ t: * vstupte před něho s jásotem!
 m: d'B e8 f a_ g g2 |
 t: Uznejte, že Hospodin je Bůh:
 
-m: gB f8 g bes_ a a4 r |
+m: gB f8 g bes_ a a a4 |
 t: * on nás učinil, a my mu náležíme,
 
-m: r8 bes besB c8 d d_ c c2 ||
+m: r8 bes besB c8 d d_ c c4 r ||
 t: * jsme jeho lid a stádce na jeho pastvině.
 
 %% use: responsum
 
 %% part: verse
 
-m: d'B e8 f a(_ g) g2 |
+m: d'B e8 f a(_ g) g4 r |
 t: Vstupte do jeho bran s díkem,
 
-m: gB f8 g bes_ a a2 |
+m: gB f8 g bes_ a a a4 r |
 t: * do jeho nádvoří s chvalozpěvem,
 
-m: besB c8 d d(_ c) c2 ||
+m: besB c8 d d(_ c) c4 r ||
 t: * slavte ho, žehnejte jeho jménu!
 
 %% use: responsum
@@ -59,10 +59,10 @@ t: * slavte ho, žehnejte jeho jménu!
 m: d'B e8 f a(_ g) g2 |
 t: Neboť Hospodin je dobrý,
 
-m: gB f8 g bes(_ a)m a2 |
+m: gB f8 g bes(_ a) a2 |
 t: * jeho milosrdenství je věčné,
 
-m: besB c8 d d(_ c) c2 ||
+m: besB c8 d d(_ c) c4 r ||
 t: * po všechna pokolení trvá jeho věrnost.
 
 %% use: responsum

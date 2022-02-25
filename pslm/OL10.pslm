@@ -11,7 +11,7 @@ m: \key f \major
 
 %% part: responsum
 
-m: a'8 a g f bes4 c8 a | d, f g4 g r ||
+m: a'8 a g f bes4 c8 a | d, f / g4 g r ||
 t: Hospodin je mé světlo a má spása.
 
 %% part: verse
@@ -42,15 +42,15 @@ t: * a po tom toužím:
 
 %% part: verse
 
-m: bes'B a8 bes c c4 r |
+m: bes'B a8(_ bes c) c4 r |
 t: abych směl přebývat v Hospodinově domě
 
-m: gB  f8(_ g) a a4 r8 ||
+m: gB  f8(_ g) a a4 r ||
 t: * po všechny dny svého života,
 
 %% part: verse
 
-m: bes'B a8(_ bes c) c4 r |
+m: bes'B a8(_ bes c) c4 |
 t: abych požíval Hospodinovy něhy
 
 m: r8 g gB f8_ g a a2 ||
@@ -60,7 +60,7 @@ t: * a patřil na jeho chrám.
 
 %% part: verse
 
-m: bes'B a8_ bes c c2 |
+m: bes'B a8_ bes c c c4 r |
 t: Věřím, že uvidím blaho od Hospodina
 
 m: gB f8(_ g a) a2 ||

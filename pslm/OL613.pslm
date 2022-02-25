@@ -1,6 +1,3 @@
-%% occasion: '(Úterý 8. týdne 2 - viz OL457)'
-%% occasion: '(Středa 8. týdne 2 - viz OL501)'
-%% occasion: '(Čtvrtek 8. týdne 2 - viz OL520)'
 %% occasion: 'Pátek 8. týdne 2'
 %% occasion: 'Úterý 21. a 34. týdne 2'
 %% responsum_reference: 'Ž 96 (95),13ab'
@@ -13,51 +10,51 @@ m: \key c \major
 
 %% part: responsum
 
-m: g'8 e g a a a2 d b4 a8( g) g2 ||
+m: g'8 e g a a a2 / d b4 a8( g) g2 ||
 t: Hospodin přichází řídit zemi.
 
 %% part: verse
 
-m: f'B e8 f g_ e e2 |
+m: f'B e8 f g_ e e4 r |
 t: Hlásejte mezi pohany: Hospodin kraluje.
 
-m: dB c8 d e(_ c) c2 ||
+m: dB c8 d e(_ c) c4 r ||
 t: * Upevnil svět, aby nekolísal: + národy řídí podle práva.
 
 %% use: responsum
 
 %% part: verse
 
-m: f'B e8 f g(_ e) e2 |
+m: f'B e8 f g(_ e) e4 r |
 t: Radujte se, nebesa, zajásej, země,
 
-m: dB c8 d e_ c c c2 ||
+m: dB c8 d e_ c c c4 r ||
 t: * zahuč, moře a vše, co je naplňuje;
 
 %% part: verse
 
-m: f'B e8 f g(_ e) e2 |
+m: f'B e8 f g(_ e) e4 r |
 t: zaplesej, pole a vše, co je na něm.
 
-m: dB c8 d e(_ c) c2 ||
+m: dB c8 d e(_ c) c4 r ||
 t: * Tehdy se rozveselí všechny lesní stromy.
 
 %% use: responsum
 
 %% part: verse
 
-m: f'B e8 f g_ e e4 r |
+m: f'B e8 f g_ e e4 |
 t: Před Hospodinem, že přichází,
 
-m: r8 d dB c8 d e(_ c) c2 ||
+m: r8 d dB c8 d e(_ c) c4 r ||
 t: * že přichází řídit zemi.
 
 %% part: verse
 
-m: f'B e8 f g_ e e e2 |
+m: f'B e8 f g_ e e e4 r |
 t: Bude řídit svět spravedlivě,
 
-m: dB c8 d e(_ c) c2 ||
+m: dB c8 d e(_ c) c4 r ||
 t: * národy bude spravovat věrně.
 
 %% use: responsum

@@ -11,59 +11,59 @@ m: \key bes \major
 
 %% part: responsum
 
-m: f'8 f f f g a bes4 bes | c8 c a g f f2 ||
+m: f'8 f f f g a / bes4 bes | c8 c a / g f f2 ||
 t: Hospodin zjevil svou spásu před zraky pohanů.
 
 %% part: verse
 
-m: bes8 d fB f8 d g(_ f) f2 |
+m: bes8 d fB f8 d g(_ f) f4 r |
 t: Zpívejte Hospodinu novou píseň,
 
-m: gB a8 bes c(_ a f) f2 ||
+m: gB a8 bes c(_ a f) f4 r ||
 t: * neboť učinil podivuhodné věci.
 
 %% part: verse
 
-m: bes8 d fB f8 d g_ f f2 |
+m: bes8 d fB f8 d g_ f f4 r |
 t: Vítězství je dílem jeho pravice,
 
-m: gB a8 bes c(_ a) f f2 ||
+m: gB a8 bes c(_ a) f f4 r ||
 t: * jeho svatého ramene.
 
 %% use: responsum
 
 %% part: verse
 
-m: bes8 d fB f8 d g(_ f) f2 |
+m: bes8 d fB f8 d g(_ f) f4 r |
 t: Hospodin uvedl ve známost svou spásu,
 
-m: gB a8 bes c_ a f f2 ||
+m: gB a8 bes c_ a f f4 r ||
 t: * před zraky pohanů zjevil svou spravedlnost.
 
 %% part: verse
 
-m: bes8 d fB f8 d g(_ f) f2 |
+m: bes8 d fB f8 d g(_ f) f4 r |
 t: Rozpomenul se na svou dobrotu a věrnost
 
-m: gB a8 bes c(_ a f) f2 ||
+m: gB a8 bes c(_ a f) f4 r ||
 t: * Izraelovu domu.
 
 %% use: responsum
 
 %% part: verse
 
-m: bes8 d fB f8 s g(_ f) f2 |
+m: bes8 d fB f8 s g(_ f) f4 r |
 t: Uzřely všechny končiny země
 
-m: gB a8 bes c(_ a f) f2 ||
+m: gB a8 bes c(_ a f) f4 r ||
 t: * spásu našeho Boha.
 
 %% part: verse
 
-m: bes8 d fB f8 d g(_ f) f2 |
+m: bes8 d fB f8 d g(_ f) f4 r |
 t: Jásejte Hospodinu, všechny země,
 
-m: gB a8 bes c(_ a f) f2 ||
+m: gB a8 bes c(_ a f) f4 r ||
 t: * radujte se, plesejte a hrejte!
 
 %% use: responsum
