@@ -2,6 +2,15 @@
   months:
     - month: 4
       days:
+      - day: 13
+        name: Středa Svatého týdne
+        psalms: [OL114]
+      - day: 12
+        name: Úterý Svatého týdne
+        psalms: [OL113]
+      - day: 11
+        name: Pondělí Svatého týdne
+        psalms: [OL112]
       - day: 10
         name: Květná neděle
         psalms: [OL111]
@@ -28,11 +37,20 @@
       - day: 6
         name: 1. neděle postní C
         psalms: [OL71]
+      - day: 3
+        name: Čtvrtek po Popeleční středě
+        psalms: [OL67]
       - day: 2
         name: Popeleční středa
         psalms: [OL67]
+      - day: 1
+        name: Úterý 8. týdne v mezidobí 2
+        psalms: [OL457]
     - month: 2
       days:
+      - day: 28
+        name: Pondělí 8. týdne v mezidobí 2
+        psalms: [OL612]
       - day: 27
         name: 8. neděle v mezidobí C
         psalms: [OL201]
