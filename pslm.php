@@ -561,9 +561,8 @@ function pslm_text_to_lyrics($text) {
         '# -- ([bdjlrřsš]) -- #ui' => '\1 -- ', // move some ambiguous consonants to the previous syllable if both options are possible
         '# -- ([cčfghkmnňpqtťvwxyzžhcktzvnk]|st) -- #ui' => ' -- \1', // move other ambiguous consonants to the next syllable if both options are posible
         '# -- (sť|ls|ch)\b#ui' => '\1', // move unsyllabic parts to the previous syllable
+        '#\b(js) -- #ui' => '\1', // move unsyllabic parts to the next syllable
         
-        '#\bjs -- me\b#ui' => 'jsme', // fix js -- me
-
         '#\b[ksvz] [^\s]+#ui' => '"\0"', // join unsyllabic preposition to the next syllable
         '#[^\s]+ \+#ui' => '"\0"', // join + sign to the previous syllable
     ];
