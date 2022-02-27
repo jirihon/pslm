@@ -1,0 +1,89 @@
+%% occasion: 'Zmrtvýchvstání Páně, vigilie (3. čtení)'
+%% responsum_reference: 'Ex 15,1a'
+%% verse_reference: 'Ex 15'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 130
+
+m: \key f \major
+
+%% part: responsum_short
+
+m: \tuplet 3/2 { f'8[ f f] } e d g4. g8 \breathe / \tuplet 3/2 { g[ g g] } / f e / a a a4 ||
+t: Hospodinu chci zpívat, neboť je velmi vznešený.
+
+%% part: verse
+
+m: r8 bes' besB c8 bes a_ g g2 |
+t: Chci zpívat Hospodinu, neboť je velmi vznešený,
+
+m: gB a8 f d_ c c4 r ||
+t: * koně i jezdce svrhl do moře.
+
+%% part: verse
+
+m: bes'B c8 bes a(_ g) g4 r |
+t: Hospodin je má síla, jej opěvuji, + stalse mou spásou.
+
+m: gB a8 f d_ c c c4 r ||
+t: * On je můj Bůh, a já ho chválím, + Bůh mého otce, a já ho oslavuji.
+
+%% part: responsum
+
+m: \tuplet 3/2 { f'8[ f f] } e d g4. g8 \breathe / \tuplet 3/2 { g[ g g] } / f e / a a a2 ||
+t: Hospodinu chci zpívat, neboť je velmi vznešený.
+
+%% part: verse
+
+m: bes'B c8 bes a_ g g4 r |
+t: Hospodin je hrdina ve válce,
+
+m: gB a8 f d_ c c4 r ||
+t: * jeho jméno je Hospodin.
+
+%% part: verse
+
+m: bes'B c8 bes a_ g g4 r |
+t: Faraónovy vozy a jeho vojsko svrhl do moře,
+
+m: gB a8 f d(_ c) c4 r ||
+t: * výkvět jeho reků byl potopen v Rákosovém moři.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 bes a_ g g4 r |
+t: Hlubiny je přikryly,
+
+m: gB a8 f d(_ c) c4 ||
+t: * zřítili se do propasti jako kámen.
+
+%% part: verse
+
+m: r8 bes' besB c8 bes a(_ g) g4 |
+t: Tvá pravice, Hospodine, ukazuje svou moc a sílu, 
+
+m: r8 g gB a8 f d_ c c c4 r ||
+t: * tvá pravice, Hospodine, drtí nepřátele.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 bes a_ g g2 |
+t: Přivedeš a zasadíš svůj lid na hoře, na svém vlastnictví,
+
+m: gB a8 f d(_ c) c4 r ||
+t: * na místě, kde si, Hospodine, buduješ své sídlo,
+
+%% part: verse
+
+m: bes'B c8 bes a(_ g) g4 r |
+t: ve svatyni, Pane, kterou vystavěly tvé ruce.
+
+m: gB a8 f d(_ c) c4 r ||
+t: * Hospodin bude kralovat na věky a navždy.
+
+%% use: responsum
+

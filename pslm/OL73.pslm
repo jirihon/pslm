@@ -1,0 +1,86 @@
+%% occasion: 'Úterý po 1. neděli postní'
+%% responsum_reference: 'Ž 34 (33),5b'
+%% verse_reference: 'Ž 34 (33)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 81
+
+m: \key g \major
+
+%% part: responsum
+
+m: b'4 g c8 c b a | b g / fis( e) / e( d) d4 r ||
+t: Pán mě vysvobodil ze všech mých obav.
+
+%% part: verse
+
+m: e'B fis8 g a_ b a a4 r |
+t: Velebte se mnou Hospodina,
+
+m: aB g8 a b(_ c b) b2 ||
+t: * oslavujme spolu jeho jméno!
+
+%% part: verse
+
+m: e'B fis8 g a_ b a a4 r |
+t: Hledal jsem Hospodina a vyslyšel mě,
+
+m: aB g8 a b(_ c b) b4 r ||
+t: * vysvobodil mě ze všech mých obav.
+
+%% use: responsum
+
+%% part: verse
+
+m: e'B fis8 g a_ b( a) a4 r |
+t: Pohleďte k němu, ať se rozveselíte,
+
+m: aB g8 a b(_ c b) b4 ||
+t: * vaše tvář se nemusí zardívat hanbou.
+
+%% part: verse
+
+m: r8 e' eB fis8 g a(_ b a) a4 r |
+t: Hle, ubožák zavolal, a Hospodin slyšel,
+
+m: aB g8 a b(_ c b) b4 r ||
+t: * pomohl mu ve všech jeho strastech.
+
+%% use: responsum
+
+%% part: verse
+
+m: e'B fis8 g a_ b a a2 |
+t: Hospodinovy oči hledí na spravedlivé,
+
+m: aB g8 a b(_ c) b b4 r ||
+t: * k jejich volání se kloní jeho sluch.
+
+%% part: verse
+
+m: e'B fis8 g a_ b a a4 r |
+t: Hospodinův hněv stíhá ty, kdo páchají zlo,
+
+m: aB g8 a b(_ c b) b4 r ||
+t: * aby vyhladil ze země vzpomínku na ně.
+
+%% use: responsum
+
+%% part: verse
+
+m: e'B fis8 g a(_ b a) a4 r |
+t: Spravedliví volali, a Hospodin slyšel,
+
+m: aB g8 a b(_ c b) b4 r ||
+t: * vysvobodil je z každé jejich tísně.
+
+%% part: verse
+
+m: e'B fis8 g a(_ b a) a4 r |
+t: Blízko je Hospodin těm, kdo mají zkroušené srdce,
+
+m: aB g8 a b_ c b b4 r ||
+t: * na duchu zlomené zachraňuje.
+
+%% use: responsum
+

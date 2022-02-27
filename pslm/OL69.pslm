@@ -1,0 +1,71 @@
+%% occasion: 'Sobota po Popeleční středě'
+%% responsum_reference: 'Ž 86 (85),5a'
+%% verse_reference: 'Ž 86 (85)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 77
+
+m: \key es \major
+
+%% part: responsum
+
+m: bes'8 c bes | as g g | bes as g f4. ||
+t: Tys, Pane, dobrý a shovívavý.
+
+%% part: verse
+
+m: es'B  d8 c g'_ f f4 r |
+t: Nakloň, Hospodine, svůj sluch a vyslyš mě,
+
+m: fB es8 f g(_ bes) bes2 ||
+t: * vždyť jsem ubohý a chudý.
+
+%% part: verse
+
+m: es'B d8 c g'(_ f) f2 |
+t: Zachovej mou duši, neboť jsem ti oddán,
+
+m: fB es8 f g(_ bes) bes2 ||
+t: * pomoz svému služebníku, který v tebe doufá.
+
+%% use: responsum
+
+%% part: verse
+
+m: es'B d8 c g'(_ f) f4 r |
+t: Ty jsi můj Bůh, smiluj se nade mnou, Pane,
+
+m: fB es8 f g(_ bes) bes2 ||
+t: * neboť stále k tobě volám.
+
+%% part: verse
+
+m: es'B d8 c g'_ f f f4 r |
+t: Obvesel život svého služebníka,
+
+m: fB es8 f g(_ bes) bes4 r8 ||
+t: * neboť k tobě, Pane, pozvedám svou duši.
+
+%% use: responsum
+
+m: bes'8 c bes | as g g | bes as g f4 ||
+t: Tys, Pane, dobrý a shovívavý.
+
+%% part: verse
+
+m: r8 es' esB d8 c g'_ f f f2 |
+t: Tys totiž, Pane, dobrý a shovívavý,
+
+m: fB es8 f g(_ bes) bes4 r8 ||
+t: * nejvýš milosrdný ke všem, kdo volají k tobě.
+
+%% part: verse
+
+m: es'B d8 c g'_ f f4 r |
+t: Vyslyš, Hospodine, mou modlitbu,
+
+m: fB es8 f g(_ bes) bes4 r8 ||
+t: * všimni si hlasu mé snažné prosby.
+
+%% use: responsum
+

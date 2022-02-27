@@ -1,0 +1,68 @@
+%% occasion: 'Pátek po Popeleční středě'
+%% responsum_reference: 'Ž 51 (50),12a'
+%% verse_reference: 'Ž 51 (50)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 76
+
+m: \key es \major
+
+%% part: responsum
+
+m: bes'4 g c8 d4. | bes4 g / es es ||
+t: Stvoř mi čisté srdce Bože!
+
+%% part: verse
+
+m: as'B as8 g g_ f f2 |
+t: Smiluj se nade mnou, Bože, pro své milosrdenství,
+
+m: cB d8 es f(_ bes) bes bes2 ||
+t: * pro své velké slitování zahlaď mou nepravost.
+
+%% part: verse
+
+m: as'B as8 g g(_ f) f4 |
+t: Úplně ze mě smyj mou vinu
+
+m: r8 c cB d8 es f(_ bes) bes2 ||
+t: * a očisť mě od mého hříchu.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B as8 g g_ f f2 |
+t: Neboť já svou nepravost uznávám,
+
+m: cB d8 es f(_ bes) bes4 ||
+t: * můj hřích je stále přede mnou.
+
+%% part: verse
+
+m: r8 as' asB as8 g g_ f f4 r |
+t: Jen proti tobě jsem se prohřešil,
+
+m: cB d8 es f_ bes bes bes2 ||
+t: * spáchal jsem, co je před tebou zlé.
+
+%% use: responsum
+
+%% part: verse
+
+m: r8 as' asB as8 g g_ f f4 r8 |
+t: Vždyť nemáš zálibu v oběti,
+
+m: cB d8 es f(_ bes) bes4 ||
+t: * kdybych věnoval žertvu, nebyla by ti milá.
+
+%% part: verse
+
+m: r8 as' asB as8 g g_ f f f4 r |
+t: Mou obětí, Bože, je zkroušený duch,
+
+m: cB  d8 es f_ bes bes bes2 ||
+t: * zkroušeným a pokorným srdcem, Bože, nepohrdneš.
+
+%% use: responsum
+
