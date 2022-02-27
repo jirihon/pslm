@@ -1,0 +1,107 @@
+%% occasion: 'Zmrtvýchvstání Páně, vigilie (1. čtení)'
+%% responsum_reference: 'Srov. Ž 104 (103),30'
+%% verse_reference: 'Ž 104 (103)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 127
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 c f g a c / bes( a) a4 / r8 c d4 c / bes8 f / a( g) g2 ||
+t: Sešli svého ducha, Pane, a obnov tvářnost země.
+
+%% part: verse
+
+m: bes'B a8 g g_ f f f4 r |
+t: Veleb, má duše, Hospodina!
+
+m: fB e8 d d_ c c2 ||
+t: * Hospodine, můj Bože, jsi nadmíru veliký!
+
+%% part: verse
+
+m: bes'B a8 g g(_ f) f4 r |
+t: Velebností a vznešeností ses oděl,
+
+m: fB e8 d d(_ c) c4 r ||
+t: * světlem se halíš jako pláštěm.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 g g_ f f4 r |
+t: Zemi jsi založil na jejích základech,
+
+m: fB e8 d d(_ c) c4 r ||
+t: * nezakolísá na věčné věky.
+
+%% part: verse
+
+m: bes'B a8 g g(_ f) f4 r |
+t: Oceánem jsi ji přikryl jako šatem,
+
+m: fB e8 d d(_ c) c4 r ||
+t: * nad horami stanuly vody.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 g g_ f f4 r |
+t: Pramenům dáváš stékat v potoky,
+
+m: fB e8 d d_ c c4 r ||
+t: * které plynou mezi horami.
+
+%% part: verse
+
+m: bes'B a8 g g(_ f) f4 r |
+t: Podél nich hnízdí nebeské ptactvo,
+
+m: fB e8 d d(_ c) c4 r ||
+t: * ve větvích švitoří svou píseň.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 g g(_ f) f4 r |
+t: Ze svých komor zavlažuješ hory,
+
+m: fB e8 d d(_ c) c4 r ||
+t: * země se sytí plody tvého díla.
+
+%% part: verse
+
+m: bes'B a8 g g_ f f f4 r |
+t: Dáváš růst trávě pro dobytek,
+
+m: fB e8 d d_ c c4 r ||
+t: * bylinám užitečným člověku.
+
+%% part: responsum_short
+
+m: f'8 c f g a c / bes( a) a4 / r8 c d4 c / bes8 f / a( g) g4 ||
+t: Sešli svého ducha, Pane, a obnov tvářnost země.
+
+%% part: verse
+
+m: r8 bes' besB a8 g g_ f f f4 r |
+t: Jak četná jsou tvá díla, Hospodine!
+
+m: fB e8 d d_ c c4 r ||
+t: * Všechno jsi moudře učinil,
+
+%% part: verse
+
+m: bes'B a8 g g(_ f) f4 r |
+t: země je plná tvého tvorstva.
+
+m: fB e8 d d_ c c c4 r ||
+t: * Veleb, má duše, Hospodina!
+
+%% use: responsum
+

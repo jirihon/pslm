@@ -1,0 +1,68 @@
+%% occasion: 'Zelený čtvrtek'
+%% responsum_reference: 'Srov. 1 Kor 10,16'
+%% verse_reference: 'Ž 116 (115)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 125
+
+m: \key f \major
+
+%% part: responsum
+
+m: c''8 a d c bes( a) g4. \breathe / bes8 a g / f c / f g / a c c2 ||
+t: Kalich požehnání je společenstvím Krve Kristovy.
+
+%% part: verse
+
+m: bes'B c8 g bes_ a a a4 r |
+t: Čím se odplatím Hospodinu
+
+m: d,B e8 f a_ g g4 r ||
+t: * za všechno, co mi prokázal?
+
+%% part: verse
+
+m: bes'B c8 g bes(_ a) a4 |
+t: Vezmu kalich spásy
+
+m: r8 d, dB e8 f a_ g g4 r ||
+t: * a budu vzývat jméno Hospodinovo.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 g bes(_ a) a4 |
+t: Drahocenná je v Hospodinových očích
+
+m: r8 d, e f a(_ g) g2 ||
+t: * smrt jeho zbožných.
+
+%% part: verse
+
+m: bes'B c8 g bes_ a a a4 |
+t: Jsem tvůj služebník, syn tvé služebnice,
+
+m: d,B e8 f a(_ g) g4 r ||
+t: * rozvázal jsi moje pouta.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 g bes_ a a a4 |
+t: Přinesu ti oběť díků, Hospodine,
+
+m: r8 d, dB e8 f a(_ g) g4 r ||
+t: * a budu vzývat tvé jméno.
+
+%% part: verse
+
+m: bes'B c8 g bes_ a a a4 r |
+t: Splním své sliby Hospodinu 
+
+m: d,B e8 f a(_ g) g4 r ||
+t: * před veškerým jeho lidem.
+
+%% use: responsum
+

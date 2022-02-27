@@ -2,6 +2,15 @@
   months:
     - month: 4
       days:
+      - day: 16
+        name: Zmrtvýchvstání Páně, vigilie
+        psalms: [OL118, OL119, OL26]
+      - day: 15
+        name: Velký pátek
+        psalms: [OL117]
+      - day: 14
+        name: Zelený čtvrtek
+        psalms: [OL115, OL116]
       - day: 13
         name: Středa Svatého týdne
         psalms: [OL114]

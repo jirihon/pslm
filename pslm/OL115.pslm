@@ -1,0 +1,54 @@
+%% occasion: 'Zelený čtvrtek, svěcení olejů'
+%% occasion: 'Při svěcení kněží a biskupů'
+%% responsum_reference: 'Ž 89 (88),2a'
+%% verse_reference: 'Ž 89 (88)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 124
+
+m: \key f \major
+
+%% part: responsum
+
+m: c''8 d c d c4. a8 | f bes a bes / c bes / a g g4 r ||
+t: Na věky chci zpívat o Hospodinových milostech.
+
+%% part: verse
+
+m: f'B e8 d a'_ g g g4 r |
+t: Nalezl jsem Davida, svého služebníka,
+
+m: c,8 g'B f8 g bes_ a a4 r ||
+t: * pomazal jsem ho svým svatým olejem,
+
+%% part: verse
+
+m: f'B e8 d a'(_ g) g4 r |
+t: pevně ho drží má ruka
+
+m: c,8 g'B f8 g bes_ a a a4 r ||
+t: * i mé rámě ho posiluje.
+
+%% part: responsum_short
+
+m: c''8 d c d c4. a8 | f bes a bes / c bes / a g g4 ||
+t: Na věky chci zpívat o Hospodinových milostech.
+
+%% part: verse
+
+m: r8 f'8 fB e8 d a'_ g g4 r |
+t: Má věrnost a láska ho budou provázet,
+
+m: c,8 g'B f8 g bes(_ a) a4 r ||
+t: * ve jménu mém zmohutní jeho síla.
+
+%% part: verse
+
+m: f'B e8 d a'(_ g) g4 r |
+t: On mě bude vzývat: Ty jsi můj otec,
+
+m: c,8 g'B f8 g bes(_ a) a4 r ||
+t: * můj Bůh a skála mé spásy.
+
+%% use: responsum
+
