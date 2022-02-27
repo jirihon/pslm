@@ -137,7 +137,6 @@ function pslm_render_index() {
     $c_year = intval(date('Y'));
     $c_month = intval(date('n'));
     $c_day = intval(date('j'));
-    echo "$c_year $c_month $c_day\n";
 
     $html = '';
     $html .= '<p><i>„Zpěvem se Boží slovo ukládá do srdce, aby se nám vynořilo v pravý čas, kdy budeme plni radosti, bolesti, starosti, úzkosti nebo vděčnosti. Tak se zpívané Boží slovo žalmů stane útěchou, posilou a světlem v našem putování do věčného domova.“</i> P. Josef Olejník</p>';
@@ -165,8 +164,14 @@ function pslm_render_index() {
                 if ($year['year'] == $c_year && $month['month'] == $c_month && $day['day'] < $c_day) {
                     continue;
                 }
+                $weekday = date('w', mktime(0, 0, 0, $month['month'], $day['day'], $year['year']));
+
                 $day_html = [];
-                $day_html[] = sprintf('<strong>%s. %s.</strong> – %s', $day['day'], $month['month'], $day['name']);
+                if ($weekday == '0') {
+                    $day_html[] = sprintf('<strong>%s. %s. – %s</strong>', $day['day'], $month['month'], $day['name']);
+                } else {
+                    $day_html[] = sprintf('<strong>%s. %s.</strong> – %s', $day['day'], $month['month'], $day['name']);
+                }
                 foreach ($day['psalms'] as $id) {
                     if (!isset($PSLM_PSALMS[$id])) {
                         $PSLM_PSALMS[$id] = pslm_render_psalm_html($id);
