@@ -9,7 +9,7 @@ m: \key es \major
 
 %% part: responsum
 
-m: bes'8 c bes as g4 f8 es c4 d8 es f es f g f4 r ||
+m: bes'8 c bes as g4 f8 es / c4 d8 es / f es f g f4 r ||
 t: Blaze těm, kdo kráčejí v zákoně Hospodinově.
 
 %% part: verse
@@ -17,7 +17,7 @@ t: Blaze těm, kdo kráčejí v zákoně Hospodinově.
 m: as'B bes8 c c_ bes bes bes2 |
 t: Blaze těm, jejichž cesta je bezúhonná,
 
-m: fB es8 f as_ g bes4 r ||
+m: fB es8 f as_ g g4 r ||
 t: * kteří kráčejí v zákoně Hospodinově.
 
 %% part: verse
@@ -30,7 +30,7 @@ t: * hledají ho celým srdcem.
 
 %% use: responsum1
 
-m: bes'8 c bes as g4 f8 es c4 d8 es f es f g f4 ||
+m: bes'8 c bes as g4 f8 es / c4 d8 es / f es f g f4 ||
 t: Blaze těm, kdo kráčejí v zákoně Hospodinově.
 
 %% part: verse
@@ -64,8 +64,7 @@ t: * když se naučím tvým spravedlivým rozhodnutím.
 m: r8 as' asB bes8 c c_ bes bes bes4 |
 t: Tvé příkazy chci zachovávat,
 
-m: r8 f fB es8 g as_ g g g4 r ||
+m: r8 f es8 g as_ g g g4 r ||
 t: * jenom mě neopouštěj!
 
 %% use: responsum
-

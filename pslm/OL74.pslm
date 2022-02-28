@@ -9,7 +9,7 @@ m: \key es \major
 
 %% part: responsum
 
-m: bes'4 g c8 d4. | bes4 g es es ||
+m: bes'4 g c8 d8~ 4 | bes4 g / es es ||
 t: Stvoř mi čisté srdce Bože!
 
 %% part: verse
@@ -22,10 +22,10 @@ t: * pro své velké slitování zahlaď mou nepravost.
 
 %% part: verse
 
-m: as'B as8 g g(_ f) f f4 |
+m: as'B as8 g g(_ f) f4 |
 t: Úplně ze mě smyj mou vinu
 
-m: r8 c cB d8 es f(_ bes) bes bes4 r ||
+m: r8 c cB d8 es f(_ bes) bes4 r ||
 t: * a očisť mě od mého hříchu.
 
 %% use: responsum

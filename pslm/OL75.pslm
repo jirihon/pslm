@@ -10,7 +10,7 @@ m: \key es \major
 
 %% part: responsum
 
-m: es'8 es f g as f f f | g bes bes bes4 ||
+m: es'8 es f g / as f f f | g bes bes bes4 ||
 t: Když jsem volal, Hospodine, vyslyšels mě.
 
 %% part: verse
