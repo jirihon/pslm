@@ -1,0 +1,69 @@
+%% occasion: 'Čtvrtek po 1. neděli postní'
+%% occasion: 'Úterý po 6. neděli velikonoční'
+%% responsum_reference: 'Ž 138 (137),3a'
+%% verse_reference: 'Ž 138 (137)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 83
+
+m: \key es \major
+
+%% part: responsum
+
+m: es'8 es f g as f f f | g bes bes bes4 ||
+t: Když jsem volal, Hospodine, vyslyšels mě.
+
+%% part: verse
+
+m: c''B bes8 c d(_ bes) bes4 |
+t: Chci tě chválit, Hospodine, celým svým srdcem,
+
+m: r8 as asB g8 as bes(_ g) g2 ||
+t: * žes vyslyšel slova mých úst.
+
+%% part: verse
+
+m: c''B bes8 c d_ bes bes bes4 r |
+t: Budu ti hrát před anděly,
+
+m: asB g8 as bes(_ g) g4 r ||
+t: * vrhnu se na tvář směrem k tvému svatému chrámu
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B bes8 c d(_ bes) bes4 r |
+t: Slavit budu tvé jméno neboť nade vše jsi pro tvou dobrotu a tvou věrnost,
+
+m: asB g8 as bes_ g g g2 ||
+t: * zvelebil své jméno a své zaslíbení.
+
+%% part: verse
+
+m: c''B bes8 c d_ bes bes bes4 r |
+t: Když jsem volal, vyslyšels mě,
+
+m: asB g8 as bes(_ g) g4 r ||
+t: * v mé duši jsi rozhojnil sílu.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B bes8 c d_ bes bes4 r |
+t: Zachraňuje mě tvá pravice.
+
+m: asB g8 as bes(_ g) g4 r ||
+t: * Hospodin pro mě dokončí, co začal.
+
+%% part: verse
+
+m: c''B bes8 c d_ bes bes4 r |
+t: Hospodine, tvá dobrota trvá na věky,
+
+m: asB g8 as bes_ g g g4 r ||
+t: * dílo svých rukou neopouštěj!
+
+%% use: responsum
+
