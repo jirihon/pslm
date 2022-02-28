@@ -227,9 +227,6 @@ function pslm_render_psalm_html($id) {
         <?php foreach($occasions as $occasion): ?>
         <h3><?= $occasion ?></h3>
         <?php endforeach ?>
-        
-        <p>Odpověď: <?= $opts['responsum_reference'] ?></p>
-        <p>Verše: <?= $opts['verse_reference'] ?></p>
 
         <p><audio controls src="mp3/<?= $id ?>.mp3"></audio></p>
         <p><a href="#" id="zoom-in-button">Zvětšit</a> – <a href="#" id="zoom-out-button">Zmenšit</a> – <a href="#" id="zoom-reset-button">Resetovat</a></p>
@@ -239,6 +236,9 @@ function pslm_render_psalm_html($id) {
             <div class="size-<?= $size ?>"><?= file_get_contents("svg/$id-$size.svg") ?></div>
         <?php endforeach ?>
         </div>
+        
+        <p>Odpověď: <?= $opts['responsum_reference'] ?></p>
+        <p>Verše: <?= $opts['verse_reference'] ?></p>
         
         <?php if (!empty($source)): ?>
         <p><?= $source ?></p>
