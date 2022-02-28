@@ -2,9 +2,12 @@
   months:
     - month: 4
       days:
+      - day: 17
+        name: Zmrtvýchvstání Páně
+        psalms: [OL124]
       - day: 16
         name: Zmrtvýchvstání Páně, vigilie
-        psalms: [OL118, OL120, OL121, OL119, OL26, OL65, OL88]
+        psalms: [OL118, OL120, OL121, OL119, OL26, OL65, OL88, OL122, OL123]
       - day: 15
         name: Velký pátek
         psalms: [OL117]
@@ -43,6 +46,18 @@
       - day: 13
         name: 2. neděle postní C
         psalms: [OL80]
+      - day: 12
+        name: Sobota po 1. neděli postní
+        psalms: [OL77]
+      - day: 11
+        name: Pátek po 1. neděli postní
+        psalms: [OL76]
+      - day: 10
+        name: Čtvrtek po 1. neděli postní
+        psalms: [OL75]
+      - day: 9
+        name: Středa po 1. neděli postní
+        psalms: [OL74]
       - day: 8
         name: Úterý po 1. neděli postní
         psalms: [OL73]
