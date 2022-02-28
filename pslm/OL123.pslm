@@ -1,0 +1,71 @@
+%% occasion: 'Zmrtvýchvstání Páně, vigilie (7. čtení)'
+%% responsum_reference: 'Ž 51 (50),12a'
+%% verse_reference: 'Ž 51 (50)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 132
+
+m: \key f \major
+
+%% part: responsum
+
+m: c''4 a d8 c a g / f4( d) c2 ||
+t: Stvoř mi čisté srdce, Bože!
+
+%% part: verse
+
+m: d'B e8 f a(_ g) g4 r |
+t: Stvoř mi čisté srdce, Bože!
+
+m: gB a8 bes d_ c c4 r ||
+t: * Obnov ve mně ducha vytrvalosti.
+
+%% part: verse
+
+m: d'B e8 f a(_ g) g4 |
+t: Neodvrhuj mě od své tváře
+
+m: r8 g gB a8 bes d(_ c) c4 r ||
+t: * a neodnímej mi svého svatého ducha.
+
+%% use: responsum
+
+%% part: verse
+
+m: d'B e8 f a_ g g4 |
+t: Vrať mi radost ze své ochrany
+
+m: r8 g gB a8 bes d_ c c c4 r ||
+t: * a posilni mou velkodušnost.
+
+%% part: verse
+
+m: d'B e8 f a(_ g) g4 |
+t: Bezbožné budu učit tvým cestám
+
+m: r8 g gB a8 bes d(_ c) c4 r ||
+t: * a hříšníci se budou obracet k tobě.
+
+%% part: responsum_short
+
+m: c''4 a d8 c a g / f4( d) c4 ||
+t: Stvoř mi čisté srdce, Bože!
+
+%% part: verse
+
+m: r8 d' dB e8 f a_ g g4 r |
+t: Vždyť nemáš zálibu v oběti,
+
+m: gB a8 bes d(_ c) c4 ||
+t: * kdybych věnoval žertvu, nebyla by ti milá.
+
+%% part: verse
+
+m: r8 d' dB e8 f a_ g g g4 r |
+t: Mou obětí, Bože, je zkroušený duch,
+
+m: gB a8 bes d_ c c c4 r ||
+t: * zkroušeným a pokorným srdcem, Bože, nepohrdneš.
+
+%% use: responsum
+

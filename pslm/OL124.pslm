@@ -1,0 +1,68 @@
+%% occasion: 'Zmrtvýchvstání Páně'
+%% responsum_reference: 'Ž 118 (117),24'
+%% verse_reference: 'Ž 118 (117)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 133
+
+m: \key a \major
+
+%% part: responsum
+
+m: e'8 fis gis gis4 | fis8 gis a gis a / b4( cis a) \breathe | d8 cis b cis / d cis b a / e4 e2 ||
+t: Toto je den, který připravil Pán, jásejme a radujme se z něho!
+
+%% part: verse
+
+m: e'8 a aB a8 b b(_ fis) fis2 |
+t: Oslavujte Hospodina, neboť je dobrý,
+
+m: aB a8 gis fis cis d(_ e) e e4 r ||
+t: * jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: e'8( a) a a b b_ fis fis fis2  |
+t: Nechť řekne dům Izraelův:
+
+m: aB a8 gis fis cis d(_ e) e e4 r ||
+t: * „Jeho milosrdenství trvá na věky.“
+
+%% use: responsum
+
+%% part: verse
+
+m: e'8 a aB a8 b b_ fis fis4 r |
+t: Hospodinova pravice mocně zasáhla,
+
+m: aB a8 gis fis cis d(_ e) e e4 r ||
+t: * Hospodinova pravice mě pozvedla.
+
+%% part: verse
+
+m: e'8 a a a b b_ fis fis4 |
+t: Nezemřu, ale budu žít
+
+m: r8 a aB a8 gis fis cis d(_ e) e4 r ||
+t: * a vypravovat o Hospodinových činech.
+
+%% use: responsum
+
+%% part: verse
+
+m: e'8 a aB a8 b b_ fis fis4 r |
+t: Kámen, který stavitelé zavrhli,
+
+m: a8 gis fis cis d(_ e) e e2 ||
+t: * stal se kvádrem nárožním.
+
+%% part: verse
+
+m: e'8 a aB a8 b b(_ fis) fis4 r |
+t: Hospodinovým řízením se tak stalo,
+
+m: aB a8 gis fis cis d(_ e) e2 ||
+t: * je to podivuhodné v našich očích.
+
+%% use: responsum
+
