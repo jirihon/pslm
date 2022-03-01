@@ -59,7 +59,9 @@ function pslm_pregenerate($filename, $source) {
         }
         $pslm = [];
         foreach ($occasions as $occasion) {
-            $pslm[] = "%% occasion: '$occasion'";
+            if ($occasion[0] !== '(') {
+                $pslm[] = "%% occasion: '$occasion'";
+            }
         }
         $responsum_reference = preg_replace('#[\[\]]#u', '', $responsum_reference);
         $responsum_reference = trim($responsum_reference);
