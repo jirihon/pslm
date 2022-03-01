@@ -28,7 +28,7 @@ t: Veleb, má duše, Hospodina
 m: r8 c cB d8 es g_ es f f2 ||
 t: * a nezapomeň na žádné z jeho dobrodiní!
 
-%% part: responsum_2
+%% part: responsum_short
 
 m: g'8 g f4 es | \tuplet 3/2 { as8[ as g] } f2 \breathe / bes,4 | \tuplet 3/2 { bes'8[ bes as] } g4 ||
 t: Hospodin je milosrdný a milostivý.
