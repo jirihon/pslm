@@ -43,10 +43,10 @@ t: * neboť stále k tobě volám.
 m: es'B d8 c g'_ f f f4 r |
 t: Obvesel život svého služebníka,
 
-m: fB es8 f g(_ bes) bes4 r8 ||
+m: fB es8 f g(_ bes) bes4 r ||
 t: * neboť k tobě, Pane, pozvedám svou duši.
 
-%% use: responsum
+%% part: responsum_short
 
 m: bes'8 c bes | as g g | bes as g f4 ||
 t: Tys, Pane, dobrý a shovívavý.
@@ -56,7 +56,7 @@ t: Tys, Pane, dobrý a shovívavý.
 m: r8 es' esB d8 c g'_ f f f2 |
 t: Tys totiž, Pane, dobrý a shovívavý,
 
-m: fB es8 f g(_ bes) bes4 r8 ||
+m: fB es8 f g(_ bes) bes4 r ||
 t: * nejvýš milosrdný ke všem, kdo volají k tobě.
 
 %% part: verse
@@ -64,8 +64,7 @@ t: * nejvýš milosrdný ke všem, kdo volají k tobě.
 m: es'B d8 c g'_ f f4 r |
 t: Vyslyš, Hospodine, mou modlitbu,
 
-m: fB es8 f g(_ bes) bes4 r8 ||
+m: fB es8 f g(_ bes) bes4 r ||
 t: * všimni si hlasu mé snažné prosby.
 
 %% use: responsum
-
