@@ -405,7 +405,7 @@ function pslm_parse_psalm($psalm) {
                         $part = "verse_$verse_n";
                         $psalm['text'][$part][] = "\set stanza = \"$verse_n.\"";
                         ++$verse_n;
-                    } elseif ($part == 'responsum') {
+                    } elseif (preg_match('#^responsum#ui', $part)) {
                         $psalm['text'][$part][] = '\set stanza = \responsum';
                     }
                 } elseif (isset($line_opts['use'])) {
