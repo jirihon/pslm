@@ -1,0 +1,90 @@
+%% occasion: 'Úterý po 1. neděli adventní'
+%% occasion: '2. neděle adventní A'
+%% responsum_reference: 'Ž 72 (71),7'
+%% verse_reference: 'Ž 72 (71)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 15
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 g a bes a g / a c c | c4 r8 a | d4 c / bes8 bes a | g e c4 r ||
+t: V jeho dnech rozkvete spravedlnost a hojnost pokoje na věky.
+
+%% part: verse
+
+m: bes'B c8 g bes_ a a4 |
+t: Bože, svěř králi svou pravomoc,
+
+m: r8 d, dB e8 f a_( g) g4 ||
+t: * svou spravedlnost královskému synu.
+
+%% part: verse
+
+m: r8 bes' besB c8 g bes_ a a a4 r |
+t: Ať vládne tvému lidu spravedlivě,
+
+m: d,B e8 f a_ g g2 ||
+t: * nestranně tvým ubohým.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 g bes_ a a4 r |
+t: V jeho dnech rozkvete spravedlnost a hojnost pokoje,
+
+m: d,B e8 f a_( g) g4 r ||
+t: * dokud nezanikne luna.
+
+%% part: verse
+
+m: bes'B c8 g bes_( a) a4 r |
+t: Bude vládnout od moře k moři,
+
+m: d,B e8 f a_( g) g4 r ||
+t: * od Řeky až do končin země.
+
+%% part: responsum_short
+
+m: f'8 g a bes a g / a c c | c4 r8 a | d4 c / bes8 bes a | g e c4 ||
+t: V jeho dnech rozkvete spravedlnost a hojnost pokoje na věky.
+
+%% part: verse
+
+m: r8 bes' besB c8 g bes_ a a4 r |
+t: On vysvobodí chudáka, který se dovolává pomoci,
+
+m: d,B e8 f a_ g g g2 ||
+t: * ubožáka, jehož se nikdo neujímá.
+
+%% part: verse
+
+m: bes'B c8 g bes_( a) a2 |
+t: Smiluje se nad nuzným a chudým,
+
+m: d,B e8 f a_( g) g4 r ||
+t: * zachrání ubožákům život.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 g bes_ a a4 r |
+t: Jeho jménu se bude žehnat na věky,
+
+m: d,B e8 f a_( g) g4 r ||
+t: * pokud bude slunce svítit, potrvá jeho jméno.
+
+%% part: verse
+
+m: bes'B c8 g bes_( a) a4 r |
+t: v něm budou požehnána všechna plemena země,
+
+m: d,B e8 f a_ g g4 r ||
+t: * blahoslavit ho budou všechny národy.
+
+%% use: responsum
+

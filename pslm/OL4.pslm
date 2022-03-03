@@ -1,0 +1,69 @@
+%% occasion: '1. neděle adventní C'
+%% occasion: 'Předvánoční týden (23. prosince)'
+%% responsum_reference: 'Ž 25 (24),1b'
+%% verse_reference: 'Ž 25 (24)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 12
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 g g a a4. a8 g f | bes c a g4 r ||
+t: K tobě pozvedám svou duši, Hospodine.
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a a4 |
+t: Ukaž mi své cesty, Hospodine,
+
+m: r8 g gB f8 g a_( f) f2 ||
+t: * a pouč mě o svých stezkách.
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) a4 r |
+t: Veď mě ve své pravdě a uč mě,
+
+m: gB f8 g a_ f f4 r ||
+t: * neboť ty jsi Bůh, můj spasitel.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a a2 |
+t: Hospodin je dobrý a dokonalý,
+
+m: gB f8 g a_( f) f4 r ||
+t: * proto ukazuje hříšníkům cestu.
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a2 |
+t: Pokorné vede k správnému jednání,
+
+m: gB f8 g a_( f) f4 r ||
+t: * pokorné učí své cestě.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) a4 r |
+t: Hospodinovo jednání je jen láska a věrnost
+
+m: gB f8 g a_ f f f2 ||
+t: * pro ty, kdo plní jeho smlouvu a nařízení.
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) a2 |
+t: Důvěrně se stýká Hospodin s těmi, kdo se ho bojí,
+
+m: gB f8 g a_( f) f4 ||
+t: * dává jim poznat svou smlouvu.
+
+%% use: responsum
+

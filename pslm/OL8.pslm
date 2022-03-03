@@ -1,0 +1,95 @@
+%% occasion: 'Středa po 1. neděli adventní'
+%% occasion: '28. neděle v mezidobí A'
+%% responsum_reference: 'Ž 23 (22),6cd'
+%% verse_reference: 'Ž 23 (22)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 16
+
+m: \key f \major
+
+%% part: responsum
+
+m: c''4( a) d8 c4 a8 / f f f / e d / a'( g) g4 | g8 g g / g f g / bes( a) a4 ||
+t: Smím přebývat v Hospodinově domě, na dlouhé, předlouhé časy.
+
+%% part: verse
+
+m: bes'B a8 bes c_ a f f2 |
+t: Hospodin je můj pastýř, nic nepostrádám,
+
+m: dB e8 f a_( f g) g2 ||
+t: * dává mi prodlévat na svěžích pastvinách,
+
+%% part: verse
+
+m: bes'B a8 bes c_ a f f2 |
+t: vodí mě k vodám, kde si mohu odpočinout.
+
+m: dB e8 f a_( f g) g4 r ||
+t: * Občerstvuje mou duši.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_( a f) f4 |
+t: Vede mě po správných cestách
+
+m: r8 d8 e8 f a_( f g) g4 ||
+t: * pro svoje jméno.
+
+%% part: verse
+
+m: r8 bes' besB a8 bes c_( a f) f4 r |
+t: I kdybych šel temnotou rokle,
+
+m: dB e8 f a_( f g) g2 ||
+t: * nezaleknu se zla, vždyť ty jsi se mnou.
+
+%% part: verse
+
+m: bes'4 a8 bes c_( a f) f4 |
+t: Tvůj kyj a tvá hůl,
+
+m: r8 d e8 f a_( f) g g4 r ||
+t: * ty jsou má útěcha.
+
+%% use: responsum
+
+%% part: verse
+
+m: r8 bes' a8 bes c_( a) f f2 |
+t: Prostíráš pro mě stůl
+
+m: dB e8 f a_ f( g) g4 r ||
+t: * před zraky mých nepřátel,
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) f f4 |
+t: hlavu mi mažeš olejem,
+
+m: r8 d e8 f a_ f( g) g2 ||
+t: * má číše přetéká.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_ a f f2 |
+t: Štěstí a přízeň mě provázejí
+
+m: dB e8 f a_( f) g g4 r ||
+t: * po všechny dny mého života,
+
+%% part: verse
+
+m: bes'B a8 bes c_( a f) f4 r |
+t: přebývat smím v Hospodinově domě
+
+m: dB e8 f a_( f g) g4 r ||
+t: * na dlouhé, předlouhé časy.
+
+%% use: responsum
+

@@ -1,0 +1,98 @@
+%% occasion: '1. neděle adventní A'
+%% occasion: 'Za zemřelé / Při pohřbu (v době velikonoční)'
+%% responsum_reference: 'Ž 122 (121),1'
+%% verse_reference: 'Ž 122 (121)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 10
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 a c c c c c d / c4 a4 r | f8 bes bes / bes a bes c bes / a g g4 r ||
+t: Zaradoval jsem se, když mi řekli: „Do domu Hospodinova půjdeme!“
+
+%% part: verse
+
+m: f'B e8 d a'_( g) g4 r |
+t: Zaradoval jsem se, když mi řekli:
+
+m: c,8 g'B f8 g bes_ a a4 ||
+t: * „Do domu Hospodinova půjdeme!“
+
+%% part: verse
+
+m: r8 f' fB e8 d a'_( g) g4 r |
+t: Už stojí naše nohy
+
+m: c,8 g'B f8 g bes_( a) a4 r ||
+t: * ve tvých branách, Jeruzaléme!
+
+%% part: responsum_short
+
+m: f'8 a c c c c c d / c4 a4 r | f8 bes bes / bes a bes c bes / a g g4 ||
+t: Zaradoval jsem se, když mi řekli: „Do domu Hospodinova půjdeme!“
+
+%% part: verse
+
+m: r8 f' fB e8 d a'_( g) g4 r |
+t: Tam vystupují kmeny,
+
+m: c,8 g'B f8 g bes_ a a4 r ||
+t: * kmeny Hospodinovy,
+
+%% part: verse
+
+m: f'B e8 d a'_ g g g4 r |
+t: jak to zákon přikazuje Izraeli,
+
+m: c,8 g'B f8 g bes_( a) a4 ||
+t: * aby chválil Hospodinovo jméno.
+
+%% part: verse
+
+m: r8 f' fB e8 d a'_( g) g4 r |
+t: Tam stojí soudní stolce,
+
+m: c,8 g'B f8 g bes_( a) a4 r ||
+t: * stolce Davidova domu.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B e8 d a'_( g) g4 r |
+t: Vyprošujte Jeruzalému pokoj:
+
+m: c,8 g'B f8 g bes_ a a4 ||
+t: * ať jsou v bezpečí, kdo tě milují,
+
+%% part: verse
+
+m: r8 f' fB e8 d a'_( g) g2 |
+t: ať vládne mír ve tvých hradbách,
+
+m: c,8 g'B f8 g bes_ a a2 ||
+t: * bezpečnost ve tvých palácích!
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B e8 d a'_ g g2 |
+t: Kvůli svým bratřím a přátelům
+
+m: c,8 g'B f8 g bes_( a) a4 r ||
+t: * budu říkat: Pokoj v tobě!
+
+%% part: verse
+
+m: f'B e8 d a'_( g) g4 r |
+t: Kvůli domu Hospodina, našeho Boha,
+
+m: c,8 g'B f8 g bes_( a) a2 ||
+t: * budu ti přát štěstí.
+
+%% use: responsum
+

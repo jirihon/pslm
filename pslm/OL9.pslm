@@ -1,0 +1,92 @@
+%% occasion: 'Čtvrtek po 1. neděli adventní'
+%% responsum_reference: 'Ž 118 (117),1'
+%% verse_reference: 'Ž 118 (117)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 17
+
+m: \key c \major
+
+%% part: responsum
+
+m: r8 e' d c d g g g | r g f e e d~ d4 | f8 f a b c c c4 | d8 d4( b8) g g g4 ||
+t: Děkujte Hospodinu, neboť je dobrý, jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: c''B b8_( g e) e2 |
+t: Oslavujte Hospodina, neboť je dobrý,
+
+m: aB g8_( e) c c4 ||
+t: * jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: c''B b8_ g e e4 r |
+t: Lépe je utíkat se k Hospodinu,
+
+m: r8 a aB g8_( e) c c4 r ||
+t: * než důvěřovat v člověka.
+
+%% part: verse
+
+m: c''B b8_ g e e4 |
+t: Lépe je utíkat se k Hospodinu,
+
+m: r8 a aB g8_( e c) c2 ||
+t: * než důvěřovat v mocné.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B b8_( g) e e4 r |
+t: Otevřete mně brány spravedlnosti,
+
+m: aB g8_ e c c4 r ||
+t: * vejdu jimi, abych vzdal díky Hospodinu.
+
+%% part: verse
+
+m: c''B b8_( g e) e4 |
+t: Toto je Hospodinova brána,
+
+m: r8 a aB g8_ e c c2 ||
+t: * jí procházejí spravedliví.
+
+%% part: verse
+
+m: c''B b8_( g) e e4 r |
+t: Děkuji ti, žes mě vyslyšel
+
+m: aB g8_( e c) c2 ||
+t: * a stal se mou spásou.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B b8_( g e) e4 r |
+t: Hospodine, dej spásu,
+
+m: aB g8_( e c) c4 r ||
+t: * Hospodine, popřej zdaru!
+
+%% part: verse
+
+m: c''B b8_ g( e) e2 |
+t: Požehnaný, kdo přichází
+
+m: aB g8_( e c) c4 r ||
+t: * v Hospodinově jménu.
+
+%% part: verse
+
+m: c''B b8_( g e) e4 r |
+t: Žehnáme vám z Hospodinova domu.
+
+m: aB g8_( e c) c4 r ||
+t: * Bůh je Hospodin a dopřál nám světlo.
+
+%% use: responsum
+
