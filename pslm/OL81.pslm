@@ -9,7 +9,7 @@ m: \key c \major
 
 %% part: responsum
 
-m: e'8 d c f4. e8 f d e g a4 a / b8 b a g2 ||
+m: e'8 d c f4. d8 e d / e g / a4 a / b8 b a g2 ||
 t: Nejednej s námi podle našich hříchů, Hospodine!
 
 %% part: verse
@@ -30,23 +30,23 @@ t: Pomoz nám, Bože, náš spasiteli, (+) pro slávu svého jména,
 m: dB c8_( d e) e4 r ||
 t: * vysvoboď nás a odpusť nám hříchy pro své jméno.
 
-%% part: responsum_
+%% part: responsum_short
 
-m: e'8 d c f4. e8 f d e g a4 a / b8 b a g4 r ||
+m: e'8 d c f4. d8 e d / e g / a4 a / b8 b a g4 ||
 t: Nejednej s námi podle našich hříchů, Hospodine!
 
 %% part: verse
 
-m: r8 f' fB e8_( f g) g2 |
+m: r8 f' fB e8_( f) g g2 |
 t: Ať k tobě přijde vzdychání zajatých,
 
-m: dB c8_( d f) f4 r ||
-t: * mocí svého ramene nech naživu
+m: dB c8_( d e) e4 r ||
+t: * mocí svého ramene nech naživu odsouzené na smrt.
 
 %% part: verse
 
-m: f'B e8_( f g) g4 r |
-t: My však, tvůj lid a ovce tvé pastvy, + odsouzené na smrt. budem tě chválit na věky,
+m: f'B e8_( f) g g4 r |
+t: My však, tvůj lid a ovce tvé pastvy, + budem tě chválit na věky,
 
 m: dB c8_( d e) e4 r ||
 t: * po všechna pokolení budem vypravovat o tvé slávě.

@@ -9,7 +9,7 @@ m: \key es \major
 
 %% part: responsum
 
-m: g'8 g f4 es as8 as g f2 | g8 bes bes bes4 r ||
+m: g'8 g f4 es / as8 as g f2 | g8 bes bes bes4 r ||
 t: Zachraň mě svou slitovností, Hospodine.
 
 %% part: verse
@@ -25,7 +25,7 @@ t: * neboť ty jsi mé útočiště.
 m: c''B d8 c c_( bes) bes4 r |
 t: Do tvých rukou svěřuji svého ducha,
 
-m: asB bes8 as g_ f f f4 r ||
+m: asB bes8 as g_ f f f2 ||
 t: * Hospodine, věrný Bože, ty mě vysvobodíš.
 
 %% use: responsum
@@ -53,15 +53,15 @@ t: * usilují zničit můj život.
 m: c''B d8 c c_( bes) bes2 |
 t: Já však, Hospodine, v tebe doufám,
 
-m: asB bes8 as g_( f) f4 r ||
+m: asB bes8 as g_( f) f4 ||
 t: * říkám: Ty jsi můj Bůh!
 
 %% part: verse
 
-m: r8 c'' cB d8 c c_( bes) bes2 |
+m: r8 c'' cB d8 c c_( bes) bes4 r |
 t: Můj osud je ve tvé ruce,
 
-m: asB bes8 as g_ f f f4 r ||
+m: asB bes8 as g_ f f4 r ||
 t: * vysvoboď mě z moci mých úhlavních nepřátel!
 
 %% use: responsum

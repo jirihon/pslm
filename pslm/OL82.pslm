@@ -9,7 +9,7 @@ m: \key es \major
 
 %% part: responsum
 
-m: r8 g' es f g4 es | f8 g as g4 f8 g as bes4 bes r ||
+m: r8 g' es f g4 es | f8 g / as g4 f8 / g as / bes4 bes r ||
 t: Kdo žije správně, tomu ukážu Boží spásu.
 
 %% part: verse
@@ -17,7 +17,7 @@ t: Kdo žije správně, tomu ukážu Boží spásu.
 m: c''B c8_ bes bes4 r |
 t: Nekárám tě pro tvé oběti,
 
-m: asB  g8_ f f4 r ||
+m: asB  g8_ f f2 ||
 t: * vždyť tvé žertvy jsou stále přede mnou.
 
 %% part: verse
@@ -30,7 +30,7 @@ t: * ani kozly z tvých ohrad.
 
 %% part: responsum1
 
-m: r8 g' es f g4 es | f8 g as g4 f8 g as bes4 bes ||
+m: r8 g' es f g4 es | f8 g / as g4 f8 / g as / bes4 bes ||
 t: Kdo žije správně, tomu ukážu Boží spásu.
 
 %% part: verse
@@ -38,7 +38,7 @@ t: Kdo žije správně, tomu ukážu Boží spásu.
 m: r8 c'' cB c8_ bes bes bes4 |
 t: Proč odříkáváš má přikázání
 
-m: asB  g8_( f) f4 ||
+m: r8 as asB  g8_( f) f4 ||
 t: * a bereš do úst mou smlouvu
 
 %% part: verse
