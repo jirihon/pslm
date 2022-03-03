@@ -43,6 +43,15 @@
       - day: 19
         name: Sv. Josefa (19. března)
         psalms: [OL259]
+      - day: 16
+        name: Středa po 2. neděli postní C
+        psalms: [OL83]
+      - day: 15
+        name: Úterý po 2. neděli postní C
+        psalms: [OL82]
+      - day: 14
+        name: Pondělí po 2. neděli postní C
+        psalms: [OL81]
       - day: 13
         name: 2. neděle postní C
         psalms: [OL80]
