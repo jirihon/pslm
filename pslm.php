@@ -302,7 +302,7 @@ unHideNotes = {
     #{\markup \override #\'(offset . 4.3) \underline { #text }#}))
 
 star = \markup { \lower #0.65 \larger "*" }
-responsum = \markup \concat { "R" \hspace #-1.05 \path #0.1 #\'((moveto 0 0.07) (lineto 0.9 0.7)) \hspace #0.05 "." }
+responsum = \markup \concat { "R" \hspace #-1.05 \path #0.1 #\'((moveto 0 0.07) (lineto 0.9 0.8)) \hspace #0.05 "." }
 
 melody = {
     \cadenzaOn
@@ -329,7 +329,9 @@ words = \lyricmode {
             \override StanzaNumber.output-attributes = #\'((class . "stanzanumber"))
             \override LyricSpace.minimum-distance = #0.9
             \override LyricText.font-name = #"TeX Gyre Schola"
+            \override LyricText.font-size = 1
             \override StanzaNumber.font-name = #"TeX Gyre Schola Bold"
+            \override StanzaNumber.font-size = 1
         }
     }
 }
