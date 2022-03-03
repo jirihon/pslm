@@ -1,0 +1,71 @@
+%% occasion: 'Úterý po 2. neděli postní'
+%% responsum_reference: 'Ž 50 (49),23b'
+%% verse_reference: 'Ž 50 (49)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 90
+
+m: \key es \major
+
+%% part: responsum
+
+m: r8 g' es f g4 es | f8 g as g4 f8 g as bes4 bes r ||
+t: Kdo žije správně, tomu ukážu Boží spásu.
+
+%% part: verse
+
+m: c''B c8_ bes bes4 r |
+t: Nekárám tě pro tvé oběti,
+
+m: asB  g8_ f f4 r ||
+t: * vždyť tvé žertvy jsou stále přede mnou.
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 r |
+t: Nemusím brát býka z tvého chléva
+
+m: asB  g8_( f) f4 r ||
+t: * ani kozly z tvých ohrad.
+
+%% part: responsum1
+
+m: r8 g' es f g4 es | f8 g as g4 f8 g as bes4 bes ||
+t: Kdo žije správně, tomu ukážu Boží spásu.
+
+%% part: verse
+
+m: r8 c'' cB c8_ bes bes bes4 |
+t: Proč odříkáváš má přikázání
+
+m: asB  g8_( f) f4 ||
+t: * a bereš do úst mou smlouvu
+
+%% part: verse
+
+m: r8 c'' cB c8_( bes) bes4 r |
+t: ty, který nenávidíš kázeň
+
+m: asB  g8_ f f4 r ||
+t: * a má slova házíš za sebe?
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_ bes bes4 r |
+t: Takto jsi jednal, a já mám mlčet? + Myslil jsi, že jsem jako ty?
+
+m: asB  g8_ f f4 ||
+t: * Usvědčím tě a řeknu ti to do očí!
+
+%% part: verse
+
+m: r8 c'' cB c8_ bes bes4 |
+t: Kdo přináší oběť chvály, ten mě ctí,
+
+m: r8 as asB  g8_( f) f4 r ||
+t: * kdo žije správně, tomu ukážu Boží spásu.
+
+%% use: responsum
+

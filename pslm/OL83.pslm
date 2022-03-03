@@ -1,0 +1,68 @@
+%% occasion: 'Středa po 2. neděli postní'
+%% responsum_reference: 'Ž 31 (30),17b .'
+%% verse_reference: 'Ž 31 (30)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 91
+
+m: \key es \major
+
+%% part: responsum
+
+m: g'8 g f4 es as8 as g f2 | g8 bes bes bes4 r ||
+t: Zachraň mě svou slitovností, Hospodine.
+
+%% part: verse
+
+m: c''B d8 c c_ bes bes bes2 |
+t: Vyprostíš mě z léčky pro mě nastražené,
+
+m: asB bes8 as g_ f f f4 r ||
+t: * neboť ty jsi mé útočiště.
+
+%% part: verse
+
+m: c''B d8 c c_( bes) bes4 r |
+t: Do tvých rukou svěřuji svého ducha,
+
+m: asB bes8 as g_ f f f4 r ||
+t: * Hospodine, věrný Bože, ty mě vysvobodíš.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B d8 c c_( bes) bes2 |
+t: Vždyť se tolik o mně šeptá
+
+m: asB bes8 as g_ f f4 r ||
+t: * slyšel jsem to, hrůza odevšad!
+
+%% part: verse
+
+m: c''B d8 c c_( bes) bes2 |
+t: Spolu se proti mně radí,
+
+m: asB bes8 as g_( f) f4 r ||
+t: * usilují zničit můj život.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B d8 c c_( bes) bes2 |
+t: Já však, Hospodine, v tebe doufám,
+
+m: asB bes8 as g_( f) f4 r ||
+t: * říkám: Ty jsi můj Bůh!
+
+%% part: verse
+
+m: r8 c'' cB d8 c c_( bes) bes2 |
+t: Můj osud je ve tvé ruce,
+
+m: asB bes8 as g_ f f f4 r ||
+t: * vysvoboď mě z moci mých úhlavních nepřátel!
+
+%% use: responsum
+
