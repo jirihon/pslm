@@ -10,7 +10,7 @@ m: \key c \major
 
 %% part: responsum
 
-m: e'4 g a8 b a g | e e~ e4 / d8 c b c | d4 r8 f e d | g4 e r4 ||
+m: e'4 g a8 b a g | e e~ e4 / d8 c b c | f4 r8 f e d | g4 e r4 ||
 t: Chvalte Hospodina, který uzdravuje ty, jimž puká srdce.
 
 %% part: verse
