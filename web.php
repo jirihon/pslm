@@ -12,13 +12,10 @@ define('PSLM_CACHE', true);
 define('PSLM_PX_PER_STEP', 50);
 define('PSLM_MAX_WIDTH', 732);
 
-$PSLM_AUTHORS = null;
-$PSLM_SOURCES = null;
+$PSLM_AUTHORS = Yaml::parseFile(dirname(__FILE__).'/db/authors.yml');
+$PSLM_SOURCES = Yaml::parseFile(dirname(__FILE__).'/db/sources.yml');
 $PSLM_PSALMS = [];
 
-if ($PSLM_SOURCES === null) {
-    $PSLM_SOURCES = Yaml::parseFile(dirname(__FILE__).'/db/sources.yml');
-}
 
 pslm_render_sizes_css();
 pslm_render_index();
@@ -31,7 +28,7 @@ if (file_exists('upload.sh')) {
 function pslm_lyrics_to_text($lyrics) {
     $text = implode(' ', $lyrics);
     $text = preg_replace('#\s+--\s+#', '', $text);
-    $text = preg_replace('#\s*\\\\set stanza = ("[^"]*"|\\\\responsum)\s*#', '', $text);
+    $text = preg_replace('#\s*\\\\set stanza = ("[^"]*"|\\\\[a-zA-Z]+)\s*#', '', $text);
     $text = str_replace('"', '', $text);
     return $text;
 }
@@ -193,9 +190,6 @@ function pslm_render_index() {
 
 function pslm_render_psalm_html($id) {
     global $PSLM_AUTHORS, $PSLM_SOURCES;
-    if ($PSLM_AUTHORS === null) {
-        $PSLM_AUTHORS = Yaml::parseFile(dirname(__FILE__).'/db/authors.yml');
-    }
     $psalm = pslm_engrave($id, 'svg');
     $opts = $psalm['opts'];
 
