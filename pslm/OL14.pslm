@@ -1,0 +1,71 @@
+%% occasion: '2. neděle adventní B'
+%% occasion: 'Pondělí po 2. neděli adventní'
+%% occasion: 'Středa po 3. neděli adventní'
+%% occasion: '15. neděle v mezidobí B'
+%% responsum_reference: 'Ž 85 (84),8'
+%% verse_reference: 'Ž 85 (84)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 22
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 c f g a4. f8 / bes c bes a g4. \breathe / a8 bes d / c bes a( g) g2 ||
+t: Pane, ukaž nám své milosrdenství a uděl nám svou spásu.
+
+%% part: verse
+
+m: bes'B a8 g g_ f f f2 |
+t: Kéž mohu slyšet, co mluví Hospodin, Bůh:
+
+m: fB e8 d d_( c) c2 ||
+t: * jistě mluví o pokoji pro svůj lid a pro své svaté.
+
+%% part: verse
+
+m: bes'B a8 g g_( f) f2 |
+t: Jistě je blízko jeho spása těm, kteří se ho bojí,
+
+m: fB e8 d d_( c) c4 r ||
+t: * aby sídlila jeho velebnost v naší zemi.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 g g_ f f2 |
+t: Milosrdenství a věrnost se potkají,
+
+m: fB e8 d d_ c c2 ||
+t: * spravedlnost a pokoj se políbí.
+
+%% part: verse
+
+m: bes'B a8 g g_ f f4 r |
+t: Věrnost vypučí ze země,
+
+m: fB e8 d d_( c) c4 r ||
+t: * spravedlnost shlédne z nebe.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 g g_( f) f4 |
+t: Hospodin též popřeje dobro
+
+m: r8 f fB e8 d d_( c) c4 r ||
+t: * a naše země vydá plody.
+
+%% part: verse
+
+m: bes'B a8 g g_ f f4 |
+t: Spravedlnost bude ho předcházet
+
+m: r8 f fB e8 d d_( c) c2 ||
+t: * a spása mu půjde v patách.
+
+%% use: responsum
+

@@ -1,0 +1,69 @@
+%% occasion: 'Sobota po 1. neděli adventní'
+%% occasion: '5. neděle v mezidobí B'
+%% responsum_reference: 'Srov. Ž 147 (146),3a'
+%% verse_reference: 'Ž 147 (146)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 20
+
+m: \key c \major
+
+%% part: responsum
+
+m: e'4 g a8 b a g | e e~ e4 / d8 c b c | d4 r8 f e d | g4 e r4 ||
+t: Chvalte Hospodina, který uzdravuje ty, jimž puká srdce.
+
+%% part: verse
+
+m: a'B g8 a b_( g) g2 |
+t: Chvalte Hospodina, neboť je dobrý,
+
+m: fB e8 f g_( e) e4 r ||
+t: * opěvujte našeho Boha, neboť je milý, (+) zaslouží si chvály.
+
+%% part: verse
+
+m: a'B g8 a b_ g g g2 |
+t: Hospodin buduje Jeruzalém,
+
+m: fB e8 f g_ e e e4 r ||
+t: * shromažďuje rozptýlené z Izraele.
+
+%% use: responsum
+
+%% part: verse
+
+m: a'B g8 a b_( g) g4 |
+t: Uzdravuje ty, jimž puká srdce,
+
+m: r8 f fB e8 f g_( e) e4 ||
+t: * a obvazuje jejich rány.
+
+%% part: verse
+
+m: r8 a' g8 a b_ g g4 r |
+t: Určuje počet hvězd,
+
+m: fB e8 f g_( e) e4 r ||
+t: * každou z nich nazývá jménem.
+
+%% use: responsum
+
+%% part: verse
+
+m: a'B g8 a b_ g g2 |
+t: Velký je náš Pán a přemocný,
+
+m: fB e8 f g_ e e4 r ||
+t: * jeho moudrost je bez míry.
+
+%% part: verse
+
+m: a'B g8 a b_ g g2 |
+t: Pokorné Hospodin pozvedá,
+
+m: fB e8 f g_( e) e4 r ||
+t: * bezbožné však ponižuje k zemi.
+
+%% use: responsum
+
