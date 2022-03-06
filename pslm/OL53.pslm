@@ -1,6 +1,6 @@
 %% occasion: 'Týden před Zjevením Páně (2. ledna)'
 %% occasion: 'Sobota po 4. neděli velikonoční'
-%% responsum_reference: 'Ž 98 (97),3c .'
+%% responsum_reference: 'Ž 98 (97),3c'
 %% verse_reference: 'Ž 98 (97)'
 %% author: olejnik
 %% source: nedelni_zaltar
@@ -10,7 +10,7 @@ m: \key c \major
 
 %% part: responsum
 
-m: g'8 a b c c4 d8 d b a g4 | a a8 f e d g( e c) c4. ||
+m: g'8 a b c c4 / d8 d b / a g4 | a a8 / f e d / g( e c) c4. ||
 t: U -- zřely všechny končiny země spásu našeho Boha.
 
 %% part: verse 
