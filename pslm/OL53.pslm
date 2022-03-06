@@ -1,0 +1,69 @@
+%% occasion: 'Týden před Zjevením Páně (2. ledna)'
+%% occasion: 'Sobota po 4. neděli velikonoční'
+%% responsum_reference: 'Ž 98 (97),3c .'
+%% verse_reference: 'Ž 98 (97)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 61
+
+m: \key c \major
+
+%% part: responsum
+
+m: g'8 a b c c4 d8 d b a g4 | a a8 f e d g( e c) c4. ||
+t: U -- zřely všechny končiny země spásu našeho Boha.
+
+%% part: verse 
+
+m: c'8 e gB g8 e a(_g) g4 r |
+t: Zpívejte Hospodinu novou píseň,
+
+m: aB b8 c d(_ b g) g4 r ||
+t: * neboť učinil podivuhodné věci.
+
+%% part: verse
+
+m: c'8 e gB g8 e a_ g g4 r |
+t: Vítězství je dílem jeho pravice,
+
+m: aB b8 c d(_ b) g g4 r ||
+t: * jeho svatého ramene.
+
+%% use: responsum
+
+%% part: verse
+
+m: c'8 e gB g8 e a(_g) g4 r |
+t: Hospodin uvedl ve známost svou spásu,
+
+m: aB b8 c d_ b g g4 r ||
+t: * před zraky pohanů zjevil svou spravedlnost.
+
+%% part: verse
+
+m: c'8 e gB g8 e a(_g) g4 r |
+t: Rozpomenul se na svou dobrotu a věrnost
+
+m: aB b8 c d(_ b g) g4 r ||
+t: * Izraelovu domu.
+
+%% use: responsum
+
+%% part: verse
+
+m: c'8 e gB g8 e a(_g) g4 r |
+t: Uzřely všechny končiny země
+
+m: aB b8 c d(_ b g) g4 r ||
+t: * spásu našeho Boha.
+
+%% part: verse
+
+m: c'8 e gB g8 e a(_g) g4 r |
+t: Jásejte Hospodinu, všechny země,
+
+m: aB b8 c d(_ b g) g4 r ||
+t: * radujte se, plesejte a hrejte!
+
+%% use: responsum
+
