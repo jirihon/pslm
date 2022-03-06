@@ -9,7 +9,7 @@ m: \key as \major
 
 %% part: responsum
 
-m: es'8 f g as as g as c bes bes2 ||
+m: es'8 f g as as g as / c bes bes2 ||
 t: Bože, buď milostiv a žehnej nám!
 
 %% part: verse

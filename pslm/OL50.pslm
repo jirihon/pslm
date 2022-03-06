@@ -17,7 +17,7 @@ t: Hospodine, Pane náš, jak podivuhodné je tvé jméno po celé zemi!
 
 %% part: verse
 
-m: bes'B c8 g bes(_ a) a2 \break |
+m: bes'B c8 g bes(_ a) a2 |
 t: Když se zahledím na tvá nebesa, dílo tvých prstů,
 
 m: d,B e8 f a(_ g) g4 r ||
@@ -25,7 +25,7 @@ t: * na měsíc, na hvězdy, které jsi stvořil:
 
 %% part: verse
 
-m: bes'B c8 g bes(_ a) a2 \break |
+m: bes'B c8 g bes(_ a) a2 |
 t: Co je člověk, že na něho myslíš,
 
 m: d,B e8 f a(_ g) g2 ||
