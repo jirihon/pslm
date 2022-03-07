@@ -9,15 +9,15 @@ m: \key f \major
 
 %% part: responsum
 
-m: f'8 f e d a' g g4 r | c,8 g'4. g8 f e a a a2 ||
+m: f'8 f e d a' g g4 r | c,8 g'4. / g8 f e / a a a2 ||
 t: Pamatujte na divy, které učinil Hospodin.
 
 %% part: verse
 
-m: bes'B bes8_ a a a2 r |
+m: bes'B bes8_ a a a4 r |
 t: Hospodin přivolal na zemi hlad,
 
-m: gB g8_( f) g4 r ||
+m: gB g8_( f) f4 r ||
 t: * zbavil je chleba.
 
 %% part: verse
@@ -53,7 +53,7 @@ t: * Hospodinovo slovo jej ověřilo.
 m: bes'B bes8_ a a4 r |
 t: Král poslal, a osvobodil ho,
 
-m: gB g8_ f f f4 r ||
+m: gB g8_ f f4 r ||
 t: * vládce národů ho propustil.
 
 %% part: verse

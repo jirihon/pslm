@@ -9,7 +9,7 @@ m: \key f \major
 
 %% part: responsum
 
-m: c''8 d c bes a r | bes c bes a g g4 r ||
+m: c''8 d c bes a r | bes c bes / a g g4 r ||
 t: Smiluj se, Pane, neboť jsme zhřešili.
 
 %% part: verse
@@ -28,9 +28,9 @@ t: Úplně ze mě smyj mou vinu
 m: r8 g gB f8 g bes_( a) a4 r ||
 t: * a očisť mě od mého hříchu.
 
-%% part: responsum_
+%% part: responsum_short
 
-m: c''8 d c bes a r | bes c bes a g g4 ||
+m: c''8 d c bes a r | bes c bes / a g g4 ||
 t: Smiluj se, Pane, neboť jsme zhřešili.
 
 %% part: verse

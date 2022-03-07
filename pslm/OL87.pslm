@@ -12,12 +12,12 @@ m: \key f \major
 
 %% part: responsum
 
-m: f'8 f f f c f g f f4 r / g8 c a g f d c4 c2 ||
-t: Zaslechneteli dnes jeho hlas, nezatvrzujte svá srdce!
+m: f'8 f f f c f g f f4 r / g8 c a g f d / c4 c2 ||
+t: Zaslechnete-li dnes jeho hlas, nezatvrzujte svá srdce!
 
 %% part: verse
 
-m: g'B a8 bes d_ d d d4 r |
+m: g'B a8 bes c_ c c c4 r |
 t: Pojďme, jásejme Hospodinu,
 
 m: aB d8 bes a_( g) f4 r ||
@@ -25,7 +25,7 @@ t: * oslavujme Skálu své spásy,
 
 %% part: verse
 
-m: g'B a8 bes d_ d d d4 |
+m: g'B a8 bes c_ c c c4 |
 t: předstupme před něho s chvalozpěvy
 
 m: r8 a aB d8 bes a_ g g f4 r ||
@@ -35,7 +35,7 @@ t: * a písněmi mu zajásejme!
 
 %% part: verse
 
-m: g'B a8 bes d_ d d4 r |
+m: g'B a8 bes c_ c c4 r |
 t: Pojďme, padněme, klaňme se,
 
 m: aB d8 bes a_ g g f4 r ||
@@ -43,7 +43,7 @@ t: * poklekněme před svým tvůrcem, Hospodinem!
 
 %% part: verse
 
-m: g'B a8 bes d4_ d |
+m: g'B a8 bes c4_ c |
 t: Neboť on je náš Bůh
 
 m: r8 a aB d8 bes a_( g) f4 r ||
@@ -53,15 +53,15 @@ t: * a my jsme lid, který pase, (+) stádce vedené jeho rukou.
 
 %% part: verse
 
-m: g'B a8 bes d_ d r4 |
+m: g'B a8 bes c_ c r4 |
 t: Kéž byste dnes uposlechli jeho hlasu:
 
-m: aB d8 bes a_ g g f4 r ||
+m: aB d8 bes a_ g f4 r ||
 t: * „Nezatvrzujte svá srdce jako v Meribě,
 
-%% part: verse
+%% part: versesa
 
-m: g'B a8 bes d_ d  d2 |
+m: g'B a8 bes c_ c  c2 |
 t: jako tehdy v Masse na poušti, + kde mě dráždili vaši otcové,
 
 m: aB d8 bes a_( g) f4 r ||

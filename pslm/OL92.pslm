@@ -9,13 +9,13 @@ m: \key c \major
 
 %% part: responsum
 
-m: g'8 a b c4 c8 | a b c d b g | g4 r8 ||
+m: g'8 a b c4 c8 | a b c / d b g | g4 r8 ||
 t: Jeruzaléme, oslavuj Hospodina!
 
 %% part: verse
 
 m: f'B g8 a a_ g g g4 |
-t: Jeruzaléme, oslavu Hospodina,
+t: Jeruzaléme, oslavuj Hospodina,
 
 m: r8 d dB c8 d f_ e e4 ||
 t: * chval svého Boha, Sióne,
@@ -46,12 +46,12 @@ t: Dává sníh jako vlnu,
 m: dB c8 d f_( e) e4 r ||
 t: * jíní sype jako popel.
 
-%% use: responsumm
+%% use: responsum
 
 %% part: verse
 
 m: f'B g8 a a_ g g g4 |
-t: Oznámil své slovo Jakubo
+t: Oznámil své slovo Jakubovi
 
 m: r8 d dB c8 d f_ e e e4 ||
 t: * své zákony a přikázání Izraeli.

@@ -11,7 +11,7 @@ m: \key f \major
 
 %% part: responsum
 
-m: c'8 f g a4 f8 bes a a | c d c f, a4( g2) ||
+m: c'8 f g a4 f8 bes a a | c d / c f, / a4( g2) ||
 t: Má duše žízní po tobě, Pane, Bože můj!
 
 %% part: verse
@@ -40,14 +40,14 @@ t: Sešli své světlo a svou věrnost:
 m: fB e8 d d_( c) c2 ||
 t: * ty ať mě vedou a přivedou + na tvou svatou horu a do tvých stanů.
 
-%% part: responsum_
+%% part: responsum_short
 
-m: c'8 f g a4 f8 bes a a | c d c f, a4( g4) ||
+m: c'8 f g a4 f8 bes a a | c d / c f, / a4( g4) ||
 t: Má duše žízní po tobě, Pane, Bože můj!
 
 %% part: verse
 
-m: bes'B a8 g g_ f f4 |
+m: r8 bes' besB a8 g g_ f f4 |
 t: Pak přistoupím k Božímu oltáři, + k Bohu, který mě naplňuje radostí,
 
 m: r8 f fB e8 d d_( c) c4 r ||

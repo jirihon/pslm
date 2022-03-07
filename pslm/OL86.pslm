@@ -12,7 +12,7 @@ m: \key f \major
 
 %% part: responsum
 
-m: a'8 a g a bes a g f |  e d d( c) c4. r8 | bes' bes c bes a g g( f) | f4( f8) r ||
+m: a'8 a g a bes a g f |  e d / d( c) c4~ c8 r8 | bes' bes c bes a g g( f) | f4( f8) r ||
 t: Kéž byste dnes uposlechli jeho hlasu: „Nezatvrzujte svá srdce!“
 
 %% part: verse
@@ -46,7 +46,7 @@ t: * poklekněme před svým tvůrcem, Hospodinem!
 m: d'B e8 f g_( a g) g4 |
 t: Neboť on je náš Bůh
 
-m: r8 g gB f8 g a_( bes a) a4 r ||
+m: r8 g gB f8 g a_( bes a) a2 ||
 t: * a my jsme lid, který pase, (+) stádce vedené jeho rukou.
 
 %% use: responsum
