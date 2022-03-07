@@ -15,13 +15,12 @@ define('PSLM_MAX_WIDTH', 732);
 
 $PSLM_AUTHORS = Yaml::parseFile(dirname(__FILE__).'/db/authors.yml');
 $PSLM_SOURCES = Yaml::parseFile(dirname(__FILE__).'/db/sources.yml');
-$PSLM_PSALMS = [];
-$PSLM_UPDATED_RESPONSUMS = [];
-
 
 pslm_render_sizes_css();
 pslm_render_index();
 pslm_render_listing();
+pslm_update_pregenerated();
+
 
 if (file_exists('upload.sh')) {
     system('./upload.sh');
@@ -183,37 +182,54 @@ function pslm_render_index() {
     file_put_contents("html/index.html", $html);
 }
 
-function pslm_render_psalm_html($id) {
-    global $PSLM_SOURCES, $PSLM_SAME_RESPONSUMS, $PSLM_UPDATED_RESPONSUMS, $PSLM_SAME_VERSES;
-    $psalm = pslm_engrave($id, 'svg');
 
-    if (isset($PSLM_SAME_RESPONSUMS[$id])) {
-        foreach ($PSLM_SAME_RESPONSUMS[$id] as $template_id) {
-            if (!isset($PSLM_UPDATED_RESPONSUMS[$template_id])) {
-                $key = implode(' ', $psalm['original_music'][0]);
-                $music = implode(' ', $psalm['original_music']['responsum']);
+function pslm_update_pregenerated() {
+    global $PSLM_PSALMS, $PSLM_SAME_RESPONSUMS, $PSLM_SAME_VERSES;
+    
+    $updated_responsums = [];
+    $done_psalms = [];
 
-                $pslm_file = dirname(__FILE__).'/pslm/pregenerated/'.$template_id.'.pslm';
-                $pslm = file_get_contents($pslm_file);
-                $pslm = preg_replace(
-                    '#m:[^\n]*\n*%% part: responsum\n*m:[^\n]*#s',
-                    "m: $key\n\n%% part: responsum\n\nm: $music",
-                    $pslm
-                );
-                file_put_contents($pslm_file, $pslm);
-                $PSLM_UPDATED_RESPONSUMS[$template_id] = true;
+    foreach ($PSLM_PSALMS as $id => $psalm) {
+        if (isset($PSLM_SAME_RESPONSUMS[$id])) {
+            foreach ($PSLM_SAME_RESPONSUMS[$id] as $template_id) {
+                if (!isset($updated_responsums[$template_id])) {
+                    $key = implode(' ', $psalm['original_music'][0]);
+                    $music = implode(' ', $psalm['original_music']['responsum']);
+
+                    $pslm_file = dirname(__FILE__).'/pslm/pregenerated/'.$template_id.'.pslm';
+                    $pslm = file_get_contents($pslm_file);
+                    $pslm = preg_replace(
+                        '#m:[^\n]*\n*%% part: responsum\n*m:[^\n]*#s',
+                        "m: $key\n\n%% part: responsum\n\nm: $music",
+                        $pslm
+                    );
+                    file_put_contents($pslm_file, $pslm);
+                    $updated_responsums[$template_id] = true;
+                }
+            }
+        }
+        if (isset($PSLM_SAME_VERSES[$id])) {
+            foreach ($PSLM_SAME_VERSES[$id] as $template_id) {
+                if (isset($done_psalms[$template_id])) {
+                    $done_psalms[$template_id][] = $id;
+                } else {
+                    $done_psalms[$template_id] = [$id];
+                }
             }
         }
     }
-    if (isset($PSLM_SAME_VERSES[$id])) {
-        foreach ($PSLM_SAME_VERSES[$id] as $template_id) {
-            $pslm_file = dirname(__FILE__).'/pslm/pregenerated/'.$template_id.'.pslm';
-            $pslm = file_get_contents($pslm_file);
-
-            $pslm = preg_replace('#(%% page: [^\n]*).*?%%#s', "\\1\n\n% Tento žalm má stejné verše jako už hotový $id\n\n%%", $pslm);
-            file_put_contents($pslm_file, $pslm);
-        }
+    foreach ($done_psalms as $template_id => $done) {
+        $done = implode(', ', $done);
+        $pslm_file = dirname(__FILE__).'/pslm/pregenerated/'.$template_id.'.pslm';
+        $pslm = file_get_contents($pslm_file);
+        $pslm = preg_replace('#(%% page: [^\n]*).*?%%#s', "\\1\n\n% Tento žalm má stejné texty veršů jako publikovaný $done\n\n%%", $pslm);
+        file_put_contents($pslm_file, $pslm);
     }
+}
+
+function pslm_render_psalm_html($id) {
+    global $PSLM_SOURCES;
+    $psalm = pslm_engrave($id, 'svg');
 
     $opts = $psalm['opts'];
 
