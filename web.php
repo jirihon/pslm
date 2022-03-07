@@ -99,10 +99,10 @@ function pslm_render_listing() {
                 );
             }
         }
-        $html .= sprintf('<ul>%s</ul>', implode('', $item_html));
         $total = $source['range'][1] - $source['range'][0] + 1;
         $done = count($done);
         $html .= sprintf('<p style="margin-left: 1em">Přepsáno %d z %d žalmů (%s %%).</p>', $done, $total, round($done/$total * 100));
+        $html .= sprintf('<ul>%s</ul>', implode('', $item_html));
     }
     $html = pslm_html_page('Rejstřík', $html);
     file_put_contents("html/rejstrik.html", $html);
