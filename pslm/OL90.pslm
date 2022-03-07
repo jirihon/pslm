@@ -1,0 +1,57 @@
+%% occasion: 'Pondělí po 3. neděli postní'
+%% occasion: 'Pondělí po 4. neděli velikonoční'
+%% occasion: 'Při křtu dospělých'
+%% responsum_reference: 'Ž 63 (62),2b'
+%% verse_reference: 'Ž 42 (41), 43 (42)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 98
+
+m: \key f \major
+
+%% part: responsum
+
+m: c'8 f g a4 f8 bes a a | c d c f, a4( g2) ||
+t: Má duše žízní po tobě, Pane, Bože můj!
+
+%% part: verse
+
+m: bes'B a8 g g_( f) f4 |
+t: Jako laň prahne po vodách bystřin,
+
+m: r8 f fB e8 d d_( c) c4 ||
+t: * tak prahne má duše po tobě, Bože!
+
+%% part: verse
+
+m: r8 bes' besB a8 g g_( f) f4 r |
+t: Má duše žízní po Bohu, po živém Bohu:
+
+m: fB e8 d d_ c c2 ||
+t: * kdy už smím přijít a spatřit Boží tvář?
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 g g_( f) f4 r |
+t: Sešli své světlo a svou věrnost:
+
+m: fB e8 d d_( c) c2 ||
+t: * ty ať mě vedou a přivedou + na tvou svatou horu a do tvých stanů.
+
+%% part: responsum_
+
+m: c'8 f g a4 f8 bes a a | c d c f, a4( g4) ||
+t: Má duše žízní po tobě, Pane, Bože můj!
+
+%% part: verse
+
+m: bes'B a8 g g_ f f4 |
+t: Pak přistoupím k Božímu oltáři, + k Bohu, který mě naplňuje radostí,
+
+m: r8 f fB e8 d d_( c) c4 r ||
+t: * a oslavím tě citerou, Bože, můj Bože!
+
+%% use: responsum
+
