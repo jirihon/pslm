@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 14
 
-m: \key c \major
+m: \key as \major
 
 %% part: responsum
 
-m: bB ||
+m: es'8 f g as bes g f es4 | des'8 des c / bes4 as8 as4 r ||
 t: Do domu Hospodinova s radostí půjdeme.
 
 %% part: verse

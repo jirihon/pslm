@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 345
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: a'8 a g f bes4 c8 a | d, f g4 g r ||
 t: Hospodin je mé světlo a má spása.
 
 %% part: verse

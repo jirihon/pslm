@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 16
 
-m: \key c \major
+m: \key d \major
 
 %% part: responsum
 
-m: bB ||
+m: r8 d' e fis g g g fis / fis( e) e4 | r8 e fis g / a4( fis) fis2 ||
 t: Hospodin pamatuje věčně na svoji smlouvu.
 
 %% part: verse

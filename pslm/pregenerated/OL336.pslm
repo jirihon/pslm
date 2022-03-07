@@ -9,7 +9,7 @@ m: \key c \major
 
 %% part: responsum
 
-m: bB ||
+m: r8 e' d c d g g g | r g f e e d~ d4 | f8 f a b c c c4 | d8 d4( b8) g g g4 ||
 t: Děkujte Hospodinu, neboť je dobrý, jeho milosrdenství trvá na věky.
 
 %% part: verse

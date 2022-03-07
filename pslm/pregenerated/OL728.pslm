@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 337
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: a'8 a g a bes a g f |  e d / d( c) c4~ c8 r8 | bes' bes c bes a g g( f) | f4( f8) r ||
 t: Kéž byste dnes uposlechli jeho hlasu: „Nezatvrzujte svá srdce!“
 
 %% part: verse

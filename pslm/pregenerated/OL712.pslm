@@ -4,11 +4,11 @@
 %% source: vsedni_zaltar
 %% page: 321
 
-m: \key c \major
+m: \key bes \major
 
 %% part: responsum
 
-m: bB ||
+m: f'8 d f g4. f8 / g a / bes bes bes4. \breathe / c8 a g / f4 f2 ||
 t: Budete vážit vodu s radostí z pramenů spásy.
 
 %% part: verse

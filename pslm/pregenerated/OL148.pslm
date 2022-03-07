@@ -6,11 +6,11 @@
 %% source: nedelni_zaltar
 %% page: 157
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: c''8( d) c a | a4 r8 f | bes4 c8 | bes bes a | g( e) c4 r ||
 t: Jsme jeho lid a stádce, které on pase.
 
 %% part: verse

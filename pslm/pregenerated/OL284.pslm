@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 293
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: a'8 f g a2 | c8 bes / a f / a g g g4 r ||
 t: Budu ti hrát, Hospodine, před anděly.
 
 %% part: verse

@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 96
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: f'8 c f g a4 f | g8 a4 bes8 / c c c2 ||
 t: Pane, ty máš slova věčného života.
 
 %% part: verse

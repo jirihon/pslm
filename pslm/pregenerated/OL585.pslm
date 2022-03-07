@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 194
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: es'8 bes f' es es2 | c8 c d es / f4. \breathe g8 | as g f / bes g g4 r ||
 t: Bože, obnov nás, rozjasni svou tvář, a budeme spaseni.
 
 %% part: verse

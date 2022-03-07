@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 339
 
-m: \key c \major
+m: \key bes \major
 
 %% part: responsum
 
-m: bB ||
+m: bes'8 a4 bes8 d4 c | bes8 c a f4 r ||
 t: Dobré je chválit Hospodina.
 
 %% part: verse

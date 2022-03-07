@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 263
 
-m: \key c \major
+m: \key d \major
 
 %% part: responsum
 
-m: bB ||
+m: fis'8. e16 d4 / e8 fis / g fis4 e8 | fis g / a b / a a a4~ a8 r ||
 t: Ústa má budou vyprávět o tvé spravedlnosti.
 
 %% part: verse

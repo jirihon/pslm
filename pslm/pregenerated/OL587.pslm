@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 196
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: r8 a' f a c8. c16 c4 | r8 d bes a g4 g ||
 t: Hospodin zástupů, on je král slávy!
 
 %% part: verse

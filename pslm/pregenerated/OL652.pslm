@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 261
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: r8 g' es f g4 es | f8 g / as g4 f8 / g as / bes4 bes r ||
 t: Kdo žije správně, tomu ukážu Boží spásu.
 
 %% part: verse

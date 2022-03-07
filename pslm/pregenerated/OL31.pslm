@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 39
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: f'8 g a bes a g / a c c | c4 r8 a | d4 c / bes8 bes a | g e c4 r ||
 t: V jeho dnech rozkvete spravedlnost a hojnost pokoje na věky.
 
 %% part: verse

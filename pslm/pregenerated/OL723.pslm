@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 332
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: bes'8 c bes as g4 f8 es / c4 d8 es / f es f g f4 r ||
 t: Blaze těm, kdo kráčejí v zákoně Hospodinově.
 
 %% part: verse

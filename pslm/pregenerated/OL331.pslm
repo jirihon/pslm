@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 341
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: bes'4 c8 bes4 g8 / es d / c d es / f4 f r ||
 t: Hle, přicházím, Pane, splnit tvou vůli.
 
 %% part: verse

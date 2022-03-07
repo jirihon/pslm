@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 104
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: g'8 f es as f r | f g as / bes g g2 ||
 t: Plesejte Bohu, který nám pomáhá.
 
 %% part: verse

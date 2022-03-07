@@ -6,11 +6,11 @@
 %% source: vsedni_zaltar
 %% page: 141
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: c'8 d e f4 f8 / f e d / g g g4 | bes8 c bes a g4 / a8( f) f4 ||
 t: Velkou věc s námi učinil Hospodin, naplnila nás radost.
 
 %% part: verse

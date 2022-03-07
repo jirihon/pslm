@@ -6,11 +6,11 @@
 %% source: nedelni_zaltar
 %% page: 278
 
-m: \key c \major
+m: \key g \major
 
 %% part: responsum
 
-m: bB ||
+m: b'4 g c8 c b a | b g / fis( e) / e( d) d4 r ||
 t: Pán mě vysvobodil ze všech mých obav.
 
 %% part: verse

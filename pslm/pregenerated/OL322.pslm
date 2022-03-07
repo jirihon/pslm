@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 332
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: c''8 a d c bes( a) g4. \breathe / bes8 a g / f c / f g / a c c2 ||
 t: Kalich požehnání je společenstvím Krve Kristovy.
 
 %% part: verse

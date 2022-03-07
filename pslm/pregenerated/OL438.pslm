@@ -8,11 +8,11 @@
 %% source: vsedni_zaltar
 %% page: 47
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: g'8 as bes bes r4 | es,8 es~ es4 / as8 as g | f c / d es / f g f4 r ||
 t: Blaze tomu, kdo svou naději vložil do Hospodina.
 
 %% part: verse

@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 105
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: c''8 d c bes a r | bes c bes / a g g4 r ||
 t: Smiluj se, Pane, neboť jsme zhřešili.
 
 %% part: verse

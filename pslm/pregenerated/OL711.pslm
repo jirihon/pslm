@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 320
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: f'8 g f c g' f f4. \breathe d8 | d e f g g / f e / a2 f4 | bes8 a g2 / c4 a r ||
 t: Hospodine, Pane náš, jak podivuhodné je tvé jméno po celé zemi!
 
 %% part: verse

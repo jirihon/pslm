@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 224
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: f'8 e d / d e f / g4 g r ||
 t: Buď se mnou, Pane, v mé tísni.
 
 %% part: verse
