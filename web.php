@@ -25,13 +25,6 @@ if (file_exists('upload.sh')) {
     system('./upload.sh');
 }
 
-function pslm_lyrics_to_text($lyrics) {
-    $text = implode(' ', $lyrics);
-    $text = preg_replace('#\s+--\s+#', '', $text);
-    $text = preg_replace('#\s*\\\\set stanza = ("[^"]*"|\\\\[a-zA-Z]+)\s*#', '', $text);
-    $text = str_replace('"', '', $text);
-    return $text;
-}
 
 function pslm_html_page($title, $body) {
     ob_start();
@@ -67,7 +60,7 @@ function pslm_psalm_title($id, $psalm) {
     return sprintf(
         '%s – %s – %s',
         $id,
-        pslm_lyrics_to_text($psalm['text']['responsum']),
+        implode(' ', $psalm['original_text']['responsum']),
         $psalm['opts']['verse_reference']
     );
 }

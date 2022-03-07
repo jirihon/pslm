@@ -385,14 +385,17 @@ function pslm_parse_psalm($psalm) {
             if (!empty($music)) {
                 $music = implode(' ', $music);
                 $text = implode(' ', $text);
+                $original_text = $text;
                 list($music, $text) = pslm_process_snippet($music, $text);
                 
                 if (!empty($part)) {
                     $psalm['music'][$part][] = $music;
                     $psalm['text'][$part][] = $text;
+                    $psalm['original_text'][$part][] = $original_text;
                 } else {
                     $psalm['music'][] = [$music];
                     $psalm['text'][] = [$text];
+                    $psalm['original_text'][] = [$original_text];
                 }
                 $music = [];
                 $text = [];
@@ -553,17 +556,20 @@ function pslm_text_to_lyrics($text) {
             $search[$i] = '#'.$search[$i].'#ui'; // case-insensitive
         }
         $replace = str_replace('-', ' -- ', $hyph);
-        $search[] = '#([aáeéěiíoóuúůyý])(([bdďcčfghjklmnňpqrřsštťvwxzž]|ch|chr|[hst]l|br|př|zř|jm)[aáeéěiíoóuúůyý])#ui'; // general pattern for two vowels separated by a consonant or consonant group
+        $search[] = '#([aáeéěiíoóuúůyý])(([bdďcčfghjklmnňpqrřsštťvwxzž]|ch|chr|[hst]l|br|př|zř|jm|st|sv)[aáeéěiíoóuúůyý])#ui'; // general pattern for two vowels separated by a consonant or consonant group
         $replace[] = '\1 -- \2';
         $PSLM_HYPH_EXCEPTIONS = [$search, $replace];
     }
     $htext = preg_replace($PSLM_HYPH_EXCEPTIONS[0], $PSLM_HYPH_EXCEPTIONS[1], $htext);
     $repl = [
         '#\s{2,}#' => ' ', // normalize white-spaces to single space
+        '#([^\-])\-([^\-])#' => '\1 -- \2', // 
         '# -- ([bdďjlrřsš]) -- #ui' => '\1 -- ', // move some ambiguous consonants to the previous syllable if both options are possible
         '# -- ([cčfghkmnňpqtťvwxzž]|st) -- #ui' => ' -- \1', // move other ambiguous consonants to the next syllable if both options are posible
         '# -- (sť|ls|ch|mž)\b#ui' => '\1', // move unsyllabic parts to the previous syllable
         '#\b(js) -- #ui' => '\1', // move unsyllabic parts to the next syllable
+
+        '#příz -- n#ui' => 'pří -- zn',
         
         '#\b[ksvz] [^\s]+#ui' => '"\0"', // join unsyllabic preposition to the next syllable
         '#[^\s]+ \+#ui' => '"\0"', // join + sign to the previous syllable
