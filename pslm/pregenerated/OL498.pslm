@@ -7,12 +7,6 @@
 
 % Tento žalm má stejné verše jako už hotový OL86
 
-% Tento žalm má stejné verše jako už hotový OL86!
-
-% Tento žalm má stejné verše jako už hotový OL86!
-
-m: \key f \major
-
 %% part: responsum
 
 m: a'8 a g a bes a g f |  e d / d( c) c4~ c8 r8 | bes' bes c bes a g g( f) | f4( f8) r ||

@@ -8,12 +8,6 @@
 
 % Tento žalm má stejné verše jako už hotový OL123
 
-% Tento žalm má stejné verše jako už hotový OL123!
-
-% Tento žalm má stejné verše jako už hotový OL123!
-
-m: \key f \major
-
 %% part: responsum
 
 m: c''4 a d8 c a g / f4( d) c2 ||

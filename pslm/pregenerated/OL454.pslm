@@ -10,24 +10,6 @@
 
 % Tento žalm má stejné verše jako už hotový OL15
 
-% Tento žalm má stejné verše jako už hotový OL14
-
-% Tento žalm má stejné verše jako už hotový OL13
-
-% Tento žalm má stejné verše jako už hotový OL15!
-
-% Tento žalm má stejné verše jako už hotový OL14!
-
-% Tento žalm má stejné verše jako už hotový OL13!
-
-% Tento žalm má stejné verše jako už hotový OL15!
-
-% Tento žalm má stejné verše jako už hotový OL14!
-
-% Tento žalm má stejné verše jako už hotový OL13!
-
-m: \key f \major
-
 %% part: responsum
 
 m: f'8 c f g a4. f8 / bes c bes a g2 ||

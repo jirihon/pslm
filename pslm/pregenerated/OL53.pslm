@@ -8,12 +8,6 @@
 
 % Tento žalm má stejné verše jako už hotový OL457
 
-% Tento žalm má stejné verše jako už hotový OL457!
-
-% Tento žalm má stejné verše jako už hotový OL457!
-
-m: \key c \major
-
 %% part: responsum
 
 m: g'8 a b c c4 / d8 d b / a g4 | a a8 / f e d / g( e c) c4. ||

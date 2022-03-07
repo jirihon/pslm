@@ -7,12 +7,6 @@
 
 % Tento žalm má stejné verše jako už hotový OL72
 
-% Tento žalm má stejné verše jako už hotový OL72!
-
-% Tento žalm má stejné verše jako už hotový OL72!
-
-m: \key es \major
-
 %% part: responsum
 
 m: es'4 es8 d c d es f4 | es8 f / g( bes) bes4 r ||

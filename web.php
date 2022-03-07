@@ -210,7 +210,7 @@ function pslm_render_psalm_html($id) {
             $pslm_file = dirname(__FILE__).'/pslm/pregenerated/'.$template_id.'.pslm';
             $pslm = file_get_contents($pslm_file);
 
-            $pslm = preg_replace('#%% page: [^\n]*#', "\\0\n\n% Tento žalm má stejné verše jako už hotový $id", $pslm);
+            $pslm = preg_replace('#(%% page: [^\n]*).*?%%#s', "\\1\n\n% Tento žalm má stejné verše jako už hotový $id\n\n%%", $pslm);
             file_put_contents($pslm_file, $pslm);
         }
     }

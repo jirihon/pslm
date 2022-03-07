@@ -7,12 +7,6 @@
 
 % Tento žalm má stejné verše jako už hotový OL50
 
-% Tento žalm má stejné verše jako už hotový OL50!
-
-% Tento žalm má stejné verše jako už hotový OL50!
-
-m: \key f \major
-
 %% part: responsum
 
 m: f'8 g f c g' f f4. \breathe d8 | d e f g g / f e / a2 f4 | bes8 a g2 / c4 a r ||

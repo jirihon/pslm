@@ -10,12 +10,6 @@
 
 % Tento žalm má stejné verše jako už hotový OL20
 
-% Tento žalm má stejné verše jako už hotový OL20!
-
-% Tento žalm má stejné verše jako už hotový OL20!
-
-m: \key es \major
-
 %% part: responsum
 
 m: g'8 as bes bes r4 | es,8 es~ es4 / as8 as g | f c / d es / f g f4 r ||
