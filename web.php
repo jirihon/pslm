@@ -17,9 +17,9 @@ $PSLM_AUTHORS = Yaml::parseFile(dirname(__FILE__).'/db/authors.yml');
 $PSLM_SOURCES = Yaml::parseFile(dirname(__FILE__).'/db/sources.yml');
 
 pslm_render_sizes_css();
-pslm_render_index();
 pslm_render_listing();
 pslm_update_pregenerated();
+pslm_render_index();
 
 
 if (file_exists('upload.sh')) {

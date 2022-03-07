@@ -10,7 +10,7 @@ m: \key es \major
 
 %% part: responsum
 
-m: g'8 g f4 es | \tuplet 3/2 { as8[ as g] } f2 \breathe / bes,4 | \tuplet 3/2 { bes'8[ bes as] } g2 ||
+m: g'8 g f4 es | \tuplet 3/2 { as8[ as g] } f2 \breathe / bes,4 | \tuplet 3/2 {bes'8[ bes as] } g2  ||
 t: Hospodin je milosrdný a milostivý.
 
 %% part: verse
