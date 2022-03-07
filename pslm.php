@@ -443,6 +443,9 @@ function pslm_parse_psalm($psalm) {
             $state = PSLM_STATE_TEXT;
             $music = $line_buffer;
             $line_buffer = [];
+        } elseif ($cmd[0] == '%') {
+            // skip comment
+            continue;
         }
         $line_buffer[] = $line;
     }
