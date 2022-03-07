@@ -2,7 +2,7 @@
 use Symfony\Component\Yaml\Yaml;
 use Vanderlee\Syllable\Syllable;
 
-require_once 'vendor/autoload.php';
+require_once dirname(__FILE__).'/vendor/autoload.php';
 
 $i = 0;
 define('PSLM_TOKEN_SYLLABLE', $i++);
@@ -385,15 +385,18 @@ function pslm_parse_psalm($psalm) {
             if (!empty($music)) {
                 $music = implode(' ', $music);
                 $text = implode(' ', $text);
+                $original_music = $music;
                 $original_text = $text;
                 list($music, $text) = pslm_process_snippet($music, $text);
                 
                 if (!empty($part)) {
                     $psalm['music'][$part][] = $music;
+                    $psalm['original_music'][$part][] = $original_music;
                     $psalm['text'][$part][] = $text;
                     $psalm['original_text'][$part][] = $original_text;
                 } else {
                     $psalm['music'][] = [$music];
+                    $psalm['original_music'][] = [$original_music];
                     $psalm['text'][] = [$text];
                     $psalm['original_text'][] = [$original_text];
                 }

@@ -3,6 +3,7 @@
 use Symfony\Component\Yaml\Yaml;
 
 require_once dirname(__FILE__).'/pslm.php';
+require_once dirname(__FILE__).'/db/similarities.php';
 
 define('PSLM_SVG_SIZES', [7, 8, 9, 10, 11, 12, 13, 14, 15]);
 //define('PSLM_SVG_SIZES', [15]);
@@ -15,6 +16,7 @@ define('PSLM_MAX_WIDTH', 732);
 $PSLM_AUTHORS = Yaml::parseFile(dirname(__FILE__).'/db/authors.yml');
 $PSLM_SOURCES = Yaml::parseFile(dirname(__FILE__).'/db/sources.yml');
 $PSLM_PSALMS = [];
+$PSLM_UPDATED_TEMPLATES = [];
 
 
 pslm_render_sizes_css();
@@ -182,8 +184,28 @@ function pslm_render_index() {
 }
 
 function pslm_render_psalm_html($id) {
-    global $PSLM_AUTHORS, $PSLM_SOURCES;
+    global $PSLM_SOURCES, $PSLM_SAME_RESPONSUMS, $PSLM_UPDATED_TEMPLATES;
     $psalm = pslm_engrave($id, 'svg');
+
+    if (isset($PSLM_SAME_RESPONSUMS[$id])) {
+        foreach ($PSLM_SAME_RESPONSUMS[$id] as $template_id) {
+            if (!isset($PSLM_UPDATED_TEMPLATES[$template_id])) {
+                $key = implode(' ', $psalm['original_music'][0]);
+                $music = implode(' ', $psalm['original_music']['responsum']);
+
+                $pslm_file = dirname(__FILE__).'/pslm/pregenerated/'.$template_id.'.pslm';
+                $pslm = file_get_contents($pslm_file);
+                $pslm = preg_replace(
+                    '#m:[^\n]*\n*%% part: responsum\n*m:[^\n]*#s',
+                    "m: $key\n\n%% part: responsum\n\nm: $music",
+                    $pslm
+                );
+                file_put_contents($pslm_file, $pslm);
+                $PSLM_UPDATED_TEMPLATES[$template_id] = true;
+            }
+        }
+    }
+
     $opts = $psalm['opts'];
 
     if (!is_array($opts['occasion'])) {

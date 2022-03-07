@@ -81,3 +81,11 @@ for ($i = 401; $i <= 728; $i++) {
     $id = "OL$i";
     print_equal($id, $responsums, $verses);
 }
+
+file_put_contents('db/similarities.php',
+    sprintf(
+        "<?php\n\n\$PSLM_SAME_RESPONSUMS = %s;\n\n\$PSLM_SAME_VERSES = %s;\n",
+        var_export($responsums, true),
+        var_export($verses, true)
+    )
+);
