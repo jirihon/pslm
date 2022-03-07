@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 56
 
-m: \key c \major
+m: \key g \major
 
 %% part: responsum
 
-m: bB ||
+m: g'8 d d d e d e fis / a8. g16 g4 r | c8 d c b / a g b a~ a4 ||
 t: Vypravujte mezi všemi národy o Hospodinových divech.
 
 %% part: verse

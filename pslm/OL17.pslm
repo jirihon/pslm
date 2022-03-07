@@ -1,9 +1,9 @@
-%% occasion: 'Sedmý den v oktávu Narození Páně (31. prosince)'
+%% occasion: 'Úterý po 2. neděli adventní'
 %% responsum_reference: 'Ž 96 (95),3'
 %% verse_reference: 'Ž 96 (95)'
 %% author: olejnik
 %% source: nedelni_zaltar
-%% page: 57
+%% page: 25
 
 m: \key g \major
 
@@ -14,54 +14,72 @@ t: Vypravujte mezi všemi národy o Hospodinových divech.
 
 %% part: verse
 
-m: aB |
+m: c''B b8 c d_( b) b4 r |
 t: Zpívejte Hospodinu novou píseň,
 
-m: bB ||
+m: aB g8 a b_( g) g4 r ||
 t: * zpívejte Hospodinu, všechny země!
 
 %% part: verse
 
-m: aB |
+m: c''B b8 c d_( b) b4 r |
 t: Zpívejte Hospodinu, velebte jeho jméno,
 
-m: bB ||
+m: aB g8 a b_( g) g4 r ||
 t: * rozhlašujte den ze dne jeho spásu!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
-t: Radujte se, nebesa, zajásej, země,
+m: c''B b8 c d_( b) b4 r |
+t: Vypravujte mezi pohany o jeho slávě,
 
-m: bB ||
-t: * zahuč, moře a vše, co je naplňuje;
+m: aB g8 a b_( g) g4 r ||
+t: * mezi všemi národy o jeho divech.
 
 %% part: verse
 
-m: aB |
-t: zaplesej, pole a vše, co je na něm.
+m: c''B b8 c d_ b b4 r |
+t: Hlásejte mezi pohany: Hospodin kraluje,
 
-m: bB ||
-t: * Tehdy se rozveselí všechny lesní stromy.
+m: aB g8 a b_( g) g4 r ||
+t: * národy řídí podle práva.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
-t: Před Hospodinem, že přichází,
+m: c''B b8 c d_( b) b4 r |
+t: Radujte se, nebesa, zajásej, země,
 
-m: bB ||
-t: * že přichází řídit zemi.
+m: aB g8 a b_ g g g4 r ||
+t: * zahuč, moře a vše, co je naplňuje;
 
 %% part: verse
 
-m: aB |
+m: c''B b8 c d_( b) b4 r |
+t: zaplesej, pole a vše, co je na něm.
+
+m: aB g8 a b_( g) g4 r ||
+t: * Tehdy se rozveselí všechny lesní stromy
+
+%% part: verse
+
+m: c''B b8 c d_ b b4 |
+t: před Hospodinem, že přichází,
+
+m: r8 a aB g8 a b_( g) g4 r ||
+t: * že přichází řídit zemi.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B b8 c d_ b b b4 r |
 t: Bude řídit svět spravedlivě,
 
-m: bB ||
+m: aB g8 a b_( g) g4 r ||
 t: * národy bude spravovat věrně.
 
 %% use: responsum
