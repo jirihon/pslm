@@ -34,23 +34,44 @@
       - day: 27
         name: 4. neděle postní C
         psalms: [OL98]
+      - day: 26
+        name: Sobota po 3. neděli postní
+        psalms: [OL94]
       - day: 25
         name: Zvěstování Páně
         psalms: [OL260]
+      - day: 24
+        name: Čtvrtek po 3. neděli postní
+        psalms: [OL86, OL87]
+      - day: 23
+        name: Středa po 3. neděli postní
+        psalms: [OL92]
+      - day: 22
+        name: Úterý po 3. neděli postní
+        psalms: [OL91]
+      - day: 21
+        name: Pondělí po 3. neděli postní
+        psalms: [OL90]
       - day: 20
         name: 3. neděle postní C
         psalms: [OL89]
       - day: 19
         name: Sv. Josefa (19. března)
         psalms: [OL259]
+      - day: 18
+        name: Pátek po 2. neděli postní
+        psalms: [OL84]
+      - day: 17
+        name: Čtvrtek po 2. neděli postní
+        psalms: [OL20]
       - day: 16
-        name: Středa po 2. neděli postní C
+        name: Středa po 2. neděli postní
         psalms: [OL83]
       - day: 15
-        name: Úterý po 2. neděli postní C
+        name: Úterý po 2. neděli postní
         psalms: [OL82]
       - day: 14
-        name: Pondělí po 2. neděli postní C
+        name: Pondělí po 2. neděli postní
         psalms: [OL81]
       - day: 13
         name: 2. neděle postní C
