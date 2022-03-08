@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 145
 
-m: \key c \major
+m: \key bes \major
 
 %% part: responsum
 
-m: bB ||
+m: r8 f' f g a bes bes bes | r g c c a g f~ f4 ||
 t: Hle, ubožák zavolal, a Hospodin slyšel.
 
 %% part: verse

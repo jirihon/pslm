@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 132
 
-m: \key c \major
+m: \key bes \major
 
 %% part: responsum
 
-m: bB ||
+m: r8 f' g a bes bes bes bes / bes a g4 | r8 g a bes / c2 f,4 ||
 t: Budu tě oslavovat na věky, můj Bože, králi.
 
 %% part: verse

@@ -1,0 +1,68 @@
+%% occasion: 'Středa po 2. neděli adventní'
+%% responsum_reference: 'Ž 103 (102),1a'
+%% verse_reference: 'Ž 104 (103)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 26
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 a c c c2 / d8 bes a g4 r ||
+t: Veleb, duše má, Hospodina.
+
+%% part: verse
+
+m: f'8 e d e8 f a_ g g g4 r |
+t: Veleb, má duše, Hospodina,
+
+m: g8 f eB f8 g bes_( a) a4 r ||
+t: * vše, co je ve mně, veleb jeho svaté jméno!
+
+%% part: verse
+
+m: f'8 e d e8 f a_ g g g4 r |
+t: Veleb, má duše, Hospodina
+
+m: g8( f) eB f8 g bes_ a a a2 ||
+t: * a nezapomeň na žádné z jeho dobrodiní!
+
+%% use: responsum
+
+%% part: verse
+
+m: f'8( e) dB e8 f a_( g) g4 r |
+t: On odpouští všechny tvé viny,
+
+m: g8( f) eB f8 g bes_ a a4 r ||
+t: * on léčí všechny tvé neduhy.
+
+%% part: verse
+
+m: f'8( e) dB e8 f a_ g g g4 r |
+t: On vykupuje tvůj život ze záhuby,
+
+m: g8 f eB f8 g bes_ a a a2 ||
+t: * on tě věnčí láskou a slitováním.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'8 e dB e8 f a_ g g g2 |
+t: Hospodin je milosrdný a milostivý,
+
+m: g8 f eB f8 g bes_ a a a2 ||
+t: * shovívavý a nadmíru dobrotivý.
+
+%% part: verse
+
+m: f'8 e dB e8 f a_( g) g2 |
+t: Nejedná s námi podle našich hříchů
+
+m: g8 f eB f8 g bes_ a a a2 ||
+t: * ani podle našich vin nám neodplácí.
+
+%% use: responsum
+

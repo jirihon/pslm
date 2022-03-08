@@ -1,0 +1,69 @@
+%% occasion: 'Pondělí po 3. neděli adventní'
+%% occasion: '3. neděle v mezidobí B'
+%% responsum_reference: 'Ž 25 (24),4a'
+%% verse_reference: 'Ž 25 (24)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 32
+
+m: \key g \major
+
+%% part: responsum
+
+m: b'8 b a b d4 c | b8 g b a4 r ||
+t: Ukaž mi své cesty, Hospodine.
+
+%% part: verse
+
+m: g'8 fis eB fis8 g b_ g a a4 r |
+t: Ukaž mi své cesty, Hospodine,
+
+m: a8( g) fisB g8 a c_( a b) b2 ||
+t: * a pouč mě o svých stezkách.
+
+%% part: verse
+
+m: g'8 fis eB fis8 g b_( g a) a4 r |
+t: Veď mě ve své pravdě a uč mě,
+
+m: a8 g fisB g8 a c_( a) b b4 r ||
+t: * neboť ty jsi Bůh, můj spasitel.
+
+%% use: responsum
+
+%% part: verse
+
+m: g'8 fis eB fis8 g b_ g a a2 |
+t: Rozpomeň se, Hospodine, na své slitování,
+
+m: a8 g fisB g8 a c_( a b) b4 r ||
+t: * na své milosrdenství, které trvá věčně.
+
+%% part: verse
+
+m: g'8 fis eB fis8 g b_( g) a a2 |
+t: Pamatuj na mě ve svém milosrdenství
+
+m: a8 g fisB g8 a c_ a b b4 r ||
+t: * pro svou dobrotivost, Hospodine!
+
+%% use: responsum
+
+%% part: verse
+
+m: g'8 fis eB fis8 g b_ g a a2 |
+t: Hospodin je dobrý a dokonalý,
+
+m: a8 g fisB g8 a c_( a b) b4 r ||
+t: * proto ukazuje hříšníkům cestu.
+
+%% part: verse
+
+m: g'8 fis eB fis8 g b_ g( a) a2 |
+t: Pokorné vede k správnému jednání,
+
+m: a8 g fisB g8 a c_( a b) b4 r ||
+t: * pokorné učí své cestě.
+
+%% use: responsum
+

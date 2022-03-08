@@ -1,75 +1,76 @@
-%% occasion: 'Pátek 19. týdne 2'
+%% occasion: '3. neděle adventní C'
+%% occasion: 'Navštívení Panny Marie (31. května)'
 %% responsum_reference: 'Iz 12,6'
-%% verse_reference: 'PůvoQdnQí tónina F dur.'
+%% verse_reference: 'Iz 12'
 %% author: olejnik
-%% source: vsedni_zaltar
-%% page: 279
+%% source: nedelni_zaltar
+%% page: 31
 
-% Tento žalm má stejné texty veršů jako publikovaný OL23
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: bes'8 c bes as g4 f8 es | c c / c d es / f4. f8 | es d4 / g8 g g g4 r ||
 t: Plesejte a jásejte, neboť nad vámi vládne Svatý Izraele.
 
 %% part: verse
 
-m: aB |
+m: c''B c8_( bes) bes4 r |
 t: Bůh je má spása!
 
-m: bB ||
+m: asB g8_( f) f4 r ||
 t: * Bez obavy mohu doufat.
 
 %% part: verse
 
-m: aB |
+m: c''B c8_( bes) bes4 r |
 t: Hospodin je má síla a má chvála,
 
-m: bB ||
+m: asB g8_( f) f2 ||
 t: * stal se mou spásou.
 
 %% part: verse
 
-m: aB |
+m: c''B c8_ bes bes2 |
 t: Budete vážit vodu s radostí
 
-m: bB ||
+m: asB g8_( f) f4 r ||
 t: * z pramenů spásy.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B c8_ bes bes bes4 |
 t: Děkujte Hospodinu,
 
-m: bB ||
+m: r8 as asB g8_( f) f4 r ||
 t: * a vzývejte jeho jméno!
 
 %% part: verse
 
-m: aB |
+m: c''B c8_( bes) bes4 r |
 t: Hlásejte mezi národy jeho díla,
 
-m: bB ||
+m: asB g8_( f) f4 r ||
 t: * zvěstujte vznešenost jeho jména!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B c8_( bes) bes4 r |
 t: Zpívejte Hospodinu, (+) neboť učinil velkolepé věci,
 
-m: bB ||
+m: asB g8_( f) f4 r ||
 t: * ať je to známo po celé zemi!
 
 %% part: verse
 
-m: aB |
+m: c''B c8_ bes bes4 r |
 t: Plesejte a jásejte, obyvatelé Siónu,
 
-m: bB ||
+m: asB g8_ f f f4 r ||
 t: * neboť velikým uprostřed vás je Svatý Izraele.
 
 %% use: responsum
