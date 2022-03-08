@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 299
 
-m: \key c \major
+m: \key g \major
 
 %% part: responsum
 
-m: bB ||
+m: d'8 g g g a g / fis g / a b a a4 r ||
 t: Radujte se, spravedliví, v Hospodinu.
 
 %% part: verse

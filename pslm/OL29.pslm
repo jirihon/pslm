@@ -1,0 +1,69 @@
+%% occasion: '4. neděle adventní B'
+%% occasion: 'Předvánoční týden (24. prosince)'
+%% responsum_reference: 'Ž 89 (88),2a'
+%% verse_reference: 'Ž 89 (88)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 37
+
+m: \key f \major
+
+%% part: responsum
+
+m: c''8 d c d c4. a8 | f bes a bes / c bes / a g g4 r ||
+t: Na věky chci zpívat o Hospodinových milostech.
+
+%% part: verse
+
+m: f'B e8 d a'_ g g4 r |
+t: Na věky chci zpívat o Hospodinových milostech,
+
+m: c,8 g'B f8 g bes_( a) a4 r ||
+t: * po všechna pokolení hlásat svými ústy tvou věrnost.
+
+%% part: verse
+
+m: f'B e8 d a'_( g) g4 r |
+t: Řekl jsi totiž: „Na věky je založena milost.“
+
+m: c,8 g'B f8 g bes_( a) a4 r ||
+t: * Na nebi jsi upevnil svou věrnost.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B e8 d a'_ g g g4 r |
+t: „Smlouvu jsem sjednal se svým vyvoleným,
+
+m: c,8 g'B f8 g bes_ a a a4 r ||
+t: * přísahal jsem Davidovi, svému služebníku:
+
+%% part: verse
+
+m: f'B e8 d a'_ g g4 |
+t: Tvůj rod zajistím na věky
+
+m: r8 c,8 g'B f8 g bes_ a a a2 ||
+t: * a tvůj trůn zbuduji na všechna pokolení.“
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B e8 d a'_( g) g4 r |
+t: „On mě bude vzývat: Ty jsi můj otec,
+
+m: c,8 g'B f8 g bes_( a) a4 r ||
+t: * můj Bůh a skála mé spásy.
+
+%% part: verse
+
+m: f'B e8 d a'_( g) g4 |
+t: Na věky mu zachovám svou milost,
+
+m: r8 c,8 g'B f8 g bes_ a a a4 r ||
+t: * má smlouva s ním platit nepřestane.“
+
+%% use: responsum
+
