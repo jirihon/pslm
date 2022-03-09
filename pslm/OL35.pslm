@@ -1,0 +1,68 @@
+%% occasion: 'Narození Páně, vigilie'
+%% responsum_reference: 'Srov. Ž 89 (88),2a'
+%% verse_reference: 'Ž 89 (88)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 43
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 f c f g a4. f8 / g a / bes c bes a g2 | c8 c a f4 r ||
+t: Na věky budu zpívat o tvém milosrdenství, Hospodine.
+
+%% part: verse
+
+m: f'B f8 e d_ d d d2 |
+t: „Smlouvu jsem sjednal se svým vyvoleným,
+
+m: gB g8 f e_ e e e4 r ||
+t: * přísahal jsem Davidovi, svému služebníku:
+
+%% part: verse
+
+m: f'B f8 e d_ d d4 |
+t: Tvůj rod zajistím na věky
+
+m: r8 g gB g8 f e_ e e e2 ||
+t: * a tvůj trůn zbuduji na všechna pokolení.“
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B f8 e d_ d d d4 r |
+t: Šťastný je lid, který dovede oslavovat,
+
+m: gB g8 f e4_ e4 r ||
+t: * chodí, Hospodine, v záři tvé tváře.
+
+%% part: verse
+
+m: f'B f8 e d_ d d d4 |
+t: V tvém jménu jásají ustavičně
+
+m: r8 g gB g8 f e_ e e2 ||
+t: * a honosí se tvou spravedlností.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B f8 e d8_ d r4 |
+t: „On mě bude vzývat: Ty jsi můj otec,
+
+m: gB g8 f e4_ e r ||
+t: * můj Bůh a skála mé spásy.
+
+%% part: verse
+
+m: f'B f8 e d8_ d r4 |
+t: Na věky mu zachovám svou milost,
+
+m: r8 g gB g8 f e_ e e e4 r ||
+t: * má smlouva s ním platit nepřestane.“
+
+%% use: responsum
+
