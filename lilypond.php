@@ -8,7 +8,7 @@ if (preg_match('#\.pslm$#', $pslm_f)) {
     // convert .pslm to .ly before running lilypond
     $psalm = file_get_contents($pslm_f);
     $psalm = pslm_parse_psalm($psalm);
-    $lily = pslm_lilypond($psalm, 10, 100);
+    $lily = pslm_lilypond($psalm, 10, false);
 
     $lily_f = preg_replace('#\.pslm$#', '.ly', $pslm_f);
     file_put_contents($lily_f, $lily);
