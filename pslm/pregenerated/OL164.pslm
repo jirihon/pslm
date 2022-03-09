@@ -9,6 +9,8 @@
 
 % Tento žalm má stejné texty veršů jako publikovaný OL53, OL457
 
+m: \key bes \major
+
 %% part: responsum
 
 m: f'8 f f f g a / bes4 bes | c8 c a / g f f2 ||

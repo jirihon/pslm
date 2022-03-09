@@ -10,6 +10,8 @@
 
 % Tento žalm má stejné texty veršů jako publikovaný OL13, OL14
 
+m: \key c \major
+
 %% part: responsum
 
 m: bB ||

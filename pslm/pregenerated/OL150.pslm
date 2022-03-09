@@ -9,9 +9,11 @@
 
 % Tento žalm má stejné texty veršů jako publikovaný OL51
 
+m: \key es \major
+
 %% part: responsum
 
-m: bB ||
+m: es'8 f g g as bes g / f4 f8 f \breathe | f g as as as4 | c8 d b g4 g ||
 t: Ať tě, Bože, velebí národy, ať tě velebí, kdekterý národ!
 
 %% part: verse

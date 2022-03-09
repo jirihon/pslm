@@ -7,6 +7,8 @@
 
 % Tento žalm má stejné texty veršů jako publikovaný OL34
 
+m: \key bes \major
+
 %% part: responsum
 
 m: f'8 g f bes4 bes8 / g a bes / c a f f4. ||

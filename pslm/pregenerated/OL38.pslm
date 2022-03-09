@@ -1,5 +1,6 @@
+%% occasion: 'Narození Páně, za svítání (v noci)'
 %% responsum_reference: ''
-%% verse_reference: ''
+%% verse_reference: 'Ž 97 (96)'
 %% author: olejnik
 %% source: nedelni_zaltar
 %% page: 46
@@ -9,5 +10,45 @@ m: \key c \major
 %% part: responsum
 
 m: bB ||
-t: 
+t: Světlo dnes zazáří nad námi, neboť se nám narodil Pán.
+
+%% part: verse
+
+m: aB |
+t: Hospodin kraluje, ať zajásá země,
+
+m: bB ||
+t: * ať se radují četné ostrovy!
+
+%% use: responsum
+
+%% part: verse
+
+m: aB |
+t: Nebesa hlásají jeho spravedlnost
+
+m: bB ||
+t: * a všechny národy vidí jeho slávu.
+
+%% use: responsum
+
+%% part: verse
+
+m: aB |
+t: Spravedlivému vychází světlo
+
+m: bB ||
+t: * a lidem upřímného srdce radost.
+
+%% use: responsum
+
+%% part: verse
+
+m: aB |
+t: Radujte se, spravedliví, v Hospodinu
+
+m: bB ||
+t: * a oslavujte jeho svaté jméno!
+
+%% use: responsum
 

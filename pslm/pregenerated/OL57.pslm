@@ -9,6 +9,8 @@
 
 % Tento žalm má stejné texty veršů jako publikovaný OL501
 
+m: \key c \major
+
 %% part: responsum
 
 m: g'8 a b c4 c8 | a b c / d b g | g4 r8 ||

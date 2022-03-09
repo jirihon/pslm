@@ -7,9 +7,11 @@
 
 % Tento žalm má stejné texty veršů jako publikovaný OL23
 
+m: \key es \major
+
 %% part: responsum
 
-m: bB ||
+m: bes'8 c bes as g4 f8 es | c c / c d es / f4. f8 | es d4 / g8 g g g4 r ||
 t: Plesejte a jásejte, neboť nad vámi vládne Svatý Izraele.
 
 %% part: verse

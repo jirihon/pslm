@@ -9,6 +9,8 @@
 
 % Tento žalm má stejné texty veršů jako publikovaný OL53
 
+m: \key c \major
+
 %% part: responsum
 
 m: bB ||

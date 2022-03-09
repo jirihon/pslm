@@ -7,9 +7,11 @@
 
 % Tento žalm má stejné texty veršů jako publikovaný OL28
 
+m: \key f \major
+
 %% part: responsum
 
-m: bB ||
+m: r8 a' f a c c c4 | r8 d bes a g4 g ||
 t: Ať vejde Hospodin, on je král slávy!
 
 %% part: verse

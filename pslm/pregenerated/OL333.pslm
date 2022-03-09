@@ -7,6 +7,8 @@
 
 % Tento žalm má stejné texty veršů jako publikovaný OL520
 
+m: \key f \major
+
 %% part: responsum
 
 m: c''8( d) c a | a4 r8 f | bes4 c8 | bes bes a | g( e) c4 r ||

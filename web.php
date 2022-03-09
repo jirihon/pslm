@@ -222,7 +222,7 @@ function pslm_update_pregenerated() {
         $done = implode(', ', $done);
         $pslm_file = dirname(__FILE__).'/pslm/pregenerated/'.$template_id.'.pslm';
         $pslm = file_get_contents($pslm_file);
-        $pslm = preg_replace('#(%% page: [^\n]*).*?%%#s', "\\1\n\n% Tento žalm má stejné texty veršů jako publikovaný $done\n\n%%", $pslm);
+        $pslm = preg_replace('#(%% page: [^\n]*).*?m: #s', "\\1\n\n% Tento žalm má stejné texty veršů jako publikovaný $done\n\nm: ", $pslm);
         file_put_contents($pslm_file, $pslm);
     }
 }

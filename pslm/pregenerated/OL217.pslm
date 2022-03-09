@@ -7,6 +7,8 @@
 
 % Tento žalm má stejné texty veršů jako publikovaný OL88
 
+m: \key c \major
+
 %% part: responsum
 
 m: bB ||
