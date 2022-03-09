@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 283
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: c''8 a d c4 a8 | bes8 c / a g / f c c c4 ||
 t: Blaze každému, kdo se bojí Hospodina.
 
 %% part: verse

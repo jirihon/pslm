@@ -1,87 +1,85 @@
 %% occasion: 'Svaté Rodiny B (pokud se čte čtení z Gn 15,1-6)'
-%% responsum_reference: 'Ž 105 (104),8a'
+%% responsum_reference: 'Ž 105 (104), 7a.8a'
 %% verse_reference: 'Ž 105 (104)'
 %% author: olejnik
 %% source: nedelni_zaltar
-%% page: 52
+%% page: 51
 
-% Tento žalm má stejné texty veršů jako publikovaný OL43
-
-m: \key d \major
+m: \key c \major
 
 %% part: responsum
 
-m: r8 d' e fis g g g fis / fis( e) e4 | r8 e fis g / a4( fis) fis2 ||
-t: Hospodin pamatuje věčně na svoji smlouvu.
+m: g'8 e g a2 d,8 a'4. b2 | c8 c a c / d4 a / b8 b a g4 g2 ||
+t: Hospodin sám je náš Bůh, pamatuje věčně na svoji smlouvu.
 
 %% part: verse
 
-m: aB |
+m: f'B e8 f g_( e) e4 r |
 t: Oslavujte Hospodina, vzývejte jeho jméno,
 
-m: bB ||
+m: d8 a'B b8 a a_( g) g4 r ||
 t: * hlásejte mezi národy jeho díla.
 
 %% part: verse
 
-m: aB |
+m: f'B e8 f g_ e e4 r |
 t: Zpívejte mu, hrejte mu,
 
-m: bB ||
+m: d8 a'B b8 a a_( g) g4 r ||
 t: * vypravujte o všech jeho divech!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: f'B e8 f g_( e) e4 r |
 t: Honoste se jeho svatým jménem,
 
-m: bB ||
+m: d8 a'B b8 a a_ g g g4 r ||
 t: * ze srdce ať se radují, kdo hledají Hospodina!
 
 %% part: verse
 
-m: aB |
+m: f'B e8 f g_( e) e4 r |
 t: Uvažujte o Hospodinu a jeho moci,
 
-m: bB ||
+m: d8 a'B b8 a a_ g g2 ||
 t: * hledejte stále jeho tvář!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: f'B e8 f g_ e e4 r |
 t: Pamatujte na divy, které učinil,
 
-m: bB ||
+m: d8 a'B b8 a a_ g g2 ||
 t: * na jeho zázraky a rozsudky jeho úst,
 
 %% part: verse
 
-m: aB |
+m: f'B e8 f g_ e e e4 r |
 t: potomstvo Abraháma, jeho služebníka,
 
-m: bB ||
+m: d8 a'B b8 a a_ g g4 r ||
 t: * synové Jakuba, jeho vyvoleného!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: f'B e8 f g_( e) e4 r |
 t: Pamatuje věčně na svoji smlouvu,
 
-m: bB ||
+m: d8 a'B b8 a a_ g g g4 r ||
 t: * na slib, který ustanovil pro tisíc pokolení,
 
 %% part: verse
 
-m: aB |
+m: f'B e8 f g_ e e e4 r |
 t: na smlouvu, kterou sjednal s Abrahámem,
 
-m: bB ||
+m: d8 a'B b8 a a_ g g g4 r ||
 t: * na svou přísahu Izákovi.
 
 %% use: responsum

@@ -10,63 +10,63 @@
 
 % Tento žalm má stejné texty veršů jako publikovaný OL41
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: c''8 a d c4 a8 | bes8 c / a g / f c c c4 ||
 t: Blaze každému, kdo se bojí Hospodina.
 
 %% part: verse
 
-m: aB |
+m: d'B e8 f a_ g g g4 |
 t: Blaze každému, kdo se bojí Hospodina,
 
-m: bB ||
+m: r8 g gB f8 g bes_( a) a2 ||
 t: * kdo kráčí po jeho cestách.
 
 %% part: verse
 
-m: aB |
+m: d'B e8 f a_( g) g2 |
 t: Budeš jísti z výtěžku svých rukou,
 
-m: bB ||
+m: gB f8 g bes_( a) a4 r ||
 t: * bude ti blaze a dobře.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: r8 d' dB e8 f a_( g) g4 r |
 t: Tvá manželka bude jako plodná réva
 
-m: bB ||
+m: gB f8 g bes_( a) a4 r ||
 t: * uvnitř tvého domu.
 
 %% part: verse
 
-m: aB |
+m: d'B e8 f a_( g) g4 r |
 t: Tvoji synové jako výhonky oliv
 
-m: bB ||
+m: gB f8 g bes_( a) a4 r ||
 t: * kolem tvého stolu.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: d'B e8 f a_ g g g4 r |
 t: Hle, tak bývá požehnán muž,
 
-m: bB ||
+m: gB f8 g bes_ a a a4 r ||
 t: * který se bojí Hospodina.
 
 %% part: verse
 
-m: aB |
+m: d'B e8 f a_ g g g4 r |
 t: Ať ti Hospodin požehná ze Siónu,
 
-m: bB ||
+m: gB f8 g bes_ a a4 r ||
 t: * abys viděl štěstí Jeruzaléma (+) po všechny dny svého života.
 
 %% use: responsum
