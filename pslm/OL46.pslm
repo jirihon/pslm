@@ -7,63 +7,63 @@
 
 % Tento žalm má stejné texty veršů jako publikovaný OL45
 
-m: \key c \major
+m: \key as \major
 
 %% part: responsum
 
-m: bB ||
+m: bes'8 as4 es8 bes' as4 \breathe as8 | des c bes as / g f / g as | bes4( g) es2 ||
 t: Šťastní jsou, Pane, kdo přebývají ve tvém svatém chrámě.
 
 %% part: verse
 
-m: aB |
+m: es'B f8 g bes_ as as2 |
 t: Jak je milý tvůj příbytek, Hospodine zástupů!
 
-m: bB ||
+m: fB g8 as c_( bes) bes4 ||
 t: * Touží, ba prahne má duše po Hospodinových síních,
 
 %% part: verse
 
-m: aB |
+m: r8 es' esB f8 g bes_( as) as4 r |
 t: mé srdce i mé tělo
 
-m: bB ||
+m: fB g8 as c_( bes) bes4 r ||
 t: * s jásotem tíhnou k živému Bohu.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: es'B f8 g bes_( as) as4 r |
 t: Blaze těm, kdo přebývají ve tvém domě,
 
-m: bB ||
+m: fB g8 as c_( bes) bes4 r ||
 t: * stále tě mohou chválit.
 
 %% part: verse
 
-m: aB |
+m: es'B f8 g bes_( as) as4 r |
 t: Blaze člověku, jenž u tebe nalézá pomoc,
 
-m: bB ||
+m: fB g8 as c_ bes bes bes2 ||
 t: * když se chystá na svatou pouť.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: es'B f8 g bes_ as as4 r |
 t: Hospodine, Bože zástupů, slyš moji modlitbu,
 
-m: bB ||
+m: fB g8 as c_ bes bes2 ||
 t: * popřej sluchu, Bože Jakubův!
 
 %% part: verse
 
-m: aB |
+m: es'B f8 g bes_( as) as4 r |
 t: Štíte náš, Bože, pohleď,
 
-m: bB ||
+m: fB g8 as c_ bes bes4 r ||
 t: * popatř na tvář svého pomazaného!
 
 %% use: responsum
