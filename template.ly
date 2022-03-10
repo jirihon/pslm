@@ -100,7 +100,6 @@ unHideNotes = {
   (interpret-markup layout props
     #{\markup \override #'(offset . 4.3) \underline { #text }#}))
 
-star = \markup { \lower #0.65 \larger "*" }
 responsum = \markup \concat { "R" \hspace #-1.05 \path #0.1 #'((moveto 0 0.07) (lineto 0.9 0.8)) \hspace #0.05 "." }
 
 \layout {

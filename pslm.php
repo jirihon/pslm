@@ -454,7 +454,7 @@ function pslm_process_snippet($music, $text) {
         $text .= sprintf(' \repeat unfold %d { \skip 1 }', $n_syllabels_to_add);
     }
     $music = str_replace('\bar "||"', '\bar "||" \break', $music);
-    $text = str_replace('*', '\set stanza = \star', $text);
+    $text = str_replace('*', '\set stanza = \markup { \lower #0.65 \larger "*" }', $text);
     return [$music, $text];
 }
 
