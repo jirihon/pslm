@@ -1,0 +1,70 @@
+%% occasion: '2. neděle po Narození Páně'
+%% responsum_reference: 'Jan 1,14'
+%% verse_reference: 'Ž 147'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 60
+%% a: "d'B e8 f a_ g g2"
+%% b: "gB a8 bes d_ c c2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: c''8 a c d c bes( a) a4 | r8 f bes bes c bes / a g / f( c) c4 ||
+t: Slovo se stalo tělem a přebývalo mezi námi.
+
+%% part: verse
+
+m: d'B e8 f a_ g g g4 |
+t: Jeruzaléme, oslavuj Hospodina,
+
+m: r8 g gB a8 bes d_ c c4 ||
+t: * chval svého Boha, Sióne,
+
+%% part: verse
+
+m: r8 d' dB e8 f a_( g) g4 r |
+t: že zpevnil závory tvých bran,
+
+m: gB a8 bes d_( c) c4 r ||
+t: * požehnal tvým synům v tobě.
+
+%% use: responsum
+
+%% part: verse
+
+m: d'B e8 f a_( g) g4 |
+t: Zjednal tvému území pokoj
+
+m: r8 g gB a8 bes d_ c c2 ||
+t: * a sytí tě jadrnou pšenicí.
+
+%% part: verse
+
+m: d'B e8 f a_ g g4 r |
+t: Sesílá svůj rozkaz na zemi,
+
+m: gB a8 bes d_( c) c4 r ||
+t: * rychle běží jeho slovo.
+
+%% use: responsum
+
+%% part: verse
+
+m: d'B e8 f a_ g g g4 |
+t: Oznámil své slovo Jakubovi,
+
+m: r8 g gB a8 bes d_ c c c4 ||
+t: * své zákony a přikázání Izraeli.
+
+%% part: verse
+
+m: r8 d' dB e8 f a_ g g4 r |
+t: Tak nejednal se žádným národem:
+
+m: gB a8 bes d_ c c c2 ||
+t: * nesdělil jim svá přikázání.
+
+%% use: responsum
+

@@ -1,14 +1,13 @@
-%% occasion: 'Pátek 8. týdne 1'
-%% occasion: 'Pondělí 21. týdne 1'
-%% occasion: 'Čtvrtek 25. týdne 1'
-%% occasion: 'Úterý 23. týdne 2'
+%% occasion: 'Týden před Zjevením Páně (7. ledna, pokud je slavnost v neděli)'
+%% occasion: 'Týden po Zjevení Páně (12. ledna nebo sobota po Zjevení Páně)'
+%% occasion: 'Pondělí po 6. neděli velikonoční'
 %% responsum_reference: 'Ž 149,4a'
 %% verse_reference: 'Ž 149'
 %% author: olejnik
-%% source: vsedni_zaltar
-%% page: 53
-
-% Tento žalm má stejné texty veršů jako publikovaný OL58
+%% source: nedelni_zaltar
+%% page: 66
+%% a: "b'B cis8 b b_ a a2"
+%% b: "gB a8 g fis_ e e2"
 
 m: \key d \major
 
@@ -19,54 +18,57 @@ t: Hospodin miluje svůj národ.
 
 %% part: verse
 
-m: aB |
+m: b'B cis8 b b_( a) a4 r |
 t: Zpívejte Hospodinu novou píseň,
 
-m: bB ||
+m: gB a8 g fis_( e) e2 ||
 t: * jeho chvála ať zaznívá ve sboru svatých.
 
 %% part: verse
 
-m: aB |
+m: b'B cis8 b b_( a) a4 r |
 t: Ať se raduje Izrael ze svého tvůrce,
 
-m: bB ||
+m: gB a8 g fis_( e) e4 r ||
 t: * synové Siónu ať jásají nad svým králem.
 
-%% use: responsum
+%% part: responsum_short
+
+m: d'8 e fis g g fis e a2 fis4 ||
+t: Hospodin miluje svůj národ.
 
 %% part: verse
 
-m: aB |
+m: r8 b' bB cis8 b b_( a) a4 r |
 t: Ať chválí jeho jméno tancem,
 
-m: bB ||
+m: gB a8 g fis_ e e e4 r ||
 t: * ať mu hrají na buben a na citeru,
 
 %% part: verse
 
-m: aB |
+m: b'B cis8 b b_( a) a4 |
 t: neboť Hospodin miluje svůj národ
 
-m: bB ||
+m: r8 g gB a8 g fis_ e e2 ||
 t: * a pokorné zdobí vítězstvím.
 
-%% use: responsum
+%% use: responsum_short
 
 %% part: verse
 
-m: aB |
+m: r8 b' bB cis8 b b_ a a a4 r |
 t: Ať svatí jásají chvalozpěvem,
 
-m: bB ||
+m: gB a8 g fis_( e) e2 ||
 t: * ať se veselí na svých ložích.
 
 %% part: verse
 
-m: aB |
+m: b'B cis8 b b_( a) a4 |
 t: Boží chválu ať mají v hrdlech.
 
-m: bB ||
+m: r8 g gB a8 g fis_( e) e4 r ||
 t: * Všem jeho svatým bude to ke cti.
 
 %% use: responsum

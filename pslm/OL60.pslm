@@ -1,0 +1,52 @@
+%% occasion: 'Týden po Zjevení Páně (7. ledna nebo pondělí po Zjevení Páně)'
+%% responsum_reference: 'Ž 2,8a'
+%% verse_reference: 'Ž 2'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 68
+%% a: "bes'B a8 g g_ f f2"
+%% b: "fB e8 d d_ c c2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'4. f8 d e f g4 g8 g2 ||
+t: Dám ti v majetek národy.
+
+%% part: verse
+
+m: bes'B a8 g g_ f f f4 r |
+t: Pán mi řekl: „Ty jsi můj syn,
+
+m: fB e8 d d_( c) c4 r ||
+t: * já jsem tě dnes zplodil.
+
+%% part: verse
+
+m: bes'B a8 g g_ f f4 r |
+t: Požádej mě, a dám ti v majetek národy,
+
+m: fB e8 d d_( c) c4 r ||
+t: * do vlastnictví končiny země.“
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 g g_ f f4 r |
+t: Nuže, králové, pochopte!
+
+m: fB e8 d d_( c) c4 r ||
+t: * Dejte si říci, vladaři země!
+
+%% part: verse
+
+m: bes'B a8 g g_ f f f4 |
+t: V bázni se podrobte Hospodinu,
+
+m: r8 f e8 d d_ c c c4 r ||
+t: * s chvě ním ho poslouchejte.
+
+%% use: responsum
+
