@@ -16,7 +16,7 @@ function pslm_preprocessor($psalm) {
             $lyrics = pslm_text_to_lyrics($text);
             $is_last_long = preg_match('# [^ ]*([áéíóúůý]|ou)[^ ]*$#u', $lyrics, $long_m);
 
-            $lyrics = preg_replace('#(^| )(o|u|na|ke|po|od|do|se|za|ze|ve|nad|pod|před|přes) (?!--)#u', ' \2 -- ', $lyrics);
+            $lyrics = preg_replace('#(^| )(o|u|na|ke|po|od|do|se|za|ze|ve|nad|pod|před|přes|při) (?!--)#u', ' \2 -- ', $lyrics);
             $lyrics = preg_replace('#(?<!--) ([^ ]+)$#u', ' -- \1', $lyrics);
             $lyrics = str_replace(' -- ', '--', $lyrics);
 
