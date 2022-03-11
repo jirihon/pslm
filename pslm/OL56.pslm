@@ -1,0 +1,68 @@
+%% occasion: 'Týden před Zjevením Páně (5. ledna)'
+%% occasion: 'Těla a Krve Páně, k adoraci'
+%% responsum_reference: ''
+%% verse_reference: 'Ž 100 (99)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 64
+
+m: \key f \major
+
+%% part: responsum
+
+m: a'8 f f bes a g c4. a4 r8 ||
+t: Pojďte se poklonit Pánu!
+
+%% part: verse
+
+m: g'8 d'B es!8_( bes) bes4 |
+t: Plesejte Hospodinu všechny země,
+
+m: besB c8_ c c4 |
+t: * služte Hospodinu s radostí,
+
+m: aB g8 g e_( d) e e4. ||
+t: * vstupte před něho s jásotem!
+
+%% use: responsum
+
+%% part: verse
+
+m: g'8 d'B es!4_( bes) |
+t: Uznejte, že Hospodin je Bůh:
+
+m: besB c8_ c c c4 |
+t: * on nás učinil, a my mu náležíme,
+
+m: aB g8 g g e_( d) e e4. ||
+t: * jsme jeho lid a stádce na jeho pastvině.
+
+%% use: responsum
+
+%% part: verse
+
+m: g'8 d'B es!8_( bes) bes4 |
+t: Vstupte do jeho bran s díkem,
+
+m: besB c8_ c c c4 |
+t: * do jeho nádvoří s chvalozpěvem,
+
+m: aB g8 g e_( d e) e4. ||
+t: * slavte ho, žehnejte jeho jménu!
+
+%% use: responsum
+
+%% part: verse
+
+m: g'8 d'B es!8_( bes) bes4 |
+t: Neboť Hospodin je dobrý,
+
+m: besB c8_ c4 |
+t: * jeho milosrdenství je věčné,
+
+m: aB g8 g e_( d e) e4. ||
+t: * po všechna pokolení trvá jeho věrnost.
+
+%% use: responsum
+
+
