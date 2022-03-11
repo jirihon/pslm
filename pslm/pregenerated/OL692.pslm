@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 301
 
-m: \key c \major
+m: \key g \major
 
 %% part: responsum
 
-m: bB ||
+m: g'8 a b4 b | c8 d c b a | g e b' a~ a4 ||
 t: Budu kráčet před Hospodinem v zemi živých.
 
 %% part: verse

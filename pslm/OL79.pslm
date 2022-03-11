@@ -1,9 +1,11 @@
-%% occasion: 'Pátek 10. týdne 1'
+%% occasion: '2. neděle postní B'
 %% responsum_reference: 'Ž 116 (114),9'
 %% verse_reference: 'Ž 116 (115)'
 %% author: olejnik
-%% source: vsedni_zaltar
-%% page: 64
+%% source: nedelni_zaltar
+%% page: 87
+%% a: "g'B g8 fis e_ d d2"
+%% b: "eB d8 a b_ fis' fis2"
 
 m: \key g \major
 
@@ -14,55 +16,55 @@ t: Budu kráčet před Hospodinem v zemi živých.
 
 %% part: verse
 
-m: aB |
+m: g'B g8 fis e_( d) d4 |
 t: Měl jsem důvěru, i když jsem si řekl:
 
-m: bB ||
+m: e8( d8) a b_( fis') fis4 r ||
 t: * „Jsem tak sklíčen!“
 
 %% part: verse
 
-m: aB |
-t: Pravil jsem ve svém rozrušení:
-
-m: bB ||
-t: * „Každý člověk klame!“
-
-%% use: responsum
-
-%% part: verse
-
-m: aB |
+m: g'B g8 fis e_( d) d4 |
 t: Drahocenná je v Hospodinových očích
 
-m: bB ||
+m: r8 e8 d8 a b_( fis') fis2 ||
 t: * smrt jeho zbožných.
-
-%% part: verse
-
-m: aB |
-t: Ach, Hospodine, jsem tvůj služebník, + jsem tvůj služebník, syn tvé služebnice,
-
-m: bB ||
-t: * rozvázal jsi moje pouta.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
-t: Přinesu ti oběť díků, Hospodine,
+m: r8 g' gB g8 fis e_ d d d4 r |
+t: Ach, Hospodine, jsem tvůj služebník, + jsem tvůj služebník, syn tvé služebnice,
 
-m: bB ||
-t: * a budu vzývat tvé jméno.
+m: eB d8 a b_( fis') fis4 r ||
+t: * rozvázal jsi moje pouta.
 
 %% part: verse
 
-m: aB |
+m: g'B g8 fis e_ d d d4 |
+t: Přinesu ti oběť díků, Hospodine,
+
+m: r8 e eB d8 a b_( fis') fis4 r ||
+t: * a budu vzývat tvé jméno.
+
+%% use: responsum
+
+%% part: verse
+
+m: g'B g8 fis e_ d d d4 r |
 t: Splním své sliby Hospodinu
 
-m: bB ||
+m: eB d8 a b_( fis') fis4 r ||
 t: * před veškerým jeho lidem
+
+%% part: verse
+
+m: g'B g8 fis e_ d d4 r |
+t: v nádvořích domu Hospodinova,
+
+m: eB d8 a b_( fis') fis4 r ||
+t: * uprostřed tebe, Jeruzaléme!
 
 %% use: responsum
 

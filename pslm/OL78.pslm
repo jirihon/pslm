@@ -1,0 +1,71 @@
+%% occasion: '2. neděle postní A'
+%% occasion: '29. neděle v mezidobí B'
+%% responsum_reference: 'Ž 33 (32),22'
+%% verse_reference: 'Ž 33 (32)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 86
+%% a: "bes'B c8 g bes_ a a2"
+%% b: "d,B e8 f a_ g g2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: c'8 | c d e g f~ f4 a8 g g g a | c c bes a g4. \breathe c8 | d4 c f, a8( g) g4 r ||
+t: Ať spočine na nás, Hospodine, tvé milosrdenství, jak doufáme v tebe.
+
+%% part: verse
+
+m: bes'B c8 g bes_( a) a2 |
+t: Hospodinovo slovo je správné,
+
+m: d,B e8 f a_( g) g4 r ||
+t: * spolehlivé je celé jeho dílo.
+
+%% part: verse
+
+m: bes'B c8 g bes_( a) a4 r |
+t: Miluje spravedlnost a právo,
+
+m: d,B e8 f a_ g g4 r ||
+t: * země je plná Hospodinovy milosti.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 g bes_( a) a2 |
+t: Hospodinovo oko bdí nad těmi, kdo se ho bojí,
+
+m: d,B e8 f a_( g) g4 r ||
+t: * nad těmi, kdo doufají v jeho milost,
+
+%% part: verse
+
+m: bes'B c8 g bes_ a a4 r |
+t: aby jejich duše vyrval ze smrti,
+
+m: d,B e8 f a_ g g4 r ||
+t: * aby jim život zachoval za hladu.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 g bes_ a a a4 r |
+t: Naše duše vyhlíží Hospodina,
+
+m: d,B e8 f a_ g g g4 ||
+t: * on sám je naše pomoc a štít.
+
+%% part: verse
+
+m: r8 bes' besB c8 g bes_ a a2 |
+t: Ať spočine na nás, Hospodine, tvé milosrdenství,
+
+m: d,B e8 f a_( g) g4 r ||
+t: * jak doufáme v tebe.
+
+%% use: responsum
+
