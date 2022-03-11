@@ -14,10 +14,10 @@ t: Bože můj, Bože můj, proč jsi mne opustil?
 
 %% part: verse
 
-m: c'B d8 e g(_ f) f2 |
+m: c'B d8 e g_( f) f2 |
 t: Posmívají se mi všichni, kdo mě vidí,
 
-m: dB e8 f a(_ g) g2 ||
+m: dB e8 f a_( g) g2 ||
 t: * šklebí rty, pokyvují hlavou:
 
 %% part: verse
@@ -35,22 +35,22 @@ t: * ať ho zachrání, má -- li ho rád!“
 m: c'B d8 e g_ f f2 |
 t: Obkličuje mě smečka psů,
 
-m: dB e8 f a(_ g) g2 ||
+m: dB e8 f a_( g) g2 ||
 t: * tlupa zlosynů mě svírá.
 
 %% part: verse
 
-m: c'B d8 e g(_ f) f4 r |
+m: c'B d8 e g_( f) f4 r |
 t: Probodli mi ruce i nohy,
 
-m: dB e8 f a(_ g) g4 r ||
+m: dB e8 f a_( g) g4 r ||
 t: * spočítat mohu všechny své kosti.
 
 %% use: responsum
 
 %% part: verse
 
-m: c'B d8 e g(_ f) f4 |
+m: c'B d8 e g_( f) f4 |
 t: Dělí se o můj oděv,
 
 m: r8 d e f a_ g g4 r ||
@@ -68,10 +68,10 @@ t: * má sílo, pospěš mi na pomoc!
 
 %% part: verse
 
-m: c'B d8 e g(_ f) f4 r |
+m: c'B d8 e g_( f) f4 r |
 t: Budu vyprávět svým bratřím o tvém jménu,
 
-m: dB e8 f a(_ g) g4 r ||
+m: dB e8 f a_( g) g4 r ||
 t: * uprostřed shromáždění budu tě chválit.
 
 %% part: verse

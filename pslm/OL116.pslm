@@ -22,7 +22,7 @@ t: * za všechno, co mi prokázal?
 
 %% part: verse
 
-m: bes'B c8 g bes(_ a) a4 |
+m: bes'B c8 g bes_( a) a4 |
 t: Vezmu kalich spásy
 
 m: r8 d, dB e8 f a_ g g4 r ||
@@ -32,10 +32,10 @@ t: * a budu vzývat jméno Hospodinovo.
 
 %% part: verse
 
-m: bes'B c8 g bes(_ a) a4 |
+m: bes'B c8 g bes_( a) a4 |
 t: Drahocenná je v Hospodinových očích
 
-m: r8 d, e f a(_ g) g2 ||
+m: r8 d, e f a_( g) g2 ||
 t: * smrt jeho zbožných.
 
 %% part: verse
@@ -43,7 +43,7 @@ t: * smrt jeho zbožných.
 m: bes'B c8 g bes_ a a a4 |
 t: Jsem tvůj služebník, syn tvé služebnice,
 
-m: d,B e8 f a(_ g) g4 r ||
+m: d,B e8 f a_( g) g4 r ||
 t: * rozvázal jsi moje pouta.
 
 %% use: responsum
@@ -53,7 +53,7 @@ t: * rozvázal jsi moje pouta.
 m: bes'B c8 g bes_ a a a4 |
 t: Přinesu ti oběť díků, Hospodine,
 
-m: r8 d, dB e8 f a(_ g) g4 r ||
+m: r8 d, dB e8 f a_( g) g4 r ||
 t: * a budu vzývat tvé jméno.
 
 %% part: verse
@@ -61,7 +61,7 @@ t: * a budu vzývat tvé jméno.
 m: bes'B c8 g bes_ a a a4 r |
 t: Splním své sliby Hospodinu 
 
-m: d,B e8 f a(_ g) g4 r ||
+m: d,B e8 f a_( g) g4 r ||
 t: * před veškerým jeho lidem.
 
 %% use: responsum

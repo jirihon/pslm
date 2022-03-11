@@ -14,10 +14,10 @@ t: Toto je den, který připravil Pán, jásejme a radujme se z něho!
 
 %% part: verse
 
-m: e'8 a aB a8 b b(_ fis) fis2 |
+m: e'8 a aB a8 b b_( fis) fis2 |
 t: Oslavujte Hospodina, neboť je dobrý,
 
-m: aB a8 gis fis cis d(_ e) e e4 r ||
+m: aB a8 gis fis cis d_( e) e e4 r ||
 t: * jeho milosrdenství trvá na věky.
 
 %% part: verse
@@ -25,7 +25,7 @@ t: * jeho milosrdenství trvá na věky.
 m: e'8( a) a a b b_ fis fis fis2  |
 t: Nechť řekne dům Izraelův:
 
-m: aB a8 gis fis cis d(_ e) e e4 r ||
+m: aB a8 gis fis cis d_( e) e e4 r ||
 t: * „Jeho milosrdenství trvá na věky.“
 
 %% use: responsum
@@ -35,7 +35,7 @@ t: * „Jeho milosrdenství trvá na věky.“
 m: e'8 a aB a8 b b_ fis fis4 r |
 t: Hospodinova pravice mocně zasáhla,
 
-m: aB a8 gis fis cis d(_ e) e e4 r ||
+m: aB a8 gis fis cis d_( e) e e4 r ||
 t: * Hospodinova pravice mě pozvedla.
 
 %% part: verse
@@ -43,7 +43,7 @@ t: * Hospodinova pravice mě pozvedla.
 m: e'8 a a a b b_ fis fis4 |
 t: Nezemřu, ale budu žít
 
-m: r8 a aB a8 gis fis cis d(_ e) e4 r ||
+m: r8 a aB a8 gis fis cis d_( e) e4 r ||
 t: * a vypravovat o Hospodinových činech.
 
 %% use: responsum
@@ -53,15 +53,15 @@ t: * a vypravovat o Hospodinových činech.
 m: e'8 a aB a8 b b_ fis fis4 r |
 t: Kámen, který stavitelé zavrhli,
 
-m: a8 gis fis cis d(_ e) e e2 ||
+m: a8 gis fis cis d_( e) e e2 ||
 t: * stal se kvádrem nárožním.
 
 %% part: verse
 
-m: e'8 a aB a8 b b(_ fis) fis4 r |
+m: e'8 a aB a8 b b_( fis) fis4 r |
 t: Hospodinovým řízením se tak stalo,
 
-m: aB a8 gis fis cis d(_ e) e2 ||
+m: aB a8 gis fis cis d_( e) e2 ||
 t: * je to podivuhodné v našich očích.
 
 %% use: responsum

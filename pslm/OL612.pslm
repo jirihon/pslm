@@ -14,7 +14,7 @@ t: Hospodin pamatuje věčně na svoji smlouvu.
 
 %% part: verse
 
-m: b'B cis8 b b(_ a) a4 r |
+m: b'B cis8 b b_( a) a4 r |
 t: Oslavím Hospodina celým srdcem
 
 m: gB a8 g fis_ e e2 ||
@@ -22,7 +22,7 @@ t: * ve sboru spravedlivých i ve shromáždění.
 
 %% part: verse
 
-m: b'B cis8 b b(_ a) a4 |
+m: b'B cis8 b b_( a) a4 |
 t: Veliká jsou Hospodinova díla,
 
 m: r8 g gB a8 g fis_ e e2 ||
@@ -32,15 +32,15 @@ t: * ať o nich uvažují všichni, kteří je milují.
 
 %% part: verse
 
-m: b'B cis8 b b(_ a) a2  |
+m: b'B cis8 b b_( a) a2  |
 t: Pokrm dal těm, kdo se ho bojí,
 
-m: gB a8 g fis(_ e) e4 ||
+m: gB a8 g fis_( e) e4 ||
 t: * neustále bude pamatovat na svou smlouvu.
 
 %% part: verse
 
-m: r8 b' bB cis8 b b(_ a) a4 r |
+m: r8 b' bB cis8 b b_( a) a4 r |
 t: Své mocné činy ukázal svému lidu,
 
 m: gB a8 g fis_ e e2 ||
@@ -50,18 +50,18 @@ t: * když jim dal majetek pohanů.
 
 %% part: verse
 
-m: b'B cis8 b b(_ a) a4 r |
+m: b'B cis8 b b_( a) a4 r |
 t: Vykoupení seslal svému lidu,
 
-m: gB a8 g fis(_ e) e4 r ||
+m: gB a8 g fis_( e) e4 r ||
 t: * sjednal na věky svou smlouvu;
 
 %% part: verse
 
-m: b'B cis8 b b(_ a) a4 r |
+m: b'B cis8 b b_( a) a4 r |
 t: svaté a velebné je jeho jméno.
 
-m: gB a8 g fis(_ e) e4 r ||
+m: gB a8 g fis_( e) e4 r ||
 t: * Jeho chvála zůstává navždy.
 
 %% use: responsum

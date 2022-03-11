@@ -16,30 +16,30 @@ t: Vypravujte mezi všemi národy o Hospodinových divech.
 
 %% part: verse
 
-m: c''B b8 c d(_ b) b2 |
+m: c''B b8 c d_( b) b2 |
 t: Zpívejte Hospodinu novou píseň,
 
-m: aB g8 a b(_ g) g2 |
+m: aB g8 a b_( g) g2 |
 t: * zpívejte Hospodinu, všechny země!
 
 m: fisB
 t: * Zpívejte Hospodinu,
 
-m: eB fis8 e e(_ d) d2 ||
+m: eB fis8 e e_( d) d2 ||
 t: velebte jeho jméno!
 
 %% part: verse
 
-m: c''B b8 c d(_ b) b2 |
+m: c''B b8 c d_( b) b2 |
 t: Rozhlašujte den ze dne jeho spásu!
 
-m: aB g8 a b(_ g) g2 |
+m: aB g8 a b_( g) g2 |
 t: * Vypravujte mezi pohany o jeho slávě,
 
 m: fisB
 t: * mezi všemi národy
 
-m: e8 fis8 e e(_ d) d2 ||
+m: e8 fis8 e e_( d) d2 ||
 t: o jeho divech.
 
 %% use: responsum
@@ -55,7 +55,7 @@ t: * vzdejte Hospodinu slávu a moc,
 m: fisB
 t: * vzdejte Hospodinu slávu
 
-m: eB fis8 e e(_ d) d2 ||
+m: eB fis8 e e_( d) d2 ||
 t: hodnou jeho jména.
 
 %% part: verse
@@ -69,7 +69,7 @@ t: * Třeste se před ním, všechny země! + Hlásejte mezi pohany: Hospodin kr
 m: fisB
 t: * národy
 
-m: eB fis8 e e(_ d) d2 ||
+m: eB fis8 e e_( d) d2 ||
 t: řídí podle práva.
 
 %% use: responsum

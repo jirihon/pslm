@@ -17,7 +17,7 @@ t: Vyslyš mě, Hospodine, ve své veliké lásce!
 m: as'B bes8 c c_ bes bes4 r |
 t: Pro tebe, Bože, jsem snášel potupu,
 
-m: fB es8 f as(_ g) g4 ||
+m: fB es8 f as_( g) g4 ||
 t: * pohana pokryla mou tvář.
 
 %% part: verse
@@ -40,10 +40,10 @@ t: * padají na mě urážky těch, kdo tě urážejí.
 
 %% part: verse
 
-m: as'B bes8 c c(_ bes) bes4 r |
+m: as'B bes8 c c_( bes) bes4 r |
 t: Potupa zlomila mé srdce, a proto chřadnu,
 
-m: fB es8 f as(_ g) g4 r ||
+m: fB es8 f as_( g) g4 r ||
 t: * čekal jsem, že někdo bude mít soucit, (+) ale nikdo tu nebyl,
 
 %% part: verse
@@ -59,17 +59,17 @@ t: * ale nikoho jsem nenašel.
 m: as'B bes8 c c_ bes bes bes4 |
 t: Žluč mi dali do pokrmu
 
-m: r8 f fB es8 f as(_ g) g4 r ||
+m: r8 f fB es8 f as_( g) g4 r ||
 t: * a v žízni mě napojili octem.
 
 %% use: responsum
 
 %% part: verse
 
-m: as'B bes8 c c(_ bes) bes4 r |
+m: as'B bes8 c c_( bes) bes4 r |
 t: Písní budu slavit Boží jméno,
 
-m: fB es8 f as(_ g) g4 r ||
+m: fB es8 f as_( g) g4 r ||
 t: * velebit je budu zpěvem chvály.
 
 %% part: verse
@@ -77,7 +77,7 @@ t: * velebit je budu zpěvem chvály.
 m: as'B bes8 c c_ bes bes bes4 r |
 t: Uvědomte si to, ubožáci, a radujte se;
 
-m: fB es8 f as(_ g) g4 r ||
+m: fB es8 f as_( g) g4 r ||
 t: * pookřejte v srdci vy, kdo hledáte Boha!
 
 %% part: verse
@@ -85,7 +85,7 @@ t: * pookřejte v srdci vy, kdo hledáte Boha!
 m: as'B bes8 c c_ bes bes4 r |
 t: Neboť Hospodin slyší chudáky,
 
-m: fB es8 f as(_ g) g4 r ||
+m: fB es8 f as_( g) g4 r ||
 t: * nepohrdá svými vězni.
 
 %% use: responsum

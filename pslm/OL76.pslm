@@ -20,7 +20,7 @@ t: U Hospodina je slitování, hojné u něho je vykoupení.
 m: c'B f8_ e d d4 r |
 t: Z hlubin volám k tobě, Hospodine,
 
-m: dB g8(_ f e) e2 ||
+m: dB g8_( f e) e2 ||
 t: * Pane, vyslyš hlas můj!
 
 %% part: verse
@@ -28,7 +28,7 @@ t: * Pane, vyslyš hlas můj!
 m: c'B f8_ e d d4 |
 t: Tvůj sluch ať je nakloněný
 
-m: r8 d dB g8(_ f e) e4 r ||
+m: r8 d dB g8_( f e) e4 r ||
 t: * k mé snažné prosbě!
 
 %% use: responsum
@@ -38,7 +38,7 @@ t: * k mé snažné prosbě!
 m: c'B f8_ e d d4 r |
 t: Budešli uchovávat v paměti viny, Hospodine,
 
-m: dB g8(_ f) e e2 ||
+m: dB g8_( f) e e2 ||
 t: * Pane, kdo obstojí?
 
 %% part: verse
@@ -46,7 +46,7 @@ t: * Pane, kdo obstojí?
 m: c'B f8_ e d d2 |
 t: Ale u tebe je odpuštění,
 
-m: dB g8(_ f e) e4 r ||
+m: dB g8_( f e) e4 r ||
 t: * abychom ti mohli v úctě sloužit.
 
 %% use: responsum
@@ -56,7 +56,7 @@ t: * abychom ti mohli v úctě sloužit.
 m: c'B f8_ e d d4 r |
 t: Doufám v Hospodina,
 
-m: dB g8(_ f e) e4 ||
+m: dB g8_( f e) e4 ||
 t: * duše má doufá v jeho slovo,
 
 %% part: verse

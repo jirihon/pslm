@@ -18,14 +18,14 @@ t: Hospodin přichází řídit zemi.
 m: f'B e8 f g_ e e4 r |
 t: Hlásejte mezi pohany: Hospodin kraluje.
 
-m: dB c8 d e(_ c) c4 r ||
+m: dB c8 d e_( c) c4 r ||
 t: * Upevnil svět, aby nekolísal: + národy řídí podle práva.
 
 %% use: responsum
 
 %% part: verse
 
-m: f'B e8 f g(_ e) e4 r |
+m: f'B e8 f g_( e) e4 r |
 t: Radujte se, nebesa, zajásej, země,
 
 m: dB c8 d e_ c c c4 r ||
@@ -33,10 +33,10 @@ t: * zahuč, moře a vše, co je naplňuje;
 
 %% part: verse
 
-m: f'B e8 f g(_ e) e4 r |
+m: f'B e8 f g_( e) e4 r |
 t: zaplesej, pole a vše, co je na něm.
 
-m: dB c8 d e(_ c) c4 r ||
+m: dB c8 d e_( c) c4 r ||
 t: * Tehdy se rozveselí všechny lesní stromy.
 
 %% use: responsum
@@ -46,7 +46,7 @@ t: * Tehdy se rozveselí všechny lesní stromy.
 m: f'B e8 f g_ e e4 |
 t: Před Hospodinem, že přichází,
 
-m: r8 d dB c8 d e(_ c) c4 r ||
+m: r8 d dB c8 d e_( c) c4 r ||
 t: * že přichází řídit zemi.
 
 %% part: verse
@@ -54,7 +54,7 @@ t: * že přichází řídit zemi.
 m: f'B e8 f g_ e e e4 r |
 t: Bude řídit svět spravedlivě,
 
-m: dB c8 d e(_ c) c4 r ||
+m: dB c8 d e_( c) c4 r ||
 t: * národy bude spravovat věrně.
 
 %% use: responsum

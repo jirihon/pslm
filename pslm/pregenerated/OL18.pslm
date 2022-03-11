@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 26
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: f'8 a c c c2 / d8 bes a g4 r ||
 t: Veleb, duše má, Hospodina.
 
 %% part: verse

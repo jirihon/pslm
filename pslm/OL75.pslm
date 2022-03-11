@@ -15,10 +15,10 @@ t: Když jsem volal, Hospodine, vyslyšels mě.
 
 %% part: verse
 
-m: c''B bes8 c d(_ bes) bes4 |
+m: c''B bes8 c d_( bes) bes4 |
 t: Chci tě chválit, Hospodine, celým svým srdcem,
 
-m: r8 as asB g8 as bes(_ g) g2 ||
+m: r8 as asB g8 as bes_( g) g2 ||
 t: * žes vyslyšel slova mých úst.
 
 %% part: verse
@@ -26,14 +26,14 @@ t: * žes vyslyšel slova mých úst.
 m: c''B bes8 c d_ bes bes bes4 r |
 t: Budu ti hrát před anděly,
 
-m: asB g8 as bes(_ g) g4 r ||
+m: asB g8 as bes_( g) g4 r ||
 t: * vrhnu se na tvář směrem k tvému svatému chrámu
 
 %% use: responsum
 
 %% part: verse
 
-m: c''B bes8 c d(_ bes) bes4 r |
+m: c''B bes8 c d_( bes) bes4 r |
 t: Slavit budu tvé jméno neboť nade vše jsi pro tvou dobrotu a tvou věrnost,
 
 m: asB g8 as bes_ g g g2 ||
@@ -44,7 +44,7 @@ t: * zvelebil své jméno a své zaslíbení.
 m: c''B bes8 c d_ bes bes bes4 r |
 t: Když jsem volal, vyslyšels mě,
 
-m: asB g8 as bes(_ g) g4 r ||
+m: asB g8 as bes_( g) g4 r ||
 t: * v mé duši jsi rozhojnil sílu.
 
 %% use: responsum
@@ -54,7 +54,7 @@ t: * v mé duši jsi rozhojnil sílu.
 m: c''B bes8 c d_ bes bes4 r |
 t: Zachraňuje mě tvá pravice.
 
-m: asB g8 as bes(_ g) g4 r ||
+m: asB g8 as bes_( g) g4 r ||
 t: * Hospodin pro mě dokončí, co začal.
 
 %% part: verse

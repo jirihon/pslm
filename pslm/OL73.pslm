@@ -17,7 +17,7 @@ t: Pán mě vysvobodil ze všech mých obav.
 m: e'B fis8 g a_ b a a4 r |
 t: Velebte se mnou Hospodina,
 
-m: aB g8 a b(_ c b) b2 ||
+m: aB g8 a b_( c b) b2 ||
 t: * oslavujme spolu jeho jméno!
 
 %% part: verse
@@ -25,7 +25,7 @@ t: * oslavujme spolu jeho jméno!
 m: e'B fis8 g a_ b a a4 r |
 t: Hledal jsem Hospodina a vyslyšel mě,
 
-m: aB g8 a b(_ c b) b4 r ||
+m: aB g8 a b_( c b) b4 r ||
 t: * vysvobodil mě ze všech mých obav.
 
 %% use: responsum
@@ -35,15 +35,15 @@ t: * vysvobodil mě ze všech mých obav.
 m: e'B fis8 g a_ b( a) a4 r |
 t: Pohleďte k němu, ať se rozveselíte,
 
-m: aB g8 a b(_ c b) b4 ||
+m: aB g8 a b_( c b) b4 ||
 t: * vaše tvář se nemusí zardívat hanbou.
 
 %% part: verse
 
-m: r8 e' eB fis8 g a(_ b a) a4 r |
+m: r8 e' eB fis8 g a_( b a) a4 r |
 t: Hle, ubožák zavolal, a Hospodin slyšel,
 
-m: aB g8 a b(_ c b) b4 r ||
+m: aB g8 a b_( c b) b4 r ||
 t: * pomohl mu ve všech jeho strastech.
 
 %% use: responsum
@@ -53,7 +53,7 @@ t: * pomohl mu ve všech jeho strastech.
 m: e'B fis8 g a_ b a a2 |
 t: Hospodinovy oči hledí na spravedlivé,
 
-m: aB g8 a b(_ c) b b4 r ||
+m: aB g8 a b_( c) b b4 r ||
 t: * k jejich volání se kloní jeho sluch.
 
 %% part: verse
@@ -61,22 +61,22 @@ t: * k jejich volání se kloní jeho sluch.
 m: e'B fis8 g a_ b a a4 r |
 t: Hospodinův hněv stíhá ty, kdo páchají zlo,
 
-m: aB g8 a b(_ c b) b4 r ||
+m: aB g8 a b_( c b) b4 r ||
 t: * aby vyhladil ze země vzpomínku na ně.
 
 %% use: responsum
 
 %% part: verse
 
-m: e'B fis8 g a(_ b a) a4 r |
+m: e'B fis8 g a_( b a) a4 r |
 t: Spravedliví volali, a Hospodin slyšel,
 
-m: aB g8 a b(_ c b) b4 r ||
+m: aB g8 a b_( c b) b4 r ||
 t: * vysvobodil je z každé jejich tísně.
 
 %% part: verse
 
-m: e'B fis8 g a(_ b a) a4 r |
+m: e'B fis8 g a_( b a) a4 r |
 t: Blízko je Hospodin těm, kdo mají zkroušené srdce,
 
 m: aB g8 a b_ c b b4 r ||

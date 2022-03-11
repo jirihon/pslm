@@ -22,7 +22,7 @@ t: * vysvoboď mě, jsi spravedlivý!
 
 %% part: verse
 
-m: d'B e8 f a(_ g) g4 r |
+m: d'B e8 f a_( g) g4 r |
 t: Do tvých rukou svěřuji svého ducha,
 
 m: gB a8 bes d_ c c c2 ||
@@ -32,7 +32,7 @@ t: * Hospodine, věrný Bože, ty mě vysvobodíš.
 
 %% part: verse
 
-m: d'B e8 f a(_ g) g2 |
+m: d'B e8 f a_( g) g2 |
 t: Všichni nepřátelé mnou opovrhují, + sousedům jsem pro smích, na postrach svým známým,
 
 m: gB a8 bes d_ c c2 ||
@@ -40,25 +40,25 @@ t: * kdo mě venku zhlédne, prchá přede mnou.
 
 %% part: verse
 
-m: d'B e8 f a(_ g) g4 r |
+m: d'B e8 f a_( g) g4 r |
 t: Vypadl jsem z paměti, jako bych byl mrtev,
 
-m: gB a8 bes d(_ c) c4 r ||
+m: gB a8 bes d_( c) c4 r ||
 t: * podoben jsem rozbitému hrnci.
 
 %% use: responsum
 
 %% part: verse
 
-m: d'B e8 f a(_ g) g2 |
+m: d'B e8 f a_( g) g2 |
 t: Já však, Hospodine, v tebe doufám,
 
-m: gB a8 bes d(_ c) c4 ||
+m: gB a8 bes d_( c) c4 ||
 t: * říkám: Ty jsi můj Bůh!
 
 %% part: verse
 
-m: r8 d' dB e8 f a(_ g) g4 r |
+m: r8 d' dB e8 f a_( g) g4 r |
 t: Můj osud je ve tvé ruce,
 
 m: gB a8 bes d_ c c4 r ||
