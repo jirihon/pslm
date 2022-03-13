@@ -1,0 +1,70 @@
+%% occasion: 'Úterý po 4. neděli postní'
+%% occasion: 'a Posvěcení lateránské baziliky (9. listopadu)'
+%% occasion: 'Výročí posvěcení kostela'
+%% responsum_reference: 'Ž 46 (45),5'
+%% verse_reference: 'Původní verze žalmu z roku 1975.'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 108
+
+m: \key es \major
+
+%% part: responsum
+
+m: g'4 f8 es es es as as as as g f / bes4 g | f8 c' c c bes c d bes g g4 r || ||
+t: Proudy bystřin jsou k radosti Božímu městu, přesvatému stánku Nejvyššího.
+
+%% part: verse
+
+m: as'B g8(_ f) f4 r |
+t: Bůh je naše útočiště a síla,
+
+m: fB bes8(_ g) g4 r ||
+t: * osvědčil se jako nejlepší pomocník v nouzi.
+
+%% part: verse
+
+m: as'B g8(_ f) f4 |
+t: Proto se nebojíme, i kdyby se kácela země,
+
+m: r8 f fB bes8(_ g) g4 r ||
+t: * i kdyby se hory řítily do hlubin moře.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B g8(_ f) f4 r |
+t: Proudy bystřin jsou k radosti Božímu městu,
+
+m: fB bes8_ g g g4 r ||
+t: * přesvatému stánku Nejvyššího,
+
+%% part: verse
+
+m: as'B g8_ f f f4 r |
+t: Bůh je v jeho středu, nepohne se,
+
+m: fB bes8(_ g) g4 r ||
+t: * od časného jitra ho Bůh bude chránit.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B g8_ f f4 |
+t: S námi je Hospodin zástupů,
+
+m: r8 f fB bes8(_ g) g2 ||
+t: * Bůh Jakubův je naší tvrzí.
+
+%% part: verse
+
+m: as'B g8(_ f) f4 r |
+t: Pojďte, pozorujte Boží skutky,
+
+m: fB bes8(_ g) g4 r ||
+t: * které učinil k úžasu země.
+
+%% use: responsum
+
