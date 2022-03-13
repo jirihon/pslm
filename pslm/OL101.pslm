@@ -10,7 +10,7 @@ m: \key f \major
 
 %% part: responsum
 
-m: f'8 f f e d4 g8 g g g4( a) | bes8 bes a g a bes c4 c2 ||
+m: f'8 f f e d4 g8 g g g4( a) | bes8 bes a g / a bes c4 c2 ||
 t: Pamatuj na nás, Hospodine, pro náklonnost k svému lidu.
 
 %% part: verse
@@ -36,7 +36,7 @@ t: * za sochu býka, který požírá trávu.
 m: bes'B a8 g g_ f f4 r |
 t: Zapomněli na Boha, který je zachránil,
 
-m: fB e8 d d(_ c) d4 r ||
+m: fB e8 d d(_ c) c4 r ||
 t: * který v Egyptě vykonal divy,
 
 %% part: verse

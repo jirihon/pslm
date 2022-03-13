@@ -11,7 +11,7 @@ m: \key es \major
 
 %% part: responsum
 
-m: g'4 f8 es es d c d es as as g / f4 f r | f8 f es f g4 as bes8 c bes2 bes4 r ||
+m: g'4 f8 es es d / c d es / as as g / f4 f r | f8 f es f / g4 as / bes8 c bes2 bes4 r ||
 t: Proudy bystřin jsou k radosti Božímu městu, přesvatému stánku Nejvyššího.
 
 %% part: verse

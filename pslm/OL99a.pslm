@@ -1,8 +1,9 @@
 %% occasion: 'Úterý po 4. neděli postní'
-%% occasion: 'a Posvěcení lateránské baziliky (9. listopadu)'
+%% occasion: 'Posvěcení lateránské baziliky (9. listopadu)'
 %% occasion: 'Výročí posvěcení kostela'
 %% responsum_reference: 'Ž 46 (45),5'
-%% verse_reference: 'Původní verze žalmu z roku 1975.'
+%% verse_reference: 'Ž 46 (45)'
+%% comment: 'Původní verze žalmu z roku 1975.'
 %% author: olejnik
 %% source: nedelni_zaltar
 %% page: 108
@@ -11,7 +12,7 @@ m: \key es \major
 
 %% part: responsum
 
-m: g'4 f8 es es es as as as as g f / bes4 g | f8 c' c c bes c d bes g g4 r || ||
+m:  g'4 f8 es es es / as as as / as g f / bes4 g | f8 c' c c / bes c / d bes g g4 r ||
 t: Proudy bystřin jsou k radosti Božímu městu, přesvatému stánku Nejvyššího.
 
 %% part: verse
