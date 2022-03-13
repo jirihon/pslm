@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 71
 
-m: \key c \major
+m: \key bes \major
 
 %% part: responsum
 
-m: bB ||
+m: f'8 bes bes bes / c bes a bes / c bes a g / g f f4 ||
 t: Budou se ti, Hospodine, klanět všechny národy.
 
 %% part: verse
