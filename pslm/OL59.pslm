@@ -1,0 +1,86 @@
+%% occasion: 'Zjevení Páně (6. ledna)'
+%% responsum_reference: 'Srov. Ž 72 (71),11'
+%% verse_reference: 'Ž 72 (71)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 67
+
+m: \key bes \major
+
+%% part: responsum
+
+m: f'8 bes bes bes / c bes a bes / c bes a g / g f f4 ||
+t: Budou se ti, Hospodine, klanět všechny národy.
+
+%% part: verse
+
+m: es'B f8 c es_ d d4 |
+t: Bože, svěř králi svou pravomoc,
+
+m: r8 c g'B a8 g g(_ f) f4||
+t: * svou spravedlnost královskému synu.
+
+%% part: verse
+
+m: / r8 es'8 esB f8 c es_ d d d4 r |
+t: Ať vládne tvému lidu spravedlivě,
+
+m: c8 g' a g g_ f f2 ||
+t: * nestranně tvým ubohým.
+
+%% use: responsum
+
+%% part: verse
+
+m: es'B f8 c es_ d d4 r |
+t: V jeho dnech rozkvete spravedlnost a hojnost pokoje,
+
+m: c8 g'B a8 g g(_ f) f4 r ||
+t: * dokud nezanikne luna.
+
+%% part: verse
+
+m: es'B f8 c es(_ d) d4 r |
+t: Bude vládnout od moře k moři,
+
+m: c8 g'B a8 g g(_ f) f4 r ||
+t: * od Řeky až do končin země.
+
+%% use: responsum
+
+%% part: verse
+
+m: es'B f8 c es(_ d) d4 r |
+t: Králové Taršíše a ostrovů přinesou dary,
+
+m: c8 g'B a8 g g(_ f) f4 r ||
+t: * králové Arábie a Sáby zaplatí daně.
+
+%% part: verse
+
+m: es'B f8 c es(_ d) d4 r |
+t: Všichni králové se mu budou klanět,
+
+m: c8 g'B a8 g g(_ f) f4 r ||
+t: * všechny národy mu budou sloužit.
+
+%% use: responsum
+
+%% part: verse
+
+m: r8 es' esB f8 c es_ d d4 r |
+t: On vysvobodí chudáka, který se dovolává pomoci,
+
+m: c8 g'B a8 g g_ f f f2 ||
+t: * ubožáka, jehož se nikdo neujímá.
+
+%% part: verse
+
+m: es'B f8 c es(_ d) d2 |
+t: Smiluje se nad nuzným a chudým,
+
+m: c8 g'B a8 g g(_ f) f4 r ||
+t: * zachrání ubožákům život.
+
+%% use: responsum
+

@@ -1,0 +1,70 @@
+%% occasion: 'Týden po Zjevení Páně (8. ledna nebo úterý po Zjevení Páně)'
+%% responsum_reference: 'Srov. Ž 72 (71),11'
+%% verse_reference: 'Ž 72 (71)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 69
+%% a: "es'B f8 c es_ d d4"
+%% b: "r8 c g'B a8 g g(_ f) f4"
+
+m: \key bes \major
+
+%% part: responsum
+
+m: f'8 bes bes bes / c bes a bes / c bes a g / g f f4 ||
+t: Budou se ti, Hospodine, klanět všechny národy.
+
+%% part: verse
+
+m: es'B f8 c es_ d d4 |
+t: Bože, svěř králi svou pravomoc,
+
+m: r8 c g'B a8 g g(_( f) f4) ||
+t: * svou spravedlnost královskému synu.
+
+%% part: verse
+
+m: r8 es'8 esB f8 c es_ d d d4 r |
+t: Ať vládne tvému lidu spravedlivě,
+
+m: c8 g' a g g_ f f2 ||
+t: * nestranně tvým ubohým.
+
+%% use: responsum
+
+%% part: verse
+
+m: es'B f8 c es_( d) d4 |
+t: Hory přinesou lidu pokoj
+
+m: r8 g a g g_ f f f4 r ||
+t: * pahorky spravedlnost.
+
+%% part: verse
+
+m: es'B f8 c es_( d) d4 |
+t: Zjedná právo ubohým z lidu,
+
+m: r8 g a g g_ f f2 ||
+t: *  pomůže chudákům.
+
+%% use: responsum
+
+%% part: verse
+
+m: es'B f8 c es_ d d4 r |
+t: V jeho dnech rozkvete spravedlnost a hojnost pokoje,
+
+m: c8 g'B a8 g g(_ f) f4 r ||
+t: * dokud nezanikne luna.
+
+%% part: verse
+
+m: es'B f8 c es_( d) d4 r |
+t: Bude vládnout od moře k moři,
+
+m: c8 g'B a8 g g(_ f) f4 r ||
+t: * od Řeky až do končin země.
+
+%% use: responsum
+
