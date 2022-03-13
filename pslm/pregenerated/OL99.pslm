@@ -7,11 +7,13 @@
 %% source: nedelni_zaltar
 %% page: 107
 
-m: \key c \major
+% Tento žalm má stejné texty veršů jako publikovaný OL99a
+
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: g'4 f8 es es es / as as as / as g f / bes4 g | f8 c' c c / bes c / d bes g g4 r ||
 t: Proudy bystřin jsou k radosti Božímu městu, přesvatému stánku Nejvyššího.
 
 %% part: verse

@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 292
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: es'4 d8 c f f f4 | r8 f es d / g g g2 ||
 t: Blízký je Hospodin všem, kdo ho vzývají.
 
 %% part: verse

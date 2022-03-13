@@ -31,6 +31,18 @@
         psalms: [OL16]
     - month: 3
       days:
+      - day: 28
+        name: Čtvrtek po 4. neděli postní
+        psalms: [OL101]
+      - day: 28
+        name: Středa po 4. neděli postní
+        psalms: [OL100]
+      - day: 28
+        name: Úterý po 4. neděli postní
+        psalms: [OL99, OL99a]
+      - day: 28
+        name: Pondělí po 4. neděli postní
+        psalms: [OL26]
       - day: 27
         name: 4. neděle postní C
         psalms: [OL98]

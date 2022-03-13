@@ -70,17 +70,16 @@ function pslm_render_listing() {
     global $PSLM_SOURCES, $PSLM_PSALMS;
     $html = '';
 
+
     foreach ($PSLM_SOURCES as $source) {
-        if (!isset($source['range'])) {
+        if (!isset($source['ids'])) {
             continue;
         }
         $html .= sprintf('<p>%s</p>', $source['reference']);
         $item_html = [];
         $done = [];
 
-        for ($i = $source['range'][0]; $i <= $source['range'][1]; ++$i) {
-            $id = sprintf('%s%s', $source['prefix'], $i);
-
+        foreach ($source['ids'] as $id) {
             if (file_exists(sprintf('%s/pslm/%s.pslm', dirname(__FILE__), $id))) {
                 $done[] = $id;
                 if (!isset($PSLM_PSALMS[$id])) {
@@ -93,7 +92,7 @@ function pslm_render_listing() {
                 );
             }
         }
-        $total = $source['range'][1] - $source['range'][0] + 1;
+        $total = count($source['ids']);
         $done = count($done);
         $html .= sprintf('<p style="margin-left: 1em">Přepsáno %d z %d žalmů (%s %%).</p>', $done, $total, round($done/$total * 100));
         $html .= sprintf('<ul>%s</ul>', implode('', $item_html));
