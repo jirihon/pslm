@@ -1,0 +1,109 @@
+%% occasion: '4. neděle postní A'
+%% occasion: 'Pondělí po 5. neděli postní'
+%% occasion: '4. neděle velikonoční A'
+%% occasion: 'Nejsvětějšího Srdce Ježíšova C'
+%% occasion: '16. neděle v mezidobí B'
+%% occasion: 'Ježíše Krista Krále A'
+%% occasion: 'Stolce sv. apoštola Petra (22. února)'
+%% occasion: 'O duchovních pastýřích'
+%% occasion: 'O svatých (v době velikonoční)'
+%% ocassion: 'Při křtu / Při biřmování'
+%% ocassion: 'Při svěcení jáhnů (v době velikonoční)'
+%% ocassion: 'Za zemřelé / Při pohřbu'
+%% responsum_reference: 'Ž 23 (22),1'
+%% verse_reference: 'Ž 23 (22)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 104
+%% a: "c''B bes8 c d_ bes bes2"
+%% b: "asB bes8 as g_ f f2"
+
+% Tento žalm má stejné texty veršů jako publikovaný OL8
+
+m: \key es \major
+
+%% part: responsum
+
+m: es'8 f g g g( f) / g as bes bes bes2 ||
+t: Pán je můj pastýř, nic mi neschází.
+
+%% part: verse
+
+m: c''B bes8 c d_ bes bes bes2 |
+t: Hospodin je můj pastýř, nic nepostrádám,
+
+m: asB bes8 as g_ f f2 ||
+t: * dává mi prodlévat na svěžích pastvinách,
+
+%% part: verse
+
+m: c''B bes8 c d_ bes bes bes2 |
+t: vodí mě k vodám, kde si mohu odpočinout.
+
+m: asB bes8 as g_( f) f4 r ||
+t: * Občerstvuje mou duši.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B bes8 c d_( bes) bes4 |
+t: Vede mě po správných cestách
+
+m: r8 as bes8 as g_( f) f4 ||
+t: * pro svoje jméno.
+
+%% part: verse
+
+m: r8 c'' cB bes8 c d_( bes) bes4 r |
+t: I kdybych šel temnotou rokle,
+
+m: asB bes8 as g_( f) f2 ||
+t: * nezaleknu se zla, vždyť ty jsi se mnou.
+
+%% part: verse
+
+m: c''4 bes8 c d_( bes) bes4 |
+t: Tvůj kyj a tvá hůl,
+
+m: r8 as bes8 as g_ f f4 r ||
+t: * ty jsou má útěcha.
+
+%% use: responsum
+
+%% part: verse
+
+m: r8 c'' bes8 c d_ bes bes2 |
+t: Prostíráš pro mě stůl
+
+m: asB bes8 as g_ f f4 r ||
+t: * před zraky mých nepřátel,
+
+%% part: verse
+
+m: c''B bes8 c d_ bes bes4 |
+t: hlavu mi mažeš olejem,
+
+m: r8 as bes8 as g_ f f2 ||
+t: * má číše přetéká.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B bes8 c d_ bes bes bes2 |
+t: Štěstí a přízeň mě provázejí
+
+m: asB bes8 as g_ f f4 r ||
+t: * po všechny dny mého života,
+
+%% part: verse
+
+m: c''B bes8 c d_( bes) bes4 r |
+t: přebývat smím v Hospodinově domě
+
+m: asB bes8 as g_( f) f4 r ||
+t: * na dlouhé, předlouhé časy.
+
+%% use: responsum
+
