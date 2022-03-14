@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 85
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: f'8 f f e d g g g4. \breathe / a8 bes a g / a c c c2 ||
 t: Ze srdce ať se radují, kdo hledají Hospodina.
 
 %% part: verse

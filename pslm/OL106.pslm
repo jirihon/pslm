@@ -1,0 +1,94 @@
+%% occasion: 'Úterý po 5. neděli postní'
+%% responsum_reference: 'Ž 102 (101),2'
+%% verse_reference: 'Ž 102 (101)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 115
+%% a: "a'B g8 a b_ g g2"
+%% b: "fB e8 f g_ e e2"
+
+m: \key c \major
+
+%% part: responsum
+
+m: e'8 e d c d4 e f8 d d4 / r8 e f f4 f8 / e4 d / e g / a8 a a2 ||
+t: Hospodine, slyš mou modlitbu a volání mé ať k tobě pronikne!
+
+%% part: verse
+
+m: a'B g8 a b_ g g4 |
+t: Hospodine, slyš mou modlitbu
+
+m: r8 f fB e8 f g_ e e4 r ||
+t: * a volání mé ať k tobě pronikne!
+
+%% part: verse
+
+m: a'B g8 a b_ g g2 |
+t: Neskrývej svou tvář přede mnou
+
+m: fB e8 f g_( e) e4 r ||
+t: * v den, kdy je mi úzko.
+
+%% part: verse
+
+m: a'B g8 a b_( g) g4 |
+t: Nakloň ke mně svůj sluch:
+
+m: r8 f fB e8 f g_( e) e4 r ||
+t: * když volám, rychle mě vyslyš!
+
+%% use: responsum
+
+%% part: verse
+
+m: a'B g8 a b_ g g g4 |
+t: Pohané budou ctít tvé jméno, Hospodine,
+
+m: r8 f fB e8 f g_( e) e4 ||
+t: * a všichni králové země tvou slávu,
+
+%% part: verse
+
+m: r8 a' aB g8 a b_( g) g2 |
+t: až Hospodin znovu zbuduje Sión,
+
+m: fB e8 f g_( e) e4 r ||
+t: * až se objeví ve své slávě.
+
+%% part: verse
+
+m: a'B g8 a b_ g g g4 |
+t: Skloní se k modlitbě opuštěných
+
+m: r8 f fB e8 f g_( e) e2 ||
+t: * a nepohrdne jejich prosbou.
+
+%% use: responsum
+
+%% part: verse
+
+m: a'B g8 a b_ g g g2 |
+t: Kéž je to zapsáno pro příští pokolení,
+
+m: fB e8 f g_ e e e4 r ||
+t: * aby budoucí národ chválil Hospodina.
+
+%% part: verse
+
+m: a'B g8 a b_ g g4 r |
+t: Neboť Hospodin shlédl ze své vznešené svatyně,
+
+m: fB e8 f g_( e) e4 r ||
+t: * popatřil z nebe na zem,
+
+%% part: verse
+
+m: a'B g8 a b_ g g2 |
+t: aby slyšel nářek zajatců,
+
+m: fB e8 f g_( e) e4 r ||
+t: * aby vysvobodil odsouzené k smrti.
+
+%% use: responsum
+

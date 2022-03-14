@@ -1,12 +1,12 @@
-%% occasion: 'Na začátku občanského roku (31. prosince, večer)'
-%% occasion: 'Nejsvětějšího Jména Ježíš (3. ledna)'
-%% occasion: 'Nejsvětější Trojice C'
+%% occasion: 'Čtvrtek v oktávu velikonočním'
 %% occasion: 'Při křtu dospělých'
 %% responsum_reference: 'Ž 8,2ab'
 %% verse_reference: 'Ž 8'
 %% author: olejnik
 %% source: nedelni_zaltar
-%% page: 58
+%% page: 137
+%% a: "bes'B c8 g bes_ a a2"
+%% b: "d,B e8 f a_ g g2"
 
 m: \key f \major
 
@@ -17,54 +17,46 @@ t: Hospodine, Pane náš, jak podivuhodné je tvé jméno po celé zemi!
 
 %% part: verse
 
-m: aB |
-t: Když se zahledím na tvá nebesa, dílo tvých prstů,
+m: bes'B c8 g bes_( a) a2 |
+t: Hospodine, náš Pane, + co je člověk, že na něho myslíš,
 
-m: bB ||
-t: * na měsíc, na hvězdy, které jsi stvořil:
-
-%% part: verse
-
-m: aB |
-t: Co je člověk, že na něho myslíš,
-
-m: bB ||
+m: d,B e8 f a_( g) g2 ||
 t: * co je smrtelník, že se o něho staráš?
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 g bes_ a a2 |
 t: Učinils ho jen o málo menším, než jsou andělé,
 
-m: bB ||
+m: d,B e8 f a_( g) g2 ||
 t: * ověnčils ho ctí a slávou,
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 g bes_( a) a2 |
 t: dals mu vládnout nad dílem svých rukou,
 
-m: bB ||
+m: d,B e8 f a_( g) g4 r ||
 t: * položils mu k nohám všechno:
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 g bes_ a a4 r |
 t: Ovce i veškerý dobytek,
 
-m: bB ||
+m: d,B e8 f a_ g g4 r ||
 t: * k tomu i polní zvířata,
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 g bes_( a) a4 r |
 t: ptáky na nebi a ryby v moři,
 
-m: bB ||
+m: d,B e8 f a_( g) g2 ||
 t: * vše, co se hemží na stezkách moří.
 
 %% use: responsum

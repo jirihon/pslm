@@ -1,79 +1,80 @@
-%% occasion: '13. neděle v mezidobí C'
-%% responsum_reference: 'Ž 16 (15),5a'
+%% occasion: 'Pondělí v oktávu velikonočním'
+%% occasion: 'Čtvrtek po 7. neděli velikonoční'
+%% responsum_reference: 'Ž 16 (15),1'
 %% verse_reference: 'Ž 16 (15)'
 %% author: olejnik
 %% source: nedelni_zaltar
-%% page: 220
+%% page: 134
+%% a: "d'B e8 f a_ g g2"
+%% b: "gB a8 bes d_ c c2"
 
-% Tento žalm má stejné texty veršů jako publikovaný OL125
-
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
-t: Ty jsi, Hospodine, mým dědičným podílem.
+m: c''8 d c bes a4 \breathe / bes8 c bes / a g / f c c2 ||
+t: Ochraň mě, Bože, neboť se k tobě utíkám.
 
 %% part: verse
 
-m: aB |
+m: d'B e8 f a_ g g2 |
 t: Ochraň mě, Bože, neboť se k tobě utíkám.
 
-m: bB ||
+m: gB a8 bes d_( c) c2 ||
 t: * Pravím Hospodinu: „Ty jsi můj Pán.“
 
 %% part: verse
 
-m: aB |
+m: d'B e8 f a_( g) g2 |
 t: Ty jsi, Hospodine, mým dědičným podílem i mou číší,
 
-m: bB ||
+m: gB a8 bes d_( c) c4 r ||
 t: * ty mně zachováváš můj úděl.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: d'B e8 f a_( g) g4 r |
 t: Velebím Hospodina, že mi byl rádcem,
 
-m: bB ||
+m: gB a8 bes d_( c) c4 r ||
 t: * k tomu mě i za noci vybízí mé nitro.
 
 %% part: verse
 
-m: aB |
+m: d'B e8 f a_ g g g4 r |
 t: Hospodina mám neustále na zřeteli,
 
-m: bB ||
+m: gB a8 bes d_ c c c4 r ||
 t: * nezakolísám, když je mi po pravici.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: d'B e8 f a_( g) g2 |
 t: Proto se raduje mé srdce, má duše plesá,
 
-m: bB ||
+m: gB a8 bes d_ c c2 ||
 t: * i mé tělo bydlí v bezpečí,
 
 %% part: verse
 
-m: aB |
+m: d'B e8 f a_ g g2 |
 t: neboť nezanecháš mou duši v podsvětí,
 
-m: bB ||
+m: gB a8 bes d_ c c c2 ||
 t: * nedopustíš, aby tvůj svatý spatřil porušení.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: d'B e8 f a_ g g4 r |
 t: Ukážeš mi cestu k životu,
 
-m: bB ||
+m: gB a8 bes d_ c c4 r ||
 t: * u tebe je hojná radost, + po tvé pravici je věčná slast.
 
 %% use: responsum

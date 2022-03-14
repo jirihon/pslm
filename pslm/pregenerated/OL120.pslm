@@ -6,11 +6,11 @@
 %% source: nedelni_zaltar
 %% page: 129
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: c''8 d c bes a4 \breathe / bes8 c bes / a g / f c c2 ||
 t: Ochraň mě, Bože, neboť se k tobě utíkám.
 
 %% part: verse

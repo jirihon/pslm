@@ -1,71 +1,69 @@
-%% occasion: 'Sobota 25. týdne 1'
-%% occasion: 'Pátek 16. týdne 2'
-%% occasion: 'Středa 18. týdne 2'
-%% responsum_reference: 'Jer 31,10d Ho-spo-din bu - de nad ná - mi bdít, ja - ko pa-stýř nad svým stá - dem. stá - dem.'
+%% occasion: 'Sobota po 5. neděli postní'
+%% responsum_reference: 'Jer 31,10d'
 %% verse_reference: 'Jer 31'
 %% author: olejnik
-%% source: vsedni_zaltar
-%% page: 145
-
-% Tento žalm má stejné texty veršů jako publikovaný OL110
+%% source: nedelni_zaltar
+%% page: 119
+%% a: "bes'B bes8_ a a2"
+%% b: "gB g8_ f f2"
 
 m: \key f \major
 
 %% part: responsum
 
 m: f'8 f f e d g g g g2 | c,8 g' g g / f e a4 a2 ||
-t: 1. 3. 4.
+t: Hospodin bude nad námi bdít, jako pastýř nad svým stádem.
 
 %% part: verse
 
-m: aB |
+m: bes'B bes8_( a) a4 r |
 t: Slyšte, pohané, Hospodinovo slovo,
 
-m: bB ||
+m: gB g8_( f) f4 r ||
 t: * zvěstujte ho na ostrovech v dáli!
 
 %% part: verse
 
-m: aB |
+m: bes'B bes8_ a a4 r |
 t: Řekněte: Shromáždí Izraele ten, kdo ho rozptýlil,
 
-m: bB ||
+m: gB g8_( f) f4 r ||
 t: * bude nad ním bdít jako pastýř nad svým stádem.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: bes'B bes8_ a a4 |
 t: Vykoupí Hospodin Jakuba
 
-m: bB ||
+m: r8 g gB g8_ f f f4 r ||
 t: * a vysvobodí ho z ruky mocnějšího.
 
 %% part: verse
 
-m: aB |
+m: bes'B bes8_ a a4 r |
 t: Přijdou a budou jásat na hoře Siónu,
 
-m: bB ||
+m: gB g8_ f f f2 ||
 t: * těšit se budou z Hospodinových dobrodiní.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: bes'B bes8_( a) a4 r |
 t: Tehdy se rozveselí v tanci panna,
 
-m: bB ||
+m: gB g8_( f) f4 r ||
 t: * zaradují se jinoši a starci.
 
 %% part: verse
 
-m: aB |
+m: bes'B bes8_( a) a4 r |
 t: Proměním jejich nářek v jásot,
 
-m: bB ||
+m: gB g8_( f) f4 r ||
 t: * útěchu a radost jim vleji po jejich smutku.
 
 %% use: responsum

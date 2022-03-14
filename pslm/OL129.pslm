@@ -1,0 +1,94 @@
+%% occasion: 'Pátek v oktávu velikonočním'
+%% responsum_reference: 'Ž 118 (117),22'
+%% verse_reference: 'Ž 118 (117)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 138
+%% a: "c'B f8_ e d d2"
+%% b: "dB g8_ f e e2"
+
+m: \key c \major
+
+%% part: responsum
+
+m: c''4 c b8 c d c b a / a g g4 r | a8 a / f4. e8 d g g2 ||
+t: Kámen, který stavitelé zavrhli, stal se kvádrem nárožním.
+
+%% part: verse
+
+m: c'B f8_( e d) d2 |
+t: Oslavujte Hospodina, neboť je dobrý,
+
+m: dB g8_( f) e e4 r ||
+t: * jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: c'B f8_ e d d2 |
+t: Nechť řekne dům Izraelův:
+
+m: dB g8_( f) e e4 r ||
+t: * „Jeho milosrdenství trvá na věky.“
+
+%% part: verse
+
+m: c'B f8_ e d d4 r |
+t: Nechť řeknou ti, kdo se bojí Hospodina:
+
+m: dB g8_( f) e e4 r ||
+t: * „Jeho milosrdenství trvá na věky.“
+
+%% use: responsum
+
+%% part: verse
+
+m: c'B f8_( e) d d4 r |
+t: Kámen, který stavitelé zavrhli,
+
+m: dB g8_( f) e e2 ||
+t: * stal se kvádrem nárožním.
+
+%% part: verse
+
+m: c'B f8_( e d) d4 r |
+t: Hospodinovým řízením se tak stalo,
+
+m: dB g8_( f e) e2 ||
+t: * je to podivuhodné v našich očích.
+
+%% part: verse
+
+m: c'B f8_( e) d d4 r |
+t: Toto je den, který učinil Hospodin,
+
+m: dB g8_( f e) e4 r ||
+t: * jásejme a radujme se z něho!
+
+%% use: responsum
+
+%% part: verse
+
+m: c'B f8_( e d) d4 r |
+t: Hospodine, dej spásu,
+
+m: dB g8_( f e) e4 r ||
+t: * Hospodine, popřej zdaru!
+
+%% part: verse
+
+m: c'B f8_ e( d) d2 |
+t: Požehnaný, kdo přichází
+
+m: dB g8_( f e) e4 r ||
+t: * v Hospodinově jménu.
+
+%% part: verse
+
+m: c'B f8_( e d) d4 r |
+t: Žehnáme vám z Hospodinova domu.
+
+m: dB g8_( f e) e4 r ||
+t: * Bůh je Hospodin a dopřál nám světlo.
+
+%% use: responsum
+
