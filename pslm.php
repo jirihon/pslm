@@ -164,18 +164,15 @@ function pslm_text_implode($texts) {
 
 
 function pslm_midi($psalm) {
-    $music = $psalm['music'];
-
-    // generate midi only for responsum and the first verse
-    $keys = array_keys($music);
-    $verse_key = count($keys) - 1;
-    for ($i = 0; $i < count($keys); ++$i) {
-        if ($keys[$i] === 'verse_1') {
-            $verse_key = $i;
-            break;
-        }
+    if (isset($psalm['opts']['midi'])) {
+        $parts = $psalm['opts']['midi'];
+    } else {
+        $parts = ['responsum', 'verse_1'];
     }
-    $music = array_slice($music, 0, $verse_key + 1);
+    $music = [];
+    foreach ($parts as $part) {
+        $music[$part] = $psalm['music'][$part];
+    }
     $music = pslm_music_implode($music);
 
     // fold breves back into single half note
