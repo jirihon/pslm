@@ -1,0 +1,70 @@
+%% occasion: 'Pátek po 4. neděli velikonoční'
+%% responsum_reference: 'Ž 2,7'
+%% verse_reference: 'Ž 2'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 161
+%% a: "as'B bes8 c c_ bes bes2"
+%% b: "fB es8 f as_ g g2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: es'4 d8 c f2 | bes,4( f') / g8( f) es f g g~ g4 ||
+t: Ty jsi můj syn, já dnes jsem tě zplodil.
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 r |
+t: Já jsem ustanovil svého krále
+
+m: fB es8 f as_( g) g4 r ||
+t: * na Siónu, na své svaté hoře!
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes2 |
+t: Vyhlásím Hospodinovo rozhodnutí,
+
+m: fB es8 f as_( g) g4 r ||
+t: * Pán mi řekl: „Ty jsi můj syn, + já jsem tě dnes zplodil.“
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes4 r |
+t: „Požádej mě, a dám ti v majetek národy,
+
+m: fB es8 f as_( g) g4 r ||
+t: * do vlastnictví končiny země.
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 r |
+t: Můžeš je roztlouci železným prutem,
+
+m: fB es8 f as_( g) g2 ||
+t: * jako hliněnou nádobu je můžeš rozbít.“
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes4 r |
+t: Nuže, králové, pochopte!
+
+m: fB es8 f as_( g) g4 r ||
+t: * Dejte si říci, vladaři země!
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes4 |
+t: V bázni se podrobte Hospodinu,
+
+m: r8 f8 es8 f as_ g g g4 r ||
+t: * s chvěním ho poslouchejte!
+
+%% use: responsum
+

@@ -1,0 +1,70 @@
+%% occasion: 'Pondělí po 5. neděli velikonoční'
+%% responsum_reference: 'Ž 115 (113),1'
+%% verse_reference: 'Ž 115 (113)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 164
+%% a: "bes'B a8 bes c_ a f f2"
+%% b: "dB e8 f a_ f g g2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 e d g2 a8 g g g4 \breathe | g8 a bes bes a4 g / a8 bes c4 c2 ||
+t: Nikoliv nám, Hospodine, ale svému jménu zjednej slávu.
+
+%% part: verse
+
+m: bes'B a8 bes c_ a f f2 |
+t: Nikoli nám, Hospodine, nikoli nám,
+
+m: dB e8 f a_( f g) g4 ||
+t: * ale svému jménu zjednej slávu + pro své milosrdenství, pro svou věrnost!
+
+%% part: verse
+
+m: r8 bes'8 besB a8 bes c_( a f) f4 r |
+t: Proč mají pohané říkat:
+
+m: dB e8 f a_( f) g g2 ||
+t: * „Kdepak je ten jejich Bůh?“
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'4 a8 bes c_ a f f2 |
+t: Bůh náš je na nebesích,
+
+m: dB e8 f a_( f) g g4 r ||
+t: * všechno, co chtěl učinil.
+
+%% part: verse
+
+m: bes'B a8 bes c_( a f) f4 r |
+t: Jejich modly jsou stříbro a zlato,
+
+m: dB e8 f a_( f g) g2 ||
+t: * dílo lidských rukou.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_ a f f4 r |
+t: Požehnáni jste od Hospodina,
+
+m: dB e8 f a_( f g) g4 r ||
+t: * který učinil nebe i zemi.
+
+%% part: verse
+
+m: bes'B a8 bes c_ a f f4 r |
+t: Nebesa jsou nebem pro Hospodina,
+
+m: dB e8 f a_( f g) g4 r ||
+t: * avšak zemi dal lidským dětem.
+
+%% use: responsum
+

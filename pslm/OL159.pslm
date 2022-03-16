@@ -1,0 +1,60 @@
+%% occasion: 'Pátek po 5. neděli velikonoční'
+%% responsum_reference: 'Ž 57 (56),10a'
+%% verse_reference: 'Ž 57 (56)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 168
+%% a: "f'B e8 f g_ e e2"
+%% b: "d8 a'B b8 a a_ g g2"
+
+m: \key c \major
+
+%% part: responsum
+
+m: g'8 e g a4. g8 a b / c2 b8 a a( g) g2 ||
+t: Budu tě chválit mezi národy, Pane!
+
+%% part: verse
+
+m: f'B e8 f g_( e) e4 r |
+t: Plné důvěry je mé srdce, Bože, (+) plné důvěry je mé srdce;
+
+m: d8 a'8 b8 a a_( g) g4 r ||
+t: * budu hrát a zpívat.
+
+%% part: verse
+
+m: f'B e8 f g_( e) e4 r |
+t: Probuď se, má duše, (+) probuď se, citero a harfo,
+
+m: d8( a') b8 a a_ g g4 r ||
+t: * chci vzbudit jitřenku.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B e8 f g_( e) e4 r |
+t: Budu tě chválit mezi národy, Pane,
+
+m: d8 a'B b8 a a_ g g4 r ||
+t: * budu tě oslavovat mezi pohany,
+
+%% part: verse
+
+m: f'B e8 f g_( e) e4 r |
+t: protože tvá milost je veliká až k nebi,
+
+m: d8 a'8 b8 a a_ g g4 r ||
+t: * tvá věrnost až do oblak.
+
+%% part: verse
+
+m: f'B e8 f g_( e) e4 r |
+t: Ukaž se ve své vznešenosti na nebesích, Bože,
+
+m: d8 a'B b8 a a_( g) g4 r ||
+t: * nad celou zemí nechť je tvá sláva!
+
+%% use: responsum
+
