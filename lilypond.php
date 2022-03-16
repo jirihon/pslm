@@ -29,9 +29,10 @@ function pslm_preprocessor($psalm) {
             $lyrics_tokens = pslm_parse_lyrics($lyrics);
 
             $lyrics = preg_replace('#"([^" ]*) ([^" ]*)"#u', '$1$2', $lyrics);
-            $lyrics = preg_replace('#(^| )(o|u|na|ke|po|od|do|za|ze|ve|nad|pod|před|přes|při) (?!--)#ui', ' $2 -- ', $lyrics);
+            $lyrics = preg_replace('#(^| )(o|u|na|ke|po|od|do|za|ze|ve|nad|pod|před|přes|při) (?!--)#ui', '$1$2 -- ', $lyrics);
             $lyrics = preg_replace('#(?<!--) ([^ ]+)$#u', ' -- $1', $lyrics);
             $lyrics = str_replace(' -- ', '--', $lyrics);
+            $lyrics = trim($lyrics);
 
             $words = preg_split('#\s+#u', $lyrics);
             $last_word_i = count($words) - 1;
