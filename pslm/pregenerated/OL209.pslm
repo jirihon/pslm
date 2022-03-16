@@ -14,7 +14,7 @@ m: \key c \major
 
 %% part: responsum
 
-m: bB ||
+m: e'4 c f8 f e d g e4 \breathe e8 | f f f a b c c c2 ||
 t: (v době velikonoční)
 
 %% part: verse

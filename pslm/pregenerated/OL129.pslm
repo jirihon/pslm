@@ -9,7 +9,7 @@ m: \key c \major
 
 %% part: responsum
 
-m: bB ||
+m: c''4 c b8 c d c b a / a g g4 r | a8 a / f4. e8 d g g2 ||
 t: Kámen, který stavitelé zavrhli, stal se kvádrem nárožním.
 
 %% part: verse

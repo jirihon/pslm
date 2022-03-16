@@ -1,87 +1,71 @@
-%% occasion: '6. neděle velikonoční A'
-%% occasion: '14. neděle v mezidobí C'
+%% occasion: 'Středa po 3. neděli velikonoční'
 %% responsum_reference: 'Ž 66 (65),1'
 %% verse_reference: 'Ž 66 (65)'
 %% author: olejnik
 %% source: nedelni_zaltar
-%% page: 171
+%% page: 152
+%% comment: "Na stejnou melodii odpovědi se může zpívat text Aleluja, aleluja."
+%% a: "as'B c8 c bes_ bes bes2"
+%% b: "fB as8 as g_ g g2"
 
 m: \key es \major
 
 %% part: responsum
 
 m: g'4 g8 as bes g c bes as( g) f4 r ||
-t: Jásejte Bohu, všechny země! (nebo:) Aleluja, aleluja.
+t: Jásejte Bohu, všechny země!
 
 %% part: verse
 
-m: aB |
+m: as'B c8 c bes8_ bes r4 |
 t: Jásejte Bohu, všechny země,
 
-m: bB ||
+m: fB as8 as g4_ g r ||
 t: * opěvujte slávu jeho jména,
 
 %% part: verse
 
-m: aB |
+m: as'B c8 c c c bes4_ bes r |
 t: vzdejte mu velkolepou chválu!
 
-m: bB ||
+m: fB as8 as g4_ g r ||
 t: * Řekněte Bohu: „Jak úžasná jsou tvá díla!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: as'B c8 c bes4_ bes4 |
 t: Ať se ti koří celá země, ať ti zpívá,
 
-m: bB ||
+m: r8 f8 fB as8 as g4_ g r ||
 t: * nechť opěvuje tvé jméno.“
 
 %% part: verse
 
-m: aB |
+m: as'B c8 c bes8_ bes r4 |
 t: Pojďte a pozorujte Boží skutky:
 
-m: bB ||
+m: fB as8 as g8_ g r4 ||
 t: * podivuhodně jednal s lidmi!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: as'B c8 c c bes2_ |
 t: Moře proměnil v souš;
 
-m: bB ||
+m: fB as8 as g8_ g r4 ||
 t: * suchou nohou přešli řeku,
 
 %% part: verse
 
-m: aB |
+m: as'B c8 c c bes8_ bes r4 |
 t: proto se radujme v Bohu!
 
-m: bB ||
+m: fB as8 as g_ g g4 r ||
 t: * Vládne svou mocí na věky.
-
-%% use: responsum
-
-%% part: verse
-
-m: aB |
-t: Pojďte, slyšte, všichni bohabojní,
-
-m: bB ||
-t: * chci vyprávět, co prokázal Bůh mé duši.
-
-%% part: verse
-
-m: aB |
-t: Bůh buď veleben, že neodmítl mou prsbu,
-
-m: bB ||
-t: * že mi neodňal svou lsku.
 
 %% use: responsum
 

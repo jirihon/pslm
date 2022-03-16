@@ -1,12 +1,12 @@
-%% occasion: 'Pondělí 7. týdne 1'
-%% occasion: 'Sobota 14. týdne 2'
+%% occasion: 'Úterý po 2. neděli velikonoční'
+%% occasion: 'Ježíše Krista Krále B'
 %% responsum_reference: 'Ž 93 (92),1a'
 %% verse_reference: 'Ž 93 (92)'
 %% author: olejnik
-%% source: vsedni_zaltar
-%% page: 44
-
-% Tento žalm má stejné texty veršů jako publikovaný OL135
+%% source: nedelni_zaltar
+%% page: 144
+%% a: "es'B f8 c es_ d d2"
+%% b: "c8 g'B a8 g g_ f f2"
 
 m: \key bes \major
 
@@ -17,30 +17,33 @@ t: Hospodin kraluje, oděl se velebností.
 
 %% part: verse
 
-m: aB |
+m: es'B f8 c es_ d d d2 |
 t: Hospodin kraluje, oděl se velebností,
 
-m: bB ||
+m: c8 g'B a8 g g_( f) f2 ||
 t: * oděl se Hospodin, opásal se mocí.
 
-%% use: responsum
+%% part: responsum_short
+
+m: f'8 d f g g g | g a bes / c a f f4 ||
+t: Hospodin kraluje, oděl se velebností.
 
 %% part: verse
 
-m: aB |
+m: r8 es'8 esB f8 c es_ d d2 |
 t: Dal světu základ, že nezakolísá.
 
-m: bB ||
+m: c8 g'B a8 g g_ f f f4 r ||
 t: * Pevný je trůn tvůj od pradávna, jsi od věčnosti.
 
-%% use: responsum
+%% use: responsum_short
 
 %% part: verse
 
-m: aB |
+m: r8 es'8 esB f8 c es_ d d d2 |
 t: Tvé výroky jsou nejvýš spolehlivé,
 
-m: bB ||
+m: c8 g'B a8 g g_( f) f4 r ||
 t: * tvému domu přísluší svatost, Hospodine, na věčné časy.
 
 %% use: responsum

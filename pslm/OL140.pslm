@@ -1,9 +1,11 @@
-%% occasion: 'Úterý 10. týdne 2'
+%% occasion: '3. neděle velikonoční B'
 %% responsum_reference: 'Ž 4,7b'
 %% verse_reference: 'Ž 4'
 %% author: olejnik
-%% source: vsedni_zaltar
-%% page: 231
+%% source: nedelni_zaltar
+%% page: 149
+%% a: "es'B d8 es f_ f f2"
+%% b: "cB bes8 c d_ d d2"
 
 m: \key bes \major
 
@@ -14,63 +16,49 @@ t: Hospodine, ukaž nám svou jasnou tvář!
 
 %% part: verse
 
-m: aB |
+m: es'B d8 es f4_ f4 r |
 t: Bože, zastánce mého práva,
 
-m: bB ||
+m: cB bes8 c d_ d4. r4 ||
 t: * vyslechni mě, když volám,
 
 %% part: verse
 
-m: aB |
+m: es'B d8 es f_ f f f4 r |
 t: tys mě v soužení vysvobodil,
 
-m: bB ||
-t: * smiluj se nade mnou a slyš mou prsbu!
-
-%% part: verse
-
-m: aB |
-t: Lidé, jak dlouho chcete mít nechápavé srdce?
-
-m: bB ||
-t: * Proč lpíte na tom, co je marné, (+) a proč se sháníte po lži?
+m: cB bes8 c d_ d r4 ||
+t: * smiluj se nade mnou a slyš mou prosbu!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: es'B d8 es f_ f f4 r |
 t: Pamatujte: Hospodin vyznamenává svého svatého;
 
-m: bB ||
+m: cB bes8 c d_ d d2 ||
 t: * Hospodin vyslyší, když k němu zavolám.
-
-%% part: verse
-
-m: aB |
-t: Třeste se a nehřešte,
-
-m: bB ||
-t: * na svých ložích uvažujte ve svém srdci a buďte klidn.í!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: es'B d8 es f_ f r4 |
 t: Mnoho lidí říká: „Kdo nám ukáže dobro?“
 
-m: bB ||
+m: cB bes8 c d_ d d2 ||
 t: * Hospodine, ukaž nám svou jasnou tvář!
+
+%% use: responsum
 
 %% part: verse
 
-m: aB |
-t: Do mého srdce jsi vložil větší radost,
+m: es'B d8 es f_ f r4 |
+t: Usínám klidně, sotva si lehnu,
 
-m: bB ||
-t: * než bývá z nadbytku obilí a vinného moštu.
+m: cB bes8 c d_ d d2 ||
+t: * vždyť ty sám, Hospodine, dáváš mi přebývat v bezpečí!
 
 %% use: responsum
 

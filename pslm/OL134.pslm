@@ -1,0 +1,94 @@
+%% occasion: 'Pondělí po 2. neděli velikonoční'
+%% responsum_reference: 'Ž 2,12c'
+%% verse_reference: 'Ž 2'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 143
+%% a: "as'B bes8 c c_ bes bes2"
+%% b: "fB es8 f as_ g g2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: g'8 f es4 \breathe d8 es / f f / g as / bes g g g2 ||
+t: Blaze všem, kdo se uchylují k Hospodinu.
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 |
+t: Proč se pohané bouří,
+
+m: r8 f8 fB es8 f as_( g) g4 r ||
+t: * proč národy strojí marné plány?
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes4 |
+t: Pozdvihují se pozemští králové
+
+m: r8 f8 fB es8 f as_ g g4 r ||
+t: * a vladaři se spolu umlouvají + proti Hospodinu a jeho Pomazanému.
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes4 |
+t: „Rozlámejme jejich okovy
+
+m: r8 f8 fB es8 f as_( g) g4 r ||
+t: * a odhoďme jejich pouta!“
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 |
+t: Směje se ten, který na nebesích trůní,
+
+m: r8 f8 es8 f as_( g) g4 r ||
+t: * jsou Pánu k smíchu.
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes2 |
+t: Potom k nim rozhorlen mluví,
+
+m: fB es8 f as_( g) g4 r ||
+t: * děsí je svým hněvem.
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 r |
+t: „Já jsem přece ustanovil svého krále
+
+m: fB es8 f as_( g) g4 r ||
+t: * na Siónu, na své svaté hoře!“
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes2 |
+t: Vyhlásím Hospodinovo rozhodnutí,
+
+m: fB es8 f as_( g) g4 r ||
+t: * Pán mi řekl: „Ty jsi můj syn, + já jsem tě dnes zplodil.
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes4 r |
+t: Požádej mě, a dám ti v majetek národy,
+
+m: fB es8 f as_( g) g4 r ||
+t: * do vlastnictví končiny země.
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 r |
+t: Můžeš je roztlouci železným prutem,
+
+m: fB es8 f as_( g) g2 ||
+t: * jako hliněnou nádobu je můžeš rozbít.“
+
+%% use: responsum
+

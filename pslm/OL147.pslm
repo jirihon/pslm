@@ -1,0 +1,94 @@
+%% occasion: '4. neděle velikonoční B'
+%% responsum_reference: 'Ž 118 (117),22'
+%% verse_reference: 'Ž 118 (117)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 156
+%% a: "c'B f8_ e d d2"
+%% b: "dB g8_ f e e2"
+
+m: \key c \major
+
+%% part: responsum
+
+m: c''4 c b8 c d c b a / a g g4 r | a8 a / f4. e8 d g g2 ||
+t: Kámen, který stavitelé zavrhli, stal se kvádrem nárožním.
+
+%% part: verse
+
+m: c'B f8_( e d) d2 |
+t: Oslavujte Hospodina, neboť je dobrý,
+
+m: dB g8_( f) e e4 r ||
+t: * jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: c'B f8_ e d d4 |
+t: Lépe je utíkat se k Hospodinu,
+
+m: r8 d8 dB g8_( f) e e4 r ||
+t: * než důvěřovat v člověka.
+
+%% part: verse
+
+m: c'B f8_ e d d4 |
+t: Lépe je utíkat se k Hospodinu,
+
+m: r8 d8 dB g8_( f e) e2 ||
+t: * než důvěřovat v mocné.
+
+%% use: responsum
+
+%% part: verse
+
+m: c'B f8_( e) d d4 r |
+t: Děkuji ti, žes mě vyslyšel
+
+m: dB g8_( f e) e2 ||
+t: * a stal se mou spásou.
+
+%% part: verse
+
+m: c'B f8_( e) d d4 r |
+t: Kámen, který stavitelé zavrhli,
+
+m: dB g8_( f) e e2 ||
+t: * stal se kvádrem nárožním.
+
+%% part: verse
+
+m: c'B f8_( e d) d4 r |
+t: Hospodinovým řízením se tak stalo,
+
+m: dB g8_( f e) e2 ||
+t: * je to podivuhodné v našich očích.
+
+%% use: responsum
+
+%% part: verse
+
+m: c'B f8_( e d) d4 r |
+t: Požehnaný, kdo přichází v Hospodinově jménu.
+
+m: dB g8_( f e) e4 r ||
+t: * Žehnáme vám z Hospodinova domu.
+
+%% part: verse
+
+m: c'B f8_ e d d4 r |
+t: Ty jsi můj Bůh, děkuji ti;
+
+m: dB g8_( f e) e4 r ||
+t: * budu tě slavit, můj Bože!
+
+%% part: verse
+
+m: c'B f8_( e d) d2 |
+t: Oslavujte Hospodina, neboť je dobrý,
+
+m: dB g8_( f) e e4 r ||
+t: * jeho milosrdenství trvá na věky.
+
+%% use: responsum
+

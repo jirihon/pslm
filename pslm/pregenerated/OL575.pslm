@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 184
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: es'8 f es f g4 es8 es / f g / as4 f / g8 f g c bes bes bes4 ||
 t: Vezmu kalich spásy a budu vzývat jméno Hospodinovo.
 
 %% part: verse

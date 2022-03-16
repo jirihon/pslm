@@ -1,0 +1,70 @@
+%% occasion: 'Pondělí po 3. neděli velikonoční'
+%% responsum_reference: 'Ž 119 (118),1'
+%% verse_reference: 'Ž 119 (118)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 150
+%% a: "as'B bes8 c c_ bes bes2"
+%% b: "fB es8 f as_ g g2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: bes'8 c bes as g4 f8 es / c4 d8 es / f es f g f4 r ||
+t: Blaze těm, kdo kráčejí v zákoně Hospodinově.
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes4 |
+t: I když se knížata ve schůzce proti mně umlouvají;
+
+m: r8 f8 fB es8 f as_ g g4 r ||
+t: * tvůj služebník rozjímá o tvých předpisech.
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes4 |
+t: Vždyť tvá přikázání jsou mým potěšením,
+
+m: r8 f8 fB es8 f as_( g) g4 r ||
+t: * tvé příkazy jsou mými rádci.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes4 r |
+t: Vyjevil jsem své osudy, a vyslyšels mě,
+
+m: fB es8 f as_ g g2 ||
+t: * nauč mě svým příkazům!
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes4 |
+t: Pouč mě o smyslu svých nařízení
+
+m: r8 f8 fB es8 f as_( g) g4 r ||
+t: * a budu rozjímat o tvých divech.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes4 r |
+t: Odvrať mě od cesty lži,
+
+m: fB es8 f as_( g) g4 r ||
+t: * uštědři mi svůj zákon!
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 r |
+t: Vyvolil jsem si cestu pravdy,
+
+m: fB es8 f as_ g g g2 ||
+t: * dal jsem přednost tvým rozhodnutím.
+
+%% use: responsum
+

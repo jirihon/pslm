@@ -4,56 +4,59 @@
 %% author: olejnik
 %% source: nedelni_zaltar
 %% page: 153
+%% comment: "Na stejnou melodii odpovědi se může zpívat text Aleluja, aleluja."
+%% a: "as'B c8 c bes_ bes bes2"
+%% b: "fB as8 as g_ g g2"
 
 m: \key es \major
 
 %% part: responsum
 
 m: g'4 g8 as bes g c bes as( g) f4 r ||
-t: Jásejte Bohu, všechny země! (nebo:) Aleluja, aleluja.
+t: Jásejte Bohu, všechny země!
 
 %% part: verse
 
-m: aB |
+m: as'B c8 c bes8_ bes r4 |
 t: Velebte, národy, našeho Boha
 
-m: bB ||
+m: r8 f8 fB as8 as g4_ g r ||
 t: * a rozhlašujte jeho chválu!
 
 %% part: verse
 
-m: aB |
+m: as'B c8 c bes8_ bes r4 |
 t: On dal život naší duši,
 
-m: bB ||
+m: fB as8 as g8_ g r4 ||
 t: * nedopustil, aby klopýtaly naše nohy.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: as'B c8 c bes_ bes bes bes4 |
 t: Pojďte, slyšte, všichni bohabojní,
 
-m: bB ||
+m: r8 f8 fB as8 as g8_ g r4 ||
 t: * chci vyprávět, co prokázal Bůh mé duši.
 
 %% part: verse
 
-m: aB |
+m: as'B c8 c bes8_ bes r4 |
 t: Svými ústy jsem k němu volal,
 
-m: bB ||
+m: fB as8 as g_ g g4 r ||
 t: * velebil jsem ho svým jazykem.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
-t: Bůh buď veleben, že neodmítl mou prsbu,
+m: as'B c8 c c c c bes8_ bes r4 |
+t: Bůh buď veleben, že neodmítl mou prosbu,
 
-m: bB ||
+m: fB as8 as as as g4_ g r ||
 t: * že mi neodňal svou lásku.
 
 %% use: responsum

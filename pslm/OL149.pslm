@@ -1,9 +1,11 @@
-%% occasion: 'Panny Marie, Matky Církve'
+%% occasion: 'Úterý po 4. neděli velikonoční'
 %% responsum_reference: 'Ž 117 (116),1a'
 %% verse_reference: 'Ž 87 (86)'
 %% author: olejnik
 %% source: nedelni_zaltar
-%% page: 191
+%% page: 158
+%% a: "c''B b8 a a_ g g2"
+%% b: "aB g8 f e_ d d2"
 
 m: \key c \major
 
@@ -14,46 +16,54 @@ t: Chvalte Hospodina, všechny národy!
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_( g) g2 |
 t: Hospodin miluje, co založil na svatých horách,
 
-m: bB ||
+m: aB g8 f e_( d) d4 r ||
 t: * miluje brány Siónu nad všechna Jakubova sídla.
+
+%% part: verse
+
+m: c''B b8 a a_ g g g4 |
+t: Slavné věci se o tobě vypravují,
+
+m: r8 a( g8) f e_( d) d2 ||
+t: * město Boží!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
-t: Slavné věci se o tobě vypravují,
+m: c''B b8 a a_ g g4 r |
+t: Připočtu Rahab i Bábel mezi své ctitele,
 
-m: bB ||
-t: * město Boží!
+m: aB g8 f e_ d d d4 r ||
+t: * ba i Filištínsko, Tyrus s Etiopií; + i ti se tam narodili. 
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_ g g4 |
 t: O Siónu se řekne: (+) „Jeden jako druhý se v něm narodil,
 
-m: bB ||
+m: r8 a8 aB g8 f e_( d) d4 r ||
 t: * sám Svrchovaný mu dal pevný základ.“
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_ g g2 |
 t: Hospodin zapíše do knihy národů:
 
-m: bB ||
+m: aB g8 f e_ d d d4 ||
 t: * „Tito se tam narodili.“
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_( g) g4 r |
 t: Při tanci budou zpívat:
 
-m: bB ||
+m: aB g8 f e_( d) d4 r ||
 t: * „Všechna zřídla mé spásy jsou v tobě.“
 
 %% use: responsum

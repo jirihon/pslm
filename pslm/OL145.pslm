@@ -1,0 +1,41 @@
+%% occasion: 'Pátek po 3. neděli velikonoční'
+%% occasion: '9. a 21. neděle v mezidobí C'
+%% occasion: 'Obrácení sv. Pavla (25. ledna)'
+%% occasion: 'Sv. Tomáše (3. července)'
+%% occasion: 'Sv. Cyrila a Metoděje (5. července)'
+%% occasion: 'O duchovních pastýřích (i v době velikonoční)'
+%% occasion: 'Při biřmování (v době velikonoční)'
+%% occasion: 'Při svěcení jáhnů (v době velikonoční)'
+%% responsum_reference: 'Mk 16,15'
+%% verse_reference: 'Ž 117 (116)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 154
+%% a: "d''B d8_ b g g2"
+%% b: "aB a8_ f e d2"
+
+m: \key c \major
+
+%% part: responsum
+
+m: e'4 c f8 f e d g e4 \breathe e8 | f f f a b c c c2 ||
+t: Jděte do celého světa a hlásejte evangelium.
+
+%% part: verse
+
+m: d''B d8_( b g) g2 |
+t: Chvalte Hospodina, všichni lidé,
+
+m: aB a8_( f) e d4 r ||
+t: * oslavujte ho, všechny národy.
+
+%% use: responsum
+
+%% part: verse
+
+m: d''B d8_( b) g g4 |
+t: Neboť mocně vládne nad námi jeho milosrdenství
+
+m: r8 a8 aB a8_( f) e d4 r ||
+t: * a Hospodinova věrnost trvá na věky.
+
