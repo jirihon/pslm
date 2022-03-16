@@ -367,23 +367,6 @@ function pslm_parse_psalm($psalm) {
 
 
 function pslm_process_snippet($music, $text) {
-    // replace shortcuts
-    $shortcuts = [
-        '#(?<=\s|^)\|\|(?=\s|$)#' => '\bar "||"',
-        '#(?<=\s|^)\|(?=\s|$)#' => '\bar "|"',
-        '#(?<=\s|^)/(?=\s|$)#' => '\bar ""',
-        '#B#' => '\breve',
-        //'#\(#' => '[(',
-        //'#\)#' => ')]',
-        //'#_#' => '\verseAccent',
-    ];
-    $music = preg_replace(array_keys($shortcuts), array_values($shortcuts), $music);
-
-    preg_match_all('#\\\\breve#', $music, $m);
-    if (count($m[0]) > 1) {
-        echo "ERROR: More than one breve in a piece of music.\n";
-        return [];
-    }
     $music_tokens = pslm_parse_music($music);
     $note_syllables = pslm_note_syllables($music_tokens);
     $n_note_syllables = count($note_syllables);
@@ -474,7 +457,7 @@ function pslm_text_to_lyrics($text) {
             $search[$i] = '#'.$search[$i].'#ui'; // case-insensitive
         }
         $replace = str_replace('-', ' -- ', $hyph);
-        $search[] = '#([aáeéěiíoóuúůyý])(([bdďcčfghjklmnňpqrřsštťvwxzž]|ch|chr|[hst]l|br|př|zř|jm|st|sv)[aáeéěiíoóuúůyý])#ui'; // general pattern for two vowels separated by a consonant or consonant group
+        $search[] = '#([aáeéěiíoóuúůyý])(([bdďcčfghjklmnňpqrřsštťvwxzž]|ch|chr|[hmst]l|br|př|zř|jm|[sš]t|sv)[aáeéěiíoóuúůyý])#ui'; // general pattern for two vowels separated by a consonant or consonant group
         $replace[] = '\1 -- \2';
         $PSLM_HYPH_EXCEPTIONS = [$search, $replace];
     }
@@ -571,6 +554,23 @@ function pslm_contains_note($music) {
 }
 
 function pslm_parse_music($music) {
+    // replace shortcuts
+    $shortcuts = [
+        '#(?<=\s|^)\|\|(?=\s|$)#' => '\bar "||"',
+        '#(?<=\s|^)\|(?=\s|$)#' => '\bar "|"',
+        '#(?<=\s|^)/(?=\s|$)#' => '\bar ""',
+        '#B#' => '\breve',
+        //'#\(#' => '[(',
+        //'#\)#' => ')]',
+        //'#_#' => '\verseAccent',
+    ];
+    $music = preg_replace(array_keys($shortcuts), array_values($shortcuts), $music);
+
+    preg_match_all('#\\\\breve#', $music, $m);
+    if (count($m[0]) > 1) {
+        echo "ERROR: More than one breve in a piece of music.\n";
+        return [];
+    }
     $music = trim($music);
     $events = preg_split('#\s+#', $music);
     $tokens = [];

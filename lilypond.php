@@ -2,6 +2,18 @@
 <?php
 require_once dirname(__FILE__).'/pslm.php';
 
+function pslm_is_long_syllable($syl) {
+    return preg_match('#([áéíóúůý]|ou)#u', $syl);
+}
+
+function pslm_get_note($music) {
+    if (preg_match('#^[abcdefgis]+#', $music, $m)) {
+        return $m[0];
+    } else {
+        return false;
+    }
+}
+
 function pslm_preprocessor($psalm) {
     preg_match_all('#^%%\s*([a-z]):\s*"([^\n"]*)"\s*$#um', $psalm, $var_matches, PREG_SET_ORDER);
     
@@ -14,10 +26,11 @@ function pslm_preprocessor($psalm) {
             list($snippet, $bar, $text) = $snippet_match;
 
             $lyrics = pslm_text_to_lyrics($text);
-            $is_last_long = preg_match('# [^ ]*([áéíóúůý]|ou)[^ ]*$#u', $lyrics, $long_m);
+            $lyrics_tokens = pslm_parse_lyrics($lyrics);
 
-            $lyrics = preg_replace('#(^| )(o|u|na|ke|po|od|do|se|za|ze|ve|nad|pod|před|přes|při) (?!--)#u', ' \2 -- ', $lyrics);
-            $lyrics = preg_replace('#(?<!--) ([^ ]+)$#u', ' -- \1', $lyrics);
+            $lyrics = preg_replace('#"([^" ]*) ([^" ]*)"#u', '$1$2', $lyrics);
+            $lyrics = preg_replace('#(^| )(o|u|na|ke|po|od|do|za|ze|ve|nad|pod|před|přes|při) (?!--)#u', ' $2 -- ', $lyrics);
+            $lyrics = preg_replace('#(?<!--) ([^ ]+)$#u', ' -- $1', $lyrics);
             $lyrics = str_replace(' -- ', '--', $lyrics);
 
             $words = preg_split('#\s+#u', $lyrics);
@@ -41,7 +54,13 @@ function pslm_preprocessor($psalm) {
             }
             if ($syllable_counts[$last_word_i] < $notes_after_accent) {
                 $slur_len = $notes_after_accent - $syllable_counts[$last_word_i];
+                $note = pslm_get_note($notes[$accent_note_i]);
+                $same_notes = true;
+
                 for ($i = 0; $i <= $slur_len; ++$i) {
+                    if ($note != pslm_get_note($notes[$accent_note_i + $i])) {
+                        $same_notes = false;
+                    }
                     if ($i == 0) {
                         $notes[$accent_note_i + $i] .= '(';
                     }
@@ -49,17 +68,66 @@ function pslm_preprocessor($psalm) {
                         $notes[$accent_note_i + $i] .= ')';
                     }
                 }
+                
+                if ($same_notes && $last_note_i - $accent_note_i == 2 && $syllable_counts[$last_word_i] == 2) {
+                    $syl = preg_split('#--#u', $words[$last_word_i]);
+                    $long_first = pslm_is_long_syllable($syl[0]);
+                    $long_second = pslm_is_long_syllable($syl[1]);
+
+                    if (!$long_first && !$long_second) {
+                        $notes[$accent_note_i] = preg_replace('#8?(_?)\($#', '8$1', $notes[$accent_note_i]);
+                        $notes[$accent_note_i+1] = preg_replace('#8?\)$#', '', $notes[$accent_note_i+1]);
+                        $notes[$last_note_i] = 'r4';
+                    } elseif ($long_first && !$long_second) {
+                        $notes[$accent_note_i] = preg_replace('#8?(_?)\($#', '4$1', $notes[$accent_note_i]);
+                        $notes[$accent_note_i+1] = preg_replace('#8?\)$#', '', $notes[$accent_note_i+1]);
+                        $notes[$last_note_i] = 'r';
+                    } elseif (!$long_first && $long_second) {
+                        $notes[$accent_note_i] = preg_replace('#8?(_?)\($#', '8$1', $notes[$accent_note_i]);
+                        $notes[$accent_note_i+1] = preg_replace('#8?\)$#', '4.', $notes[$accent_note_i+1]);
+                        $notes[$last_note_i] = 'r4';
+                    } else {
+                        $notes[$accent_note_i] = preg_replace('#8?(_?)\($#', '4$1', $notes[$accent_note_i]);
+                        unset($notes[$accent_note_i+1]);
+                    }
+                }
             } elseif ($syllable_counts[$last_word_i] == $notes_after_accent + 1) {
                 $notes[$last_note_i - 1] .= ' '.$notes[$last_note_i - 1];
             }
 
-            if (!$is_last_long) {
-                $notes[$last_note_i] = preg_replace('#2(\)?)#u', '4\1 r', $notes[$last_note_i]);
+            if (!pslm_is_long_syllable($lyrics_tokens[count($lyrics_tokens) - 1][1])) {
+                $notes[$last_note_i] = preg_replace('#2(\)?)#u', '4$1 r', $notes[$last_note_i]);
+            }
+
+            $first_word_i = $words[0] == '*' ? 1 : 0;
+            if ($syllable_counts[$first_word_i] == 1 && $syllable_counts[$first_word_i+1] > 1) {
+                // add eight note iff the music starts with breve
+                $notes[0] = preg_replace('#([abcdefgis]+)([,\']*)B#', '$1${2}8 $1B', $notes[0]);
+                // always add at least eight rest
+                $notes[0] = 'r8 '.$notes[0];
             }
             $new_music = implode(' ', $notes);
+
+            $music_tokens = pslm_parse_music($new_music);
+            $note_syllables = pslm_note_syllables($music_tokens);
+            $n_note_syllables = count($note_syllables);
+
+            $lyrics_syllables = pslm_text_syllables($lyrics_tokens);
+            $n_lyrics_syllables = count($lyrics_syllables);
+
+            if ($n_note_syllables > $n_lyrics_syllables) {
+                // remove breve
+                $new_music = preg_replace('#([abcdefgis]+[,\']*)B #', '', $new_music);
+            } elseif ($n_note_syllables == $n_lyrics_syllables) {
+                // replace breve by eight note
+                $new_music = preg_replace('#([abcdefgis]+[,\']*)B #', '${1}8 ', $new_music);
+            }
             $psalm = str_replace($snippet, "m: $new_music $bar\nt: $text", $psalm);
         }
     }
+    // shorten previous syllable or cancel quarter rest if there is a pick up rest in the next phrase
+    $psalm = preg_replace("#([abcdefgis]+[,']*)(2|4 r4?)\s+(\|+)((\n|t:.*|%% part:.*)*m: r8)#u", '${1}4 $3$4', $psalm);
+
     return $psalm;
 }
 
@@ -69,6 +137,7 @@ if (preg_match('#\.pslm$#', $pslm_f)) {
     // convert .pslm to .ly before running lilypond
     $psalm = file_get_contents($pslm_f);
     $psalm = pslm_preprocessor($psalm);
+    //exit;
     file_put_contents($pslm_f, $psalm);
     $psalm = pslm_parse_psalm($psalm);
     $lily = pslm_lilypond($psalm, 10, false);
