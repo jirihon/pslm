@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 37
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: es'8 bes es f g4. es8 / f es f g | as bes as g f2 | bes8 c bes as g2 ||
 t: Pane, tys nám býval útočištěm od pokolení do pokolení.
 
 %% part: verse

@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 250
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: bes4 | f'8 es d es as2 f4 | bes8 bes g es4 r ||
 t: Jak miluji tvůj zákon, Hospodine.
 
 %% part: verse

@@ -6,11 +6,11 @@
 %% source: nedelni_zaltar
 %% page: 32
 
-m: \key c \major
+m: \key g \major
 
 %% part: responsum
 
-m: bB ||
+m: b'8 b a b d4 c | b8 g b a4 r ||
 t: Ukaž mi své cesty, Hospodine.
 
 %% part: verse

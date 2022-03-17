@@ -29,6 +29,12 @@
       - day: 3
         name: 5. neděle postní C
         psalms: [OL16]
+      - day: 2
+        name: Sobota po 4. neděli postní
+        psalms: [OL103]
+      - day: 1
+        name: Pátek po 4. neděli postní
+        psalms: [OL102]
     - month: 3
       days:
       - day: 31
