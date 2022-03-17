@@ -1,6 +1,6 @@
 %% occasion: 'Úterý 9. týdne 2'
 %% responsum_reference: 'Ž 90 (89),1'
-%% verse_reference: 'PůvodnQí tónina F dur.'
+%% verse_reference: 'Ž 90 (89)'
 %% author: olejnik
 %% source: vsedni_zaltar
 %% page: 225
@@ -11,7 +11,7 @@ m: \key es \major
 
 %% part: responsum
 
-m: es'8 bes es f g4. es8 f es f g | as bes as g f2 | bes8 c bes as g2 ||
+m: es'8 bes es f g4. es8 / f es f g | as bes as g f2 | bes8 c bes as g2 ||
 t: Pane, tys nám býval útočištěm od pokolení do pokolení.
 
 %% part: verse
@@ -47,7 +47,7 @@ t: * a jako noční hlídka.
 m: c''B bes8_ g g g2 |
 t: Našich let bývá úhrnem sedmdesát,
 
-m: asB g8_ f f2 ||
+m: asB g8_ f f f2 ||
 t: * u toho, kdo je při síle, osmdesát.
 
 %% part: verse

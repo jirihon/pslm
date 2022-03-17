@@ -4,6 +4,8 @@
 %% author: olejnik
 %% source: nedelni_zaltar
 %% page: 113
+%% a: "d'B e8 f a_ g g2"
+%% b: "gB a8 bes d_ c c2"
 
 % Tento žalm má stejné texty veršů jako publikovaný OL105
 
@@ -19,7 +21,7 @@ t: Stvoř mi čisté srdce, Bože!
 m: d'B e8 f a_ g g2 |
 t: Smiluj se nade mnou, Bože, pro své milosrdenství,
 
-m: gB g8 bes d_ c c4 r ||
+m: gB a8 bes d_ c c4 r ||
 t: * pro své velké slitování zahlaď mou nepravost.
 
 %% part: verse
@@ -27,7 +29,7 @@ t: * pro své velké slitování zahlaď mou nepravost.
 m: d'B e8 f a_( g) g4 |
 t: Úplně ze mě smyj mou vinu
 
-m: r8 g gB g8 bes d_( c) c4 r ||
+m: r8 g8 gB a8 bes d_( c) c4 r ||
 t: * a očisť mě od mého hříchu.
 
 %% use: responsum
@@ -37,7 +39,7 @@ t: * a očisť mě od mého hříchu.
 m: d'B e8 f a_( g) g4 r |
 t: Stvoř mi čisté srdce, Bože!
 
-m: gB g8 bes d_ c c c4 r ||
+m: gB a8 bes d_ c c4 r ||
 t: * Obnov ve mně ducha vytrvalosti.
 
 %% part: verse
@@ -45,7 +47,7 @@ t: * Obnov ve mně ducha vytrvalosti.
 m: d'B e8 f a_( g) g4 |
 t: Neodvrhuj mě od své tváře
 
-m: r8 g gB g8 bes d_( c) c4 ||
+m: r8 g8 gB a8 bes d_( c) c4 r ||
 t: * a neodnímej mi svého svatého ducha.
 
 %% use: responsum
@@ -55,15 +57,15 @@ t: * a neodnímej mi svého svatého ducha.
 m: d'B e8 f a_ g g4 |
 t: Vrať mi radost ze své ochrany
 
-m: r8 g gB g8 bes d_ c c c4 r ||
+m: r8 g8 gB a8 bes d_ c c c4 r ||
 t: * a posilni mou velkodušnost.
 
 %% part: verse
 
-m: d'B e8 f a_( g) g2 |
+m: d'B e8 f a_( g) g4 |
 t: Bezbožné budu učit tvým cestám
 
-m: r8 g gB g8 bes d_( c) c4 r ||
+m: r8 g8 gB a8 bes d_( c) c4 r ||
 t: * a hříšníci se budou obracet k tobě.
 
 %% use: responsum

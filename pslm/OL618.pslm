@@ -18,10 +18,10 @@ t: Ukaž mi své cesty, Hospodine.
 
 %% part: verse
 
-m: g'8 fis eB fis8 g b_ g a a4 |
+m: g'8 fis eB fis8 g b_ g a a4 r |
 t: Ukaž mi své cesty, Hospodine,
 
-m: r8 a8 g fisB g8 a c_( a b) b2 ||
+m: a8( g) fisB g8 a c_( a b) b2 ||
 t: * a pouč mě o svých stezkách.
 
 %% part: verse
@@ -44,7 +44,7 @@ t: * proto ukazuje hříšníkům cestu.
 
 %% part: verse
 
-m: g'8 fis eB fis8 g b_( g) a a2 |
+m: g'8 fis eB fis8 g b_ g( a) a2 |
 t: Pokorné vede k správnému jednání,
 
 m: a8 g fisB g8 a c_( a b) b4 r ||
