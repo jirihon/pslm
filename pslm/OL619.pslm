@@ -1,0 +1,76 @@
+%% occasion: 'Pátek 9. týdne 2'
+%% responsum_reference: 'Ž 119 (118),97a'
+%% verse_reference: 'Ž 119 (118)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 228
+%% a: "as'B bes8 c c_ bes bes bes2"
+%% b: "fB es8 f as_ g g g2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: bes4 | f'8 es d es as2 f4 | bes8 bes g es4 r ||
+t: Jak miluji tvůj zákon, Hospodine.
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes2 |
+t: Mnozí mě stíhají a tísní,
+
+m: fB es8 f as_ g g g2 ||
+t: * od tvých přikázání neustoupím.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 r |
+t: Základem tvého slova je stálost,
+
+m: fB es8 f as_ g g g2 ||
+t: * věčná jsou všechna tvá spravedlivá rozhodnutí.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes bes4 |
+t: Knížata mě stíhají bez důvodu,
+
+m: r8 f8 fB es8 f as_( g) g2 ||
+t: * mé srdce však má úctu k tvým slovům.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 |
+t: Hojný pokoj těm, kdo milují tvůj zákon,
+
+m: r8 f8 fB es8 f as_( g) g4 r ||
+t: * nic zlého je nemůže potkat.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes4 |
+t: Očekávám tvou pomoc, Hospodine,
+
+m: r8 f8 f8 es8 f as_ g g4 r ||
+t: * a plním tvé předpisy.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes2 |
+t: Střežím tvá nařízení a přikázání,
+
+m: fB es8 f as_( g) g4 r ||
+t: * neboť před tebou jsou všechny mé cesty.
+
+%% use: responsum
+

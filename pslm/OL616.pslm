@@ -1,0 +1,80 @@
+%% occasion: 'Úterý 9. týdne 2'
+%% responsum_reference: 'Ž 90 (89),1'
+%% verse_reference: 'PůvodnQí tónina F dur.'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 225
+%% a: "c''B bes8_ g g g2"
+%% b: "asB g8_ f f f2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: es'8 bes es f g4. es8 f es f g | as bes as g f2 | bes8 c bes as g2 ||
+t: Pane, tys nám býval útočištěm od pokolení do pokolení.
+
+%% part: verse
+
+m: c''B bes8_ g g g4 r |
+t: Dříve než se zrodily hory, (+) než povstala země a svět,
+
+m: asB g8_( f) f4 r ||
+t: * od věčnosti do věčnosti jsi ty, Bože!
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B bes8_ g g g4 |
+t: Rozkazem vracíš, Bože, člověka v prach
+
+m: r8 as8 asB g8_ f f f4 r ||
+t: * a pravíš: (+) „Vraťte se, smrtelníci!“
+
+%% part: verse
+
+m: c''B bes8_( g) g4 |
+t: Neboť tisíc let je v tvých očích (+) jako včerejší den, který minul,
+
+m: r8 as8 asB g8_( f) f4 r ||
+t: * a jako noční hlídka.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B bes8_ g g g2 |
+t: Našich let bývá úhrnem sedmdesát,
+
+m: asB g8_ f f2 ||
+t: * u toho, kdo je při síle, osmdesát.
+
+%% part: verse
+
+m: c''B bes8_( g) g4 r |
+t: Většina jich je lopota a trýzeň,
+
+m: asB g8_ f f f4 r ||
+t: * neboť rychle pomíjejí, a my odlétáme.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B bes8_ g g g4 |
+t: Nasyť nás brzy svou slitovností,
+
+m: r8 as8 asB g8_( f) f4 r ||
+t: * ať jásáme a radujeme se po celý život!
+
+%% part: verse
+
+m: c''B bes8_( g) g4 |
+t: Nechť se ukáže tvým služebníkům tvoje dílo,
+
+m: r8 as8 asB g8_( f) f2 ||
+t: * tvá sláva jejich synům.
+
+%% use: responsum
+

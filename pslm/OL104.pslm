@@ -1,0 +1,70 @@
+%% occasion: '5. neděle postní B'
+%% responsum_reference: 'Ž 51 (50),12a'
+%% verse_reference: 'Ž 51 (50)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 113
+
+% Tento žalm má stejné texty veršů jako publikovaný OL105
+
+m: \key f \major
+
+%% part: responsum
+
+m: c''4 a d8 c a g / f4( d) c2 ||
+t: Stvoř mi čisté srdce, Bože!
+
+%% part: verse
+
+m: d'B e8 f a_ g g2 |
+t: Smiluj se nade mnou, Bože, pro své milosrdenství,
+
+m: gB g8 bes d_ c c4 r ||
+t: * pro své velké slitování zahlaď mou nepravost.
+
+%% part: verse
+
+m: d'B e8 f a_( g) g4 |
+t: Úplně ze mě smyj mou vinu
+
+m: r8 g gB g8 bes d_( c) c4 r ||
+t: * a očisť mě od mého hříchu.
+
+%% use: responsum
+
+%% part: verse
+
+m: d'B e8 f a_( g) g4 r |
+t: Stvoř mi čisté srdce, Bože!
+
+m: gB g8 bes d_ c c c4 r ||
+t: * Obnov ve mně ducha vytrvalosti.
+
+%% part: verse
+
+m: d'B e8 f a_( g) g4 |
+t: Neodvrhuj mě od své tváře
+
+m: r8 g gB g8 bes d_( c) c4 ||
+t: * a neodnímej mi svého svatého ducha.
+
+%% use: responsum
+
+%% part: verse
+
+m: d'B e8 f a_ g g4 |
+t: Vrať mi radost ze své ochrany
+
+m: r8 g gB g8 bes d_ c c c4 r ||
+t: * a posilni mou velkodušnost.
+
+%% part: verse
+
+m: d'B e8 f a_( g) g2 |
+t: Bezbožné budu učit tvým cestám
+
+m: r8 g gB g8 bes d_( c) c4 r ||
+t: * a hříšníci se budou obracet k tobě.
+
+%% use: responsum
+

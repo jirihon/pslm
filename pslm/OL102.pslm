@@ -1,0 +1,68 @@
+%% occasion: 'Pátek po 4. neděli postní'
+%% responsum_reference: 'Ž 34 (33),7a'
+%% verse_reference: 'Ž 34 (33)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 111
+
+m: \key bes \major
+
+%% part: responsum
+
+m: r8 f' f g a bes bes bes | r g c c a g f~ f4 ||
+t: Hle, ubožák zavolal, a Hospodin slyšel.
+
+%% part: verse
+
+m: es'B f8 c es_ d d d4 r |
+t: Hospodinův hněv stíhá ty, kdo páchají zlo,
+
+m: c8 g'B a8 g(_ f) f4 r ||
+t: * aby vyhladil ze země vzpomínku na ně.
+
+%% part: verse
+
+m: es'B f8 c es(_ d) d4 r |
+t: Spravedliví volali, a Hospodin slyšel,
+
+m: c8 g'B a8 g(_ f) f4 r ||
+t: * vysvobodil je z každé jejich tísně.
+
+%% use: responsum
+
+%% part: verse
+
+m: es'B f8 c es(_ d) d4 r |
+t: Blízko je Hospodin těm, kdo mají zkroušené srdce,
+
+m: c8 g'B a8 g_ f f f4 r ||
+t: * na duchu zlomené zachraňuje.
+
+%% part: verse
+
+m: es'B f8 c es_ d d2 |
+t: Spravedlivý mívá mnoho soužení,
+
+m: c8 g'B a8 g_ f f2 ||
+t: * Hospodin však ho ze všech vyprostí.
+
+%% use: responsum
+
+%% part: verse
+
+m: es'B f8 c es(_ d) d4 r |
+t: Chrání všechny jeho kosti,
+
+m: c8 g'B a8 g_ f f4 r ||
+t: * ani jedna z nich nebude zlomena.
+
+%% part: verse
+
+m: es'B f8 c es_ d d d2 |
+t: Hospodin zachraňuje duše svých služebníků,
+
+m: c8 g'B a8 g_ f f f2 ||
+t: * nebudou pykat, kdo se k němu utíkají.
+
+%% use: responsum
+

@@ -1,0 +1,72 @@
+%% occasion: 'Čtvrtek 9. týdne 2'
+%% responsum_reference: 'Ž 25 (24),4a'
+%% verse_reference: 'Ž 25 (24)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 227
+%% a: "g'8 fis eB fis8 g b_ g a a2"
+%% b: "a8 g fisB g8 a c_ a b b2"
+
+% Tento žalm má stejné texty veršů jako publikovaný OL4
+
+m: \key g \major
+
+%% part: responsum
+
+m: b'8 b a b d4 c | b8 g b a4 r ||
+t: Ukaž mi své cesty, Hospodine.
+
+%% part: verse
+
+m: g'8 fis eB fis8 g b_ g a a4 |
+t: Ukaž mi své cesty, Hospodine,
+
+m: r8 a8 g fisB g8 a c_( a b) b2 ||
+t: * a pouč mě o svých stezkách.
+
+%% part: verse
+
+m: g'8 fis eB fis8 g b_( g a) a4 r |
+t: Veď mě ve své pravdě a uč mě,
+
+m: a8 g fisB g8 a c_( a) b b4 r ||
+t: * neboť ty jsi Bůh, můj spasitel.
+
+%% use: responsum
+
+%% part: verse
+
+m: g'8 fis eB fis8 g b_ g a a2 |
+t: Hospodin je dobrý a dokonalý,
+
+m: a8 g fisB g8 a c_( a b) b4 r ||
+t: * proto ukazuje hříšníkům cestu.
+
+%% part: verse
+
+m: g'8 fis eB fis8 g b_( g) a a2 |
+t: Pokorné vede k správnému jednání,
+
+m: a8 g fisB g8 a c_( a b) b4 r ||
+t: * pokorné učí své cestě.
+
+%% use: responsum
+
+%% part: verse
+
+m: g'8 fis eB fis8 g b_( g a) a4 r |
+t: Hospodinovo jednání je jen láska a věrnost
+
+m: a8 g fisB g8 a c_ a b b2 ||
+t: * pro ty, kdo plní jeho smlouvu a nařízení.
+
+%% part: verse
+
+m: g'8 fis eB fis8 g b_( g a) a2 |
+t: Důvěrně se stýká Hospodin s těmi, kdo se ho bojí,
+
+m: a8 g fisB g8 a c_( a b) b4 r ||
+t: * dává jim poznat svou smlouvu.
+
+%% use: responsum
+
