@@ -466,7 +466,7 @@ function pslm_text_to_lyrics($text) {
         '#\s{2,}#' => ' ', // normalize white-spaces to single space
         '#([^\-])\-([^\-])#' => '\1 -- \2', // 
         '# -- ([bdďjlrřsš]) -- #ui' => '\1 -- ', // move some ambiguous consonants to the previous syllable if both options are possible
-        '# -- ([cčfghkmnňpqtťvwxzž]|st) -- #ui' => ' -- \1', // move other ambiguous consonants to the next syllable if both options are posible
+        '# -- ([cčfghkmnňpqtťvwxzž]|st|md) -- #ui' => ' -- \1', // move other ambiguous consonants to the next syllable if both options are posible
         '# -- (sť|ls|ch|mž)\b#ui' => '\1', // move unsyllabic parts to the previous syllable
         '#\b(js) -- #ui' => '\1', // move unsyllabic parts to the next syllable
 
