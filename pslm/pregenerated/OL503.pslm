@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 112
 
-m: \key c \major
+m: \key g \major
 
 %% part: responsum
 
-m: bB ||
+m: d'4 d8 d g a / b c d4 d ||
 t: Jásejte Bohu, všechny země!
 
 %% part: verse

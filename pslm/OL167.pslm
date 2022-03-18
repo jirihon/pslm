@@ -4,6 +4,9 @@
 %% author: olejnik
 %% source: nedelni_zaltar
 %% page: 176
+%% a: "c'8 e gB g8 e a_ g g2"
+%% b: "aB b8 c d_ b g g2"
+%% c: "g'B g8 e a_ g g2"
 
 m: \key c \major
 
@@ -14,54 +17,54 @@ t: Bůh se vznáší za jásotu, Hospodin vystupuje za hlaholu polnice.
 
 %% part: verse
 
-m: aB |
+m: c'8 e gB g8 e a_ g g4 r |
 t: Všechny národy, tleskejte rukama,
 
-m: bB ||
+m: aB b8 c d_( b g) g4 r ||
 t: * jásejte Bohu radostným hlasem,
 
 %% part: verse
 
-m: aB |
+m: c'8 e gB g8 e a_( g) g2 |
 t: protože Hospodin je vznešený, hrozný,
 
-m: bB ||
+m: aB b8 c d_( b g) g2 ||
 t: * je to veliký král nad celou zemí.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: g'B g8 e a_ g g4 r |
 t: Podrobuje nám národy,
 
-m: bB ||
+m: aB b8 c d_( b) g g4 r ||
 t: * klade nám k nohám pohany.
 
 %% part: verse
 
-m: aB |
+m: g'B g8 e a_ g g2 |
 t: Vybírá nám naše dědictví,
 
-m: bB ||
+m: aB b8 c d_( b) g g4 r ||
 t: * slávu Jakuba, kterého miluje
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: g'B g8 e a_ g g g4 r |
 t: Bůh se vznáší za jásotu,
 
-m: bB ||
+m: aB b8 c d_( b) g g4 r ||
 t: * Hospodin vystupuje za hlaholu polnice.
 
 %% part: verse
 
-m: aB |
+m: g'B g8 e a_ g g4 r |
 t: Zpívejte Bohu, zpívejte,
 
-m: bB ||
+m: aB b8 c d_( b) g g4 r ||
 t: * zpívejte našemu králi, zpívejte!
 
 %% use: responsum

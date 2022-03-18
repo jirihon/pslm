@@ -8,11 +8,11 @@
 
 % Tento žalm má stejné texty veršů jako publikovaný OL11
 
-m: \key c \major
+m: \key d \major
 
 %% part: responsum
 
-m: bB ||
+m: fis'8 e4 d8 g fis e4 | e8 e d e / fis a a4 | b cis d8 b~ b4 ||
 t: Věřím, že uvidím blaho od Hospodina v zemi živých!
 
 %% part: verse

@@ -1,11 +1,12 @@
-%% occasion: 'Sobota 2. týdne 1'
+%% occasion: 'Nanebevstoupení Páně (čtvrtek po 6. neděli velikonoční)'
 %% responsum_reference: 'Ž 47 (46),6'
 %% verse_reference: 'Ž 47 (46)'
 %% author: olejnik
-%% source: vsedni_zaltar
-%% page: 19
-
-% Tento žalm má stejné texty veršů jako publikovaný OL166
+%% source: nedelni_zaltar
+%% page: 175
+%% a: "c'8 e gB g8 e a_ g g2"
+%% b: "aB b8 c d_ b g g2"
+%% c: "g'B g8 e a_ g g2"
 
 m: \key c \major
 
@@ -16,54 +17,54 @@ t: Bůh se vznáší za jásotu, Hospodin vystupuje za hlaholu polnice.
 
 %% part: verse
 
-m: aB |
+m: c'8 e gB g8 e a_ g g4 r |
 t: Všechny národy, tleskejte rukama,
 
-m: bB ||
+m: aB b8 c d_( b g) g4 r ||
 t: * jásejte Bohu radostným hlasem,
 
 %% part: verse
 
-m: aB |
+m: c'8 e gB g8 e a_( g) g2 |
 t: protože Hospodin je vznešený, hrozný,
 
-m: bB ||
+m: aB b8 c d_( b g) g2 ||
 t: * je to veliký král nad celou zemí.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: g'B g8 e a_ g g g4 r |
 t: Bůh se vznáší za jásotu,
 
-m: bB ||
+m: aB b8 c d_( b) g g4 r ||
 t: * Hospodin vystupuje za hlaholu polnice.
 
 %% part: verse
 
-m: aB |
+m: g'B g8 e a_ g g4 r |
 t: Zpívejte Bohu, zpívejte,
 
-m: bB ||
+m: aB b8 c d_( b) g g4 r ||
 t: * zpívejte našemu králi, zpívejte!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c'8 e gB g8 e a_( g) g4 r |
 t: Protože Bůh je králem celého světa,
 
-m: bB ||
+m: aB b8 c d_( b) g g4 ||
 t: * zpívejte mu chvalozpěv!
 
 %% part: verse
 
-m: aB |
-t: Bůh vládne národů ,
+m: g'4 g8 e a_ g g4 |
+t: Bůh vládne národům,
 
-m: bB ||
+m: r8 a8 aB b8 c d_( b g) g4 r ||
 t: * Bůh zasedá na svém svatém trůnu.
 
 %% use: responsum

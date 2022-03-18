@@ -1,0 +1,89 @@
+%% occasion: '6. neděle velikonoční A'
+%% occasion: '14. neděle v mezidobí C'
+%% responsum_reference: 'Ž 66 (65),1'
+%% verse_reference: 'Ž 66 (65)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 172
+%% a: "e'B fis8 g a_ a a2"
+%% b: "cB b8 a d,_ d d2"
+
+m: \key g \major
+
+%% part: responsum
+
+m: g'4 g8 d g a / b d / c( b) a4 / b8 c a( g) g2 ||
+t: Jásejte Bohu, všechny země! Aleluja.
+
+%% part: verse
+
+m: e'B fis8 g a8_ a r4 |
+t: Jásejte Bohu, všechny země,
+
+m: cB b8 a d,4_ d r ||
+t: * opěvujte slávu jeho jména,
+
+%% part: verse
+
+m: e'B fis8 g a4_ a r |
+t: vzdejte mu velkolepou chválu!
+
+m: cB b8 a d,4_ d r ||
+t: * Řekněte Bohu: „Jak úžasná jsou tvá díla!
+
+%% use: responsum
+
+%% part: verse
+
+m: e'B fis8 g a4_ a4 |
+t: Ať se ti koří celá země, ať ti zpívá,
+
+m: r8 c8 cB b8 a d,4_ d r ||
+t: * nechť opěvuje tvé jméno.“
+
+%% part: verse
+
+m: e'B fis8 g a8_ a r4 |
+t: Pojďte a pozorujte Boží skutky:
+
+m: cB b8 a d,8_ d r4 ||
+t: * podivuhodně jednal s lidmi!
+
+%% use: responsum
+
+%% part: verse
+
+m: e'B fis8 g a2_ |
+t: Moře proměnil v souš;
+
+m: cB b8 a d,8_ d r4 ||
+t: * suchou nohou přešli řeku,
+
+%% part: verse
+
+m: e'B fis8 g a_ a r4 |
+t: proto se radujme v Bohu!
+
+m: cB b8 a d,_ d d4 r ||
+t: * Vládne svou mocí na věky.
+
+%% use: responsum
+
+%% part: verse
+
+m: e'B fis8 g a_ a a a4 |
+t: Pojďte, slyšte, všichni bohabojní,
+
+m: r8 c8 cB b8 a d,8_ d r4 ||
+t: * chci vyprávět, co prokázal Bůh mé duši.
+
+%% part: verse
+
+m: e'B fis8 g a8_ a r4 |
+t: Bůh buď veleben, že neodmítl mou prosbu,
+
+m: cB b8 a d,4_ d r ||
+t: * že mi neodňal svou lásku.
+
+%% use: responsum
+
