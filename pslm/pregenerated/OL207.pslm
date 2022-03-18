@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 216
 
-m: \key c \major
+m: \key d \major
 
 %% part: responsum
 
-m: bB ||
+m: d'8 e fis fis g a b a4 | g8 b d d d / cis fis,~ fis4 | b8 b a g fis e e2 ||
 t: Oslavujte Hospodina, neboť na věky trvá jeho milosrdenství.
 
 %% part: verse

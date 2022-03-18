@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 242
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: bes'8 bes g bes c bes g bes / c bes c / d bes g4 g r ||
 t: Bože, ve své dobrotě ses postaral o chudáka.
 
 %% part: verse

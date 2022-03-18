@@ -4,6 +4,8 @@
 %% author: olejnik
 %% source: nedelni_zaltar
 %% page: 181
+%% a: "as'B g8 as bes_ g es es2"
+%% b: "cB d8 es f_ g f f2"
 
 m: \key es \major
 
@@ -14,54 +16,54 @@ t: Bože, ve své dobrotě ses postaral o chudáka.
 
 %% part: verse
 
-m: aB |
+m: as'B g8 as bes_ g es es2 |
 t: Bůh povstává, jeho nepřátelé se rozptylují,
 
-m: bB ||
+m: cB d8 es f_( g f) f2 ||
 t: * ti, kdo ho nenávidí, prchají před ním,
 
 %% part: verse
 
-m: aB |
+m: as'B g8 as bes_ g es es2 |
 t: tratí se, jako se rozplývá dým,
 
-m: bB ||
+m: cB d8 es f_( g) f f4 r ||
 t: * jako taje vosk před ohněm, + tak hříšníci hynou před Bohem.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: as'B g8 as bes_( g) es es4 |
 t: Spravedliví se však radují, jásají před Bohem
 
-m: bB ||
+m: r8 c8 cB d8 es f_( g) f f4 r ||
 t: * a veselí se v radosti.
 
 %% part: verse
 
-m: aB |
+m: as'B g8 as bes_( g es) es4 r |
 t: Zpívejte Bohu, velebte jeho jméno,
 
-m: bB ||
+m: cB d8 es f_( g) f f4 r ||
 t: * jeho jméno je Hospodin.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: as'B g8 as bes_ g es es4 r |
 t: Otec sirotků, ochránce vdov
 
-m: bB ||
+m: cB d8 es f_( g) f f4 ||
 t: * je Bůh ve svém svatém příbytku.
 
 %% part: verse
 
-m: aB |
+m: r8 as'8 asB g8 as bes_( g es) es4 r |
 t: Bůh zjednává opuštěným domov,
 
-m: bB ||
+m: cB d8 es f_( g) f f4 r ||
 t: * vězně vyvádí k šťastnému životu.
 
 %% use: responsum

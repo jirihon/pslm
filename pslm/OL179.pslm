@@ -4,8 +4,8 @@
 %% author: olejnik
 %% source: nedelni_zaltar
 %% page: 188
-
-% Tento žalm má stejné texty veršů jako publikovaný OL178
+%% a: "bes'B a8 g g_ f f2"
+%% b: "fB e8 d d_ c c2"
 
 m: \key f \major
 
@@ -16,72 +16,75 @@ t: Sešli svého ducha, Pane, a obnov tvářnost země.
 
 %% part: verse
 
-m: aB |
+m: bes'B a8 g g_ f f f4 r |
 t: Veleb, má duše, Hospodina!
 
-m: bB ||
+m: fB e8 d d_ c c2 ||
 t: * Hospodine, můj Bože, jsi nadmíru veliký!
 
 %% part: verse
 
-m: aB |
+m: bes'B a8 g g_( f) f4 r |
 t: Velebností a vznešeností ses oděl,
 
-m: bB ||
+m: fB e8 d d_( c) c4 r ||
 t: * světlem se halíš jako pláštěm.
 
-%% use: responsum
+%% part: responsum_short
+
+m: f'8 c f g a c / bes( a) a4 / r8 c d4 c / bes8 f / a( g) g4 ||
+t: Sešli svého ducha, Pane, a obnov tvářnost země.
 
 %% part: verse
 
-m: aB |
+m: r8 bes'8 besB a8 g g_ f f f4 r |
 t: Jak četná jsou tvá díla, Hospodine!
 
-m: bB ||
+m: fB e8 d d_ c c4 r ||
 t: * Všechno jsi moudře učinil,
 
 %% part: verse
 
-m: aB |
+m: bes'B a8 g g_( f) f4 r |
 t: země je plná tvého tvorstva.
 
-m: bB ||
+m: fB e8 d d_ c c c4 r ||
 t: * Veleb, má duše, Hospodina!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: bes'B a8 g g_ f f4 r |
 t: Všichni čekají od tebe,
 
-m: bB ||
+m: fB e8 d d_ c c4 r ||
 t: * že jim dáš obživu v pravý čas.
 
 %% part: verse
 
-m: aB |
+m: bes'B a8 g g_ f f2 |
 t: Ty jim dáváš, a oni sbírají,
 
-m: bB ||
+m: fB e8 d d_( c) c4 r ||
 t: * otvíráš ruku, a sytí se dobrými dary.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: bes'B a8 g g_( f) f4 |
 t: Hynou, když vezmeš jim život,
 
-m: bB ||
+m: r8 f8 fB e8 d d_( c) c4 ||
 t: * a vracejí se do svého prachu.
 
 %% part: verse
 
-m: aB |
+m: r8 bes'8 besB a8 g g_ f f4 |
 t: Když sešleš svého ducha, jsou stvořeni,
 
-m: bB ||
+m: r8 f8 fB e8 d d_( c) c4 r ||
 t: * a obnovuješ tvář země.
 
 %% use: responsum

@@ -1,8 +1,11 @@
+%% occasion: 'Seslání Ducha Svatého, vigilie (po čtení z Ez 37,1-14, pokud následuje čtení ze Starého zákona)'
 %% responsum_reference: 'Ž 107 (106),1'
 %% verse_reference: 'Ž 107 (106)'
 %% author: olejnik
-%% source: vsedni_zaltar
-%% page: 281
+%% source: nedelni_zaltar
+%% page: 186
+%% a: "d'B cis8 d fis_ e e2"
+%% b: "eB fis8 g a_ fis fis2"
 
 m: \key d \major
 
@@ -13,72 +16,75 @@ t: Oslavujte Hospodina, neboť na věky trvá jeho milosrdenství.
 
 %% part: verse
 
-m: aB |
+m: d'B cis8 d fis_ e e e4 |
 t: Tak ať mluví vykoupení Hospodinem,
 
-m: bB ||
+m: r8 e8 eB fis8 g a_( fis) fis4 r ||
 t: * ti, které vykoupil z nepřátelské moci,
 
 %% part: verse
 
-m: aB |
+m: d'B cis8 d fis_ e e4 r |
 t: které shromáždil ze zemí,
 
-m: bB ||
+m: eB fis8 g a_( fis) fis4 r ||
 t: * od východu a od západu,(+) ze severu a z jihu.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: d'B cis8 d fis_ e e e4 r |
 t: Bloudili na stepi, po pustině,
 
-m: bB ||
+m: eB fis8 g a_( fis) fis4 r ||
 t: * nenašli cestu k městu, kde by mohli bydlet.
 
 %% part: verse
 
-m: aB |
+m: d'B cis8 d fis_ e e4 |
 t: Hladověli a žíznili,
 
-m: bB ||
+m: r8 e8 fis8 g a_( fis) fis4 r ||
 t: * život v nich chřadl.
 
-%% use: responsum
+%% part: responsum_short
+
+m: d'8 e fis fis g a b a4 | g8 b d d d / cis fis,~ fis4 | b8 b a g fis e e4 ||
+t: Oslavujte Hospodina, neboť na věky trvá jeho milosrdenství.
 
 %% part: verse
 
-m: aB |
+m: r8 d'8 dB cis8 d fis_ e e e4 |
 t: Tu volali ve své tísni k Hospodinu,
 
-m: bB ||
+m: r8 e eB fis8 g a_ fis fis fis4 r ||
 t: * a on je z jejich úzkostí vysvobodil.
 
 %% part: verse
 
-m: aB |
+m: d'B cis8 d fis_( e) e2 |
 t: Vedl je pravou cestou,
 
-m: bB ||
+m: eB fis8 g a_( fis) fis4 r ||
 t: * aby došli do města, kde by mohli bydlet.
 
-%% use: responsum
+%% use: responsum_short
 
 %% part: verse
 
-m: aB |
+m: r8 d'8 dB cis8 d fis_ e e2 |
 t: Ať chválí Hospodina za jeho milosrdenství,
 
-m: bB ||
+m: eB fis8 g a_( fis) fis2 ||
 t: * za jeho divy k dobru lidí,
 
 %% part: verse
 
-m: aB |
+m: d'B cis8 d fis_ e e4 r |
 t: neboť žíznivou duši ukojil,
 
-m: bB ||
+m: eB fis8 g a_( fis) fis4 r ||
 t: * hladovou duši naplnil dobrými věcmi.
 
 %% use: responsum

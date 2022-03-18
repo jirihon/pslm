@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 127
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: f'8 c f g a c / bes( a) a4 / r8 c d4 c / bes8 f / a( g) g2 ||
 t: Sešli svého ducha, Pane, a obnov tvářnost země.
 
 %% part: verse

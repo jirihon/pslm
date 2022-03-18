@@ -1,11 +1,11 @@
-%% occasion: 'Pátek 6. týdne 1'
+%% occasion: 'Seslání Ducha Svatého, vigilie (po čtení z Gn 11,1-9, pokud následuje čtení ze Starého zákona)'
 %% responsum_reference: 'Ž 33 (32),12b'
 %% verse_reference: 'Ž 33 (32)'
 %% author: olejnik
-%% source: vsedni_zaltar
-%% page: 42
-
-% Tento žalm má stejné texty veršů jako publikovaný OL176
+%% source: nedelni_zaltar
+%% page: 185
+%% a: "b'B cis8 b b_ a a2"
+%% b: "gB a8 g fis_ e e2"
 
 m: \key d \major
 
@@ -16,54 +16,54 @@ t: Blaze lidu, který si Hospodin vyvolil za svůj majetek.
 
 %% part: verse
 
-m: aB |
+m: b'B cis8 b b_ a a4 r |
 t: Plány pohanů maří Hospodin,
 
-m: bB ||
+m: gB a8 g fis_ e e2 ||
 t: * v nic uvádí myšlení národů.
 
 %% part: verse
 
-m: aB |
+m: b'B cis8 b b_ a a4 r |
 t: Hospodinův úmysl trvá na věky,
 
-m: bB ||
+m: gB a8 g fis_ e e e2 ||
 t: * myšlenky jeho srdce po všechna pokolení.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: b'B cis8 b b_ a a4 r |
 t: Blaze národu, jehož Bohem je Hospodin,
 
-m: bB ||
+m: gB a8 g fis_ e e4 r ||
 t: * blaze lidu, který si vyvolil za svůj majetek.
 
 %% part: verse
 
-m: aB |
+m: b'B cis8 b b_ a a4 r |
 t: Z nebe shlíží Hospodin,
 
-m: bB ||
+m: gB a8 g fis_ e e e4 r ||
 t: * vidí všechny smrtelníky.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: b'B cis8 b b_ a a4 r |
 t: Z místa, kde sídlí, dívá se
 
-m: bB ||
+m: gB a8 g fis_( e) e4 r ||
 t: * na všechny obyvatele země.
 
 %% part: verse
 
-m: aB |
+m: b'B cis8 b b_( a) a4 r |
 t: Každému z nich uhnětl srdce,
 
-m: bB ||
+m: gB a8 g fis_( e) e2 ||
 t: * uvažuje o všech jejich skutcích.
 
 %% use: responsum

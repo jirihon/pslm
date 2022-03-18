@@ -4,6 +4,8 @@
 %% author: olejnik
 %% source: nedelni_zaltar
 %% page: 183
+%% a: "as'B g8 as bes_ g es es2"
+%% b: "cB d8 es f_ g f f2"
 
 m: \key es \major
 
@@ -14,52 +16,52 @@ t: Bože, ve své dobrotě ses postaral o chudáka.
 
 %% part: verse
 
-m: aB |
+m: as'B g8 as bes_( g es) es4 r |
 t: Ukaž, Bože, svou moc,
 
-m: bB ||
+m: cB d8 es f_ g f f4 ||
 t: * tu moc, Bože, kterou na nás vykonáváš!
 
 %% part: verse
 
-m: aB |
+m: as'B g8 as bes_( g es) es4 r |
 t: Ať pro tvůj chrám v Jeruzalémě
 
-m: bB ||
+m: cB d8 es f_( g f) f4 r ||
 t: * přinášejí králové dary!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: as'B g8 as bes_( g es) es4 r |
 t: Pozemské říše, zpívejte Bohu, velebte Pána,
 
-m: bB ||
+m: cB d8 es f_( g f) f4 ||
 t: * který jezdí po nebesích, po odvěkém nebi!
 
 %% part: verse
 
-m: aB |
+m: r8 as'8 asB g8 as bes_( g es) es4 |
 t: Hle, ozývá se jeho hlas, hlas mocný:
 
-m: bB ||
-t: * „Uznejte Boží moc!“ R. nost, jeho moc v oblacích.
+m: r8 c8 d8 es f_ g( f) f4 r ||
+t: * „Uznejte Boží moc!“
 
 %% part: verse
 
-m: aB |
-t: Nad Izraelem se zjevuje jeho vzneše
+m: as'B g8 as bes_( g) es es4 |
+t: Nad Izraelem se zjevuje jeho vznešenost, 
 
-m: bB ||
-t: * 
+m: r8 c8 d8 es f_( g) f f2 ||
+t: * jeho moc v oblacích.
 
 %% part: verse
 
-m: aB |
+m: as'B g8 as bes_ g es es4 |
 t: Bázeň budí Bůh ze své svatyně, Bůh Izraelův,
 
-m: bB ||
+m: r8 c8 cB d8 es f_( g) f f4 r ||
 t: * on dává sílu a statečnost svému lidu. + Bůh buď veleben!
 
 %% use: responsum

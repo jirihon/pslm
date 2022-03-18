@@ -4,6 +4,8 @@
 %% author: olejnik
 %% source: nedelni_zaltar
 %% page: 182
+%% a: "as'B g8 as bes_ g es es2"
+%% b: "cB d8 es f_ g f f2"
 
 m: \key es \major
 
@@ -14,37 +16,37 @@ t: Bože, ve své dobrotě ses postaral o chudáka.
 
 %% part: verse
 
-m: aB |
-t: Seslal jsi hojný déšť, Bože,na své dědictví,
+m: as'B g8 as bes_( g) es es2 |
+t: Seslal jsi hojný déšť, Bože, na své dědictví,
 
-m: bB ||
+m: cB d8 es f_( g) f f4 r ||
 t: * vzkřísils je, když zemdlelo.
 
 %% part: verse
 
-m: aB |
+m: as'B g8 as bes_( g es) es4 r |
 t: Usadilo se v něm tvoje stádce,
 
-m: bB ||
+m: cB d8 es f_( g f) f4 r ||
 t: * ve své dobrotě ses postaral o chudáka, Bože!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: as'B g8 as bes_ g( es) es4 r |
 t: Ať je Pán žehnán každý den,
 
-m: bB ||
+m: cB d8 es f_( g f) f4 r ||
 t: * nosí naše břemena, Bůh, naše spása.
 
 %% part: verse
 
-m: aB |
+m: as'B g8 as bes_( g es) es4 r |
 t: Náš Bůh je Bohem spásy,
 
-m: bB ||
-t: * Hospodin, Bůh, dává smrti uniknout .
+m: cB d8 es f_( g) f f2 ||
+t: * Hospodin, Bůh, dává smrti uniknout.
 
 %% use: responsum
 

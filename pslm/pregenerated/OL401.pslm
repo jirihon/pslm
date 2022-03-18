@@ -5,11 +5,13 @@
 %% source: vsedni_zaltar
 %% page: 9
 
-m: \key c \major
+% Tento žalm má stejné texty veršů jako publikovaný OL171
+
+m: \key g \major
 
 %% part: responsum
 
-m: bB ||
+m: r8 d'8 e fis g d d4 | g c8 b a g / fis g a a~ a4 ||
 t: Hospodin kraluje, je povznesen nad celou zemí.
 
 %% part: verse

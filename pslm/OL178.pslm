@@ -3,85 +3,88 @@
 %% verse_reference: 'Ž 104 (103)'
 %% author: olejnik
 %% source: nedelni_zaltar
-%% page: 188
+%% page: 187
+%% a: "c''B b8 a a_ g g2"
+%% b: "aB g8 f e_ d d2"
 
-% Tento žalm má stejné texty veršů jako publikovaný OL178
-
-m: \key f \major
+m: \key c \major
 
 %% part: responsum
 
-m: f'8 c f g a c / bes( a) a4 / r8 c d4 c / bes8 f / a( g) g2 ||
-t: Sešli svého ducha, Pane, a obnov tvářnost země.
+m: e'8 f g a g4 c, | e8 d d d r4 c | d8 a' a2 b4 | gis e r2 ||
+t: Sešli svého ducha, Hospodine, a obnovíš tvář země.
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_ g g g4 r |
 t: Veleb, má duše, Hospodina!
 
-m: bB ||
+m: aB g8 f e_ d d2 ||
 t: * Hospodine, můj Bože, jsi nadmíru veliký!
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_( g) g4 r |
 t: Velebností a vznešeností ses oděl,
 
-m: bB ||
+m: aB g8 f e_( d) d4 r ||
 t: * světlem se halíš jako pláštěm.
 
-%% use: responsum
+%% part: responsum_short
+
+m: e'8 f g a g4 c, | e8 d d d r4 c | d8 a' a2 b4 | gis e r4 ||
+t: Sešli svého ducha, Hospodine, a obnovíš tvář země.
 
 %% part: verse
 
-m: aB |
+m: r8 c''8 cB b8 a a_ g g g4 r |
 t: Jak četná jsou tvá díla, Hospodine!
 
-m: bB ||
+m: aB g8 f e_ d d4 r ||
 t: * Všechno jsi moudře učinil,
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_( g) g4 r |
 t: země je plná tvého tvorstva.
 
-m: bB ||
+m: aB g8 f e_ d d d4 r ||
 t: * Veleb, má duše, Hospodina!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_ g g4 r |
 t: Všichni čekají od tebe,
 
-m: bB ||
+m: aB g8 f e_ d d4 r ||
 t: * že jim dáš obživu v pravý čas.
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_ g g2 |
 t: Ty jim dáváš, a oni sbírají,
 
-m: bB ||
+m: aB g8 f e_( d) d4 r ||
 t: * otvíráš ruku, a sytí se dobrými dary.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_( g) g4 |
 t: Hynou, když vezmeš jim život,
 
-m: bB ||
+m: r8 a8 aB g8 f e_( d) d4 ||
 t: * a vracejí se do svého prachu.
 
 %% part: verse
 
-m: aB |
+m: r8 c''8 cB b8 a a_ g g4 |
 t: Když sešleš svého ducha, jsou stvořeni,
 
-m: bB ||
+m: r8 a8 aB g8 f e_( d) d4 r ||
 t: * a obnovuješ tvář země.
 
 %% use: responsum
