@@ -14,7 +14,8 @@
 }
 
 
-%% Author: Thomas Morley https://lists.gnu.org/archive/html/lilypond-user/2020-05/msg00002.html
+%% Author: Thomas Morley
+%% https://lists.gnu.org/archive/html/lilypond-user/2020-05/msg00002.html
 #(define (line-position grob)
 "Returns position of @var[grob} in current system:
    @code{'start}, if at first time-step
@@ -95,7 +96,8 @@ unHideNotes = {
   \revert NoteHead.color
 }
 
-% work-around for resetting accidentals https://lilypond.org/doc/v2.23/Documentation/notation/displaying-rhythms#unmetered-music
+% work-around for resetting accidentals
+% https://lilypond.org/doc/v2.23/Documentation/notation/displaying-rhythms#unmetered-music
 cadenzaMeasure = {
   \cadenzaOff
   \partial 1024 s1024
@@ -107,7 +109,9 @@ cadenzaMeasure = {
   (interpret-markup layout props
     #{\markup \override #'(offset . 4.3) \underline { #text }#}))
 
-responsum = \markup \concat { "R" \hspace #-1.05 \path #0.1 #'((moveto 0 0.07) (lineto 0.9 0.8)) \hspace #0.05 "." }
+responsum = \markup \concat {
+  "R" \hspace #-1.05 \path #0.1 #'((moveto 0 0.07) (lineto 0.9 0.8)) \hspace #0.05 "."
+}
 
 \layout {
     \context {

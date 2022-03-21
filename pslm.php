@@ -176,7 +176,7 @@ function pslm_midi($psalm) {
     $music = pslm_music_implode($music);
 
     // fold breves back into single half note
-    $music = str_replace(['\>', '\<', '\!', '\accent'], '', $music);
+    $music = str_replace(['\>', '\<', '\!', '\accent', '\cadenzaMeasure'], '', $music);
     $music = preg_replace('#\\\\breve\*1/16 \\\\hideNotes( \\\\breve\*1/16 \\\\bar "")+ \\\\unHideNotes#', '2', $music);
 
     $lily = sprintf('\version "2.22.1" \score { { %s } \midi {} }', $music);
