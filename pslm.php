@@ -556,8 +556,8 @@ function pslm_contains_note($music) {
 function pslm_parse_music($music) {
     // replace shortcuts
     $shortcuts = [
-        '#(?<=\s|^)\|\|(?=\s|$)#' => '\bar "||"',
-        '#(?<=\s|^)\|(?=\s|$)#' => '\bar "|"',
+        '#(?<=\s|^)\|\|(?=\s|$)#' => '\cadenzaMeasure \bar "||"',
+        '#(?<=\s|^)\|(?=\s|$)#' => '\cadenzaMeasure \bar "|"',
         '#(?<=\s|^)/(?=\s|$)#' => '\bar ""',
         '#B#' => '\breve',
         //'#\(#' => '[(',

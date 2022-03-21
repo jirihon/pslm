@@ -1,16 +1,16 @@
 \version "2.22.1"
 \header { tagline = "" }
 \paper {
-    indent = 0\cm
-    top-margin = 0\cm
-    right-margin = 0\cm
-    bottom-margin = 0\cm
-    left-margin = 0\cm
-    paper-width = \paperWidth\cm
-    page-breaking = #ly:one-page-breaking
-    system-system-spacing.basic-distance = #11
-    score-system-spacing.basic-distance = #11
-    ragged-last = \raggedLast
+  indent = 0\cm
+  top-margin = 0\cm
+  right-margin = 0\cm
+  bottom-margin = 0\cm
+  left-margin = 0\cm
+  paper-width = \paperWidth\cm
+  page-breaking = #ly:one-page-breaking
+  system-system-spacing.basic-distance = #11
+  score-system-spacing.basic-distance = #11
+  ragged-last = \raggedLast
 }
 
 
@@ -84,15 +84,22 @@ As a result ledgers are not printed for this @code{NoteHead}"
         to-keep))))
 
 hideNotes = {
-    \noteHeadBreakVisibility #begin-of-line-visible
-    \stopStaff
-    \override NoteHead.color = #(rgb-color 0.5 0.5 0.5)
-    \override Staff.LedgerLineSpanner.color = #(rgb-color 0.5 0.5 0.5)
-    \startStaff
+  \noteHeadBreakVisibility #begin-of-line-visible
+  \stopStaff
+  \override NoteHead.color = #(rgb-color 0.5 0.5 0.5)
+  \override Staff.LedgerLineSpanner.color = #(rgb-color 0.5 0.5 0.5)
+  \startStaff
 }
 unHideNotes = {
-    \noteHeadBreakVisibility #all-visible
-    \revert NoteHead.color
+  \noteHeadBreakVisibility #all-visible
+  \revert NoteHead.color
+}
+
+% work-around for resetting accidentals https://lilypond.org/doc/v2.23/Documentation/notation/displaying-rhythms#unmetered-music
+cadenzaMeasure = {
+  \cadenzaOff
+  \partial 1024 s1024
+  \cadenzaOn
 }
 
 #(define-markup-command (accent layout props text) (markup?)
