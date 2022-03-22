@@ -4,14 +4,14 @@
 %% author: olejnik
 %% source: vsedni_zaltar
 %% page: 234
-%% a: "bes'B a8_ bes c c c2"
-%% b: "gB f8_ g a a a2"
+%% a: "bes'B a8_ bes c c2"
+%% b: "gB f8_ g a a2"
 
 m: \key f \major
 
-%% part: responsum
+%% part: responsum_short
 
-m: a'8 a g f bes4 c8 a | d, f / g4 g r ||
+m: a'8 a g f bes4 c8 a | d, f / g4 g ||
 t: Hospodin je mé světlo a má spása.
 
 %% part: verse
@@ -19,7 +19,7 @@ t: Hospodin je mé světlo a má spása.
 m: r8 bes'8 besB a8_( bes c) c2 |
 t: Slyš, Hospodine, můj hlas, jak volám,
 
-m: gB f8_( g a) a4 ||
+m: gB f8_( g) a a4 ||
 t: * smiluj se nade mnou, vyslyš mě!
 
 %% part: verse
@@ -30,7 +30,10 @@ t: Mé srdce k tobě mluví,
 m: gB f8_( g a) a2 ||
 t: * má tvář tě hledá.
 
-%% use: responsum
+%% part: responsum
+
+m: a'8 a g f bes4 c8 a | d, f / g4 g r ||
+t: Hospodin je mé světlo a má spása.
 
 %% part: verse
 

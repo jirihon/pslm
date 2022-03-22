@@ -1,5 +1,5 @@
 %% occasion: 'Pondělí 10. týdne 2'
-%% responsum_reference: 'Srov Ž 121 R Q (120),2'
+%% responsum_reference: 'Srov Ž 121 (120),2'
 %% verse_reference: 'Ž 121 (120)'
 %% author: olejnik
 %% source: vsedni_zaltar
@@ -12,7 +12,7 @@ m: \key es \major
 
 %% part: responsum
 
-m: bes'8 g f es4. d8 c es f g f4 | r8 as g( f) bes8 g g4 | r8 f as c d4( bes) g2 ||
+m: bes'8 g f es4. d8 / c es f g f4 | r8 as g( f) / bes8 g g4 | r8 f as c / d4( bes) g2 ||
 t: Pomoc nám přijde od Hospodina, který učinil nebe i zemi.
 
 %% part: verse
@@ -25,7 +25,7 @@ t: * Odkud mi přijde pomoc?
 
 %% part: verse
 
-m: as'B g8 as bes_ g es es es4 r |
+m: as'B g8 as bes_( g) es es4 r |
 t: Pomoc mi přijde od Hospodina,
 
 m: cB d8 es g_( es f) f4 r ||
@@ -38,17 +38,14 @@ t: * který učinil nebe i zemi.
 m: as'B g8 as bes_( g es) es4 r |
 t: Nedá zakolísat tvé noze,
 
-m: as'B g8 as bes_( g es) es4 r |
+m: cB d8 es g_( es f) f4 r ||
 t: * nebude dřímat tvůj strážce.
 
-m: d8 es g_ es f f2 ||
-t: * strážce Izraelův.
-
 %% part: verse
-m: as'B g8 as bes_( g es) es2 |
+m: as'B g8 as bes_ g es es4 |
 t: Ano, nebude dřímat a spát
 
-m: d8 es g_ es f f2 ||
+m: r8 c( d) es g_ es f f2 ||
 t: * strážce Izraelův.
 
 %% use: responsum
@@ -81,10 +78,10 @@ t: * střežit bude tvou duši.
 
 %% part: verse
 
-m: as'B g8 as bes_( g es) es4 r |
+m: as'B g8 as bes_( g es) es4 |
 t: Hospodin bude střežit tvůj odchod i příchod
 
-m: c8 d8 es g_( es) f f4 r ||
+m: r8 c8 d8 es g_( es) f f4 r ||
 t: * nyní i na věky.
 
 %% use: responsum

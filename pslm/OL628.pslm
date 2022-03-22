@@ -4,8 +4,8 @@
 %% author: olejnik
 %% source: vsedni_zaltar
 %% page: 237
-%% a: "d'B e8 f a_ g g g2"
-%% b: "gB f8 g bes_ a a a2"
+%% a: "d'B e8 f a_ g g2"
+%% b: "gB f8 g bes_ a a2"
 
 m: \key f \major
 
@@ -16,10 +16,10 @@ t: Smiluj se, Pane, neboť jsme zhřešili.
 
 %% part: verse
 
-m: d'B e8 f a_ g g g2 |
+m: d'B e8 f a_ g g2 |
 t: Smiluj se nade mnou, Bože, pro své milosrdenství,
 
-m: gB f8 g bes_( a) a4 r ||
+m: gB f8 g bes_ a a4 r ||
 t: * pro své velké slitování zahlaď mou nepravost.
 
 %% part: verse
@@ -34,7 +34,7 @@ t: * a očisť mě od mého hříchu.
 
 %% part: verse
 
-m: d'B e8 f a_ g g g2 |
+m: d'B e8 f a_ g g2 |
 t: Neboť já svou nepravost uznávám,
 
 m: gB f8 g bes_ a a4 ||

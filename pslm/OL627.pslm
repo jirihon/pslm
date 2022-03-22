@@ -4,14 +4,14 @@
 %% author: olejnik
 %% source: vsedni_zaltar
 %% page: 236
-%% a: "g'B fis8 g a_ fis fis fis2"
-%% b: "eB d8 e fis_ d d d2"
+%% a: "g'B fis8 g a_ fis fis2"
+%% b: "eB d8 e fis_ d d2"
 
 m: \key d \major
 
 %% part: responsum
 
-m: fis'8 fis e d4 r8 g8 fis e fis4. g8 a a a2 ||
+m: fis'8 fis e d4 r8 / g8 fis e fis4. g8 / a a a2 ||
 t: Hospodine, všimni si mého volání!
 
 %% part: verse
@@ -30,16 +30,17 @@ t: Naslouchej mé hlasité prosbě,
 m: r8 e8 eB d8 e fis_( d) d4 r ||
 t: * můj králi a můj Bože!
 
-%% part: responsum_
+%% part: responsum_short
+
 m: fis'8 fis e d4 r8 g8 fis e fis4. g8 a a a4 ||
 t: Hospodine, všimni si mého volání!
 
 %% part: verse
 
-m: r8 g'8 gB fis8 g a_ fis fis4 |
+m: r8 g'8 gB fis8 g a_ fis fis4 r |
 t: Ty nejsi Bůh, kterému by se líbila nepravost,
 
-m: r8 e8 eB d8 e fis_ d d d2 ||
+m: eB d8 e fis_ d d d2 ||
 t: * zlý u tebe prodlévat nesmí + ani rouhači před tebou neobstojí.
 
 %% use: responsum

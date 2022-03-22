@@ -4,19 +4,19 @@
 %% author: olejnik
 %% source: vsedni_zaltar
 %% page: 235
-%% a: "c''B d8_ bes bes bes2"
-%% b: "aB g8_ f f f2"
+%% a: "c''B d8_ bes bes2"
+%% b: "aB g8_ f f2"
 
 m: \key bes \major
 
 %% part: responsum
 
-m: d'4 f g8 a g f | bes8. bes16 a8 g c c4 c8 ||
+m: d'4 f g8 a g f | bes8. bes16 a8 g / c c4 c8 ||
 t: Ty jsi, Hospodine, mým dědičným podílem.
 
 %% part: verse
 
-m: c''B d8_( bes) bes2 |
+m: c''B d8_ bes bes2 |
 t: Ochraň mě, Bože, neboť se k tobě utíkám.
 
 m: aB g8_( f) f2 ||
