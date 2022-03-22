@@ -1,0 +1,65 @@
+%% occasion: 'Středa 11. týdne 2'
+%% responsum_reference: 'Ž 31 (30),25'
+%% verse_reference: 'Ž 31 (30)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 238
+%% a: "c''B b8 a a_ g g g2"
+%% b: "gB fis8 e e_ d d d2"
+
+m: \key g \major
+
+%% part: responsum
+
+m:  d'8 g g g fis4 e a8 a a2 | d8 a a b a g4 fis g8 a b b b4 ||
+t: Vzmužte se a buďte srdnatí, všichni, kdo spoléháte na Hospodina.
+
+%% part: verse
+
+m: r8 c''8 cB b8 a a_ g g g4 r |
+t: Jak nesmírná je tvá dobrotivost, Hospodine,
+
+m: gB fis8 e e_ d d4 r ||
+t: * uchoval jsi ji těm, kdo se tě bojí, + popřáváš ji těm, kdo se k tobě utíkají před lidmi.
+
+%% part: responsum_
+
+m:  d'8 g g g fis4 e a8 a a2 | d8 a a b a g4 fis g8 a b b b2 ||
+t: Vzmužte se a buďte srdnatí, všichni, kdo spoléháte na Hospodina.
+
+%% part: verse
+
+m: c''B b8 a a_ g g2 |
+t: Tvoje tvář je jim bezpečnou ochranou
+
+m: gB fis8 e e_( d) d2 ||
+t: * před spiknutím lidí,
+
+%% part: verse
+
+m: c''8 b8 a a_ g g4 r |
+t: ukrýváš je ve stanu
+
+m: gB fis8 e e_( d) d4 r ||
+t: * před svárlivými řečmi.
+
+%% use: responsum_
+
+%% part: verse
+
+m: c''B b8 a a_( g) g2 |
+t: Milujte Hospodina, všichni jeho svatí,
+
+m: gB fis8 e e_( d) d2 ||
+t: * Hospodin zachovává věrné,
+
+%% part: verse
+
+m: c''B b8 a a_ g g g4 r |
+t: ale plnou měrou odplácí těm,
+
+m: gB fis8 e e_ d d d2 ||
+t: * kdo si drze počínají.
+
+%% use: responsum_
+

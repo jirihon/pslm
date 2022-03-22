@@ -1,0 +1,64 @@
+%% occasion: 'Pondělí 11. týdne 2'
+%% responsum_reference: 'Ž 5,2b .'
+%% verse_reference: 'Ž 5'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 236
+%% a: "g'B fis8 g a_ fis fis fis2"
+%% b: "eB d8 e fis_ d d d2"
+
+m: \key d \major
+
+%% part: responsum
+
+m: fis'8 fis e d4 r8 g8 fis e fis4. g8 a a a2 ||
+t: Hospodine, všimni si mého volání!
+
+%% part: verse
+
+m: g'B fis8 g a_( fis) fis4 r |
+t: Hospodine, slyš moje slova,
+
+m: eB d8 e fis_( d) d4 r ||
+t: * všimni si mého nářku!
+
+%% part: verse
+
+m: g'B fis8 g a_( fis) fis4 |
+t: Naslouchej mé hlasité prosbě,
+
+m: r8 e8 eB d8 e fis_( d) d4 r ||
+t: * můj králi a můj Bože!
+
+%% part: responsum_
+m: fis'8 fis e d4 r8 g8 fis e fis4. g8 a a a4 ||
+t: Hospodine, všimni si mého volání!
+
+%% part: verse
+
+m: r8 g'8 gB fis8 g a_ fis fis4 |
+t: Ty nejsi Bůh, kterému by se líbila nepravost,
+
+m: r8 e8 eB d8 e fis_ d d d2 ||
+t: * zlý u tebe prodlévat nesmí + ani rouhači před tebou neobstojí.
+
+%% use: responsum
+
+%% part: verse
+
+m: g'B fis8 g a_ fis fis4 r |
+t: Nenávidíš každého zločince,
+
+m: eB d8 e fis_( d) d4 r ||
+t: * hubíš všecky lháře.
+
+%% part: verse
+
+m: g'B fis8 g a_ fis fis fis4 |
+t: Od vraha a podvodníka
+
+m: r8 e8 eB d8 e fis_ d d4 r ||
+t: * se odvrací Hospodin s odporem.
+
+%% use: responsum
+

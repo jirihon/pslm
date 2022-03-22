@@ -1,0 +1,70 @@
+%% occasion: 'Úterý 11. týdne 2'
+%% responsum_reference: 'Srov. Ž 51 (50),3a'
+%% verse_reference: 'Ž 51 (50)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 237
+%% a: "d'B e8 f a_ g g g2"
+%% b: "gB f8 g bes_ a a a2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: c''8 d c bes a r | bes c bes / a g g4 r ||
+t: Smiluj se, Pane, neboť jsme zhřešili.
+
+%% part: verse
+
+m: d'B e8 f a_ g g g2 |
+t: Smiluj se nade mnou, Bože, pro své milosrdenství,
+
+m: gB f8 g bes_( a) a4 r ||
+t: * pro své velké slitování zahlaď mou nepravost.
+
+%% part: verse
+
+m: d'B e8 f a_( g) g4 |
+t: Úplně ze mě smyj mou vinu
+
+m: r8 g8 gB f8 g bes_( a) a4 r ||
+t: * a očisť mě od mého hříchu.
+
+%% use: responsum
+
+%% part: verse
+
+m: d'B e8 f a_ g g g2 |
+t: Neboť já svou nepravost uznávám,
+
+m: gB f8 g bes_ a a4 ||
+t: * můj hřích je stále přede mnou.
+
+%% part: verse
+
+m: r8 d'8 dB e8 f a_ g g4 r |
+t: Jen proti tobě jsem se prohřešil,
+
+m: gB f8 g bes_ a a a2 ||
+t: * spáchal jsem, co je před tebou zlé.
+
+%% use: responsum
+
+%% part: verse
+
+m: d'B e8 f a_( g) g4 |
+t: Odvrať svou tvář od mých hříchů
+
+m: r8 g8 gB f8 g bes_( a) a4 r ||
+t: * a zahlaď všechny mé viny.
+
+%% part: verse
+
+m: d'B e8 f a_ g g g4 |
+t: Zbav mě, Bože, trestu za prolitou krev, Bože, můj spasiteli,
+
+m: r8 g8 gB f8 g bes_ a a2 ||
+t: * ať zajásá můj jazyk nad tvou spravedlností.
+
+%% use: responsum
+

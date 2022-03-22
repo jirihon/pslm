@@ -1,0 +1,91 @@
+%% occasion: 'Pondělí 10. týdne 2'
+%% responsum_reference: 'Srov Ž 121 R Q (120),2'
+%% verse_reference: 'Ž 121 (120)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 230
+%% a: "as'B g8 as bes_ g es es2"
+%% b: "cB d8 es g_ es f f2"
+
+
+m: \key es \major
+
+%% part: responsum
+
+m: bes'8 g f es4. d8 c es f g f4 | r8 as g( f) bes8 g g4 | r8 f as c d4( bes) g2 ||
+t: Pomoc nám přijde od Hospodina, který učinil nebe i zemi.
+
+%% part: verse
+
+m: as'B g8 as bes_( g es) es2 |
+t: Zvedám své oči k horám. 
+
+m: cB d8 es g_( es f) f4 r ||
+t: * Odkud mi přijde pomoc?
+
+%% part: verse
+
+m: as'B g8 as bes_ g es es es4 r |
+t: Pomoc mi přijde od Hospodina,
+
+m: cB d8 es g_( es f) f4 r ||
+t: * který učinil nebe i zemi.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B g8 as bes_( g es) es4 r |
+t: Nedá zakolísat tvé noze,
+
+m: as'B g8 as bes_( g es) es4 r |
+t: * nebude dřímat tvůj strážce.
+
+m: d8 es g_ es f f2 ||
+t: * strážce Izraelův.
+
+%% part: verse
+m: as'B g8 as bes_( g es) es2 |
+t: Ano, nebude dřímat a spát
+
+m: d8 es g_ es f f2 ||
+t: * strážce Izraelův.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B g8 as bes_( g es) es2 |
+t: Hospodin tě střeží,
+
+m: cB d8 es g_( es) f f4 r ||
+t: * Hospodin je tvým ochráncem po tvé pravici.
+
+%% part: verse
+
+m: as'B g8 as bes_ g es es2 |
+t: Za dne ti slunce neublíží,
+
+m: cB d8 es g_( es f) f4 r ||
+t: * ani měsíc v noci.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B g8 as bes_( g es) es4 r |
+t: Hospodin tě bude střežit ode všeho zlého,
+
+m: cB d8 es g_( es f) f4 r ||
+t: * střežit bude tvou duši.
+
+%% part: verse
+
+m: as'B g8 as bes_( g es) es4 r |
+t: Hospodin bude střežit tvůj odchod i příchod
+
+m: c8 d8 es g_( es) f f4 r ||
+t: * nyní i na věky.
+
+%% use: responsum
+

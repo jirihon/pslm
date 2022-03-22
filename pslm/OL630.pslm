@@ -1,0 +1,80 @@
+%% occasion: 'Čtvrtek 11. týdne 2'
+%% responsum_reference: 'Ž 97 (96),12a'
+%% verse_reference: 'Ž 97 (96)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 239
+%% a: "c''B b8 a a_ g g g2"
+%% b: "gB fis8 e e_ d d d2"
+
+m: \key g \major
+
+%% part: responsum
+
+m: d'8 g g g a g / fis g / a b a a4 r ||
+t: Radujte se, spravedliví, v Hospodinu.
+
+%% part: verse
+
+m: c''B b8 a a_( g) g4 r |
+t: Hospodin kraluje, ať zajásá země,
+
+m: gB fis8 e e_ d d4 r ||
+t: * ať se radují četné ostrovy!
+
+%% part: verse
+
+m: c''B b8 a a_ g g g2 |
+t: Mrak a temnota ho obklopují,
+
+m: gB fis8 e e_( d) d4 r ||
+t: * spravedlnost a právo jsou základem jeho trůnu.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B b8 a a_( g) g4 |
+t: Předchází jej oheň
+
+m: r8 g8 gB fis8 e e_ d d d4 r ||
+t: * a kolem dokola spaluje protivníky.
+
+%% part: verse
+
+m: c''B b8 a a_ g g g2 |
+t: Jeho blesky svět ozařují,
+
+m: gB fis8 e e_ d d4 r ||
+t: * země to vidí a chvěje se.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B b8 a a_ g g4 r |
+t: Jako vosk se taví hory před Hospodinem,
+
+m: gB fis8 e e_( d) d4 r ||
+t: * před vladařem celé země.
+
+%% part: verse
+
+m: c''B b8 a a_ g g g4 |
+t: Nebesa hlásají jeho spravedlnost
+
+m: r8 g8 gB fis8 e e_( d) d4 r ||
+t: * a všechny národy vidí jeho slávu.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B b8 a a_( g) g4 r |
+t: Hanbí se všichni ctitelé model, + kteří se chlubí bůžky,
+
+m: gB fis8 e e_( d) d2 ||
+t: * všichni andělé se mu koří.
+
+%% use: responsum
+

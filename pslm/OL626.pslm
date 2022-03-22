@@ -1,0 +1,70 @@
+%% occasion: 'Sobota 10. týdne 2'
+%% responsum_reference: 'Ž 16 (15),5a'
+%% verse_reference: 'Ž 16 (15)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 235
+%% a: "c''B d8_ bes bes bes2"
+%% b: "aB g8_ f f f2"
+
+m: \key bes \major
+
+%% part: responsum
+
+m: d'4 f g8 a g f | bes8. bes16 a8 g c c4 c8 ||
+t: Ty jsi, Hospodine, mým dědičným podílem.
+
+%% part: verse
+
+m: c''B d8_( bes) bes2 |
+t: Ochraň mě, Bože, neboť se k tobě utíkám.
+
+m: aB g8_( f) f2 ||
+t: * Pravím Hospodinu: „Ty jsi můj Pán.“
+
+%% part: verse
+
+m: c''B d8_( bes) bes2 |
+t: Ty jsi, Hospodine, mým dědičným podílem i mou číší,
+
+m: aB g8_( f) f4 r ||
+t: * ty mně zachováváš můj úděl.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B d8_( bes) bes4 r |
+t: Velebím Hospodina, že mi byl rádcem,
+
+m: aB g8_( f) f4 r ||
+t: * k tomu mě i za noci vybízí mé nitro.
+
+%% part: verse
+
+m: c''B d8_ bes bes bes4 r |
+t: Hospodina mám neustále na zřeteli,
+
+m: aB g8_ f f f4 r ||
+t: * nezakolísám, když je mi po pravici.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B d8_( bes) bes2 |
+t: Proto se raduje mé srdce, má duše plesá,
+
+m: aB g8_ f  f2 ||
+t: * i mé tělo bydlí v bezpečí,
+
+%% part: verse
+
+m: c''B d8_ bes bes2 |
+t: neboť nezanecháš mou duši v podsvětí,
+
+m: aB g8_ f f f2 ||
+t: * nedopustíš, aby tvůj svatý spatřil porušení.
+
+%% use: responsum
+

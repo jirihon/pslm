@@ -1,0 +1,69 @@
+%% occasion: 'Čtvrtek 10. týdne 2'
+%% responsum_reference: 'Lk 8,8 . R'
+%% verse_reference: 'Ž 65 (64)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 233
+%% a: "c''B d8_ bes g g2"
+%% b: "fB bes8_ g es es2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: g'8 f g bes bes r | f8 es f g4 g8 g8 | f4 c' d | b8 a g4 r ||
+t: Semeno padlo na dobrou půdu a přineslo užitek.
+
+%% part: verse
+
+m: c''B d8_ bes g g4 r |
+t: V milosti jsi navštívil zem a napojils ji,
+
+m: fB bes8_ g es es4 r ||
+t: * velmi jsi ji obohatil.
+
+%% part: verse
+
+m: c''B d8_( bes g) g4 r |
+t: Boží strouhou se hrne voda,
+
+m: fB bes8_( g) es es2 ||
+t: * lidem nachystals obilí.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B d8_( bes) g g4 r |
+t: Takto jsi zemi připravil:
+
+m: fB bes8_( g es) es4 r ||
+t: * zavlažils její brázdy, + rozmělnils její hroudy,
+
+%% part: verse
+
+m: c''B d8_( bes g) g4 r |
+t: zkypřils ji dešti,
+
+m: fB bes8_ g es es4 r ||
+t: * požehnals tomu, co vyrašilo.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B d8_( bes) g g2 |
+t: Rok jsi korunoval svou dobrotou,
+
+m: fB bes8_( g es) es4 r ||
+t: * kudy jsi prošel, prýští hojnost.
+
+%% part: verse
+
+m: c''B d8_( bes g) g2 |
+t: Pastviny na stepi mokvají vláhou,
+
+m: fB bes8_( g) es es2 ||
+t: * pahorky se ovíjejí radostí.
+
+%% use: responsum
