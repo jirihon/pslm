@@ -1,0 +1,83 @@
+%% occasion: 'Ježíše Krista, nejvyššího a věčného kněze A'
+%% responsum_reference: 'Srov. Ž 40 (39), 8a.9a'
+%% verse_reference: 'Ž 40 (39)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 192
+%% a: "as'B bes8 f as_ g g2"
+%% b: "f8 c'B d8 c c_ bes bes2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: bes'4 c8 bes4 g8 / es d / c d es / f4 f r ||
+t: Hle, přicházím, Pane, splnit tvou vůli.
+
+%% part: verse
+
+m: as'B bes8 f as_( g) g4 r |
+t: V obětních darech si nelibuješ, Bože,
+
+m: f8 c'B d8 c c_( bes) bes4 r ||
+t: * zato jsi mi otevřel uši.
+
+%% part: verse
+
+m: as'B bes8 f as_ g g2 |
+t: Celopaly a smírné oběti nežádáš,
+
+m: f8 c'B d8 c c_ bes bes2 ||
+t: * tehdy jsem řekl: „Hle, přicházím.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 f as_( g) g4 |
+t: Ve svitku knihy je o mně psáno:
+
+m: r8 f8 c'B d8 c c_( bes) bes4 r ||
+t: * Rád splním tvou vůli, můj Bože, + tvůj zákon je v mém nitru.“
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 f as_ g g g2 |
+t: Spravedlnost jsem zvěstoval vevelkém shromáždění,
+
+m: f8 c'B d8 c c_ bes bes bes4 r ||
+t: * svým rtům jsem nebránil, ty to víš, Hospodine!
+
+%% part: verse
+
+m: as'B bes8 f as_ g g g4 r |
+t: Nenechal jsem si pro sebe tvou spravedlnost,
+
+m: f8 c'B d8 c c_( bes) bes4 r ||
+t: * o tvé věrnosti a pomoci jsem mluvil.
+
+%% part: responsum_short
+
+m: bes'4 c8 bes4 g8 / es d / c d es / f4 f ||
+t: Hle, přicházím, Pane, splnit tvou vůli.
+
+%% part: verse
+
+m: r8 as'8 asB bes8 f as_ g g2 |
+t: Nechť jásají a v tobě se radují
+
+m: f8 c'B d8 c c_ bes bes4 ||
+t: * všichni, kteří tě hledají,
+
+%% part: verse
+
+m: r8 as'8 asB bes8 f as_ g g4 |
+t: ti, kteří touží po tvé pomoci,
+
+m: r8 f8 c'B d8 c c_ bes bes4 r ||
+t: * ať mohou stále říkat: „Buď veleben Hospodin!“
+
+%% use: responsum
+

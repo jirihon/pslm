@@ -1,0 +1,73 @@
+%% occasion: 'Seslání Ducha Svatého'
+%% responsum_reference: 'Srov. Ž 104 (103),30'
+%% verse_reference: 'Ž 104 (103)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 190
+%% a: "bes'B a8 g g_ f f2"
+%% b: "fB e8 d d_ c c2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 c f g a c / bes( a) a4 / r8 c d4 c / bes8 f / a( g) g2 ||
+t: Sešli svého ducha, Pane, a obnov tvářnost země.
+
+%% part: verse
+
+m: bes'B a8 g g_ f f f4 r |
+t: Veleb, má duše, Hospodina!
+
+m: fB e8 d d_ c c4 ||
+t: * Hospodine, můj Bože, jsi nadmíru veliký!
+
+%% part: verse
+
+m: r8 bes'8 besB a8 g g_ f f f4 r |
+t: Jak četná jsou tvá díla, Hospodine!
+
+m: fB e8 d d_( c) c4 r ||
+t: * Země je plná tvého tvorstva.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 g g_( f) f4 |
+t: Hynou, když vezmeš jim život,
+
+m: r8 f8 fB e8 d d_( c) c4 ||
+t: * a vracejí se do svého prachu.
+
+%% part: verse
+
+m: r8 bes'8 besB a8 g g_ f f4 |
+t: Když sešleš svého ducha, jsou stvořeni,
+
+m: r8 f8 fB e8 d d_( c) c4 r ||
+t: * a obnovuješ tvář země.
+
+%% part: responsum_short
+
+m: f'8 c f g a c / bes( a) a4 / r8 c d4 c / bes8 f / a( g) g4 ||
+t: Sešli svého ducha, Pane, a obnov tvářnost země.
+
+%% part: verse
+
+m: r8 bes'8 besB a8 g g_( f) f4 r |
+t: Nechť věčně trvá Hospodinova sláva,
+
+m: fB e8 d d_( c) c4 r ||
+t: * ať se Hospodin těší ze svého díla!
+
+%% part: verse
+
+m: bes'B a8 g g_( f) f4 |
+t: Kéž se mu líbí má píseň:
+
+m: r8 f8 fB e8 d d_ c c c4 r ||
+t: * má radost bude v Hospodinu.
+
+%% use: responsum
+

@@ -1,0 +1,46 @@
+%% occasion: 'Ježíše Krista, nejvyššího a věčného kněze B'
+%% responsum_reference: 'Ž 110 (109),4b'
+%% verse_reference: 'Ž 110 (109)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 193
+%% a: "f'B g8 d f_ e e2"
+%% b: "d8 a'B b8 a a_ g g2"
+
+m: \key c \major
+
+%% part: responsum
+
+m: r8 g' a b c c c4 | c8 c a c / d c b c | b4( a) g r ||
+t: Ty jsi kněz na věky podle Melchizedechova řádu!
+
+%% part: verse
+
+m: f'B g8 d f_( e) e4 r |
+t: Hospodin řekl mému Pánu:
+
+m: d8 a'B b8 a a_( g) g2 ||
+t: * „Seď po mé pravici, + dokud nepoložím tvé nepřátele za podnož tvým nohám.“
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B g8 d f_ e e e4 r |
+t: Žezlo moci ti podává Hospodin ze Siónu:
+
+m: d8 a'B b8 a a_ g g4 r ||
+t: * „Panuj uprostřed svých nepřátel!
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B g8 d f_( e) e4 r |
+t: Ode dne zrození je ti určeno vládnout v posvátném lesku:
+
+m: d8 a'B b8 a a_ g g g2 ||
+t: * zplodil jsem tě jako rosu před jitřenkou.“
+
+%% use: responsum
+
