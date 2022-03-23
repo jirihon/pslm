@@ -6,11 +6,11 @@
 %% source: vsedni_zaltar
 %% page: 31
 
-m: \key c \major
+m: \key des \major
 
 %% part: responsum
 
-m: bB ||
+m: f'8 f es des f as as4 \breathe / as8 | bes c bes( as) as2 ||
 t: Hospodin je můj pastýř, nic nepostrádám.
 
 %% part: verse
