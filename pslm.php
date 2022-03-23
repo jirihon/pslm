@@ -299,7 +299,7 @@ function pslm_parse_psalm($psalm) {
                 $text = implode(' ', $text);
                 $original_music = $music;
                 $original_text = $text;
-                list($music, $text) = pslm_process_snippet($music, $text);
+                list($music, $text) = pslm_process_snippet($music, $text, isset($opts['double_breve']) ? $opts['double_breve'] : true);
                 
                 if (!empty($part)) {
                     $psalm['music'][$part][] = $music;
@@ -366,7 +366,7 @@ function pslm_parse_psalm($psalm) {
 }
 
 
-function pslm_process_snippet($music, $text) {
+function pslm_process_snippet($music, $text, $double_breve) {
     $music_tokens = pslm_parse_music($music);
     $note_syllables = pslm_note_syllables($music_tokens);
     $n_note_syllables = count($note_syllables);
@@ -432,6 +432,16 @@ function pslm_process_snippet($music, $text) {
     } elseif ($n_notes_to_add < 0) {
         $n_syllabels_to_add = -$n_notes_to_add;
         $text .= sprintf(' \repeat unfold %d { \skip 1 }', $n_syllabels_to_add);
+    }
+    if ($double_breve && preg_match('#\\\\unHideNotes +([abcdefgis]+)[,\']*8( +\1)+[24]?#', $music, $m)) {
+        $n_breves = count(preg_split('#\s+#', $m[0])) - 1;
+        $breve = '\breve*1/16';
+        $extra_breves = str_repeat(sprintf('%s \bar "" ', $breve), $n_breves - 1);
+        $music = str_replace(
+            $m[0],
+            sprintf('\unHideNotes %s%s \hideNotes %s\unHideNotes <>8', $m[1], $breve, $extra_breves),
+            $music
+        );
     }
     $music = str_replace('\bar "||"', '\bar "||" \break', $music);
     $text = str_replace('*', '\set stanza = \markup { \lower #0.65 \larger "*" }', $text);
