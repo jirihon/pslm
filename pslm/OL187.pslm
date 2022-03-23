@@ -1,0 +1,70 @@
+%% occasion: 'Těla a Krve Páně B'
+%% responsum_reference: 'Ž 116 (115),13'
+%% verse_reference: 'Ž 116 (115)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 196
+%% a: "c''B d8 c c_ bes bes2"
+%% b: "asB bes8 as g_ f f2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: es'8 f es f g4 es8 es / f g / as4 f / g8 f g c bes bes bes4 ||
+t: Vezmu kalich spásy a budu vzývat jméno Hospodinovo.
+
+%% part: verse
+
+m: c''B d8 c c_ bes bes bes4 r |
+t: Čím se odplatím Hospodinu
+
+m: asB bes8 as g_ f f4 r ||
+t: * za všechno, co mi prokázal?
+
+%% part: verse
+
+m: c''B d8 c c_( bes) bes4 |
+t: Vezmu kalich spásy
+
+m: r8 as8 asB bes8 as g_ f f4 r ||
+t: * a budu vzývat jméno Hospodinovo.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B d8 c c_( bes) bes4 |
+t: Drahocenná je v Hospodinových očích
+
+m: r8 as8 bes8 as g_( f) f2 ||
+t: * smrt jeho zbožných.
+
+%% part: verse
+
+m: c''B d8 c c_ bes bes bes4 r |
+t: Jsem tvůj služebník, syn tvé služebnice,
+
+m: asB bes8 as g_( f) f4 r ||
+t: * rozvázal jsi moje pouta.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B d8 c c_ bes bes bes4 |
+t: Přinesu ti oběť díků, Hospodine,
+
+m: r8 as8 asB bes8 as g_( f) f4 r ||
+t: * a budu vzývat tvé jméno.
+
+%% part: verse
+
+m: c''B d8 c c_ bes bes bes4 r |
+t: Splním své sliby Hospodinu
+
+m: asB bes8 as g_( f) f4 r ||
+t: * před veškerým jeho lidem.
+
+%% use: responsum
+
