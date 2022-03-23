@@ -6,11 +6,11 @@
 %% source: vsedni_zaltar
 %% page: 115
 
-m: \key c \major
+m: \key bes \major
 
 %% part: responsum
 
-m: bB ||
+m: d'4 f g8 a g f | bes8. bes16 a8 g / c c4 c8 ||
 t: Ty jsi, Hospodine, mým dědičným podílem.
 
 %% part: verse

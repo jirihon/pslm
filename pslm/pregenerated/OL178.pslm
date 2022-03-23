@@ -11,7 +11,7 @@ m: \key c \major
 
 %% part: responsum
 
-m: bB ||
+m: e'8 f g a g4 c, | e8 d d d r4 c | d8 a' a2 b4 | gis e r2 ||
 t: Sešli svého ducha, Hospodine, a obnovíš tvář země.
 
 %% part: verse

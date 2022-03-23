@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 224
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: g'8 f g bes bes r | f8 es f g4 g8 g8 | f4 c' d | b8 a g4 r ||
 t: Semeno padlo na dobrou půdu a přineslo užitek.
 
 %% part: verse

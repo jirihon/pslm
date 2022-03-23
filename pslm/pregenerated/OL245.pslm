@@ -5,11 +5,13 @@
 %% source: nedelni_zaltar
 %% page: 254
 
-m: \key c \major
+% Tento žalm má stejné texty veršů jako publikovaný OL621
+
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: bes'8 g f es4. d8 / c es f g f4 | r8 as g( f) / bes8 g g4 | r8 f as c / d4( bes) g2 ||
 t: Pomoc nám přijde od Hospodina, který učinil nebe i zemi.
 
 %% part: verse

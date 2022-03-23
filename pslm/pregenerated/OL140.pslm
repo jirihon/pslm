@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 149
 
-m: \key c \major
+m: \key bes \major
 
 %% part: responsum
 
-m: bB ||
+m: f'8 f d f | g a bes4 c | a8 g f2 ||
 t: Hospodine, ukaž nám svou jasnou tvář!
 
 %% part: verse
