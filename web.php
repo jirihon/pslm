@@ -15,15 +15,37 @@ define('PSLM_MAX_WIDTH', 732);
 
 $PSLM_AUTHORS = Yaml::parseFile(dirname(__FILE__).'/db/authors.yml');
 $PSLM_SOURCES = Yaml::parseFile(dirname(__FILE__).'/db/sources.yml');
+$PSLM_PSALMS = [];
 
 pslm_render_sizes_css();
 pslm_render_listing();
 pslm_update_pregenerated();
 pslm_render_index();
+pslm_save_occasions();
 
 
 if (file_exists('upload.sh')) {
     system('./upload.sh');
+}
+
+function pslm_save_occasions() {
+    global $PSLM_PSALMS;
+    $occasion_psalm = [];
+    foreach ($PSLM_PSALMS as $id => $psalm) {
+        $occasions = $psalm['opts']['occasion'];
+        if (!is_array($occasions)) {
+            $occasions = [$occasions];
+        }
+        foreach ($occasions as $occasion) {
+            $occasion = trim($occasion);
+            if (isset($occasion_psalm[$occasion])) {
+                $occasion_psalm[$occasion][] = $id;
+            } else {
+                $occasion_psalm[$occasion] = [$id];
+            }
+        }
+    }
+    file_put_contents(dirname(__FILE__).'/db/occasions.php', '<?php $occasion_psalm = '.var_export($occasion_psalm, true).';');
 }
 
 
