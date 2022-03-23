@@ -5,11 +5,13 @@
 %% source: nedelni_zaltar
 %% page: 185
 
-m: \key c \major
+% Tento žalm má stejné texty veršů jako publikovaný OL433
+
+m: \key d \major
 
 %% part: responsum
 
-m: bB ||
+m: a'8 b a fis r4 | d8 d4 d8 / g g g / g fis e | fis g a a a4 r ||
 t: Blaze lidu, který si Hospodin vyvolil za svůj majetek.
 
 %% part: verse
