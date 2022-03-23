@@ -1,0 +1,73 @@
+%% occasion: 'Ježíše Krista, nejvyššího a věčného kněze C'
+%% responsum_reference: 'Ž 23 (22),1'
+%% verse_reference: 'Ž 23 (22)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 194
+%% a: "ges'B as8 es ges_ f f2"
+%% b: "es8 bes'B c8 bes bes_ as as2"
+
+m: \key des \major
+
+%% part: responsum
+
+m: f'8 f es des f as as4 \breathe / as8 | bes c bes( as) as2 ||
+t: Hospodin je můj pastýř, nic nepostrádám.
+
+%% part: verse
+
+m: ges'B as8 es ges_ f f f2 |
+t: Hospodin je můj pastýř, nic nepostrádám,
+
+m: es8 bes'B c8 bes bes_ as as2 ||
+t: * dává mi prodlévat na svěžích pastvinách,
+
+%% part: verse
+
+m: ges'B as8 es ges_ f f f2 |
+t: vodí mě k vodám, kde si mohu odpočinout.
+
+m: es8 bes'B c8 bes bes_( as) as4 r ||
+t: * Občerstvuje mou duši.
+
+%% part: responsum_short
+
+m: f'8 f es des f as as4 \breathe / as8 | bes c bes( as) as4 ||
+t: Hospodin je můj pastýř, nic nepostrádám.
+
+%% part: verse
+
+m: r8 ges' as8 es ges_ f f2 |
+t: Prostíráš pro mě stůl
+
+m: es8 bes'8 c8 bes bes_ as as4 r ||
+t: * před zraky mých nepřátel,
+
+%% part: verse
+
+m: ges'B as8 es ges_ f f4 |
+t: hlavu mi mažeš olejem,
+
+m: es8( bes') c8 bes bes_ as as2 ||
+t: * má číše přetéká.
+
+%% use: responsum
+
+%% part: verse
+
+m: ges'B as8 es ges_ f f f2 |
+t: Štěstí a přízeň mě provázejí
+
+m: es8 bes'B c8 bes bes_ as as4 r ||
+t: * po všechny dny mého života,
+
+%% part: verse
+
+m: ges'B as8 es ges_( f) f4 r |
+t: přebývat smím v Hospodinově domě
+
+m: es8 bes'B c8 bes bes_( as) as4 r ||
+t: * na dlouhé, předlouhé časy.
+
+%% use: responsum
+
