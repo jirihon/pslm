@@ -1,0 +1,70 @@
+%% occasion: '19. neděle v mezidobí C'
+%% responsum_reference: 'Ž 33 (32),12b .'
+%% verse_reference: 'Ž 33 (32)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 237
+%% a: "b'B cis8 b b_ a a2"
+%% b: "gB a8 g fis_ e e2"
+
+m: \key d \major
+
+%% part: responsum
+
+m: a'8 b a fis r4 | d8 d4 d8 / g g g / g fis e | fis g a a a4 r ||
+t: Blaze lidu, který si Hospodin vyvolil za svůj majetek.
+
+%% part: verse
+
+m: b'B cis8 b b_ a a a4 r |
+t: Radujte se, spravedliví, z Hospodina,
+
+m: gB a8 g fis_ e e4 r ||
+t: * sluší se, aby ho dobří chválili.
+
+%% part: verse
+
+m: b'B cis8 b b_ a a4 r |
+t: Blaze národu, jehož Bohem je Hospodin,
+
+m: gB a8 g fis_ e e4 r ||
+t: * blaze lidu, který si vyvolil za svůj majetek.
+
+%% use: responsum
+
+%% part: verse
+
+m: b'B cis8 b b_( a) a2 |
+t: Hospodinovo oko bdí nad těmi, kdo se ho bojí,
+
+m: gB a8 g fis_( e) e4 r ||
+t: * nad těmi, kdo doufají v jeho milost,
+
+%% part: verse
+
+m: b'B cis8 b b_ a a4 r |
+t: aby jejich duše vyrval ze smrti,
+
+m: gB a8 g fis_ e e4 r ||
+t: * aby jim život zachoval za hladu.
+
+%% use: responsum
+
+%% part: verse
+
+m: b'B cis8 b b_ a a a4 r |
+t: Naše duše vyhlíží Hospodina,
+
+m: gB a8 g fis_ e e e4 ||
+t: * on sám je naše pomoc a štít.
+
+%% part: verse
+
+m: r8 b'8 bB cis8 b b_ a a2 |
+t: Ať spočine na nás, Hospodine, tvé milosrdenství,
+
+m: gB a8 g fis_( e) e4 r ||
+t: * jak doufáme v tebe.
+
+%% use: responsum
+

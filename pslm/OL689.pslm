@@ -1,0 +1,70 @@
+%% occasion: 'Středa 24. týdne 2'
+%% responsum_reference: 'Ž 33 (32),12b .'
+%% verse_reference: 'Ž 33 (32)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 298
+%% a: "b'B cis8 b b_ a a2"
+%% b: "gB a8 g fis_ e e2"
+
+m: \key d \major
+
+%% part: responsum
+
+m: a'8 b a fis r4 | d8 d4 d8 / g g g / g fis e | fis g a a a4 r ||
+t: Blaze lidu, který si Hospodin vyvolil za svůj majetek.
+
+%% part: verse
+
+m: b'B cis8 b b_ a a a4 r |
+t: Citerou oslavujte Hospodina,
+
+m: gB a8 g fis_( e) e4 r ||
+t: * hrajte mu na desetistrunné harfě.
+
+%% part: verse
+
+m: b'B cis8 b b_( a) a4 r |
+t: Zpívejte mu novou píseň,
+
+m: gB a8 g fis_ e e e4 r ||
+t: * dovedně sáhněte do strun, (+) slavnostně je rozezvučte!
+
+%% use: responsum
+
+%% part: verse
+
+m: b'B cis8 b b_( a) a2 |
+t: Neboť Hospodinovo slovo je správné,
+
+m: gB a8 g fis_( e) e4 r ||
+t: * spolehlivé je celé jeho dílo.
+
+%% part: verse
+
+m: b'B cis8 b b_( a) a4 r |
+t: Miluje spravedlnost a právo,
+
+m: gB a8 g fis_ e e4 r ||
+t: * země je plná Hospodinovy milosti.
+
+%% use: responsum
+
+%% part: verse
+
+m: b'B cis8 b b_ a a4 r |
+t: Blaze národu, jehož Bohem je Hospodin,
+
+m: gB a8 g fis_ e e4 ||
+t: * blaze lidu, který si vyvolil za svůj majetek.
+
+%% part: verse
+
+m: r8 b'8 bB cis8 b b_ a a2 |
+t: Ať spočine na nás, Hospodine, tvé milosrdenství,
+
+m: gB a8 g fis_( e) e4 r ||
+t: * jak doufáme v tebe.
+
+%% use: responsum
+

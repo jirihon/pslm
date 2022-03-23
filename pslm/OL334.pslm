@@ -1,0 +1,106 @@
+%% occasion: 'Při řeholních slibech (i v době velikonoční)'
+%% responsum_reference: 'Ž 33 (32),12b'
+%% verse_reference: 'Ž 33 (32)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 344
+%% a: "b'B cis8 b b_ a a2"
+%% b: "gB a8 g fis_ e e2"
+
+m: \key d \major
+
+%% part: responsum
+
+m: a'8 b a fis r4 | d8 d4 d8 / g g g / g fis e | fis g a a a4 r ||
+t: Blaze lidu, který si Hospodin vyvolil za svůj majetek.
+
+%% part: verse
+
+m: b'B cis8 b b_ a a a4 r |
+t: Citerou oslavujte Hospodina,
+
+m: gB a8 g fis_( e) e4 r ||
+t: * hrajte mu na desetistrunné harfě.
+
+%% part: verse
+
+m: b'B cis8 b b_( a) a4 r |
+t: Zpívejte mu novou píseň,
+
+m: gB a8 g fis_ e e e4 r ||
+t: * dovedně sáhněte do strun, (+) slavnostně je rozezvučte!
+
+%% use: responsum
+
+%% part: verse
+
+m: b'B cis8 b b_( a) a2 |
+t: Neboť Hospodinovo slovo je správné,
+
+m: gB a8 g fis_( e) e4 r ||
+t: * spolehlivé je celé jeho dílo.
+
+%% part: verse
+
+m: b'B cis8 b b_( a) a4 r |
+t: Miluje spravedlnost a právo,
+
+m: gB a8 g fis_ e e4 r ||
+t: * země je plná Hospodinovy milosti.
+
+%% use: responsum
+
+%% part: verse
+
+m: b'B cis8 b b_ a a4 r |
+t: Hospodinův úmysl trvá na věky,
+
+m: gB a8 g fis_ e e e2 ||
+t: * myšlenky jeho srdce po všechna pokolení.
+
+%% part: verse
+
+m: b'B cis8 b b_ a a4 r |
+t: Blaze národu, jehož Bohem je Hospodin,
+
+m: gB a8 g fis_ e e4 r ||
+t: * blaze lidu, který si vyvolil za svůj majetek.
+
+%% use: responsum
+
+%% part: verse
+
+m: b'B cis8 b b_ a a4 r |
+t: Z nebe shlíží Hospodin,
+
+m: gB a8 g fis_ e e e4 r ||
+t: * vidí všechny smrtelníky.
+
+%% part: verse
+
+m: b'B cis8 b b_ a a4 r |
+t: Z místa, kde sídlí, dívá se
+
+m: gB a8 g fis_( e) e4 r ||
+t: * na všechny obyvatele země.
+
+%% use: responsum
+
+%% part: verse
+
+m: b'B cis8 b b_( a) a2 |
+t: Hospodinovo oko bdí nad těmi, kdo se ho bojí,
+
+m: gB a8 g fis_( e) e4 r ||
+t: * nad těmi, kdo doufají v jeho milost,
+
+%% part: verse
+
+m: b'B cis8 b b_ a a4 r |
+t: aby jejich duše vyrval ze smrti,
+
+m: gB a8 g fis_ e e4 r ||
+t: * aby jim život zachoval za hladu.
+
+%% use: responsum
+
