@@ -117,10 +117,14 @@ function pslm_preprocessor($psalm) {
             $n_lyrics_syllables = count($lyrics_syllables);
 
             if ($n_note_syllables > $n_lyrics_syllables) {
-                // remove breve
-                $new_music = preg_replace('#([abcdefgis]+[,\']*)B #', '', $new_music);
-            } elseif ($n_note_syllables == $n_lyrics_syllables) {
                 // replace breve by eight note
+                $new_music = preg_replace('#([abcdefgis]+[,\']*)B #', '${1}8 ', $new_music);
+                // join first two notes by slur
+                $new_music = preg_replace('#^([abcdefgis]+[,\']*8?) ([abcdefgis]+[,\']*8?)#', '${1}( ${2}) ', $new_music);
+            } elseif ($n_note_syllables == $n_lyrics_syllables) {
+                // replace starting breve by eight rest and eight note
+                $new_music = preg_replace('#^([abcdefgis]+[,\']*)B #', 'r8 ${1} ', $new_music);
+                // replace non-starting breve by eight note
                 $new_music = preg_replace('#([abcdefgis]+[,\']*)B #', '${1}8 ', $new_music);
             }
             $psalm = str_replace($snippet, "m: $new_music $bar\nt: $text", $psalm);
