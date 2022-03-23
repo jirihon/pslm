@@ -5,6 +5,7 @@
 %% author: olejnik
 %% source: nedelni_zaltar
 %% page: 13
+%% double_breve: false
 
 m: \key f \major
 
@@ -15,7 +16,7 @@ t: Pane, Bože můj, k tobě pozvedám svou duši.
 
 %% part: verse
 
-m: bes'B c8 c a_ a a a4 r |
+m: bes'B c8 c a_ a a a4 |
 t: Ukaž mi své cesty, Hospodine,
 
 m: r8 g gB a8 e d_( c) c2 ||
