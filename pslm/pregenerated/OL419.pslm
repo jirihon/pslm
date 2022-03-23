@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 28
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: bes'8 c bes g f es4. d8 / c f f4.( g8) / as as / r as g f bes g~ g4 ||
 t: Hospodinova láska od věků pro ty, kdo se ho bojí.
 
 %% part: verse
