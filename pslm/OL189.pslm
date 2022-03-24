@@ -4,8 +4,8 @@
 %% author: olejnik
 %% source: nedelni_zaltar
 %% page: 198
-%% a: "as'B c8 c c bes_ bes bes2"
-%% b: "fB as8 as as g_ g g2"
+%% a: "as'B c8 c c bes8_ bes bes2"
+%% b: "fB as8 as as g8_ g g2"
 
 m: \key es \major
 
@@ -16,72 +16,72 @@ t: Hospodinova láska od věků pro ty, kdo se ho bojí.
 
 %% part: verse
 
-m: as'B c8 c c bes_ bes bes bes4 r |
+m: as'B cB*3 bes8_ bes bes bes4 r |
 t: Veleb, má duše, Hospodina,
 
-m: fB as8 as as as g4_ g r ||
+m: fB asB*4 g4_ g r ||
 t: * vše, co je ve mně, veleb jeho svaté jméno!
 
 %% part: verse
 
-m: as'B c8 c c bes_ bes bes bes4 |
+m: as'B cB*3 bes8_ bes bes bes4 |
 t: Veleb, má duše, Hospodina
 
-m: r8 f8 fB as8 as as as as g_ g g g2 ||
+m: r8 f8 fB asB*5 g8_ g g g2 ||
 t: * a nezapomeň na žádné z jeho dobrodiní!
 
 %% use: responsum
 
 %% part: verse
 
-m: r8 as'8 asB c8 c c bes8_ bes r4 |
+m: r8 as'8 asB cB*3 bes8_ bes r4 |
 t: On odpouští všechny tvé viny,
 
-m: r8 f8 fB as8 as as g_ g g4 ||
+m: r8 f8 fB asB*3 g8_ g g4 ||
 t: * on léčí všechny tvé neduhy.
 
 %% part: verse
 
-m: r8 as'8 asB c8 c c bes_ bes bes bes4 r |
+m: r8 as'8 asB cB*3 bes8_ bes bes bes4 r |
 t: On vykupuje tvůj život ze záhuby,
 
-m: fB as8 as as g_ g g g2 ||
+m: fB asB*3 g8_ g g g2 ||
 t: * on tě věnčí láskou a slitováním.
 
 %% use: responsum
 
 %% part: verse
 
-m: as'B c8 c c c bes8_ bes r4 |
+m: as'B cB*4 bes8_ bes r4 |
 t: Hospodin koná spravedlivé skutky,
 
-m: fB as8 as as g_ g g g2 ||
+m: fB asB*3 g8_ g g g2 ||
 t: * zjednává právo všem utlačeným.
 
 %% part: verse
 
-m: as'B c8 c bes_ bes bes bes4 r |
+m: as'B cB*2 bes8_ bes bes bes4 r |
 t: Oznámil své plány Mojžíšovi,
 
-m: fB as8 as as g8_ g r4 ||
+m: fB asB*3 g8_ g r4 ||
 t: * izraelským synům své skutky.
 
 %% use: responsum
 
 %% part: verse
 
-m: as'B c8 c c c c bes_ bes bes bes2 |
+m: as'B cB*5 bes8_ bes bes bes2 |
 t: Hospodin je milosrdný a milostivý,
 
-m: fB as8 as as g_ g g g2 ||
+m: fB asB*3 g8_ g g g2 ||
 t: * shovívavý a nadmíru dobrotivý.
 
 %% part: verse
 
-m: as'B c8 c c c bes4_ bes2 |
+m: as'B cB*4 bes4_ bes2 |
 t: Nejedná s námi podle našich hříchů
 
-m: fB as8 as as as g_ g g g2 ||
+m: fB asB*4 g8_ g g g2 ||
 t: * ani podle našich vin nám neodplácí.
 
 %% use: responsum

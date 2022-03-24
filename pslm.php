@@ -299,7 +299,7 @@ function pslm_parse_psalm($psalm) {
                 $text = implode(' ', $text);
                 $original_music = $music;
                 $original_text = $text;
-                list($music, $text) = pslm_process_snippet($music, $text, isset($opts['double_breve']) ? $opts['double_breve'] : true);
+                list($music, $text) = pslm_process_snippet($music, $text);
                 
                 if (!empty($part)) {
                     $psalm['music'][$part][] = $music;
@@ -366,11 +366,19 @@ function pslm_parse_psalm($psalm) {
 }
 
 
-function pslm_process_snippet($music, $text, $double_breve) {
+function pslm_process_snippet($music, $text) {
     $music_tokens = pslm_parse_music($music);
     $note_syllables = pslm_note_syllables($music_tokens);
-    $n_note_syllables = count($note_syllables);
 
+    $n_note_syllables = 0;
+    foreach ($note_syllables as $token) {
+        if ($token[0] == PSLM_TOKEN_NOTE_SYLLABLE) {
+            ++$n_note_syllables;
+            if (preg_match('#\\\\breve\*(\d+)#', $token[1], $m)) {
+                $n_note_syllables += intval($m[1]) - 1;
+            }
+        }
+    }
     $text = pslm_text_to_lyrics($text);
     $text_tokens = pslm_parse_lyrics($text);
 
@@ -421,12 +429,25 @@ function pslm_process_snippet($music, $text, $double_breve) {
 
     $n_notes_to_add = $n_text_syllables - $n_note_syllables;
 
+    preg_match_all('#([^\s]+)\\\\breve\*(\d+)#', $music, $matches, PREG_SET_ORDER);
+    foreach ($matches as $m) {
+        $extra_breves = str_repeat('\breve*1/16 \bar "" ', intval($m[2]) - 1);
+        $music = str_replace(
+            $m[0],
+            sprintf('%s\breve*1/16 \hideNotes %s\unHideNotes', $m[1], $extra_breves),
+            $music
+        );
+    }
+
+    preg_match_all('#\\\\breve(?!\*\d+)#', $music, $m, PREG_SET_ORDER);
+    if (count($m) > 1) {
+        echo "ERROR: More than one automatic breve in a piece of music.\n";
+    }
     if ($n_notes_to_add > 0) {
-        $breve = '\breve*1/16';
-        $extra_breves = str_repeat(sprintf('%s \bar "" ', $breve), $n_notes_to_add);
+        $extra_breves = str_repeat('\breve*1/16 \bar "" ', $n_notes_to_add);
         $music = preg_replace(
-            '#([^\s]+)\\\\breve#',
-            sprintf('\1%s \hideNotes %s\unHideNotes', $breve, $extra_breves),
+            '#([^\s]+)\\\\breve(?!\*\d+)#',
+            sprintf('\1\breve*1/16 \hideNotes %s\unHideNotes', $extra_breves),
             $music
         );
     } elseif ($n_notes_to_add < 0) {
@@ -577,12 +598,6 @@ function pslm_parse_music($music) {
         //'#_#' => '\verseAccent',
     ];
     $music = preg_replace(array_keys($shortcuts), array_values($shortcuts), $music);
-
-    preg_match_all('#\\\\breve#', $music, $m);
-    if (count($m[0]) > 1) {
-        echo "ERROR: More than one breve in a piece of music.\n";
-        return [];
-    }
     $music = trim($music);
     $events = preg_split('#\s+#', $music);
     $tokens = [];
