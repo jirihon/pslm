@@ -433,6 +433,7 @@ function pslm_process_snippet($music, $text, $double_breve) {
         $n_syllabels_to_add = -$n_notes_to_add;
         $text .= sprintf(' \repeat unfold %d { \skip 1 }', $n_syllabels_to_add);
     }
+    /*
     if ($double_breve && preg_match('#\\\\unHideNotes +([abcdefgis]+)[,\']*8( +\1)+[24]?#', $music, $m)) {
         $n_breves = count(preg_split('#\s+#', $m[0])) - 1;
         $breve = '\breve*1/16';
@@ -443,6 +444,7 @@ function pslm_process_snippet($music, $text, $double_breve) {
             $music
         );
     }
+    */
     $music = str_replace('\bar "||"', '\bar "||" \break', $music);
     $text = str_replace('*', '\set stanza = \markup { \lower #0.65 \larger "*" }', $text);
     return [$music, $text];
