@@ -313,6 +313,7 @@
     0 => 'OL50',
     1 => 'OL90',
     2 => 'OL128',
+    3 => 'OL196',
   ),
   'Matky Boží, Panny Marie (1. ledna)' => 
   array (
@@ -622,6 +623,7 @@
     0 => 'OL95',
     1 => 'OL96',
     2 => 'OL101',
+    3 => 'OL190',
   ),
   'O svatých (v době velikonoční)' => 
   array (
@@ -1109,9 +1111,33 @@
   array (
     0 => 'OL189',
   ),
+  '2. neděle v mezidobí AB' => 
+  array (
+    0 => 'OL190',
+  ),
+  '2. neděle v mezidobí C' => 
+  array (
+    0 => 'OL191',
+  ),
+  '4. neděle v mezidobí A' => 
+  array (
+    0 => 'OL192',
+  ),
+  '5. neděle v mezidobí A' => 
+  array (
+    0 => 'OL193',
+  ),
   '5. neděle v mezidobí C' => 
   array (
     0 => 'OL194',
+  ),
+  '6. neděle v mezidobí A' => 
+  array (
+    0 => 'OL195',
+  ),
+  '6. neděle v mezidobí B' => 
+  array (
+    0 => 'OL196',
   ),
   '7. neděle v mezidobí AC' => 
   array (

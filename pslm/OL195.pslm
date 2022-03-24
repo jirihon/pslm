@@ -1,0 +1,91 @@
+%% occasion: '6. neděle v mezidobí A'
+%% responsum_reference: 'Ž 119 (118),1'
+%% verse_reference: 'Ž 119 (118)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 204
+%% a: "as'B bes8 c c_ bes bes2"
+%% b: "fB es8 f as_ g g2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: bes'8 c bes as g4 f8 es / c4 d8 es / f es f g f4 r ||
+t: Blaze těm, kdo kráčejí v zákoně Hospodinově.
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes2 |
+t: Blaze těm, jejichž cesta je bezúhonná,
+
+m: fB es8 f as_ g g4 r ||
+t: * kteří kráčejí v zákoně Hospodinově.
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes2 |
+t: Blaze těm, kdo dbají na jeho přikázání,
+
+m: fB es8 f as_( g) g4 r ||
+t: * hledají ho celým srdcem.
+
+%% part: responsum_short
+
+m: bes'8 c bes as g4 f8 es / c4 d8 es / f es f g f4 ||
+t: Blaze těm, kdo kráčejí v zákoně Hospodinově.
+
+%% part: verse
+
+m: r8 as'8 asB bes8 c c_ bes bes bes2 |
+t: Tys, Hospodine, dal svá nařízení,
+
+m: fB es8 f as_ g g g4 r ||
+t: * aby se jich dbalo svědomitě.
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 r |
+t: Kéž jsou pevné mé cesty,
+
+m: fB es8 f as_ g g4 r ||
+t: * abych zachovával tvé příkazy.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes4 |
+t: Prokaž dobro svému služebníku, abych byl živ
+
+m: r8 f8 fB es8 f as_( g) g4 r ||
+t: * a zachovával tvé slovo.
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 |
+t: Otevři mé oči,
+
+m: r8 f8 fB es8 f as_ g g4 r ||
+t: * ať pozoruji divy tvého zákona.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes4 |
+t: Ukaž mi, Hospodine, cestu svých příkazů,
+
+m: r8 f8 fB es8 f as_ g g g4 r ||
+t: * a budu ji věrně zachovávat.
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 |
+t: Pouč mě, ať zachovám tvůj zákon
+
+m: r8 f8 fB es8 f as_( g) g4 r ||
+t: * a chráním ho celým svým srdcem.
+
+%% use: responsum
+

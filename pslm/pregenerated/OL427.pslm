@@ -6,11 +6,11 @@
 %% source: vsedni_zaltar
 %% page: 36
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: c'4 es f8 g f es | c c f g as as f4 | bes8 g4 g8 g4 r ||
 t: Tys mé útočiště, zahrneš mě radostí ze záchrany.
 
 %% part: verse

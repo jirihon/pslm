@@ -1,0 +1,71 @@
+%% occasion: '5. neděle v mezidobí A'
+%% responsum_reference: 'Ž 112 (111),4a'
+%% verse_reference: 'Ž 112 (111)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 202
+%% comment: 'Jako responsum je možné zpívat také Aleluja, aleluja'
+%% a: "c''B c8_ bes bes2"
+%% b: "asB g8_ f f2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: es'8 bes es f g4 es as8 g f2 | g8 as bes4 bes r4 ||
+t: Spravedlivý září v temnotách jako světlo.
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 |
+t: Spravedlivý září v temnotách jako světlo řádným lidem,
+
+m: r8 as8 asB g8_ f f f2 ||
+t: * je milosrdný, dobrotivý a spravedlivý.
+
+%% part: verse
+
+m: c''B c8_ bes bes4 r |
+t: Blaze muži, který se slitovává a půjčuje,
+
+m: asB g8_( f) f4 r ||
+t: * stará se o své věci podle práva.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_ bes bes2 |
+t: Neboť na věky nezakolísá,
+
+m: asB g8_ f f f2 ||
+t: * ve věčné paměti bude spravedlivý.
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 r |
+t: Nemusí se obávat zlé zprávy,
+
+m: asB g8_ f f f4 r ||
+t: * jeho srdce je pevné, důvěřuje v Hospodina.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_ bes bes bes4 r |
+t: Jeho srdce je zmužilé, nebojí se,
+
+m: asB g8_( f) f2 ||
+t: * rozděluje, dává chudým,
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 r |
+t: jeho štědrost potrvá navždy,
+
+m: asB g8_( f) f4 r ||
+t: * jeho moc poroste v slávě.
+
+%% use: responsum
+

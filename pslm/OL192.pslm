@@ -1,71 +1,72 @@
-%% occasion: '23. neděle v mezidobí B'
-%% occasion: '26. neděle v mezidobí C'
-%% occasion: '32. neděle v mezidobí B'
-%% responsum_reference: 'Ž 146 (145),1b'
+%% occasion: '4. neděle v mezidobí A'
+%% responsum_reference: 'Mt 5,3'
 %% verse_reference: 'Ž 146 (145)'
 %% author: olejnik
 %% source: nedelni_zaltar
-%% page: 243
+%% page: 201
+%% comment: 'Jako responsum je možné zpívat také Aleluja, aleluja'
+%% a: "c''B c8_ bes bes2"
+%% b: "asB g8_ f f2"
 
-% Tento žalm má stejné texty veršů jako publikovaný OL21, OL192
+% Tento žalm má stejné texty veršů jako publikovaný OL21
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
-t: Duše má, chval Hospodina!
+m: g'8 as g f es c es~ es4 / f8 f r4 | f8 g as as as / as g as / bes g g2 ||
+t: Blahoslavení chudí v duchu, neboť jejich je království nebeské.
 
 %% part: verse
 
-m: aB |
+m: c''B c8_ bes bes4 r |
 t: Hospodin zachovává věrnost na věky,
 
-m: bB ||
+m: asB g8_ f f f2 ||
 t: * zjednává právo utlačeným,
 
 %% part: verse
 
-m: aB |
+m: c''B c8_( bes) bes2 |
 t: dává chléb lačným.
 
-m: bB ||
+m: asB g8_( f) f4 r ||
 t: * Hospodin vysvobozuje vězně.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B c8_( bes) bes2 |
 t: Hospodin otvírá oči slepým,
 
-m: bB ||
+m: asB g8_ f f2 ||
 t: * Hospodin napřimuje sklíčené,
 
 %% part: verse
 
-m: aB |
+m: c''B c8_ bes bes bes2 |
 t: Hospodin miluje spravedlivé,
 
-m: bB ||
+m: asB g8_ f f4 r ||
 t: * Hospodin chrání přistěhovalce.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B c8_( bes) bes4 r |
 t: Hospodin podporuje sirotka a vdovu,
 
-m: bB ||
+m: asB g8_ f f f2 ||
 t: * ale mate cestu bezbožníků.
 
 %% part: verse
 
-m: aB |
+m: c''B c8_ bes bes4 r |
 t: Hospodin bude vládnout na věky,
 
-m: bB ||
+m: asB g8_ f f f2 ||
 t: * tvůj Bůh, Sióne, po všechna pokolení.
 
 %% use: responsum
