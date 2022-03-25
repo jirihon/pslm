@@ -120,7 +120,7 @@ function pslm_preprocessor($psalm) {
                 // replace breve by eight note
                 $new_music = preg_replace('#([abcdefgis]+[,\']*)B #', '${1}8 ', $new_music);
                 // join first two notes by slur
-                $new_music = preg_replace('#^([abcdefgis]+[,\']*8?) ([abcdefgis]+[,\']*8?)#', '${1}( ${2}) ', $new_music);
+                $new_music = preg_replace('#^([abcdefgis]+[,\']*8?) ([abcdefgis]+[,\']*8?) #', '${1}( ${2}) ', $new_music);
             } elseif ($n_note_syllables == $n_lyrics_syllables) {
                 // replace starting breve by eight rest and eight note
                 $new_music = preg_replace('#^([abcdefgis]+[,\']*)B #', 'r8 ${1} ', $new_music);
