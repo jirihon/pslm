@@ -93,7 +93,7 @@ function pslm_preprocessor($psalm) {
                     }
                 }
             } elseif ($syllable_counts[$last_word_i] == $notes_after_accent + 1) {
-                $notes[$last_note_i - 1] .= ' '.$notes[$last_note_i - 1];
+                $notes[$last_note_i - 1] .= ' '.preg_replace('#[,\']+#', '', $notes[$last_note_i - 1]);
             }
 
             if (!pslm_is_long_syllable($lyrics_tokens[count($lyrics_tokens) - 1][1])) {
