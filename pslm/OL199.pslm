@@ -1,0 +1,70 @@
+%% occasion: '7. neděle v mezidobí B'
+%% responsum_reference: 'Ž 41 (40),5b'
+%% verse_reference: 'Ž 41 (40)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 208
+%% a: "c'B f8 e e_ d d2"
+%% b: "dB e8 f g_ e e2"
+
+m: \key c \major
+
+%% part: responsum
+
+m: c''8 b a d b4 | a8 g f / e f g( e) c4 ||
+t: Uzdrav mě, Pane, zhřešil jsem proti tobě.
+
+%% part: verse
+
+m: c'B f8 e e_ d d d4 r |
+t: Blaze tomu, kdo si všímá chudáka a ubožáka,
+
+m: dB e8 f g_( e) e4 r ||
+t: * za to ho vysvobodí Hospodin v nouzi.
+
+%% part: verse
+
+m: c'B f8 e e_ d d4 r |
+t: Hospodin ho bude chránit, (+) zachová ho naživu, 
+
+m: dB e8 f g_ e e4 r ||
+t: * učiní ho šťastným na zemi, (+) nevydá ho zvůli jeho nepřátel.
+
+%% use: responsum
+
+%% part: verse
+
+m: c'B f8 e e_( d) d4 r |
+t: Hospodin mu pomůže na bolestném lůžku,
+
+m: dB e8 f g_( e) e4 r ||
+t: * v nemoci sejme z něho veškerou slabost.
+
+%% part: verse
+
+m: c'B f8 e e_ d d2 |
+t: Volám: Hospodine, smiluj se nade mnou,
+
+m: dB e8 f g_( e) e4 r ||
+t: * uzdrav mě, zhřešil jsem proti tobě.
+
+%% use: responsum
+
+%% part: verse
+
+m: c'B f8 e e_ d d d4 r |
+t: Mne však zachováš bez úhony,
+
+m: dB e8 f g_ e e2 ||
+t: * na věky mě postavíš před svou tvář.
+
+%% part: verse
+
+m: c'B f8 e e_ d d d4 r |
+t: Požehnaný Hospodin, Bůh Izraele,
+
+m: dB e8 f g_ e e4 r ||
+t: * od věků až na věky!
+
+%% use: responsum
+

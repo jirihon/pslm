@@ -1,0 +1,70 @@
+%% occasion: '10. neděle v mezidobí A'
+%% responsum_reference: 'Ž 50 (49),23b'
+%% verse_reference: 'Ž 50 (49)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 213
+%% a: "c''B c8_ bes bes2"
+%% b: "asB g8_ f f2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: r8 g' es f g4 es | f8 g / as g4 f8 / g as / bes4 bes r ||
+t: Kdo žije správně, tomu ukážu Boží spásu.
+
+%% part: verse
+
+m: c''B c8_ bes bes4 r |
+t: Svrchovaný Bůh, Hospodin, promluvil a volal zem
+
+m: asB g8_ f f4 r ||
+t: * od východu slunce až na západ.
+
+%% part: verse
+
+m: c''B c8_ bes bes4 r |
+t: „Nekárám tě pro tvé oběti,
+
+m: asB g8_ f f2 ||
+t: * vždyť tvé žertvy jsou stále přede mnou.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 |
+t: Kdybych měl hlad, nebudu ti o tom říkat,
+
+m: r8 as asB g8_( f) f2 ||
+t: * vždyť můj je svět se vším, co ho plní!
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 |
+t: Copak požívám maso z býků
+
+m: r8 as8 asB g8_ f f4 r ||
+t: * či piji kozlí krev?
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 r |
+t: Přinášej Bohu oběť chvály
+
+m: asB g8_( f) f4 r ||
+t: * a plň Nejvyššímu své sliby!
+
+%% part: verse
+
+m: c''B c8_ bes bes2 |
+t: Pak mě vzývej ve dni soužení,
+
+m: asB g8_( f) f4 r ||
+t: * vysvobodím tě, a budeš mě chválit.“
+
+%% use: responsum
+

@@ -12,11 +12,11 @@
 %% source: nedelni_zaltar
 %% page: 154
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: c'8 f g a4 f8 / bes a g | c d c f, a4( g2) ||
 t: (v době velikonoční)
 
 %% part: verse

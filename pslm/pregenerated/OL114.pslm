@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 123
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: es'8 f g as g f f4 r8 | f f4 / f8 g as / bes4. g4 r8 ||
 t: Vyslyš mě, Hospodine, ve své veliké lásce!
 
 %% part: verse

@@ -9,6 +9,8 @@
     0 => 'OL1',
     1 => 'OL2',
     2 => 'OL76',
+    3 => 'OL208',
+    4 => 'OL209',
   ),
   '1. neděle adventní B' => 
   array (
@@ -314,6 +316,8 @@
     1 => 'OL90',
     2 => 'OL128',
     3 => 'OL196',
+    4 => 'OL208',
+    5 => 'OL209',
   ),
   'Matky Boží, Panny Marie (1. ledna)' => 
   array (
@@ -1142,10 +1146,20 @@
   '7. neděle v mezidobí AC' => 
   array (
     0 => 'OL197',
+    1 => 'OL198',
   ),
   '8. neděle v mezidobí B' => 
   array (
     0 => 'OL197',
+    1 => 'OL198',
+  ),
+  '7. neděle v mezidobí B' => 
+  array (
+    0 => 'OL199',
+  ),
+  '8. neděle v mezidobí A' => 
+  array (
+    0 => 'OL200',
   ),
   '8. neděle v mezidobí C' => 
   array (
@@ -1154,6 +1168,50 @@
   '11. neděle v mezidobí B' => 
   array (
     0 => 'OL201',
+  ),
+  '9. neděle v mezidobí A' => 
+  array (
+    0 => 'OL202',
+  ),
+  '9. neděle v mezidobí B' => 
+  array (
+    0 => 'OL203',
+  ),
+  '10. neděle v mezidobí A' => 
+  array (
+    0 => 'OL204',
+  ),
+  '11. neděle v mezidobí C' => 
+  array (
+    0 => 'OL205',
+  ),
+  '12. neděle v mezidobí A' => 
+  array (
+    0 => 'OL206',
+  ),
+  '12. neděle v mezidobí B' => 
+  array (
+    0 => 'OL207',
+  ),
+  '12. neděle v mezidobí C' => 
+  array (
+    0 => 'OL208',
+    1 => 'OL209',
+  ),
+  '22. neděle v mezidobí A' => 
+  array (
+    0 => 'OL208',
+    1 => 'OL209',
+  ),
+  'Sv. Marie Magdalény (22. července)' => 
+  array (
+    0 => 'OL208',
+    1 => 'OL209',
+  ),
+  'Při řeholních slibech' => 
+  array (
+    0 => 'OL208',
+    1 => 'OL209',
   ),
   '19. neděle v mezidobí C' => 
   array (

@@ -1,0 +1,66 @@
+%% occasion: '9. neděle v mezidobí A'
+%% responsum_reference: 'Ž 31 (30),3b'
+%% verse_reference: 'Ž 31 (30)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 211
+%% a: "f'8 c'B des8_ as as2"
+%% b: "asB bes8_ bes bes2"
+%% c: "gB g8_ g g2"
+%% d: "fB d8_ c d d2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: g'4 es as8 g f f / r f g as bes2 g ||
+t: Buď mi, Hospodine, ochrannou skálou!
+
+%% part: verse
+
+m: f'8 c'B des8_ as as4 r |
+t: K tobě se utíkám, Hospodine, (+) ať nejsem zahanben navěky,
+
+m: asB bes8_ bes bes bes2 |
+t: * vysvoboď mě, jsi spravedlivý!
+
+m: gB g8_ g r4 |
+t: * Popřej mi sluchu,
+
+m: fB d8_( c d) d4 r ||
+t: * rychle mě zachraň!
+
+%% use: responsum
+
+%% part: verse
+
+m: f'8 c'B des8_( as) as2 |
+t: Buď mi ochrannou skálou,
+
+m: asB bes8_ bes bes4 r |
+t: * opevněnou tvrzí k mé záchraně,
+
+m: gB g8_ g g4 r |
+t: * vždyť ty jsi má skála a má tvrz,
+
+m: fB d8_( c d) d4 r ||
+t: * pro své jméno mě povedeš a budeš řídit.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'8( c'8) cB des8_ as as as4 r |
+t: Svou jasnou tvář ukaž svému služebníku,
+
+m: asB bes8_ bes bes bes2 |
+t: * zachraň mě svou slitovností.
+
+m: gB g8_ g g2 |
+t: * Vzmužte se a buďte srdnatí,
+
+m: fB d8_ c d d d4 r ||
+t: * všichni, kdo spoléháte na Hospodina.
+
+%% use: responsum
+

@@ -1,0 +1,93 @@
+%% occasion: '12. neděle v mezidobí C'
+%% occasion: '22. neděle v mezidobí A'
+%% occasion: 'Sv. Marie Magdalény (22. července)'
+%% occasion: 'Při křtu dospělých'
+%% occasion: 'Při řeholních slibech'
+%% occasion: 'Za zemřelé / Při pohřbu (v době velikonoční)'
+%% responsum_reference: 'Ž 63 (62),2b'
+%% verse_reference: 'Ž 63 (62)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 218
+%% a: "as'B besB*2 g8_ g g2"
+%% b: "fB esB*2 g8_ g g2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: bes'4 g8 bes c bes g / es4. d8 | c c d es / g f f2 ||
+t: Má duše po tobě žízní, Hospodine, Bože můj!
+
+%% part: verse
+
+m: as'B besB*2 g4_ g4 |
+t: Bože, ty jsi můj Bůh,
+
+m: r8 f esB*2 g8_ g4. ||
+t: * snažně tě hledám,
+
+%% part: verse
+
+m: r8 as'8 asB besB*2 g8_ g g4 |
+t: má duše po tobě žízní, (+) mé tělo prahne po tobě
+
+m: r8 f8 fB esB*3 g8_ g r4 ||
+t: * jak vyprahlá, žíznivá, bezvodá země.
+
+%% part: responsum_short
+
+m: bes'4 g8 bes c bes g / es4. d8 | c c d es / g f f4 ||
+t: Má duše po tobě žízní, Hospodine, Bože můj!
+
+%% part: verse
+
+m: r8 as'8 asB besB*3 g8_ g g g4 r |
+t: Tak toužím spatřit tě ve svatyni,
+
+m: fB esB*2 g4_ g r ||
+t: * abych viděl tvou moc a slávu.
+
+%% part: verse
+
+m: as'B besB*3 g8_ g r4 |
+t: Vždyť tvá milost je lepší než život,
+
+m: fB esB*2 g4_ g r ||
+t: * mé rty tě budou chválit.
+
+%% part: verse
+
+m: as'B besB*2 g8_ g g4 r |
+t: Tak tě budu velebit ve svém životě,
+
+m: fB esB*2 g8_ g g4 ||
+t: * v tvém jménu povznesu své dlaně k modlitbě.
+
+%% part: verse
+
+m: r8 as'8 asB besB*3 g8_ g r4 |
+t: Má duše se bude sytit jak tukem a morkem,
+
+m: fB esB*4 g4_ g r ||
+t: * plesajícími rty zajásají ústa.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B besB*3 g8_ g g g4 |
+t: Neboť stal ses mým pomocníkem
+
+m: r8 f8 fB esB*2 g4_ g4 ||
+t: * a ve stínu tvých křídel jásám.
+
+%% part: verse
+
+m: r8 as'8 besB*3 g8_ g r4 |
+t: Má duše lne k tobě,
+
+m: r8 f8 fB esB*2 g8_ g g2 ||
+t: * tvá pravice mě podpírá.
+
+%% use: responsum

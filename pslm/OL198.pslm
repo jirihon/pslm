@@ -4,85 +4,90 @@
 %% verse_reference: 'Ž 103 (102)'
 %% author: olejnik
 %% source: nedelni_zaltar
-%% page: 206
+%% page: 207
+%% a: "f'8 c'B b8 a b_ e, e2"
+%% b: "d8 a'B g8 f e_ d d2"
 
-% Tento žalm má stejné texty veršů jako publikovaný OL198
+% Tento žalm má stejné texty veršů jako publikovaný OL197
 
-m: \key es \major
+m: \key c \major
 
 %% part: responsum
 
-m: g'8 g f4 es | \tuplet 3/2 { as8[ as g] } f2 \breathe / bes,4 | \tuplet 3/2 {bes'8[ bes as] } g2  ||
-t: Hospodin je milosrdný a milostivý.
+m: c'4 e \tuplet 3/2 { a8[ f e] } d4. \breathe / a'8 \tuplet 3/2 { b[ g f] } e2 ||
+t: Pán je milosrdný a milostivý.
 
 %% part: verse
 
-m: aB |
+m: f'8 c'B b8 a b_ e, e e4 r |
 t: Veleb, má duše, Hospodina,
 
-m: bB ||
+m: d8 a'B g8 f e_( d) d4 r ||
 t: * vše, co je ve mně, veleb jeho svaté jméno!
 
 %% part: verse
 
-m: aB |
+m: f'8 c'B b8 a b_ e, e e4 |
 t: Veleb, má duše, Hospodina
 
-m: bB ||
+m: r8 d8 a'B g8 f e_ d d d2 ||
 t: * a nezapomeň na žádné z jeho dobrodiní!
 
-%% use: responsum
+%% part: responsum_short
+
+m: c'4 e \tuplet 3/2 { a8[ f e] } d4. \breathe / a'8 \tuplet 3/2 { b[ g f] } e4 ||
+t: Pán je milosrdný a milostivý.
 
 %% part: verse
 
-m: aB |
+m: r8 f'8 c'B b8 a b_( e,) e4 |
 t: On odpouští všechny tvé viny,
 
-m: bB ||
+m: r8 d8 a'B g8 f e_ d d4 ||
 t: * on léčí všechny tvé neduhy.
 
 %% part: verse
 
-m: aB |
+m: r8 f'8 c'B b8 a b_ e, e e4 r |
 t: On vykupuje tvůj život ze záhuby,
 
-m: bB ||
+m: d8 a'B g8 f e_ d d d2 ||
 t: * on tě věnčí láskou a slitováním.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: f'8 c'B b8 a b_ e, e e2 |
 t: Hospodin je milosrdný a milostivý,
 
-m: bB ||
+m: d8 a'B g8 f e_ d d d2 ||
 t: * shovívavý a nadmíru dobrotivý.
 
 %% part: verse
 
-m: aB |
+m: f'8 c'B b8 a b_( e,) e2 |
 t: Nejedná s námi podle našich hříchů
 
-m: bB ||
+m: d8 a'B g8 f e_ d d d2 ||
 t: * ani podle našich vin nám neodplácí.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: f'8 c'B b8 a b_ e, e e4 |
 t: Jako je vzdálen východ od západu,
 
-m: bB ||
+m: r8 d8 a'B g8 f e_ d d d4 r ||
 t: * tak vzdaluje od nás naše nepravosti.
 
 %% part: verse
 
-m: aB |
+m: f'8 c'B b8 a b_ e, e4 r |
 t: Jako se smilovává otec nad syny,
 
-m: bB ||
+m: d8 a'B g8 f e_( d) d2 ||
 t: * tak se smilovává Hospodin nad těmi, kdo se ho bojí.
 
 %% use: responsum
