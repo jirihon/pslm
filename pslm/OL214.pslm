@@ -1,0 +1,70 @@
+%% occasion: '14. neděle v mezidobí B'
+%% responsum_reference: 'Ž 123 (122),2cd'
+%% verse_reference: 'Ž 123 (122)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 223
+%% a: "as'B bes8 c c_ bes bes2"
+%% b: "fB es8 f as_ g g2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: es'8 es f g as f~ f4 | g8 f g bes bes4 r | r8 as c d es es4 c8 | d bes g g4 r ||
+t: Naše oči hledí na Hospodina, dokud se nad námi nesmiluje.
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 r |
+t: Zvedám své oči k tobě,
+
+m: fB es8 f as_ g g4 ||
+t: * který trůníš na nebi.
+
+%% part: verse
+
+m: r8 as'8 asB bes8 c c_( bes) bes2 |
+t: Hle, jako oči služebníků hledí
+
+m: fB es8 f as_( g) g2 ||
+t: * na ruce svých pánů.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes2 |
+t: Jako oči služebnice hledí
+
+m: fB es8 f as_( g) g4 ||
+t: * na ruce své paní,
+
+%% part: verse
+
+m: r8 as'8 asB bes8 c c_( bes) bes4 r |
+t: tak hledí naše oči na Hospodina, našeho Boha,
+
+m: fB es8 f as_ g g g4 r ||
+t: * dokud se nad námi nesmiluje.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes4 r |
+t: Smiluj se nad námi, Hospodine, smiluj se nad námi,
+
+m: fB es8 f as_ g g2 ||
+t: * neboť jsme přesyceni pohanou.
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 r |
+t: Přesycena je naše duše
+
+m: fB es8 f as_( g) g2 ||
+t: * výsměchem boháčů, pohanou pyšných.
+
+%% use: responsum
+

@@ -1,9 +1,11 @@
-%% occasion: 'Čtvrtek 10. týdne 2'
-%% responsum_reference: 'Lk 8,8 . R'
+%% occasion: '15. neděle v mezidobí A'
+%% responsum_reference: 'Lk 8,8'
 %% verse_reference: 'Ž 65 (64)'
 %% author: olejnik
-%% source: vsedni_zaltar
-%% page: 233
+%% source: nedelni_zaltar
+%% page: 224
+%% a: "c''B d8_ bes g g2"
+%% b: "fB bes8_ g es es2"
 
 m: \key es \major
 
@@ -14,55 +16,65 @@ t: Semeno padlo na dobrou půdu a přineslo užitek.
 
 %% part: verse
 
-m: aB |
+m: c''B d8_ bes g g4 r |
 t: V milosti jsi navštívil zem a napojils ji,
 
-m: bB ||
+m: fB bes8_ g es es4 r ||
 t: * velmi jsi ji obohatil.
 
 %% part: verse
 
-m: aB |
+m: c''B d8_( bes g) g4 r |
 t: Boží strouhou se hrne voda,
 
-m: bB ||
+m: fB bes8_( g) es es2 ||
 t: * lidem nachystals obilí.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B d8_( bes) g g4 r |
 t: Takto jsi zemi připravil:
 
-m: bB ||
+m: fB bes8_( g es) es4 r ||
 t: * zavlažils její brázdy, + rozmělnils její hroudy,
 
 %% part: verse
 
-m: aB |
+m: c''B d8_( bes g) g4 r |
 t: zkypřils ji dešti,
 
-m: bB ||
+m: fB bes8_ g es es4 r ||
 t: * požehnals tomu, co vyrašilo.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B d8_( bes) g g2 |
 t: Rok jsi korunoval svou dobrotou,
 
-m: bB ||
+m: fB bes8_( g es) es4 r ||
 t: * kudy jsi prošel, prýští hojnost.
 
 %% part: verse
 
-m: aB |
+m: c''B d8_( bes g) g2 |
 t: Pastviny na stepi mokvají vláhou,
 
-m: bB ||
+m: fB bes8_( g) es es2 ||
 t: * pahorky se ovíjejí radostí.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B d8_( bes g) g4 r |
+t: Nivy se odívají stády,
+
+m: fB bes8_( g es) es4 r ||
+t: * údolí se přikrývají obilím: + ozývají se jásotem a zpěvem.
 
 %% use: responsum
 

@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 251
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: bes8 bes | f' es d es as2 f8 \breathe / f g as | bes2( g4) g~ g8 r ||
 t: Budu velebit tvé jméno, můj Bože, králi.
 
 %% part: verse

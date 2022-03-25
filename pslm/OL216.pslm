@@ -1,0 +1,78 @@
+%% occasion: '15. neděle v mezidobí C'
+%% responsum_reference: 'Srov. Ž 69 (68),33'
+%% verse_reference: 'Ž 69 (68)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 225
+%% a: "c''B bes8 c d_ bes bes2"
+%% b: "asB g8 as bes_ g g2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: es'8 f g as as g4. f8 / bes g g g4 r8 g | c c as g f4 f r ||
+t: Hledejte, ubožáci, Hospodina a pookřejte v srdci.
+
+%% part: verse
+
+m: c''B bes8 c d_ bes bes bes4 r |
+t: Obracím se modlitbou k tobě Hospodine,
+
+m: asB g8 as bes_( g) g4 r ||
+t: * v čas milosti, Bože!
+
+%% part: verse
+
+m: c''B bes8 c d_( bes) bes4 |
+t: Vyslyš mě ve své veliké lásce,
+
+m: r8 as g8 as bes_( g) g4 r ||
+t: * věrně mi pomoz!
+
+%% part: verse
+
+m: c''B bes8 c d_ bes bes bes2 |
+t: Vyslyš mě, Hospodine, tvá láska je dobrotivá,
+
+m: asB g8 as bes_ g g g2 ||
+t: * obrať se ke mně se svým nesmírným slitováním.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B bes8 c d_ bes bes4 r |
+t: Já jsem ubohý a plný bolesti,
+
+m: asB g8 as bes_( g) g4 r ||
+t: * ať mě ochrání, Bože, tvá pomoc.
+
+%% part: verse
+
+m: c''B bes8 c d_( bes) bes4 r |
+t: Písní budu slavit Boží jméno,
+
+m: asB g8 as bes_( g) g4 r ||
+t: * velebit je budu zpěvem chvály.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B bes8 c d_ bes bes4 |
+t: Neboť Bůh pomůže Siónu
+
+m: r8 as8 asB g8 as bes_( g) g4 r ||
+t: * a vystaví judská města:
+
+%% part: verse
+
+m: c''B bes8 c d_ bes bes bes2 |
+t: Zdědí je potomci jeho služebníků,
+
+m: asB g8 as bes_( g) g4 r ||
+t: * budou tam sídlit, kdo milují jeho jméno.
+
+%% use: responsum
+

@@ -1,0 +1,89 @@
+%% occasion: '14. neděle v mezidobí A'
+%% occasion: '31. neděle v mezidobí C'
+%% responsum_reference: 'Srov. Ž 145 (144),1'
+%% verse_reference: 'Ž 145 (144)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 221
+%% a: "c''B d8 c c_ bes bes2"
+%% b: "asB bes8 as g_ f f2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: bes8 bes | f' es d es as2 f8 \breathe / f g as | bes2( g4) g~ g8 r ||
+t: Budu velebit tvé jméno, můj Bože, králi.
+
+%% part: verse
+
+m: c''B d8 c c_( bes) bes4 r |
+t: Budu tě oslavovat, můj Bože, králi,
+
+m: asB bes8 as g_( f) f4 r ||
+t: * budu velebit tvé jméno po všechny věky.
+
+%% part: verse
+
+m: c''B d8 c c_ bes bes4 |
+t: Každý den tě budu velebit
+
+m: r8 as8 asB bes8 as g_( f) f4 r ||
+t: * a chválit tvé jméno po všechny věky.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B d8 c c_ bes bes4 r |
+t: Milosrdný a milostivý je Hospodin,
+
+m: asB bes8 as g_( f) f4 r ||
+t: * shovívavý a plný lásky.
+
+%% part: verse
+
+m: c''B d8 c c_( bes) bes4 |
+t: Dobrotivý je Hospodin ke všem
+
+m: r8 as8 asB bes8 as g_( f) f4 r ||
+t: * a soucit má se všemi svými tvory.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B d8 c c_( bes) bes4 |
+t: Ať tě chválí, Hospodine, všechna tvá díla
+
+m: r8 as8 asB bes8 as g_ f f4 ||
+t: * a tvoji zbožní ať tě velebí!
+
+%% part: verse
+
+m: r8 c''8 cB d8 c c_ bes bes4 |
+t: Ať vypravují o slávě tvého království,
+
+m: r8 as8 asB bes8 as g_( f) f4 r ||
+t: * ať mluví o tvé síle.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B d8 c c_( bes) bes4 |
+t: Věrný je Hospodin ve všech svých slibech
+
+m: r8 as8 asB bes8 as g_( f) f4 r ||
+t: * a svatý ve všech svých činech.
+
+%% part: verse
+
+m: c''B d8 c c_ bes bes4 |
+t: Hospodin podpírá všechny, kdo klesají,
+
+m: r8 as8 asB bes8 as g_ f f2 ||
+t: * a pozvedá všechny sklíčené.
+
+%% use: responsum
+

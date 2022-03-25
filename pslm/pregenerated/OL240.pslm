@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 249
 
-m: \key c \major
+m: \key g \major
 
 %% part: responsum
 
-m: bB ||
+m: d'8 e d e fis / g a fis e / d4 d2 | c8 e g4 / fis8 g a4 a r  ||
 t: Hospodinovy předpisy jsou správné, působí radost srdci.
 
 %% part: verse

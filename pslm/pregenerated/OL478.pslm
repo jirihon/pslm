@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 87
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: es'8 f g as as g4. f8 / bes g g g4 r8 g | c c as g f4 f r ||
 t: Hledejte, ubožáci, Hospodina a pookřejte v srdci.
 
 %% part: verse

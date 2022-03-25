@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 77
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: bes'8 c bes | as g g | bes as g f4. ||
 t: Tys, Pane, dobrý a shovívavý.
 
 %% part: verse

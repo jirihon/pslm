@@ -1213,6 +1213,52 @@
     0 => 'OL208',
     1 => 'OL209',
   ),
+  '13. neděle v mezidobí A' => 
+  array (
+    0 => 'OL210',
+  ),
+  '13. neděle v mezidobí C' => 
+  array (
+    0 => 'OL211',
+  ),
+  '14. neděle v mezidobí A' => 
+  array (
+    0 => 'OL212',
+    1 => 'OL213',
+  ),
+  '31. neděle v mezidobí C' => 
+  array (
+    0 => 'OL212',
+    1 => 'OL213',
+  ),
+  '14. neděle v mezidobí B' => 
+  array (
+    0 => 'OL214',
+  ),
+  '15. neděle v mezidobí A' => 
+  array (
+    0 => 'OL215',
+  ),
+  '15. neděle v mezidobí C' => 
+  array (
+    0 => 'OL216',
+  ),
+  'Jiný žalm 15. neděle v mezidobí C' => 
+  array (
+    0 => 'OL217',
+  ),
+  '16. neděle v mezidobí A' => 
+  array (
+    0 => 'OL218',
+  ),
+  '16. neděle v mezidobí C' => 
+  array (
+    0 => 'OL219',
+  ),
+  '22. neděle v mezidobí B' => 
+  array (
+    0 => 'OL219',
+  ),
   '19. neděle v mezidobí C' => 
   array (
     0 => 'OL228',
