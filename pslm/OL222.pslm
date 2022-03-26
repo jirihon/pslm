@@ -1,0 +1,88 @@
+%% occasion: '17. neděle v mezidobí C'
+%% responsum_reference: 'Ž 138 (137),3a'
+%% verse_reference: 'Ž 138 (137)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 231
+%% a: "c''B bes8 c d_ bes bes2"
+%% b: "asB g8 as bes_ g g2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: es'8 es f g / as f f f | g bes bes bes4 ||
+t: Když jsem volal, Hospodine, vyslyšels mě.
+
+%% part: verse
+
+m: c''B bes8 c d_( bes) bes4 |
+t: Chci tě chválit, Hospodine, celým svým srdcem,
+
+m: r8 as8 asB g8 as bes_( g) g2 ||
+t: * žes vyslyšel slova mých úst.
+
+%% part: verse
+
+m: c''B bes8 c d_ bes bes bes4 r |
+t: Budu ti hrát před anděly,
+
+m: asB g8 as bes_( g) g4 r ||
+t: * vrhnu se na tvář směrem k tvému svatému chrámu
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B bes8 c d_( bes) bes4 r |
+t: Slavit budu tvé jméno
+
+m: asB g8 as bes_( g) g4 r ||
+t: * pro tvou dobrotu a tvou věrnost.
+
+%% part: verse
+
+m: c''B bes8 c d_ bes bes bes4 r |
+t: Když jsem volal, vyslyšels mě,
+
+m: asB g8 as bes_( g) g4 r ||
+t: * v mé duši jsi rozhojnil sílu.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B bes8 c d_ bes bes4 r |
+t: Jistě, vznešený je Hospodin, (+) a přece shlíží na pokorného,
+
+m: asB g8 as bes_( g) g4 ||
+t: * pyšného však zdaleka pozná.
+
+%% part: verse
+
+m: r8 c''8 cB bes8 c d_( bes) bes4 r |
+t: Když procházím soužením, zachováváš mi život,
+
+m: asB g8 as bes_( g) g4 r ||
+t: * proti hněvu mých nepřátel napřahuješ ruku.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B bes8 c d_ bes bes4 r |
+t: Zachraňuje mě tvá pravice.
+
+m: asB g8 as bes_( g) g4 r ||
+t: * Hospodin pro mě dokončí, co začal.
+
+%% part: verse
+
+m: c''B bes8 c d_ bes bes4 r |
+t: Hospodine, tvá dobrota trvá na věky,
+
+m: asB g8 as bes_ g g g4 r ||
+t: * dílo svých rukou neopouštěj!
+
+%% use: responsum
+

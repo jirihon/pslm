@@ -26,6 +26,12 @@ define('PSLM_CRESC_MAX_DIST', 10);
 $PSLM_SYLLABLE = null;
 $PSLM_HYPH_EXCEPTIONS = null;
 
+/* TODO
+hiddenBreve =
+#(define-music-function (n) (number?)
+  #{ \hideNotes \repeat unfold #n { \breve*1/16 \bar "" } \unHideNotes #})
+*/
+
 
 function pslm_engrave($id, $svg_d) {
     $pslm_f = "pslm/$id.pslm";

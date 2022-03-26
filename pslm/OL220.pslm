@@ -1,0 +1,88 @@
+%% occasion: '17. neděle v mezidobí A'
+%% responsum_reference: 'Ž 119 (118),97a'
+%% verse_reference: 'Ž 119 (118)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 229
+%% a: "as'B bes8 c c_ bes bes2"
+%% b: "fB es8 f as_ g g2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: bes4 | f'8 es d es as2 f4 | bes8 bes g es4 r ||
+t: Jak miluji tvůj zákon, Hospodine.
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes4 |
+t: Prohlásil jsem za svůj úděl, Hospodine,
+
+m: r8 f8 fB es8 f as_( g) g4 r ||
+t: * že budu střežit tvá slova.
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 |
+t: Lepší je pro mě zákon tvých úst
+
+m: r8 f8 fB es8 f as_( g) g4 r ||
+t: * než tisíce ve zlatě a stříbře.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes2 |
+t: Ať je mi útěchou tvé milosrdenství,
+
+m: fB es8 f as_ g g g4 r ||
+t: * jak jsi slíbil svému služebníku.
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 r |
+t: Ať se mi dostane tvého slitování, abych byl živ,
+
+m: fB es8 f as_ g g g2 ||
+t: * neboť tvůj zákon je mé potěšení.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes4 r |
+t: Proto miluji tvé předpisy
+
+m: fB es8 f as_( g) g4 r ||
+t: * více než zlato, než ryzí zlato.
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes2 |
+t: Proto jsem si vyvolil všechna tvá nařízení,
+
+m: fB es8 f as_( g) g4 r ||
+t: * nenávidím každou falešnou cestu.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes2 |
+t: Podivuhodná jsou tvá přikázání,
+
+m: fB es8 f as_( g) g4 r ||
+t: * proto je zachovává má duše.
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes4 r |
+t: Výklad tvých slov osvěcuje,
+
+m: fB es8 f as_( g) g4 r ||
+t: * poučuje prosté lidi.
+
+%% use: responsum
+

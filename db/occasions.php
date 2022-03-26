@@ -275,6 +275,8 @@
   'Při svatbě' => 
   array (
     0 => 'OL42',
+    1 => 'OL226',
+    2 => 'OL227',
   ),
   'Svaté Rodiny B (pokud se čte čtení z Gn 15,1-6)' => 
   array (
@@ -1258,6 +1260,44 @@
   '22. neděle v mezidobí B' => 
   array (
     0 => 'OL219',
+  ),
+  '17. neděle v mezidobí A' => 
+  array (
+    0 => 'OL220',
+  ),
+  '17. neděle v mezidobí B' => 
+  array (
+    0 => 'OL221',
+  ),
+  '17. neděle v mezidobí C' => 
+  array (
+    0 => 'OL222',
+  ),
+  '18. neděle v mezidobí A' => 
+  array (
+    0 => 'OL223',
+  ),
+  '18. neděle v mezidobí B' => 
+  array (
+    0 => 'OL224',
+  ),
+  '18. neděle v mezidobí C' => 
+  array (
+    0 => 'OL225',
+  ),
+  '23. neděle v mezidobí C' => 
+  array (
+    0 => 'OL225',
+  ),
+  '19. neděle v mezidobí B' => 
+  array (
+    0 => 'OL226',
+    1 => 'OL227',
+  ),
+  'Při křtu (v době velikonoční)' => 
+  array (
+    0 => 'OL226',
+    1 => 'OL227',
   ),
   '19. neděle v mezidobí C' => 
   array (

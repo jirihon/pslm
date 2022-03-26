@@ -4,6 +4,8 @@
 %% author: olejnik
 %% source: nedelni_zaltar
 %% page: 230
+%% a: "c''B d8_ b g g2"
+%% b: "aB a8_ f e d2"
 
 m: \key c \major
 
@@ -14,54 +16,54 @@ t: Otvíráš svou ruku a sytíš nás, Hospodine.
 
 %% part: verse
 
-m: aB |
+m: c''B d8_( b g) g4 |
 t: Ať tě chválí, Hospodine, všechna tvá díla
 
-m: bB ||
+m: r8 a8 aB a8_( f) e d4 ||
 t: * a tvoji zbožní ať tě velebí!
 
 %% part: verse
 
-m: aB |
+m: r8 c''8 cB d8_( b) g g4 |
 t: Ať vypravují o slávě tvého království,
 
-m: bB ||
+m: r8 a8 aB a8_( f e) d4 r ||
 t: * ať mluví o tvé síle.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B d8_( b g) g4 |
 t: Oči všech doufají v tebe
 
-m: bB ||
+m: r8 a8 aB a8_( f) e d4 r ||
 t: * a ty jim dáváš pokrm v pravý čas.
 
 %% part: verse
 
-m: aB |
+m: c''B d8_( b g) g4 |
 t: Otvíráš svou ruku
 
-m: bB ||
+m: r8 a8 aB a8_ f e d2 ||
 t: * a sytíš vše živé s laskavostí.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B d8_( b g) g4 |
 t: Spravedlivý je Hospodin na všech svých cestách
 
-m: bB ||
+m: r8 a8 aB a8_( f e) d4 r ||
 t: * a svatý ve všech svých činech.
 
 %% part: verse
 
-m: aB |
+m: c''B d8_( b) g g4 |
 t: Blízko je Hospodin všem, kdo ho vzývají,
 
-m: bB ||
+m: r8 a8 aB a8_( f) e d4 r ||
 t: * všem, kdo ho vzývají upřímně.
 
 %% use: responsum

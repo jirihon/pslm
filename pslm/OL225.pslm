@@ -1,0 +1,91 @@
+%% occasion: '18. neděle v mezidobí C'
+%% occasion: '23. neděle v mezidobí C'
+%% responsum_reference: 'Ž 90 (89),1'
+%% verse_reference: 'Ž 90 (89)'
+%% comment: 'Původní tónina F dur.'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 234
+%% a: "c''B bes8_ g g2"
+%% b: "asB g8_ f f2"
+
+
+m: \key es \major
+
+%% part: responsum
+
+m: es'8 bes es f g4. es8 / f es f g | as bes as g f2 | bes8 c bes as g2 ||
+t: Pane, tys nám býval útočištěm od pokolení do pokolení.
+
+%% part: verse
+
+m: c''B bes8_ g g g4 |
+t: Rozkazem vracíš, Bože, člověka v prach
+
+m: r8 as8 asB g8_ f f f4 r ||
+t: * a pravíš: (+) „Vraťte se, smrtelníci!“
+
+%% part: verse
+
+m: c''B bes8_( g) g4 |
+t: Neboť tisíc let je v tvých očích (+) jako včerejší den, který minul,
+
+m: r8 as8 asB g8_( f) f4 r ||
+t: * a jako noční hlídka.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B bes8_ g g4 r |
+t: Uchvacuješ je, (+) jsou jako ranní sen,
+
+m: asB g8_( f) f4 r ||
+t: * podobají se pučící trávě:
+
+%% part: verse
+
+m: c''B bes8_( g) g2 |
+t: Zrána kvete a bují,
+
+m: asB g8_( f) f4 r ||
+t: * večer je skosena a vadne.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B bes8_ g g4 |
+t: Nauč nás počítat naše dny,
+
+m: r8 as8 asB g8_( f) f4 r ||
+t: * ať dojdeme k moudrosti srdce.
+
+%% part: verse
+
+m: c''B bes8_( g) g4 r |
+t: Obrať se, Hospodine, (+) jak dlouho ještě budeš čekat?
+
+m: asB g8_ f f f4 r ||
+t: * Slituj se nad svými služebníky!
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B bes8_ g g g4 |
+t: Nasyť nás brzy svou slitovností,
+
+m: r8 as8 asB g8_( f) f4 r ||
+t: * ať jásáme a radujeme se po celý život!
+
+%% part: verse
+
+m: c''B bes8_( g) g2 |
+t: Ať je nad námi dobrotivost Pána, našeho Boha, + dej zdar práci našich rukou,
+
+m: asB g8_( f) f2 ||
+t: * dej zdar práci našich rukou!
+
+%% use: responsum
+

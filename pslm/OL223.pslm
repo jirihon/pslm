@@ -1,9 +1,11 @@
-%% occasion: '17. neděle v mezidobí B'
+%% occasion: '18. neděle v mezidobí A'
 %% responsum_reference: 'Srov. Ž 145 (144),16'
 %% verse_reference: 'Ž 145 (144)'
 %% author: olejnik
 %% source: nedelni_zaltar
-%% page: 230
+%% page: 232
+%% a: "c''B d8_ b g g2"
+%% b: "aB a8_ f e d2"
 
 m: \key c \major
 
@@ -14,54 +16,54 @@ t: Otvíráš svou ruku a sytíš nás, Hospodine.
 
 %% part: verse
 
-m: aB |
-t: Ať tě chválí, Hospodine, všechna tvá díla
+m: c''B d8_( b) g g4 r |
+t: Milosrdný a milostivý je Hospodin,
 
-m: bB ||
-t: * a tvoji zbožní ať tě velebí!
+m: aB a8_( f e) d4 r ||
+t: * shovívavý a plný lásky.
 
 %% part: verse
 
-m: aB |
-t: Ať vypravují o slávě tvého království,
+m: c''B d8_( b g) g4 |
+t: Dobrotivý je Hospodin ke všem
 
-m: bB ||
-t: * ať mluví o tvé síle.
+m: r8 a8 aB a8_( f e) d4 r ||
+t: * a soucit má se všemi svými tvory.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B d8_( b g) g4 |
 t: Oči všech doufají v tebe
 
-m: bB ||
+m: r8 a8 aB a8_ f( e) d4 r ||
 t: * a ty jim dáváš pokrm v pravý čas.
 
 %% part: verse
 
-m: aB |
+m: c''B d8_( b g) g4 |
 t: Otvíráš svou ruku
 
-m: bB ||
+m: r8 a8 aB a8_ f e d2 ||
 t: * a sytíš vše živé s laskavostí.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B d8_( b g) g4 |
 t: Spravedlivý je Hospodin na všech svých cestách
 
-m: bB ||
+m: r8 a8 aB a8_( f e) d4 r ||
 t: * a svatý ve všech svých činech.
 
 %% part: verse
 
-m: aB |
+m: c''B d8_( b) g g4 |
 t: Blízko je Hospodin všem, kdo ho vzývají,
 
-m: bB ||
+m: r8 a8 aB a8_( f) e d4 r ||
 t: * všem, kdo ho vzývají upřímně.
 
 %% use: responsum
