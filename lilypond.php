@@ -36,9 +36,9 @@ function pslm_preprocessor($psalm) {
 
             $words = preg_split('#\s+#u', $lyrics);
             $last_word_i = count($words) - 1;
-            $syllable_counts = [];
+            $sc = [];
             foreach ($words as $word) {
-                $syllable_counts[] = count(preg_split('#--#u', $word));
+                $sc[] = count(preg_split('#--#u', $word));
             }
             
             $notes = preg_split('#\s+#', $music);
@@ -53,8 +53,8 @@ function pslm_preprocessor($psalm) {
                     break;
                 }
             }
-            if ($syllable_counts[$last_word_i] < $notes_after_accent) {
-                $slur_len = $notes_after_accent - $syllable_counts[$last_word_i];
+            if ($sc[$last_word_i] < $notes_after_accent) {
+                $slur_len = $notes_after_accent - $sc[$last_word_i];
                 $note = pslm_get_note($notes[$accent_note_i]);
                 $same_notes = true;
 
@@ -70,7 +70,7 @@ function pslm_preprocessor($psalm) {
                     }
                 }
                 
-                if ($same_notes && $last_note_i - $accent_note_i == 2 && $syllable_counts[$last_word_i] == 2) {
+                if ($same_notes && $last_note_i - $accent_note_i == 2 && $sc[$last_word_i] == 2) {
                     $syl = preg_split('#--#u', $words[$last_word_i]);
                     $long_first = pslm_is_long_syllable($syl[0]);
                     $long_second = pslm_is_long_syllable($syl[1]);
@@ -92,7 +92,7 @@ function pslm_preprocessor($psalm) {
                         unset($notes[$accent_note_i+1]);
                     }
                 }
-            } elseif ($syllable_counts[$last_word_i] == $notes_after_accent + 1) {
+            } elseif ($sc[$last_word_i] == $notes_after_accent + 1) {
                 $notes[$last_note_i - 1] .= ' '.preg_replace('#[,\']+#', '', $notes[$last_note_i - 1]);
             }
 
@@ -101,7 +101,8 @@ function pslm_preprocessor($psalm) {
             }
 
             $first_word_i = $words[0] == '*' ? 1 : 0;
-            if ($syllable_counts[$first_word_i] == 1 && $syllable_counts[$first_word_i+1] > 1) {
+            if (($sc[$first_word_i] == 1 && $sc[$first_word_i+1] > 1) ||
+                ($sc[$first_word_i] == 1 && $sc[$first_word_i+1] == 1 && $sc[$first_word_i+2] == 1)) {
                 // add eight note iff the music starts with breve
                 $notes[0] = preg_replace('#([abcdefgis]+)([,\']*)B#', '$1${2}8 $1B', $notes[0]);
                 // always add at least eight rest
