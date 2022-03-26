@@ -58,15 +58,22 @@ function pslm_preprocessor($psalm) {
                 $note = pslm_get_note($notes[$accent_note_i]);
                 $same_notes = true;
 
+                $last_word_syls = preg_split('#--#', $words[$last_word_i]);
+                if ($sc[$last_word_i] > 2 && !pslm_is_long_syllable($last_word_syls[0]) && pslm_is_long_syllable($last_word_syls[1])) {
+                    $slur_offset = 1;
+                } else {
+                    $slur_offset = 0;
+                }
                 for ($i = 0; $i <= $slur_len; ++$i) {
+                    $note_i = $accent_note_i + $slur_offset + $i;
                     if ($note != pslm_get_note($notes[$accent_note_i + $i])) {
                         $same_notes = false;
                     }
                     if ($i == 0) {
-                        $notes[$accent_note_i + $i] .= '(';
+                        $notes[$note_i] .= '(';
                     }
                     if ($i == $slur_len) {
-                        $notes[$accent_note_i + $i] .= ')';
+                        $notes[$note_i] .= ')';
                     }
                 }
                 
@@ -103,8 +110,8 @@ function pslm_preprocessor($psalm) {
             $first_word_i = $words[0] == '*' ? 1 : 0;
             if (!pslm_is_long_syllable($words[$first_word_i]) && !preg_match('#^vždy$#i', $words[$first_word_i]) && (
                  ($sc[$first_word_i] == 1 && $sc[$first_word_i+1] > 1) ||
-                 ($sc[$first_word_i] == 1 && $sc[$first_word_i+1] == 1 && $sc[$first_word_i+2] == 1
-                ))) {
+                 ($sc[$first_word_i] == 1 && $sc[$first_word_i+1] == 1 && $sc[$first_word_i+2] == 1 && $sc[$first_word_i+3] > 1)
+                )) {
                 // add eight note iff the music starts with breve
                 $notes[0] = preg_replace('#([abcdefgis]+)([,\']*)B#', '$1${2}8 $1B', $notes[0]);
                 // always add at least eight rest
