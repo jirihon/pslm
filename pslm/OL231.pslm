@@ -1,0 +1,70 @@
+%% occasion: '21. neděle v mezidobí A'
+%% responsum_reference: 'Ž 138 (137),8bc'
+%% verse_reference: 'Ž 138 (137)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 240
+%% a: "f'B gB*2 e8_ e e2"
+%% b: "dB cB*2 e8_ e e2"
+
+m: \key c \major
+
+%% part: responsum
+
+m: e'8 e d c r c f f e d d4 | e8 g g4 r | a8 e a b a4 / a8 g g g4. ||
+t: Hospodine, tvá dobrota trvá na věky, dílo svých rukou neopouštěj!
+
+%% part: verse
+
+m: f'B gB*3 e8_ e r4 |
+t: Chci tě chválit, Hospodine, celým svým srdcem,
+
+m: r8 d8 dB cB*2 e4_ e2 ||
+t: * žes vyslyšel slova mých úst.
+
+%% part: verse
+
+m: f'B gB*2 e8_ e e e4 r |
+t: Budu ti hrát před anděly,
+
+m: dB cB*3 e4_ e r ||
+t: * vrhnu se na tvář směrem k tvému svatému chrámu.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B gB*3 e4_ e r |
+t: Slavit budu tvé jméno
+
+m: dB cB*2 e8_ e r4 ||
+t: * pro tvou dobrotu a tvou věrnost.
+
+%% part: verse
+
+m: f'B gB*2 e8_ e e e4 r |
+t: Když jsem volal, vyslyšels mě,
+
+m: dB cB*3 e4_ e r ||
+t: * v mé duši jsi rozhojnil sílu.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B gB*2 e8_ e e4 r |
+t: Jistě, vznešený je Hospodin, (+) a přece shlíží na pokorného,
+
+m: dB cB*3 e8_ e4. r4 ||
+t: * pyšného však zdaleka pozná.
+
+%% part: verse
+
+m: f'B gB*2 e8_ e e4 r |
+t: Hospodine, tvá dobrota trvá na věky,
+
+m: dB cB*2 e8_ e e e4 r ||
+t: * dílo svých rukou neopouštěj!
+
+%% use: responsum
+

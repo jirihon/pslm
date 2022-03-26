@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 268
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: c''8 d c2 bes4 a8 f a g4 r ||
 t: Duše má, chval Hospodina!
 
 %% part: verse

@@ -5,13 +5,13 @@
 %% source: vsedni_zaltar
 %% page: 331
 
-% Tento žalm má stejné texty veršů jako publikovaný OL21, OL192
+% Tento žalm má stejné texty veršů jako publikovaný OL21, OL192, OL234
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: c''8 d c2 bes4 a8 f a g4 r ||
 t: Duše má, chval Hospodina!
 
 %% part: verse

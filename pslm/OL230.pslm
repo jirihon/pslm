@@ -1,0 +1,72 @@
+%% occasion: '20. neděle v mezidobí C'
+%% responsum_reference: 'Ž 40 (39),14b'
+%% verse_reference: 'Ž 40 (39)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 239
+%% a: "f'8 c'B bes8 c d_ bes g g2"
+%% b: "fB es8 f bes_ g es es2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: as'8 g f f4 r8 | f8 f g as bes4 g ||
+t: Hospodine, na pomoc mi pospěš!
+
+%% part: verse
+
+m: f'8 c'B bes8 c d_ bes g g4 r |
+t: Pevně jsem doufal v Hospodina,
+
+m: fB es8 f bes_ g( es) es2 ||
+t: * on se ke mně sklonil a vyslyšel mé volání.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'8 c'B bes8 c d_( bes g) g4 r |
+t: Vytáhl mě z podzemní jámy, (+) z bahnitého kalu,
+
+m: fB es8 f bes_( g es) es2 ||
+t: * na skálu postavil mé nohy, (+) dodal síly mým krokům.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'8 c'B bes8 c d_( bes g) g2 |
+t: Novou píseň vložil mi do úst,
+
+m: fB es8 f bes_( g es) es4 r ||
+t: * chvalozpěv našemu Bohu.
+
+%% part: verse
+
+m: f'8 c'B bes8 c d_( bes g) g4 r |
+t: Mnozí to uvidí a nabudou úcty,
+
+m: fB es8 f bes_ g es es4 r ||
+t: * budou doufat v Hospodina.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'8 c'B bes8 c d_( bes) g g2 |
+t: Já jsem jen chudák a ubožák,
+
+m: fB es8 f bes_( g es) es2 ||
+t: * ale Pán se o mě stará.
+
+%% part: verse
+
+m: f'8 c'B bes8 c d_ bes( g) g4 r |
+t: Tys můj pomocník, můj zachránce:
+
+m: fB es8 f bes_( g es) es4 r ||
+t: * neprodlévej, můj Bože!
+
+%% use: responsum
+

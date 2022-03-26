@@ -1,0 +1,70 @@
+%% occasion: '24. neděle v mezidobí C'
+%% responsum_reference: 'Lk 15,18'
+%% verse_reference: 'Ž 51 (50)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 245
+%% a: "bes'B c8 bes a_ g g2"
+%% b: "c,8 g'B f8 g bes_ a a2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: c''8 a c d4. c8 bes a g4 g ||
+t: Vstanu a půjdu k svému Otci.
+
+%% part: verse
+
+m: bes'B c8 bes a_ g g2 |
+t: Smiluj se nade mnou, Bože, pro své milosrdenství,
+
+m: c,8 g'B f8 g bes_ a a4 r ||
+t: * pro své velké slitování zahlaď mou nepravost.
+
+%% part: verse
+
+m: bes'B c8 bes a_( g) g4 |
+t: Úplně ze mě smyj mou vinu
+
+m: r8 c,8 g'B f8 g bes_( a) a4 r ||
+t: * a očisť mě od mého hříchu.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 bes a_( g) g4 r |
+t: Stvoř mi čisté srdce, Bože!
+
+m: c,8 g'B f8 g bes_ a a4 r ||
+t: * Obnov ve mně ducha vytrvalosti.
+
+%% part: verse
+
+m: bes'B c8 bes a_( g) g4 |
+t: Neodvrhuj mě od své tváře
+
+m: r8 c,8 g'B f8 g bes_( a) a4 r ||
+t: * a neodnímej mi svého svatého ducha.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 bes a_( g) g4 r |
+t: Otevři mé rty, Pane,
+
+m: c,8 g'B f8 g bes_( a) a4 r ||
+t: * aby má ústa zvěstovala tvou chválu.
+
+%% part: verse
+
+m: bes'B c8 bes a_ g g g4 r |
+t: Mou obětí, Bože, je zkroušený duch,
+
+m: c,8 g'B f8 g bes_ a a a4 r ||
+t: * zkroušeným a pokorným srdcem, Bože, nepohrdneš.
+
+%% use: responsum
+

@@ -1,0 +1,70 @@
+%% occasion: '25. neděle v mezidobí A'
+%% responsum_reference: 'Ž 145 (144),18a'
+%% verse_reference: 'Ž 145 (144)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 246
+%% a: "as'B cB*2 bes8_ bes bes2"
+%% b: "fB asB*2 g8_ g g2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: es'4 d8 c f f f4 | r8 f es d / g g g2 ||
+t: Blízký je Hospodin všem, kdo ho vzývají.
+
+%% part: verse
+
+m: as'B cB*2 bes8_ bes bes4 |
+t: Každý den tě budu velebit
+
+m: r8 f8 fB asB*3 g8_ g r4 ||
+t: * a chválit tvé jméno po všechny věky.
+
+%% part: verse
+
+m: as'B cB*5 bes8_ bes4. r4 |
+t: Veliký je Hospodin a veškeré chvály hodný,
+
+m: fB asB*4 g8_ g g g2 ||
+t: * jeho velikost je nevýstižná.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B cB*5 bes8_ bes bes4 r |
+t: Milosrdný a milostivý je Hospodin,
+
+m: fB asB*2 g4_ g r ||
+t: * shovívavý a plný lásky.
+
+%% part: verse
+
+m: as'B cB*3 bes8_ bes r4 |
+t: Dobrotivý je Hospodin kevšem
+
+m: r8 f8 fB asB*2 g8_ g r4 ||
+t: * a soucit má se všemi svými tvory.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B cB*3 bes8_ bes4. r4 |
+t: Spravedlivý je Hospodin na všech svých cestách
+
+m: r8 f8 fB asB*3 g8_ g r4 ||
+t: * a svatý ve všech svých činech.
+
+%% part: verse
+
+m: as'B cB*3 bes8_ bes bes4 r |
+t: Blízko je Hospodin všem, kdo ho vzývají,
+
+m: fB asB*3 g8_ g g4 r ||
+t: * všem, kdo ho vzývají upřímně.
+
+%% use: responsum
+

@@ -1303,6 +1303,62 @@
   array (
     0 => 'OL228',
   ),
+  '20. neděle v mezidobí B' => 
+  array (
+    0 => 'OL229',
+  ),
+  '20. neděle v mezidobí C' => 
+  array (
+    0 => 'OL230',
+  ),
+  '21. neděle v mezidobí A' => 
+  array (
+    0 => 'OL231',
+  ),
+  '21. neděle v mezidobí B' => 
+  array (
+    0 => 'OL232',
+  ),
+  '22. neděle v mezidobí C' => 
+  array (
+    0 => 'OL233',
+  ),
+  '23. neděle v mezidobí B' => 
+  array (
+    0 => 'OL234',
+  ),
+  '26. neděle v mezidobí C' => 
+  array (
+    0 => 'OL234',
+  ),
+  '32. neděle v mezidobí B' => 
+  array (
+    0 => 'OL234',
+  ),
+  '24. neděle v mezidobí B' => 
+  array (
+    0 => 'OL235',
+  ),
+  '24. neděle v mezidobí C' => 
+  array (
+    0 => 'OL236',
+  ),
+  '25. neděle v mezidobí A' => 
+  array (
+    0 => 'OL237',
+  ),
+  '25. neděle v mezidobí B' => 
+  array (
+    0 => 'OL238',
+  ),
+  'O učitelích Církve' => 
+  array (
+    0 => 'OL238',
+  ),
+  '25. neděle v mezidobí C' => 
+  array (
+    0 => 'OL239',
+  ),
   'Uvedení Páně do chrámu (2. února)' => 
   array (
     0 => 'OL257',

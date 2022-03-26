@@ -1,0 +1,70 @@
+%% occasion: '22. neděle v mezidobí C'
+%% responsum_reference: 'Ž 68 (67),11b'
+%% verse_reference: 'Ž 68 (67)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 242
+%% a: "as'B g8 as bes_ g es es2"
+%% b: "cB d8 es f_ g f f2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: bes'8 bes g bes c bes g bes / c bes c / d bes g4 g r ||
+t: Bože, ve své dobrotě ses postaral o chudáka.
+
+%% part: verse
+
+m: as'B g8 as bes_( g) es es4 |
+t: Spravedliví se radují, jásají před Bohem
+
+m: r8 c8 cB d8 es f_( g) f f4 r ||
+t: * a veselí se v radosti.
+
+%% part: verse
+
+m: as'B g8 as bes_( g es) es4 r |
+t: Zpívejte Bohu, velebte jeho jméno,
+
+m: cB d8 es f_( g) f f4 r ||
+t: * jeho jméno je Hospodin.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B g8 as bes_ g es es4 r |
+t: Otec sirotků, ochránce vdov
+
+m: cB d8 es f_( g) f f4 r ||
+t: * je Bůh ve svém svatém příbytku.
+
+%% part: verse
+
+m: as'B g8 as bes_( g es) es4 r |
+t: Bůh zjednává opuštěným domov,
+
+m: cB d8 es f_( g) f f4 r ||
+t: * vězně vyvádí k šťastnému životu.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B g8 as bes_( g) es es2 |
+t: Seslal jsi hojný déšť, Bože, na své dědictví,
+
+m: cB d8 es f_( g) f f4 r ||
+t: * vzkřísils je, když zemdlelo.
+
+%% part: verse
+
+m: as'B g8 as bes_( g es) es4 r |
+t: Usadilo se v něm tvoje stádce,
+
+m: cB d8 es f_( g f) f4 r ||
+t: * ve své dobrotě ses postaral o chudáka, Bože!
+
+%% use: responsum
+
