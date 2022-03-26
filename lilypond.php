@@ -101,8 +101,10 @@ function pslm_preprocessor($psalm) {
             }
 
             $first_word_i = $words[0] == '*' ? 1 : 0;
-            if (($sc[$first_word_i] == 1 && $sc[$first_word_i+1] > 1) ||
-                ($sc[$first_word_i] == 1 && $sc[$first_word_i+1] == 1 && $sc[$first_word_i+2] == 1)) {
+            if (!pslm_is_long_syllable($words[$first_word_i]) && (
+                 ($sc[$first_word_i] == 1 && $sc[$first_word_i+1] > 1) ||
+                 ($sc[$first_word_i] == 1 && $sc[$first_word_i+1] == 1 && $sc[$first_word_i+2] == 1
+                ))) {
                 // add eight note iff the music starts with breve
                 $notes[0] = preg_replace('#([abcdefgis]+)([,\']*)B#', '$1${2}8 $1B', $notes[0]);
                 // always add at least eight rest
