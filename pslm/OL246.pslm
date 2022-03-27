@@ -1,0 +1,66 @@
+%% occasion: '30. neděle v mezidobí A'
+%% occasion: '31. neděle v mezidobí B'
+%% responsum_reference: 'Ž 18 (17),2'
+%% verse_reference: 'Ž 18 (17)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 255
+%% a: "c''B bes8 as g_ f f2"
+%% b: "asB bes8 f as_ g g2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: es'8 es f g as as g f | g( as) bes4 bes r ||
+t: Miluji tě, Hospodine, má sílo!
+
+%% part: verse
+
+m: c''B bes8 as g_( f) f4 r |
+t: Miluji tě, Hospodine, má sílo,
+
+m: asB bes8 f as_ g g g2 ||
+t: * Hospodine, má skálo, mé útočiště, zachránce můj!
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B bes8 as g_ f f4 |
+t: Můj Bože, má skálo, na niž se utíkám,
+
+m: r8 as8 asB bes8 f as_ g g g2 ||
+t: * můj štíte, rohu mé spásy, ochrano má!
+
+%% part: verse
+
+m: c''B bes8 as g_( f) f4 |
+t: Budu vzývat Hospodina, jemuž náleží chvála,
+
+m: r8 as8 asB bes8 f as_ g g g4 r ||
+t: * a od svých nepřátel budu vysvobozen.
+
+%% part: responsum_short
+
+m: es'8 es f g as as g f | g( as) bes4 bes ||
+t: Miluji tě, Hospodine, má sílo!
+
+%% part: verse
+
+m: r8 c''8 cB bes8 as g_( f) f4 r |
+t: Ať žije Hospodin, (+) požehnána buď moje Skála,
+
+m: asB bes8 f as_ g g g4 r ||
+t: * sláva buď Bohu, mému spasiteli!
+
+%% part: verse
+
+m: c''B bes8 as g_( f) f4 r |
+t: Veliká vítězství jsi popřál svému králi,
+
+m: asB bes8 f as_ g g4 r ||
+t: * dáváš přízeň svému pomazanému.
+
+%% use: responsum
+

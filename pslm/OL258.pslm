@@ -1,0 +1,46 @@
+%% occasion: 'Panny Marie Lurdské (11. února)'
+%% occasion: 'O Panně Marii (i v době velikonoční)'
+%% occasion: '1. 2. 3.'
+%% responsum_reference: 'Jdt 15,10d'
+%% verse_reference: 'Jdt 13'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 267
+%% a: "des''B c8 bes bes_ as as2"
+%% b: "asB g8 f f_ es es2"
+
+m: \key as \major
+
+%% part: responsum
+
+m: es'4 es as2 / bes4 as8 bes / c4 c2 ||
+t: Ty jsi čest našeho lidu.
+
+%% part: verse
+
+m: des''B c8 bes bes_( as) as4 r |
+t: Požehnaná jsi, dcero, od Pána, nejvyššího Boha,
+
+m: asB g8 f f_ es es4 r ||
+t: * přede všemi, ženami na zemi.
+
+%% part: verse
+
+m: des''B c8 bes bes_ as as4 r |
+t: Veleben buď Hospodin,
+
+m: asB g8 f f_( es) es4 r ||
+t: * který stvořil nebe i zemi.
+
+%% use: responsum
+
+%% part: verse
+
+m: des''B c8 bes bes_ as as2 |
+t: Vždyť tvé jméno dnes tak proslavil, + že tvá chvála nevymizí z lidských úst,
+
+m: asB g8 f f_ es es4 r ||
+t: * ale budou pamatovat na moc Hospodinovu na věky.
+
+%% use: responsum
+

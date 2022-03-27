@@ -1,0 +1,80 @@
+%% occasion: '27. neděle v mezidobí B'
+%% responsum_reference: 'Srov. Ž 128 (127),5'
+%% verse_reference: 'Ž 128 (127)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 251
+%% a: "bes'B a8_ bes c c2"
+%% b: "gB f8_ g a a2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: c'8 f4 / d8 e f a g4 | bes8 c a f4 r8 / bes c a / f g g4 ||
+t: Ať nám Hospodin žehná po všechny dny našeho života.
+
+%% part: verse
+
+m: bes'B a8_ bes c c4 |
+t: Blaze každému, kdo se bojí Hospodina,
+
+m: r8 g8 gB f8(_ g a) a2 ||
+t: * kdo kráčí po jeho cestách.
+
+%% part: verse
+
+m: bes'B a8(_ bes c) c4 r |
+t: Budeš jísti z výtěžku svých rukou,
+
+m: gB f8(_ g a) a4 r ||
+t: * bude ti blaze a dobře.
+
+%% use: responsum
+
+%% part: verse
+
+m: r8 bes' besB a8(_ bes c) c4 r |
+t: Tvá manželka bude jako plodná réva
+
+m: gB f8(_ g a) a4 r ||
+t: * uvnitř tvého domu.
+
+%% part: verse
+
+m: bes'B a8(_ bes c) c4 r |
+t: Tvoji synové jako výhonky oliv
+
+m: gB f8(_ g a) a4 r ||
+t: * kolem tvého stolu.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8_ bes c c4 r |
+t: Hle, tak bývá požehnán muž,
+
+m: gB f8_ g a a4 r ||
+t: * který se bojí Hospodina.
+
+%% part: verse
+
+m: bes'B a8_ bes c c4 r |
+t: Ať ti Hospodin požehná ze Siónu,
+
+m: gB f8(_ g) a a4 r ||
+t: * abys viděl štěstí Jeruzaléma (+) po všechny dny svého života.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8(_ bes c) c2 |
+t: Abys viděl syny svých synů:
+
+m: gB f8_ g a a4 r ||
+t: * Pokoj v Izraeli!
+
+%% use: responsum
+
