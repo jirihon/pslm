@@ -271,6 +271,8 @@
   'O svatých' => 
   array (
     0 => 'OL42',
+    1 => 'OL249',
+    2 => 'OL250',
   ),
   'Při svatbě' => 
   array (
@@ -1359,9 +1361,54 @@
   array (
     0 => 'OL239',
   ),
+  '26. neděle v mezidobí B' => 
+  array (
+    0 => 'OL240',
+  ),
+  '27. neděle v mezidobí B' => 
+  array (
+    0 => 'OL242',
+  ),
+  '29. neděle v mezidobí A' => 
+  array (
+    0 => 'OL244',
+  ),
+  '30. neděle v mezidobí A' => 
+  array (
+    0 => 'OL246',
+    1 => 'OL247',
+  ),
+  '31. neděle v mezidobí B' => 
+  array (
+    0 => 'OL246',
+    1 => 'OL247',
+  ),
+  '31. neděle v mezidobí A' => 
+  array (
+    0 => 'OL249',
+    1 => 'OL250',
+  ),
+  'Sv. Terezie od Dítěte Ježíše (1. října)' => 
+  array (
+    0 => 'OL249',
+    1 => 'OL250',
+  ),
+  'Panny Marie, Matky jednoty křesťanů (18. ledna)' => 
+  array (
+    0 => 'OL255',
+  ),
+  'O Panně Marii (i v době velikonoční)' => 
+  array (
+    0 => 'OL255',
+    1 => 'OL258',
+  ),
   'Uvedení Páně do chrámu (2. února)' => 
   array (
     0 => 'OL257',
+  ),
+  'Panny Marie Lurdské (11. února)' => 
+  array (
+    0 => 'OL258',
   ),
   'Sv. Josefa (19. března)' => 
   array (
@@ -1383,6 +1430,14 @@
   array (
     0 => 'OL433',
   ),
+  'Sobota 8. týdne 1' => 
+  array (
+    0 => 'OL445',
+  ),
+  'Čtvrtek 26. týdne 1' => 
+  array (
+    0 => 'OL445',
+  ),
   'Pondělí 11. a 28. týdne 1' => 
   array (
     0 => 'OL457',
@@ -1402,6 +1457,10 @@
   'Pátek 15. týdne 1' => 
   array (
     0 => 'OL481',
+  ),
+  'Sobota 18. týdne 1' => 
+  array (
+    0 => 'OL500',
   ),
   'Pondělí 19. týdne 1' => 
   array (
@@ -1434,6 +1493,14 @@
   'Pondělí 1. týdne 2' => 
   array (
     0 => 'OL575',
+  ),
+  'Pátek 4. týdne 2' => 
+  array (
+    0 => 'OL594',
+  ),
+  'Pondělí 7. týdne 2' => 
+  array (
+    0 => 'OL607',
   ),
   'Pondělí 8. týdne 2' => 
   array (

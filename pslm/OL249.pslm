@@ -6,47 +6,49 @@
 %% author: olejnik
 %% source: nedelni_zaltar
 %% page: 258
+%% a: "c'B f8 e e_ d d2"
+%% b: "dB e8 f a_ g g2"
 
 m: \key c \major
 
 %% part: responsum
 
-m: bB ||
+m: g'8 a g g e g a a r | b a g g g4 ||
 t: Opatruj, Pane, mou duši ve svém pokoji!
 
 %% part: verse
 
-m: aB |
+m: c'B f8 e e_ d d d2 |
 t: Hospodine, mé srdce se nevypíná,
 
-m: bB ||
+m: dB e8 f a_( g) g4 r ||
 t: * nevyvyšují se mé oči,
 
 %% part: verse
 
-m: aB |
+m: c'B f8 e e_( d) d4 r |
 t: neženu se za velikými věcmi
 
-m: bB ||
+m: dB e8 f a_ g g4 r ||
 t: * pro mě nedostižnými.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c'B f8 e e_( d) d4 r |
 t: Spíše jsem uklidnil a utišil svou duši
 
-m: bB ||
-t: * jako dítě na matčině klíně; + jako dítě, tak je má duše ve mně. R. naní i na věky.
+m: dB e8 f a_( g) g4 r ||
+t: * jako dítě na matčině klíně; + jako dítě, tak je má duše ve mně.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
-t: Doufej, Izraeli, v Hospodi
+m: c'B f8 e e_ d d d4 |
+t: Doufej, Izraeli, v Hospodina
 
-m: bB ||
-t: * ny
+m: r8 d e8 f a_ g g4 r ||
+t: * nyní i na věky.
 

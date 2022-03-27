@@ -5,48 +5,52 @@
 %% verse_reference: 'Ž 131 (130)'
 %% author: olejnik
 %% source: nedelni_zaltar
-%% page: 258
+%% page: 259
+%% a: "f'B f8_ g g2"
+%% b: "gB g8_ a a2"
 
-m: \key c \major
+m: \key bes \major
 
 %% part: responsum
 
-m: bB ||
-t: Opatruj, Pane, mou duši ve svém pokoji!
+m: bes'8 a c bes a g / g4( f4.) / g8 es d / c( f) f f4 r ||
+t: Ochraň, Pane, duši mou v pokoji u tebe.
 
 %% part: verse
 
-m: aB |
+m: f'B f8_ g g g2 |
 t: Hospodine, mé srdce se nevypíná,
 
-m: bB ||
+m: gB g8_( a) a4 r ||
 t: * nevyvyšují se mé oči,
 
 %% part: verse
 
-m: aB |
+m: f'B f8_( g) g4 r |
 t: neženu se za velikými věcmi
 
-m: bB ||
+m: gB g8_ a a4 r ||
 t: * pro mě nedostižnými.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: f'B f8_( g) g4 r |
 t: Spíše jsem uklidnil a utišil svou duši
 
-m: bB ||
-t: * jako dítě na matčině klíně; + jako dítě, tak je má duše ve mně. R. naní i na věky.
+m: gB g8_( a) a4 r ||
+t: * jako dítě na matčině klíně; + jako dítě, tak je má duše ve mně.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
-t: Doufej, Izraeli, v Hospodi
+m: f'B f8_ g g g4 r |
+t: Doufej, Izraeli, v Hospodina
 
-m: bB ||
-t: * ny
+m: gB g8_ a a4 r ||
+t: * nyní i na věky.
+
+%% use: responsum
 

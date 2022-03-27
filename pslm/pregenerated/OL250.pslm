@@ -1,5 +1,8 @@
+%% occasion: '31. neděle v mezidobí A'
+%% occasion: 'Sv. Terezie od Dítěte Ježíše (1. října)'
+%% occasion: 'O svatých'
 %% responsum_reference: ''
-%% verse_reference: ''
+%% verse_reference: 'Ž 131 (130)'
 %% author: olejnik
 %% source: nedelni_zaltar
 %% page: 259
@@ -9,5 +12,43 @@ m: \key c \major
 %% part: responsum
 
 m: bB ||
-t: 
+t: Ochraň, Pane, duši mou v pokoji u tebe.
+
+%% part: verse
+
+m: aB |
+t: Hospodine, mé srdce se nevypíná,
+
+m: bB ||
+t: * nevyvyšují se mé oči,
+
+%% part: verse
+
+m: aB |
+t: neženu se za velikými věcmi
+
+m: bB ||
+t: * pro mě nedostižnými.
+
+%% use: responsum
+
+%% part: verse
+
+m: aB |
+t: Spíše jsem uklidnil a utišil svou duši
+
+m: bB ||
+t: * jako dítě na matčině klíně; + jako dítě, tak je má duše ve mně.
+
+%% use: responsum
+
+%% part: verse
+
+m: aB |
+t: Doufej, Izraeli, v Hospodina
+
+m: bB ||
+t: * nyní i na věky.
+
+%% use: responsum
 
