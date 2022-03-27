@@ -1,5 +1,6 @@
+%% occasion: 'Středa 34. týdne 1'
 %% responsum_reference: ''
-%% verse_reference: ''
+%% verse_reference: 'Dan 3'
 %% author: olejnik
 %% source: vsedni_zaltar
 %% page: 180
@@ -9,5 +10,35 @@ m: \key c \major
 %% part: responsum
 
 m: bB ||
-t: 
+t: RESPONSORIUM A LATERE
+
+%% part: verse
+
+m: bB ||
+t: Slunce a měsíci, velebte Pána, R. chvalte a oslavujte ho na věky.
+
+%% part: verse
+
+m: bB ||
+t: Nebeské hvězdy, velebte Pána, R. chvalte a oslavujte ho na věky.
+
+%% part: verse
+
+m: bB ||
+t: Všechny deště a roso, velebte Pána, R. chvalte a oslavujte ho na věky.
+
+%% part: verse
+
+m: bB ||
+t: Všechny větry, velebte Pána, R. chvalte a oslavujte ho na věky.
+
+%% part: verse
+
+m: bB ||
+t: Ohni a žáre, velebte Pána, R. chvalte a oslavujte ho na věky.
+
+%% part: verse
+
+m: bB ||
+t: Studeno a teplo, velebte Pána, R. chvalte a oslavujte ho na věky. Odpověď (responsum) se nepředzpěvuje, ale zpívá se po každém verši.
 

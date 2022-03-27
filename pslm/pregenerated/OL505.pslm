@@ -1,5 +1,6 @@
+%% occasion: 'Pátek 19. týdne 1'
 %% responsum_reference: ''
-%% verse_reference: ''
+%% verse_reference: 'Ž 136 (135)'
 %% author: olejnik
 %% source: vsedni_zaltar
 %% page: 114
@@ -9,5 +10,50 @@ m: \key c \major
 %% part: responsum
 
 m: bB ||
-t: 
+t: RESPONSORIUM A LATERE
+
+%% part: verse
+
+m: bB ||
+t: Oslavujte Hospodina, neboť je dobrý, R. jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: bB ||
+t: Oslavujte Boha bohů, R. jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: bB ||
+t: Oslavujte Pána pánů, R. jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: bB ||
+t: On vedl svůj národ na poušti, R. jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: bB ||
+t: On potřel veliké krále, R. jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: bB ||
+t: On zabil mocné krále, R. jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: bB ||
+t: Dal jejich zem jako majetek, R. jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: bB ||
+t: Jako majetek Izraeli, svému služebníku, R. jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: bB ||
+t: Vysvobodil nás od našich protivníků, R. jeho milosrdenství trvá na věky. Odpověď (responsum) se nepředzpěvuje, ale zpívá se po každém verši.
 

@@ -57,6 +57,9 @@ function pslm_pregenerate($filename, $source) {
             }
 
         }
+        if (empty($occasions)) {
+            echo "ERROR: empty template for $id\n";
+        }
         $pslm = [];
         foreach ($occasions as $occasion) {
             if ($occasion[0] !== '(') {

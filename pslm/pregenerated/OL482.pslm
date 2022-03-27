@@ -1,5 +1,6 @@
+%% occasion: 'Sobota 15. týdne 1'
 %% responsum_reference: ''
-%% verse_reference: ''
+%% verse_reference: 'Ž 136 (135)'
 %% author: olejnik
 %% source: vsedni_zaltar
 %% page: 91
@@ -9,5 +10,50 @@ m: \key c \major
 %% part: responsum
 
 m: bB ||
-t: 
+t: RESPONSORIUM A LATERE
+
+%% part: verse
+
+m: bB ||
+t: Oslavujte Hospodina, neboť je dobrý, R. jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: bB ||
+t: On si vzpomněl na nás v našem ponížení, R. jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: bB ||
+t: vysvobodil nás od našich nepřátel, R. jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: bB ||
+t: On pobil Egypťany v jejich prvorozencích,R. jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: bB ||
+t: On vyvedl Izraele z jejich středu, R. jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: bB ||
+t: Mocnou rukou a napřaženým ramenem,R. jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: bB ||
+t: On rozdělil Rudé moře, R. jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: bB ||
+t: převedl Izraele jeho středem,R. jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: bB ||
+t: On svrhl faraóna s jeho vojskem do Rudého moře, R. jeho milosrdenství trvá na věky. Odpověď (responsum) se nepředzpěvuje, ale zpívá se po každém verši.
 

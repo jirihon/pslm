@@ -27,6 +27,8 @@ $PSLM_SYLLABLE = null;
 $PSLM_HYPH_EXCEPTIONS = null;
 
 /* TODO
+find all psalms without []
+
 hiddenBreve =
 #(define-music-function (n) (number?)
   #{ \hideNotes \repeat unfold #n { \breve*1/16 \bar "" } \unHideNotes #})

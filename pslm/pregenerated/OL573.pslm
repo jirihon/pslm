@@ -1,5 +1,6 @@
+%% occasion: 'Pátek 34. týdne 1'
 %% responsum_reference: ''
-%% verse_reference: ''
+%% verse_reference: 'Dan 3'
 %% author: olejnik
 %% source: vsedni_zaltar
 %% page: 182
@@ -9,5 +10,40 @@ m: \key c \major
 %% part: responsum
 
 m: bB ||
-t: 
+t: RESPONSORIUM A LATERE
+
+%% part: verse
+
+m: bB ||
+t: Hory a kopce, velebte Pána, R. chvalte a oslavujte ho na věky.
+
+%% part: verse
+
+m: bB ||
+t: Vše, co na zemi roste, veleb Pána, R. chvalte a oslavujte ho na věky.
+
+%% part: verse
+
+m: bB ||
+t: Prameny, velebte Pána, R. chvalte a oslavujte ho na věky.
+
+%% part: verse
+
+m: bB ||
+t: Moře a řeky, velebte Pána, R. chvalte a oslavujte ho na věky.
+
+%% part: verse
+
+m: bB ||
+t: Velké i malé ryby, které plují ve vodě, velebte Pána, R. chvalte a oslavujte ho na věky.
+
+%% part: verse
+
+m: bB ||
+t: Všichni nebeští ptáci, velebte Pána, R. chvalte a oslavujte ho na věky.
+
+%% part: verse
+
+m: bB ||
+t: Všechna zvířata divoká i krotká, velebte Pána, R. chvalte a oslavujte ho na věky. Odpověď (responsum) se nepředzpěvuje, ale zpívá se po každém verši.
 

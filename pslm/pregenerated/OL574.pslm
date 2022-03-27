@@ -1,5 +1,6 @@
+%% occasion: 'Sobota 34. týdne 1'
 %% responsum_reference: ''
-%% verse_reference: ''
+%% verse_reference: 'Dan 3'
 %% author: olejnik
 %% source: vsedni_zaltar
 %% page: 183
@@ -9,5 +10,35 @@ m: \key c \major
 %% part: responsum
 
 m: bB ||
-t: 
+t: RESPONSORIUM A LATERE
+
+%% part: verse
+
+m: bB ||
+t: Lidé, velebte Pána, R. chvalte a oslavujte ho na věky.
+
+%% part: verse
+
+m: bB ||
+t: Izraeli, veleb Pána, R. chvalte a oslavujte ho na věky.
+
+%% part: verse
+
+m: bB ||
+t: Kněží Páně, velebte Pána, R. chvalte a oslavujte ho na věky.
+
+%% part: verse
+
+m: bB ||
+t: Služebníci Páně, velebte Pána, R. chvalte a oslavujte ho na věky.
+
+%% part: verse
+
+m: bB ||
+t: Duchové a duše spravedlivých, velebte Pána, R. chvalte a oslavujte ho na věky.
+
+%% part: verse
+
+m: bB ||
+t: Svatí a pokorní srdcem, velebte Pána, R. chvalte a oslavujte ho na věky. Odpověď (responsum) se nepředzpěvuje, ale zpívá se po každém verši.
 
