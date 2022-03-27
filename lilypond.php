@@ -108,7 +108,7 @@ function pslm_preprocessor($psalm) {
             }
 
             $first_word_i = $words[0] == '*' ? 1 : 0;
-            if (!pslm_is_long_syllable($words[$first_word_i]) && !preg_match('#^vždy$#i', $words[$first_word_i]) && (
+            if (!preg_match('#^vždy$#ui', $words[$first_word_i]) && (
                  ($sc[$first_word_i] == 1 && $sc[$first_word_i+1] > 1) ||
                  ($sc[$first_word_i] == 1 && $sc[$first_word_i+1] == 1 && $sc[$first_word_i+2] == 1 && $sc[$first_word_i+3] > 1)
                 )) {
