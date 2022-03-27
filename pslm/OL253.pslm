@@ -1,11 +1,11 @@
-%% occasion: 'Sobota 21. týdne 1'
+%% occasion: '33. neděle v mezidobí C'
 %% responsum_reference: 'Srov. Ž 98 (97),9'
 %% verse_reference: 'Ž 98 (97)'
 %% author: olejnik
-%% source: vsedni_zaltar
-%% page: 124
-
-% Tento žalm má stejné texty veršů jako publikovaný OL55
+%% source: nedelni_zaltar
+%% page: 262
+%% a: "bes'B a8 bes c_ a a2"
+%% b: "gB f8 g a_ f f2"
 
 m: \key f \major
 
@@ -16,54 +16,54 @@ t: Přišel Hospodin, aby spravoval národy podle práva.
 
 %% part: verse
 
-m: aB |
-t: Zpívejte Hospodinu novou píseň,
+m: bes'B a8 bes c_ a a a4 r |
+t: Hrejte Hospodinu na citeru,
 
-m: bB ||
-t: * neboť učinil podivuhodné věci.
+m: gB f8 g a_( f) f4 r ||
+t: * na citeru a s doprovodem zpěvu,
 
 %% part: verse
 
-m: aB |
-t: Vítězství je dílem jeho pravice,
+m: bes'B a8 bes c_( a) a2 |
+t: za hlaholu trub a rohů,
 
-m: bB ||
-t: * jeho svatého ramene.
+m: gB f8 g a_ f f f4 r ||
+t: * jásejte před králem Hospodinem!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: bes'B a8 bes c_ a a a4 r |
 t: Zahuč, moře a vše, co je naplňuje,
 
-m: bB ||
-t: * svět i všichni, kdo jej obývají,
+m: gB f8 g a_ f f f2 ||
+t: * svět i všichni, kdo jej obývají.
 
 %% part: verse
 
-m: aB |
+m: bes'B a8 bes c_ a a4 r |
 t: Řeky, tleskejte rukama,
 
-m: bB ||
+m: gB f8 g a_ f f f4 r ||
 t: * hory, spolu zajásejte.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: bes'B a8 bes c_( a) a4 |
 t: Před Hospodinem, že přišel,
 
-m: bB ||
+m: r8 g8 gB f8 g a_( f) f4 r ||
 t: * že přišel, aby spravoval zemi,
 
 %% part: verse
 
-m: aB |
+m: bes'B a8 bes c_ a a4 |
 t: aby spravoval svět ve spravedlnosti
 
-m: bB ||
+m: r8 g8 gB f8 g a_( f) f4 r ||
 t: * a národy podle práva.
 
 %% use: responsum

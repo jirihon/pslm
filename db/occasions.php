@@ -632,6 +632,7 @@
     1 => 'OL96',
     2 => 'OL101',
     3 => 'OL190',
+    4 => 'OL256',
   ),
   'O svatých (v době velikonoční)' => 
   array (
@@ -1369,9 +1370,17 @@
   array (
     0 => 'OL242',
   ),
+  '28. neděle v mezidobí B' => 
+  array (
+    0 => 'OL243',
+  ),
   '29. neděle v mezidobí A' => 
   array (
     0 => 'OL244',
+  ),
+  '29. neděle v mezidobí C' => 
+  array (
+    0 => 'OL245',
   ),
   '30. neděle v mezidobí A' => 
   array (
@@ -1383,6 +1392,10 @@
     0 => 'OL246',
     1 => 'OL247',
   ),
+  '30. neděle v mezidobí C' => 
+  array (
+    0 => 'OL248',
+  ),
   '31. neděle v mezidobí A' => 
   array (
     0 => 'OL249',
@@ -1393,6 +1406,26 @@
     0 => 'OL249',
     1 => 'OL250',
   ),
+  '32. neděle v mezidobí A' => 
+  array (
+    0 => 'OL251',
+  ),
+  'Za zemřelé' => 
+  array (
+    0 => 'OL251',
+  ),
+  '32. neděle v mezidobí C' => 
+  array (
+    0 => 'OL252',
+  ),
+  '33. neděle v mezidobí C' => 
+  array (
+    0 => 'OL253',
+  ),
+  'Ježíše Krista Krále C' => 
+  array (
+    0 => 'OL254',
+  ),
   'Panny Marie, Matky jednoty křesťanů (18. ledna)' => 
   array (
     0 => 'OL255',
@@ -1401,6 +1434,14 @@
   array (
     0 => 'OL255',
     1 => 'OL258',
+  ),
+  'Sv. Timoteje a Tita (26. ledna)' => 
+  array (
+    0 => 'OL256',
+  ),
+  'Sv. Vojtěcha (23. dubna)' => 
+  array (
+    0 => 'OL256',
   ),
   'Uvedení Páně do chrámu (2. února)' => 
   array (

@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 82
 
-m: \key c \major
+m: \key d \major
 
 %% part: responsum
 
-m: bB ||
+m: r8 fis' g fis e a fis fis fis2 | e8 b' b2 a4 / g8 a b cis a fis2 ||
 t: Až procitnu, Hospodine, nasytím se pohledem na tebe.
 
 %% part: verse

@@ -1,11 +1,15 @@
-%% occasion: 'Pondělí 10. týdne 2'
+%% occasion: '29. neděle v mezidobí C'
 %% responsum_reference: 'Srov Ž 121 R Q (120),2'
 %% verse_reference: 'Ž 121 (120)'
 %% author: olejnik
-%% source: vsedni_zaltar
-%% page: 230
+%% source: nedelni_zaltar
+%% page: 254
+%% a: "as'B g8 as bes_ g es es2"
+%% b: "cB d8 es g_ es f f2"
 
-% Tento žalm má stejné texty veršů jako publikovaný OL245
+% Tento žalm má stejné texty veršů jako publikovaný OL621
+
+% Chyba: čárka místo tečky za 4
 
 m: \key es \major
 
@@ -16,67 +20,72 @@ t: Pomoc nám přijde od Hospodina, který učinil nebe i zemi.
 
 %% part: verse
 
-m: aB |
-t: Zvedám své oči k horám. Odkud mi přijde pomoc? Q
+m: as'B g8 as bes_( g es) es2 |
+t: Zvedám své oči k horám.
 
-m: bB ||
-t: * 
+m: cB d8 es g_( es f) f4 r ||
+t: * Odkud mi přijde pomoc?
 
 %% part: verse
 
-m: aB |
+m: as'B g8 as bes_( g) es es4 r |
 t: Pomoc mi přijde od Hospodina,
 
-m: bB ||
+m: cB d8 es g_( es f) f4 r ||
 t: * který učinil nebe i zemi.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: as'B g8 as bes_( g es) es4 r |
 t: Nedá zakolísat tvé noze,
 
-m: aB |
-t: * nebude dřímat tvůj strážce. 4, Ano, nebude dřímat a spát
+m: cB d8 es g_( es f) f4 r ||
+t: * nebude dřímat tvůj strážce. 
 
-m: bB ||
+%% part: verse
+
+m: as'B g8 as bes_ g es es4 |
+t: Ano, nebude dřímat a spát
+
+m: r8 c8( d8) es g_ es f f2 ||
 t: * strážce Izraelův.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: as'B g8 as bes_( g es) es2 |
 t: Hospodin tě střeží,
 
-m: bB ||
+m: cB d8 es g_( es) f f4 r ||
 t: * Hospodin je tvým ochráncem po tvé pravici.
 
 %% part: verse
 
-m: aB |
+m: as'B g8 as bes_ g es es2 |
 t: Za dne ti slunce neublíží,
 
-m: bB ||
+m: cB d8 es g_( es f) f4 r ||
 t: * ani měsíc v noci.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: as'B g8 as bes_( g es) es4 r |
 t: Hospodin tě bude střežit ode všeho zlého,
 
-m: bB ||
+m: cB d8 es g_( es f) f4 r ||
 t: * střežit bude tvou duši.
 
 %% part: verse
 
-m: aB |
+m: as'B g8 as bes_( g es) es4 |
 t: Hospodin bude střežit tvůj odchod i příchod
 
-m: bB ||
+m: r8 c d8 es g_( es) f f4 r ||
 t: * nyní i na věky.
 
 %% use: responsum

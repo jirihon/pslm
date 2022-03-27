@@ -1,0 +1,73 @@
+%% occasion: 'Sv. Timoteje a Tita (26. ledna)'
+%% occasion: 'Sv. Vojtěcha (23. dubna)'
+%% occasion: 'O duchovních pastýřích'
+%% responsum_reference: 'Ž 96 (95),3'
+%% verse_reference: 'Ž 96 (95)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 265
+%% a: "c''B b8 c d_ b b2"
+%% b: "aB g8 a b_ g g2"
+%% c: "fisB eB*2 fis8 e e_ d d2"
+
+% Tento žalm má stejné texty veršů jako publikovaný OL191
+
+m: \key g \major
+
+%% part: responsum
+
+m: g'8 d d d e d e fis / a8. g16 g4 r | c8 d c b / a g b a~ a4 ||
+t: Vypravujte mezi všemi národy o Hospodinových divech.
+
+%% part: verse
+
+m: c''B b8 c d_( b) b4 r |
+t: Zpívejte Hospodinu novou píseň,
+
+m: aB g8 a b_( g) g4 r |
+t: * zpívejte Hospodinu, všechny země!
+
+m: fisB eB*3 fis8 e e_( d) d4 r ||
+t: * Zpívejte Hospodinu, velebte jeho jméno!
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B b8 c d_( b) b4 r |
+t: Rozhlašujte den ze dne jeho spásu!
+
+m: aB g8 a b_( g) g4 r |
+t: * Vypravujte mezi pohany o jeho slávě,
+
+m: fisB e8 fis8 e e_( d) d4 r ||
+t: * mezi všemi národy o jeho divech.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B b8 c d_ b b2 |
+t: Vzdejte Hospodinu, rodiny národů,
+
+m: aB g8 a b_ g g g4 r |
+t: * vzdejte Hospodinu slávu a moc,
+
+m: fisB eB*2 fis8 e e_( d) d4 r ||
+t: * vzdejte Hospodinu slávu, hodnou jeho jména.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B b8 c d_ b b4 r |
+t: Hlásejte mezi pohany: Hospodin kraluje.
+
+m: aB g8 a b_ g g g4 r |
+t: * Upevnil svět, aby nekolísal:
+
+m: fisB eB*2 fis8 e e_( d) d4 r ||
+t: * národy řídí podle práva.
+
+%% use: responsum
+

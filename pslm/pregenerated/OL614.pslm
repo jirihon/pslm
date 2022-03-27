@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 223
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: bes'4 g8 bes c bes g es4. d8 | c8 c d es g f f2 ||
 t: Má duše po tobě žízní, Hospodine, Bože můj!
 
 %% part: verse

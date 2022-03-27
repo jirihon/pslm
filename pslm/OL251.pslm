@@ -1,0 +1,92 @@
+%% occasion: '32. neděle v mezidobí A'
+%% occasion: 'Za zemřelé'
+%% responsum_reference: 'Ž 63 (62),2b'
+%% verse_reference: 'Ž 63 (62)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 260
+%% a: "as'B besB*2 g8_ g g2"
+%% b: "fB esB*2 g8_ g g2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: bes'4 g8 bes c bes g es4. d8 | c8 c d es g f f2 ||
+t: Má duše po tobě žízní, Hospodine, Bože můj!
+
+%% part: verse
+
+m: as'B besB*2 g4_ g |
+t: Bože, ty jsi můj Bůh,
+
+m: r8 f esB*2 g8_ g4. ||
+t: * snažně tě hledám,
+
+%% part: verse
+
+m: r8 as'8 asB besB*2 g8_ g g4 |
+t: má duše po tobě žízní, (+) mé tělo prahne po tobě
+
+m: r8 f8 fB esB*3 g8_ g r ||
+t: * jak vyprahlá, žíznivá, bezvodá země.
+
+%% part: responsum_short
+
+m: bes'4 g8 bes c bes g es4. d8 | c8 c d es g f f4 ||
+t: Má duše po tobě žízní, Hospodine, Bože můj!
+
+%% part: verse
+
+m: r8 as'8 asB besB*3 g8_ g g g4 r |
+t: Tak toužím spatřit tě ve svatyni,
+
+m: fB esB*2 g4_ g r ||
+t: * abych viděl tvou moc a slávu.
+
+%% part: verse
+
+m: as'B besB*3 g8_ g r4 |
+t: Vždyť tvá milost je lepší než život,
+
+m: fB esB*2 g4_ g r ||
+t: * mé rty tě budou chválit.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B besB*2 g8_ g g4 r |
+t: Tak tě budu velebit ve svém životě,
+
+m: fB esB*2 g8_ g g4 ||
+t: * v tvém jménu povznesu své dlaně k modlitbě.
+
+%% part: verse
+
+m: r8 as'8 asB besB*3 g8_ g r4 |
+t: Má duše se bude sytit jak tukem a morkem,
+
+m: fB esB*4 g4_ g r ||
+t: * plesajícími rty zajásají ústa.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B besB*2 g4_ g r |
+t: Kdykoli na tebe vzpomenu na svém lůžku,
+
+m: fB esB*3 g8_ g r4 ||
+t: * v nočních hodinách budu na tebe myslet.
+
+%% part: verse
+
+m: as'B besB*2 g4_ g |
+t: Neboť stal ses mým pomocníkem
+
+m: r8 f8 fB esB*2 g4_ g2 ||
+t: * a ve stínu tvých křídel jásám.
+
+%% use: responsum
+

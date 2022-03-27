@@ -509,7 +509,7 @@ function pslm_text_to_lyrics($text) {
         '# -- ([bdďjlrřsš]) -- #ui' => '\1 -- ', // move some ambiguous consonants to the previous syllable if both options are possible
         '# -- ([cčfghkmnňpqtťvwxzž]|st|md) -- #ui' => ' -- \1', // move other ambiguous consonants to the next syllable if both options are posible
         '# -- (sť|ls|ch|mž)\b#ui' => '\1', // move unsyllabic parts to the previous syllable
-        '#\b(js) -- #ui' => '\1', // move unsyllabic parts to the next syllable
+        '#\b(js|lst) -- #ui' => '\1', // move unsyllabic parts to the next syllable
 
         '#příz -- n#ui' => 'pří -- zn',
         

@@ -1,0 +1,70 @@
+%% occasion: '28. neděle v mezidobí B'
+%% responsum_reference: 'Ž 90 (89),14'
+%% verse_reference: 'Ž 90 (89)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 252
+%% a: "bes'B c8 g bes_ a a2"
+%% b: "d,B e8 f a_ g g2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: a'8 a f2 d8 e f / bes bes a g2 | a8 g a b / d c c c4 r ||
+t: Nasyť nás, Pane, svou slitovností, abychom se radovali.
+
+%% part: verse
+
+m: bes'B c8 g bes_ a a4 |
+t: Nauč nás počítat naše dny,
+
+m: r8 d,8 dB e8 f a_( g) g4 r ||
+t: * ať dojdeme k moudrosti srdce.
+
+%% part: verse
+
+m: bes'B c8 g bes_( a) a4 r |
+t: Obrať se, Hospodine, (+) jak dlouho ještě budeš čekat?
+
+m: d,B e8 f a_ g g g4 r ||
+t: * Slituj se nad svými služebníky!
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 g bes_ a a a4 |
+t: Nasyť nás brzy svou slitovností,
+
+m: r8 d,8 dB e8 f a_( g) g4 r ||
+t: * ať jásáme a radujeme se po celý život!
+
+%% part: verse
+
+m: bes'B c8 g bes_( a) a4 r |
+t: Potěš nás za dny, kdy jsi nás soužil,
+
+m: d,B e8 f a_ g g2 ||
+t: * za léta, kdy jsme zakoušeli zlé.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 g bes_( a) a4 |
+t: Nechť se ukáže tvým služebníkům tvoje dílo,
+
+m: r8 d,8 dB e8 f a_( g) g2 ||
+t: * tvá sláva jejich synům.
+
+%% part: verse
+
+m: bes'B c8 g bes_( a) a2 |
+t: Ať je nad námi dobrotivost Pána, našeho Boha, + dej zdar práci našich rukou,
+
+m: d,B e8 f a_( g) g2 ||
+t: * dej zdar práci našich rukou!
+
+%% use: responsum
+
