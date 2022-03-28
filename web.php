@@ -62,6 +62,9 @@ function pslm_html_page($title, $body) {
     <?php endif ?>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="css/style.css?ver=<?= time() ?>" media="all" />
+
+    <script src="js/romcal.js"></script>
+    <script src="js/cs.js"></script>
 </head>
 <body>
     <div class="main">

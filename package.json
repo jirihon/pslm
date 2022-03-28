@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "@romcal/calendar.czech-republic": "^3.0.0-dev.10",
+    "romcal": "^3.0.0-dev.10",
     "svgo": "^2.8.0"
   }
 }
