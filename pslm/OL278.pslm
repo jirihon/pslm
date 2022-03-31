@@ -1,9 +1,12 @@
-%% occasion: 'Úterý po 5. neděli velikonoční'
-%% responsum_reference: 'Srov. Ž 145 . (144),12'
+%% occasion: 'Sv. Bartoloměje (24. srpna)'
+%% occasion: 'Sv. Lukáše (18. října)'
+%% responsum_reference: 'Srov. Ž 145 (144),12'
 %% verse_reference: 'Ž 145 (144)'
 %% author: olejnik
 %% source: nedelni_zaltar
-%% page: 165
+%% page: 287
+%% a: "bes'B a8_ g g2"
+%% b: "aB g8_ f f2"
 
 m: \key bes \major
 
@@ -14,47 +17,55 @@ t: Ať tvoji zbožní, Hospodine, vypravují o slávě tvé vznešené říše.
 
 %% part: verse
 
-m: aB |
+m: bes'B a8_( g) g4 |
 t: Ať tě chválí, Hospodine, všechna tvá díla
 
-m: bB ||
+m: r8 a8 aB g8_ f f4 ||
 t: * a tvoji zbožní ať tě velebí!
 
 %% part: verse
 
-m: aB |
+m: r8 bes'8 besB a8_ g g4 |
 t: Ať vypravují o slávě tvého království,
 
-m: bB ||
+m: r8 a8 aB g8_( f) f4 r ||
 t: * ať mluví o tvé síle.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: bes'B a8_( g) g4 r |
 t: Aby poučili lidi o tvé moci,
 
-m: bB ||
-t: * o slávě tvé vznešené říš.
+m: aB g8_( f) f4 ||
+t: * o slávě tvé vznešené říše.
 
 %% part: verse
 
-m: aB |
+m: r8 bes'8 besB a8_( g) g2 |
 t: Tvé království je království všech věků
 
-m: bB ||
+m: aB g8_ f f f2 ||
 t: * a tvá vláda trvá po všechna pokolení.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
-t: Ať má ústa hlásají Hospodinovu chválu,
+m: bes'B a8_( g) g4 |
+t: Spravedlivý je Hospodin na všech svých cestách
 
-m: bB ||
-t: * vše, co žije, ať velebí jeho svaté jméno po všechny věky!
+m: r8 a8 aB g8_( f) f4 r ||
+t: * a svatý ve všech svých činech.
+
+%% part: verse
+
+m: bes'B a8_ g g4 r |
+t: Blízko je Hospodin všem, kdo ho vzývají,
+
+m: aB g8_ f f4 r ||
+t: * všem, kdo ho vzývají upřímně.
 
 %% use: responsum
 

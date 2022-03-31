@@ -273,6 +273,7 @@
     0 => 'OL42',
     1 => 'OL249',
     2 => 'OL250',
+    3 => 'OL270',
   ),
   'Při svatbě' => 
   array (
@@ -1539,6 +1540,51 @@
   'O mučednících (i v době velikonoční)' => 
   array (
     0 => 'OL269',
+    1 => 'OL272',
+  ),
+  'Sv. Prokopa (4. července)' => 
+  array (
+    0 => 'OL270',
+  ),
+  'Sv. Benedikta (11. července)' => 
+  array (
+    0 => 'OL271',
+  ),
+  'Sv. Jakuba (25. července)' => 
+  array (
+    0 => 'OL272',
+  ),
+  'Sv. Jáchyma a Anny (26. července)' => 
+  array (
+    0 => 'OL273',
+  ),
+  'Proměnění Páně (6. srpna)' => 
+  array (
+    0 => 'OL274',
+  ),
+  'Sv. Vavřince (10. srpna)' => 
+  array (
+    0 => 'OL275',
+  ),
+  'Nanebevzetí Panny Marie, vigilie (14. srpna, večer)' => 
+  array (
+    0 => 'OL276',
+  ),
+  'Nanebevzetí Panny Marie (15. srpna)' => 
+  array (
+    0 => 'OL277',
+  ),
+  'Sv. Bartoloměje (24. srpna)' => 
+  array (
+    0 => 'OL278',
+  ),
+  'Sv. Lukáše (18. října)' => 
+  array (
+    0 => 'OL278',
+  ),
+  'Narození Panny Marie (8. září)' => 
+  array (
+    0 => 'OL279',
   ),
   'Při řeholních slibech (i v době velikonoční)' => 
   array (

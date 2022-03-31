@@ -1,0 +1,49 @@
+%% occasion: 'Nanebevzetí Panny Marie (15. srpna)'
+%% responsum_reference: 'Srov. Ž 45 (44),10b'
+%% verse_reference: 'Ž 45 (44)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 286
+%% a: "c''B b8 a a_ g g2"
+%% b: "aB g8 f e_ d d2"
+
+m: \key c \major
+
+%% part: responsum
+
+m: e'8 c~ c4 f8 f f g / e4 e8 e | d f a a2 / a8 b a gis( e) e4 r ||
+t: Po své pravici máš královnu ozdobenou ofirským zlatem.
+
+%% part: verse
+
+m: c''B b8 a a_ g g4 r |
+t: Po své pravici máš královnu,
+
+m: aB g8 f e_( d) d4 r ||
+t: * ozdobenou ofirským zlatem.
+
+%% part: responsum_short
+
+m: e'8 c~ c4 f8 f f g / e4 e8 e | d f a a2 / a8 b a gis( e) e4 ||
+t: Po své pravici máš královnu ozdobenou ofirským zlatem.
+
+%% part: verse
+
+m: r8 c''8 cB b8 a a_ g g4 r |
+t: Slyš, dcero, pohleď a naslouchej,
+
+m: aB g8 f e_( d) d4 r ||
+t: * sám král touží po tvé kráse.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B b8 a a_ g g4 r |
+t: Provázena radostným jásotem
+
+m: aB g8 f e_( d) d2 ||
+t: * vstupuje v královský palác.
+
+%% use: responsum
+

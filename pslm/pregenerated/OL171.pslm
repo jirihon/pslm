@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 180
 
-m: \key c \major
+m: \key g \major
 
 %% part: responsum
 
-m: bB ||
+m: r8 d'8 e fis g d d4 | g c8 b a g / fis g a a~ a4 ||
 t: Hospodin kraluje, je povznesen nad celou zemí.
 
 %% part: verse

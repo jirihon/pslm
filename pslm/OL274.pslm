@@ -1,0 +1,62 @@
+%% occasion: 'Proměnění Páně (6. srpna)'
+%% responsum_reference: 'Ž 97 (96),1a.9a'
+%% verse_reference: 'Ž 97 (96)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 283
+%% a: "c''B d8 a c_ b b2"
+%% b: "aB g8 a b_ g g2"
+
+m: \key g \major
+
+%% part: responsum
+
+m: r8 d'8 e fis g d d4 | g c8 b a g / fis g a a~ a4 ||
+t: Hospodin kraluje, je povznesen nad celou zemí.
+
+%% part: verse
+
+m: c''B d8 a c_( b) b4 r |
+t: Hospodin kraluje, ať zajásá země,
+
+m: aB g8 a b_ g g4 r ||
+t: * ať se radují četné ostrovy!
+
+%% part: verse
+
+m: c''B d8 a c_ b b b2 |
+t: Mrak a temnota ho obklopují,
+
+m: aB g8 a b_( g) g4 r ||
+t: * spravedlnost a právo jsou základem jeho trůnu.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B d8 a c_ b b4 r |
+t: Jako vosk se taví hory před Hospodinem,
+
+m: aB g8 a b_( g) g4 r ||
+t: * před vladařem celé země.
+
+%% part: verse
+
+m: c''B d8 a c_ b b b4 |
+t: Nebesa hlásají jeho spravedlnost
+
+m: r8 a8 aB g8 a b_( g) g4 r ||
+t: * a všechny národy vidí jeho slávu.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B d8 a c_( b) b2 |
+t: Neboť ty, Hospodine, (+) jsi povznesen nad celou zemí,
+
+m: aB g8 a b_( g) g4 r ||
+t: * svrchovaně vynikáš nade všemi bohy.
+
+%% use: responsum
+

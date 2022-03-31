@@ -1,0 +1,80 @@
+%% occasion: 'Sv. Vavřince (10. srpna)'
+%% responsum_reference: 'Ž 112 (111),5a'
+%% verse_reference: 'Ž 112 (111)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 284
+%% a: "as'B bes8 as g_ f f2"
+%% b: "bes,8 f'B es8 f g_ bes bes2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: bes'8 g c bes | r bes es,4. f8 / g bes / c4 bes4. c8 / d bes g4 r ||
+t: Blaze muži, který se slitovává a půjčuje.
+
+%% part: verse
+
+m: as'B bes8 as g_ f f f4 r |
+t: Blaze muži, který se bojí Hospodina,
+
+m: bes,8 f'B es8 f g_ bes bes bes2 ||
+t: * který má velkou zálibu v jeho přikázáních.
+
+%% part: verse
+
+m: as'B bes8 as g_ f f4 r |
+t: Mocné bude na zemi jeho potomstvo,
+
+m: bes,8 f'B es8 f g_ bes bes bes4 r ||
+t: * pokolení řádných lidí bude požehnáno.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 as g_ f f4 r |
+t: Blaze muži, který se slitovává a půjčuje,
+
+m: bes,8 f'B es8 f g_( bes) bes4 r ||
+t: * stará se o své věci podle práva.
+
+%% part: verse
+
+m: as'B bes8 as g_ f f2 |
+t: Neboť na věky nezakolísá,
+
+m: bes,8 f'B es8 f g_ bes bes bes2 ||
+t: * ve věčné paměti bude spravedlivý.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 as g_( f) f4 r |
+t: Nemusí se obávat zlé zprávy,
+
+m: bes,8 f'B es8 f g_ bes bes bes4 r ||
+t: * jeho srdce je pevné, důvěřuje v Hospodina.
+
+%% part: verse
+
+m: as'B bes8 as g_ f f f4 r |
+t: Jeho srdce je zmužilé, nebojí se,
+
+m: bes,8 f'B es8 f g_( bes) bes bes4 r ||
+t: * dokud neuzří své protivníky ve zmatku.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 as g_( f) f2 |
+t: Rozděluje, dává chudým,
+
+m: bes,8 f'B es8 f g_( bes) bes4 r ||
+t: * jeho štědrost potrvá navždy, + jeho moc poroste v slávě.
+
+%% use: responsum
+

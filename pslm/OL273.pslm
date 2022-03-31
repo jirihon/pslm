@@ -1,9 +1,11 @@
-%% occasion: 'Pátek 11. týdne 2'
+%% occasion: 'Sv. Jáchyma a Anny (26. července)'
 %% responsum_reference: 'Lk 1,32b'
 %% verse_reference: 'Ž 132 (131)'
 %% author: olejnik
-%% source: vsedni_zaltar
-%% page: 240
+%% source: nedelni_zaltar
+%% page: 282
+%% a: "as'B bes8 c c_ bes bes2"
+%% b: "fB es8 f as_ g g2"
 
 m: \key es \major
 
@@ -14,72 +16,54 @@ t: Pán Bůh mu dá trůn jeho otce Davida.
 
 %% part: verse
 
-m: aB |
+m: as'B bes8 c c_ bes bes bes4 r |
 t: Přísahal Hospodin Davidovi
 
-m: bB ||
+m: fB es8 f as_ g g g2 ||
 t: * s věrností, kterou neporuší:
 
 %% part: verse
 
-m: aB |
+m: as'B bes8 c c_( bes) bes4 |
 t: „Potomka z tvého rodu
 
-m: bB ||
-t: * dosadím na tvůj trůn.
+m: r8 f es8 f as_ g g2 ||
+t: * dosadím na tvůj trůn.“
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
-t: Budouli tvoji synové dbát na mou smlouvu,
-
-m: bB ||
-t: * na mé příkazy, kterým je naučím ,
-
-%% part: verse
-
-m: aB |
-t: též jejich synové na věky
-
-m: bB ||
-t: * budou sedět na tvém trůně!“
-
-%% use: responsum
-
-%% part: verse
-
-m: aB |
+m: as'B bes8 c c_( bes) bes2 |
 t: Neboť Hospodin si vyvolil Sión,
 
-m: bB ||
+m: fB es8 f as_( g) g4 r ||
 t: * přál si ho mít za své sídlo:
 
 %% part: verse
 
-m: aB |
+m: as'B bes8 c c_ bes bes4 |
 t: „To je můj příbytek na věky,
 
-m: bB ||
+m: r8 f8 fB es8 f as_( g) g4 r ||
 t: * zde budu sídlit, ten jsem si zvolil.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: as'B bes8 c c_ bes bes bes4 r |
 t: Zde dám vyrašit rohu Davidovu,
 
-m: bB ||
+m: fB es8 f as_ g g4 r ||
 t: * rozžehnu svítilnu svému pomazanému.
 
 %% part: verse
 
-m: aB |
+m: as'B bes8 c c_( bes) bes2 |
 t: Jeho nepřátele obléknu hanbou,
 
-m: bB ||
+m: fB es8 f as_ g g4 r ||
 t: * ale na něm zazáří má koruna.“
 
 %% use: responsum

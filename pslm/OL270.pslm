@@ -1,0 +1,71 @@
+%% occasion: 'Sv. Prokopa (4. července)'
+%% occasion: 'O svatých'
+%% responsum_reference: 'Ž 1,2a'
+%% verse_reference: 'Ž 1'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 279
+%% a: "e'B fis8 g a_ b a a2"
+%% b: "aB g8 a b_ c b b2"
+
+m: \key g \major
+
+%% part: responsum
+
+m: b'4( g) c8 c b a / b b b a fis / d d d4 r ||
+t: Má zalíbení v Hospodinově zákoně.
+
+%% part: verse
+
+m: e'B fis8 g a_( b) a a2 |
+t: Blaze tomu, kdo nechodí, jak mu radí bezbožní,
+
+m: aB g8 a b_( c) b b2 ||
+t: * nepostává na cestě, kudy chodí hříšní, + a nezasedá ve shromáždění rouhačů,
+
+%% part: verse
+
+m: e'B fis8 g a_( b) a a4 |
+t: ale má zalíbení v Hospodinově zákoně
+
+m: r8 a8 aB g8 a b_( c b) b2 ||
+t: * a o jeho zákoně přemítá dnem i nocí.
+
+%% use: responsum
+
+%% part: verse
+
+m: e'B fis8 g a_( b a) a2 |
+t: Podobá se tak stromu zasazenému u vodních proudů,
+
+m: aB g8 a b_( c) b b4 ||
+t: * ve svůj čas přináší ovoce,
+
+%% part: verse
+
+m: r8 e' fis8 g a_( b) a a4 |
+t: listí mu nevadne
+
+m: r8 a8 aB g8 a b_( c b) b2 ||
+t: * a daří se mu vše, co koná.
+
+%% use: responsum
+
+%% part: verse
+
+m: e'B fis8 g a_( b a) a4 |
+t: Jinak je tomu s bezbožnými, zcela jinak:
+
+m: r8 a8 aB g8 a b_( c b) b4 ||
+t: * jsou jako pleva rozvátá větrem,
+
+%% part: verse
+
+m: r8 e'8 eB fis8 g a_ b a a2 |
+t: vždyť Hospodin dbá o cestu spravedlivých,
+
+m: aB g8 a b_( c) b b2 ||
+t: * ale cesta bezbožných skončí záhubou.
+
+%% use: responsum
+

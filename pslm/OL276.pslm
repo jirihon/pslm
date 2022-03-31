@@ -1,0 +1,73 @@
+%% occasion: 'Nanebevzetí Panny Marie, vigilie (14. srpna, večer)'
+%% responsum_reference: 'Ž 132 (131),8'
+%% verse_reference: 'Ž 132 (131)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 285
+%% a: "c''B d8 c b_ a a2"
+%% b: "aB b8 g e_ d d2"
+
+m: \key g \major
+
+%% part: responsum_short
+
+m: d'4 | a'8 g g g4 r | e8 e e e e / fis g / b a a a4 \breathe | d,8 a' a / a g fis b4 b ||
+t: Vstaň, Hospodine, vejdi na místo svého odpočinku, ty i tvá vznešená archa!
+
+%% part: verse
+
+m: r8 c''8 cB d8 c b_ a a4 r |
+t: Hle, slyšeli jsme o ní v Efratě,
+
+m: aB b8 g e_( d) d4 r ||
+t: * nalezli jsme ji na polích Jaa -- ru.
+
+%% part: verse
+
+m: c''B d8 c b_ a a4 r |
+t: Vejděme do jeho příbytku,
+
+m: aB b8 g e_( d) d2 ||
+t: * klaňme se u podnože jeho nohou.
+
+%% part: responsum
+
+m: d'4 | a'8 g g g4 r | e8 e e e e / fis g / b a a a4 \breathe | d,8 a' a / a g fis b4 b r ||
+t: Vstaň, Hospodine, vejdi na místo svého odpočinku, ty i tvá vznešená archa!
+
+%% part: verse
+
+m: c''B d8 c b_ a a a4 |
+t: Tvoji kněží ať obléknou spravedlnost
+
+m: r8 a8 aB b8 g e_ d d d2 ||
+t: * a tvoji zbožní ať se jásotem rozjásají!
+
+%% part: verse
+
+m: c''B d8 c b_ a a a4 r |
+t: Pro Davida, svého služebníka,
+
+m: aB b8 g e_ d d4 r ||
+t: * neodmítej tvář svého pomazaného!
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B d8 c b_( a) a2 |
+t: Neboť Hospodin si vyvolil Sión,
+
+m: aB b8 g e_( d) d4 r ||
+t: * přál si ho mít za své sídlo:
+
+%% part: verse
+
+m: c''B d8 c b_ a a4 |
+t: „To je můj příbytek na věky,
+
+m: r8 a8 aB b8 g e_( d) d4 r ||
+t: * zde budu sídlit, ten jsem si zvolil.“
+
+%% use: responsum
+

@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 168
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: bes'8 g c bes | r bes es,4. f8 / g bes / c4 bes4. c8 / d bes g4 r ||
 t: Blaze muži, který se slitovává a půjčuje.
 
 %% part: verse

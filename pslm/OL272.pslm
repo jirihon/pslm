@@ -1,0 +1,92 @@
+%% occasion: 'Sv. Jakuba (25. července)'
+%% occasion: 'O mučednících (i v době velikonoční)'
+%% responsum_reference: 'Ž 126 (125),5'
+%% verse_reference: 'Ž 126 (125)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 281
+%% a: "bes'B bes8_ a a2"
+%% b: "gB g8_ f f2"
+
+m: \key f \major
+
+%% part: responsum_short
+
+m: r8 f' e d g g4. | g4 f8 e a a a4 ||
+t: Kdo sejí v slzách žnout budou s jásotem.
+
+%% part: verse
+
+m: r8 bes'8 besB bes8_ a a4 r |
+t: Když Hospodin přiváděl siónské zajatce,
+
+m: gB g8_( f) f2 ||
+t: * byli jsme jako ve snách.
+
+%% part: verse
+
+m: bes'B bes8_( a) a4 r |
+t: Tehdy naše ústa byla plná smíchu
+
+m: gB g8_ f f4 ||
+t: * a náš jazyk plný jásotu.
+
+%% part: responsum
+
+m: r8 f' e d g g4. | g4 f8 e a a a4 r ||
+t: Kdo sejí v slzách žnout budou s jásotem.
+
+%% part: verse
+
+m: bes'B bes8_ a a4 r |
+t: Tehdy se říkalo mezi pohany:
+
+m: gB g8_ f f4 r ||
+t: * „Velkou věc s nimi učinil Hospodin!“
+
+%% part: verse
+
+m: bes'B bes8_ a a4 r |
+t: Ano, velkou věc s námi učinil Hospodin,
+
+m: gB g8_( f) f4 r ||
+t: * naplnila nás radost.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B bes8_( a) a4 r |
+t: Hospodine, změň náš osud,
+
+m: gB g8_( f) f4 ||
+t: * jako se mění údolí na jihu země.
+
+%% part: verse
+
+m: r8 bes'8 besB bes8_( a) a2 |
+t: Kdo sejí v slzách,
+
+m: gB g8_ f f4 r ||
+t: * žnouti budou s jásotem.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B bes8_( a) a4 |
+t: Vycházejí s pláčem,
+
+m: r8 g8 gB g8_( f) f2 ||
+t: * když nesou semeno k setí:
+
+%% part: verse
+
+m: bes'B bes8_ a a4 |
+t: přijdou však s jásotem
+
+m: r8 g8 gB g8_( f) f4 r ||
+t: * a přinesou své snopy.
+
+%% use: responsum
+
