@@ -113,7 +113,7 @@ foreach ($occasions as $occasion) {
     }
 }
 
-$fp = fopen('occasion_romcal.csv', 'w');
+$fp = fopen('db/occasion_romcal.csv', 'w');
 fputcsv($fp, ['occasion','id','cycle']);
 
 foreach ($occasions as $occasion) {
