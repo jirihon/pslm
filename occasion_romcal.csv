@@ -1,0 +1,401 @@
+occasion,id,cycle
+"1. neděle adventní A",advent_1_sunday,A
+"Za zemřelé / Při pohřbu (v době velikonoční)",,
+"1. neděle adventní B",advent_1_sunday,B
+"4. neděle adventní C",advent_4_sunday,C
+"Sobota po 2. neděli adventní",advent_2_saturday,
+"1. neděle adventní C",advent_1_sunday,C
+"Předvánoční týden (23. prosince)",23/12,
+"Pondělí po 1. neděli adventní",advent_1_monday,
+"Úterý po 1. neděli adventní",advent_1_tuesday,
+"2. neděle adventní A",advent_2_sunday,A
+"Středa po 1. neděli adventní",advent_1_wednesday,
+"28. neděle v mezidobí A",ordinary_time_28_sunday,A
+"Čtvrtek po 1. neděli adventní",advent_1_thursday,
+"Pátek po 1. neděli adventní",advent_1_friday,
+"Pátek po 2. neděli velikonoční",easter_time_2_friday,
+"3. neděle v mezidobí A",sunday_of_the_word_of_god,A
+"Sobota po 1. neděli adventní",advent_1_saturday,
+"5. neděle v mezidobí B",ordinary_time_5_sunday,B
+"2. neděle adventní B",advent_2_sunday,B
+"Pondělí po 2. neděli adventní",advent_2_monday,
+"Středa po 3. neděli adventní",advent_3_wednesday,
+"15. neděle v mezidobí B",ordinary_time_15_sunday,B
+"2. neděle adventní C",advent_2_sunday,C
+"5. neděle postní C",lent_5_sunday,C
+"30. neděle v mezidobí B",ordinary_time_30_sunday,B
+"Úterý po 2. neděli adventní",advent_2_tuesday,
+"Středa po 2. neděli adventní",advent_2_wednesday,
+"Čtvrtek po 2. neděli adventní",advent_2_thursday,
+"Pátek po 2. neděli adventní",advent_2_friday,
+"Čtvrtek po Popeleční středě",thursday_after_ash_wednesday,
+"Čtvrtek po 2. neděli postní",lent_2_thursday,
+"6. neděle v mezidobí C",ordinary_time_6_sunday,C
+"3. neděle adventní A",advent_3_sunday,A
+"3. neděle adventní B",advent_3_sunday,B
+"3. neděle adventní C",advent_3_sunday,C
+"Navštívení Panny Marie (31. května)",visitation_of_mary,(
+"Pondělí po 3. neděli adventní",advent_3_monday,
+"3. neděle v mezidobí B",sunday_of_the_word_of_god,B
+"Úterý po 3. neděli adventní",advent_3_tuesday,
+"Čtvrtek po 3. neděli adventní",advent_3_thursday,
+"Pondělí po 4. neděli postní",lent_4_monday,
+"Zmrtvýchvstání Páně, vigilie (4. čtení)",easter_sunday,
+"3. neděle velikonoční C",easter_time_3_sunday,C
+"10. neděle v mezidobí C",ordinary_time_10_sunday,C
+"Pátek po 3. neděli adventní",advent_3_friday,
+"4. neděle adventní A",advent_4_sunday,A
+"Předvánoční týden (20. prosince)",20/12,
+"4. neděle adventní B",advent_4_sunday,B
+"Předvánoční týden (24. prosince)",24/12,
+"Předvánoční týden (17. prosince)",17/12,
+"Předvánoční týden (18. prosince)",18/12,
+"Předvánoční týden (19. prosince)",19/12,
+"Předvánoční týden (21. prosince)",21/12,
+"Předvánoční týden (22. prosince)",22/12,
+"Neposkvrněného Srdce Panny Marie",immaculate_heart_of_mary,
+"O Panně Marii",,
+"Narození Páně, vigilie",christmas,
+"Narození Páně, v noci",christmas,
+"Narození Páně, za svítání (v noci)",christmas,
+"Narození Páně, ve dne",christmas,
+"Svaté Rodiny A(BC) (pokud se čte čtení z Sir 3,3-17)",holy_family,A(BC)
+"33. neděle v mezidobí A",ordinary_time_33_sunday,A
+"O svatých",,
+"Při svatbě",,
+"Svaté Rodiny B (pokud se čte čtení z Gn 15,1-6)",holy_family,B
+"Svaté Rodiny C (pokud se čte čtení z 1 Sam 1,20-28)",holy_family,C
+"Pátý den v oktávu Narození Páně (29. prosince)",christmas_octave_day_5,
+"Šestý den v oktávu Narození Páně (30. prosince)",christmas_octave_day_6,
+"Sedmý den v oktávu Narození Páně (31. prosince)",christmas_octave_day_7,
+"Na začátku občanského roku (31. prosince, večer)",31/12,
+"Nejsvětějšího Jména Ježíš (3. ledna)",most_holy_name_of_jesus,(
+"Nejsvětější Trojice C",trinity_sunday,C
+"Při křtu dospělých",,
+"Matky Boží, Panny Marie (1. ledna)",mary_mother_of_god,(1
+"2. neděle po Narození Páně",second_sunday_after_christmas,
+"Týden před Zjevením Páně (2. ledna)",2/1,
+"Sobota po 4. neděli velikonoční",easter_time_4_saturday,
+"Týden před Zjevením Páně (3. ledna)",3/1,
+"Týden před Zjevením Páně (4. ledna)",4/1,
+"Týden před Zjevením Páně (5. ledna)",5/1,
+"Těla a Krve Páně, k adoraci",corpus_christi,
+"Týden před Zjevením Páně (6. ledna, pokud je slavnost v neděli)",6/1,
+"Týden po Zjevení Páně (11. ledna)",11/1,
+"Pátek po Zjevení Páně",friday_after_epiphany,
+"Těla a Krve Páně A",corpus_christi,A
+"Týden před Zjevením Páně (7. ledna, pokud je slavnost v neděli)",7/1,
+"Týden po Zjevení Páně (12. ledna)",12/1,
+"Sobota po Zjevení Páně",saturday_after_epiphany,
+"Pondělí po 6. neděli velikonoční",easter_time_6_monday,
+"Zjevení Páně (6. ledna)",epiphany,(
+"Týden po Zjevení Páně (7. ledna)",7/1,
+"Pondělí po Zjevení Páně",monday_after_epiphany,
+"Týden po Zjevení Páně (8. ledna)",8/1,
+"Úterý po Zjevení Páně",tuesday_after_epiphany,
+"Týden po Zjevení Páně (9. ledna)",9/1,
+"Středa po Zjevení Páně",wednesday_after_epiphany,
+"Týden po Zjevení Páně (10. ledna)",10/1,
+"Čtvrtek po Zjevení Páně",thursday_after_epiphany,
+"Křtu Páně A(BC) (pokud se čte čtení z Iz 42,1-7)",baptism_of_the_lord,A(BC)
+"Křtu Páně B (pokud se čte čtení z Iz 55,1-11)",baptism_of_the_lord,B
+"Zmrtvýchvstání Páně, vigilie (5. čtení)",easter_sunday,
+"Nejsvětějšího Srdce Ježíšova B",most_sacred_heart_of_jesus,B
+"Křtu Páně C (pokud se čte čtení z Iz 40,1-11)",baptism_of_the_lord,C
+"Popeleční středa",ash_wednesday,
+"1. neděle postní A",lent_1_sunday,A
+"Pátek po Popeleční středě",friday_after_ash_wednesday,
+"Sobota po Popeleční středě",saturday_after_ash_wednesday,
+"1. neděle postní B",lent_1_sunday,B
+"1. neděle postní C",lent_1_sunday,C
+"Pondělí po 1. neděli postní",lent_1_monday,
+"3. neděle v mezidobí C",sunday_of_the_word_of_god,C
+"Při svěcení kostela",,
+"Úterý po 1. neděli postní",lent_1_tuesday,
+"Středa po 1. neděli postní",lent_1_wednesday,
+"Čtvrtek po 1. neděli postní",lent_1_thursday,
+"Úterý po 6. neděli velikonoční",easter_time_6_tuesday,
+"Pátek po 1. neděli postní",lent_1_friday,
+"5. neděle postní A",lent_5_sunday,A
+"10. neděle v mezidobí B",ordinary_time_10_sunday,B
+"Sobota po 1. neděli postní",lent_1_saturday,
+"2. neděle postní A",lent_2_sunday,A
+"29. neděle v mezidobí B",ordinary_time_29_sunday,B
+"2. neděle postní B",lent_2_sunday,B
+"2. neděle postní C",lent_2_sunday,C
+"Pondělí po 2. neděli postní",lent_2_monday,
+"Úterý po 2. neděli postní",lent_2_tuesday,
+"Středa po 2. neděli postní",lent_2_wednesday,
+"Pátek po 2. neděli postní",lent_2_friday,
+"Sobota po 2. neděli postní",lent_2_saturday,
+"24. neděle v mezidobí A",ordinary_time_24_sunday,A
+"3. neděle postní A",lent_3_sunday,A
+"Čtvrtek po 3. neděli postní",lent_3_thursday,
+"4. neděle v mezidobí B",ordinary_time_4_sunday,B
+"23. neděle v mezidobí A",ordinary_time_23_sunday,A
+"3. neděle postní B",lent_3_sunday,B
+"Zmrtvýchvstání Páně, vigilie (6. čtení)",easter_sunday,
+"Seslání Ducha Svatého, vigilie (po čtení z Ex 19,3-20)",pentecost_sunday,
+"3. neděle postní C",lent_3_sunday,C
+"Pondělí po 3. neděli postní",lent_3_monday,
+"Pondělí po 4. neděli velikonoční",easter_time_4_monday,
+"Úterý po 3. neděli postní",lent_3_tuesday,
+"26. neděle v mezidobí A",ordinary_time_26_sunday,A
+"Středa po 3. neděli postní",lent_3_wednesday,
+"Pátek po 3. neděli postní",lent_3_friday,
+"Sobota po 3. neděli postní",lent_3_saturday,
+"4. neděle postní A",lent_4_sunday,A
+"Pondělí po 5. neděli postní",lent_5_monday,
+"4. neděle velikonoční A",easter_time_4_sunday,A
+"Nejsvětějšího Srdce Ježíšova C",most_sacred_heart_of_jesus,C
+"16. neděle v mezidobí B",ordinary_time_16_sunday,B
+"Ježíše Krista Krále A",christ_the_king_sunday,A
+"Stolce sv. apoštola Petra (22. února)",chair_of_saint_peter_the_apostle,(22
+"O duchovních pastýřích",,
+"O svatých (v době velikonoční)",,
+"Při křtu / Při biřmování",,
+"Při svěcení jáhnů (v době velikonoční)",,
+"Za zemřelé / Při pohřbu",,
+"4. neděle postní B",lent_4_sunday,B
+"4. neděle postní C",lent_4_sunday,C
+"Úterý po 4. neděli postní",lent_4_tuesday,
+"Posvěcení lateránské baziliky (9. listopadu)",dedication_of_the_lateran_basilica,(
+"Výročí posvěcení kostela",,
+"Středa po 4. neděli postní",lent_4_wednesday,
+"Čtvrtek po 4. neděli postní",lent_4_thursday,
+"Pátek po 4. neděli postní",lent_4_friday,
+"Sobota po 4. neděli postní",lent_4_saturday,
+"5. neděle postní B",lent_5_sunday,B
+"Úterý po 5. neděli postní",lent_5_tuesday,
+"Středa po 5. neděli postní",lent_5_wednesday,
+"Nejsvětější Trojice A",trinity_sunday,A
+"Čtvrtek po 5. neděli postní",lent_5_thursday,
+"Pátek po 5. neděli postní",lent_5_friday,
+"Sobota po 5. neděli postní",lent_5_saturday,
+"Květná neděle",palm_sunday,
+"Pondělí Svatého týdne",holy_monday,
+"Úterý Svatého týdne",holy_tuesday,
+"4. neděle v mezidobí C",ordinary_time_4_sunday,C
+"Středa Svatého týdne",holy_wednesday,
+"Zelený čtvrtek, svěcení olejů",holy_thursday,
+"Při svěcení kněží a biskupů",,
+"Zelený čtvrtek",holy_thursday,
+"Velký pátek",good_friday,
+"Zmrtvýchvstání Páně, vigilie (1. čtení)",easter_sunday,
+"Zmrtvýchvstání Páně, vigilie (2. čtení)",easter_sunday,
+"33. neděle v mezidobí B",ordinary_time_33_sunday,B
+"Zmrtvýchvstání Páně, vigilie (3. čtení)",easter_sunday,
+"Zmrtvýchvstání Páně, vigilie (7. čtení)",easter_sunday,
+"Zmrtvýchvstání Páně",easter_sunday,
+"Pondělí v oktávu velikonočním",easter_monday,
+"Čtvrtek po 7. neděli velikonoční",easter_time_7_thursday,
+"Úterý v oktávu velikonočním",easter_tuesday,
+"Středa v oktávu velikonočním",easter_wednesday,
+"Čtvrtek v oktávu velikonočním",easter_thursday,
+"Pátek v oktávu velikonočním",easter_friday,
+"Sobota v oktávu velikonočním",easter_saturday,
+"2. neděle velikonoční A",divine_mercy_sunday,A
+"2. neděle velikonoční B",divine_mercy_sunday,B
+"2. neděle velikonoční C",divine_mercy_sunday,C
+"Pondělí po 2. neděli velikonoční",easter_time_2_monday,
+"Úterý po 2. neděli velikonoční",easter_time_2_tuesday,
+"Ježíše Krista Krále B",christ_the_king_sunday,B
+"Středa po 2. neděli velikonoční",easter_time_2_wednesday,
+"Čtvrtek po 2. neděli velikonoční",easter_time_2_thursday,
+"Sobota po 2. neděli velikonoční",easter_time_2_saturday,
+"5. neděle velikonoční A",easter_time_5_sunday,A
+"3. neděle velikonoční A",easter_time_3_sunday,A
+"3. neděle velikonoční B",easter_time_3_sunday,B
+"Pondělí po 3. neděli velikonoční",easter_time_3_monday,
+"Úterý po 3. neděli velikonoční",easter_time_3_tuesday,
+"Středa po 3. neděli velikonoční",easter_time_3_wednesday,
+"Čtvrtek po 3. neděli velikonoční",easter_time_3_thursday,
+"Pátek po 3. neděli velikonoční",easter_time_3_friday,
+"9. neděle v mezidobí C",ordinary_time_9_sunday,C
+"21. neděle v mezidobí C",ordinary_time_21_sunday,C
+"Obrácení sv. Pavla (25. ledna)",conversion_of_saint_paul_the_apostle,(2
+"Sv. Tomáše (3. července)",thomas_apostle,(
+"Sv. Cyrila a Metoděje (5. července)",cyril_the_philosopher_monk_and_methodius_of_thessaloniki_bishop,(
+"O duchovních pastýřích (i v době velikonoční)",,
+"Při biřmování (v době velikonoční)",,
+"Sobota po 3. neděli velikonoční",easter_time_3_saturday,
+"4. neděle velikonoční B",easter_time_4_sunday,B
+"4. neděle velikonoční C",easter_time_4_sunday,C
+"11. neděle v mezidobí A",ordinary_time_11_sunday,A
+"Úterý po 4. neděli velikonoční",easter_time_4_tuesday,
+"Středa po 4. neděli velikonoční",easter_time_4_wednesday,
+"6. neděle velikonoční C",easter_time_6_sunday,C
+"20. neděle v mezidobí A",ordinary_time_20_sunday,A
+"Čtvrtek po 4. neděli velikonoční",easter_time_4_thursday,
+"Pátek po 4. neděli velikonoční",easter_time_4_friday,
+"5. neděle velikonoční B",easter_time_5_sunday,B
+"5. neděle velikonoční C",easter_time_5_sunday,C
+"Pondělí po 5. neděli velikonoční",easter_time_5_monday,
+"Úterý po 5. neděli velikonoční",easter_time_5_tuesday,
+"Středa po 5. neděli velikonoční",easter_time_5_wednesday,
+"Čtvrtek po 5. neděli velikonoční",easter_time_5_thursday,
+"Pátek po 5. neděli velikonoční",easter_time_5_friday,
+"Sobota po 5. neděli velikonoční",easter_time_5_saturday,
+"6. neděle velikonoční A",easter_time_6_sunday,A
+"14. neděle v mezidobí C",ordinary_time_14_sunday,C
+"6. neděle velikonoční B",easter_time_6_sunday,B
+"Čtvrtek po 6. neděli velikonoční (pokud je slavnost v neděli)",easter_time_6_thursday,
+"28. neděle v mezidobí C",ordinary_time_28_sunday,C
+"Středa po 6. neděli velikonoční",easter_time_6_wednesday,
+"O pannách (i v době velikonoční)",,
+"Při pohřbu pokřtěného dítěte (v době velikonoční)",,
+"Nanebevstoupení Páně (čtvrtek po 6. neděli velikonoční)",ascension,(
+"Pátek po 6. neděli velikonoční",easter_time_6_friday,
+"Sobota po 6. neděli velikonoční",easter_time_6_saturday,
+"7. neděle velikonoční A",easter_time_7_sunday,A
+"7. neděle velikonoční B",easter_time_7_sunday,B
+"Pátek po 7. neděli velikonoční",easter_time_7_friday,
+"7. neděle velikonoční C",easter_time_7_sunday,C
+"Pondělí po 7. neděli velikonoční",easter_time_7_monday,
+"Úterý po 7. neděli velikonoční",easter_time_7_tuesday,
+"Středa po 7. neděli velikonoční",easter_time_7_wednesday,
+"Sobota po 7. neděli velikonoční",easter_time_7_saturday,
+"Seslání Ducha Svatého, vigilie (po čtení z Gn 11,1-9, pokud následuje čtení ze Starého zákona)",pentecost_sunday,
+"Seslání Ducha Svatého, vigilie (po čtení z Ez 37,1-14, pokud následuje čtení ze Starého zákona)",pentecost_sunday,
+"Seslání Ducha Svatého, vigilie (po posledním čtení ze Starého zákona)",pentecost_sunday,
+"Seslání Ducha Svatého",pentecost_sunday,
+"Panny Marie, Matky Církve (pondělí po Seslání Ducha Svatého)",mary_mother_of_the_church,(
+"Ježíše Krista, nejvyššího a věčného kněze A",our_lord_jesus_christ_the_eternal_high_priest,A
+"Ježíše Krista, nejvyššího a věčného kněze B",our_lord_jesus_christ_the_eternal_high_priest,B
+"Ježíše Krista, nejvyššího a věčného kněze C",our_lord_jesus_christ_the_eternal_high_priest,C
+"Nejsvětější Trojice B",trinity_sunday,B
+"Těla a Krve Páně B",corpus_christi,B
+"Těla a Krve Páně C",corpus_christi,C
+"Sv. Hilaria (13. ledna)",hilary_of_poitiers_bishop,(1
+"O duchovních pastýřích (v době velikonoční)",,
+"Při svěcení kněží a biskupů (v době velikonoční)",,
+"Nejsvětějšího Srdce Ježíšova A",most_sacred_heart_of_jesus,A
+"2. neděle v mezidobí AB",ordinary_time_2_sunday,AB
+"2. neděle v mezidobí C",ordinary_time_2_sunday,C
+"4. neděle v mezidobí A",ordinary_time_4_sunday,A
+"5. neděle v mezidobí A",ordinary_time_5_sunday,A
+"5. neděle v mezidobí C",ordinary_time_5_sunday,C
+"6. neděle v mezidobí A",ordinary_time_6_sunday,A
+"6. neděle v mezidobí B",ordinary_time_6_sunday,B
+"7. neděle v mezidobí AC",ordinary_time_7_sunday,AC
+"8. neděle v mezidobí B",ordinary_time_8_sunday,B
+"7. neděle v mezidobí B",ordinary_time_7_sunday,B
+"8. neděle v mezidobí A",ordinary_time_8_sunday,A
+"8. neděle v mezidobí C",ordinary_time_8_sunday,C
+"11. neděle v mezidobí B",ordinary_time_11_sunday,B
+"9. neděle v mezidobí A",ordinary_time_9_sunday,A
+"9. neděle v mezidobí B",ordinary_time_9_sunday,B
+"10. neděle v mezidobí A",ordinary_time_10_sunday,A
+"11. neděle v mezidobí C",ordinary_time_11_sunday,C
+"12. neděle v mezidobí A",ordinary_time_12_sunday,A
+"12. neděle v mezidobí B",ordinary_time_12_sunday,B
+"12. neděle v mezidobí C",ordinary_time_12_sunday,C
+"22. neděle v mezidobí A",ordinary_time_22_sunday,A
+"Sv. Marie Magdalény (22. července)",mary_magdalene,(22
+"Při řeholních slibech",,
+"13. neděle v mezidobí A",ordinary_time_13_sunday,A
+"13. neděle v mezidobí C",ordinary_time_13_sunday,C
+"14. neděle v mezidobí A",ordinary_time_14_sunday,A
+"31. neděle v mezidobí C",ordinary_time_31_sunday,C
+"14. neděle v mezidobí B",ordinary_time_14_sunday,B
+"15. neděle v mezidobí A",ordinary_time_15_sunday,A
+"15. neděle v mezidobí C",ordinary_time_15_sunday,C
+"16. neděle v mezidobí A",ordinary_time_16_sunday,A
+"16. neděle v mezidobí C",ordinary_time_16_sunday,C
+"22. neděle v mezidobí B",ordinary_time_22_sunday,B
+"17. neděle v mezidobí A",ordinary_time_17_sunday,A
+"17. neděle v mezidobí B",ordinary_time_17_sunday,B
+"17. neděle v mezidobí C",ordinary_time_17_sunday,C
+"18. neděle v mezidobí A",ordinary_time_18_sunday,A
+"18. neděle v mezidobí B",ordinary_time_18_sunday,B
+"18. neděle v mezidobí C",ordinary_time_18_sunday,C
+"23. neděle v mezidobí C",ordinary_time_23_sunday,C
+"19. neděle v mezidobí B",ordinary_time_19_sunday,B
+"Při křtu (v době velikonoční)",,
+"19. neděle v mezidobí C",ordinary_time_19_sunday,C
+"20. neděle v mezidobí B",ordinary_time_20_sunday,B
+"20. neděle v mezidobí C",ordinary_time_20_sunday,C
+"21. neděle v mezidobí A",ordinary_time_21_sunday,A
+"21. neděle v mezidobí B",ordinary_time_21_sunday,B
+"22. neděle v mezidobí C",ordinary_time_22_sunday,C
+"23. neděle v mezidobí B",ordinary_time_23_sunday,B
+"26. neděle v mezidobí C",ordinary_time_26_sunday,C
+"32. neděle v mezidobí B",ordinary_time_32_sunday,B
+"24. neděle v mezidobí B",ordinary_time_24_sunday,B
+"24. neděle v mezidobí C",ordinary_time_24_sunday,C
+"25. neděle v mezidobí A",ordinary_time_25_sunday,A
+"25. neděle v mezidobí B",ordinary_time_25_sunday,B
+"O učitelích Církve",,
+"25. neděle v mezidobí C",ordinary_time_25_sunday,C
+"26. neděle v mezidobí B",ordinary_time_26_sunday,B
+"27. neděle v mezidobí B",ordinary_time_27_sunday,B
+"28. neděle v mezidobí B",ordinary_time_28_sunday,B
+"29. neděle v mezidobí A",ordinary_time_29_sunday,A
+"29. neděle v mezidobí C",ordinary_time_29_sunday,C
+"30. neděle v mezidobí A",ordinary_time_30_sunday,A
+"31. neděle v mezidobí B",ordinary_time_31_sunday,B
+"30. neděle v mezidobí C",ordinary_time_30_sunday,C
+"31. neděle v mezidobí A",ordinary_time_31_sunday,A
+"Sv. Terezie od Dítěte Ježíše (1. října)",therese_of_the_child_jesus_and_the_holy_face_of_lisieux_virgin,(1
+"32. neděle v mezidobí A",ordinary_time_32_sunday,A
+"Za zemřelé",,
+"32. neděle v mezidobí C",ordinary_time_32_sunday,C
+"33. neděle v mezidobí C",ordinary_time_33_sunday,C
+"Ježíše Krista Krále C",christ_the_king_sunday,C
+"Panny Marie, Matky jednoty křesťanů (18. ledna)",our_lady_mother_of_christian_unity,(1
+"O Panně Marii (i v době velikonoční)",,
+"Sv. Timoteje a Tita (26. ledna)",timothy_of_ephesus_and_titus_of_crete_bishops,(2
+"Sv. Vojtěcha (23. dubna)",adalbert_of_prague_bishop,(2
+"Uvedení Páně do chrámu (2. února)",presentation_of_the_lord,(2
+"Panny Marie Lurdské (11. února)",our_lady_of_lourdes,(11
+"Sv. Josefa (19. března)",joseph_spouse_of_mary,(1
+"Zvěstování Páně (25. března)",annunciation,(2
+"Při řeholních slibech (i v době velikonoční)",,
+"Středa 6. týdne 1",ordinary_time_6_wednesday,1
+"Pátek 6. týdne 1",ordinary_time_6_friday,1
+"Sobota 8. týdne 1",ordinary_time_8_saturday,1
+"Čtvrtek 26. týdne 1",ordinary_time_26_thursday,1
+"Pondělí 11. týdne 1",ordinary_time_11_monday,1
+"Pondělí 28. týdne 1",ordinary_time_28_monday,1
+"Pátek 31. týdne 1",ordinary_time_31_friday,1
+"Úterý 8. týdne 2",ordinary_time_8_tuesday,2
+"Pondělí 12. týdne 1",ordinary_time_12_monday,1
+"Pátek 15. týdne 1",ordinary_time_15_friday,1
+"Sobota 18. týdne 1",ordinary_time_18_saturday,1
+"Pondělí 19. týdne 1",ordinary_time_19_monday,1
+"Pátek 30. týdne 1",ordinary_time_30_friday,1
+"Středa 8. týdne 2",ordinary_time_8_wednesday,2
+"Pátek 22. týdne 1",ordinary_time_22_friday,1
+"Sobota 24. týdne 1",ordinary_time_24_saturday,1
+"Čtvrtek 8. týdne 2",ordinary_time_8_thursday,2
+"Čtvrtek 34. týdne 2",ordinary_time_34_thursday,2
+"Úterý 24. týdne 2",ordinary_time_24_tuesday,2
+"Pondělí 1. týdne 2",ordinary_time_1_monday,2
+"Pátek 4. týdne 2",ordinary_time_4_friday,2
+"Pondělí 7. týdne 2",ordinary_time_7_monday,2
+"Pondělí 8. týdne 2",ordinary_time_8_monday,2
+"Pátek 8. týdne 2",ordinary_time_8_friday,2
+"Úterý 21. týdne 2",ordinary_time_21_tuesday,2
+"Úterý 34. týdne 2",ordinary_time_34_tuesday,2
+"Sobota 8. týdne 2",ordinary_time_8_saturday,2
+"Pondělí 9. týdne 2",ordinary_time_9_monday,2
+"Úterý 9. týdne 2",ordinary_time_9_tuesday,2
+"Středa 9. týdne 2",ordinary_time_9_wednesday,2
+"Čtvrtek 9. týdne 2",ordinary_time_9_thursday,2
+"Pátek 9. týdne 2",ordinary_time_9_friday,2
+"Sobota 9. týdne 2",ordinary_time_9_saturday,2
+"Pondělí 10. týdne 2",ordinary_time_10_monday,2
+"Úterý 10. týdne 2",ordinary_time_10_tuesday,2
+"Středa 10. týdne 2",ordinary_time_10_wednesday,2
+"Čtvrtek 10. týdne 2",ordinary_time_10_thursday,2
+"Pátek 10. týdne 2",ordinary_time_10_friday,2
+"Sobota 10. týdne 2",ordinary_time_10_saturday,2
+"Pondělí 11. týdne 2",ordinary_time_11_monday,2
+"Úterý 11. týdne 2",ordinary_time_11_tuesday,2
+"Středa 11. týdne 2",ordinary_time_11_wednesday,2
+"Čtvrtek 11. týdne 2",ordinary_time_11_thursday,2
+"Sobota 21. týdne 2",ordinary_time_21_saturday,2
+"Středa 22. týdne 2",ordinary_time_22_wednesday,2
+"Sobota 23. týdne 2",ordinary_time_23_saturday,2
+"Středa 24. týdne 2",ordinary_time_24_wednesday,2
+"Pátek 28. týdne 2",ordinary_time_28_friday,2

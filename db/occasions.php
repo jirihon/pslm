@@ -233,7 +233,7 @@
   array (
     0 => 'OL34',
   ),
-  'Neposkrvrněného Srdce Panny Marie' => 
+  'Neposkvrněného Srdce Panny Marie' => 
   array (
     0 => 'OL34',
   ),
@@ -259,7 +259,7 @@
     0 => 'OL39',
     1 => 'OL40',
   ),
-  'Svaté rodiny A(BC) (pokud se čte čtení z Sir 3,3-17)' => 
+  'Svaté Rodiny A(BC) (pokud se čte čtení z Sir 3,3-17)' => 
   array (
     0 => 'OL41',
     1 => 'OL42',
@@ -359,7 +359,11 @@
   array (
     0 => 'OL57',
   ),
-  'Týden po Zjevení Páně (11. ledna nebo pátek po Zjevení Páně)' => 
+  'Týden po Zjevení Páně (11. ledna)' => 
+  array (
+    0 => 'OL57',
+  ),
+  'Pátek po Zjevení Páně' => 
   array (
     0 => 'OL57',
   ),
@@ -371,7 +375,11 @@
   array (
     0 => 'OL58',
   ),
-  'Týden po Zjevení Páně (12. ledna nebo sobota po Zjevení Páně)' => 
+  'Týden po Zjevení Páně (12. ledna)' => 
+  array (
+    0 => 'OL58',
+  ),
+  'Sobota po Zjevení Páně' => 
   array (
     0 => 'OL58',
   ),
@@ -383,19 +391,35 @@
   array (
     0 => 'OL59',
   ),
-  'Týden po Zjevení Páně (7. ledna nebo pondělí po Zjevení Páně)' => 
+  'Týden po Zjevení Páně (7. ledna)' => 
   array (
     0 => 'OL60',
   ),
-  'Týden po Zjevení Páně (8. ledna nebo úterý po Zjevení Páně)' => 
+  'Pondělí po Zjevení Páně' => 
+  array (
+    0 => 'OL60',
+  ),
+  'Týden po Zjevení Páně (8. ledna)' => 
   array (
     0 => 'OL61',
   ),
-  'Týden po Zjevení Páně (9. ledna nebo středa po Zjevení Páně)' => 
+  'Úterý po Zjevení Páně' => 
+  array (
+    0 => 'OL61',
+  ),
+  'Týden po Zjevení Páně (9. ledna)' => 
   array (
     0 => 'OL62',
   ),
-  'Týden po Zjevení Páně (10. ledna nebo čtvrtek po Zjevení Páně)' => 
+  'Středa po Zjevení Páně' => 
+  array (
+    0 => 'OL62',
+  ),
+  'Týden po Zjevení Páně (10. ledna)' => 
+  array (
+    0 => 'OL63',
+  ),
+  'Čtvrtek po Zjevení Páně' => 
   array (
     0 => 'OL63',
   ),
@@ -707,7 +731,7 @@
   array (
     0 => 'OL107',
   ),
-  'Nejsvětější trojice A' => 
+  'Nejsvětější Trojice A' => 
   array (
     0 => 'OL107',
   ),
@@ -882,7 +906,11 @@
   array (
     0 => 'OL145',
   ),
-  '9. a 21. neděle v mezidobí C' => 
+  '9. neděle v mezidobí C' => 
+  array (
+    0 => 'OL145',
+  ),
+  '21. neděle v mezidobí C' => 
   array (
     0 => 'OL145',
   ),
@@ -1247,10 +1275,7 @@
   '15. neděle v mezidobí C' => 
   array (
     0 => 'OL216',
-  ),
-  'Jiný žalm 15. neděle v mezidobí C' => 
-  array (
-    0 => 'OL217',
+    1 => 'OL217',
   ),
   '16. neděle v mezidobí A' => 
   array (
@@ -1479,7 +1504,11 @@
   array (
     0 => 'OL445',
   ),
-  'Pondělí 11. a 28. týdne 1' => 
+  'Pondělí 11. týdne 1' => 
+  array (
+    0 => 'OL457',
+  ),
+  'Pondělí 28. týdne 1' => 
   array (
     0 => 'OL457',
   ),
@@ -1523,7 +1552,11 @@
   array (
     0 => 'OL520',
   ),
-  'Čtvrtek 8. a 34. týdne 2' => 
+  'Čtvrtek 8. týdne 2' => 
+  array (
+    0 => 'OL520',
+  ),
+  'Čtvrtek 34. týdne 2' => 
   array (
     0 => 'OL520',
   ),
@@ -1551,7 +1584,11 @@
   array (
     0 => 'OL613',
   ),
-  'Úterý 21. a 34. týdne 2' => 
+  'Úterý 21. týdne 2' => 
+  array (
+    0 => 'OL613',
+  ),
+  'Úterý 34. týdne 2' => 
   array (
     0 => 'OL613',
   ),
