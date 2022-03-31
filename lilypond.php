@@ -28,7 +28,7 @@ function pslm_preprocessor($psalm) {
             $lyrics = pslm_text_to_lyrics($text);
             $lyrics_tokens = pslm_parse_lyrics($lyrics);
 
-            $lyrics = preg_replace('#"([^" ]*) ([^" ]*)"#u', '$1$2', $lyrics);
+            $lyrics = preg_replace('#"([^" ]*) ([^" ]*)"#u', '$1$2', $lyrics); // join unsyllabic prepositions with the following syllable
             $lyrics = preg_replace('#(?<!--)(^| )„?(o|u|na|ke|po|od|do|za|ze|ve|bez|nad|pod|před|přes|při|pro) (?!--)#ui', '$1$2 -- ', $lyrics);
             $lyrics = preg_replace('#(?<!--) ([^ ]+)$#u', ' -- $1', $lyrics);
             $lyrics = str_replace(' -- ', '--', $lyrics);
@@ -108,7 +108,7 @@ function pslm_preprocessor($psalm) {
             }
 
             $first_word_i = $words[0] == '*' ? 1 : 0;
-            if (!preg_match('#^(vždy|v--tvém)$#ui', $words[$first_word_i]) && (
+            if (!preg_match('#^(vždy|vtvém)$#ui', $words[$first_word_i]) && (
                  ($sc[$first_word_i] == 1 && $sc[$first_word_i+1] > 1) ||
                  ($sc[$first_word_i] == 1 && $sc[$first_word_i+1] == 1 && $sc[$first_word_i+2] == 1 && $sc[$first_word_i+3] > 1)
                 )) {
