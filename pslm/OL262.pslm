@@ -1,0 +1,80 @@
+%% occasion: 'Sv. Josefa, dělníka (1. května)'
+%% responsum_reference: 'Ž 90 (89),17c'
+%% verse_reference: 'Ž 90 (89)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 271
+%% a: "bes'B a8_ g g2"
+%% b: "aB g8_ f f2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 f d f g4. g8 / f8 g a a~ a4 ||
+t: Pane, dej zdar práci našich rukou!
+
+%% part: verse
+
+m: bes'B a8_ g g g4 r |
+t: Dříve než se zrodily hory, (+) než povstala země a svět,
+
+m: aB g8_( f) f4 r ||
+t: * od věčnosti do věčnosti jsi ty, Bože!
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8_ g g g4 |
+t: Rozkazem vracíš, Bože, člověka v prach
+
+m: r8 a8 aB g8_ f f f4 r ||
+t: * a pravíš: (+) „Vraťte se, smrtelníci!“
+
+%% part: verse
+
+m: bes'B a8_( g) g4 |
+t: Neboť tisíc let je v tvých očích (+) jako včerejší den, který minul,
+
+m: r8 a8 aB g8_( f) f4 r ||
+t: * a jako noční hlídka.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8_ g g4 |
+t: Nauč nás počítat naše dny,
+
+m: r8 a8 aB g8_( f) f4 r ||
+t: * ať dojdeme k moudrosti srdce.
+
+%% part: verse
+
+m: bes'B a8_( g) g4 r |
+t: Obrať se, Hospodine,(+) jak dlouho ještě budeš čekat?
+
+m: aB g8_ f f f4 r ||
+t: * Slituj se nad svými služebníky!
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8_ g g g4 |
+t: Nasyť nás brzy svou slitovností,
+
+m: r8 a8 aB g8_( f) f4 r ||
+t: * ať jásáme a radujeme se po celý život!
+
+%% part: verse
+
+m: bes'B a8_( g) g4 |
+t: Nechť se ukáže tvým služebníkům tvoje dílo,
+
+m: r8 a8 aB g8_( f) f2 ||
+t: * tvá sláva jejich synům.
+
+%% use: responsum
+

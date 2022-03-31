@@ -1,9 +1,11 @@
-%% occasion: 'Úterý 27. týdne 2'
+%% occasion: 'Narození sv. Jana Křtitele (24. června)'
 %% responsum_reference: 'Ž 139 (138),14a'
 %% verse_reference: 'Ž 139 (138)'
 %% author: olejnik
-%% source: vsedni_zaltar
-%% page: 313
+%% source: nedelni_zaltar
+%% page: 277
+%% a: "c''B c8_ a a2"
+%% b: "besB a8_ g g2"
 
 m: \key f \major
 
@@ -14,54 +16,57 @@ t: Chválím tě, že jsem vznikl tak podivuhodně.
 
 %% part: verse
 
-m: aB |
+m: c''B c8_( a) a4 |
 t: Hospodine, ty mě zkoumáš a znáš,
 
-m: bB ||
+m: besB a8_( g) g2 ||
 t: * ty víš, když sedám i když vstávám.
 
 %% part: verse
 
-m: aB |
+m: c''B c8_( a) a4 r |
 t: Poznáváš mé myšlenky již zdálky;
 
-m: bB ||
-t: * ať jdu nebo ležím, ty to určuješ, + všímáš si všech mých cest.
+m: besB a8_ g g4 r ||
+t: * ať jdu nebo ležím, ty to určuješ,+ všímáš si všech mých cest.
 
-%% use: responsum
+%% part: responsum_short
+
+m: a'4 g4. f8 | d d / d e f | bes c bes a g4 ||
+t: Chválím tě, že jsem vznikl tak podivuhodně.
 
 %% part: verse
 
-m: aB |
+m: r8 c''8 cB c8_( a) a4 |
 t: Tys přece stvořil mé ledví,
 
-m: bB ||
+m: besB a8_( g) g4 r ||
 t: * utkal jsi mě v lůně mé matky.
 
 %% part: verse
 
-m: aB |
+m: c''B c8_ a a4 r |
 t: Chválím tě, že jsem vznikl tak podivuhodně,
 
-m: bB ||
+m: besB a8_( g) g4 r ||
 t: * úžasná jsou tvoje díla.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B c8_( a) a4 |
 t: Dokonale znáš mou duši,
 
-m: bB ||
+m: r8 bes8 besB a8_ g g g4 ||
 t: * má podstata ti nezůstala utajena,
 
 %% part: verse
 
-m: aB |
+m: c''B c8_( a) a4 r |
 t: když jsem byl tvořen v skrytu,
 
-m: bB ||
+m: besB a8_( g) g4 r ||
 t: * spřádán v hlubinách země.
 
 %% use: responsum

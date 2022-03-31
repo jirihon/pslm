@@ -1,89 +1,93 @@
-%% occasion: '19. neděle v mezidobí B'
-%% occasion: 'Při křtu (v době velikonoční)'
-%% occasion: 'Při svatbě'
-%% responsum_reference: 'Ž 34 (33),9a R'
+%% occasion: 'Sv. Petra a Pavla (29. června)'
+%% occasion: 'O mučednících (i v době velikonoční)'
+%% responsum_reference: 'Ž 34 (33),5b'
 %% verse_reference: 'Ž 34 (33)'
 %% author: olejnik
 %% source: nedelni_zaltar
-%% page: 236
+%% page: 278
+%% a: "e'B fis8 g a_ b a a2"
+%% b: "aB g8 a b_ c b b2"
 
-% Tento žalm má stejné texty veršů jako publikovaný OL136, OL226, OL269
+% Tento žalm má stejné texty veršů jako publikovaný OL136, OL226, OL227
 
-m: \key c \major
+m: \key g \major
 
 %% part: responsum
 
-m: bB ||
-t: Okuste a vizte, jak dobrý je Pán.
+m: b'4 g c8 c b a | b g / fis( e) / e( d) d4 r ||
+t: Pán mě vysvobodil ze všech mých obav.
 
 %% part: verse
 
-m: aB |
+m: e'B fis8 g a_ b a a4 r |
 t: Ustavičně chci velebit Hospodina,
 
-m: bB ||
+m: aB g8 a b_( c b) b4 r ||
 t: * vždy bude v mých ústech jeho chvála.
 
 %% part: verse
 
-m: aB |
+m: e'B fis8 g a_( b a) a4 r |
 t: V Hospodinu nechť se chlubí moje duše,
 
-m: bB ||
+m: aB g8 a b_ c b b4 r ||
 t: * ať to slyší pokorní a radují se.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: e'B fis8 g a_ b a a4 r |
 t: Velebte se mnou Hospodina,
 
-m: bB ||
+m: aB g8 a b_( c b) b4 r ||
 t: * oslavujme spolu jeho jméno!
 
 %% part: verse
 
-m: aB |
+m: e'B fis8 g a_ b a a4 r |
 t: Hledal jsem Hospodina a vyslyšel mě,
 
-m: bB ||
+m: aB g8 a b_( c b) b4 r ||
 t: * vysvobodil mě ze všech mých obav.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: e'B fis8 g a_ b( a) a4 r |
 t: Pohleďte k němu, ať se rozveselíte,
 
-m: bB ||
+m: aB g8 a b_( c b) b4 ||
 t: * vaše tvář se nemusí zardívat hanbou.
 
 %% part: verse
 
-m: aB |
+m: r8 e'8 eB fis8 g a_( b a) a4 r |
 t: Hle, ubožák zavolal, a Hospodin slyšel,
 
-m: bB ||
+m: aB g8 a b_( c b) b4 r ||
 t: * pomohl mu ve všech jeho strastech.
 
-%% use: responsum
+%% part: responsum_short
+
+m: b'4 g c8 c b a | b g / fis( e) / e( d) d4 ||
+t: Pán mě vysvobodil ze všech mých obav.
 
 %% part: verse
 
-m: aB |
+m: r8 e'8 eB fis8 g a_( b a) a4 r |
 t: Jak ochránce se utábořil Hospodinův anděl
 
-m: bB ||
+m: aB g8 a b_( c) b b4 r ||
 t: * kolem těch, kdo Hospodina ctí, a vysvobodil je.
 
 %% part: verse
 
-m: aB |
+m: e'B fis8 g a_( b a) a2 |
 t: Okuste a vizte, jak je Hospodin dobrý,
 
-m: bB ||
+m: aB g8 a b_ c( b) b2 ||
 t: * blaze člověku, který se k němu utíká.
 
 %% use: responsum

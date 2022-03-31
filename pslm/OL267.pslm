@@ -1,0 +1,88 @@
+%% occasion: 'Narození sv. Jana Křtitele, vigilie (23. června, večer)'
+%% responsum_reference: 'Ž 71 (70),6b'
+%% verse_reference: 'Ž 71 (70)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 276
+%% a: "c''B c8_ bes bes2"
+%% b: "asB g8_ f f2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: es'8 es~ es4 f8 g as f | g as bes bes bes4 r ||
+t: Od klína mé matky byls mým ochráncem.
+
+%% part: verse
+
+m: c''B c8_ bes bes bes4 |
+t: K tobě se utíkám, Hospodine,
+
+m: r8 as8 asB g8_ f f4 r ||
+t: * nechť nejsem zahanben na věky!
+
+%% part: verse
+
+m: c''B c8_ bes bes4 r |
+t: Ve své spravedlnosti mě vyprosť a vysvoboď,
+
+m: asB g8_ f f4 r ||
+t: * nakloň ke mně svůj sluch a zachraň mě!
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_( bes) bes2 |
+t: Buď mi ochrannou skálou,
+
+m: asB g8_ f f4 r ||
+t: * pevností k mé záchraně,
+
+%% part: verse
+
+m: c''B c8_ bes bes bes4 r |
+t: neboť tys moje skála a tvrz.
+
+m: asB g8_ f f f4 r ||
+t: * Bože můj, vysvoboď mě z ruky bezbožného.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 |
+t: Vždyť tys má naděje, Pane,
+
+m: r8 as8 asB g8_ f f f4 r ||
+t: * má důvěra od mého mládí, Hospodine!
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 r |
+t: V tobě jsem měl oporu od matčina lůna,
+
+m: asB g8_ f f4 r ||
+t: * od klína mé matky byls mým ochráncem.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_ bes bes4 r |
+t: Ústa má budou vyprávět o tvé spravedlnosti,
+
+m: asB g8_ f f4 r ||
+t: * po celý den budu vyprávět o tvé pomoci.
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 |
+t: Bože, učils mě od mého mládí,
+
+m: r8 as8 asB g8_( f) f4 r ||
+t: * až dosud hlásám tvé podivuhodné činy.
+
+%% use: responsum
+

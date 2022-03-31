@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 310
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: a'4 g4. f8 | d d / d e f | bes c bes a g4 r ||
 t: Chválím tě, že jsem vznikl tak podivuhodně.
 
 %% part: verse

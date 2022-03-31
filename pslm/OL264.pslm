@@ -1,79 +1,79 @@
-%% occasion: 'O Panně Marii'
-%% responsum_reference: 'Srov. Ž 113 (112),2'
+%% occasion: 'Sv. Matěje (14. května)'
+%% responsum_reference: 'Ž 113 (112),8'
 %% verse_reference: 'Ž 113 (112)'
 %% author: olejnik
 %% source: nedelni_zaltar
-%% page: 307
-
-% Tento žalm má stejné texty veršů jako publikovaný OL264
+%% page: 273
+%% a: "a'B a8_ g g2"
+%% b: "fB e8_ d d2"
 
 m: \key c \major
 
 %% part: responsum
 
-m: bB ||
-t: Buď veleben Hospodin nyní i na věky!
+m: e'4 c f8 d d4 | d8 d / e d / e f g g4 r ||
+t: Pán ho posadil vedle knížat svého lidu.
 
 %% part: verse
 
-m: aB |
+m: a'B a8_ g g g4 r |
 t: Chvalte, Hospodinovi služebníci,
 
-m: bB ||
+m: fB e8_ d d4 ||
 t: * chvalte jméno Hospodinovo!
 
 %% part: verse
 
-m: aB |
+m: r8 a'8 aB a8_( g) g4 r |
 t: Buď velebeno Hospodinovo jméno
 
-m: bB ||
+m: fB e8_ d d4 r ||
 t: * nyní i na věky!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: a'B a8_( g) g4 |
 t: Od východu slunce až na jeho západ
 
-m: bB ||
+m: r8 f8 fB e8_( d) d4 r ||
 t: * buď chváleno Hospodinovo jméno!
 
 %% part: verse
 
-m: aB |
+m: a'B a8_ g g4 r |
 t: Povznesen je Hospodin nade všechny národy,
 
-m: bB ||
+m: fB e8_( d) d4 r ||
 t: * nad nebesa jeho sláva.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: a'B a8_ g g g4 |
 t: Kdo je jako Hospodin, náš Bůh, + který trůní na výsosti
 
-m: bB ||
+m: r8 f8 fB e8_( d) d4 r ||
 t: * a shlíží dolů na nebe i na zem?
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: a'B a8_( g) g4 r |
 t: Slabého zdvihá z prachu,
 
-m: bB ||
+m: fB e8_ d d4 r ||
 t: * ze smetiště povyšuje chudého,
 
 %% part: verse
 
-m: aB |
+m: a'B a8_( g) g4 r |
 t: aby ho posadil vedle knížat,
 
-m: bB ||
+m: fB e8_( d) d4 r ||
 t: * vedle knížat svého lidu.
 
 %% use: responsum

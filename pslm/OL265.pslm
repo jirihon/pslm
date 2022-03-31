@@ -1,0 +1,78 @@
+%% occasion: 'Sv. Jana Nepomuckého (16. května)'
+%% responsum_reference: 'Ž 69 (68),14c'
+%% verse_reference: 'Ž 69 (68)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 274
+%% a: "c''B dB*2 bes8_ bes bes2"
+%% b: "asB besB*2 g8_ g g2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: g'8 f es as f r | f f4 / f8 g as | bes4. g4 r8 ||
+t: Vyslyš mě, Bože, ve své veliké lásce!
+
+%% part: verse
+
+m: c''B dB*2 bes8_ bes bes4 r |
+t: Více než mám vlasů na hlavě,
+
+m: asB besB*4 g8_ g g g2 ||
+t: * je těch, kteří mě bez důvodu nenávidí,
+
+%% part: verse
+
+m: c''B dB*2 bes8_ bes r4 |
+t: silnější než mé kosti
+
+m: asB besB*3 g8_ g g g4 r ||
+t: * jsou ti, kteří mě stíhají bez příčiny.
+
+%% use: responsum
+
+%% part: verse
+
+m: r8 c''8 cB dB*3 bes8_ bes bes4 |
+t: Nechť nejsou kvůli mně zklamáni,
+
+m: r8 as8 asB besB*2 g8_ g r4 ||
+t: * kdo doufají v tebe, Pane,
+
+%% part: verse
+
+m: r8 c''8 cB dB*3 bes8_ bes bes4 |
+t: nechť kvůli mně nejsou zbaveni naděje,
+
+m: r8 as8 asB besB*2 g8_ g g g4 ||
+t: * kdo hledají Tebe, Bože Izraele!
+
+%% part: verse
+
+m: r8 c''8 cB dB*2 bes8_ bes bes4 r |
+t: Vždyť pro tebe jsem snášel potupu,
+
+m: asB besB*3 g4_ g2 ||
+t: * pohana pokryla mou tvář.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B dB*2 bes8_ bes bes bes2 |
+t: Vysvoboď mě od těch, kteří nenávidí,
+
+m: asB besB*3 g8_ g r4 ||
+t: * vytáhni mě z hluboké vody!
+
+%% part: verse
+
+m: c''B dB*2 bes4_ bes r |
+t: Písní budu slavit Boží jméno,
+
+m: asB besB*2 g4_ g r ||
+t: * velebit je budu zpěvem chvály.
+
+%% use: responsum
+

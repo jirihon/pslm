@@ -1484,6 +1484,62 @@
   array (
     0 => 'OL260',
   ),
+  'Sv. Marka (25. dubna)' => 
+  array (
+    0 => 'OL261',
+  ),
+  'Sv. Josefa, dělníka (1. května)' => 
+  array (
+    0 => 'OL262',
+  ),
+  'Sv. Filipa a Jakuba (3. května)' => 
+  array (
+    0 => 'OL263',
+  ),
+  'Sv. Petra a Pavla, vigilie (28. června, večer)' => 
+  array (
+    0 => 'OL263',
+  ),
+  'Sv. Matouše (21. září)' => 
+  array (
+    0 => 'OL263',
+  ),
+  'Sv. Šimona a Judy (28. října)' => 
+  array (
+    0 => 'OL263',
+  ),
+  'Sv. Matěje (14. května)' => 
+  array (
+    0 => 'OL264',
+  ),
+  'Sv. Jana Nepomuckého (16. května)' => 
+  array (
+    0 => 'OL265',
+  ),
+  'Sv. Barnabáše (11. června)' => 
+  array (
+    0 => 'OL266',
+  ),
+  'Posvěcení římských bazilik sv. Petra a Pavla (18. listopadu)' => 
+  array (
+    0 => 'OL266',
+  ),
+  'Narození sv. Jana Křtitele, vigilie (23. června, večer)' => 
+  array (
+    0 => 'OL267',
+  ),
+  'Narození sv. Jana Křtitele (24. června)' => 
+  array (
+    0 => 'OL268',
+  ),
+  'Sv. Petra a Pavla (29. června)' => 
+  array (
+    0 => 'OL269',
+  ),
+  'O mučednících (i v době velikonoční)' => 
+  array (
+    0 => 'OL269',
+  ),
   'Při řeholních slibech (i v době velikonoční)' => 
   array (
     0 => 'OL334',
