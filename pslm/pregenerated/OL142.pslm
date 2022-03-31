@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 151
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: c''8 a~ a4 d8 c bes a | g f g a f c4 c r ||
 t: Do tvých rukou, Pane, svěřuji ducha svého.
 
 %% part: verse

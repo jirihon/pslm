@@ -1,9 +1,11 @@
-%% occasion: '5. neděle v mezidobí C'
+%% occasion: 'Sv. Michaela, Gabriela a Rafaela (29. září)'
 %% responsum_reference: 'Ž 138 (137),1c'
 %% verse_reference: 'Ž 138 (137)'
 %% author: olejnik
 %% source: nedelni_zaltar
-%% page: 203
+%% page: 293
+%% a: "bes'B c8 bes a_ g g2"
+%% b: "gB a8 f d_ c c2"
 
 m: \key f \major
 
@@ -14,73 +16,55 @@ t: Budu ti hrát, Hospodine, před anděly.
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 bes a_( g) g4 |
 t: Chci tě chválit, Hospodine, celým svým srdcem,
 
-m: bB ||
+m: r8 g8 gB a8 f d_( c) c2 ||
 t: * žes vyslyšel slova mých úst.
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 bes a_ g g g4 r |
 t: Budu ti hrát před anděly,
 
-m: bB ||
+m: gB a8 f d_( c) c4 r ||
 t: * vrhnu se na tvář směrem k tvému svatému chrámu
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 bes a_( g) g4 r |
 t: Slavit budu tvé jméno
 
-m: bB ||
+m: gB a8 f d_( c) c4 r ||
 t: * pro tvou dobrotu a tvou věrnost.
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 bes a_ g g g4 r |
 t: Když jsem volal, vyslyšels mě,
 
-m: bB ||
+m: gB a8 f d_( c) c4 r ||
 t: * v mé duši jsi rozhojnil sílu.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 bes a_( g) g4 |
 t: Budou tě oslavovat, Hospodine, všichni králové země,
 
-m: bB ||
+m: r8 g8 gB a8 f d_( c) c2 ||
 t: * až uslyší slova tvých úst.
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 bes a_( g) g4 r |
 t: Budou opěvovat Hospodinovy cesty:
 
-m: bB ||
+m: gB a8 f d_( c) c4 r ||
 t: * „Věru, veliká je Hospodinova sláva!“
-
-%% use: responsum
-
-%% part: verse
-
-m: aB |
-t: Zachraňuje mě tvá pravice.
-
-m: bB ||
-t: * Hospodin pro mě dokončí, co začal.
-
-%% part: verse
-
-m: aB |
-t: Hospodine, tvá dobrota trvá na věky,
-
-m: bB ||
-t: * dílo svých rukou neopouštěj!
 
 %% use: responsum
 

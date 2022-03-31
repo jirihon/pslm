@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 91
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: g'8 g f4 es / as8 as g f2 | g8 bes bes bes4 r ||
 t: Zachraň mě svou slitovností, Hospodine.
 
 %% part: verse

@@ -6,11 +6,11 @@
 %% source: nedelni_zaltar
 %% page: 296
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: bes'8 c bes c bes g g4 | r8 es as g f bes2 g4 | c as g f r ||
 t: To je pokolení těch, kdo hledají tvář tvou, Hospodine.
 
 %% part: verse

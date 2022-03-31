@@ -1246,6 +1246,8 @@
   array (
     0 => 'OL208',
     1 => 'OL209',
+    2 => 'OL286',
+    3 => 'OL286a',
   ),
   '13. neděle v mezidobí A' => 
   array (
@@ -1541,6 +1543,7 @@
   array (
     0 => 'OL269',
     1 => 'OL272',
+    2 => 'OL288',
   ),
   'Sv. Prokopa (4. července)' => 
   array (
@@ -1585,6 +1588,47 @@
   'Narození Panny Marie (8. září)' => 
   array (
     0 => 'OL279',
+  ),
+  'Povýšení svatého kříže (14. září)' => 
+  array (
+    0 => 'OL280',
+  ),
+  'Panny Marie Bolestné (15. září)' => 
+  array (
+    0 => 'OL281',
+  ),
+  'Sv. Ludmily (16. září)' => 
+  array (
+    0 => 'OL282',
+  ),
+  'Sv. Václava (28. září)' => 
+  array (
+    0 => 'OL283',
+  ),
+  'Sv. Michaela, Gabriela a Rafaela (29. září)' => 
+  array (
+    0 => 'OL284',
+  ),
+  'Svatých andělů strážných (2. října)' => 
+  array (
+    0 => 'OL285',
+  ),
+  'Všech svatých (1. listopadu)' => 
+  array (
+    0 => 'OL286',
+    1 => 'OL286a',
+  ),
+  'Panny Marie, počaté bez poskvrny prvotního hříchu (8. prosince)' => 
+  array (
+    0 => 'OL287',
+  ),
+  'Sv. Štěpána (26. prosince)' => 
+  array (
+    0 => 'OL288',
+  ),
+  'Sv. Jana Evangelisty (27. prosince)' => 
+  array (
+    0 => 'OL289',
   ),
   'Při řeholních slibech (i v době velikonoční)' => 
   array (

@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 302
 
-m: \key c \major
+m: \key g \major
 
 %% part: responsum
 
-m: bB ||
+m: g'4 a8 g fis e | d2 g4 | a8 b a2 ||
 t: Ty, Hospodine, vládneš nade vším.
 
 %% part: verse

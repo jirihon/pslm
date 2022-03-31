@@ -1,0 +1,91 @@
+%% occasion: 'Svatých andělů strážných (2. října)'
+%% responsum_reference: 'Ž 91 (91),11'
+%% verse_reference: 'Ž 91 (90)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 294
+%% a: "c''B b8_ a a2"
+%% b: "bB a8_ g g2"
+
+m: \key c \major
+
+%% part: responsum_short
+
+m: g'4( e) a8 g e c e / a g e c( d) d4 | d8 e f / a a a4 | a8 b a a( g) g4 ||
+t: Svým andělům vydal o tobě příkaz, aby tě střežili na všech tvých cestách.
+
+%% part: verse
+
+m: r8 c''8 cB b8_ a a a4 r |
+t: Kdo přebýváš v ochraně Nejvyššího,
+
+m: bB a8_ g g g4 r ||
+t: * kdo dlíš ve stínu Všemocného,
+
+%% part: verse
+
+m: c''B b8_ a a4 r |
+t: řekni Hospodinu:(+) „Jsi mé útočiště a má tvrz,
+
+m: bB a8_( g) g2 ||
+t: * můj Bůh, v něhož doufám!“
+
+%% part: responsum
+
+m: g'4( e) a8 g e c e / a g e c( d) d4 | d8 e f / a a a4 | a8 b a a( g) g2 ||
+t: Svým andělům vydal o tobě příkaz, aby tě střežili na všech tvých cestách.
+
+%% part: verse
+
+m: c''B b8_ a a4 r |
+t: Neboť on tě vysvobodil z léčky ptáčníka,
+
+m: bB a8_( g) g4 r ||
+t: * ze zhoubného moru.
+
+%% part: verse
+
+m: c''B b8_ a a a4 r |
+t: Ochrání tě svými perutěmi,
+
+m: bB a8_( g) g4 r ||
+t: * uchýlíš se pod jeho křídla.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B b8_( a) a4 r |
+t: Štít a pavéza je věrnost jeho.
+
+m: bB a8_( g) g4 r ||
+t: * Nemusíš se bát noční hrůzy, + šípu létajícího ve dne,
+
+%% part: verse
+
+m: c''B b8_( a) a4 r |
+t: moru, který se plíží ve tmě,
+
+m: bB a8_ g g g2 ||
+t: * nákazy, jež pustoší o polednách.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B b8_( a) a4 |
+t: Nepřihodí se ti nic zlého
+
+m: r8 b8 bB a8_ g g g2 ||
+t: * a útrapa se k tvému stanu nepřiblíží.
+
+%% part: verse
+
+m: c''B b8_( a) a4 r |
+t: Vždyť svým andělům vydal o tobě příkaz,
+
+m: bB a8_( g) g2 ||
+t: * aby tě střežili na všech tvých cestách.
+
+%% use: responsum
+

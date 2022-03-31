@@ -1,0 +1,83 @@
+%% occasion: 'Povýšení svatého kříže (14. září)'
+%% responsum_reference: 'Srov. Ž 78 (77),7c'
+%% verse_reference: 'Ž 78 (77)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 289
+%% a: "as'B bes8 c c_ bes bes2"
+%% b: "fB es8 f as_ g g2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: g'8 f as g f es / f bes bes2 g4 es r ||
+t: Nezapomínejte na Boží skutky!
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes2 |
+t: Slyš, můj lide, mé naučení,
+
+m: fB es8 f as_( g) g2 ||
+t: * nastav uši slovům mých úst!
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 r |
+t: Otevřu k průpovědi svá ústa,
+
+m: fB es8 f as_ g g g4 r ||
+t: * vyložím tajemné události z pradávných dob.
+
+%% part: responsum_short
+
+m: g'8 f as g f es / f bes bes2 g4 es ||
+t: Nezapomínejte na Boží skutky!
+
+%% part: verse
+
+m: r8 as'8 asB bes8 c c_ bes bes bes4 r |
+t: Když Hospodin hubil Izraele, hledali ho,
+
+m: fB es8 f as_ g g4 r ||
+t: * obraceli se a sháněli se po Bohu.
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 |
+t: Vzpomínali si, že Bůh je jim skálou,
+
+m: r8 f8 fB es8 f as_ g g4 r ||
+t: * že Nejvyšší, Bůh, je jim zachráncem.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 r |
+t: Lísali se k němu ústy,
+
+m: fB es8 f as_( g) g4 r ||
+t: * ale svým jazykem mu lhali,
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes4 |
+t: neboť jejich srdce nebylo k němu upřímné
+
+m: r8 f8 fB es8 f as_( g) g4 r ||
+t: * a nebyli věrni jeho smlouvě.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes4 r |
+t: On však milostivě odpouštěl vinu a nehubil je,
+
+m: fB es8 f as_ g g4 r ||
+t: * často potlačoval svůj hněv + a nedal zcela vzplát své nevoli.
+
+%% use: responsum
+
