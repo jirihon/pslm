@@ -34,7 +34,7 @@ occasion,id,cycle
 "3. neděle adventní A",advent_3_sunday,A
 "3. neděle adventní B",advent_3_sunday,B
 "3. neděle adventní C",advent_3_sunday,C
-"Navštívení Panny Marie (31. května)",visitation_of_mary,(
+"Navštívení Panny Marie (31. května)",visitation_of_mary,
 "Pondělí po 3. neděli adventní",advent_3_monday,
 "3. neděle v mezidobí B",sunday_of_the_word_of_god,B
 "Úterý po 3. neděli adventní",advent_3_tuesday,
@@ -69,10 +69,10 @@ occasion,id,cycle
 "Šestý den v oktávu Narození Páně (30. prosince)",christmas_octave_day_6,
 "Sedmý den v oktávu Narození Páně (31. prosince)",christmas_octave_day_7,
 "Na začátku občanského roku (31. prosince, večer)",31/12,
-"Nejsvětějšího Jména Ježíš (3. ledna)",most_holy_name_of_jesus,(
+"Nejsvětějšího Jména Ježíš (3. ledna)",most_holy_name_of_jesus,
 "Nejsvětější Trojice C",trinity_sunday,C
 "Při křtu dospělých",,
-"Matky Boží, Panny Marie (1. ledna)",mary_mother_of_god,(1
+"Matky Boží, Panny Marie (1. ledna)",mary_mother_of_god,
 "2. neděle po Narození Páně",second_sunday_after_christmas,
 "Týden před Zjevením Páně (2. ledna)",2/1,
 "Sobota po 4. neděli velikonoční",easter_time_4_saturday,
@@ -88,7 +88,7 @@ occasion,id,cycle
 "Týden po Zjevení Páně (12. ledna)",12/1,
 "Sobota po Zjevení Páně",saturday_after_epiphany,
 "Pondělí po 6. neděli velikonoční",easter_time_6_monday,
-"Zjevení Páně (6. ledna)",epiphany,(
+"Zjevení Páně (6. ledna)",epiphany,
 "Týden po Zjevení Páně (7. ledna)",7/1,
 "Pondělí po Zjevení Páně",monday_after_epiphany,
 "Týden po Zjevení Páně (8. ledna)",8/1,
@@ -150,7 +150,7 @@ occasion,id,cycle
 "Nejsvětějšího Srdce Ježíšova C",most_sacred_heart_of_jesus,C
 "16. neděle v mezidobí B",ordinary_time_16_sunday,B
 "Ježíše Krista Krále A",christ_the_king_sunday,A
-"Stolce sv. apoštola Petra (22. února)",chair_of_saint_peter_the_apostle,(22
+"Stolce sv. apoštola Petra (22. února)",chair_of_saint_peter_the_apostle,
 "O duchovních pastýřích",,
 "O svatých (v době velikonoční)",,
 "Při křtu / Při biřmování",,
@@ -159,7 +159,7 @@ occasion,id,cycle
 "4. neděle postní B",lent_4_sunday,B
 "4. neděle postní C",lent_4_sunday,C
 "Úterý po 4. neděli postní",lent_4_tuesday,
-"Posvěcení lateránské baziliky (9. listopadu)",dedication_of_the_lateran_basilica,(
+"Posvěcení lateránské baziliky (9. listopadu)",dedication_of_the_lateran_basilica,
 "Výročí posvěcení kostela",,
 "Středa po 4. neděli postní",lent_4_wednesday,
 "Čtvrtek po 4. neděli postní",lent_4_thursday,
@@ -213,9 +213,9 @@ occasion,id,cycle
 "Pátek po 3. neděli velikonoční",easter_time_3_friday,
 "9. neděle v mezidobí C",ordinary_time_9_sunday,C
 "21. neděle v mezidobí C",ordinary_time_21_sunday,C
-"Obrácení sv. Pavla (25. ledna)",conversion_of_saint_paul_the_apostle,(2
-"Sv. Tomáše (3. července)",thomas_apostle,(
-"Sv. Cyrila a Metoděje (5. července)",cyril_the_philosopher_monk_and_methodius_of_thessaloniki_bishop,(
+"Obrácení sv. Pavla (25. ledna)",conversion_of_saint_paul_the_apostle,
+"Sv. Tomáše (3. července)",thomas_apostle,
+"Sv. Cyrila a Metoděje (5. července)",cyril_the_philosopher_monk_and_methodius_of_thessaloniki_bishop,
 "O duchovních pastýřích (i v době velikonoční)",,
 "Při biřmování (v době velikonoční)",,
 "Sobota po 3. neděli velikonoční",easter_time_3_saturday,
@@ -244,7 +244,7 @@ occasion,id,cycle
 "Středa po 6. neděli velikonoční",easter_time_6_wednesday,
 "O pannách (i v době velikonoční)",,
 "Při pohřbu pokřtěného dítěte (v době velikonoční)",,
-"Nanebevstoupení Páně (čtvrtek po 6. neděli velikonoční)",ascension,(
+"Nanebevstoupení Páně (čtvrtek po 6. neděli velikonoční)",ascension,
 "Pátek po 6. neděli velikonoční",easter_time_6_friday,
 "Sobota po 6. neděli velikonoční",easter_time_6_saturday,
 "7. neděle velikonoční A",easter_time_7_sunday,A
@@ -259,14 +259,14 @@ occasion,id,cycle
 "Seslání Ducha Svatého, vigilie (po čtení z Ez 37,1-14, pokud následuje čtení ze Starého zákona)",pentecost_sunday,
 "Seslání Ducha Svatého, vigilie (po posledním čtení ze Starého zákona)",pentecost_sunday,
 "Seslání Ducha Svatého",pentecost_sunday,
-"Panny Marie, Matky Církve (pondělí po Seslání Ducha Svatého)",mary_mother_of_the_church,(
+"Panny Marie, Matky Církve (pondělí po Seslání Ducha Svatého)",mary_mother_of_the_church,
 "Ježíše Krista, nejvyššího a věčného kněze A",our_lord_jesus_christ_the_eternal_high_priest,A
 "Ježíše Krista, nejvyššího a věčného kněze B",our_lord_jesus_christ_the_eternal_high_priest,B
 "Ježíše Krista, nejvyššího a věčného kněze C",our_lord_jesus_christ_the_eternal_high_priest,C
 "Nejsvětější Trojice B",trinity_sunday,B
 "Těla a Krve Páně B",corpus_christi,B
 "Těla a Krve Páně C",corpus_christi,C
-"Sv. Hilaria (13. ledna)",hilary_of_poitiers_bishop,(1
+"Sv. Hilaria (13. ledna)",hilary_of_poitiers_bishop,
 "O duchovních pastýřích (v době velikonoční)",,
 "Při svěcení kněží a biskupů (v době velikonoční)",,
 "Nejsvětějšího Srdce Ježíšova A",most_sacred_heart_of_jesus,A
@@ -291,7 +291,7 @@ occasion,id,cycle
 "12. neděle v mezidobí B",ordinary_time_12_sunday,B
 "12. neděle v mezidobí C",ordinary_time_12_sunday,C
 "22. neděle v mezidobí A",ordinary_time_22_sunday,A
-"Sv. Marie Magdalény (22. července)",mary_magdalene,(22
+"Sv. Marie Magdalény (22. července)",mary_magdalene,
 "Při řeholních slibech",,
 "13. neděle v mezidobí A",ordinary_time_13_sunday,A
 "13. neděle v mezidobí C",ordinary_time_13_sunday,C
@@ -336,20 +336,20 @@ occasion,id,cycle
 "31. neděle v mezidobí B",ordinary_time_31_sunday,B
 "30. neděle v mezidobí C",ordinary_time_30_sunday,C
 "31. neděle v mezidobí A",ordinary_time_31_sunday,A
-"Sv. Terezie od Dítěte Ježíše (1. října)",therese_of_the_child_jesus_and_the_holy_face_of_lisieux_virgin,(1
+"Sv. Terezie od Dítěte Ježíše (1. října)",therese_of_the_child_jesus_and_the_holy_face_of_lisieux_virgin,
 "32. neděle v mezidobí A",ordinary_time_32_sunday,A
 "Za zemřelé",,
 "32. neděle v mezidobí C",ordinary_time_32_sunday,C
 "33. neděle v mezidobí C",ordinary_time_33_sunday,C
 "Ježíše Krista Krále C",christ_the_king_sunday,C
-"Panny Marie, Matky jednoty křesťanů (18. ledna)",our_lady_mother_of_christian_unity,(1
+"Panny Marie, Matky jednoty křesťanů (18. ledna)",our_lady_mother_of_christian_unity,
 "O Panně Marii (i v době velikonoční)",,
-"Sv. Timoteje a Tita (26. ledna)",timothy_of_ephesus_and_titus_of_crete_bishops,(2
-"Sv. Vojtěcha (23. dubna)",adalbert_of_prague_bishop,(2
-"Uvedení Páně do chrámu (2. února)",presentation_of_the_lord,(2
-"Panny Marie Lurdské (11. února)",our_lady_of_lourdes,(11
-"Sv. Josefa (19. března)",joseph_spouse_of_mary,(1
-"Zvěstování Páně (25. března)",annunciation,(2
+"Sv. Timoteje a Tita (26. ledna)",timothy_of_ephesus_and_titus_of_crete_bishops,
+"Sv. Vojtěcha (23. dubna)",adalbert_of_prague_bishop,
+"Uvedení Páně do chrámu (2. února)",presentation_of_the_lord,
+"Panny Marie Lurdské (11. února)",our_lady_of_lourdes,
+"Sv. Josefa (19. března)",joseph_spouse_of_mary,
+"Zvěstování Páně (25. března)",annunciation,
 "Při řeholních slibech (i v době velikonoční)",,
 "Středa 6. týdne 1",ordinary_time_6_wednesday,1
 "Pátek 6. týdne 1",ordinary_time_6_friday,1

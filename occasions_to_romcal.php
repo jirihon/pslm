@@ -38,7 +38,7 @@ $month = [
 ];
 $week_rx = '(?<week>\d+)';
 $dow_rx = '(?<dow>'.implode('|', array_keys($dow)).')';
-$cycle_rx = '(?<cycle>[ABC12\(\)]+)?';
+$cycle_rx = '(?<cycle>[ABC12][ABC12\(\)]*)?';
 $month_rx = '(?<month>'.implode('|', array_keys($month)).')';
 $nday_rx = '(?<nday>'.implode('|', array_keys($nday)).')';
 
