@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 330
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: g'4 es as8 as as / g4. f8 / g as bes4 bes r ||
 t: Ústa spravedlivého mluví moudře.
 
 %% part: verse

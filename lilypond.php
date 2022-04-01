@@ -108,7 +108,7 @@ function pslm_preprocessor($psalm) {
             }
 
             $first_word_i = $words[0] == '*' ? 1 : 0;
-            if (!preg_match('#^(vždy|vtvém|vmé)$#ui', $words[$first_word_i]) && (
+            if (!preg_match('#^(vždy|vtvém|vmé|[vz]tvé)$#ui', $words[$first_word_i]) && (
                  ($sc[$first_word_i] == 1 && $sc[$first_word_i+1] > 1) ||
                  ($sc[$first_word_i] == 1 && $sc[$first_word_i+1] == 1 && $sc[$first_word_i+2] == 1 && $sc[$first_word_i+3] > 1)
                 )) {
@@ -140,8 +140,8 @@ function pslm_preprocessor($psalm) {
             $psalm = str_replace($snippet, "m: $new_music $bar\nt: $text", $psalm);
         }
     }
-    // shorten previous syllable or cancel quarter rest if there is a pick up rest in the next phrase
-    $psalm = preg_replace("#([abcdefgis]+[,']*)(2|4 r4?)\s+(\|+)((\n|t:.*|%% part:.*)*m: r8)#u", '${1}4 $3$4', $psalm);
+    // shorten previous syllable or cancel quarter rest if there is a pick up rest in the next verse
+    $psalm = preg_replace("#([abcdefgis]+[,']*)(2|4 r4?)\s+(\|+)((\n|t:.*|%% part: verse.*)*m: r8)#u", '${1}4 $3$4', $psalm);
 
     return $psalm;
 }

@@ -5,76 +5,79 @@
 %% author: olejnik
 %% source: nedelni_zaltar
 %% page: 301
+%% a: "bes'B c8 bes a_ g g2"
+%% b: "gB a8 f d_ c c2"
 
-% Tento žalm má stejné texty veršů jako publikovaný OL293
-
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: r8 c' | f f e d / g4 g8 g | g g f e / a8. a16 a2 ||
 t: Jak milý je tvůj příbytek, Hospodine zástupů!
 
 %% part: verse
 
-m: aB |
-t: Touží, ba prahne má duše mé srdce i mé tělo po Hospodinových síních,
+m: bes'B c8 bes a_( g) g4 |
+t: Touží, ba prahne má duše po Hospodinových síních,
 
-m: bB ||
-t: * s jásotem tíhnou k živému Bohu.
+m: r8 g8 gB a8 f d_( c) c4 ||
+t: * mé srdce i mé tělo s jásotem tíhnou k živému Bohu.
 
-%% use: responsum
+%% part: responsum_short
+
+m: r8 c' | f f e d / g4 g8 g | g g f e / a8. a16 a4 ||
+t: Jak milý je tvůj příbytek, Hospodine zástupů!
 
 %% part: verse
 
-m: aB |
+m: r8 bes'8 besB c8 bes a_ g g4 |
 t: I vrabec si nalézá příbytek
 
-m: bB ||
-t: * a vlaštovka své hnízdo,(+) kde ukládá svá mláďata:
+m: r8 g8 gB a8 f d_ c c4 ||
+t: * a vlaštovka své hnízdo, (+) kde ukládá svá mláďata:
 
 %% part: verse
 
-m: aB |
+m: r8 bes'8 besB c8 bes a_ g g4 |
 t: Tvé oltáře, Hospodine zástupů,
 
-m: bB ||
+m: r8 g8 gB a8 f d_( c) c4 r ||
 t: * můj králi a můj Bože!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 bes a_( g) g4 r |
 t: Blaze těm, kdo přebývají ve tvém domě,
 
-m: bB ||
+m: gB a8 f d_( c) c4 r ||
 t: * stále tě mohou chválit.
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 bes a_( g) g4 r |
 t: Štíte náš, Bože, pohleď,
 
-m: bB ||
+m: gB a8 f d_ c c4 r ||
 t: * popatř na tvář svého pomazaného!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 bes a_ g g4 |
 t: Věru, lepší je den ve tvých nádvořích
 
-m: bB ||
+m: r8 g8 a8 f d_ c c4 r ||
 t: * než jinde tisíce:
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 bes a_( g) g4 |
 t: raději budu stát na prahu domu svého Boha
 
-m: bB ||
+m: r8 g8 gB a8 f d_ c c c4 r ||
 t: * než přebývat ve stanech bezbožníka.
 
 %% use: responsum

@@ -5,11 +5,13 @@
 %% source: vsedni_zaltar
 %% page: 294
 
-m: \key c \major
+% Tento žalm má stejné texty veršů jako publikovaný OL298, OL305, OL306
+
+m: \key g \major
 
 %% part: responsum
 
-m: bB ||
+m: r8 g' fis e a a a4 | d,8 a' / a a a / g fis b4 b r ||
 t: Hle, ženich přichází, jděte naproti Kristu Pánu!
 
 %% part: verse

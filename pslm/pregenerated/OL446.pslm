@@ -7,11 +7,11 @@
 %% source: vsedni_zaltar
 %% page: 55
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: f'8 e d d r4 / d8 d d / e f / g g g g4 r ||
 t: Blaze muži, který se bojí Hospodina.
 
 %% part: verse

@@ -4,76 +4,79 @@
 %% author: olejnik
 %% source: nedelni_zaltar
 %% page: 303
-
-% Tento žalm má stejné texty veršů jako publikovaný OL291
+%% a: "f'B g8 f e_ d d2"
+%% b: "dB c8 d f_ e e2"
 
 m: \key c \major
 
 %% part: responsum
 
-m: bB ||
+m: g'4 e4. g8 c c b a a( g) g2 ||
 t: Hle, stánek Boží mezi lidmi!
 
 %% part: verse
 
-m: aB |
-t: Touží, ba prahne má duše mé srdce i mé tělo po Hospodinových síních,
+m: f'B g8 f e_( d) d4 |
+t: Touží, ba prahne má duše po Hospodinových síních,
 
-m: bB ||
-t: * s jásotem tíhnou k živému Bohu.
+m: r8 d8 dB c8 d f_( e) e4 r ||
+t: * mé srdce i mé tělo s jásotem tíhnou k živému Bohu.
 
-%% use: responsum
+%% part: responsum_short
+
+m: g'4 e4. g8 c c b a a( g) g4 ||
+t: Hle, stánek Boží mezi lidmi!
 
 %% part: verse
 
-m: aB |
+m: r8 f'8 fB g8 f e_ d d4 |
 t: I vrabec si nalézá příbytek
 
-m: bB ||
+m: r8 d8 dB c8 d f_ e e4 ||
 t: * a vlaštovka své hnízdo,(+) kde ukládá svá mláďata:
 
 %% part: verse
 
-m: aB |
+m: r8 f'8 fB g8 f e_ d d4 |
 t: Tvé oltáře, Hospodine zástupů,
 
-m: bB ||
+m: r8 d8 dB c8 d f_( e) e4 r ||
 t: * můj králi a můj Bože!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: f'B g8 f e_( d) d4 r |
 t: Blaze těm, kdo přebývají ve tvém domě,
 
-m: bB ||
+m: dB c8 d f_( e) e4 r ||
 t: * stále tě mohou chválit.
 
 %% part: verse
 
-m: aB |
+m: f'B g8 f e_( d) d4 r |
 t: Štíte náš, Bože, pohleď,
 
-m: bB ||
+m: dB c8 d f_ e e4 r ||
 t: * popatř na tvář svého pomazaného!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: f'B g8 f e_ d d4 |
 t: Věru, lepší je den ve tvých nádvořích
 
-m: bB ||
+m: r8 d8 c8 d f_ e e4 r ||
 t: * než jinde tisíce:
 
 %% part: verse
 
-m: aB |
+m: f'B g8 f e_( d) d4 |
 t: raději budu stát na prahu domu svého Boha
 
-m: bB ||
+m: r8 d8 dB c8 d f_ e e e4 r ||
 t: * než přebývat ve stanech bezbožníka.
 
 %% use: responsum

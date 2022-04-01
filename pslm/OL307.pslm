@@ -1,0 +1,65 @@
+%% occasion: 'O svatých'
+%% responsum_reference: 'Srov. Ž 15 (14),1b'
+%% verse_reference: 'Ž 15 (14)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 317
+%% a: "bes'B a8 bes c_ a a2"
+%% b: "gB f8 g a_ f f2"
+
+m: \key f \major
+
+%% part: responsum_short
+
+m: f'8 f e d2 / d8 d e f / g g4 g8 / g g / a bes c c4. ||
+t: Spravedlivý bude, Pane, přebývat na tvé svaté hoře.
+
+%% part: verse
+
+m: r8 bes'8 besB a8 bes c_ a a a4 r |
+t: Kdo žije bez vady a koná spravedlnost,
+
+m: gB f8 g a_ f f f2 ||
+t: * upřímně smýšlí ve svém srdci, + svým jazykem nepomlouvá.
+
+%% part: responsum
+
+m: f'8 f e d2 / d8 d e f / g g4 g8 / g g / a bes c c4. r4 ||
+t: Spravedlivý bude, Pane, přebývat na tvé svaté hoře.
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a4 r |
+t: Nečiní příkoří svému bližnímu,
+
+m: gB f8 g a_ f f4 r ||
+t: * netupí svého souseda.
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a2 |
+t: Nešlechetným člověkem pohrdá,
+
+m: gB f8 g a_ f f f4 r ||
+t: * ale váží si těch, kdo se bojí Hospodina.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a4 |
+t: Nelichvaří svými penězi
+
+m: r8 g8 gB f8 g a_ f f f4 ||
+t: * a nebere úplatky proti nevinnému.
+
+%% part: verse
+
+m: r8 bes'8 a8 bes c_( a) a2 |
+t: Kdo takto jedná,
+
+m: gB f8 g a_ f f2 ||
+t: * nikdy nezakolísá!
+
+%% use: responsum
+

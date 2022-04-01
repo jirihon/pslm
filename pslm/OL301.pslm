@@ -1,9 +1,11 @@
-%% occasion: 'Pátek 3. týdne 1'
+%% occasion: 'O učitelích Církve (i v době velikonoční)'
 %% responsum_reference: 'Ž 37 (36),30a'
 %% verse_reference: 'Ž 37 (36)'
 %% author: olejnik
-%% source: vsedni_zaltar
-%% page: 24
+%% source: nedelni_zaltar
+%% page: 311
+%% a: "c''B c8_ bes bes2"
+%% b: "asB g8_ f f2"
 
 m: \key es \major
 
@@ -14,73 +16,55 @@ t: Ústa spravedlivého mluví moudře.
 
 %% part: verse
 
-m: aB |
+m: c''B c8_( bes) bes4 |
 t: Doufej v Hospodina a čiň dobro,
 
-m: bB ||
+m: r8 as8 asB g8_( f) f4 r ||
 t: * pak budeš přebývat v zemi a těšit se klidu.
 
 %% part: verse
 
-m: aB |
+m: c''B c8_ bes bes bes4 |
 t: Raduj se v Hospodinu,
 
-m: bB ||
+m: r8 as8 asB g8_( f) f4 r ||
 t: * a dá ti, po čem touží tvé srdce.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B c8_( bes) bes4 r |
 t: Hospodinu svěř svůj osud,
 
-m: bB ||
+m: asB g8_( f) f4 ||
 t: * v něho důvěřuj, on sám bude jednat.
 
 %% part: verse
 
-m: aB |
+m: r8 c''8 cB c8_( bes) bes4 r |
 t: Tvé spravedlnosti dá vzejít jako světlu,
 
-m: bB ||
+m: asB g8_( f) f4 r ||
 t: * tvému právu jak polednímu jasu.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
-t: Hospodin dává krokům člověka sílu,
+m: c''B c8_( bes) bes4 r |
+t: Ústa spravedlivého mluví moudře,
 
-m: bB ||
-t: * má zalíbení v jeho životní cestě.
-
-%% part: verse
-
-m: aB |
-t: Jestliže padne, nezůstane ležet,
-
-m: bB ||
-t: * protože mu Hospodin podpírá ruku.
-
-%% use: responsum
+m: asB g8_( f) f2 ||
+t: * jeho jazyk hovoří, co je správné.
 
 %% part: verse
 
-m: aB |
-t: Spravedlivým přichází spása od Hospodina,
+m: c''B c8_( bes) bes4 r |
+t: Boží zákon mu ovládá srdce,
 
-m: bB ||
-t: * v dobách tísně je jim útočištěm.
-
-%% part: verse
-
-m: aB |
-t: Hospodin jim pomáhá a je vysvobozuje,
-
-m: bB ||
-t: * bezbožníků je zbavuje a chrání je, + protože se k němu utíkají.
+m: asB g8_( f) f4 r ||
+t: * proto nevrávorají jeho kroky.
 
 %% use: responsum
 

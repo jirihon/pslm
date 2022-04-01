@@ -6,11 +6,11 @@
 %% source: vsedni_zaltar
 %% page: 135
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: r8 f' f e d g g g4 | g8 f e a a a4 ||
 t: Buď veleben Hospodin nyní i na věky!
 
 %% part: verse

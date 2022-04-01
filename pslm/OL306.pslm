@@ -1,70 +1,75 @@
 %% occasion: 'O pannách (i v době velikonoční)'
 %% occasion: 'Při řeholních slibech (i v době velikonoční)'
-%% responsum_reference: 'Mt 25,6 .'
+%% responsum_reference: 'Srov. Mt 25,6'
 %% verse_reference: 'Ž 45 (44)'
 %% author: olejnik
 %% source: nedelni_zaltar
-%% page: 315
+%% page: 316
+%% a: "c''B b8 a a_ g g2"
+%% b: "gB fis8 e e_ d d2"
 
-% Tento žalm má stejné texty veršů jako publikovaný OL298, OL306
+% Tento žalm má stejné texty veršů jako publikovaný OL298
 
-m: \key c \major
+m: \key g \major
 
-%% part: responsum
+%% part: responsum_short
 
-m: bB ||
-t: Ženich je tu, jděte naproti Kristu Pánu!
+m: r8 g' fis e a a a4 | d,8 a' / a a a / g fis b4 b ||
+t: Hle, ženich přichází, jděte naproti Kristu Pánu!
 
 %% part: verse
 
-m: aB |
+m: r8 c''8 cB b8 a a_ g g4 r |
 t: Slyš, dcero, pohleď a naslouchej,
 
-m: bB ||
+m: gB fis8 e e_ d d d2 ||
 t: * zapomeň na svůj národ, na svůj otcovský dům!
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_( g) g4 r |
 t: Sám král touží po tvé kráse:
 
-m: bB ||
+m: gB fis8 e e_ d d d4 r ||
 t: * vždyť je tvým pánem, před ním se skloň!
 
-%% use: responsum
+%% part: responsum
+
+m: r8 g' fis e a a a4 | d,8 a' / a a a / g fis b4 b r ||
+t: Hle, ženich přichází, jděte naproti Kristu Pánu!
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_( g) g4 r |
 t: V plné kráse vstupuje královská dcera,
 
-m: bB ||
+m: gB fis8 e e_( d) d4 r ||
 t: * její šat je protkán zlatem.
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_ g g4 r |
 t: V barevném rouchu ji vedou ke králi,
 
-m: bB ||
+m: gB fis8 e e_( d) d4 r ||
 t: * za ní ti přivádějí panny, její družky.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_ g g4 r |
 t: Provázeny radostným jásotem
 
-m: bB ||
+m: gB fis8 e e_( d) d2 ||
 t: * vstupují v královský palác.
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_ g g2 |
 t: Místa tvých otců zaujmou tvoji synové,
 
-m: bB ||
+m: gB fis8 e e_( d) d4 r ||
 t: * ustanovíš je za knížata po celé zemi.
 
 %% use: responsum

@@ -4,66 +4,69 @@
 %% author: olejnik
 %% source: nedelni_zaltar
 %% page: 308
-
-% Tento žalm má stejné texty veršů jako publikovaný OL305, OL306
+%% a: "c''B b8 a a_ g g2"
+%% b: "aB g8 f e_ d d2"
 
 m: \key c \major
 
-%% part: responsum
+%% part: responsum_short
 
-m: e'8 c~ c4 f8 f f g / e4 e8 e | d f a a2 / a8 b a gis( e) e4 r ||
+m: e'8 c~ c4 f8 f f g / e4 e8 e | d f a a2 / a8 b a gis( e) e4 ||
 t: Po své pravici máš královnu ozdobenou ofirským zlatem.
 
 %% part: verse
 
-m: aB |
+m: r8 c''8 cB b8 a a_ g g4 r |
 t: Slyš, dcero, pohleď a naslouchej,
 
-m: bB ||
+m: aB g8 f e_ d d d2 ||
 t: * zapomeň na svůj národ, na svůj otcovský dům!
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_( g) g4 r |
 t: Sám král touží po tvé kráse:
 
-m: bB ||
+m: aB g8 f e_ d d d4 r ||
 t: * vždyť je tvým pánem, před ním se skloň!
 
-%% use: responsum
+%% part: responsum
+
+m: e'8 c~ c4 f8 f f g / e4 e8 e | d f a a2 / a8 b a gis( e) e2 ||
+t: Po své pravici máš královnu ozdobenou ofirským zlatem.
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_( g) g4 r |
 t: V plné kráse vstupuje královská dcera,
 
-m: bB ||
+m: aB g8 f e_( d) d4 r ||
 t: * její šat je protkán zlatem.
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_ g g4 r |
 t: V barevném rouchu ji vedou ke králi,
 
-m: bB ||
+m: aB g8 f e_( d) d4 r ||
 t: * za ní ti přivádějí panny, její družky.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_ g g4 r |
 t: Provázeny radostným jásotem
 
-m: bB ||
+m: aB g8 f e_( d) d2 ||
 t: * vstupují v královský palác.
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_ g g2 |
 t: Místa tvých otců zaujmou tvoji synové,
 
-m: bB ||
+m: aB g8 f e_( d) d4 r ||
 t: * ustanovíš je za knížata po celé zemi.
 
 %% use: responsum

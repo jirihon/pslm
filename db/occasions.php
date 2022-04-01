@@ -240,6 +240,7 @@
   'O Panně Marii' => 
   array (
     0 => 'OL34',
+    1 => 'OL297',
   ),
   'Narození Páně, vigilie' => 
   array (
@@ -274,12 +275,15 @@
     1 => 'OL249',
     2 => 'OL250',
     3 => 'OL270',
+    4 => 'OL307',
+    5 => 'OL308',
   ),
   'Při svatbě' => 
   array (
     0 => 'OL42',
     1 => 'OL226',
     2 => 'OL227',
+    3 => 'OL308',
   ),
   'Svaté Rodiny B (pokud se čte čtení z Gn 15,1-6)' => 
   array (
@@ -658,6 +662,8 @@
     2 => 'OL101',
     3 => 'OL190',
     4 => 'OL256',
+    5 => 'OL299',
+    6 => 'OL300',
   ),
   'O svatých (v době velikonoční)' => 
   array (
@@ -702,6 +708,8 @@
   array (
     0 => 'OL99',
     1 => 'OL99a',
+    2 => 'OL291',
+    3 => 'OL292',
   ),
   'Středa po 4. neděli postní' => 
   array (
@@ -1038,6 +1046,8 @@
   'O pannách (i v době velikonoční)' => 
   array (
     0 => 'OL165',
+    1 => 'OL305',
+    2 => 'OL306',
   ),
   'Při pohřbu pokřtěného dítěte (v době velikonoční)' => 
   array (
@@ -1385,6 +1395,8 @@
   'O učitelích Církve' => 
   array (
     0 => 'OL238',
+    1 => 'OL302',
+    2 => 'OL303',
   ),
   '25. neděle v mezidobí C' => 
   array (
@@ -1462,6 +1474,7 @@
   array (
     0 => 'OL255',
     1 => 'OL258',
+    2 => 'OL298',
   ),
   'Sv. Timoteje a Tita (26. ledna)' => 
   array (
@@ -1544,6 +1557,7 @@
     0 => 'OL269',
     1 => 'OL272',
     2 => 'OL288',
+    3 => 'OL290',
   ),
   'Sv. Prokopa (4. července)' => 
   array (
@@ -1630,9 +1644,48 @@
   array (
     0 => 'OL289',
   ),
+  'Sv. Mláďátek (28. prosince)' => 
+  array (
+    0 => 'OL290',
+  ),
+  'Při svěcení oltáře' => 
+  array (
+    0 => 'OL291',
+    1 => 'OL294',
+  ),
+  'Výročí posvěcení kostela (i v době velikonoční)' => 
+  array (
+    0 => 'OL293',
+  ),
+  'Výročí posvěcení kostela (v době velikonoční)' => 
+  array (
+    0 => 'OL294',
+    1 => 'OL295',
+    2 => 'OL296',
+  ),
+  'Při svěcení oltáře (i v době velikonoční)' => 
+  array (
+    0 => 'OL295',
+    1 => 'OL296',
+  ),
+  'O svatých (i v době velikonoční)' => 
+  array (
+    0 => 'OL299',
+    1 => 'OL309',
+  ),
+  'O učitelích Církve (i v době velikonoční)' => 
+  array (
+    0 => 'OL301',
+  ),
+  'O učitelích Církve (v době velikonoční)' => 
+  array (
+    0 => 'OL304',
+  ),
   'Při řeholních slibech (i v době velikonoční)' => 
   array (
-    0 => 'OL334',
+    0 => 'OL305',
+    1 => 'OL306',
+    2 => 'OL334',
   ),
   'Středa 6. týdne 1' => 
   array (

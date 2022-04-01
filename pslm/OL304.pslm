@@ -1,11 +1,11 @@
-%% occasion: 'Pondělí po 1. neděli postní'
-%% occasion: '3. neděle v mezidobí C'
-%% occasion: 'Při svěcení kostela'
+%% occasion: 'O učitelích Církve (v době velikonoční)'
 %% responsum_reference: 'Jan 6,63b'
 %% verse_reference: 'Ž 19 (18)'
 %% author: olejnik
 %% source: nedelni_zaltar
-%% page: 80
+%% page: 314
+%% a: "c''B bes8 as g_ f f2"
+%% b: "fB es8 f as_ g g2"
 
 m: \key es \major
 
@@ -16,41 +16,41 @@ t: Tvá slova, Pane, jsou duch a jsou život.
 
 %% part: verse
 
-m: aB |
-t: Hospodinův zákon je dokonalý, (+) R občerstvuje duši,
+m: c''B bes8 as g_( f) f4 r |
+t: Hospodinův zákon je dokonalý, (+) občerstvuje duši,
 
-m: bB ||
+m: fB es8 f as_( g) g4 r ||
 t: * Hospodinův příkaz je spolehlivý, (+) nezkušenému dává moudrost.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B bes8 as g_( f) f4 r |
 t: Hospodinovy předpisy jsou správné, (+) působí radost srdci,
 
-m: bB ||
+m: fB es8 f as_( g) g4 r ||
 t: * Hospodinův rozkaz je jasný, (+) osvětluje oči.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
-t: Bázeň před Hospodinem je upřímná,trvá na věky,
+m: c''B bes8 as g_ f f4 r |
+t: Bázeň před Hospodinem je upřímná, trvá na věky,
 
-m: bB ||
+m: fB es8 f as_ g g g2 ||
 t: * Hospodinovy výroky jsou pravdivé, (+) všechny jsou spravedlivé.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
-t: Nechť se ti líbí slova mých úst + i smýšlení mého srdce,
+m: c''B bes8 as g_ f f4 r |
+t: Dražší jsou nad zlato, nad hojnost zlata ryzího,
 
-m: bB ||
-t: * Hospodine, má Skálo, vykupiteli můj!
+m: fB es8 f as_( g) g2 ||
+t: * sladší jsou nad med, nad šťávu z plástů.
 
 %% use: responsum
 

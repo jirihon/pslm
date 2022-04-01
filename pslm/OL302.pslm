@@ -1,11 +1,11 @@
-%% occasion: 'Čtvrtek 13. týdne 2'
+%% occasion: 'O učitelích Církve'
 %% responsum_reference: 'Ž 19 (18),10b'
 %% verse_reference: 'Ž 19 (18)'
 %% author: olejnik
-%% source: vsedni_zaltar
-%% page: 249
-
-% Tento žalm má stejné texty veršů jako publikovaný OL302
+%% source: nedelni_zaltar
+%% page: 312
+%% a: "a'B a8_ g g2"
+%% b: "fB e8_ d d2"
 
 m: \key c \major
 
@@ -16,72 +16,72 @@ t: Hospodinovy výroky jsou pravdivé, všechny jsou spravedlivé.
 
 %% part: verse
 
-m: aB |
+m: a'B a8_ g g g2 |
 t: Hospodinův zákon je dokonalý,
 
-m: bB ||
+m: fB e8_( d) d4 r ||
 t: * občerstvuje duši,
 
 %% part: verse
 
-m: aB |
+m: a'B a8_ g g g2 |
 t: Hospodinův příkaz je spolehlivý,
 
-m: bB ||
+m: fB e8_( d) d4 r ||
 t: * nezkušenému dává moudrost.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: a'B a8_( g) g2 |
 t: Hospodinovy předpisy jsou správné,
 
-m: bB ||
+m: fB e8_( d) d4 r ||
 t: * působí radost srdci,
 
 %% part: verse
 
-m: aB |
+m: a'B a8_( g) g2 |
 t: Hospodinův rozkaz je jasný,
 
-m: bB ||
+m: fB e8_( d) d4 r ||
 t: * osvětluje oči.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: a'B a8_ g g2 |
 t: Bázeň před Hospodinem je upřímná,
 
-m: bB ||
+m: fB e8_ d d4 r ||
 t: * trvá na věky,
 
 %% part: verse
 
-m: aB |
+m: a'B a8_ g g2 |
 t: Hospodinovy výroky jsou pravdivé,
 
-m: bB ||
+m: fB e8_ d d d2 ||
 t: * všechny jsou spravedlivé.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: a'B a8_ g g4 r |
 t: Dražší jsou nad zlato,
 
-m: bB ||
+m: fB e8_ d d4 r ||
 t: * nad hojnost zlata ryzího,
 
 %% part: verse
 
-m: aB |
+m: a'B a8_( g) g4 r |
 t: sladší jsou nad med,
 
-m: bB ||
+m: fB e8_( d) d2 ||
 t: * nad šťávu z plástů.
 
 %% use: responsum
