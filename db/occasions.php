@@ -277,6 +277,9 @@
     3 => 'OL270',
     4 => 'OL307',
     5 => 'OL308',
+    6 => 'OL310',
+    7 => 'OL311',
+    8 => 'OL312',
   ),
   'Při svatbě' => 
   array (
@@ -327,6 +330,8 @@
     3 => 'OL196',
     4 => 'OL208',
     5 => 'OL209',
+    6 => 'OL313',
+    7 => 'OL315',
   ),
   'Matky Boží, Panny Marie (1. ledna)' => 
   array (
@@ -1258,6 +1263,7 @@
     1 => 'OL209',
     2 => 'OL286',
     3 => 'OL286a',
+    4 => 'OL312',
   ),
   '13. neděle v mezidobí A' => 
   array (
@@ -1339,6 +1345,7 @@
   array (
     0 => 'OL226',
     1 => 'OL227',
+    2 => 'OL316',
   ),
   '19. neděle v mezidobí C' => 
   array (
@@ -1686,6 +1693,24 @@
     0 => 'OL305',
     1 => 'OL306',
     2 => 'OL334',
+  ),
+  'Při řeholních slibech (v době velikonoční)' => 
+  array (
+    0 => 'OL310',
+    1 => 'OL311',
+  ),
+  'Při křtu dospělých (i v době velikonoční)' => 
+  array (
+    0 => 'OL314',
+  ),
+  'Při biřmování (i v době velikonoční)' => 
+  array (
+    0 => 'OL317',
+    1 => 'OL318',
+  ),
+  'Při biřmování' => 
+  array (
+    0 => 'OL319',
   ),
   'Středa 6. týdne 1' => 
   array (

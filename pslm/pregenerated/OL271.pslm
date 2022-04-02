@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 280
 
-m: \key c \major
+m: \key d \major
 
 %% part: responsum
 
-m: bB ||
+m: d'8 d d e fis / g fis e / fis a a a4 r ||
 t: Ustavičně chci velebit Hospodina.
 
 %% part: verse

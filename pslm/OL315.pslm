@@ -1,87 +1,90 @@
-%% occasion: 'Pátek 14. týdne 2'
-%% responsum_reference: 'Srov. Ž 51 (50),3a'
+%% occasion: 'Při křtu dospělých'
+%% responsum_reference: 'Ž 51 (50),12a'
 %% verse_reference: 'Ž 51 (50)'
 %% author: olejnik
-%% source: vsedni_zaltar
-%% page: 255
-
-% Tento žalm má stejné texty veršů jako publikovaný OL315
+%% source: nedelni_zaltar
+%% page: 325
+%% a: "d'B e8 f a_ g g2"
+%% b: "gB a8 bes d_ c c2"
 
 m: \key f \major
 
 %% part: responsum
 
-m: c''8 d c bes a r | bes c bes / a g g4 r ||
-t: Smiluj se, Pane, neboť jsme zhřešili.
+m: c''4 a d8 c a g / f4( d) c2 ||
+t: Stvoř mi čisté srdce, Bože!
 
 %% part: verse
 
-m: aB |
+m: d'B e8 f a_ g g2 |
 t: Smiluj se nade mnou, Bože, pro své milosrdenství,
 
-m: bB ||
+m: gB a8 bes d_ c c4 r ||
 t: * pro své velké slitování zahlaď mou nepravost.
 
 %% part: verse
 
-m: aB |
+m: d'B e8 f a_( g) g4 |
 t: Úplně ze mě smyj mou vinu
 
-m: bB ||
+m: r8 g8 gB a8 bes d_( c) c4 r ||
 t: * a očisť mě od mého hříchu.
 
-%% use: responsum
+%% part: responsum_short
+
+m: c''4 a d8 c a g / f4( d) c4 ||
+t: Stvoř mi čisté srdce, Bože!
 
 %% part: verse
 
-m: aB |
+m: r8 d'8 dB e8 f a_( g) g4 r |
 t: Hle, líbí se ti upřímné srdce,
 
-m: bB ||
+m: gB a8 bes d_ c c4 r ||
 t: * ve skrytu mě učíš moudrosti!
 
 %% part: verse
 
-m: aB |
+m: d'B e8 f a_( g) g2 |
 t: Pokrop mě yzopem, a budu čistý,
 
-m: bB ||
+m: gB a8 bes d_ c c2 ||
 t: * umyj mě, a budu bělejší než sníh.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: d'B e8 f a_( g) g4 r |
 t: Stvoř mi čisté srdce, Bože!
 
-m: bB ||
+m: gB a8 bes d_ c c4 r ||
 t: * Obnov ve mně ducha vytrvalosti.
 
 %% part: verse
 
-m: aB |
+m: d'B e8 f a_( g) g4 |
 t: Neodvrhuj mě od své tváře
 
-m: bB ||
+m: r8 g8 gB a8 bes d_( c) c4 r ||
 t: * a neodnímej mi svého svatého ducha.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: d'B e8 f a_ g g4 |
 t: Vrať mi radost ze své ochrany
 
-m: bB ||
+m: r8 g8 gB a8 bes d_ c c c4 r ||
 t: * a posilni mou velkodušnost.
 
 %% part: verse
 
-m: aB |
+m: d'B e8 f a_( g) g4 r |
 t: Otevři mé rty, Pane,
 
-m: bB ||
+m: gB a8 bes d_( c) c4 r ||
 t: * aby má ústa zvěstovala tvou chválu.
 
 %% use: responsum

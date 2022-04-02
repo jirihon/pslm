@@ -1,106 +1,109 @@
 %% occasion: 'O svatých'
-%% occasion: 'Při řeholních slibech'
-%% responsum_reference: 'Ž 34 (33),9a .'
+%% occasion: 'Při řeholních slibech (v době velikonoční)'
+%% responsum_reference: 'Ž 34 (33),2a'
 %% verse_reference: 'Ž 34 (33)'
 %% author: olejnik
 %% source: nedelni_zaltar
-%% page: 322
+%% page: 321
+%% a: "bes'B c8 a g_ g g2"
+%% b: "aB g8 f d_ c c2"
 
-% Tento žalm má stejné texty veršů jako publikovaný OL310
-
-m: \key es \major
+m: \key f \major
 
 %% part: responsum
 
-m: es'8 es f g as f r4 | f8 f / f g as / bes g~ g4 ||
-t: Okuste a vizte, jak je Hospodin dobrý.
+m: c'8 f g a bes / c4. a8 / d c bes( a) g2 ||
+t: Chci dobrořečit Pánu v každé chvíli.
 
 %% part: verse
 
-m: aB |
-t: Ustavičně chci velebit Hospodina,
+m: bes'B c8 a g_ g g g4 r |
+t: stavičně chci velebit Hospodina,
 
-m: bB ||
+m: aB g8 f d_( c) c4 r ||
 t: * vždy bude v mých ústech jeho chvála.
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 a g8_ g r4 |
 t: V Hospodinu nechť se chlubí moje duše,
 
-m: bB ||
+m: aB g8 f d_ c c c4 r ||
 t: * ať to slyší pokorní a radují se.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 a g_ g g g4 r |
 t: Velebte se mnou Hospodina,
 
-m: bB ||
+m: aB g8 f d_( c) c4 r ||
 t: * oslavujme spolu jeho jméno!
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 a g_ g g g4 r |
 t: Hledal jsem Hospodina a vyslyšel mě,
 
-m: bB ||
+m: aB g8 f d_( c) c4 r ||
 t: * vysvobodil mě ze všech mých obav.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 a g_ g g4 r |
 t: Pohleďte k němu, ať se rozveselíte,
 
-m: bB ||
+m: aB g8 f d_( c) c4 ||
 t: * vaše tvář se nemusí zardívat hanbou.
 
 %% part: verse
 
-m: aB |
+m: r8 bes'8 besB c8 a g8_ g r4 |
 t: Hle, ubožák zavolal, a Hospodin slyšel,
 
-m: bB ||
+m: aB g8 f d_( c) c4 r ||
 t: * pomohl mu ve všech jeho strastech.
 
-%% use: responsum
+%% part: responsum_short
+
+m: c'8 f g a bes / c4. a8 / d c bes( a) g4 ||
+t: Chci dobrořečit Pánu v každé chvíli.
 
 %% part: verse
 
-m: aB |
+m: r8 bes'8 besB c8 a g8_ g r4 |
 t: Jak ochránce se utábořil Hospodinův anděl
 
-m: bB ||
+m: aB g8 f d_ c c4 r ||
 t: * kolem těch, kdo Hospodina ctí, a vysvobodil je.
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 a g8_ g4. r4 |
 t: Okuste a vizte, jak je Hospodin dobrý,
 
-m: bB ||
+m: aB g8 f d_ c c2 ||
 t: * blaze člověku, který se k němu utíká.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 a g8_ g4. r4 |
 t: Bojte se Hospodina, jeho svatí!
 
-m: bB ||
+m: aB g8 f d_ c c2 ||
 t: * Těm, kdo se ho bojí, nic nechybí.
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 a g8_ g r4 |
 t: Mocní strádají a hynou hlady,
 
-m: bB ||
+m: r8 a8 aB g8 f d_ c c c4 r ||
 t: * nic nechybí těm, kdo hledají Hospodina.
 
 %% use: responsum

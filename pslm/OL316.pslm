@@ -1,0 +1,96 @@
+%% occasion: 'Při křtu (v době velikonoční)'
+%% responsum_reference: 'Ž 27 (26),1a'
+%% verse_reference: 'Ž 27 (26)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 326
+%% a: "bes'B a8_ bes c c2"
+%% b: "gB f8_ g a a2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: a'8 a g f bes4 c8 a | d, f / g4 g r ||
+t: Hospodin je mé světlo a má spása.
+
+%% part: verse
+
+m: bes'B a8_( bes c) c4 r |
+t: ospodin je mé světlo a má spása,
+
+m: gB f8_( g) a a2 ||
+t: * koho bych se bál?
+
+%% part: verse
+
+m: bes'B a8_( bes) c c4 r |
+t: Hospodin je záštita mého života,
+
+m: gB f8_( g a) a4 r ||
+t: * před kým bych se třásl?
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8_( bes c) c4 |
+t: Jedno od Hospodina žádám
+
+m: r8 g8 gB f8_( g a) a2 ||
+t: * a po tom toužím:
+
+%% part: verse
+
+m: bes'B a8_( bes c) c4 r |
+t: abych směl přebývat v Hospodinově domě
+
+m: gB f8_( g) a a4 r ||
+t: * po všechny dny svého života,
+
+%% part: verse
+
+m: bes'B a8_( bes c) c4 |
+t: abych požíval Hospodinovy něhy
+
+m: r8 g8 gB f8_ g a a2 ||
+t: * a patřil na jeho chrám.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8_( bes c) c2 |
+t: Hospodine, hledám tvou tvář.
+
+m: gB f8_( g) a a2 ||
+t: * Neskrývej svou tvář přede mnou,
+
+%% part: verse
+
+m: bes'B a8_ bes c c4 r |
+t: v hněvu neodmítej svého služebníka!
+
+m: gB f8_ g a a a4 r ||
+t: * Tys má pomoc, nezavrhuj mě!
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8_ bes c c c4 r |
+t: Věřím, že uvidím blaho od Hospodina
+
+m: gB f8_( g a) a2 ||
+t: * v zemi živých!
+
+%% part: verse
+
+m: bes'B a8_( bes c) c2 |
+t: Důvěřuj v Hospodina, buď silný,
+
+m: gB f8_ g a a4 r ||
+t: * ať se vzmuží tvé srdce, doufej v Hospodina!
+
+%% use: responsum
+

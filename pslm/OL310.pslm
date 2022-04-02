@@ -1,106 +1,109 @@
 %% occasion: 'O svatých'
-%% occasion: 'Při řeholních slibech'
-%% responsum_reference: 'Ž 34 (33),9a .'
+%% occasion: 'Při řeholních slibech (v době velikonoční)'
+%% responsum_reference: 'Ž 34 (33),2a'
 %% verse_reference: 'Ž 34 (33)'
 %% author: olejnik
 %% source: nedelni_zaltar
-%% page: 322
+%% page: 320
+%% a: "b'B b8_ a a2"
+%% b: "gB fis8_ e e2"
 
-% Tento žalm má stejné texty veršů jako publikovaný OL310
-
-m: \key es \major
+m: \key d \major
 
 %% part: responsum
 
-m: es'8 es f g as f r4 | f8 f / f g as / bes g~ g4 ||
-t: Okuste a vizte, jak je Hospodin dobrý.
+m: d'8 d d e fis / g fis e / fis a a a4 r ||
+t: Ustavičně chci velebit Hospodina.
 
 %% part: verse
 
-m: aB |
+m: b'B b8_ a a a4 r |
 t: Ustavičně chci velebit Hospodina,
 
-m: bB ||
+m: gB fis8_( e) e4 r ||
 t: * vždy bude v mých ústech jeho chvála.
 
 %% part: verse
 
-m: aB |
+m: b'B b8_( a) a4 r |
 t: V Hospodinu nechť se chlubí moje duše,
 
-m: bB ||
+m: gB fis8_ e e e4 r ||
 t: * ať to slyší pokorní a radují se.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: b'B b8_ a a a4 r |
 t: Velebte se mnou Hospodina,
 
-m: bB ||
+m: gB fis8_( e) e4 r ||
 t: * oslavujme spolu jeho jméno!
 
 %% part: verse
 
-m: aB |
+m: b'B b8_ a a a4 r |
 t: Hledal jsem Hospodina a vyslyšel mě,
 
-m: bB ||
+m: gB fis8_( e) e4 r ||
 t: * vysvobodil mě ze všech mých obav.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: b'B b8_ a a4 r |
 t: Pohleďte k němu, ať se rozveselíte,
 
-m: bB ||
+m: gB fis8_( e) e4 ||
 t: * vaše tvář se nemusí zardívat hanbou.
 
 %% part: verse
 
-m: aB |
+m: r8 b'8 bB b8_( a) a4 r |
 t: Hle, ubožák zavolal, a Hospodin slyšel,
 
-m: bB ||
+m: gB fis8_( e) e4 r ||
 t: * pomohl mu ve všech jeho strastech.
 
-%% use: responsum
+%% part: responsum_short
+
+m: d'8 d d e fis / g fis e / fis a a a4 ||
+t: Ustavičně chci velebit Hospodina.
 
 %% part: verse
 
-m: aB |
+m: r8 b'8 bB b8_( a) a4 r |
 t: Jak ochránce se utábořil Hospodinův anděl
 
-m: bB ||
+m: gB fis8_ e e4 r ||
 t: * kolem těch, kdo Hospodina ctí, a vysvobodil je.
 
 %% part: verse
 
-m: aB |
+m: b'B b8_( a) a2 |
 t: Okuste a vizte, jak je Hospodin dobrý,
 
-m: bB ||
+m: gB fis8_ e e2 ||
 t: * blaze člověku, který se k němu utíká.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: b'B b8_( a) a2 |
 t: Bojte se Hospodina, jeho svatí!
 
-m: bB ||
+m: gB fis8_ e e2 ||
 t: * Těm, kdo se ho bojí, nic nechybí.
 
 %% part: verse
 
-m: aB |
+m: b'B b8_( a) a4 |
 t: Mocní strádají a hynou hlady,
 
-m: bB ||
+m: r8 g8 gB fis8_ e e e4 r ||
 t: * nic nechybí těm, kdo hledají Hospodina.
 
 %% use: responsum

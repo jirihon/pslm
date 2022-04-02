@@ -430,7 +430,8 @@ function pslm_process_snippet($music, $text) {
         }
     }, $text_tokens));
 
-    $music = str_replace('_', '', $music);
+    // $music = str_replace('_', '', $music);
+    $music = preg_replace('#([^ ]*)_#', '\bar "" $1', $music);
     
     $text_syllables = pslm_text_syllables($text_tokens);
     $n_text_syllables = count($text_syllables);
@@ -498,7 +499,7 @@ function pslm_text_to_lyrics($text) {
             $search[$i] = '#'.$search[$i].'#ui'; // case-insensitive
         }
         $replace = str_replace('-', ' -- ', $hyph);
-        $search[] = '#(?<=[aáeéěiíoóuúůyý])(?=([bdďcčfghjklmnňpqrřsštťvwxzž]|ch|ct|chr|[hkmst]l|[bfkt]r|př|tv|zř|jm|[sš]t|sv|vš)[aáeéěiíoóuúůyý])#ui'; // general pattern for two vowels separated by a consonant or consonant group
+        $search[] = '#(?<=[aáeéěiíoóuúůyý])(?=([bdďcčfghjklmnňpqrřsštťvwxzž]|ch|ct|chr|[hkmst]l|[bfkt]r|př|tv|zř|jm|[sš]t|sv|vš|zn)[aáeéěiíoóuúůyý])#ui'; // general pattern for two vowels separated by a consonant or consonant group
         $replace[] = ' -- ';
         $PSLM_HYPH_EXCEPTIONS = [$search, $replace];
     }
