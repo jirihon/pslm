@@ -1,0 +1,65 @@
+%% occasion: 'Při svatbě'
+%% responsum_reference: 'Ž 33 (32),5b'
+%% verse_reference: 'Ž 33 (32)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 334
+%% a: "d'B e8 f a_ g g2"
+%% b: "gB a8 bes d_ c c2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: c''8 d c bes a4 / bes8 c bes / a g / f c c2 ||
+t: Země je plná Hospodinovy milosti.
+
+%% part: verse
+
+m: d'B e8 f a_ g g4 r |
+t: Blaze národu, jehož Bohem je Hospodin,
+
+m: gB a8 bes d_ c c4 r ||
+t: * blaze lidu, který si vyvolil za svůj majetek.
+
+%% part: verse
+
+m: d'B e8 f a_( g) g2 |
+t: Hospodinovo oko bdí nad těmi, kdo se ho bojí,
+
+m: gB a8 bes d_( c) c4 r ||
+t: * nad těmi, kdo doufají v jeho milost.
+
+%% use: responsum
+
+%% part: verse
+
+m: d'B e8 f a_ g g g4 r |
+t: Naše duše vyhlíží Hospodina,
+
+m: gB a8 bes d_ c c c2 ||
+t: * on sám je naše pomoc a štít.
+
+%% part: verse
+
+m: d'B e8 f a_( g) g4 r |
+t: V něm se raduje naše srdce,
+
+m: gB a8 bes d_( c) c4 r ||
+t: * důvěřujeme v jeho svaté jméno.
+
+%% part: responsum_short
+
+m: c''8 d c bes a4 / bes8 c bes / a g / f c c4 ||
+t: Země je plná Hospodinovy milosti.
+
+%% part: verse
+
+m: r8 d'8 dB e8 f a_ g g4 r |
+t: Ať spočine na nás, Hospodine, tvé milosrdenství,
+
+m: gB a8 bes d_( c) c4 r ||
+t: * jak doufáme v tebe.
+
+%% use: responsum
+

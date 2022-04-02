@@ -1,0 +1,70 @@
+%% occasion: 'Při svatbě'
+%% responsum_reference: 'Ž 103 (102),8a'
+%% verse_reference: 'Ž 103 (102)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 337
+%% a: "c''B d8 c bes_ g es es2"
+%% b: "cB d8 es g_ es f f2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: g'8 g f4 es | \tuplet 3/2 { as8[ as g] } f2 \breathe / bes,4 | \tuplet 3/2 {bes'8[ bes as] } g2  ||
+t: Hospodin je milosrdný a milostivý.
+
+%% part: verse
+
+m: c''B d8 c bes_ g es es4 r |
+t: Veleb, má duše, Hospodina,
+
+m: cB d8 es g_( es f) f4 r ||
+t: * vše, co je ve mně, veleb jeho svaté jméno!
+
+%% part: verse
+
+m: c''B d8 c bes_ g es es4 |
+t: Veleb, má duše, Hospodina
+
+m: r8 c8 cB d8 es g_ es f f2 ||
+t: * a nezapomeň na žádné z jeho dobrodiní!
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B d8 c bes_ g es es2 |
+t: Hospodin je milosrdný a milostivý,
+
+m: cB d8 es g_ es f f2 ||
+t: * shovívavý a nadmíru dobrotivý.
+
+%% part: verse
+
+m: c''B d8 c bes_( g) es es4 r |
+t: Jako se smilovává otec nad syny,
+
+m: cB d8 es g_( es f) f2 ||
+t: * tak se smilovává Hospodin nad těmi, kdo se ho bojí.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B d8 c bes_( g) es es4 r |
+t: Hospodinova láska však od věků na věky
+
+m: cB d8 es g_( es f) f4 ||
+t: * pro všechny, kdo se ho bojí,
+
+%% part: verse
+
+m: r8 c''8 cB d8 c bes_( g) es es4 r |
+t: a jeho spravedlnost jde z dětí na děti
+
+m: cB d8 es g_( es f) f4 r ||
+t: * pro ty, kteří zachovávají jeho smlouvu.
+
+%% use: responsum
+

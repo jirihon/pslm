@@ -26,6 +26,24 @@
       - day: 10
         name: Květná neděle
         psalms: [OL111]
+      - day: 9
+        name: Sobota po 5. neděli postní
+        psalms: [OL110]
+      - day: 8
+        name: Pátek po 5. neděli postní
+        psalms: [OL109]
+      - day: 7
+        name: Čtvrtek po 5. neděli postní
+        psalms: [OL108]
+      - day: 6
+        name: Středa po 5. neděli postní
+        psalms: [OL107]
+      - day: 5
+        name: Úterý po 5. neděli postní
+        psalms: [OL106]
+      - day: 4
+        name: Pondělí po 5. neděli postní
+        psalms: [OL95, OL96]
       - day: 3
         name: 5. neděle postní C
         psalms: [OL16]

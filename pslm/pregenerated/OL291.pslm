@@ -8,11 +8,11 @@
 
 % Tento žalm má stejné texty veršů jako publikovaný OL293
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: r8 c' | f f e d / g4 g8 g | g g f e / a8. a16 a2 ||
 t: Jak milý je tvůj příbytek, Hospodine zástupů!
 
 %% part: verse

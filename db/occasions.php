@@ -287,6 +287,10 @@
     1 => 'OL226',
     2 => 'OL227',
     3 => 'OL308',
+    4 => 'OL324',
+    5 => 'OL325',
+    6 => 'OL326',
+    7 => 'OL327',
   ),
   'Svaté Rodiny B (pokud se čte čtení z Gn 15,1-6)' => 
   array (
@@ -685,6 +689,7 @@
     0 => 'OL95',
     1 => 'OL96',
     2 => 'OL145',
+    3 => 'OL322',
   ),
   'Za zemřelé / Při pohřbu' => 
   array (
@@ -947,6 +952,7 @@
   'Při biřmování (v době velikonoční)' => 
   array (
     0 => 'OL145',
+    1 => 'OL320',
   ),
   'Sobota po 3. neděli velikonoční' => 
   array (
@@ -1264,6 +1270,8 @@
     2 => 'OL286',
     3 => 'OL286a',
     4 => 'OL312',
+    5 => 'OL331',
+    6 => 'OL333',
   ),
   '13. neděle v mezidobí A' => 
   array (
@@ -1692,7 +1700,8 @@
   array (
     0 => 'OL305',
     1 => 'OL306',
-    2 => 'OL334',
+    2 => 'OL332',
+    3 => 'OL334',
   ),
   'Při řeholních slibech (v době velikonoční)' => 
   array (
@@ -1711,6 +1720,26 @@
   'Při biřmování' => 
   array (
     0 => 'OL319',
+  ),
+  'Při svěcení jáhnů' => 
+  array (
+    0 => 'OL321',
+  ),
+  'Při svěcení kněží' => 
+  array (
+    0 => 'OL323',
+  ),
+  'Při svatbě (v době velikonoční)' => 
+  array (
+    0 => 'OL328',
+  ),
+  'Při žehnání opata a abatyše' => 
+  array (
+    0 => 'OL329',
+  ),
+  'Při žehnání opata a abatyše (v době velikonoční)' => 
+  array (
+    0 => 'OL330',
   ),
   'Středa 6. týdne 1' => 
   array (

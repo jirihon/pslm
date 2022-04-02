@@ -1,0 +1,68 @@
+%% occasion: 'Při řeholních slibech'
+%% responsum_reference: 'Ž 100 (99),3c R'
+%% verse_reference: 'Ž 100 (99)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 343
+
+% Tento žalm má stejné texty veršů jako publikovaný OL323, OL520
+
+m: \key f \major
+
+%% part: responsum
+
+m: c''8( d) c a | a4 r8 f | bes4 c8 | bes bes a | g( e) c4 r ||
+t: Jsme jeho lid a stádce, které on pase.
+
+%% part: verse
+
+m: d'B e8 f a_( g) g4 r |
+t: Plesejte Hospodinu, všechny země,
+
+m: gB f8 g bes_ a a2 |
+t: * služte Hopodinu s radostí,
+
+m: besB c8 d d_ c c4 r ||
+t: * vstupte před něho s jásotem!
+
+%% use: responsum
+
+%% part: verse
+
+m: d'B e8 f a_ g g2 |
+t: Uznejte, že Hospodin je Bůh:
+
+m: gB f8 g bes_ a a a4 |
+t: * on nás učinil, a my mu náležíme,
+
+m: r8 bes besB c8 d d_ c c4 r ||
+t: * jsme jeho lid a stádce na jeho pastvině.
+
+%% use: responsum
+
+%% part: verse
+
+m: d'B e8 f a_( g) g4 r |
+t: Vstupte do jeho bran s díkem,
+
+m: gB f8 g bes_ a a a4 r |
+t: * do jeho nádvoří s chvalozpěvem,
+
+m: besB c8 d d_( c) c4 r ||
+t: * slavte ho, žehnejte jeho jménu!
+
+%% use: responsum
+
+%% part: verse
+
+m: d'B e8 f a_( g) g2 |
+t: Neboť Hospodin je dobrý,
+
+m: gB f8 g bes_( a) a2 |
+t: * jeho milosrdenství je věčné,
+
+m: besB c8 d d_( c) c4 r ||
+t: * po všechna pokolení trvá jeho věrnost.
+
+%% use: responsum
+

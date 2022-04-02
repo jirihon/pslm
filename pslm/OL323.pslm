@@ -1,0 +1,68 @@
+%% occasion: 'Při svěcení kněží'
+%% responsum_reference: 'Srov. Ž 19 (18),5a'
+%% verse_reference: 'Ž 100 (99)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 333
+
+% Tento žalm má stejné texty veršů jako publikovaný OL520
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'4 e d e | d4. c8 c4 r | f8 f c f / r f e d g4 | r8 g f4( e) / a8 a a a2 ||
+t: Vy jste mými přáteli, budeteli činiti to, co vám přikazuji.
+
+%% part: verse
+
+m: d'B e8 f a_( g) g4 r |
+t: Plesejte Hospodinu, všechny země,
+
+m: gB f8 g bes_ a a2 |
+t: * služte Hopodinu s radostí,
+
+m: besB c8 d d_ c c4 r ||
+t: * vstupte před něho s jásotem!
+
+%% use: responsum
+
+%% part: verse
+
+m: d'B e8 f a_ g g2 |
+t: Uznejte, že Hospodin je Bůh:
+
+m: gB f8 g bes_ a a a4 |
+t: * on nás učinil, a my mu náležíme,
+
+m: r8 bes besB c8 d d_ c c4 r ||
+t: * jsme jeho lid a stádce na jeho pastvině.
+
+%% use: responsum
+
+%% part: verse
+
+m: d'B e8 f a_( g) g4 r |
+t: Vstupte do jeho bran s díkem,
+
+m: gB f8 g bes_ a a a4 r |
+t: * do jeho nádvoří s chvalozpěvem,
+
+m: besB c8 d d_( c) c4 r ||
+t: * slavte ho, žehnejte jeho jménu!
+
+%% use: responsum
+
+%% part: verse
+
+m: d'B e8 f a_( g) g2 |
+t: Neboť Hospodin je dobrý,
+
+m: gB f8 g bes_( a) a2 |
+t: * jeho milosrdenství je věčné,
+
+m: besB c8 d d_( c) c4 r ||
+t: * po všechna pokolení trvá jeho věrnost.
+
+%% use: responsum
+
