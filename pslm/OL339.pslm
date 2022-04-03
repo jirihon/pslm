@@ -1,0 +1,70 @@
+%% occasion: 'Za zemřelé / Při pohřbu'
+%% responsum_reference: 'Ž 116 (114),9'
+%% verse_reference: 'Ž 116 (114, 115)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 349
+%% a: "g'B g8 fis e_ d d2"
+%% b: "eB d8 a b_ fis' fis2"
+
+m: \key g \major
+
+%% part: responsum
+
+m: g'8 a b4 b | c8 d c b a | g e b' a~ a4 ||
+t: Budu kráčet před Hospodinem v zemi živých.
+
+%% part: verse
+
+m: g'B g8 fis e_ d d d4 r |
+t: Hospodin je milostivý a spravedlivý,
+
+m: e4 e8 d8 a b_ fis' fis fis2 ||
+t: * Bůh náš je milosrdný.
+
+%% part: verse
+
+m: g'B g8 fis e_( d) d4 r |
+t: Hospodin chrání prosté lidi;
+
+m: eB d8 a b_( fis') fis4 r ||
+t: * pomohl mi, když jsem byl v bídě.
+
+%% use: responsum
+
+%% part: verse
+
+m: g'B g8 fis e_( d) d4 |
+t: Měl jsem důvěru, i když jsem si řekl:
+
+m: r8 e8( d8) a b_( fis') fis4 r ||
+t: * „Jsem tak sklíčen!“
+
+%% part: verse
+
+m: g'B g8 fis e_ d d d2 |
+t: Pravil jsem ve svém rozrušení:
+
+m: eB d8 a b_( fis') fis4 r ||
+t: * Každý člověk klame!“
+
+%% use: responsum
+
+%% part: verse
+
+m: g'B g8 fis e_( d) d4 |
+t: Drahocenná je v Hospodinových očích
+
+m: r8 e8 d8 a b_( fis') fis4 ||
+t: * smrt jeho zbožných.
+
+%% part: verse
+
+m: r8 g'8 gB g8 fis e_ d d d4 r |
+t: Ach, Hospodine, jsem tvůj služebník, + jsem tvůj služebník, syn tvé služebnice,
+
+m: eB d8 a b_( fis') fis4 r ||
+t: * rozvázal jsi moje pouta.
+
+%% use: responsum
+

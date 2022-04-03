@@ -1,0 +1,88 @@
+%% occasion: 'Za zemřelé / Při pohřbu (v době velikonoční)'
+%% responsum_reference: 'Ž 102 (101),2'
+%% verse_reference: 'Ž 143 (142)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 353
+%% a: "a'B g8 a b_ g g2"
+%% b: "fB e8 f g_ e e2"
+
+m: \key c \major
+
+%% part: responsum
+
+m: e'8 e d c / d4 e / f8 d d4 / r8 e f f4 f8 / e4 d / e g / a8 a a2 ||
+t: Hospodine, slyš mou modlitbu a volání mé ať k tobě pronikne!
+
+%% part: verse
+
+m: a'B g8 a b_ g g4 r |
+t: Hospodine, slyš moji modlitbu,
+
+m: fB e8 f g_ e e e4 r ||
+t: * pro svou věrnost popřej sluchu mé úpěnlivé prosbě, + vyslyš mě pro svou spravedlnost.
+
+%% part: verse
+
+m: a'B g8 a b_ g g g4 r |
+t: Nepoháněj na soud svého služebníka,
+
+m: fB e8 f g_ e e e2 ||
+t: * nikdo z živých není před tebou spravedlivý.
+
+%% use: responsum
+
+%% part: verse
+
+m: a'B g8 a b_ g g4 r |
+t: Vzpomínám si na dávné dny,
+
+m: fB e8 f g_( e) e2 ||
+t: * uvažuji o všech tvých činech, + myslím na skutky tvých rukou.
+
+%% part: verse
+
+m: a'B g8 a b_( g) g4 |
+t: Rozpínám k tobě své ruce,
+
+m: r8 f8 fB e8 f g_( e) e4 r ||
+t: * má duše po tobě žízní jak vyprahlá země.
+
+%% use: responsum
+
+%% part: verse
+
+m: a'B g8 a b_ g g g4 r |
+t: Rychle mě vyslyš, Hospodine,
+
+m: fB e8 f g_ e e2 ||
+t: * neboť můj duch malátní.
+
+%% part: verse
+
+m: a'B g8 a b_ g g4 |
+t: Dej, ať záhy dojdu tvé milosti,
+
+m: r8 f8 e8 f g_( e) e2 ||
+t: * vždyť v tebe doufám.
+
+%% use: responsum
+
+%% part: verse
+
+m: a'B g8 a b_( g) g4 |
+t: Pouč mě, abych konal tvou vůli,
+
+m: r8 f8 e8 f g_( e) e2 ||
+t: * vždyť ty jsi můj Bůh!
+
+%% part: verse
+
+m: a'B g8 a b_ g g4 r |
+t: Dobrotivý je tvůj duch,
+
+m: fB e8 f g_( e) e4 r ||
+t: * ať mě vede rovným krajem.
+
+%% use: responsum
+

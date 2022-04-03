@@ -1,0 +1,58 @@
+%% occasion: 'Za zemřelé / Při pohřbu'
+%% occasion: 'Při pohřbu pokřtěného dítěte (v době velikonoční)'
+%% responsum_reference: 'Ž 63 (62),2b'
+%% verse_reference: 'Ž 42 (41), 43 (42)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 352
+%% a: "bes'B a8 g g_ f f2"
+%% b: "fB e8 d d_ c c2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: c'8 f g a4 f8 bes a g | c d / c f, / a4( g2) ||
+t: Má duše žízní po tobě, Pane, Bože můj!
+
+%% part: verse
+
+m: bes'B a8 g g_( f) f4 |
+t: Jako laň prahne po vodách bystřin,
+
+m: r8 f8 fB e8 d d_( c) c4 r ||
+t: * tak prahne má duše po tobě, Bože!
+
+%% part: responsum_short
+
+m: c'8 f g a4 f8 bes a a | c d / c f, / a4( g4) ||
+t: Má duše žízní po tobě, Pane, Bože můj!
+
+%% part: verse
+
+m: r8 bes'8 besB a8 g g_( f) f4 r |
+t: Má duše žízní po Bohu, po živém Bohu:
+
+m: fB e8 d d_ c c2 ||
+t: * kdy už smím přijít a spatřit Boží tvář?
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 g g_ f f4 r |
+t: Vzpomínám, jak jsem putovával v zástupu,
+
+m: fB e8 d d_( c) c4 r ||
+t: * jak jsem je vodíval k Božímu domu
+
+%% part: verse
+
+m: bes'B a8 g g_ f f f4 r |
+t: s hlasitým jásotem a chvalozpěvem
+
+m: fB e8 d d_ c c4 r ||
+t: * ve svátečním průvodu.
+
+%% use: responsum
+

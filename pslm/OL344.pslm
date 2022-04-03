@@ -1,0 +1,90 @@
+%% occasion: 'Při pohřbu pokřtěného dítěte - verze a)'
+%% occasion: 'Při pohřbu dosud nepokřtěného dítěte - verze b)'
+%% responsum_reference: 'Ž 25 (24),1b'
+%% verse_reference: 'Ž 25 (24)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 354
+%% a: "bes'B a8 bes c_ a a2"
+%% b: "gB f8 g a_ f f2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 g / g a a4. / a8 g f | bes c a g4 r ||
+t: K tobě pozvedám svou duši, Hospodine.
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a a4 |
+t: Ukaž mi své cesty, Hospodine,
+
+m: r8 g8 gB f8 g a_( f) f2 ||
+t: * a pouč mě o svých stezkách.
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) a4 r |
+t: Veď mě ve své pravdě a uč mě,
+
+m: gB f8 g a_ f f4 r ||
+t: * neboť ty jsi Bůh, můj spasitel.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a a2 |
+t: Rozpomeň se, Hospodine, na své slitování,
+
+m: gB f8 g a_( f) f4 r ||
+t: * na své milosrdenství, které trvá věčně.
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a2 |
+t: Pamatuj na mě ve svém milosrdenství
+
+m: gB f8 g a_ f f f4 r ||
+t: * pro svou dobrotivost, Hospodine!
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a4 |
+t: Opatruj mou duši a zachraň mě,
+
+m: r8 g gB f8 g a(_ f) f4 r ||
+t: * ať nejsem zahanben, že jsem se utekl k tobě.
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a4 r |
+t: Ať mě chrání nevina a upřímnost,
+
+m: gB f8 g a_ f f f4 r ||
+t: * poněvadž doufám v tebe, Hospodine!
+
+%% use: responsum
+
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) a4 |
+t: Ulev mi v úzkostech srdce,
+
+m: r8 g f8 g a_ f  f2 ||
+t: * vyprosť mě z nesnází!
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a4 |
+t: Opatruj mou duši a zachraň mě,
+
+m: r8 g8 gB f8 g a_( f) f4 r ||
+t: * ať nejsem zahanben, že jsem se utekl k tobě.
+
+%% use: responsum
+

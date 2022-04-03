@@ -1,0 +1,88 @@
+%% occasion: 'Při svěcení oltáře (v době velikonoční)'
+%% responsum_reference: 'Ž 118 (117),1'
+%% verse_reference: 'Ž 118 (117)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 346
+%% a: "c''B b8_ g e e2"
+%% b: "aB g8_ e c c2"
+
+m: \key c \major
+
+%% part: responsum
+
+m: r8 e' d c d g g g | r g f e e d~ d4 | f8 f a b c c c4 | d8 d4( b8) g g g4 ||
+t: Děkujte Hospodinu, neboť je dobrý, jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: c''B b8_ g( e) e4 r |
+t: Jásot ze spásy
+
+m: aB g8_ e c c2 ||
+t: * zní ve stanech spravedlivých.
+
+%% part: verse
+
+m: c''B b8_ g( e) e4 r |
+t: Hospodinova pravice mocně zasáhla,
+
+m: aB g8_( e) c c4 r ||
+t: * Hospodinova pravice mě pozvedla.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B b8(_ g) e e4 r |
+t: Otevřete mně brány spravedlnosti,
+
+m: aB g8_ e c c4 r ||
+t: * vejdu jimi, abych vzdal díky Hospodinu.
+
+%% part: verse
+
+m: c''B b8_( g e) e4 |
+t: Toto je Hospodinova brána,
+
+m: r8 a8 aB g8_ e c c2 ||
+t: * jí procházejí spravedliví.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B b8_( g) e e4 r |
+t: Kámen, který stavitelé zavrhli,
+
+m: aB g8_( e) c c2 ||
+t: * stal se kvádrem nárožním.
+
+%% part: verse
+
+m: c''B b8_( g e) e4 r |
+t: Hospodinovým řízením se tak stalo,
+
+m: aB g8_( e c) c2 ||
+t: * je to podivuhodné v našich očích.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B b8_( g) e e4 |
+t: Bůh je Hospodin
+
+m: r8 a8 aB g8_( e c) c4 r ||
+t: * a dopřál nám světlo.
+
+%% part: verse
+
+m: c''B b8_ g e e4 |
+t: Seřaďte průvod s hojnými ratolestmi
+
+m: r8 a8 aB g8_ e( c) c4 r ||
+t: * až k rohům oltáře!
+
+%% use: responsum
+
