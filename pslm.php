@@ -328,10 +328,15 @@ function pslm_parse_psalm($psalm) {
 
                 if (isset($line_opts['part'])) {
                     $part = $line_opts['part'];
-
+                    
                     if ($part == 'verse') {
                         $part = "verse_$verse_n";
-                        $psalm['text'][$part][] = "\set stanza = \"$verse_n.\"";
+
+                        if (isset($line_opts['stanza'])) {
+                            $psalm['text'][$part][] = "\set stanza = \"$line_opts[stanza]\"";
+                        } else {
+                            $psalm['text'][$part][] = "\set stanza = \"$verse_n.\"";
+                        }
                         ++$verse_n;
                     } elseif (preg_match('#^responsum#ui', $part)) {
                         $psalm['text'][$part][] = '\set stanza = \responsum';
