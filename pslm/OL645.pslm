@@ -1,10 +1,12 @@
-%% occasion: '1. neděle adventní B / 4. neděle adventní C'
-%% occasion: 'Sobota po 2. neděli adventní'
-%% responsum_reference: 'Ž 80 (79),4 .'
-%% verse_reference: 'PůvodnQí tónina d moll.'
+%% occasion: 'Čtvrtek 14. týdne 2'
+%% responsum_reference: 'Ž 80 (79),4'
+%% verse_reference: 'Ž 80 (79)'
+%% comment: 'Původní tónina d moll.'
 %% author: olejnik
-%% source: nedelni_zaltar
-%% page: 11
+%% source: vsedni_zaltar
+%% page: 254
+%% a: "f'8 c'B bes8 as g_ f f2"
+%% b: "bes,8 f'B es8 f as_ g g2"
 
 m: \key es \major
 
@@ -15,55 +17,37 @@ t: Bože, obnov nás, rozjasni svou tvář, a budeme spaseni.
 
 %% part: verse
 
-m: aB |
+m: f'8( c') cB bes8 as g_ f f4 r |
 t: Slyš, Izraelův pastýři,
 
-m: bB ||
+m: bes,8 f'B es8 f as_ g g g4 r ||
 t: * skvěj se září, ty, který trůníš nad cheruby,
 
 %% part: verse
 
-m: aB |
+m: f'8 c'8 bes8( as) g_( f) f4 |
 t: probuď svou sílu
 
-m: bB ||
+m: bes,8( f'8) es8 f as_ g g4 r ||
 t: * a přijď nás zachránit!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: f'8 c'B bes8 as g_( f) f4 r |
 t: Bože zástupů, vrať se,
 
-m: bB ||
+m: bes,8 f'B es8 f as_( g) g4 r ||
 t: * shlédni z nebe a podívej se, (+) pečuj o tuto révu!
 
 %% part: verse
 
-m: aB |
+m: f'8 c'B bes8 as g_ f f f4 r |
 t: Ochraňuj, co tvá pravice zasadila,
 
-m: bB ||
+m: bes,8 f'B es8 f as_ g g g4 r ||
 t: * výhonek, který sis vypěstoval!
-
-%% use: responsum
-
-%% part: verse
-
-m: aB |
-t: Ať je tvá ruka nad mužem po tvé pravici,
-
-m: bB ||
-t: * nad člověkem, kterého sis vychoval.
-
-%% part: verse
-
-m: aB |
-t: Už od tebe neustoupíme,
-
-m: bB ||
-t: * zachovej nás naživu, (+) a budeme velebit tvé jméno.
 
 %% use: responsum
 

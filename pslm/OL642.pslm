@@ -1,0 +1,88 @@
+%% occasion: 'Pondělí 14. týdne 2'
+%% responsum_reference: 'Srov. Ž 145 (144),1'
+%% verse_reference: 'Ž 145 (144)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 251
+%% a: "c''B d8 c c_ bes bes2"
+%% b: "asB bes8 as g_ f f2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: bes8 bes | f' es d es as2 f8 \breathe / f g as | bes2( g4) g~ g8 r ||
+t: Budu velebit tvé jméno, můj Bože, králi.
+
+%% part: verse
+
+m: c''B d8 c c_ bes bes4 |
+t: Každý den tě budu velebit
+
+m: r8 as8 asB bes8 as g_( f) f4 r ||
+t: * a chválit tvé jméno po všechny věky.
+
+%% part: verse
+
+m: c''B d8 c c_( bes) bes2 |
+t: Veliký je Hospodin a veškeré chvály hodný,
+
+m: asB bes8 as g_ f f f2 ||
+t: * jeho velikost je nevýstižná.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B d8 c c_( bes) bes4 |
+t: Jedno pokolení zvěstuje druhému tvé činy
+
+m: r8 as8 asB bes8 as g_ f f4 r ||
+t: * a oznamuje tvoji moc.
+
+%% part: verse
+
+m: c''B d8 c c_ bes bes bes4 r |
+t: Mluví o nádherné slávě tvé vznešenosti,
+
+m: asB bes8 as g_( f) f4 r ||
+t: * rozmlouvají o tvých divech.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B d8 c c_( bes) bes2 |
+t: Vypravují o moci tvých hrozivých skutků,
+
+m: asB bes8 as g_ f f f4 r ||
+t: * hovoří o tvé nesmírnosti.
+
+%% part: verse
+
+m: c''B d8 c c_ bes bes bes4 r |
+t: Rozhlašují chválu tvé velké laskavosti,
+
+m: asB bes8 as g_ f f2 ||
+t: * jásají nad tvou spravedlností.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B d8 c c_ bes bes4 r |
+t: Milosrdný a milostivý je Hospodin,
+
+m: asB bes8 as g_( f) f4 r ||
+t: * shovívavý a plný lásky.
+
+%% part: verse
+
+m: c''B d8 c c_( bes) bes4 |
+t: Dobrotivý je Hospodin ke všem
+
+m: r8 as8 asB bes8 as g_( f) f4 r ||
+t: * a soucit má se všemi svými tvory.
+
+%% use: responsum
+

@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 313
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: g'8 f es as g / f es f / g8. g16 g2 ||
 t: Nauč mě, Hospodine, svým příkazům!
 
 %% part: verse

@@ -1,0 +1,62 @@
+%% occasion: 'Pondělí 12. týdne 2'
+%% responsum_reference: 'Ž 60 (59),7b'
+%% verse_reference: 'Ž 60 (59)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 242
+%% a: "bes'B bes8_ a a2"
+%% b: "gB g8_ f f2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 f e d g4( a) / bes8 bes a g / c a a2 ||
+t: Pomoz, Bože, svou pravicí a vyslyš nás!
+
+%% part: verse
+
+m: bes'B bes8_( a) a4 r |
+t: Bože, odvrhl jsi nás, (+) rozbil jsi naše šiky,
+
+m: gB g8_ f f4 r ||
+t: * v hněvu ses od nás odvrátil.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B bes8_ a a a4 r |
+t: Otřásl jsi zemí, rozštěpils ji;
+
+m: gB g8_ f f2 ||
+t: * zacel její trhliny, neboť kolísá.
+
+%% part: verse
+
+m: bes'B bes8_( a) a4 r |
+t: Dal jsi zakusit svému lidu tvrdý úděl,
+
+m: gB g8_ f f f4 r ||
+t: * napojil jsi nás vínem, až se potácíme.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B bes8_ a a a4 |
+t: Přispěj nám na pomoc proti nepříteli,
+
+m: r8 g8 gB g8_( f) f2 ||
+t: * vždyť lidská podpora je marná.
+
+%% part: verse
+
+m: bes'B bes8_ a a4 |
+t: Bohem si povedem udatně,
+
+m: r8 g8 gB g8_ f f f4 r ||
+t: * on rozdupá naše nepřátele.
+
+%% use: responsum
+

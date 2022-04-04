@@ -1,0 +1,74 @@
+%% occasion: 'Středa 26. týdne 1'
+%% occasion: 'Pátek 12. týdne 2'
+%% comment: 'Původní tónina d moll'
+%% responsum_reference: ''
+%% verse_reference: 'Ž 137 (136)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 148
+%% a: "c''B bes8 as g_ f f2"
+%% b: "fB es8 f as_ g g2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: g'8 f es as f f | bes g g g4. ||
+t: Vyslyš nás, Pane, a vysvoboď nás.
+
+%% part: verse
+
+m: c''B bes8 as g_ f f2 |
+t: U řek babylónských, tam jsme sedali a plakali, + když jsme vzpomínali na Sión.
+
+m: fB es8 f as_ g g4 r ||
+t: * Na vrby toho kraje jsme zavěsili své citery.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B bes8 as g_( f) f4 r |
+t: Neboť tam od nás žádali písně ti, kdo nás odvlekli, + kdo nás sužovali, žádali od nás radost:
+
+m: fB es8 f as_( g) g2 ||
+t: * „Zpívejte nám ze siónských písní!“
+
+%% use: responsum
+
+%% part: verse
+
+m: r8 c''8 cB bes8 as g_( f) f4 |
+t: Jak bychom mohli zpívat Hospodinovu píseň
+
+m: r8 f8 es8( f) as_( g) g2 ||
+t: * v zemi cizí?
+
+%% part: verse
+
+m: c''B bes8 as g_( f) f4 r |
+t: Kdybych měl na tebe zapomenout, Jeruzaléme,
+
+m: fB es8 f as_ g g4 r ||
+t: * ať mi zchromne pravice!
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B bes8 as g_( f) f4 r |
+t: Ať se mi jazyk přilepí k patru,
+
+m: fB es8 f as_ g g g4 ||
+t: * jestliže na tebe nevzpomenu,
+
+%% part: verse
+
+m: r8 c''8 cB bes8 as g_( f) f4 r |
+t: když nedám přednost Jeruzalému
+
+m: fB es8 f as_ g g2 ||
+t: * před každou svou radostí.
+
+%% use: responsum
+

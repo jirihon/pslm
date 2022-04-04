@@ -4,6 +4,8 @@
 %% author: olejnik
 %% source: vsedni_zaltar
 %% page: 243
+%% a: "c''B d8 c c_ bes bes2"
+%% b: "asB bes8 as g_ f f2"
 
 m: \key es \major
 
@@ -14,54 +16,54 @@ t: Bůh dává věčné trvání svému městu.
 
 %% part: verse
 
-m: aB |
+m: c''B d8 c c_( bes) bes4 r |
 t: Hospodin je veliký, velmi je hodný chvály
 
-m: bB ||
+m: asB bes8 as g_( f) f4 r ||
 t: * v městě našeho Boha.
 
 %% part: verse
 
-m: aB |
+m: c''B d8 c c_ bes bes4 |
 t: Jeho svatá hora, ten slavný pahorek,
 
-m: bB ||
+m: r8 as8 asB bes8 as g_( f) f4 r ||
 t: * je radostí celé země.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B d8 c c_( bes) bes4 |
 t: Hora Sión, to tajemné sídlo Boží,
 
-m: bB ||
+m: r8 as8 asB bes8 as g_( f) f4 r ||
 t: * je městem velikého krále.
 
 %% part: verse
 
-m: aB |
+m: c''B d8 c c_ bes bes4 r |
 t: Bůh se ukázal v jejích pevnostech
 
-m: bB ||
+m: asB bes8 as g_ f f4 r ||
 t: * jako jistá ochrana.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B d8 c c_ bes bes4 |
 t: Vzpomínáme, Bože, na tvé milosrdenství
 
-m: bB ||
+m: r8 as bes( as) g_( f) f4 r ||
 t: * ve tvém chrámě.
 
 %% part: verse
 
-m: aB |
+m: c''B d8 c c_( bes) bes4 |
 t: Jako tvé jméno, Bože, + tak i tvá chvála sahá až na konec země.
 
-m: bB ||
+m: r8 as8 asB bes8 as g_ f f2 ||
 t: * Tvá pravice oplývá spravedlností.
 
 %% use: responsum

@@ -1,0 +1,88 @@
+%% occasion: 'Sobota 11. týdne 2'
+%% responsum_reference: 'Ž 89 (88),2a'
+%% verse_reference: 'Ž 89 (88)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 241
+%% a: "f'B e8 d a'_ g g2"
+%% b: "c,8 g'B f8 g bes_ a a2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: c''8 d c d c4. a8 | f bes a bes / c bes / a g g4 r ||
+t: Na věky chci zpívat o Hospodinových milostech.
+
+%% part: verse
+
+m: f'B e8 d a'_ g g g2 |
+t: Smlouvu jsem sjednal se svým vyvoleným,
+
+m: c,8 g'B f8 g bes_ a a a4 r ||
+t: * přísahal jsem Davidovi, svému služebníku:
+
+%% part: verse
+
+m: f'B e8 d a'_ g g4 |
+t: Tvůj rod zajistím na věky
+
+m: r8 c,8 g'B f8 g bes_ a a a2 ||
+t: * a tvůj trůn zbuduji na všechna pokolení.“
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B e8 d a'_( g) g4 |
+t: „Na věky mu zachovám svou milost,
+
+m: r8 c,8 g'B f8 g bes_ a a a4 r ||
+t: * má smlouva s ním platit nepřestane.
+
+%% part: verse
+
+m: f'B e8 d a'_( g) g4 r |
+t: Dám věčné trvání jeho rodu,
+
+m: c,8 g'B f8 g bes_( a) a4 r ||
+t: * jeho trůn bude jako věk nebes.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B e8 d a'_( g) g4 |
+t: Jestliže jeho synové opustí můj zákon
+
+m: r8 c,8 g'B f8 g bes_ a a2 ||
+t: * a nebudou jednat podle mých příkazů,
+
+%% part: verse
+
+m: f'B e8 d a'_ g g4 |
+t: jestliže poskvrní má ustanovení
+
+m: r8 c,8 g'B f8 g bes_ a a a2 ||
+t: * a nezachovají má přikázání:
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B e8 d a'_ g g4 |
+t: Potrestám metlou jejich nepravost
+
+m: r8 c,8 g'B f8 g bes_ a a a4 ||
+t: * a ranami jejich provinění.
+
+%% part: verse
+
+m: r8 f'8 fB e8 d a'_ g g g4 r |
+t: Svou milost mu však neodejmu
+
+m: c,8 g'8 f8 g bes_ a a a2 ||
+t: * a svou věrnost neporuším.“
+
+%% use: responsum
+

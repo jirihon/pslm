@@ -1,0 +1,81 @@
+%% occasion: 'Pátek 26. týdne 1'
+%% occasion: 'Čtvrtek 12. týdne 2'
+%% responsum_reference: 'Ž 79 (78),9bc'
+%% verse_reference: 'Ž 79 (78)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 149
+%% a: "bes'B c8 bes a_ g g2"
+%% b: "gB a8 e g_ f f2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: c'8 f8. f16 e8 d g4. a8 / bes bes / a g c4 a2 ||
+t: Pro slávu svého jména vysvoboď nás, Pane!
+
+%% part: verse
+
+m: bes'B c8 bes a_ g g2 |
+t: Bože, pohané vtrhli do tvého dědictví,
+
+m: gB a8 e g_( f) f4 r ||
+t: * poskvrnili tvůj svatý chrám, + Jeruzalém proměnili v trosky.
+
+%% part: verse
+
+m: bes'B c8 bes a_( g) g4 r |
+t: Dali mrtvoly tvých služebníků za pokrm nebeskému ptactvu,
+
+m: gB a8 e g_( f) f4 r ||
+t: * těla tvých zbožných divoké zvěři.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 bes a_ g g4 r |
+t: Jejich krev vylévali jako vodu kolem Jeruzaléma,
+
+m: gB a8 e g_( f) f4 ||
+t: * nebylo, kdo by je pohřbil.
+
+%% part: verse
+
+m: r8 bes'8 besB c8 bes a_ g g2 |
+t: Jsme vydáni pohaně svých sousedů,
+
+m: gB a8 e g_ f f4 ||
+t: * na potupu a výsměch svému okolí.
+
+%% part: verse
+
+m: r8 bes'8 besB c8 bes a_( g) g4 r |
+t: Jak dlouho, Hospodine? (+) Budeš se stále hněvat?
+
+m: gB a8 e g_( f) f4 r ||
+t: * Bude planout tvé rozhorlení jako oheň?
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 bes a_( g) g4 |
+t: Nepřipomínej nám viny předků,
+
+m: r8 g8 gB a8 e g_ f f f2 ||
+t: * tvé milosrdenství ať nám pospíchá vstříc, + vždyť jsme tak zbědovaní!
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 bes a_( g) g4 r |
+t: Pomoz nám, Bože, náš spasiteli, (+) pro slávu svého jména
+
+m: gB a8 e g_( f) f4 r ||
+t: * vysvoboď nás a odpusť nám hříchy pro své jméno.
+
+%% use: responsum
+

@@ -1,0 +1,91 @@
+%% occasion: 'Sobota 12. týdne 2'
+%% responsum_reference: 'Ž 10 (9),12b'
+%% verse_reference: 'Ž 74 (73)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 245
+%% a: "f'B e8 f g_ e e2"
+%% b: "d8 a'B b8 a a_ g g2"
+
+m: \key c \major
+
+%% part: responsum
+
+m: c''8 c c a4 c / d8 c / b4 a | b8 b a g2 ||
+t: Nezapomínej na chudáky, Hospodine!
+
+%% part: verse
+
+m: f'B e8 f g_ e e4 |
+t: Proč jsi nás, Bože, nadobro zavrhl,
+
+m: r8 d8 a'B b8 a a_( g) g4 r ||
+t: * proč dýmá tvůj hněv proti ovcím, které paseš?
+
+%% part: verse
+
+m: f'B e8 f g_ e e e2 |
+t: Pamatuj na svou obec, kterou sis kdysi získal, + na svůj kmen, který sis vykoupil do vlastnictví,
+
+m: d8 a'B b8 a a_ g g4 r ||
+t: * na horu Sión, kde ses usídlil.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B e8 f g_( e) e2 |
+t: Zaměř své kroky k dávným troskám:
+
+m: d8 a'B b8 a a_( g) g4 r ||
+t: * nepřítel ve svatyni všechno zničil.
+
+%% part: verse
+
+m: f'B e8 f g_( e) e4 |
+t: Tvoji protivníci hlučeli uvnitř tvého svatého místa,
+
+m: r8 d8 a'B b8 a a_ g g g2 ||
+t: * své korouhve tam vztyčili na vítězství.
+
+%% part: responsum_short
+
+m: c''8 c c a4 c / d8 c / b4 a | b8 b a g4 ||
+t: Nezapomínej na chudáky, Hospodine!
+
+%% part: verse
+
+m: r8 f'8 fB e8 f g_ e e4 |
+t: Jsou podobni těm, kdo v houštině mávají sekyrou,
+
+m: r8 d8 a'B b8 a a_( g) g4 ||
+t: * hned širočinou a kladivem rozbíjejí všechny její brány.
+
+%% part: verse
+
+m: r8 f'8 fB e8 f g_( e) e4 |
+t: Tvou svatyni vydali ohni,
+
+m: r8 d8 a'B b8 a a_( g) g4 r ||
+t: * až do základů znesvětili příbytek tvého jména.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B e8 f g_( e) e4 |
+t: Shlédni na svou smlouvu,
+
+m: r8 d8 a'B b8 a a_ g g2 ||
+t: * vždyť zákoutí země i pole jsou plná násilí.
+
+%% part: verse
+
+m: f'B e8 f g_( e) e2 |
+t: Ať se ponížený nevrací zklamán,
+
+m: d8 a'B b8 a a_( g) g4 r ||
+t: * ubohý a nuzný nechť chválí tvé jméno!
+
+%% use: responsum
+

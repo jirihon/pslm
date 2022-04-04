@@ -1,0 +1,65 @@
+%% occasion: 'Úterý 13. týdne 2'
+%% responsum_reference: 'Ž 5,9a'
+%% verse_reference: 'Ž 5'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 247
+%% a: "bes'B a8 bes c_ a a2"
+%% b: "gB f8 g a_ f f2"
+
+m: \key f \major
+
+%% part: responsum_short
+
+m: f'8 f g f e d / g g g2 | a8 c c c4 ||
+t: Veď mě ve své spravedlnosti, Hospodine!
+
+%% part: verse
+
+m: r8 bes'8 besB a8 bes c_ a a4 r |
+t: Ty nejsi Bůh, kterému by se líbila nepravost,
+
+m: gB f8 g a_ f f f2 ||
+t: * zlý u tebe prodlévat nesmí + ani rouhači před tebou neobstojí.
+
+%% part: responsum
+
+m: f'8 f g f e d / g g g2 | a8 c c c2 ||
+t: Veď mě ve své spravedlnosti, Hospodine!
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a4 r |
+t: Nenávidíš každého zločince,
+
+m: gB f8 g a_( f) f4 r ||
+t: * hubíš všecky lháře.
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a a4 |
+t: Od vraha a podvodníka
+
+m: r8 g8 gB f8 g a_ f f4 r ||
+t: * se odvrací Hospodin s odporem.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) a4 |
+t: Já však pro tvou velikou milost
+
+m: r8 g8 gB f8 g a_( f) f4 r ||
+t: * smím vstoupit do tvého domu,
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) a4 r |
+t: padnu na tvář před tvým svatým chrámem
+
+m: gB f8 g a_ f f f4 r ||
+t: * v bázni před tebou, Hospodine!
+
+%% use: responsum
+

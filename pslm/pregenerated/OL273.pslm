@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 282
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: bes4 | es f g es | as8 as g f bes g g4 ||
 t: Pán Bůh mu dá trůn jeho otce Davida.
 
 %% part: verse

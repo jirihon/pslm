@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 293
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: f'8 f g f e d / g g g2 | a8 c c c2 ||
 t: Veď mě ve své spravedlnosti, Hospodine!
 
 %% part: verse

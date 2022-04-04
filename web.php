@@ -32,6 +32,9 @@ function pslm_save_occasions() {
     global $PSLM_PSALMS;
     $occasion_psalm = [];
     foreach ($PSLM_PSALMS as $id => $psalm) {
+        if (!isset($psalm['opts']['occasion'])) {
+            echo "ERROR: $id does not have any occasion\n";
+        }
         $occasions = $psalm['opts']['occasion'];
         if (!is_array($occasions)) {
             $occasions = [$occasions];

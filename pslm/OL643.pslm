@@ -1,0 +1,88 @@
+%% occasion: 'Úterý 14. týdne 2'
+%% responsum_reference: 'Ž 115 (113),9a'
+%% verse_reference: 'Ž 115 (113)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 252
+%% a: "c''B b8 a a_ g g2"
+%% b: "aB g8 f e_ d d2"
+
+m: \key c \major
+
+%% part: responsum
+
+m: g'8 g e g a2 / g4 a / b8 b b b2 ||
+t: Izraelův dům doufá v Hospodina.
+
+%% part: verse
+
+m: c''4 b8 a a_ g g g2 |
+t: Bůh náš je na nebesích,
+
+m: aB g8 f e_ d d4 r ||
+t: * všechno, co chtěl, učinil.
+
+%% part: verse
+
+m: c''B b8 a a_( g) g4 r |
+t: Modly pohanů jsou stříbro a zlato,
+
+m: aB g8 f e_( d) d2 ||
+t: * dílo lidských rukou.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B b8 a a_ g g2 |
+t: Mají ústa, ale nemluví,
+
+m: aB g8 f e_ d d2 ||
+t: * mají oči, ale nevidí.
+
+%% part: verse
+
+m: c''B b8 a a_ g g2 |
+t: Mají uši, ale neslyší,
+
+m: aB g8 f e_ d d d2 ||
+t: * mají nos, ale nečichají.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B b8 a a_ g g g2 |
+t: Mají ruce, ale nehmatají,
+
+m: aB g8 f e_ d d2 ||
+t: * mají nohy, ale nechodí.
+
+%% part: verse
+
+m: c''B b8 a a_ g g g2 |
+t: Jim jsou podobni ti, kdo je zhotovují,
+
+m: aB g8 f e_( d) d2 ||
+t: * každý, kdo v ně doufá.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B b8 a a_ g g g4 r |
+t: Izraelův dům doufá v Hospodina,
+
+m: aB g8 f e_( d) d4 r ||
+t: * je jim pomocníkem a štítem.
+
+%% part: verse
+
+m: c''B b8 a a_ g g g4 r |
+t: Árónův dům doufá v Hospodina,
+
+m: aB g8 f e_( d) d4 r ||
+t: * je jim pomocníkem a štítem.
+
+%% use: responsum
+

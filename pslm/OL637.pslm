@@ -1,0 +1,91 @@
+%% occasion: 'Pondělí 13. týdne 2'
+%% responsum_reference: 'Ž 50 (49),23b'
+%% verse_reference: 'Ž 50 (49)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 246
+%% a: "c''B c8_ bes bes2"
+%% b: "asB g8_ f f2"
+
+m: \key es \major
+
+%% part: responsum_short
+
+m: r8 g' es f g4 es | f8 g / as g4 f8 / g as / bes4 bes ||
+t: Kdo žije správně, tomu ukážu Boží spásu.
+
+%% part: verse
+
+m: r8 c''8 cB c8_ bes bes bes4 |
+t: Proč odříkáváš má přikázání
+
+m: r8 as8 asB g8_( f) f4 ||
+t: * a bereš do úst mou smlouvu
+
+%% part: verse
+
+m: r8 c''8 cB c8_( bes) bes4 r |
+t: ty, který nenávidíš kázeň
+
+m: asB g8_ f f4 r ||
+t: * a má slova házíš za sebe?
+
+%% part: responsum
+
+m: r8 g' es f g4 es | f8 g / as g4 f8 / g as / bes4 bes r ||
+t: Kdo žije správně, tomu ukážu Boží spásu.
+
+%% part: verse
+
+m: c''B c8_ bes bes bes4 |
+t: Když jsi viděl zloděje, běžel jsi s ním
+
+m: r8 as8 asB g8_( f) f4 r ||
+t: * a s cizoložníky jsi míval účast.
+
+%% part: verse
+
+m: c''B c8_ bes bes2 |
+t: Zlo jsi vypouštěl ze svých úst
+
+m: asB g8_( f) f4 r ||
+t: * a tvůj jazyk osnoval úskok.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 r |
+t: Bavil ses pomlouváním svého bratra,
+
+m: asB g8_( f) f4 r ||
+t: * tupil jsi syna své matky.
+
+%% part: verse
+
+m: c''B c8_ bes bes4 r |
+t: Takto jsi jednal, a já mám mlčet? + Myslil jsi, že jsem jako ty?
+
+m: asB g8_ f f2 ||
+t: * Usvědčím tě a řeknu ti to do očí!
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_ bes bes4 r |
+t: Uvažte to, kdo zapomínáte na Boha!
+
+m: asB g8_ f f f4 ||
+t: * Jinak vás zahubím a nikdo vám nepomůže!
+
+%% part: verse
+
+m: r8 c''8 cB c8_ bes bes4 |
+t: Kdo přináší oběť chvály, ten mě ctí,
+
+m: r8 as8 asB g8_( f) f4 r ||
+t: * kdo žije správně, tomu ukážu Boží spásu.
+
+%% use: responsum
+

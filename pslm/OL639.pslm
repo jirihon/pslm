@@ -1,0 +1,101 @@
+%% occasion: 'Středa 13. týdne 2'
+%% responsum_reference: 'Ž 50 (49),23b'
+%% verse_reference: 'Ž 50 (49)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 248
+%% a: "c''B c8_ bes bes2"
+%% b: "asB g8_ f f2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: r8 g' es f g4 es | f8 g / as g4 f8 / g as / bes4 bes r ||
+t: Kdo žije správně, tomu ukážu Boží spásu.
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 r |
+t: „Slyš, můj lide, budu mluvit,
+
+m: asB g8_( f) f2 ||
+t: * Izraeli, proti tobě budu svědčit, + já jsem Bůh, tvůj Bůh!
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_ bes bes4 r |
+t: Nekárám tě pro tvé oběti,
+
+m: asB g8_ f f2 ||
+t: * vždyť tvé žertvy jsou stále přede mnou.
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 r |
+t: Nemusím brát býka z tvého chléva
+
+m: asB g8_( f) f4 r ||
+t: * ani kozly z tvých ohrad.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_ bes bes4 |
+t: Neboť mně patří veškerá lesní zvěř
+
+m: r8 as8 asB g8_ f f4 r ||
+t: * a na svých horách mám zvířat na tisíc.
+
+%% part: verse
+
+m: c''B c8_ bes bes4 r |
+t: Znám všechny ptáky na nebi,
+
+m: asB g8_ f f4 r ||
+t: * mé je vše, co se hemží na poli.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 |
+t: Kdybych měl hlad, nebudu ti o tom říkat,
+
+m: r8 as asB g8_( f) f2 ||
+t: * vždyť můj je svět se vším, co ho plní!
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 |
+t: Copak požívám maso z býků
+
+m: r8 as8 asB g8_ f f4 r ||
+t: * či piji kozlí krev?
+
+%% part: responsum_short
+
+m: r8 g' es f g4 es | f8 g / as g4 f8 / g as / bes4 bes ||
+t: Kdo žije správně, tomu ukážu Boží spásu.
+
+%% part: verse
+
+m: r8 c''8 cB c8_ bes bes bes4 |
+t: Proč odříkáváš má přikázání
+
+m: r8 as8 asB g8_( f) f4 ||
+t: * a bereš do úst mou smlouvu
+
+%% part: verse
+
+m: r8 c''8 cB c8_( bes) bes4 r |
+t: ty, který nenávidíš kázeň
+
+m: asB g8_ f f4 r ||
+t: * a má slova házíš za sebe?
+
+%% use: responsum
+

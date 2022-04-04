@@ -1,0 +1,79 @@
+%% occasion: 'Pátek 13. týdne 2'
+%% responsum_reference: 'Ž 119 (118),97a'
+%% verse_reference: 'Ž 119 (118)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 250
+%% a: "as'B bes8 c c_ bes bes2"
+%% b: "fB es8 f as_ g g2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: bes4 | f'8 es d es / as2 f4 | bes8 bes g es4 r ||
+t: Jak miluji tvůj zákon, Hospodine.
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes2 |
+t: Blaze těm, kdo dbají na jeho přikázání,
+
+m: fB es8 f as_( g) g4 r ||
+t: * hledají ho celým srdcem.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes2 |
+t: Celým srdcem tě hledám,
+
+m: fB es8 f as_ g g2 ||
+t: * nedej, abych se odchýlil od tvých předpisů!
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 |
+t: Umdlévá má duše,
+
+m: r8 f8 fB es8 f as_ g g g2 ||
+t: * když stále dychtí po tvých rozhodnutích.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 r |
+t: Vyvolil jsem si cestu pravdy,
+
+m: fB es8 f as_ g g g2 ||
+t: * dal jsem přednost tvým rozhodnutím.
+
+%% part: responsum_short
+
+m: bes4 | f'8 es d es / as2 f4 | bes8 bes g es4 ||
+t: Jak miluji tvůj zákon, Hospodine.
+
+%% part: verse
+
+m: r8 as'8 asB bes8 c c_ bes bes bes2 |
+t: Hle, toužím po tvých nařízeních,
+
+m: fB es8 f as_ g g g4 r ||
+t: * dej mi život pro svou spravedlnost!
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes4 r |
+t: Otvírám ústa a nabírám dech,
+
+m: fB es8 f as_ g g4 r ||
+t: * neboť toužím po tvých předpisech.
+
+%% use: responsum
+

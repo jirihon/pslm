@@ -1,0 +1,79 @@
+%% occasion: 'Středa 12. týdne 2'
+%% responsum_reference: 'Ž 119 (118),12b'
+%% verse_reference: 'Ž 119 (118)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 244
+%% a: "c''B c8_ bes bes2"
+%% b: "asB g8_ f f2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: g'8 f es as g / f es f / g8. g16 g2 ||
+t: Nauč mě, Hospodine, svým příkazům!
+
+%% part: verse
+
+m: c''B c8_ bes bes4 |
+t: Ukaž mi, Hospodine, cestu svých příkazů,
+
+m: r8 as8 asB g8_ f f f4 r ||
+t: * a budu ji věrně zachovávat.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 |
+t: Pouč mě, ať zachovám tvůj zákon
+
+m: r8 as8 asB g8_( f) f4 r ||
+t: * a chráním ho celým svým srdcem.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_ bes bes2 |
+t: Voď mě po stezce svých předpisů,
+
+m: asB g8_ f f f2 ||
+t: * neboť v ní mám zalíbení.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_ bes bes bes2 |
+t: Nakloň mé srdce k svým přikázáním,
+
+m: asB g8_( f) f4 r ||
+t: * nikoli však k nespravedlivému zisku.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 r |
+t: Odvrať mé oči, ať nevidí marnost,
+
+m: asB g8_( f) f4 r ||
+t: * dej mi život na své cestě!
+
+%% part: responsum_short
+
+m: g'8 f es as g / f es f / g8. g16 g4 ||
+t: Nauč mě, Hospodine, svým příkazům!
+
+%% part: verse
+
+m: r8 c''8 cB c8_ bes bes bes2 |
+t: Hle, toužím po tvých nařízeních,
+
+m: asB g8_ f f f4 r ||
+t: * dej mi život pro svou spravedlnost!
+
+%% use: responsum
+

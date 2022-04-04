@@ -11,6 +11,7 @@
     2 => 'OL76',
     3 => 'OL208',
     4 => 'OL209',
+    5 => 'OL343',
   ),
   '1. neděle adventní B' => 
   array (
@@ -695,6 +696,12 @@
   array (
     0 => 'OL95',
     1 => 'OL96',
+    2 => 'OL337',
+    3 => 'OL338',
+    4 => 'OL339',
+    5 => 'OL340',
+    6 => 'OL341',
+    7 => 'OL342',
   ),
   '4. neděle postní B' => 
   array (
@@ -1063,6 +1070,7 @@
   'Při pohřbu pokřtěného dítěte (v době velikonoční)' => 
   array (
     0 => 'OL165',
+    1 => 'OL342',
   ),
   'Nanebevstoupení Páně (čtvrtek po 6. neděli velikonoční)' => 
   array (
@@ -1272,6 +1280,7 @@
     4 => 'OL312',
     5 => 'OL331',
     6 => 'OL333',
+    7 => 'OL335',
   ),
   '13. neděle v mezidobí A' => 
   array (
@@ -1420,6 +1429,10 @@
   '26. neděle v mezidobí B' => 
   array (
     0 => 'OL240',
+  ),
+  '27. neděle v mezidobí A' => 
+  array (
+    0 => 'OL241',
   ),
   '27. neděle v mezidobí B' => 
   array (
@@ -1741,6 +1754,18 @@
   array (
     0 => 'OL330',
   ),
+  'Při svěcení oltáře (v době velikonoční)' => 
+  array (
+    0 => 'OL336',
+  ),
+  'Při pohřbu pokřtěného dítěte - verze a)' => 
+  array (
+    0 => 'OL344',
+  ),
+  'Při pohřbu dosud nepokřtěného dítěte - verze b)' => 
+  array (
+    0 => 'OL344',
+  ),
   'Středa 6. týdne 1' => 
   array (
     0 => 'OL431',
@@ -1748,6 +1773,14 @@
   'Pátek 6. týdne 1' => 
   array (
     0 => 'OL433',
+  ),
+  'Pondělí 7. týdne 1' => 
+  array (
+    0 => 'OL435',
+  ),
+  'Sobota 14. týdne 2' => 
+  array (
+    0 => 'OL435',
   ),
   'Sobota 8. týdne 1' => 
   array (
@@ -1817,9 +1850,29 @@
   array (
     0 => 'OL520',
   ),
+  'Středa 26. týdne 1' => 
+  array (
+    0 => 'OL539',
+  ),
+  'Pátek 12. týdne 2' => 
+  array (
+    0 => 'OL539',
+  ),
+  'Pátek 26. týdne 1' => 
+  array (
+    0 => 'OL540',
+  ),
+  'Čtvrtek 12. týdne 2' => 
+  array (
+    0 => 'OL540',
+  ),
   'Pondělí 1. týdne 2' => 
   array (
     0 => 'OL575',
+  ),
+  'Pondělí 2. a 15. týdne 2' => 
+  array (
+    0 => 'OL580',
   ),
   'Pátek 4. týdne 2' => 
   array (
@@ -1912,6 +1965,86 @@
   'Čtvrtek 11. týdne 2' => 
   array (
     0 => 'OL630',
+  ),
+  'Pátek 11. týdne 2' => 
+  array (
+    0 => 'OL631',
+  ),
+  'Sobota 11. týdne 2' => 
+  array (
+    0 => 'OL632',
+  ),
+  'Pondělí 12. týdne 2' => 
+  array (
+    0 => 'OL633',
+  ),
+  'Úterý 12. týdne 2' => 
+  array (
+    0 => 'OL634',
+  ),
+  'Středa 12. týdne 2' => 
+  array (
+    0 => 'OL635',
+  ),
+  'Sobota 12. týdne 2' => 
+  array (
+    0 => 'OL636',
+  ),
+  'Pondělí 13. týdne 2' => 
+  array (
+    0 => 'OL637',
+  ),
+  'Úterý 13. týdne 2' => 
+  array (
+    0 => 'OL638',
+  ),
+  'Středa 13. týdne 2' => 
+  array (
+    0 => 'OL639',
+  ),
+  'Čtvrtek 13. týdne 2' => 
+  array (
+    0 => 'OL640',
+  ),
+  'Pátek 13. týdne 2' => 
+  array (
+    0 => 'OL641',
+  ),
+  'Pondělí 14. týdne 2' => 
+  array (
+    0 => 'OL642',
+  ),
+  'Úterý 14. týdne 2' => 
+  array (
+    0 => 'OL643',
+  ),
+  'Středa 14. týdne 2' => 
+  array (
+    0 => 'OL644',
+  ),
+  'Čtvrtek 14. týdne 2' => 
+  array (
+    0 => 'OL645',
+  ),
+  'Pátek 14. týdne 2' => 
+  array (
+    0 => 'OL646',
+  ),
+  'Úterý 15. týdne 2' => 
+  array (
+    0 => 'OL647',
+  ),
+  'Středa 15. týdne 2' => 
+  array (
+    0 => 'OL648',
+  ),
+  'Čtvrtek 15. týdne 2' => 
+  array (
+    0 => 'OL649',
+  ),
+  'Pátek 15. týdne 2' => 
+  array (
+    0 => 'OL650',
   ),
   'Sobota 21. týdne 2' => 
   array (

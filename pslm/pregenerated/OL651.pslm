@@ -9,7 +9,7 @@ m: \key c \major
 
 %% part: responsum
 
-m: bB ||
+m: c''8 c c a4 c / d8 c / b4 a | b8 b a g2 ||
 t: Nezapomínej na chudáky, Hospodine!
 
 %% part: verse

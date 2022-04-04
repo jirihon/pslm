@@ -1,0 +1,88 @@
+%% occasion: 'Středa 15. týdne 2'
+%% responsum_reference: 'Ž 94 (93),14a'
+%% verse_reference: 'Ž 94 (93)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 257
+%% a: "bes'B a8 bes c_ a f f2"
+%% b: "dB e8 f a_ f g g2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 f g a bes bes / a g / c2 a ||
+t: Nezavrhne Hospodin svůj národ.
+
+%% part: verse
+
+m: bes'B a8 bes c_( a f) f4 r |
+t: Hospodine, šlapou po tvém lidu
+
+m: dB e8 f a_( f g) g2 ||
+t: * a tvé dědictví trýzní.
+
+%% part: verse
+
+m: bes'B a8 bes c_( a f) f4 |
+t: Vdovy a přistěhovalce vraždí,
+
+m: r8 d e8 f a_ f g g2 ||
+t: * sirotky zabíjejí.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) f f2 |
+t: Říkají: „Hospodin nevidí,
+
+m: dB e8 f a_( f) g g2 ||
+t: * nevšímá si toho Bůh Jakubův.“
+
+%% part: verse
+
+m: bes'B a8 bes c_( a f) f4 r |
+t: Dejte pozor, pošetilci z lidu,
+
+m: dB e8 f a_( f g) g4 r ||
+t: * nerozumní, kdy dostanete rozum?
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_( a f) f4 r |
+t: Že by neslyšel, kdo vsadil ucho?
+
+m: dB e8 f a_( f g) g4 r ||
+t: * Že by neviděl, kdo utvořil oko?
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) f f4 r |
+t: Že by nepotrestal, kdo vychovává národy,
+
+m: dB e8 f a_( f) g g4 r ||
+t: * kdo učí lid moudrosti?
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_( a f) f4 r |
+t: Neboť nezavrhne Hospodin svůj národ
+
+m: dB e8 f a_ f g g2 ||
+t: * a své dědictví neopustí.
+
+%% part: verse
+
+m: bes'B a8 bes c_( a f) f4 r |
+t: Ale ke spravedlnosti se vrátí právo,
+
+m: dB e8 f a_( f g) g4 r ||
+t: * následovat ji budou všichni upřímného srdce.
+
+%% use: responsum
+

@@ -8,11 +8,11 @@
 
 % Tento žalm má stejné texty veršů jako publikovaný OL618
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: f'8 g / g a a4. / a8 g f | bes c a g4 r ||
 t: K tobě pozvedám svou duši, Hospodine.
 
 %% part: verse

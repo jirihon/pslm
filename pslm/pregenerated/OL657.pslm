@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 266
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: c'8 f8. f16 e8 d g4. a8 / bes bes / a g c4 a2 ||
 t: Pro slávu svého jména vysvoboď nás, Pane!
 
 %% part: verse
