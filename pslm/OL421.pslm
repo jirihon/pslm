@@ -1,0 +1,72 @@
+%% occasion: 'Pátek 4. týdne 1'
+%% responsum_reference: 'Ž 27 (26),1a'
+%% verse_reference: 'Ž 27 (26)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 30
+%% a: "bes'B a8_ bes c c2"
+%% b: "gB f8_ g a a2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: a'8 a g f bes4 c8 a | d, f / g4 g r ||
+t: Hospodin je mé světlo a má spása.
+
+%% part: verse
+
+m: bes'B a8_( bes c) c4 r |
+t: Hospodin je mé světlo a má spása,
+
+m: gB f8(_ g) a a2 ||
+t: * koho bych se bál?
+
+%% part: verse
+
+m: bes'B a8_( bes) c c4 r |
+t: Hospodin je záštita mého života,
+
+m: gB f8_( g a) a4 r ||
+t: * před kým bych se třásl?
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8(_ bes c) c4 |
+t: I když se proti mně utáboří vojsko, (+) nevyděsí se mé srdce,
+
+m: r8 g8 gB f8_( g) a a4 r ||
+t: *  když proti mně vypukne válka, (+) jsem pln důvěry.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8_( bes c) c4 r |
+t: Neboť v den neštěstí skryje mě ve svém stánku,
+
+m: gB f8_( g a) a4 r ||
+t: * v úkrytu svého stanu mě schová, + na skálu zdvihne.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8_( bes c) c2 |
+t: Hospodine, hledám tvou tvář.
+
+m: gB f8_( g) a a2 ||
+t: * Neskrývej svou tvář přede mnou,
+
+%% part: verse
+
+m: bes'B a8_ bes c c4 r |
+t: v hněvu neodmítej svého služebníka!
+
+m: gB f8_ g a a a4 r ||
+t: * Tys má pomoc, nezavrhuj mě!
+
+%% use: responsum
+

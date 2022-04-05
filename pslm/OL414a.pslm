@@ -1,0 +1,78 @@
+%% occasion: 'Čtvrtek 3. týdne 1'
+%% occasion: 'Sobota 29. týdne 1'
+%% occasion: 'Pátek 29. týdne 2'
+%% occasion: 'Pondělí 32. a 34. týdne 2'
+%% responsum_reference: 'Srov. Ž 24 . (23),6'
+%% verse_reference: 'Původní verze žalmu z roku 1975.'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 23
+%% a: "es'B d8 c g'_ f f2"
+%% b: "fB es8 f as_ g g2"
+
+% Tento žalm má stejné texty veršů jako publikovaný OL28, OL286
+
+m: \key es \major
+
+%% part: responsum
+
+m: g'8 f es d c d es | r8 es as g f bes2 g4 | c as g f r ||
+t: To je pokolení těch, kdo hledají tvář tvou, Hospodine.
+
+%% part: verse
+
+m: es'B d8 c g'_( f) f2 |
+t: Hospodinu náleží země i to, co je na ní,
+
+m: fB es8 f as_ g g g2 ||
+t: * svět i ti, kdo jej obývají.
+
+%% part: verse
+
+m: es'B d8 c g'_ f f4 r |
+t: Neboť on jej založil nad moři,
+
+m: fB es8 f as_ g g g4 r ||
+t: * upevnil ho nad proudy vod.
+
+%% use: responsum
+
+%% part: verse
+
+m: es'B d8 c g'_( f) f4 r |
+t: Kdo smí vystoupit na Hospodinovu horu,
+
+m: fB es8 f as_( g) g4 r ||
+t: * kdo smí stát na jeho svatém místě?
+
+%% part: verse
+
+m: es'B d8 c g'_( f) f4 r |
+t: Ten, kdo má nevinné ruce a čisté srdce,
+
+m: fB es8 f as_ g g g4 r ||
+t: * jehož duše nebaží po marnosti.
+
+%% part: responsum_short
+
+m: g'8 f es d c d es | r8 es as g f bes2 g4 | c as g f ||
+t: To je pokolení těch, kdo hledají tvář tvou, Hospodine.
+
+%% part: verse
+
+m: r8 es'8 esB d8 c g'_ f f4 r |
+t: Ten přijme požehnání od Hospodina,
+
+m: fB es8 f as_ g g g4 r ||
+t: * odměnu od Boha, svého spasitele.
+
+%% part: verse
+
+m: es'B d8 c g'_( f) f4 |
+t: To je pokolení těch, kdo po něm touží,
+
+m: r8 f8 fB es8 f as_( g) g4 r ||
+t: * kdo hledají tvář Jakubova Boha.
+
+%% use: responsum
+

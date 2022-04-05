@@ -1,0 +1,73 @@
+%% occasion: 'Pátek 5. týdne 1'
+%% occasion: 'Pondělí 8. týdne 1'
+%% responsum_reference: 'Srov Ž 32 (31),7'
+%% verse_reference: 'Ž 32 (31)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 36
+%% a: "c''B bes8 c d_ bes g g2"
+%% b: "fB es8 f bes_ g es es2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: c'4 es f8 g f es | c c f g as as f4 | bes8 g4 g8 g4 r ||
+t: Tys mé útočiště, zahrneš mě radostí ze záchrany.
+
+%% part: verse
+
+m: c''B bes8 c d_( bes) g g4 r |
+t: Šťastný je ten, komu byla odpuštěna nepravost,
+
+m: fB es8 f bes_( g es) es4 r ||
+t: * jehož hřích je přikryt.
+
+%% part: verse
+
+m: c''B bes8 c d_( bes g) g4 r |
+t: Šťastný je člověk, kterému Hospodin nepřičítá vinu,
+
+m: fB es8 f bes_( g es) es4 r ||
+t: * v jehož duši není klamu.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B bes8 c d_( bes g) g4 |
+t: Vyznal jsem se ti ze svého hříchu,
+
+m: r8 f8 fB es8 f bes_ g es es4 r ||
+t: * svou nepravost jsem nezatajil.
+
+%% part: verse
+
+m: c''B bes8 c d_ bes g g4 r |
+t: Řekl jsem:(+)„Vyznávám se Hospodinu ze své ničemnosti.“
+
+m: fB es8 f bes_( g es) es4 r ||
+t: * tys odpustil, co jsem zavinil hříchem.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B bes8 c d_( bes g) g4 |
+t: Proto se bude k tobě modlit každý zbožný v čas tísně.
+
+m: r8 f8 fB es8 f bes_ g es es2 ||
+t: * Až budou dorážet přívaly vod, + k němu nedosáhnou.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B bes8 c d_( bes) g g2 |
+t: Tys mé útočiště, ušetříš mě úzkostí,
+
+m: fB es8 f bes_ g es es4 r ||
+t: * zahrneš mě radostí ze záchrany.
+
+%% use: responsum
+

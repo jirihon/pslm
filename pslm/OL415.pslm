@@ -1,0 +1,88 @@
+%% occasion: 'Pátek 3. týdne 1'
+%% responsum_reference: 'Ž 37 (36),30a'
+%% verse_reference: 'Ž 37 (36)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 24
+%% a: "c''B c8_ bes bes2"
+%% b: "asB g8_ f f2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: g'4 es as8 as as / g4. f8 / g as bes4 bes r ||
+t: Ústa spravedlivého mluví moudře.
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 |
+t: Doufej v Hospodina a čiň dobro,
+
+m: r8 as8 asB g8_( f) f4 r ||
+t: * pak budeš přebývat v zemi a těšit se klidu.
+
+%% part: verse
+
+m: c''B c8_ bes bes bes4 |
+t: Raduj se v Hospodinu,
+
+m: r8 as8 asB g8_( f) f4 r ||
+t: * a dá ti, po čem touží tvé srdce.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 r |
+t: Hospodinu svěř svůj osud,
+
+m: asB g8_( f) f4 ||
+t: * v něho důvěřuj, on sám bude jednat.
+
+%% part: verse
+
+m: r8 c''8 cB c8_( bes) bes4 r |
+t: Tvé spravedlnosti dá vzejít jako světlu,
+
+m: asB g8_( f) f4 r ||
+t: * tvému právu jak polednímu jasu.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 |
+t: Hospodin dává krokům člověka sílu,
+
+m: r8 as8 asB g8_( f) f4 r ||
+t: * má zalíbení v jeho životní cestě.
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 r |
+t: Jestliže padne, nezůstane ležet,
+
+m: asB g8_( f) f4 r ||
+t: * protože mu Hospodin podpírá ruku.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_ bes bes4 r |
+t: Spravedlivým přichází spása od Hospodina,
+
+m: asB g8_ f f f4 r ||
+t: * v dobách tísně je jim útočištěm.
+
+%% part: verse
+
+m: c''B c8_ bes bes4 r |
+t: Hospodin jim pomáhá a je vysvobozuje,
+
+m: asB g8_ f f f2 ||
+t: * bezbožníků je zbavuje a chrání je, + protože se k němu utíkají.
+
+%% use: responsum
+

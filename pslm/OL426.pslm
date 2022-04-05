@@ -1,0 +1,73 @@
+%% occasion: 'Čtvrtek 5. a 9. týdne 1'
+%% occasion: 'Pátek 12. týdne 1'
+%% occasion: 'Sobota 20. týdne 1'
+%% occasion: 'Úterý 30. týdne 2'
+%% responsum_reference: 'Ž 128 (127),1a'
+%% verse_reference: 'Ž 128 (127)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 35
+
+% Tento žalm má stejné texty veršů jako publikovaný OL41, OL42
+
+m: \key f \major
+
+%% part: responsum
+
+m: c''8 a d c4 a8 | bes8 c / a g / f c c c4 ||
+t: Blaze každému, kdo se bojí Hospodina.
+
+%% part: verse
+
+m: d'B e8 f a_ g g g4 |
+t: Blaze každému, kdo se bojí Hospodina,
+
+m: r8 g gB f8 g bes_( a) a2 ||
+t: * kdo kráčí po jeho cestách.
+
+%% part: verse
+
+m: d'B e8 f a_( g) g2 |
+t: Budeš jísti z výtěžku svých rukou,
+
+m: gB f8 g bes_( a) a4 r ||
+t: * bude ti blaze a dobře.
+
+%% use: responsum
+
+%% part: verse
+
+m: r8 d' dB e8 f a_( g) g4 r |
+t: Tvá manželka bude jako plodná réva
+
+m: gB f8 g bes_( a) a4 r ||
+t: * uvnitř tvého domu.
+
+%% part: verse
+
+m: d'B e8 f a_( g) g4 r |
+t: Tvoji synové jako výhonky oliv
+
+m: gB f8 g bes_( a) a4 r ||
+t: * kolem tvého stolu.
+
+%% use: responsum
+
+%% part: verse
+
+m: d'B e8 f a_ g g g4 r |
+t: Hle, tak bývá požehnán muž,
+
+m: gB f8 g bes_ a a a4 r ||
+t: * který se bojí Hospodina.
+
+%% part: verse
+
+m: d'B e8 f a_ g g g4 r |
+t: Ať ti Hospodin požehná ze Siónu,
+
+m: gB f8 g bes_ a a4 r ||
+t: * abys viděl štěstí Jeruzaléma (+) po všechny dny svého života.
+
+%% use: responsum
+

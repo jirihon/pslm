@@ -1,0 +1,98 @@
+%% occasion: 'Sobota 4. týdne 1'
+%% occasion: 'Středa 20. a 32. týdne 2'
+%% responsum_reference: 'Ž 23 (22),1'
+%% verse_reference: 'Ž 23 (22)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 31
+
+m: \key des \major
+
+%% part: responsum
+
+m: f'8 f es des f as as4 \breathe / as8 | bes c bes( as) as2 ||
+t: Hospodin je můj pastýř, nic nepostrádám.
+
+%% part: verse
+
+m: ges'B as8 es ges_ f f f2 |
+t: Hospodin je můj pastýř, nic nepostrádám,
+
+m: es8 bes'B c8 bes bes_ as as2 ||
+t: * dává mi prodlévat na svěžích pastvinách,
+
+%% part: verse
+
+m: ges'B as8 es ges_ f f f2 |
+t: vodí mě k vodám, kde si mohu odpočinout.
+
+m: es8 bes'B c8 bes bes_( as) as4 r ||
+t: * Občerstvuje mou duši.
+
+%% use: responsum
+
+%% part: verse
+
+m: ges'B as8 es ges_( f) f2 |
+t: Vede mě po správných cestách
+
+m: es8( bes'8) c8 bes bes_( as) as4 ||
+t: * pro svoje jméno.
+
+%% part: verse
+
+m: r8 ges'8 gesB as8 es ges_( f) f4 r |
+t: I kdybych šel temnotou rokle,
+
+m: es8 bes'B c8 bes bes(_ as) as2 ||
+t: * nezaleknu se zla, vždyť ty jsi se mnou.
+
+%% part: verse
+
+m: ges'4 as8 es ges_( f) f2 |
+t: Tvůj kyj a tvá hůl,
+
+m: es8( bes'8) c8 bes bes_ as as4 r ||
+t: * ty jsou má útěcha.
+
+%% part: responsum_short
+
+m: f'8 f es des f as as4 \breathe / as8 | bes c bes( as) as4 ||
+t: Hospodin je můj pastýř, nic nepostrádám.
+
+%% part: verse
+
+m: r8 ges' as8 es ges_ f f2 |
+t: Prostíráš pro mě stůl
+
+m: es8 bes'8 c8 bes bes_ as as4 r ||
+t: * před zraky mých nepřátel,
+
+%% part: verse
+
+m: ges'B as8 es ges_ f f4 r |
+t: hlavu mi mažeš olejem,
+
+m: es8( bes'8) c8 bes bes_ as as2 ||
+t: * má číše přetéká.
+
+%% use: responsum
+
+%% part: verse
+
+m: ges'B as8 es ges_ f f f2 |
+t: Štěstí a přízeň mě provázejí
+
+m: es8 bes'B c8 bes bes_ as as4 r ||
+t: * po všechny dny mého života,
+
+%% part: verse
+
+m: ges'B as8 es ges_( f) f4 r |
+t: přebývat smím v Hospodinově domě
+
+m: es8 bes'B c8 bes bes(_ as) as4 r ||
+t: * na dlouhé, předlouhé časy.
+
+%% use: responsum
+

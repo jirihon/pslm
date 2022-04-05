@@ -1,0 +1,70 @@
+%% occasion: 'Středa 5. týdne 1'
+%% responsum_reference: 'Ž 103 (102),1a'
+%% verse_reference: 'Ž 104 (103)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 34
+%% a: "f'8 e dB e8 f a_ g g2"
+%% b: "g8 f eB f8 g bes_ a a2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 a c c c2 / d8 bes a g4 r ||
+t: Veleb, duše má, Hospodina.
+
+%% part: verse
+
+m: f'8 e d8 e8 f a_ g g g4 r |
+t: Veleb, má duše Hospodina!
+
+m: g8 f eB f8 g bes_ a a2 ||
+t: * Hospodine, můj Bože, jsi nadmíru veliký!
+
+%% part: verse
+
+m: f'8 e dB e8 f a_( g) g4 r |
+t: Velebností a vznešeností ses oděl,
+
+m: g8 f eB f8 g bes_( a) a4 r ||
+t: * světlem se halíš jako pláštěm.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'8 e d8 e8 f a_ g g4 |
+t: Všichni čekají od tebe,
+
+m: r8 g8 f eB f8 g bes_ a a4 r ||
+t: * že jim dáš obživu v pravý čas.
+
+%% part: verse
+
+m: f'8 e dB e8 f a_ g g2 |
+t: Ty jim dáváš, a oni sbírají,
+
+m: g8 f eB f8 g bes_( a) a4 r ||
+t: * otvíráš ruku, a sytí se dobrými dary.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'8 e dB e8 f a_( g) g4 r |
+t: Hynou, když vezmeš jim život,
+
+m: g8( f) eB f8 g bes_( a) a4 r ||
+t: * a vracejí se do svého prachu.
+
+%% part: verse
+
+m: f'8 e dB e8 f a_ g g4 r |
+t: Když sešleš svého ducha, jsou stvořeni,
+
+m: g8( f) eB f8 g bes_( a) a4 r ||
+t: * a obnovuješ tvář země.
+
+%% use: responsum
+

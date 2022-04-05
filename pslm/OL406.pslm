@@ -1,0 +1,56 @@
+%% occasion: 'Sobota 1. týdne 1'
+%% responsum_reference: 'Jan 6,63b'
+%% verse_reference: 'Ž 19 (18)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 14
+
+% Tento žalm má stejné texty veršů jako publikovaný OL72
+
+m: \key es \major
+
+%% part: responsum
+
+m: es'4 es8 d c d es f4 | es8 f / g( bes) bes4 r ||
+t: Tvá slova, Pane, jsou duch a jsou život.
+
+%% part: verse
+
+m: c''B bes8 as g_( f) f4 r |
+t: Hospodinův zákon je dokonalý, (+)  občerstvuje duši,
+
+m: fB es8 f as_( g) g4 r ||
+t: * Hospodinův příkaz je spolehlivý, (+) nezkušenému dává moudrost.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B bes8 as g_( f) f4 r |
+t: Hospodinovy předpisy jsou správné, (+) působí radost srdci,
+
+m: fB es8 f as_( g) g4 r ||
+t: * Hospodinův rozkaz je jasný, (+) osvětluje oči.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B bes8 as g_ f f4 r |
+t: Bázeň před Hospodinem je upřímná, trvá na věky,
+
+m: fB es8 f as_ g g g2 ||
+t: * Hospodinovy výroky jsou pravdivé, (+) všechny jsou spravedlivé.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B bes8 as g_( f) f4 r |
+t: Nechť se ti líbí slova mých úst + i smýšlení mého srdce,
+
+m: fB es8 f as_ g g g2 ||
+t: * Hospodine, má Skálo, vykupiteli můj!
+
+%% use: responsum
+

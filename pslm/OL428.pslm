@@ -1,0 +1,80 @@
+%% occasion: 'Sobota 5. týdne 1'
+%% responsum_reference: 'Ž 90 (89),1'
+%% verse_reference: 'PůvodnQí tónina F dur.'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 37
+%% a: "c''B bes8_ g g2"
+%% b: "asB g8_ f f2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: es'8 bes es f g4. es8 / f es f g | as bes as g f2 | bes8 c bes as g2 ||
+t: Pane, tys nám býval útočištěm od pokolení do pokolení.
+
+%% part: verse
+
+m: c''B bes8_ g g g4 r |
+t: Dříve než se zrodily hory, (+) než povstala země a svět,
+
+m: asB g8_( f) f4 r ||
+t: * od věčnosti do věčnosti jsi ty, Bože!
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B bes8_ g g g4 |
+t: Rozkazem vracíš, Bože, člověka v prach
+
+m: r8 as8 asB g8_ f f f4 r ||
+t: * a pravíš: (+) „Vraťte se, smrtelníci!“
+
+%% part: verse
+
+m: c''B bes8_( g) g4 |
+t: Neboť tisíc let je v tvých očích (+) jako včerejší den, který minul,
+
+m: r8 as8 asB g8_( f) f4 r ||
+t: * a jako noční hlídka.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B bes8_ g g4 r |
+t: Uchvacuješ je, (+) jsou jako ranní sen,
+
+m: asB g8_( f) f4 r ||
+t: * podobají se pučící trávě:
+
+%% part: verse
+
+m: c''B bes8_( g) g2 |
+t: Zrána kvete a bují,
+
+m: asB g8_( f) f4 r ||
+t: * večer je skosena a vadne.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B bes8_ g g4 |
+t: Nauč nás počítat naše dny,
+
+m: r8 as8 asB g8_( f) f4 r ||
+t: * ať dojdeme k moudrosti srdce.
+
+%% part: verse
+
+m: c''B bes8_( g) g4 r |
+t: Obrať se, Hospodine, (+) jak dlouho ještě budeš čekat?
+
+m: asB g8_ f f f4 r ||
+t: * Slituj se nad svými služebníky!
+
+%% use: responsum
+

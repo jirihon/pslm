@@ -1,0 +1,70 @@
+%% occasion: 'Čtvrtek 1. týdne 1'
+%% responsum_reference: 'Ž 95 (94), 7c-8a'
+%% verse_reference: 'Ž 95 (94)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 12
+%% a: "d'B e8 f g_ a g g2"
+%% b: "gB f8 g a_ bes a a2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: a'8 a g a bes a g f |  e d / d( c) c4~ c8 r8 | bes' bes c bes a g g( f) | f4( f8) r ||
+t: Kéž byste dnes uposlechli jeho hlasu: „Nezatvrzujte svá srdce!“
+
+%% part: verse
+
+m: d'B e8 f g_( a) g g4 r |
+t: Pojďme, padněme, klaňme se,
+
+m: gB f8 g a_ bes a a4 r ||
+t: * poklekněme před svým tvůrcem, Hospodinem!
+
+%% part: verse
+
+m: d'B e8 f g_( a g) g4 |
+t: Neboť on je náš Bůh
+
+m: r8 g8 gB f8 g a_( bes a) a2 ||
+t: * a my jsme lid, který pase, (+) stádce vedené jeho rukou.
+
+%% use: responsum
+
+%% part: verse
+
+m: d'B e8 f g_( a g) g4 r |
+t: Kéž byste dnes uposlechli jeho hlasu:
+
+m: gB f8 g a_( bes) a a4 r ||
+t: * „Nezatvrzujte svá srdce jako v Meribě,
+
+%% part: verse
+
+m: d'B e8 f g_( a) g g2 |
+t: jako tehdy v Masse na poušti, + kde mě dráždili vaši otcové,
+
+m: gB f8 g a_( bes a) a4 r ||
+t: * zkoušeli mě, ač viděli mé činy.
+
+%% use: responsum
+
+%% part: verse
+
+m: d'B e8 f g_ a g g2 |
+t: Čtyřicet let mi bylo protivné ono pokolení;
+
+m: gB f8 g a_( bes a) a4 r ||
+t: * řekl jsem: Je to lid, který bloudí v srdci, + nepoznali mé cesty.
+
+%% part: verse
+
+m: d'B e8 f g_( a g) g4 r |
+t: Proto jsem přísahal ve svém hněvu:
+
+m: gB f8 g a_( bes a) a4 r ||
+t: * Nepřijdou na místo mého klidu!“
+
+%% use: responsum
+

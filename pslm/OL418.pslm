@@ -1,0 +1,74 @@
+%% occasion: 'Úterý 4. týdne 1'
+%% responsum_reference: 'Ž 22 (21),26a'
+%% verse_reference: 'Ž 22 (21)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 27
+%% a: "es'B es8 d c_ c c2"
+%% b: "fB f8 es d_ d d2"
+
+% Tento žalm má stejné texty veršů jako publikovaný OL153
+
+m: \key es \major
+
+%% part: responsum_short
+
+m: es'8 f g as4. f8 bes g g g4 r | f8 c' bes4( c) / d8 bes4 g8 g4 ||
+t: Budu tě chválit, Hospodine, ve velkém shromáždění.
+
+%% part: verse
+
+m: r8 es'8 esB es8 d c_ c c c4 r |
+t: Své sliby splním před těmi, kdo ctí Hospodina.
+
+m: fB f8 es d_ d d d4 ||
+t: * Chudí se najedí do sytosti,
+
+%% part: verse
+
+m: r8 es'8 esB es8 d c4_ c r |
+t: kdo hledají Hospodina, budou ho chválit:
+
+m: fB f8 es d8_ d r4 ||
+t: * „Na věky ať žije vaše srdce!“
+
+%% part: responsum
+
+m: es'8 f g as4. f8 bes g g g4 r | f8 c' bes4( c) / d8 bes4 g8 g2 ||
+t: Budu tě chválit, Hospodine, ve velkém shromáždění.
+
+%% part: verse
+
+m: es'B es8 d c8_ c r4 |
+t: Rozpomenou se a k Hospodinu se obrátí všechny končiny země,
+
+m: fB f8 es d_ d d d4 ||
+t: * před ním se skloní všechna lidská pokolení.
+
+%% part: verse
+
+m: r8 es'8 esB es8 d c8_ c r4 |
+t: Jen jemu se budou kořit všichni, kdo spí v zemi,
+
+m: fB f8 es d_ d d4 r ||
+t: * před ním se skloní všichni, kdo sestupují v prach.
+
+%% use: responsum
+
+%% part: verse
+
+m: es'B es8 d c_ c c4 |
+t: I má duše bude pro něho žít,
+
+m: r8 f8 fB f8 es d4_ d r ||
+t: * mé potomstvo bude mu sloužit.
+
+%% part: verse
+
+m: es'B es8 d c_ c c c2 |
+t: Bude vyprávět o Pánu příštímu pokolení,
+
+m: fB f8 es d_ d d4 r ||
+t: * lidu, jenž se narodí, budou hlásat jeho spravedlnost: + „To učinil Hospodin!“
+
+%% use: responsum

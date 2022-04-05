@@ -1,0 +1,90 @@
+%% occasion: 'Středa 1. a 12. týdne 1'
+%% responsum_reference: 'Ž 105 (104),8a'
+%% verse_reference: 'Ž 105 (104)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 11
+%% a: "b'B cis8 b b_ a a2"
+%% b: "gB a8 g fis_ e e2"
+
+% Tento žalm má stejné texty veršů jako publikovaný OL127
+
+m: \key d \major
+
+%% part: responsum
+
+m: r8 d' e fis g g g fis / fis( e) e4 | r8 e fis g / a4( fis) fis2 ||
+t: Hospodin pamatuje věčně na svoji smlouvu.
+
+%% part: verse
+
+m: b'B cis8 b b_( a) a4 r |
+t: Oslavujte Hospodina, vzývejte jeho jméno,
+
+m: gB a8 g fis_( e) e4 r ||
+t: * hlásejte mezi národy jeho díla.
+
+%% part: verse
+
+m: b'B cis8 b b_ a a4 r |
+t: Zpívejte mu, hrejte mu,
+
+m: gB a8 g fis_( e) e4 r ||
+t: * vypravujte o všech jeho divech!
+
+%% use: responsum
+
+%% part: verse
+
+m: b'B cis8 b b_( a) a4 r |
+t: Honoste se jeho svatým jménem,
+
+m: gB a8 g fis_ e e e4 r ||
+t: * ze srdce ať se radují, kdo hledají Hospodina!
+
+%% part: verse
+
+m: b'B cis8 b b_( a) a4 r |
+t: Uvažujte o Hospodinu a jeho moci,
+
+m: gB a8 g fis_ e e2 ||
+t: * hledejte stále jeho tvář!
+
+%% use: responsum
+
+%% part: verse
+
+m: b'B cis8 b b_ a a a4 r |
+t: Potomstvo Abraháma, jeho služebníka,
+
+m: gB a8 g fis_ e e4 r ||
+t: * synové Jakuba, jeho vyvoleného!
+
+%% part: verse
+
+m: b'B cis8 b b_( a) a2 |
+t: Hospodin sám je náš Bůh,
+
+m: gB a8 g fis_ e e e2 ||
+t: * po celé zemi platí jeho rozhodnutí.
+
+%% use: responsum
+
+%% part: verse
+
+m: b'B cis8 b b_( a) a4 r |
+t: Pamatuje věčně na svoji smlouvu,
+
+m: gB a8 g fis_ e e e2 ||
+t: * na slib, který ustanovil pro tisíc pokolení,
+
+%% part: verse
+
+m: b'B cis8 b b_ a a a4 r |
+t: na smlouvu, kterou sjednal s Abrahámem,
+
+m: gB a8 g fis_ e e e4 r ||
+t: * na svou přísahu Izákovi.
+
+%% use: responsum
+
