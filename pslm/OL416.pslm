@@ -13,7 +13,7 @@ m: \key f \major
 
 %% part: responsum
 
-m: c''8 d c a c d c a4( f) d8 g g g2 | g8 a bes c4 bes8 a4( f) f2 ||
+m: c''8 d c a / c d c / a4( f) / d8 g g g2 | g8 a / bes c4 bes8 / a4( f) f2 ||
 t: Pochválen buď Hospodin, Bůh Izraele, neboť navštívil svůj lid.
 
 %% part: verse

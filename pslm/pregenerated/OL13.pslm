@@ -10,11 +10,11 @@
 
 % Tento žalm má stejné texty veršů jako publikovaný OL14, OL15
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: f'8 c f g a4. f8 / bes c bes a g2 ||
 t: Pane, ukaž nám své milosrdenství!
 
 %% part: verse

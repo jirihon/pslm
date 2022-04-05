@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 289
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: g'8 f as g f es / f bes bes2 g4 es r ||
 t: Nezapomínejte na Boží skutky!
 
 %% part: verse

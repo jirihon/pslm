@@ -5,11 +5,13 @@
 %% source: nedelni_zaltar
 %% page: 72
 
-m: \key c \major
+% Tento žalm má stejné texty veršů jako publikovaný OL430
+
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: c''4 a d8 c bes( a) g4. \breathe a8 | bes c / a g / f( c) c4 ||
 t: Pán dá požehnání a pokoj svému lidu.
 
 %% part: verse
