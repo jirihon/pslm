@@ -16,11 +16,13 @@ function pslm_get_note($music) {
 
 function pslm_preprocessor($psalm) {
     preg_match_all('#^%%\s*([a-z]):\s*"([^\n"]*)"\s*$#um', $psalm, $var_matches, PREG_SET_ORDER);
+
+    $was_snippet_match = false;
     
     foreach ($var_matches as $var_match) {
         list(, $var, $music) = $var_match;
         
-        preg_match_all("#m: ${var}B (\|+)\nt: (.*)#u", $psalm, $snippet_matches, PREG_SET_ORDER);
+        $was_snippet_match = preg_match_all("#m: ${var}B (\|+)\nt: (.*)#u", $psalm, $snippet_matches, PREG_SET_ORDER);
 
         foreach ($snippet_matches as $snippet_match) {
             list($snippet, $bar, $text) = $snippet_match;
@@ -140,9 +142,10 @@ function pslm_preprocessor($psalm) {
             $psalm = str_replace($snippet, "m: $new_music $bar\nt: $text", $psalm);
         }
     }
-    // shorten previous syllable or cancel quarter rest if there is a pick up rest in the next verse
-    $psalm = preg_replace("#([abcdefgis]+[,']*)(2|4 r4?)\s+(\|+)((\n|t:.*|%% part: verse.*)*m: r8)#u", '${1}4 $3$4', $psalm);
-
+    if ($was_snippet_match) {
+        // shorten previous syllable or cancel quarter rest if there is a pick up rest in the next verse
+        $psalm = preg_replace("#([abcdefgis]+[,']*)(2|4 r4?)\s+(\|+)((\n|t:.*|%% part: verse.*)*m: r8)#u", '${1}4 $3$4', $psalm);
+    }
     return $psalm;
 }
 
