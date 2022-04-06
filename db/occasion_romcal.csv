@@ -328,6 +328,7 @@ occasion,id,cycle
 "O učitelích Církve",,
 "25. neděle v mezidobí C",ordinary_time_25_sunday,C
 "26. neděle v mezidobí B",ordinary_time_26_sunday,B
+"27. neděle v mezidobí A",ordinary_time_27_sunday,A
 "27. neděle v mezidobí B",ordinary_time_27_sunday,B
 "28. neděle v mezidobí B",ordinary_time_28_sunday,B
 "29. neděle v mezidobí A",ordinary_time_29_sunday,A
@@ -364,9 +365,100 @@ occasion,id,cycle
 "Narození sv. Jana Křtitele (24. června)",nativity_of_john_the_baptist,
 "Sv. Petra a Pavla (29. června)",peter_and_paul_apostles,
 "O mučednících (i v době velikonoční)",,
+"Sv. Prokopa (4. července)",procopius_of_sazava_abbot,
+"Sv. Benedikta (11. července)",benedict_of_nursia_abbot,
+"Sv. Jakuba (25. července)",james_apostle,
+"Sv. Jáchyma a Anny (26. července)",joachim_and_anne_parents_of_mary,
+"Proměnění Páně (6. srpna)",transfiguration,
+"Sv. Vavřince (10. srpna)",lawrence_of_rome_deacon,
+"Nanebevzetí Panny Marie, vigilie (14. srpna, večer)",assumption,
+"Nanebevzetí Panny Marie (15. srpna)",assumption,
+"Sv. Bartoloměje (24. srpna)",bartholomew_apostle,
+"Sv. Lukáše (18. října)",luke_evangelist,
+"Narození Panny Marie (8. září)",nativity_of_mary,
+"Povýšení svatého kříže (14. září)",exaltation_of_the_holy_cross,
+"Panny Marie Bolestné (15. září)",our_lady_of_sorrows,
+"Sv. Ludmily (16. září)",ludmila_of_bohemia_martyr,
+"Sv. Václava (28. září)",wenceslaus_i_of_bohemia_martyr,
+"Sv. Michaela, Gabriela a Rafaela (29. září)",michael_gabriel_and_raphael_archangels,
+"Svatých andělů strážných (2. října)",guardian_angels,
+"Všech svatých (1. listopadu)",all_saints,
+"Panny Marie, počaté bez poskvrny prvotního hříchu (8. prosince)",immaculate_conception_of_mary,
+"Sv. Štěpána (26. prosince)",stephen_the_first_martyr,
+"Sv. Jana Evangelisty (27. prosince)",john_apostle,
+"Sv. Mláďátek (28. prosince)",holy_innocents_martyrs,
+"Při svěcení oltáře",,
+"Výročí posvěcení kostela (i v době velikonoční)",,
+"Výročí posvěcení kostela (v době velikonoční)",,
+"Při svěcení oltáře (i v době velikonoční)",,
+"O svatých (i v době velikonoční)",,
+"O učitelích Církve (i v době velikonoční)",,
+"O učitelích Církve (v době velikonoční)",,
 "Při řeholních slibech (i v době velikonoční)",,
+"Při řeholních slibech (v době velikonoční)",,
+"Při křtu dospělých (i v době velikonoční)",,
+"Při biřmování (i v době velikonoční)",,
+"Při biřmování",,
+"Při svěcení jáhnů",,
+"Při svěcení kněží",,
+"Při svatbě (v době velikonoční)",,
+"Při žehnání opata a abatyše",,
+"Při žehnání opata a abatyše (v době velikonoční)",,
+"Při svěcení oltáře (v době velikonoční)",,
+"Při pohřbu pokřtěného dítěte - verze a)",,
+"Při pohřbu dosud nepokřtěného dítěte - verze b)",,
+"Pondělí 1. týdne 1",ordinary_time_1_monday,1
+"Úterý 1. týdne 1",ordinary_time_1_tuesday,1
+"Středa 1. týdne 1",ordinary_time_1_wednesday,1
+"Středa 12. týdne 1",ordinary_time_12_wednesday,1
+"Čtvrtek 1. týdne 1",ordinary_time_1_thursday,1
+"Pátek 1. týdne 1",ordinary_time_1_friday,1
+"Sobota 1. týdne 1",ordinary_time_1_saturday,1
+"Pondělí 2. týdne 1",ordinary_time_2_monday,1
+"Středa 2. týdne 1",ordinary_time_2_wednesday,1
+"Středa 3. týdne 1",ordinary_time_3_wednesday,1
+"Úterý 2. týdne 1",ordinary_time_2_tuesday,1
+"Čtvrtek 2. týdne 1",ordinary_time_2_thursday,1
+"Úterý 29. týdne 1",ordinary_time_29_tuesday,1
+"Pondělí 24. týdne 2",ordinary_time_24_monday,2
+"Pátek 2. týdne 1",ordinary_time_2_friday,1
+"Sobota 2. týdne 1",ordinary_time_2_saturday,1
+"Pondělí 3. týdne 1",ordinary_time_3_monday,1
+"Úterý 3. týdne 1",ordinary_time_3_tuesday,1
+"Čtvrtek 3. týdne 1",ordinary_time_3_thursday,1
+"Sobota 29. týdne 1",ordinary_time_29_saturday,1
+"Pátek 29. týdne 2",ordinary_time_29_friday,2
+"Pondělí 32. týdne 2",ordinary_time_32_monday,2
+"Pondělí 34. týdne 2",ordinary_time_34_monday,2
+"Pátek 3. týdne 1",ordinary_time_3_friday,1
+"Sobota 3. týdne 1",ordinary_time_3_saturday,1
+"Čtvrtek 27. týdne 2",ordinary_time_27_thursday,2
+"Pondělí 29. týdne 1",ordinary_time_29_monday,1
+"Pondělí 4. týdne 1",ordinary_time_4_monday,1
+"Úterý 4. týdne 1",ordinary_time_4_tuesday,1
+"Středa 4. týdne 1",ordinary_time_4_wednesday,1
+"Čtvrtek 4. týdne 1",ordinary_time_4_thursday,1
+"Pátek 4. týdne 1",ordinary_time_4_friday,1
+"Sobota 4. týdne 1",ordinary_time_4_saturday,1
+"Středa 20. týdne 2",ordinary_time_20_wednesday,2
+"Středa 32. týdne 2",ordinary_time_32_wednesday,2
+"Pondělí 5. týdne 1",ordinary_time_5_monday,1
+"Úterý 5. týdne 1",ordinary_time_5_tuesday,1
+"Středa 5. týdne 1",ordinary_time_5_wednesday,1
+"Čtvrtek 5. týdne 1",ordinary_time_5_thursday,1
+"Čtvrtek 9. týdne 1",ordinary_time_9_thursday,1
+"Pátek 12. týdne 1",ordinary_time_12_friday,1
+"Sobota 20. týdne 1",ordinary_time_20_saturday,1
+"Úterý 30. týdne 2",ordinary_time_30_tuesday,2
+"Pátek 5. týdne 1",ordinary_time_5_friday,1
+"Pondělí 8. týdne 1",ordinary_time_8_monday,1
+"Sobota 5. týdne 1",ordinary_time_5_saturday,1
+"Pondělí 6. týdne 1",ordinary_time_6_monday,1
+"Úterý 6. týdne 1",ordinary_time_6_tuesday,1
 "Středa 6. týdne 1",ordinary_time_6_wednesday,1
 "Pátek 6. týdne 1",ordinary_time_6_friday,1
+"Pondělí 7. týdne 1",ordinary_time_7_monday,1
+"Sobota 14. týdne 2",ordinary_time_14_saturday,2
 "Sobota 8. týdne 1",ordinary_time_8_saturday,1
 "Čtvrtek 26. týdne 1",ordinary_time_26_thursday,1
 "Pondělí 11. týdne 1",ordinary_time_11_monday,1
@@ -384,7 +476,13 @@ occasion,id,cycle
 "Čtvrtek 8. týdne 2",ordinary_time_8_thursday,2
 "Čtvrtek 34. týdne 2",ordinary_time_34_thursday,2
 "Úterý 24. týdne 2",ordinary_time_24_tuesday,2
+"Středa 26. týdne 1",ordinary_time_26_wednesday,1
+"Pátek 12. týdne 2",ordinary_time_12_friday,2
+"Pátek 26. týdne 1",ordinary_time_26_friday,1
+"Čtvrtek 12. týdne 2",ordinary_time_12_thursday,2
 "Pondělí 1. týdne 2",ordinary_time_1_monday,2
+"Pondělí 2. týdne 2",ordinary_time_2_monday,2
+"Pondělí 15. týdne 2",ordinary_time_15_monday,2
 "Pátek 4. týdne 2",ordinary_time_4_friday,2
 "Pondělí 7. týdne 2",ordinary_time_7_monday,2
 "Pondělí 8. týdne 2",ordinary_time_8_monday,2
@@ -408,6 +506,26 @@ occasion,id,cycle
 "Úterý 11. týdne 2",ordinary_time_11_tuesday,2
 "Středa 11. týdne 2",ordinary_time_11_wednesday,2
 "Čtvrtek 11. týdne 2",ordinary_time_11_thursday,2
+"Pátek 11. týdne 2",ordinary_time_11_friday,2
+"Sobota 11. týdne 2",ordinary_time_11_saturday,2
+"Pondělí 12. týdne 2",ordinary_time_12_monday,2
+"Úterý 12. týdne 2",ordinary_time_12_tuesday,2
+"Středa 12. týdne 2",ordinary_time_12_wednesday,2
+"Sobota 12. týdne 2",ordinary_time_12_saturday,2
+"Pondělí 13. týdne 2",ordinary_time_13_monday,2
+"Úterý 13. týdne 2",ordinary_time_13_tuesday,2
+"Středa 13. týdne 2",ordinary_time_13_wednesday,2
+"Čtvrtek 13. týdne 2",ordinary_time_13_thursday,2
+"Pátek 13. týdne 2",ordinary_time_13_friday,2
+"Pondělí 14. týdne 2",ordinary_time_14_monday,2
+"Úterý 14. týdne 2",ordinary_time_14_tuesday,2
+"Středa 14. týdne 2",ordinary_time_14_wednesday,2
+"Čtvrtek 14. týdne 2",ordinary_time_14_thursday,2
+"Pátek 14. týdne 2",ordinary_time_14_friday,2
+"Úterý 15. týdne 2",ordinary_time_15_tuesday,2
+"Středa 15. týdne 2",ordinary_time_15_wednesday,2
+"Čtvrtek 15. týdne 2",ordinary_time_15_thursday,2
+"Pátek 15. týdne 2",ordinary_time_15_friday,2
 "Sobota 21. týdne 2",ordinary_time_21_saturday,2
 "Středa 22. týdne 2",ordinary_time_22_wednesday,2
 "Sobota 23. týdne 2",ordinary_time_23_saturday,2
