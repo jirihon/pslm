@@ -14,9 +14,13 @@ document.addEventListener("DOMContentLoaded", async function() {
         if (e.target.closest('.prev-week-button')) {
             offset -= 1;
             render_calendar(offset);
+            e.preventDefault();
+            return false;
         } else if (e.target.closest('.next-week-button')) {
             offset += 1;
             render_calendar(offset);
+            e.preventDefault();
+            return false;
         }
     });
 
