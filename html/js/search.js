@@ -336,8 +336,12 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     }
 
+    function normalize_string(string) {
+        return removeDiacritics(string.toLowerCase().replaceAll(',', ''));
+    }
+
     function search(e) {
-        const needle = removeDiacritics(e.target.value.toLowerCase());
+        const needle = normalize_string(e.target.value);
         let hits = [];
         if (needle.length === 0) {
             render_hits(hits);
@@ -345,7 +349,7 @@ document.addEventListener("DOMContentLoaded", function () {
         }
         let n = 0;
         for (const key of Object.keys(pslm_psalms)) {
-            const haystack = removeDiacritics(key.toLowerCase());
+            const haystack = normalize_string(key);
             if (haystack.includes(needle)) {
                 hits.push(key);
                 ++n;
