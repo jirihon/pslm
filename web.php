@@ -150,6 +150,7 @@ function pslm_render_listing() {
 
 function pslm_render_index() {
     global $PSLM_PSALMS;
+    /*
     $cal = Yaml::parseFile('db/calendar.yml');
 
     usort($cal, function($a, $b) {
@@ -174,6 +175,7 @@ function pslm_render_index() {
     $c_year = intval(date('Y'));
     $c_month = intval(date('n'));
     $c_day = intval(date('j'));
+    */
 
     $html = '';
     $html .= '<p><i>„Zpěvem se Boží slovo ukládá do srdce, aby se nám vynořilo v pravý čas, kdy budeme plni radosti, bolesti, starosti, úzkosti nebo vděčnosti. Tak se zpívané Boží slovo žalmů stane útěchou, posilou a světlem v našem putování do věčného domova.“</i> P. Josef Olejník</p>';

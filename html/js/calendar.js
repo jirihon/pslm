@@ -42,14 +42,23 @@ document.addEventListener("DOMContentLoaded", async function() {
         let title;
         
         if (s.getFullYear() == e.getFullYear()) {
-            title = `${s.getDate()}. ${s.getMonth()+1}. – ${e.getDate()}. ${e.getMonth()+1}. ${e.getFullYear()}`;
+            if (s.getMonth() == e.getMonth()) {
+                title = `${s.getDate()}.–${e.getDate()}. ${e.getMonth()+1}. ${e.getFullYear()}`;
+            } else {
+                title = `${s.getDate()}. ${s.getMonth()+1}. – ${e.getDate()}. ${e.getMonth()+1}. ${e.getFullYear()}`;
+            }
         } else {
             title = `${s.getDate()}. ${s.getMonth()+1}. ${s.getFullYear()} – ${e.getDate()}. ${e.getMonth()+1}. ${e.getFullYear()}`;
         }
         const heading_el = document.createElement('h2');
-        heading_el.innerHTML = `Týden ${title} <a href="#" class="prev-week-button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M224 480c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25l192-192c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25L77.25 256l169.4 169.4c12.5 12.5 12.5 32.75 0 45.25C240.4 476.9 232.2 480 224 480z"/></svg></a> <a href="#" class="next-week-button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M96 480c-8.188 0-16.38-3.125-22.62-9.375c-12.5-12.5-12.5-32.75 0-45.25L242.8 256L73.38 86.63c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l192 192c12.5 12.5 12.5 32.75 0 45.25l-192 192C112.4 476.9 104.2 480 96 480z"/></svg></a>`;
+        heading_el.innerText = `Týden ${title}`;
 
         target.appendChild(heading_el);
+
+        const button_el = document.createElement('p');
+        button_el.innerHTML = ' <a href="#" class="prev-week-button">Předcházející</a> – <a href="#" class="next-week-button">Následující</a>';
+        button_el.classList.add('calendar-buttons');
+        target.appendChild(button_el);
 
         let lit_days = [];
         let day_psalms = [];
@@ -104,6 +113,7 @@ document.addEventListener("DOMContentLoaded", async function() {
             const ids = psalms.map(p => p.psalms).flat();
 
             const day_el = document.createElement('p');
+            day_el.classList.add('calendar-day');
             let day_title = lit_days[i].map(d => d.name).join(', ');
             if (week[i].getDay() === 0) {
                 day_title = `<strong>${day_title}</strong>`;

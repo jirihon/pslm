@@ -74,13 +74,3 @@ h1 {
     margin-top: 10px;
     padding-left: 25px;
 }
-.prev-week-button, .next-week-button {
-    display: inline-block;
-    width: 20px;
-    padding: 0 5px;
-    position: relative;
-    top: 7px;
-}
-.prev-week-button {
-    padding-left: 20px;
-}
