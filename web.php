@@ -68,6 +68,7 @@ function pslm_html_page($title, $body) {
 
     <script src="js/romcal.js"></script>
     <script src="js/cs.js"></script>
+    <script src="js/calendar.js"></script>
 </head>
 <body>
     <div class="main">
@@ -159,6 +160,8 @@ function pslm_render_index() {
     $html = '';
     $html .= '<p><i>„Zpěvem se Boží slovo ukládá do srdce, aby se nám vynořilo v pravý čas, kdy budeme plni radosti, bolesti, starosti, úzkosti nebo vděčnosti. Tak se zpívané Boží slovo žalmů stane útěchou, posilou a světlem v našem putování do věčného domova.“</i> P. Josef Olejník</p>';
     $html .= '<p><a href="rejstrik.html">Rejstřík</a> | <a href="o-projektu.html">O projektu</a></p>';
+
+    $html .= '<div class="calendar"></div>';
 
     foreach ($cal as &$year) {
         usort($year['months'], function($a, $b) {

@@ -1,6 +1,6 @@
-/* jshint esversion: 6 */
-function ready() {
-    let body = document.getElementsByTagName('body')[0];
+/* jshint esversion: 8 */
+document.addEventListener("DOMContentLoaded", function() {
+    let body = document.body;
     function pslm_curr_size() {
         for (let i = 0; i < pslm_svg_sizes.length; ++i) {
             let el = document.getElementsByClassName('size-' + pslm_svg_sizes[i])[0];
@@ -77,5 +77,4 @@ function ready() {
     if (stored_zoom !== null) {
         pslm_set_zoom(stored_zoom);
     }
-}
-document.addEventListener("DOMContentLoaded", ready);
+});
