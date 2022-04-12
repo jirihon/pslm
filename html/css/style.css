@@ -67,10 +67,20 @@ audio {
 h1 {
     text-align: center;
 }
-.calendar p {
+.calendar p,
+.search p {
     margin-bottom: 10px;
 }
-.calendar ul {
+.calendar ul,
+.search ul {
     margin-top: 10px;
     padding-left: 25px;
+}
+.search-field {
+    width: 100%;
+    font-size: 17px;
+    padding: 5px 5px;
+    -webkit-appearance: none;
+    border: 1px solid #888888;
+    border-radius: 4px;
 }

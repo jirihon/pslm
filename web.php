@@ -181,6 +181,8 @@ function pslm_render_index() {
     $html .= '<p><i>„Zpěvem se Boží slovo ukládá do srdce, aby se nám vynořilo v pravý čas, kdy budeme plni radosti, bolesti, starosti, úzkosti nebo vděčnosti. Tak se zpívané Boží slovo žalmů stane útěchou, posilou a světlem v našem putování do věčného domova.“</i> P. Josef Olejník</p>';
     $html .= '<p><a href="rejstrik.html">Rejstřík</a> | <a href="o-projektu.html">O projektu</a></p>';
 
+    $html .= '<p><input type="search" class="search-field" placeholder="Hledat..." incremental /></p>';
+    $html .= '<div class="search"></div>';
     $html .= '<div class="calendar"></div>';
 
     /*
@@ -238,10 +240,12 @@ function pslm_render_index() {
     <script src="js/romcal.js?ver=%s"></script>
     <script src="js/cs.js?ver=%s"></script>
     <script src="js/calendar.js?ver=%s"></script>
+    <script src="js/search.js?ver=%s"></script>
     ',
         file_get_contents(dirname(__FILE__).'/db/psalms.json'),
         file_get_contents(dirname(__FILE__).'/db/romcal_to_occasions.json'),
         file_get_contents(dirname(__FILE__).'/db/psalm_titles.json'),
+        time(),
         time(),
         time(),
         time()
