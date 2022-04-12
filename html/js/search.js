@@ -341,7 +341,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     function search(e) {
-        const needle = normalize_string(e.target.value).replaceAll(/\s+/g, ' ');
+        const needle = normalize_string(e.target.value).replaceAll(/\s+/g, ' ').trim();
         let hits = [];
         if (needle.length === 0) {
             render_hits(hits);
