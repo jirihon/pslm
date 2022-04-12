@@ -20,8 +20,8 @@ $PSLM_PSALMS = [];
 pslm_render_sizes_css();
 pslm_render_listing();
 pslm_update_pregenerated();
-pslm_render_index();
 pslm_save_occasions();
+pslm_render_index();
 
 
 if (file_exists('upload.sh')) {
@@ -30,6 +30,12 @@ if (file_exists('upload.sh')) {
 
 function pslm_save_occasions() {
     global $PSLM_PSALMS;
+    $id_psalm = [];
+
+    foreach ($PSLM_PSALMS as $id => $psalm) {
+        $id_psalm[$id] = [$id];
+    }
+
     $occasion_psalm = [];
     foreach ($PSLM_PSALMS as $id => $psalm) {
         if (!isset($psalm['opts']['occasion'])) {
@@ -49,10 +55,25 @@ function pslm_save_occasions() {
         }
     }
     file_put_contents(dirname(__FILE__).'/db/occasions.php', '<?php $occasion_psalm = '.var_export($occasion_psalm, true).';');
+
+    $responsum_psalm = [];
+    $psalm_titles = [];
+    foreach ($PSLM_PSALMS as $id => $psalm) {
+        $responsum = implode(' ', $psalm['original_text']['responsum']);
+
+        if (isset($responsum_psalm[$responsum])) {
+            $responsum_psalm[$responsum][] = $id;
+        } else {
+            $responsum_psalm[$responsum] = [$id];
+        }
+        $psalm_titles[$id] = pslm_psalm_title($id, $psalm);
+    }
+    file_put_contents(dirname(__FILE__).'/db/psalms.json', json_encode(array_merge($id_psalm, $occasion_psalm, $responsum_psalm), JSON_UNESCAPED_UNICODE));
+    file_put_contents(dirname(__FILE__).'/db/psalm_titles.json', json_encode($psalm_titles, JSON_UNESCAPED_UNICODE));
 }
 
 
-function pslm_html_page($title, $body) {
+function pslm_html_page($title, $body, $head = '') {
     ob_start();
 ?><!DOCTYPE html>
 <html lang="cs" prefix="og: http://ogp.me/ns#">
@@ -65,10 +86,7 @@ function pslm_html_page($title, $body) {
     <?php endif ?>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="css/style.css?ver=<?= time() ?>" media="all" />
-
-    <script src="js/romcal.js"></script>
-    <script src="js/cs.js"></script>
-    <script src="js/calendar.js"></script>
+    <?= $head ?>
 </head>
 <body>
     <div class="main">
@@ -163,6 +181,7 @@ function pslm_render_index() {
 
     $html .= '<div class="calendar"></div>';
 
+    /*
     foreach ($cal as &$year) {
         usort($year['months'], function($a, $b) {
             return ($a['month'] < $b['month']) ? -1 : 1;
@@ -207,8 +226,23 @@ function pslm_render_index() {
             }
             $html .= '</ul>';
         }
-    }
-    $html = pslm_html_page('', $html);
+    } */
+    $head = sprintf('
+    <script>
+        let pslm_psalms = %s;
+        let pslm_romcal_to_occasions = %s;
+        let pslm_titles = %s;
+    </script>
+    <script src="js/romcal.js"></script>
+    <script src="js/cs.js"></script>
+    <script src="js/calendar.js"></script>
+    ',
+        file_get_contents(dirname(__FILE__).'/db/psalms.json'),
+        file_get_contents(dirname(__FILE__).'/db/romcal_to_occasions.json'),
+        file_get_contents(dirname(__FILE__).'/db/psalm_titles.json')
+    );
+
+    $html = pslm_html_page('', $html, $head);
     file_put_contents("html/index.html", $html);
 }
 

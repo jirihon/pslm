@@ -122,3 +122,29 @@ foreach ($occasions as $occasion) {
     fputcsv($fp, [$occasion, $info['id'] ?? '', $info['cycle'] ?? '']);
 }
 fclose($fp);
+
+$to_occasions = [];
+foreach ($to_romcal as $occasion => $info) {
+    if (!isset($info['id'])) {
+        continue;
+    }
+    $id = $info['id'];
+    preg_match_all('#[ABC12]#', $info['cycle'] ?? '', $m);
+    $cycles = $m[0];
+
+    if (empty($cycles)) {
+        if (isset($to_occasions[$id])) {
+            $to_occasions[$id][] = $occasion;
+        } else {
+            $to_occasions[$id] = [$occasion];
+        }
+    }
+    foreach ($cycles as $cycle) {
+        $key = "$id|$cycle";
+        if (isset($to_occassion[$key])) {
+            echo "ERROR: $key already set\n";
+        }
+        $to_occasions[$key] = [$occasion];
+    }
+}
+file_put_contents('db/romcal_to_occasions.json', json_encode($to_occasions, JSON_UNESCAPED_UNICODE));
