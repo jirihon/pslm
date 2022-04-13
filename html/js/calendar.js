@@ -33,9 +33,14 @@ document.addEventListener("DOMContentLoaded", async function() {
         let week = [];
 
         for (let i = 0; i <= 7; ++i) {
-            let day = new Date(today.getTime());
-            day.setDate(today.getDate() + (i - today.getDay()) + offset*7);
-            week.push(day);
+            const day_offset = i - today.getDay() + offset*7;
+            if (day_offset == 0) {
+                week.push(today);
+            } else {
+                let day = new Date(today.getTime());
+                day.setDate(today.getDate() + day_offset);
+                week.push(day);
+            }
         }
         const s = week[0];
         const e = week[7];
@@ -115,6 +120,9 @@ document.addEventListener("DOMContentLoaded", async function() {
 
             const day_el = document.createElement('p');
             day_el.classList.add('calendar-day');
+            if (week[i] === today) {
+                day_el.classList.add('calendar-current-day');
+            }
             let day_title = lit_days[i].map(d => d.name).join(', ');
             if (week[i].getDay() === 0) {
                 day_title = `<strong>${day_title}</strong>`;

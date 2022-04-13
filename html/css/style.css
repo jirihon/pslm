@@ -69,12 +69,15 @@ h1 {
 }
 .calendar p,
 .search p {
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 .calendar ul,
 .search ul {
-    margin-top: 10px;
+    margin-top: 5px;
     padding-left: 25px;
+}
+.calendar-current-day {
+    text-decoration: underline;
 }
 .search-field {
     width: 100%;
