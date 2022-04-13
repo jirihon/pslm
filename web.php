@@ -240,11 +240,13 @@ function pslm_render_index() {
     <script src="js/romcal.js?ver=%s"></script>
     <script src="js/cs.js?ver=%s"></script>
     <script src="js/calendar.js?ver=%s"></script>
+    <script src="js/diacritics.js?ver=%s"></script>
     <script src="js/search.js?ver=%s"></script>
     ',
         file_get_contents(dirname(__FILE__).'/db/psalms.json'),
         file_get_contents(dirname(__FILE__).'/db/romcal_to_occasions.json'),
         file_get_contents(dirname(__FILE__).'/db/psalm_titles.json'),
+        time(),
         time(),
         time(),
         time(),
