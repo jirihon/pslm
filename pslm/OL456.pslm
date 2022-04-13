@@ -1,0 +1,92 @@
+%% occasion: 'Sobota 10. týdne 1'
+%% occasion: 'Pátek 7. týdne 2'
+%% responsum_reference: 'Ž 103 (102),8a'
+%% verse_reference: 'Ž 103 (102)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 65
+%% a: "c''B d8 c bes_ g es es2"
+%% b: "cB d8 es g_ es f f2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: g'8 g f4 es | \tuplet 3/2 { as8[ as g] } f2 \breathe / bes,4 | \tuplet 3/2 {bes'8[ bes as] } g2  ||
+t: Hospodin je milosrdný a milostivý.
+
+%% part: verse
+
+m: c''B d8 c bes_ g es es4 r |
+t: Veleb, má duše, Hospodina,
+
+m: cB d8 es g_( es f) f4 r ||
+t: * vše, co je ve mně, veleb jeho svaté jméno!
+
+%% part: verse
+
+m: c''B d8 c bes_ g es es4 |
+t: Veleb, má duše, Hospodina
+
+m: r8 c8 cB d8 es g_ es f f2 ||
+t: * a nezapomeň na žádné z jeho dobrodiní!
+
+%% part: responsum_short
+
+m: g'8 g f4 es | \tuplet 3/2 { as8[ as g] } f2 \breathe / bes,4 | \tuplet 3/2 {bes'8[ bes as] } g4  ||
+t: Hospodin je milosrdný a milostivý.
+
+%% part: verse
+
+m: r8 c''8 cB d8 c bes_( g es) es4 |
+t: On odpouští všechny tvé viny,
+
+m: r8 c8 cB d8 es g_( es) f f4 ||
+t: * on léčí všechny tvé neduhy.
+
+%% part: verse
+
+m: r8 c''8 cB d8 c bes_ g es es4 r |
+t: On vykupuje tvůj život ze záhuby,
+
+m: cB d8 es g_ es f f2 ||
+t: * on tě věnčí láskou a slitováním.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B d8 c bes_ g es es2 |
+t: Hospodin je milosrdný a milostivý,
+
+m: cB d8 es g_ es f f2 ||
+t: * shovívavý a nadmíru dobrotivý.
+
+%% part: verse
+
+m: c''B d8 c bes_ g es es4 r |
+t: Nechce se přít ustavičně
+
+m: cB d8 es g_( es) f f4 r ||
+t: * ani se hněvat na věky.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B d8 c bes_( g) es es2 |
+t: Jako je vysoko nebe nad zemí,
+
+m: cB d8 es g_( es f) f2 ||
+t: * tak je velká jeho láska k těm, kdo se ho bojí.
+
+%% part: verse
+
+m: c''B d8 c bes_ g es es4 |
+t: Jako je vzdálen východ od západu,
+
+m: r8 c8 cB d8 es g_ es f f4 r ||
+t: * tak vzdaluje od nás naše nepravosti.
+
+%% use: responsum
+

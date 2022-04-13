@@ -1,0 +1,88 @@
+%% occasion: 'Čtvrtek 8. týdne 1'
+%% responsum_reference: 'Ž 33 (32),5b'
+%% verse_reference: 'Ž 33 (32)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 52
+%% a: "d'B e8 f a_ g g2"
+%% b: "gB a8 bes d_ c c2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: c''8 d c bes a4 / bes8 c bes / a g / f c c2 ||
+t: Země je plná Hospodinovy milosti.
+
+%% part: verse
+
+m: d'B e8 f a_ g g g4 r |
+t: Citerou oslavujte Hospodina,
+
+m: gB a8 bes d_( c) c4 r ||
+t: * hrajte mu na desetistrunné harfě.
+
+%% part: verse
+
+m: d'B e8 f a_( g) g4 r |
+t: Zpívejte mu novou píseň,
+
+m: gB a8 bes d_ c c c4 r ||
+t: * dovedně sáhněte do strun, (+) slavnostně je rozezvučte!
+
+%% use: responsum
+
+%% part: verse
+
+m: d'B e8 f a_( g) g2 |
+t: Neboť Hospodinovo slovo je správné,
+
+m: gB a8 bes d_( c) c4 r ||
+t: * spolehlivé je celé jeho dílo.
+
+%% part: verse
+
+m: d'B e8 f a_( g) g4 r |
+t: Miluje spravedlnost a právo,
+
+m: gB a8 bes d_ c c4 r ||
+t: * země je plná Hospodinovy milosti.
+
+%% use: responsum
+
+%% part: verse
+
+m: d'B e8 f a_ g g4 r |
+t: Jeho slovem vznikla nebesa,
+
+m: gB a8 bes d_( c) c4 r ||
+t: * dechem jeho úst všechen jejich zástup.
+
+%% part: verse
+
+m: d'B e8 f a_ g g4 r |
+t: Vodstva moří shrnuje jako do měchu,
+
+m: gB a8 bes d_ c c c4 r ||
+t: * do nádrží slévá oceány.
+
+%% use: responsum
+
+%% part: verse
+
+m: d'B e8 f a_( g) g4 r |
+t: Nechť se bojí Hospodina celá země,
+
+m: gB a8 bes d_( c) c4 ||
+t: * všichni obyvatelé světa ať se před ním děsí.
+
+%% part: verse
+
+m: r8 d'8 dB e8 f a_ g g4 |
+t: On totiž řekl a stalo se,
+
+m: r8 g8 gB a8 bes d_ c c4 r ||
+t: * on poručil a vše povstalo.
+
+%% use: responsum
+

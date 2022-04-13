@@ -1,0 +1,70 @@
+%% occasion: 'Úterý 8. týdne 1'
+%% responsum_reference: 'Ž 50 (49),23b'
+%% verse_reference: 'Ž 50 (49)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 50
+%% a: "c''B c8_ bes bes2"
+%% b: "asB g_8 f f2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: r8 g' es f g4 es | f8 g / as g4 f8 / g as / bes4 bes r ||
+t: Kdo žije správně, tomu ukážu Boží spásu.
+
+%% part: verse
+
+m: c''B c8_( bes) bes2 |
+t: „Shromážděte mi mé svaté,
+
+m: asB g_8( f) f4 r ||
+t: * kteří obětí sjednali mou smlouvu!“
+
+%% part: verse
+
+m: c''B c8_ bes bes bes4 r |
+t: Nebesa zvěstují jeho spravedlnost,
+
+m: asB g_8( f) f4 r ||
+t: * že sám Bůh je soudcem.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 r |
+t: „Slyš, můj lide, budu mluvit, + Izraeli, proti tobě budu svědčit,
+
+m: asB g_8( f) f2 ||
+t: * já jsem Bůh, tvůj Bůh!
+
+%% part: verse
+
+m: c''B c8_ bes bes4 r |
+t: Nekárám tě pro tvé oběti,
+
+m: asB g_8 f f2 ||
+t: * vždyť tvé žertvy jsou stále přede mnou.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 r |
+t: Přinášej Bohu oběť chvály
+
+m: asB g_8( f) f4 ||
+t: * a plň Nejvyššímu své sliby!
+
+%% part: verse
+
+m: r8 c''8 cB c8_ bes bes4 |
+t: Kdo přináší oběť chvály, ten mě ctí,
+
+m: r8 as8 asB g_8( f) f4 r ||
+t: * kdo žije správně, tomu ukážu Boží spásu.“
+
+%% use: responsum
+

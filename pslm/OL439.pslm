@@ -1,0 +1,66 @@
+%% occasion: 'Pátek 7. týdne 1'
+%% responsum_reference: 'Ž 119 (118),35a'
+%% verse_reference: 'Ž 119 (118)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 48
+%% a: "es'B f8 g g_ f f2"
+%% b: "cB bes8 c es_ d d2"
+
+m: \key bes \major
+
+%% part: responsum
+
+m: bes'4 g c8 bes a / g a f d2 | g8 es d c2 ||
+t: Voď mě po cestě svých předpisů, Hospodine.
+
+%% part: verse
+
+m: es'B f8 g g_ f f f4 r |
+t: Veleben jsi, Hospodine,
+
+m: cB bes8 c es_ d d2 ||
+t: * nauč mě svým příkazům!
+
+%% use: responsum
+
+%% part: verse
+
+m: es'B f8 g g_( f) f4 r |
+t: Ze tvých příkazů se budu těšit,
+
+m: cB bes8 c es_( d) d4 r ||
+t: * nezapomenu na tvá slova.
+
+%% use: responsum
+
+%% part: verse
+
+m: es'B f8 g g_( f) f4 |
+t: Otevři mé oči,
+
+m: r8 c8 cB bes8 c es_ d d4 r ||
+t: * ať pozoruji divy tvého zákona.
+
+%% use: responsum
+
+%% part: verse
+
+m: es'B f8 g g_( f) f4 |
+t: Pouč mě, ať zachovám tvůj zákon
+
+m: r8 c8 cB bes8 c es_( d) d4 r ||
+t: * a chráním ho celým svým srdcem.
+
+%% use: responsum
+
+%% part: verse
+
+m: es'B f8 g g_ f f2 |
+t: Voď mě po stezce svých předpisů,
+
+m: cB bes8 c es_ d d d2 ||
+t: * neboť v ní mám zalíbení.
+
+%% use: responsum
+

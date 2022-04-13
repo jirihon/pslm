@@ -1,0 +1,94 @@
+%% occasion: 'Čtvrtek 6. týdne 1'
+%% responsum_reference: 'Srov. Ž 102 (101),20b'
+%% verse_reference: 'Ž 102 (101)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 41
+%% a: "f'B e8 f g_ e e2"
+%% b: "dB c8 d e_ c c2"
+
+m: \key c \major
+
+%% part: responsum
+
+m: g'8 e g a a a2 / d b4 / a( g) g2 ||
+t: Hospodin popatřil z nebe na zem.
+
+%% part: verse
+
+m: f'B e8 f g_ e e e4 |
+t: Pohané budou ctít tvé jméno, Hospodine,
+
+m: r8 d8 dB c8 d e_( c) c4 ||
+t: * a všichni králové země tvou slávu,
+
+%% part: verse
+
+m: r8 f'8 fB e8 f g_( e) e2 |
+t: až Hospodin znovu zbuduje Sión,
+
+m: dB c8 d e_( c) c4 r ||
+t: * až se objeví ve své slávě.
+
+%% part: verse
+
+m: f'B e8 f g_ e e e4 |
+t: Skloní se k modlitbě opuštěných
+
+m: r8 d8 dB c8 d e_( c) c2 ||
+t: * a nepohrdne jejich prosbou.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B e8 f g_ e e e2 |
+t: Kéž je to zapsáno pro příští pokolení,
+
+m: dB c8 d e_ c c c4 r ||
+t: * aby budoucí národ chválil Hospodina.
+
+%% part: verse
+
+m: f'B e8 f g_ e e4 r |
+t: Neboť Hospodin shlédl ze své vznešené svatyně,
+
+m: dB c8 d e_( c) c4 r ||
+t: * popatřil z nebe na zem,
+
+%% part: verse
+
+m: f'B e8 f g_ e e2 |
+t: aby slyšel nářek zajatců,
+
+m: dB c8 d e_( c) c4 r ||
+t: * aby vysvobodil odsouzené k smrti.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B e8 f g_ e e4 |
+t: Synové tvých služebníků budou bydlet v bezpečí
+
+m: r8 d8 dB c8 d e_ c c2 ||
+t: * a jejich potomstvo potrvá před tebou,
+
+%% part: verse
+
+m: f'B e8 f g_( e) e4 |
+t: aby hlásali na Siónu Hospodinovo jméno
+
+m: r8 d8 dB c8 d e(_ c) c4 r ||
+t: * a jeho chválu v Jeruzalémě,
+
+%% part: verse
+
+m: f'B e8 f g_ e e2 |
+t: když se spolu sejdou národy a království,
+
+m: dB c8 d e_ c c c4 r ||
+t: * aby sloužily Hospodinu.
+
+%% use: responsum
+

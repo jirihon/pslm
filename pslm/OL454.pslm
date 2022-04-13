@@ -1,0 +1,75 @@
+%% occasion: 'Čtvrtek 10. týdne 1'
+%% occasion: 'Úterý 20. týdne 1'
+%% occasion: 'Sobota 13. a 20. týdne 2'
+%% occasion: 'Úterý 29. týdne 2'
+%% responsum_reference: 'Ž 85 (84),8a'
+%% verse_reference: 'Ž 85 (84)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 63
+%% a: "bes'B a8 g g_ f f2"
+%% b: "fB e8 d d_ c c2"
+
+% Tento žalm má stejné texty veršů jako publikovaný OL13, OL14, OL15
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 c f g a4. f8 / bes c bes a g2 ||
+t: Pane, ukaž nám své milosrdenství!
+
+%% part: verse
+
+m: bes'B a8 g g_ f f f2 |
+t: Kéž mohu slyšet, co mluví Hospodin, Bůh:
+
+m: fB e8 d d_( c) c2 ||
+t: * jistě mluví o pokoji pro svůj lid a pro své svaté.
+
+%% part: verse
+
+m: bes'B a8 g g_( f) f2 |
+t: Jistě je blízko jeho spása těm, kteří se ho bojí,
+
+m: fB e8 d d_( c) c4 r ||
+t: * aby sídlila jeho velebnost v naší zemi.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 g g_ f f2 |
+t: Milosrdenství a věrnost se potkají,
+
+m: fB e8 d d_ c c2 ||
+t: * spravedlnost a pokoj se políbí.
+
+%% part: verse
+
+m: bes'B a8 g g_ f f4 r |
+t: Věrnost vypučí ze země,
+
+m: fB e8 d d_( c) c4 r ||
+t: * spravedlnost shlédne z nebe.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 g g_( f) f4 |
+t: Hospodin též popřeje dobro
+
+m: r8 f8 fB e8 d d_( c) c4 r ||
+t: * a naše země vydá plody.
+
+%% part: verse
+
+m: bes'B a8 g g_ f f4 |
+t: Spravedlnost bude ho předcházet
+
+m: r8 f8 fB e8 d d_( c) c2 ||
+t: * a spása mu půjde v patách.
+
+%% use: responsum
+

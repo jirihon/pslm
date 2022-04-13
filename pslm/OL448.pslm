@@ -1,0 +1,88 @@
+%% occasion: 'Středa 9. týdne 1'
+%% responsum_reference: 'Ž 25 (24),1b'
+%% verse_reference: 'Ž 25 (24)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 57
+%% a: "bes'B a8 bes c_ a a2"
+%% b: "gB f8 g a_ f f2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 g g a a4. a8 g f | bes c a g4 r ||
+t: K tobě pozvedám svou duši, Hospodine.
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a4 |
+t: V tebe důvěřuji, můj Bože, kéž nejsem zahanben,
+
+m: r8 g8 gB f8 g a_ f f f4 ||
+t: * ať nade mnou nejásají moji nepřátelé.
+
+%% part: verse
+
+m: r8 bes'8 besB a8 bes c_ a a4 r |
+t: Vždyť nikdo z těch, kdo v tebe doufají, nepadne do hanby;
+
+m: gB f8 g a_( f) f4 r ||
+t: * do hanby padnou ti, kdo lehkovážně ruší věrnost.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a a4 |
+t: Ukaž mi své cesty, Hospodine,
+
+m: r8 g8 gB f8 g a_( f) f2 ||
+t: * a pouč mě o svých stezkách.
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) a4 r |
+t: Veď mě ve své pravdě a uč mě,
+
+m: gB f8 g a_ f f4 r ||
+t: * neboť ty jsi Bůh, můj spasitel.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a a2 |
+t: Rozpomeň se, Hospodine, na své slitování,
+
+m: gB f8 g a_( f) f4 r ||
+t: * na své milosrdenství, které trvá věčně.
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a2 |
+t: Pamatuj na mě ve svém milosrdenství
+
+m: gB f8 g a_ f f f4 r ||
+t: * pro svou dobrotivost, Hospodine!
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a a2 |
+t: Hospodin je dobrý a dokonalý,
+
+m: gB f8 g a_( f) f4 r ||
+t: * proto ukazuje hříšníkům cestu.
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a2 |
+t: Pokorné vede k správnému jednání,
+
+m: gB f8 g a_( f) f4 r ||
+t: * pokorné učí své cestě.
+
+%% use: responsum
+

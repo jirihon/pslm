@@ -1,0 +1,76 @@
+%% occasion: 'Úterý 10. týdne 1'
+%% responsum_reference: 'Ž 119 (118),135a'
+%% verse_reference: 'Ž 119 (118)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 61
+%% a: "f'B g8 d f_ e e2"
+%% b: "d8 a'B b8 a a_ g g2"
+
+m: \key c \major
+
+%% part: responsum
+
+m: e'8 c g'2 a8 a / g a b b g4 e | a8 f e d2 ||
+t: Jasnou tvář ukaž svému služebníku, Hospodine!
+
+%% part: verse
+
+m: f'B g8 d f_ e e e2 |
+t: Podivuhodná jsou tvá přikázání,
+
+m: d8 a'B b8 a a_( g) g4 r ||
+t: * proto je zachovává má duše.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B g8 d f_ e e e4 r |
+t: Výklad tvých slov osvěcuje,
+
+m: d8 a'B b8 a a_( g) g4 r ||
+t: * poučuje prosté lidi.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B g8 d f_ e e e4 r |
+t: Otvírám ústa a nabírám dech,
+
+m: d8 a'B b8 a a_ g g4 r ||
+t: * neboť toužím po tvých předpisech.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B g8 d f_ e e4 |
+t: Obrať se ke mně a smiluj se nade mnou,
+
+m: r8 d8 a'B b8 a a_( g) g4 r ||
+t: * jak činíváš těm, kdo milují tvé jméno.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B g8 d f_ e e4 r |
+t: Veď mé kroky podle svého výroku,
+
+m: d8 a'B b8 a a_ g g4 r ||
+t: * ať mi nevládne žádná nepravost!
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B g8 d f_ e e e4 |
+t: Jasnou tvář ukaž svému služebníku
+
+m: r8 d8 a'B b8 a a_ g g2 ||
+t: * a nauč mě svým příkazům!
+
+%% use: responsum
+

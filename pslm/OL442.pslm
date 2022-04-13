@@ -1,0 +1,59 @@
+%% occasion: 'Středa 8. týdne 1'
+%% responsum_reference: 'Sir 36,1b'
+%% verse_reference: 'Ž 98 (97)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 51
+%% a: "bes'B a8 bes c_ a a2"
+%% b: "gB f8 g a_ f f2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 e d g g4 | c,8 g' / a g / f e a4 a2 ||
+t: Ukaž nám, Pane, světlo svého slitování.
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) a4 |
+t: Nepřipomínej nám viny předků,
+
+m: r8 g8 gB f8 g a_ f f f2 ||
+t: * tvé milosrdenství ať nám pospíchá vstříc, + vždyť jsme tak zbědovaní!
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) a4 r |
+t: Pomoz nám, Bože, náš spasiteli, (+) pro slávu svého jména,
+
+m: gB f8 g a_( f) f4 r ||
+t: * vysvoboď nás a odpusť nám hříchy pro své jméno.
+
+%% part: responsum_short
+
+m: f'8 e d g g4 | c,8 g' / a g / f e a4 a4 ||
+t: Ukaž nám, Pane, světlo svého slitování.
+
+%% part: verse
+
+m: r8 bes'8 besB a8 bes c_ a a2 |
+t: Ať k tobě přijde vzdychání zajatých,
+
+m: gB f8 g a_( f) f4 r ||
+t: * mocí svého ramene nech naživu odsouzené na smrt.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) a4 r |
+t: My však, tvůj lid a ovce tvé pastvy,
+
+m: gB f8 g a_( f) f4 r ||
+t: * budem tě chválit na věky, + po všechna pokolení budem vypravovat o tvé slávě.
+
+%% use: responsum
+
