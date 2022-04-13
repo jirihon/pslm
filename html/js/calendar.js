@@ -96,6 +96,7 @@ document.addEventListener("DOMContentLoaded", async function() {
                 add_psalms(`${key}|${sunday_cycle}`, i);
                 const weekday_cycle = record.cycles.weekdayCycle.substr(5);
                 add_psalms(`${key}|${weekday_cycle}`, i);
+                add_psalms(`${day.getDate()}/${day.getMonth()+1}`, i);
             }
         }
         

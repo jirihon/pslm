@@ -37,6 +37,7 @@ $month = [
     'prosince' => 12,
 ];
 $week_rx = '(?<week>\d+)';
+$day_rx = '(?<day>\d+)';
 $dow_rx = '(?<dow>'.implode('|', array_keys($dow)).')';
 $cycle_rx = '(?<cycle>[ABC12][ABC12\(\)]*)?';
 $month_rx = '(?<month>'.implode('|', array_keys($month)).')';
@@ -54,9 +55,11 @@ $time_map = [
     "#^$week_rx\. neděle adventní ?$cycle_rx#u" => 'advent_{week}_sunday',
     "#^$dow_rx po $week_rx\. neděli adventní#u" => 'advent_{week}_{dow}',
 
+    "#^Předvánoční týden \($day_rx\. prosince#u" => 'advent_december_{day}',
     "#^2. neděle po Narození Páně#u" => 'second_sunday_after_christmas',
     "#^$dow_rx po Zjevení Páně#u" => '{dow}_after_epiphany',
     "#^$nday_rx den v oktávu Narození Páně#u" => 'christmas_octave_day_{nday}',
+    "#^Týden před Zjevením Páně \($day_rx\. ledna#u" => 'christmas_time_january_{day}',
     
     "#^$dow_rx po Popeleční středě#u" => '{dow}_after_ash_wednesday',
     "#^$week_rx\. neděle postní ?$cycle_rx#u" => 'lent_{week}_sunday',
@@ -72,7 +75,7 @@ $time_map = [
     "#^$week_rx\. neděle v mezidobí ?$cycle_rx#u" => 'ordinary_time_{week}_sunday',
     "#^$dow_rx $week_rx\. týdne ?$cycle_rx#u" => 'ordinary_time_{week}_{dow}',
 
-    "#(?<day>\d+)\. $month_rx#u" => '{day}/{month}',
+    "#$day_rx\. $month_rx#u" => '{day}/{month}',
 ];
 
 $map = array_merge($name_map, $time_map);
