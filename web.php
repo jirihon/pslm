@@ -68,8 +68,8 @@ function pslm_save_occasions() {
         }
         $psalm_titles[$id] = pslm_psalm_title($id, $psalm);
     }
-    file_put_contents(dirname(__FILE__).'/db/psalms.json', json_encode(array_merge($id_psalm, $occasion_psalm, $responsum_psalm), JSON_UNESCAPED_UNICODE));
-    file_put_contents(dirname(__FILE__).'/db/psalm_titles.json', json_encode($psalm_titles, JSON_UNESCAPED_UNICODE));
+    file_put_contents(dirname(__FILE__).'/db/psalms.json', json_encode(array_merge($id_psalm, $occasion_psalm, $responsum_psalm), JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+    file_put_contents(dirname(__FILE__).'/db/psalm_titles.json', json_encode($psalm_titles, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
 }
 
 

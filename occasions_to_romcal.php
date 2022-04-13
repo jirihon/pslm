@@ -150,4 +150,4 @@ foreach ($to_romcal as $occasion => $info) {
         $to_occasions[$key] = [$occasion];
     }
 }
-file_put_contents('db/romcal_to_occasions.json', json_encode($to_occasions, JSON_UNESCAPED_UNICODE));
+file_put_contents('db/romcal_to_occasions.json', json_encode($to_occasions, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));

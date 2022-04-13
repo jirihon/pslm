@@ -7,11 +7,13 @@
 %% source: nedelni_zaltar
 %% page: 66
 
-m: \key c \major
+% Tento žalm má stejné texty veršů jako publikovaný OL444
+
+m: \key d \major
 
 %% part: responsum
 
-m: bB ||
+m: d'8 e fis g g fis e a2 fis ||
 t: Hospodin miluje svůj národ.
 
 %% part: verse

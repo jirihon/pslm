@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 302
 
-m: \key c \major
+m: \key bes \major
 
 %% part: responsum
 
-m: bB ||
+m: bes'4 g c8 bes a / g a f d2 | g8 es d c2 ||
 t: Voď mě po cestě svých předpisů, Hospodine.
 
 %% part: verse
