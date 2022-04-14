@@ -91,18 +91,24 @@ document.addEventListener("DOMContentLoaded", async function() {
             }
             const calendar = calendars[year];
             const day_key = day.toISOString().substring(0, 10);
-            const lit_day = calendar[day_key].filter(d => !d.name.includes('$')); // filter out days with wrong names
-            lit_days[i] = lit_day;
-
-            for (const record of lit_day) {
-                const key = record.key;
+            let lit_events = calendar[day_key].filter(d => !d.name.includes('$')); // filter out days with wrong names
+            
+            // include also weekday if missing
+            for (const event of lit_events) {
+                if (event.weekday && !lit_events.map(e => e.key).includes(event.weekday.key)) {
+                    lit_events.push(event.weekday);
+                }
+            }
+            for (const event of lit_events) {
+                const key = event.key;
                 add_psalms(key, i);
-                const sunday_cycle = record.cycles.sundayCycle.substr(5);
+                const sunday_cycle = event.cycles.sundayCycle.substr(5);
                 add_psalms(`${key}|${sunday_cycle}`, i);
-                const weekday_cycle = record.cycles.weekdayCycle.substr(5);
+                const weekday_cycle = event.cycles.weekdayCycle.substr(5);
                 add_psalms(`${key}|${weekday_cycle}`, i);
                 add_psalms(`${day.getDate()}/${day.getMonth()+1}`, i);
             }
+            lit_days[i] = lit_events;
         }
         
         for (let [i, psalms] of day_psalms.entries()) {
