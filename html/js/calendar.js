@@ -89,7 +89,7 @@ document.addEventListener("DOMContentLoaded", async function() {
                 calendars[year] = await romcal.generateCalendar(year);
             }
             const calendar = calendars[year];
-            const day_key = day.toISOString().substring(0, 10);
+            const day_key = day.toISOString().slice(0, 10);
             let lit_events = calendar[day_key].filter(d => !d.name.includes('$')); // filter out days with wrong names
             
             // include also weekday if missing
@@ -101,9 +101,9 @@ document.addEventListener("DOMContentLoaded", async function() {
             for (const [rank, event] of lit_events.entries()) {
                 const key = event.key;
                 add_psalms(rank, key, i);
-                const sunday_cycle = event.cycles.sundayCycle.substr(5);
+                const sunday_cycle = event.cycles.sundayCycle.slice(-1);
                 add_psalms(rank, `${key}|${sunday_cycle}`, i);
-                const weekday_cycle = event.cycles.weekdayCycle.substr(5);
+                const weekday_cycle = event.cycles.weekdayCycle.slice(-1);
                 add_psalms(rank, `${key}|${weekday_cycle}`, i);
                 add_psalms(rank, `${day.getDate()}/${day.getMonth()+1}`, i);
             }
