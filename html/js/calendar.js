@@ -68,16 +68,15 @@ document.addEventListener("DOMContentLoaded", async function() {
         let lit_days = [];
         let day_psalms = [];
 
-        function add_psalms(key, i) {
+        function add_psalms(rank, key, i) {
             if (key in pslm_romcal_to_occasions) {
                 for (const occasion of pslm_romcal_to_occasions[key]) {
-                    const value = { occasion, psalms: pslm_psalms[occasion] };
                     if (occasion.match(/vigilie/i)) {
                         if (i > 0) {
-                            day_psalms[i-1].push(value);
+                            day_psalms[i-1].push({ rank: lit_days[i-1].length, occasion, psalms: pslm_psalms[occasion] });
                         }
                     } else {
-                        day_psalms[i].push(value);
+                        day_psalms[i].push({ rank, occasion, psalms: pslm_psalms[occasion] });
                     }
                 }
             }
@@ -99,14 +98,14 @@ document.addEventListener("DOMContentLoaded", async function() {
                     lit_events.push(event.weekday);
                 }
             }
-            for (const event of lit_events) {
+            for (const [rank, event] of lit_events.entries()) {
                 const key = event.key;
-                add_psalms(key, i);
+                add_psalms(rank, key, i);
                 const sunday_cycle = event.cycles.sundayCycle.substr(5);
-                add_psalms(`${key}|${sunday_cycle}`, i);
+                add_psalms(rank, `${key}|${sunday_cycle}`, i);
                 const weekday_cycle = event.cycles.weekdayCycle.substr(5);
-                add_psalms(`${key}|${weekday_cycle}`, i);
-                add_psalms(`${day.getDate()}/${day.getMonth()+1}`, i);
+                add_psalms(rank, `${key}|${weekday_cycle}`, i);
+                add_psalms(rank, `${day.getDate()}/${day.getMonth()+1}`, i);
             }
             lit_days[i] = lit_events;
         }
@@ -114,12 +113,18 @@ document.addEventListener("DOMContentLoaded", async function() {
         for (let [i, psalms] of day_psalms.entries()) {
             
             psalms.sort(function(a, b) {
-                if (a.occasion < b.occasion) {
+                if (a.rank < b.rank) {
                     return -1;
-                } else if (a.occasion > b.occasion) {
+                } else if (a.rank > b.rank) {
                     return 1;
                 } else {
-                    return 0;
+                    if (a.occasion < b.occasion) {
+                        return -1;
+                    } else if (a.occasion > b.occasion) {
+                        return 1;
+                    } else {
+                        return 0;
+                    }
                 }
             });
             const ids = psalms.map(p => p.psalms).flat();
