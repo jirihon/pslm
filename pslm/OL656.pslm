@@ -1,0 +1,70 @@
+%% occasion: 'Pondělí 17. a 20. týdne 2'
+%% responsum_reference: 'Dt 32,18a'
+%% verse_reference: 'Dt 32'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 265
+%% a: "bes'B c8 bes a_ g g2"
+%% b: "gB a8 e g_ f f2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 f e d g g4. | g8 f4 g8 a a~ a2 ||
+t: Opustil jsi Boha, který tě zplodil.
+
+%% part: verse
+
+m: bes'B c8 bes a_ g g4 r |
+t: Na Skálu, která tě zrodila, jsi zapomněl,
+
+m: gB a8 e g_( f) f4 r ||
+t: * opustil jsi Boha, který tě zplodil.
+
+%% part: verse
+
+m: bes'B c8 bes a_ g g g4 r |
+t: Hospodin to viděl a zavrhl je,
+
+m: gB a8 e g_( f) f4 r ||
+t: * rozhněval se na své syny a dcery.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 bes a_ g g4 r |
+t: Pravil: „Skryji svou tvář před nimi,
+
+m: gB a8 e g_( f) f4 r ||
+t: * uvidím, co se s nimi stane,
+
+%% part: verse
+
+m: bes'B c8 bes a_ g g g2 |
+t: neboť je to zvrácené pokolení,
+
+m: gB a8 e g_( f) f4 r ||
+t: * synové, jimž nelze věřit.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 bes a_ g g2 |
+t: Popudili mě k žárlivosti kvůli tomu, kdo není Bůh,
+
+m: gB a8 e g_ f f4 r ||
+t: * rozhněvali mě svými modlami.
+
+%% part: verse
+
+m: bes'B c8 bes a_( g) g4 r |
+t: Nuže, já je popudím k žárlivosti kvůli tomu, kdo není národ,
+
+m: gB a8 e g_ f f2 ||
+t: * kvůli pošetilému lidu je rozhněvám.“
+
+%% use: responsum
+

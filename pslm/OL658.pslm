@@ -1,0 +1,101 @@
+%% occasion: 'Středa 17. týdne 2'
+%% responsum_reference: 'Ž 59 (58),17d'
+%% verse_reference: 'Ž 59 (58)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 267
+%% a: "bes'B c8 bes a_ g g2"
+%% b: "gB a8 e g_ f f2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'4 e8 d g g g g / r g f e a4 a2 ||
+t: Bůh je mé útočiště, když je mi úzko.
+
+%% part: verse
+
+m: bes'B c8 bes a_( g) g4 r |
+t: Vysvoboď mě od mých nepřátel, můj Bože,
+
+m: gB a8 e g_( f) f4 r ||
+t: * před mými protivníky mě ochraň!
+
+%% part: verse
+
+m: bes'B c8 bes a_ g g4 r |
+t: Vysvoboď mě od těch, kdo páchají nepravost,
+
+m: gB a8 e g_( f) f4 r ||
+t: * z moci vrahů mě vyprosť!
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 bes a_ g g4 r |
+t: Neboť hle, ukládají mi o život,
+
+m: gB a8 e g_( f) f4 ||
+t: * napadají mě mocní.
+
+%% part: verse
+
+m: r8 bes'8 besB c8 bes a_ g g g4 r |
+t: Jsem bez viny a bez hříchu, Hospodine,
+
+m: gB a8 e g_ f f2 ||
+t: * nic jsem nezavinil, a přece vyrážejí a útočí.
+
+%% part: responsum_short
+
+m: f'4 e8 d g g g g / r g f e a4 a4 ||
+t: Bůh je mé útočiště, když je mi úzko.
+
+%% part: verse
+
+m: r8 bes'8 besB c8 bes a_( g) g2 |
+t: Má sílo, k tobě vzhlížím,
+
+m: gB a8 e g_( f) f4 ||
+t: * neboť ty, Bože, jsi mé útočiště, + ska! můj Bůh, má láska!
+
+%% part: verse
+
+m: r8 bes'8 c8 bes a_ g g4 r |
+t: Kéž mně Bůh pomůže,
+
+m: gB a8 e g_ f f f4 r ||
+t: * ať mi dá popást se pohledem na mé nepřátele!
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 bes a_ g g4 r |
+t: Budu opěvovat tvoji moc,
+
+m: gB a8 e g_( f) f2 ||
+t: * zrána jásat nad tvou přízní,
+
+%% part: verse
+
+m: bes'B c8 bes a_ g g g4 r |
+t: neboť ses osvědčil jako mé útočiště,
+
+m: gB a8 e g_( f) f4 r ||
+t: * jako úkryt, když je mi úzko.
+
+%% use: responsum_short
+
+%% part: verse
+
+m: r8 bes'8 besB c8 bes a_( g) g4 r |
+t: Má sílo, tobě budu zpívat,
+
+m: gB a8 e g_( f) f4 r ||
+t: * Bože, tys mé útočiště, + můj Bůh, má láska!
+
+%% use: responsum
+

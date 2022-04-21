@@ -1,0 +1,62 @@
+%% occasion: 'Čtvrtek 17. týdne 2'
+%% responsum_reference: 'Ž 146 (145),1b'
+%% verse_reference: 'Ž 146 (145)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 268
+%% a: "c'B d8 e g_ f f2"
+%% b: "dB e8 f a_ g g2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: c''8 d c2 bes4 a8 f a g4 r ||
+t: Duše má, chval Hospodina!
+
+%% part: verse
+
+m: c'B d8 e g_ f f f4 r |
+t: Pokud žiji, chci chválit Hospodina,
+
+m: dB e8 f a_( g) g4 r ||
+t: * pokud budu, chci opěvovat svého Boha.
+
+%% use: responsum
+
+%% part: verse
+
+m: c'B d8 e g_ f f f4 r |
+t: Nespoléhejte na knížata, na člověka,
+
+m: dB e8 f a_( g) g4 r ||
+t: * u něho není spásy.
+
+%% part: verse
+
+m: c'B d8 e g_ f f4 r |
+t: Vrací se do své půdy, když vyjde jeho dech,
+
+m: dB e8 f a_( g) g4 r ||
+t: * tehdy se zhatí všechny jeho plány.
+
+%% use: responsum
+
+%% part: verse
+
+m: c'B d8 e g_ f f4 |
+t: Šťastný, komu pomáhá Bůh Jakubův,
+
+m: r8 d8 dB e8 f a_( g) g4 ||
+t: * kdo doufá v Hospodina, svého Boha.
+
+%% part: verse
+
+m: r8 c'8 cB d8 e g_( f) f4 r |
+t: On učinil nebe i zemi,
+
+m: dB e8 f a_ g g4 r ||
+t: * moře i vše, co je v nich.
+
+%% use: responsum
+

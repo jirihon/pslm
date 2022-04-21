@@ -1,0 +1,57 @@
+%% occasion: 'Úterý 17. týdne 2'
+%% responsum_reference: 'Ž 79 (78),9bc'
+%% verse_reference: 'Ž 79 (78)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 266
+%% a: "bes'B c8 bes a_ g g2"
+%% b: "gB a8 e g_ f f2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: c'8 f8. f16 e8 d g4. a8 / bes bes / a g c4 a2 ||
+t: Pro slávu svého jména vysvoboď nás, Pane!
+
+%% part: verse
+
+m: bes'B c8 bes a_( g) g4 |
+t: Nepřipomínej nám viny předků,
+
+m: r8 g8 gB a8 e g_ f f f2 ||
+t: * tvé milosrdenství ať nám pospíchá vstříc, + vždyť jsme tak zbědovaní!
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 bes a_( g) g4 r |
+t: Pomoz nám, Bože, náš spasiteli, (+) pro slávu svého jména
+
+m: gB a8 e g_( f) f4 r ||
+t: * vysvoboď nás a odpusť nám hříchy pro své jméno.
+
+%% part: responsum_short
+
+m: c'8 f8. f16 e8 d g4. a8 / bes bes / a g c4 a4 ||
+t: Pro slávu svého jména vysvoboď nás, Pane!
+
+%% part: verse
+
+m: r8 bes'8 besB c8 bes a_ g g2 |
+t: Ať k tobě přijde vzdychání zajatých,
+
+m: gB a8 e g_( f) f4 r ||
+t: * mocí svého ramene nech naživu odsouzené na smrt.
+
+%% part: verse
+
+m: bes'B c8 bes a_ g g4 r |
+t: My však, tvůj lid a ovce tvé pastvy, + budem tě chválit na věky,
+
+m: gB a8 e g_( f) f4 r ||
+t: * po všechna pokolení budem vypravovat o tvé slávě.
+
+%% use: responsum
+

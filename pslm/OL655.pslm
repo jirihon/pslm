@@ -1,0 +1,73 @@
+%% occasion: 'Čtvrtek 16. týdne 2'
+%% responsum_reference: 'Ž 36 (35),10a'
+%% verse_reference: 'Ž 36 (35)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 264
+%% a: "bes'B a8 bes c_ a a2"
+%% b: "gB f8 g a_ f f2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 f e d / g g / f g a a a2 ||
+t: U tebe je, Bože, pramen života.
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a4 r |
+t: Hospodine, tvé milosrdenství sahá až do nebes,
+
+m: gB f8 g a_ f f4 ||
+t: * tvoje věrnost až k oblakům.
+
+%% part: verse
+
+m: r8 bes'8 besB a8 bes c_( a) a4 |
+t: Tvá spravedlnost je jak Boží hory,
+
+m: r8 g8 gB f8 g a_ f f4 r ||
+t: * tvé rozsudky jsou jak mořská hlubina.
+
+%% part: responsum_short
+
+m: f'8 f e d / g g / f g a a a4 ||
+t: U tebe je, Bože, pramen života.
+
+%% part: verse
+
+m: r8 bes'8 besB a8 bes c_( a) a4 r |
+t: Jak vzácná je tvá milost, Bože,
+
+m: gB f8 g a_( f) f4 r ||
+t: * lidé se utíkají do stínu tvých křídel.
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) a4 r |
+t: Sytí se hojností tvého domu,
+
+m: gB f8 g a_( f) f4 r ||
+t: * napájíš je proudem svého blaha.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a4 r |
+t: Neboť u tebe je pramen života,
+
+m: gB f8 g a_( f) f4 r ||
+t: * v tvé záři vidíme světlo.
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) a4 |
+t: Zachovej svou milost těm, kdo tě znají,
+
+m: r8 g8 gB f8 g a_( f) f4 r ||
+t: * svou spravedlnost těm, kdo jsou upřímného srdce!
+
+%% use: responsum
+
