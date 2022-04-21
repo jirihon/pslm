@@ -1439,6 +1439,21 @@
     "OL659": [
         "OL659"
     ],
+    "OL660": [
+        "OL660"
+    ],
+    "OL661": [
+        "OL661"
+    ],
+    "OL662": [
+        "OL662"
+    ],
+    "OL663": [
+        "OL663"
+    ],
+    "OL664": [
+        "OL664"
+    ],
     "OL677": [
         "OL677"
     ],
@@ -3367,6 +3382,24 @@
     "Čtvrtek 17. týdne 2": [
         "OL659"
     ],
+    "Pátek 17. týdne 2": [
+        "OL660"
+    ],
+    "Sobota 17. týdne 2": [
+        "OL661"
+    ],
+    "Pondělí 18. týdne 2": [
+        "OL662"
+    ],
+    "Čtvrtek 18. a 20. týdne 2": [
+        "OL663"
+    ],
+    "Sobota 19. týdne 2": [
+        "OL663"
+    ],
+    "Pátek 18. týdne 2": [
+        "OL664"
+    ],
     "Sobota 21. týdne 2": [
         "OL677"
     ],
@@ -3762,7 +3795,8 @@
     "Stvoř mi čisté srdce, Bože!": [
         "OL104",
         "OL123",
-        "OL315"
+        "OL315",
+        "OL663"
     ],
     "Hospodine, slyš mou modlitbu a volání mé ať k tobě pronikne!": [
         "OL106",
@@ -3787,7 +3821,9 @@
     ],
     "Vyslyš mě, Hospodine, ve své veliké lásce!": [
         "OL114",
-        "OL206"
+        "OL206",
+        "OL660",
+        "OL661"
     ],
     "Kalich požehnání je společenstvím Krve Kristovy.": [
         "OL116",
@@ -4221,7 +4257,8 @@
     ],
     "Nauč mě, Hospodine, svým příkazům!": [
         "OL303",
-        "OL635"
+        "OL635",
+        "OL662"
     ],
     "Ženich je tu, jděte naproti Kristu Pánu!": [
         "OL305"
@@ -4336,5 +4373,8 @@
     ],
     "Bůh je mé útočiště, když je mi úzko.": [
         "OL658"
+    ],
+    "Já usmrcuji a já oživuji.": [
+        "OL664"
     ]
 }

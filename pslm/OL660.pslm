@@ -1,0 +1,86 @@
+%% occasion: 'Pátek 17. týdne 2'
+%% responsum_reference: 'Ž 69 (68),14c'
+%% verse_reference: 'Ž 69 (68)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 269
+%% a: "as'B bes8 c c_ bes bes2"
+%% b: "fB es8 f as_ g g2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: es'8 f g as g f f4 r8 | f f4 / f8 g as / bes4. g4 r8 ||
+t: Vyslyš mě, Hospodine, ve své veliké lásce!
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes4 r |
+t: Více než mám vlasů na hlavě,
+
+m: fB es8 f as_ g g g2 ||
+t: * je těch, kteří mě bez důvodu nenávidí,
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 r |
+t: silnější než mé kosti
+
+m: fB es8 f as_ g g g4 ||
+t: * jsou ti, kteří mě stíhají bez příčiny.
+
+%% part: verse
+
+m: r8 as' bes8( c) c_ bes bes bes4 |
+t: Co jsem neuloupil,
+
+m: r8 f es8( f) as_( g) g4 r ||
+t: * to mám vrátit?
+
+%% use: responsum
+
+%% part: verse
+
+m: r8 as'8 asB bes8 c c_ bes bes4 r |
+t: Vždyť pro tebe jsem snášel potupu,
+
+m: fB es8 f as_( g) g4 ||
+t: * pohana pokryla mou tvář.
+
+%% part: verse
+
+m: r8 as'8 asB bes8 c c_ bes bes4 r |
+t: Svým bratrům stal jsem se cizincem,
+
+m: fB es8 f as_ g g2 ||
+t: * synům své matky neznámým.
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes2 |
+t: Neboť mě stravuje horlivost pro tvůj dům,
+
+m: fB es8 f as_ g g g2 ||
+t: * padají na mě urážky těch, kdo tě urážejí.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 r |
+t: Já se však, Hospodine, obracím modlitbou k tobě
+
+m: fB es8 f as_( g) g4 r ||
+t: * v čas milosti, Bože!
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 |
+t: Vyslyš mě ve své veliké lásce,
+
+m: r8 f es8 f as_( g) g4 r ||
+t: * věrně mi pomoz!
+
+%% use: responsum
+

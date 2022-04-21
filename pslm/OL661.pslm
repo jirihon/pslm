@@ -1,0 +1,78 @@
+%% occasion: 'Sobota 17. týdne 2'
+%% responsum_reference: 'Ž 69 (68),14c'
+%% verse_reference: 'Ž 69 (68)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 270
+%% a: "as'B bes8 c c_ bes bes2"
+%% b: "fB es8 f as_ g g2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: es'8 f g as g f f4 r8 | f f4 / f8 g as / bes4. g4 r8 ||
+t: Vyslyš mě, Hospodine, ve své veliké lásce!
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes4 r |
+t: Vyprosť mě z bahna, abych neutonul,
+
+m: fB es8 f as_ g g g2 ||
+t: * vysvoboď mě od těch, kteří mě nenávidí,
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 r |
+t: vytáhni mě z hluboké vody!
+
+m: fB es8 f as_( g) g4 r ||
+t: * Ať mě nezaplaví vodní příboj,
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes4 |
+t: ať mě nepohltí hlubina,
+
+m: r8 f8 fB es8 f as_( g) g4 r ||
+t: * ať propast nade mnou nezavře jícen!
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes4 r |
+t: Já jsem ubohý a plný bolesti,
+
+m: fB es8 f as_( g) g4 r ||
+t: * ať mě ochrání, Bože, tvá pomoc.
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 r |
+t: Písní budu slavit Boží jméno,
+
+m: fB es8 f as_( g) g4 r ||
+t: * velebit je budu zpěvem chvály.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes4 r |
+t: Uvědomte si to, ubožáci, a radujte se;
+
+m: fB es8 f as_( g) g4 r ||
+t: * pookřejte v srdci vy, kdo hledáte Boha!
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes4 r |
+t: Neboť Hospodin slyší chudáky,
+
+m: fB es8 f as_( g) g4 r ||
+t: * nepohrdá svými vězni.
+
+%% use: responsum
+

@@ -2503,6 +2503,30 @@
   array (
     0 => 'OL659',
   ),
+  'Pátek 17. týdne 2' => 
+  array (
+    0 => 'OL660',
+  ),
+  'Sobota 17. týdne 2' => 
+  array (
+    0 => 'OL661',
+  ),
+  'Pondělí 18. týdne 2' => 
+  array (
+    0 => 'OL662',
+  ),
+  'Čtvrtek 18. a 20. týdne 2' => 
+  array (
+    0 => 'OL663',
+  ),
+  'Sobota 19. týdne 2' => 
+  array (
+    0 => 'OL663',
+  ),
+  'Pátek 18. týdne 2' => 
+  array (
+    0 => 'OL664',
+  ),
   'Sobota 21. týdne 2' => 
   array (
     0 => 'OL677',

@@ -17,3 +17,4 @@ ne-u
 o-hra
 o-sm
 vr-hl
+u-smr
