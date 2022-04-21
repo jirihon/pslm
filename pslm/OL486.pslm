@@ -1,0 +1,57 @@
+%% occasion: 'Čtvrtek 16. týdne 1'
+%% occasion: 'Pondělí 34. týdne 1'
+%% responsum_reference: 'Dan 3,52-56'
+%% verse_reference: 'Dan 3'
+%% comment: 'Odpověď (responsum) se nepředzpěvuje, ale zpívá se po každém verši.'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 95
+%% midi: ['verse_1', 'responsum']
+%% a: "f'8 besB c8 bes a g g_ f f4"
+
+m: \key bes \major
+
+%% part: verse
+
+m: f'8 besB c8 bes a g g_( f) f4 ||
+t: Požehnaný jsi, Pane, Bože našich otců,
+
+%% part: responsum
+
+m: es'4( d8) c f d4 \breathe d8 c d / es f / g f / g a / c bes bes2 ||
+t: chvályhodný a svrchovaně velebený navěky.
+
+%% part: verse
+
+m: f'8 besB c8 bes a g g_( f) f4 ||
+t: Požehnané je tvé slavné svaté jméno,
+
+%% use: responsum
+
+%% part: verse
+
+m: f'8 besB c8 bes a g g_( f) f4 ||
+t: Požehnaný jsi ty ve svém svatém slavném chrámě,
+
+%% use: responsum
+
+%% part: verse
+
+m: f'8 besB c8( bes) a g g_( f) f4 ||
+t: Požehnaný jsi ty na svém královském trůně,
+
+%% use: responsum
+
+%% part: verse
+
+m: f'8 besB c8( bes) a g g_ f f4 ||
+t: Požehnaný jsi ty, který shlížíš na hlubiny a trůníš na cherubech,
+
+%% use: responsum
+
+%% part: verse
+
+m: f'8 besB c8( bes) a g g_( f) f4 ||
+t: Požehnaný jsi ty na klenbě nebes,
+
+%% use: responsum

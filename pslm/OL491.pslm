@@ -1,0 +1,68 @@
+%% occasion: 'Středa 17. týdne 1'
+%% responsum_reference: 'Ž 99 (98),9c'
+%% verse_reference: 'Ž 99 (98)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 100
+%% a: "c''B dB*2 b8_ b b2"
+%% b: "aB bB*2 g8_ g g2"
+%% c: "fisB eB*2 fis8 e e_ d d2"
+
+m: \key g \major
+
+%% part: responsum
+
+m: g'8 fis4 e8 a a a a / b4( fis) a8( g) g2 ||
+t: Svatý jsi, Hospodine, náš Bože!
+
+%% part: verse
+
+m: c''B dB*3 b8_ b r4 |
+t: Oslavujte Hospodina, našeho Boha,
+
+m: aB bB*2 g8_ g4. |
+t: * klaňte se u podnože jeho nohou,
+
+m: r8 e8 fis8 e e_( d) d2 ||
+t: * neboť je svatá.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B dB*2 b8_ b b4 |
+t: Mojžíš a Árón jsou mezi jeho kněžími
+
+m: r8 a8 aB bB*2 g4_ g r |
+t: * a Samuel mezi těmi, kdo vzývali jeho jméno:
+
+m: fisB e8 fis8 e e_ d d4 r ||
+t: * vzývali Hospodina, a on je vyslýchal.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B dB*3 b4_ b r |
+t: Mluvíval k nim v oblačném sloupu,
+
+m: aB bB*2 g8_ g g4 |
+t: * slýchali jeho příkazy,
+
+m: eB fis8 e e_( d) d4 r ||
+t: * zákon, který jim dal.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B dB*3 b8_ b r4 |
+t: Oslavujte Hospodina, našeho Boha,
+
+m: aB bB*2 g8_ g r4 |
+t: * klaňte se na jeho svaté hoře,
+
+m: fisB eB*4 fis8 e e_( d) d2 ||
+t: * neboť svatý je Hospodin, náš Bůh!
+
+%% use: responsum
