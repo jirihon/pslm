@@ -1,0 +1,73 @@
+%% occasion: 'Pondělí 14. týdne 1'
+%% responsum_reference: 'Srov. Ž 91 (90),15b'
+%% verse_reference: 'Ž 91 (90)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 81
+%% a: "bes'B a8 bes c_ a a2"
+%% b: "d,B e8 f a_ g g2"
+
+m: \key f \major
+
+%% part: responsum_short
+
+m: f'8 e d / d e f / g4 g ||
+t: Buď se mnou, Pane, v mé tísni.
+
+%% part: verse
+
+m: r8 bes'8 besB a8 bes c_ a a a4 r |
+t: Kdo přebýváš v ochraně Nejvyššího,
+
+m: d,B e8 f a_ g g g4 r ||
+t: * kdo dlíš ve stínu Všemocného,
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a4 r |
+t: řekni Hospodinu: (+) „Jsi mé útočiště a má tvrz,
+
+m: d,B e8 f a_( g) g2 ||
+t: * můj Bůh, v něhož doufám!“
+
+%% part: responsum
+
+m: f'8 e d / d e f / g4 g r ||
+t: Buď se mnou, Pane, v mé tísni.
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a4 r |
+t: Neboť on tě vysvobodí z léčky ptáčníka,
+
+m: d,B e8 f a_( g) g4 r ||
+t: * ze zhoubného moru.
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a a4 r |
+t: Ochrání tě svými perutěmi,
+
+m: d,B e8 f a_( g) g4 r ||
+t: * uchýlíš se pod jeho křídla.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) a4 r |
+t: „Vysvobodím ho, protože lne ke mně,
+
+m: d,B e8 f a_( g) g4 r ||
+t: * ochráním ho, protože zná mé jméno.
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) a4 r |
+t: Vyslyším ho, až mě bude vzývat,
+
+m: d,B e8 f a_( g) g4 r ||
+t: * budu při něm v tísni.“
+
+%% use: responsum
+

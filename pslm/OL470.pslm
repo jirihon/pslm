@@ -1,87 +1,89 @@
-%% occasion: '24. neděle v mezidobí B'
+%% occasion: 'Čtvrtek 13. týdne 1'
 %% responsum_reference: 'Ž 116 (114),9'
 %% verse_reference: 'Ž 116 (114)'
 %% author: olejnik
-%% source: nedelni_zaltar
-%% page: 244
+%% source: vsedni_zaltar
+%% page: 79
+%% a: "bes'B c8 g bes_ a a2"
+%% b: "d,B e8 f a_ g g2"
 
-% Tento žalm má stejné texty veršů jako publikovaný OL470
+% Tento žalm má stejné texty veršů jako publikovaný OL235
 
-m: \key g \major
+m: \key f \major
 
 %% part: responsum
 
-m: g'8 a b4 b | c8 d c b a | g e b' a~ a4 ||
+m: f'8 g a4 a | bes8 c bes a g | f d a' g~ g4 ||
 t: Budu kráčet před Hospodinem v zemi živých.
 
 %% part: verse
 
-m: aB |
+m: r8 bes' c8 g bes_ a a a4 r |
 t: Miluji Hospodina,
 
-m: bB ||
+m: d,B e8 f a_ g g g4 r ||
 t: * neboť slyšel můj prosebný hlas,
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 g bes_( a) a4 r |
 t: neboť naklonil ke mně svůj sluch
 
-m: bB ||
+m: d,B e8 f a_( g) g4 r ||
 t: * v den, kdy jsem ho vzýval.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 g bes_ a a2 |
 t: Obepjaly mě provazy smrti, + dostihly mě smyčky podsvětí,
 
-m: bB ||
+m: d,B e8 f a_( g) g4 r ||
 t: * uvízl jsem v tísni a trýzni.
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 g bes_( a) a4 |
 t: Hospodinovo jméno jsem vzýval:
 
-m: bB ||
+m: r8 d,8 dB e8 f a_( g) g4 r ||
 t: * „Ach Hospodine, zachraň mi život!“
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 g bes_ a a a4 r |
 t: Hospodin je milostivý a spravedlivý,
 
-m: bB ||
+m: d,4 e8 f a_ g g g2 ||
 t: * Bůh náš je milosrdný.
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 g bes_( a) a4 r |
 t: Hospodin chrání prosté lidi;
 
-m: bB ||
+m: d,B e8 f a_( g) g4 r ||
 t: * pomohl mi, když jsem byl v bídě.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: r8 bes'8 besB c8 g bes_ a a4 |
 t: Vždyť vysvobodil můj život ze smrti,
 
-m: bB ||
+m: r8 d, dB e8 f a_( g) g4 r ||
 t: * mé oči ze slz, mé nohy z pádu.
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 g bes_ a a4 |
 t: Budu kráčet před Hospodinem
 
-m: bB ||
+m: r8 d,8 e8( f) a_( g) g2 ||
 t: * v zemi živých.
 
 %% use: responsum

@@ -1,0 +1,83 @@
+%% occasion: 'Úterý 14. týdne 1'
+%% responsum_reference: 'Ž 17 (16),15b'
+%% verse_reference: 'Ž 17 (16)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 82
+%% a: "g'B a8 b b_ a a2"
+%% b: "eB d8 e g_ fis fis2"
+
+m: \key d \major
+
+%% part: responsum_short
+
+m: r8 fis' g fis e a fis fis fis2 | e8 b' b2 a4 / g8 a b cis a fis4 ||
+t: Až procitnu, Hospodine, nasytím se pohledem na tebe.
+
+%% part: verse
+
+m: r8 g'8 gB a8 b b_( a) a4 r |
+t: Slyš, Hospodine, spravedlivou žádost,
+
+m: eB d8 e g_ fis fis fis2 ||
+t: * všimni si mého nářku, + popřej sluchu mé modlitbě z bezelstných rtů!
+
+%% part: responsum
+
+m: r8 fis' g fis e a fis fis fis2 | e8 b' b2 a4 / g8 a b cis a fis4 r ||
+t: Až procitnu, Hospodine, nasytím se pohledem na tebe.
+
+%% part: verse
+
+m: g'B a8 b b_ a a a4 |
+t: Ty sám posuď mou spravedlnost,
+
+m: r8 e8 eB d8 e g_( fis) fis2 ||
+t: * tvé oči vidí, co je správné.
+
+%% part: verse
+
+m: g'B a8 b b_( a) a4 r |
+t: Jestliže zkoušíš mé srdce, (+) zkoumáš mě v noci, tříbíš mě ohněm,
+
+m: eB d8 e g_ fis fis fis4 r ||
+t: * nenalezneš na mně nepravosti.
+
+%% use: responsum
+
+%% part: verse
+
+m: g'B a8 b b_( a) a4 r |
+t: Volám k tobě, protože mě vyslyšíš, Bože,
+
+m: eB d8 e g_( fis) fis4 r ||
+t: * popřej mi sluchu, slyš mé slovo!
+
+%% part: verse
+
+m: g'B a8 b b_( a) a4 r |
+t: Ukaž mi svou zvláštní milost + ty, který zachraňuješ před odpůrci všechny,
+
+m: eB d8 e g_ fis fis4 r ||
+t: * kdo se utíkají k tvé pravici.
+
+%% use: responsum
+
+%% part: verse
+
+m: g'B a8 b b_( a) a4 r |
+t: Opatruj mě jako zřítelnici oka,
+
+m: eB d8 e g_( fis) fis4 r ||
+t: * do stínu svých perutí mě ukryj.
+
+%% part: verse
+
+m: g'B a8 b b_( a) a4 |
+t: Ve spravedlnosti uzřím tvou tvář,
+
+m: r8 e8 eB d8 e g_ fis fis4 r ||
+t: * až procitnu, nasytím se pohledem na tebe.
+
+%% use: responsum
+

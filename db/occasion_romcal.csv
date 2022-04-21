@@ -488,6 +488,7 @@ occasion,id,cycle
 "Sobota 9. týdne 1",ordinary_time_9_saturday,1
 "Pondělí 10. týdne 1",ordinary_time_10_monday,1
 "Úterý 10. týdne 1",ordinary_time_10_tuesday,1
+"Středa 10. týdne 1",ordinary_time_10_wednesday,1
 "Čtvrtek 10. týdne 1",ordinary_time_10_thursday,1
 "Úterý 20. týdne 1",ordinary_time_20_tuesday,1
 "Sobota 13. a 20. týdne 2",,
@@ -505,7 +506,22 @@ occasion,id,cycle
 "Pátek 11. týdne 1",ordinary_time_11_friday,1
 "Sobota 11. týdne 1",ordinary_time_11_saturday,1
 "Pondělí 12. týdne 1",ordinary_time_12_monday,1
+"Úterý 12. týdne 1",ordinary_time_12_tuesday,1
+"Úterý 33. týdne 2",ordinary_time_33_tuesday,2
+"Čtvrtek 12. týdne 1",ordinary_time_12_thursday,1
+"Pátek 13. týdne 1",ordinary_time_13_friday,1
+"Sobota 12. týdne 1",ordinary_time_12_saturday,1
+"Pondělí 13. týdne 1",ordinary_time_13_monday,1
+"Úterý 13. týdne 1",ordinary_time_13_tuesday,1
+"Středa 13. týdne 1",ordinary_time_13_wednesday,1
+"Čtvrtek 13. týdne 1",ordinary_time_13_thursday,1
+"Sobota 13. týdne 1",ordinary_time_13_saturday,1
+"Pondělí 14. týdne 1",ordinary_time_14_monday,1
+"Úterý 14. týdne 1",ordinary_time_14_tuesday,1
 "Pátek 15. týdne 1",ordinary_time_15_friday,1
+"Čtvrtek 16. týdne 1",ordinary_time_16_thursday,1
+"Pondělí 34. týdne 1",ordinary_time_34_monday,1
+"Středa 17. týdne 1",ordinary_time_17_wednesday,1
 "Sobota 18. týdne 1",ordinary_time_18_saturday,1
 "Pondělí 19. týdne 1",ordinary_time_19_monday,1
 "Pátek 30. týdne 1",ordinary_time_30_friday,1
@@ -565,6 +581,15 @@ occasion,id,cycle
 "Středa 15. týdne 2",ordinary_time_15_wednesday,2
 "Čtvrtek 15. týdne 2",ordinary_time_15_thursday,2
 "Pátek 15. týdne 2",ordinary_time_15_friday,2
+"Sobota 15. týdne 2",ordinary_time_15_saturday,2
+"Pondělí 16. týdne 2",ordinary_time_16_monday,2
+"Úterý 16. týdne 2",ordinary_time_16_tuesday,2
+"Středa 16. týdne 2",ordinary_time_16_wednesday,2
+"Čtvrtek 16. týdne 2",ordinary_time_16_thursday,2
+"Pondělí 17. a 20. týdne 2",,
+"Úterý 17. týdne 2",ordinary_time_17_tuesday,2
+"Středa 17. týdne 2",ordinary_time_17_wednesday,2
+"Čtvrtek 17. týdne 2",ordinary_time_17_thursday,2
 "Sobota 21. týdne 2",ordinary_time_21_saturday,2
 "Středa 22. týdne 2",ordinary_time_22_wednesday,2
 "Sobota 23. týdne 2",ordinary_time_23_saturday,2

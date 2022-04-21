@@ -1,0 +1,70 @@
+%% occasion: 'Sobota 13. týdne 1'
+%% responsum_reference: 'Ž 135 (134),3a'
+%% verse_reference: 'Ž 135 (134)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 80
+%% a: "c''B b_8 a a2"
+%% b: "bB a_8 g g2"
+
+m: \key c \major
+
+%% part: responsum
+
+m: c'4 d e8 g g g / a a g a b b4. ||
+t: Chvalte Hospodina, protože je dobrý.
+
+%% part: verse
+
+m: c''B b_8 a a4 r |
+t: Chvalte jméno Hospodinovo;
+
+m: bB a_8 g g g4 r ||
+t: * chvalte, Hospodinovi služebníci,
+
+%% part: verse
+
+m: c''B b_8( a) a4 r |
+t: kteří sloužíte v Hospodinově domě,
+
+m: bB a_8( g) g4 r ||
+t: * v nádvořích domu našeho Boha.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B b_8 a a4 r |
+t: Chvalte Hospodina, protože dobrý je Hospodin,
+
+m: bB a_8( g) g2 ||
+t: * opěvujte jeho jméno, protože je sladké.
+
+%% part: verse
+
+m: c''B b_8 a a4 r |
+t: Neboť Hospodin si vyvolil Jakuba,
+
+m: bB a_8 g g4 r ||
+t: * Izraele za svůj majetek.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B b_8 a a4 r |
+t: Vždyť já vím: velký je Hospodin
+
+m: bB a_8( g) g4 r ||
+t: * a náš Pán je nade všemi bohy.
+
+%% part: verse
+
+m: c''B b_8 a a4 r |
+t: Cokoli chce Hospodin, činí na nebi i na zemi,
+
+m: bB a_8 g g g4 r ||
+t: * v moři i ve všech hlubinách vod.
+
+%% use: responsum
+

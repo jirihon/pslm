@@ -1,0 +1,71 @@
+%% occasion: 'Čtvrtek 12. týdne 1'
+%% occasion: 'Pátek 13. týdne 1'
+%% responsum_reference: 'Ž 107 (106),1'
+%% verse_reference: 'Ž 106 (105)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 74
+%% a: "d'B cis8 d fis_ e e2"
+%% b: "eB fis8 g a_ fis fis2"
+
+m: \key d \major
+
+%% part: responsum
+
+m: d'8 e fis fis g a b a4 | g8 b d d d / cis fis,~ fis4 | b8 b a g fis e e2 ||
+t: Oslavujte Hospodina, neboť na věky trvá jeho milosrdenství.
+
+%% part: verse
+
+m: d'B cis8 d fis_( e) e2 |
+t: Oslavujte Hospodina, neboť je dobrý,
+
+m: eB fis8 g a_ fis fis4 ||
+t: * jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: r8 d'8 dB cis8 d fis_( e) e4 |
+t: Kdo vylíčí mocné Hospodinovy činy,
+
+m: r8 e8 eB fis8 g a_( fis) fis4 r ||
+t: * kdo vypoví všechnu jeho slávu?
+
+%% use: responsum
+
+%% part: verse
+
+m: d'B cis8 d fis_( e) e4 r |
+t: Blaze těm, kteří dbají práva,
+
+m: eB fis8 g a_( fis) fis4 r ||
+t: * spravedlivě jednají v každé době.
+
+%% part: verse
+
+m: d'B cis8 d fis_ e e e4 r |
+t: Pamatuj na mě, Hospodine,
+
+m: eB fis8 g a_( fis) fis4 r ||
+t: * pro náklonnost k svému lidu.
+
+%% use: responsum
+
+%% part: verse
+
+m: d'B cis8 d fis_ e e4 r |
+t: Ujmi se mě a pomoz mi,
+
+m: eB fis8 g a_ fis fis fis2 ||
+t: * abych se těšil ze štěstí tvých vyvolených,
+
+%% part: verse
+
+m: d'B cis8 d fis_( e) e4 r |
+t: abych se radoval z radosti tvého lidu,
+
+m: eB fis8 g a_ fis fis2 ||
+t: * abych se chlubil spolu s tvým dědictvím.
+
+%% use: responsum
+

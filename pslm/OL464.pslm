@@ -1,12 +1,12 @@
-%% occasion: '16. neděle v mezidobí C'
-%% occasion: '22. neděle v mezidobí B'
+%% occasion: 'Úterý 12. týdne 1'
+%% occasion: 'Úterý 33. týdne 2'
 %% responsum_reference: 'Ž 15 (14),1a'
 %% verse_reference: 'Ž 15 (14)'
 %% author: olejnik
-%% source: nedelni_zaltar
-%% page: 228
+%% source: vsedni_zaltar
+%% page: 73
 
-% Tento žalm má stejné texty veršů jako publikovaný OL464
+% Tento žalm má stejné texty veršů jako publikovaný OL219
 
 m: \key es \major
 
@@ -17,46 +17,46 @@ t: Hospodine, kdo smí prodlévat ve tvém stánku?
 
 %% part: verse
 
-m: aB |
+m: r8 c''8 cB bes8 c d_ bes g g4 r |
 t: Kdo žije bez vady a koná spravedlnost,
 
-m: bB ||
+m: fB es8 f bes_ g es es2 ||
 t: * upřímně smýšlí ve svém srdci, + svým jazykem nepomlouvá.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B bes8 c d_ bes( g) g4 r |
 t: Nečiní příkoří svému bližnímu,
 
-m: bB ||
+m: fB es8 f bes_( g) es es4 r ||
 t: * netupí svého souseda.
 
 %% part: verse
 
-m: aB |
+m: c''B bes8 c d_( bes) g g2 |
 t: Nešlechetným člověkem pohrdá,
 
-m: bB ||
+m: fB es8 f bes_ g es es4 r ||
 t: * ale váží si těch, kdo se bojí Hospodina.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B bes8 c d_( bes) g g4 |
 t: Nelichvaří svými penězi
 
-m: bB ||
+m: r8 f8 fB es8 f bes_ g es es4 ||
 t: * a nebere úplatky proti nevinnému.
 
 %% part: verse
 
-m: aB |
+m: r8 c''8 bes8 c d_( bes g) g2 |
 t: Kdo takto jedná,
 
-m: bB ||
+m: fB es8 f bes_ g( es) es2 ||
 t: * nikdy nezakolísá!
 
 %% use: responsum

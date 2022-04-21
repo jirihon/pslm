@@ -1,0 +1,70 @@
+%% occasion: 'Úterý 13. týdne 1'
+%% responsum_reference: 'Ž 26 (25),3a'
+%% verse_reference: 'Ž 26 (25)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 77
+%% a: "a'B g8 a b_ g g2"
+%% b: "fB e8 f g_ e e2"
+
+m: \key c \major
+
+%% part: responsum
+
+m: e'4( c) f8 f f f e / d4( g) / a8 a a a2 ||
+t: Tvou dobrotu, Pane, mám na zřeteli.
+
+%% part: verse
+
+m: a'B g8 a b_( g) g4 r |
+t: Zkoumej mě, Hospodine, a zkoušej,
+
+m: fB e8 f g_( e) e4 ||
+t: * vyšetřuj mé ledví a srdce!
+
+%% part: verse
+
+m: r8 a'8 aB g8 a b_ g g g4 r |
+t: Tvou dobrotu mám na zřeteli,
+
+m: fB e8 f g_( e) e4 r ||
+t: * jednám podle tvé pravdy.
+
+%% use: responsum
+
+%% part: verse
+
+m: a'B g8 a b_ g g4 r |
+t: Nezahlazuj mou duši s hříšníky
+
+m: fB e8 f g_ e e e4 r ||
+t: * ani můj život s vražedníky;
+
+%% part: verse
+
+m: a'B g8 a b_( g) g4 r |
+t: na jejich rukou lpí zločin,
+
+m: fB e8 f g_ e e2 ||
+t: * jejich pravice je plna ú -- platků.
+
+%% use: responsum
+
+%% part: verse
+
+m: a'B g8 a b_ g g g4 r |
+t: Já se však chovám bezúhonně,
+
+m: fB e8 f g_ e e4 ||
+t: * vysvoboď mě a smiluj se nade mnou!
+
+%% part: verse
+
+m: r8 a'8 aB g8 a b_( g) g4 r |
+t: Má noha stojí na rovné cestě,
+
+m: fB e8 f g_ e e e4 r ||
+t: * ve shromáždění budu velebit Hospodina.
+
+%% use: responsum
+
