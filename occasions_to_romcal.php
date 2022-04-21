@@ -142,6 +142,7 @@ foreach ($to_romcal as $occasion => $info) {
             $to_occasions[$id] = [$occasion];
         }
     }
+    /** @var array $cycles */
     foreach ($cycles as $cycle) {
         $key = "$id|$cycle";
         if (isset($to_occassion[$key])) {

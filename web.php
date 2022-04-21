@@ -172,6 +172,7 @@ function pslm_occasions_to_romcal() {
                 $to_occasions[$id] = [$occasion];
             }
         }
+        /** @var array $cycles */
         foreach ($cycles as $cycle) {
             $key = "$id|$cycle";
             if (isset($to_occassion[$key])) {
