@@ -1,0 +1,62 @@
+%% occasion: 'Středa 19. týdne 2'
+%% responsum_reference: 'Ž 113 (112),4b'
+%% verse_reference: 'Ž 113 (112)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 277
+%% a: "f'B g8 d f_ e e2"
+%% b: "d8 a'B b8 a a_ g g2"
+
+m: \key c \major
+
+%% part: responsum
+
+m: c''8 c b a a4( g) | a4. a8 / g f e d d2 ||
+t: Nad nebesa je sláva Hospodinova.
+
+%% part: verse
+
+m: f'B g8 d f_ e e e4 r |
+t: Chvalte, Hospodinovi služebníci,
+
+m: d8 a'B b8 a a_ g g4 ||
+t: * chvalte jméno Hospodinovo!
+
+%% part: verse
+
+m: r8 f'8 fB g8 d f_( e) e4 |
+t: Buď velebeno Hospodinovo jméno
+
+m: r8 a8 b8 a a_ g g4 r ||
+t: * nyní i na věky!
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B g8 d f_( e) e4 |
+t: Od východu slunce až na jeho západ
+
+m: r8 d8 a'B b8 a a_( g) g4 r ||
+t: * buď chváleno Hospodinovo jméno!
+
+%% part: verse
+
+m: f'B g8 d f_ e e4 r |
+t: Povznesen je Hospodin nade všechny národy,
+
+m: d8 a'B b8 a a_( g) g4 r ||
+t: * nad nebesa jeho sláva.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B g8 d f_ e e e4 |
+t: Kdo je jako Hospodin, náš Bůh, + který trůní na výsosti
+
+m: r8 d8 a'B b8 a a_( g) g4 r ||
+t: * a shlíží dolů na nebe i na zem?
+
+%% use: responsum
+

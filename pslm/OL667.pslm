@@ -1,0 +1,80 @@
+%% occasion: 'Úterý 19. týdne 2'
+%% occasion: 'Pátek 33. týdne 2'
+%% responsum_reference: 'Ž 119 (118),97a'
+%% verse_reference: 'Ž 119 (118)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 276
+%% a: "as'B bes8 c c_ bes bes2"
+%% b: "fB es8 f as_ g g2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: bes4 | f'8 es d es as2 f4 | bes8 bes g es4 r ||
+t: Jak miluji tvůj zákon, Hospodine.
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes2 |
+t: Raduji se na cestě tvých přikázání
+
+m: fB es8 f as_ g g2 ||
+t: * jako z velkého bohatství.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes4 |
+t: Vždyť tvá přikázání jsou mým potěšením,
+
+m: r8 f8 fB es8 f as_( g) g4 r ||
+t: * tvé příkazy jsou mými rádci.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 |
+t: Lepší je pro mě zákon tvých úst
+
+m: r8 f8 fB es8 f as_( g) g4 r ||
+t: * než tisíce ve zlatě a stříbře.
+
+%% part: responsum_short
+
+m: bes4 | f'8 es d es as2 f4 | bes8 bes g es4 ||
+t: Jak miluji tvůj zákon, Hospodine.
+
+%% part: verse
+
+m: r8 as'8 asB bes8 c c_ bes bes4 r |
+t: Jak sladké jsou na mém patru tvé výroky,
+
+m: fB es8 f as_( g) g4 r ||
+t: * nad med jsou sladší pro má ústa.
+
+%% use: responsum_short
+
+%% part: verse
+
+m: r8 as'8 asB bes8 c c_ bes bes bes2 |
+t: Mým dědictvím na věky jsou tvá přikázání,
+
+m: fB es8 f as_( g) g4 r ||
+t: * neboť jsou radostí mého srdce.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes4 r |
+t: Otvírám ústa a nabírám dech,
+
+m: fB es8 f as_ g g4 r ||
+t: * neboť toužím po tvých předpisech.
+
+%% use: responsum
+

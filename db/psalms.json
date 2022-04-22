@@ -1454,6 +1454,21 @@
     "OL664": [
         "OL664"
     ],
+    "OL665": [
+        "OL665"
+    ],
+    "OL666": [
+        "OL666"
+    ],
+    "OL667": [
+        "OL667"
+    ],
+    "OL668": [
+        "OL668"
+    ],
+    "OL669": [
+        "OL669"
+    ],
     "OL677": [
         "OL677"
     ],
@@ -3400,6 +3415,24 @@
     "Pátek 18. týdne 2": [
         "OL664"
     ],
+    "Sobota 18. týdne 2": [
+        "OL665"
+    ],
+    "Pondělí 19. týdne 2": [
+        "OL666"
+    ],
+    "Úterý 19. týdne 2": [
+        "OL667"
+    ],
+    "Pátek 33. týdne 2": [
+        "OL667"
+    ],
+    "Středa 19. týdne 2": [
+        "OL668"
+    ],
+    "Čtvrtek 19. týdne 2": [
+        "OL669"
+    ],
     "Sobota 21. týdne 2": [
         "OL677"
     ],
@@ -3938,7 +3971,8 @@
     ],
     "Jinoši a panny, chvalte Hospodinovo jméno!": [
         "OL165",
-        "OL325"
+        "OL325",
+        "OL666"
     ],
     "Bůh se vznáší za jásotu, Hospodin vystupuje za hlaholu polnice.": [
         "OL166",
@@ -4085,7 +4119,8 @@
         "OL220",
         "OL437",
         "OL619",
-        "OL641"
+        "OL641",
+        "OL667"
     ],
     "Otvíráš svou ruku a sytíš nás, Hospodine.": [
         "OL221",
@@ -4211,7 +4246,8 @@
     ],
     "Nezapomínejte na Boží skutky!": [
         "OL280",
-        "OL405"
+        "OL405",
+        "OL669"
     ],
     "Ty, Hospodine, vládneš nade vším.": [
         "OL283",
@@ -4376,5 +4412,11 @@
     ],
     "Já usmrcuji a já oživuji.": [
         "OL664"
+    ],
+    "Neopouštíš, Hospodine, ty, kteří tě hledají.": [
+        "OL665"
+    ],
+    "Nad nebesa je sláva Hospodinova.": [
+        "OL668"
     ]
 }

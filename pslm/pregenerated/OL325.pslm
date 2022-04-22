@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 335
 
-m: \key c \major
+m: \key d \major
 
 %% part: responsum
 
-m: bB ||
+m: d'8 d e fis g4 e | e8 e / e d e / fis g / a4 fis r ||
 t: Jinoši a panny, chvalte Hospodinovo jméno!
 
 %% part: verse
