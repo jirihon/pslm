@@ -6,11 +6,11 @@
 %% source: nedelni_zaltar
 %% page: 300
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: f'8 g f d g f4 e8 / d f a2 | bes8 bes a g / c4 a r ||
 t: Naše duše vyvázla jako pták z ptáčníkovy léčky.
 
 %% part: verse
