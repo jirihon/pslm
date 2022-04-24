@@ -1,0 +1,79 @@
+%% occasion: 'Pondělí 22. týdne 2'
+%% responsum_reference: 'Ž 119 (118),97a'
+%% verse_reference: 'Ž 119 (118)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 287
+%% a: "as'B bes8 c c_ bes bes2"
+%% b: "fB es8 f as_ g g2"
+
+m: \key es \major
+
+%% part: responsum_short
+
+m: bes4 | f'8 es d es as2 f4 | bes8 bes g es4 ||
+t: Jak miluji tvůj zákon, Hospodine.
+
+%% part: verse
+
+m: r8 as'8 asB bes8 c c_ bes bes bes4 r |
+t: Jak miluji tvůj zákon, Hospodine!
+
+m: fB es8 f as_ g g2 ||
+t: * Po celý den o něm rozjímám.
+
+%% part: responsum
+
+m: bes4 | f'8 es d es as2 f4 | bes8 bes g es4 r ||
+t: Jak miluji tvůj zákon, Hospodine.
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 r |
+t: Moudřejším nad mé nepřátele mě učinil tvůj předpis,
+
+m: fB es8 f as_( g) g2 ||
+t: * neboť na věky je se mnou.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes4 r |
+t: Rozumnější jsem nad všechny své učitele,
+
+m: fB es8 f as_ g g g2 ||
+t: * neboť rozjímám o tvých přikázáních.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes4 r |
+t: Rozvážnější jsem nad starce,
+
+m: fB es8 f as_ g g g2 ||
+t: * neboť zachovávám tvá nařízení.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 r |
+t: Zadržuji své nohy od každé zlé cesty,
+
+m: fB es8 f as_( g) g4 r ||
+t: * abych dbal na tvá slova.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes2 |
+t: Neuchyluji se od tvých rozhodnutí,
+
+m: fB es8 f as_ g g4 r ||
+t: * protože tys mě poučil.
+
+%% use: responsum
+
