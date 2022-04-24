@@ -1,0 +1,87 @@
+%% occasion: 'Čtvrtek 15. týdne 1'
+%% responsum_reference: 'Ž 105 (104),8a'
+%% verse_reference: 'Ž 105 (104)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 89
+%% a: "b'B cis8 b b_ a a2"
+%% b: "gB a8 g fis_ e e2"
+
+m: \key d \major
+
+%% part: responsum
+
+m: r8 d' e fis g g g fis / fis( e) e4 | r8 e fis g / a4( fis) fis2 ||
+t: Hospodin pamatuje věčně na svoji smlouvu.
+
+%% part: verse
+
+m: b'B cis8 b b_( a) a4 r |
+t: Oslavujte Hospodina, vzývejte jeho jméno,
+
+m: gB a8 g fis_( e) e4 r ||
+t: * hlásejte mezi národy jeho díla.
+
+%% part: verse
+
+m: b'B cis8 b b_ a a4 r |
+t: Pamatujte na divy, které učinil,
+
+m: gB a8 g fis_ e e2 ||
+t: * na jeho zázraky a rozsudky jeho úst.
+
+%% use: responsum
+
+%% part: verse
+
+m: b'B cis8 b b_( a) a4 r |
+t: Pamatuje věčně na svoji smlouvu,
+
+m: gB a8 g fis_ e e e2 ||
+t: * na slib, který ustanovil pro tisíc pokolení,
+
+%% part: verse
+
+m: b'B cis8 b b_ a a a4 r |
+t: na smlouvu, kterou sjednal s Abrahámem,
+
+m: gB a8 g fis_ e e e4 r ||
+t: * na svou přísahu Izákovi.
+
+%% use: responsum
+
+%% part: verse
+
+m: b'B cis8 b b_( a) a4 |
+t: Nadmíru rozmnožil svůj národ
+
+m: r8 g8 gB a8 g fis_ e e e2 ||
+t: * a dal mu větší sílu než jeho protivníkům.
+
+%% part: verse
+
+m: b'B cis8 b b_( a) a4 |
+t: Zvrátil jim srdce, že nenáviděli jeho národ,
+
+m: r8 g8 gB a8 g fis_ e e e4 r ||
+t: * že lstivě jednali s jeho služebníky.
+
+%% use: responsum
+
+%% part: verse
+
+m: b'B cis8 b b_ a a a4 r |
+t: Tehdy poslal Mojžíše, svého služebníka,
+
+m: gB a8 g fis_ e e4 r ||
+t: * Áróna, jehož si vyvolil.
+
+%% part: verse
+
+m: b'B cis8 b b(_ a) a |
+t: Dělali mezi nimi jeho divy
+
+m: r8 g8 gB a8 g fis_( e) e4 r ||
+t: * a zázraky v Chámově zemi.
+
+%% use: responsum

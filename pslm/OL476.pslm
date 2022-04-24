@@ -1,0 +1,70 @@
+%% occasion: 'Sobota 14. týdne 1'
+%% responsum_reference: 'Ž 105 (104),3b'
+%% verse_reference: 'Ž 105 (104)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 85
+%% a: "bes'B c8 d d_ c c2"
+%% b: "gB f8 g bes_ a a2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 f f e d g g g4. \breathe / a8 bes a g / a c c c2 ||
+t: Ze srdce ať se radují, kdo hledají Hospodina.
+
+%% part: verse
+
+m: bes'B c8 d d_( c) c4 r |
+t: Oslavujte Hospodina, vzývejte jeho jméno,
+
+m: gB f8 g bes_( a) a4 r ||
+t: * hlásejte mezi národy jeho díla.
+
+%% part: verse
+
+m: bes'B c8 d d_ c c4 r |
+t: Zpívejte mu, hrejte mu,
+
+m: gB f8 g bes_( a) a4 r ||
+t: * vypravujte o všech jeho divech!
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 d d_( c) c4 r |
+t: Honoste se jeho svatým jménem,
+
+m: gB f8 g bes_ a a a4 r ||
+t: * ze srdce ať se radují, kdo hledají Hospodina!
+
+%% part: verse
+
+m: bes'B c8 d d_( c) c4 r |
+t: Uvažujte o Hospodinu a jeho moci,
+
+m: gB f8 g bes_ a a2 ||
+t: * hledejte stále jeho tvář!
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 d d_ c c c4 r |
+t: Potomstvo Abraháma, jeho služebníka,
+
+m: gB f8 g bes_ a a4 r ||
+t: * synové Jakuba, jeho vyvoleného!
+
+%% part: verse
+
+m: bes'B c8 d d_( c) c2 |
+t: Hospodin sám je náš Bůh,
+
+m: gB f8 g bes_ a a a2 ||
+t: * po celé zemi platí jeho rozhodnutí.
+
+%% use: responsum
+

@@ -1,0 +1,95 @@
+%% occasion: 'Pondělí 15. týdne 1'
+%% occasion: 'Středa 29. týdne 1'
+%% responsum_reference: 'Ž 124 (123),7'
+%% verse_reference: 'Ž 124 (123)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 86
+%% a: "bes'B c8 d d_ c c2"
+%% b: "gB f8 g bes_ a a2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 g f d g f4 e8 / d f a2 | bes8 bes a g / c4 a r ||
+t: Naše duše vyvázla jako pták z ptáčníkovy léčky.
+
+%% part: verse
+
+m: bes'B c8 d d_( c) c4 r |
+t: Kdyby Hospodin nebyl s námi,
+
+m: gB f8 g bes_ a a4 r ||
+t: * ať to vyzná Izrael,
+
+%% part: verse
+
+m: bes'B c8 d d_( c) c4 r |
+t: kdyby Hospodin nebyl s námi,
+
+m: gB f8 g bes_ a a a4 r ||
+t: * když se na nás lidé obořili,
+
+%% part: verse
+
+m: bes'B c8 d d_ c c c4 |
+t: zaživa by nás pohltili,
+
+m: r8 g8 gB f8 g bes_ a a2 ||
+t: * když jejich hněv vzplál proti nám.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 d d_ c c c4 r |
+t: Voda by nás byla zatopila,
+
+m: gB f8 g bes_( a) a2 ||
+t: * příval by se byl přelil přes nás,
+
+%% part: verse
+
+m: bes'B c8 d d_ c c c4 r |
+t: přes nás by se převalily
+
+m: gB f8 g bes_( a) a4 r ||
+t: * rozbouřené vody.
+
+%% part: verse
+
+m: bes'B c8 d d_ c c4 r |
+t: Veleben buď Hospodin, že nás nevydal
+
+m: gB f8 g bes_( a) a2 ||
+t: * za kořist jejich zubům!
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 d d_ c c2 |
+t: Naše duše vyvázla jako pták
+
+m: gB f8 g bes_( a) a4 ||
+t: * z ptáčníkovy léčky;
+
+%% part: verse
+
+m: r8 bes' c8 d d_ c c4 |
+t: léčka se přetrhla,
+
+m: r8 g8 f8 g bes_( a) a2 ||
+t: * a my jsme volní.
+
+%% part: verse
+
+m: bes'B c8 d d_ c c c4 r |
+t: Naše pomoc je ve jménu Hospodina,
+
+m: gB f8 g bes_( a) a4 r ||
+t: * který učinil nebe a zemi.
+
+%% use: responsum
+
