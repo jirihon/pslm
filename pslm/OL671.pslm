@@ -1,0 +1,91 @@
+%% occasion: 'Úterý 20. týdne 2'
+%% responsum_reference: 'Dt 32,39c'
+%% verse_reference: 'Dt 32'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 280
+%% a: "c''B b8_ a a2"
+%% b: "bB a8_ g g2"
+
+m: \key c \major
+
+%% part: responsum
+
+m: g'4( e) a8 a a a / g4 a / b8 b b b2 ||
+t: Já usmrcuji a já oživuji.
+
+%% part: verse
+
+m: c''B b8_ a a4 r |
+t: Řekl jsem: „Jako prach bych je rozprášil,
+
+m: bB a8_( g) g4 r ||
+t: * památku na ně bych vyhladil mezi lidmi,
+
+%% part: verse
+
+m: c''B b8_ a a4 r |
+t: kdybych se nebál drzosti nepřátel,
+
+m: bB a8_ g g g4 r ||
+t: * kdyby mnou nezhrdali jejich protivníci.
+
+%% part: responsum_short
+
+m: g'4( e) a8 a a a / g4 a / b8 b b b4 ||
+t: Já usmrcuji a já oživuji.
+
+%% part: verse
+
+m: r8 c''8 cB b8_ a a a4 r |
+t: Ať neříkají: Naše moc zvítězila,
+
+m: bB a8_ g g4 r ||
+t: * nebyl to Hospodin, který to všechno učinil!
+
+%% part: verse
+
+m: c''B b8_ a a4 r |
+t: Vždyť je to lid zbavený rozumu,
+
+m: bB a8_ g g g2 ||
+t: * není prozíravý.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B b8_( a) a2 |
+t: Jak by mohl jeden pronásledovat tisíc,
+
+m: bB a8_( g) g2 ||
+t: * jak by mohli dva zahnat deset tisíc,
+
+%% part: verse
+
+m: c''B b8_( a) a4 |
+t: kdyby je neprodala jejich Skála
+
+m: r8 b8 bB a8_ g g g4 r ||
+t: * a Hospodin je neopustil?
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B b8_( a) a4 r |
+t: Blízký je den jejich zkázy,
+
+m: bB a8_ g g g2 ||
+t: * rychle přijde osud jim stanovený,
+
+%% part: verse
+
+m: c''B b8_( a) a4 r |
+t: neboť Hospodin se ujme práva svého lidu,
+
+m: bB a8_ g g g4 r ||
+t: * smiluje se nad svými služebníky.“
+
+%% use: responsum
+
