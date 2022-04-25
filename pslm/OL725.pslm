@@ -1,0 +1,75 @@
+%% occasion: 'Čtvrtek 33. týdne 2'
+%% responsum_reference: 'Zj 5,10'
+%% verse_reference: 'Ž 149'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 334
+%% a: "c''B b8 a a_ g g2"
+%% b: "aB g8 f e_ d d2"
+
+% Tento žalm má stejné texty veršů jako publikovaný OL58, OL444
+
+m: \key c \major
+
+%% part: responsum
+
+m: e'8 d c d e2 / f8 f f / e g / a4. a8 g4 / a b8 b~ b4 r ||
+t: Vytvořil jsi z nás našemu Bohu království a kněze.
+
+%% part: verse
+
+m: c''B b8 a a_( g) g4 r |
+t: Zpívejte Hospodinu novou píseň,
+
+m: aB g8 f e_( d) d2 ||
+t: * jeho chvála ať zaznívá ve sboru svatých.
+
+%% part: verse
+
+m: c''B b8 a a_( g) g4 r |
+t: Ať se raduje Izrael ze svého tvůrce,
+
+m: aB g8 f e_( d) d4 r ||
+t: * synové Siónu ať jásají nad svým králem.
+
+%% part: responsum_short
+
+m: e'8 d c d e2 / f8 f f / e g / a4. a8 g4 / a b8 b~ b4 ||
+t: Vytvořil jsi z nás našemu Bohu království a kněze.
+
+%% part: verse
+
+m: r8 c''8 cB b8 a a_( g) g4 r |
+t: Ať chválí jeho jméno tancem,
+
+m: aB g8 f e_ d d d4 r ||
+t: * ať mu hrají na buben a na citeru,
+
+%% part: verse
+
+m: c''B b8 a a_( g) g4 |
+t: neboť Hospodin miluje svůj národ
+
+m: r8 a8 aB g8 f e_ d d2 ||
+t: * a pokorné zdobí vítězstvím.
+
+%% use: responsum
+
+%% part: verse
+
+m: r8 c''8 cB b8 a a_ g g g4 r |
+t: Ať svatí jásají chvalozpěvem,
+
+m: aB g8 f e_( d) d2 ||
+t: * ať se veselí na svých ložích.
+
+%% part: verse
+
+m: c''B b8 a a_( g) g4 |
+t: Boží chválu ať mají v hrdlech.
+
+m: r8 a8 aB g8 f e_( d) d4 r ||
+t: * Všem jeho svatým bude to ke cti.
+
+%% use: responsum
+

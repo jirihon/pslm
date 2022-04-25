@@ -1613,6 +1613,60 @@
     "OL710": [
         "OL710"
     ],
+    "OL711": [
+        "OL711"
+    ],
+    "OL712": [
+        "OL712"
+    ],
+    "OL713": [
+        "OL713"
+    ],
+    "OL714": [
+        "OL714"
+    ],
+    "OL715": [
+        "OL715"
+    ],
+    "OL716": [
+        "OL716"
+    ],
+    "OL717": [
+        "OL717"
+    ],
+    "OL718": [
+        "OL718"
+    ],
+    "OL719": [
+        "OL719"
+    ],
+    "OL720": [
+        "OL720"
+    ],
+    "OL721": [
+        "OL721"
+    ],
+    "OL722": [
+        "OL722"
+    ],
+    "OL723": [
+        "OL723"
+    ],
+    "OL724": [
+        "OL724"
+    ],
+    "OL725": [
+        "OL725"
+    ],
+    "OL726": [
+        "OL726"
+    ],
+    "OL727": [
+        "OL727"
+    ],
+    "OL728": [
+        "OL728"
+    ],
     "1. neděle adventní A": [
         "OL1",
         "OL2"
@@ -3712,12 +3766,70 @@
     "Pátek 28. týdne 2": [
         "OL710"
     ],
+    "Sobota 28. týdne 2": [
+        "OL711"
+    ],
+    "Středa 29. týdne 2": [
+        "OL712"
+    ],
+    "Čtvrtek 29. týdne 2": [
+        "OL713"
+    ],
+    "Sobota 29. týdne 2": [
+        "OL714"
+    ],
+    "Pátek 31. týdne 2": [
+        "OL714"
+    ],
+    "Středa 30. týdne 2": [
+        "OL715"
+    ],
+    "Sobota 30. týdne 2": [
+        "OL716"
+    ],
+    "Úterý 31. týdne 2": [
+        "OL717"
+    ],
+    "Středa 31. týdne 2": [
+        "OL718"
+    ],
+    "Čtvrtek 31. týdne 2": [
+        "OL719"
+    ],
+    "Sobota 31. týdne 2": [
+        "OL720"
+    ],
+    "Úterý 32. týdne 2": [
+        "OL721"
+    ],
+    "Čtvrtek 32. týdne 2": [
+        "OL722"
+    ],
+    "Pátek 32. týdne 2": [
+        "OL723"
+    ],
+    "Středa 33. týdne 2": [
+        "OL724"
+    ],
+    "Čtvrtek 33. týdne 2": [
+        "OL725"
+    ],
+    "Středa 34. týdne 2": [
+        "OL726"
+    ],
+    "Pátek 34. týdne 2": [
+        "OL727"
+    ],
+    "Sobota 34. týdne 2": [
+        "OL728"
+    ],
     "Do domu Hospodinova s radostí půjdeme.": [
         "OL1",
         "OL6",
         "OL157",
         "OL254",
-        "OL295"
+        "OL295",
+        "OL714"
     ],
     "Zaradoval jsem se, když mi řekli: „Do domu Hospodinova půjdeme!“": [
         "OL2"
@@ -3759,7 +3871,8 @@
         "OL316",
         "OL335",
         "OL421",
-        "OL625"
+        "OL625",
+        "OL718"
     ],
     "Pán je mé světlo a má spása.": [
         "OL11"
@@ -3802,7 +3915,8 @@
     "Budu tě oslavovat na věky, můj Bože, králi.": [
         "OL19",
         "OL154",
-        "OL679"
+        "OL679",
+        "OL715"
     ],
     "Blaze tomu, kdo svou naději vložil do Hospodina.": [
         "OL20",
@@ -3916,7 +4030,8 @@
         "OL50",
         "OL128",
         "OL402",
-        "OL424"
+        "OL424",
+        "OL711"
     ],
     "Bože, buď milostiv a žehnej nám!": [
         "OL51"
@@ -3951,7 +4066,8 @@
         "OL430"
     ],
     "Budete vážit vodu s radostí z pramenů spásy.": [
-        "OL65"
+        "OL65",
+        "OL712"
     ],
     "Smiluj se, Pane, neboť jsme zhřešili.": [
         "OL67",
@@ -3996,7 +4112,8 @@
         "OL77",
         "OL141",
         "OL195",
-        "OL282"
+        "OL282",
+        "OL723"
     ],
     "Ať spočine na nás, Hospodine, tvé milosrdenství, jak doufáme v tebe.": [
         "OL78",
@@ -4045,7 +4162,8 @@
     "Kéž byste dnes uposlechli jeho hlasu: „Nezatvrzujte svá srdce!“": [
         "OL86",
         "OL294",
-        "OL404"
+        "OL404",
+        "OL728"
     ],
     "Zaslechnete-li dnes jeho hlas, nezatvrzujte svá srdce!": [
         "OL87"
@@ -4056,7 +4174,8 @@
     "Má duše žízní po tobě, Pane, Bože můj!": [
         "OL90",
         "OL208",
-        "OL342"
+        "OL342",
+        "OL716"
     ],
     "Rozpomeň se, Hospodine, na své slitování.": [
         "OL91"
@@ -4155,7 +4274,8 @@
         "OL126",
         "OL324",
         "OL443",
-        "OL676"
+        "OL676",
+        "OL713"
     ],
     "Ochraň mě, Bože, neboť se k tobě utíkám.": [
         "OL120",
@@ -4173,7 +4293,8 @@
     ],
     "Ze srdce ať se radují, kdo hledají Hospodina.": [
         "OL127",
-        "OL476"
+        "OL476",
+        "OL719"
     ],
     "Kámen, který stavitelé zavrhli, stal se kvádrem nárožním.": [
         "OL129",
@@ -4231,7 +4352,8 @@
     "Budu tě chválit, Hospodine, ve velkém shromáždění.": [
         "OL153",
         "OL319",
-        "OL418"
+        "OL418",
+        "OL717"
     ],
     "Nikoliv nám, Hospodine, ale svému jménu zjednej slávu.": [
         "OL155"
@@ -4436,7 +4558,8 @@
         "OL234",
         "OL449",
         "OL458",
-        "OL659"
+        "OL659",
+        "OL722"
     ],
     "Vstanu a půjdu k svému Otci.": [
         "OL236"
@@ -4557,7 +4680,8 @@
     ],
     "Zpívejte Hospodinu píseň novou, protože učinil podivuhodné věci.": [
         "OL287",
-        "OL412"
+        "OL412",
+        "OL726"
     ],
     "Naše duše vyvázla jako pták z ptáčníkovy léčky.": [
         "OL290",
@@ -4569,7 +4693,8 @@
         "OL687"
     ],
     "Hle, stánek Boží mezi lidmi!": [
-        "OL293"
+        "OL293",
+        "OL727"
     ],
     "Radostně půjdeme do domu Pánova.": [
         "OL296"
@@ -4581,7 +4706,8 @@
         "OL301",
         "OL415",
         "OL436",
-        "OL682"
+        "OL682",
+        "OL721"
     ],
     "Hospodinovy výroky jsou pravdivé, všechny jsou spravedlivé.": [
         "OL302",
@@ -4606,7 +4732,8 @@
         "OL308",
         "OL446",
         "OL447",
-        "OL459"
+        "OL459",
+        "OL720"
     ],
     "Chci dobrořečit Pánu v každé chvíli.": [
         "OL311"
@@ -4735,5 +4862,11 @@
     ],
     "Ať se mi dostane tvého slitování, Hospodine, abych byl živ.": [
         "OL708"
+    ],
+    "Svatý, svatý, svatý, Pán, Bůh vševládný.": [
+        "OL724"
+    ],
+    "Vytvořil jsi z nás našemu Bohu království a kněze.": [
+        "OL725"
     ]
 }

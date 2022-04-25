@@ -1,0 +1,88 @@
+%% occasion: 'Středa 34. týdne 2'
+%% responsum_reference: 'Ž 98 (97),1a'
+%% verse_reference: 'Ž 98 (97)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 335
+%% a: "c''B c8_ bes bes2"
+%% b: "asB g8_ f f2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: es'4 d8 c f f f f | r f( es) d / g g~ g4 | r8 as bes c / c bes bes4 | as8 as as bes c c( bes) bes4 ||
+t: Zpívejte Hospodinu píseň novou, protože učinil podivuhodné věci.
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 r |
+t: Zpívejte Hospodinu novou píseň,
+
+m: asB g8_( f) f4 r ||
+t: * neboť učinil podivuhodné věci.
+
+%% part: verse
+
+m: c''B c8_ bes bes4 r |
+t: Vítězství je dílem jeho pravice,
+
+m: asB g8_ f f4 r ||
+t: * jeho svatého ramene.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 r |
+t: Hospodin uvedl ve známost svou spásu,
+
+m: asB g8_ f f f4 r ||
+t: * před zraky pohanů zjevil svou spravedlnost.
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 r |
+t: Rozpomenul se na svou dobrotu a věrnost
+
+m: asB g8_( f) f4 r ||
+t: * Izraelovu domu.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_ bes bes bes4 r |
+t: Zahuč, moře a vše, co je naplňuje,
+
+m: asB g8_ f f f2 ||
+t: * svět i všichni, kdo jej obývají.
+
+%% part: verse
+
+m: c''B c8_ bes bes4 r |
+t: Řeky, tleskejte rukama,
+
+m: asB g8_ f f f4 r ||
+t: * hory, spolu zajásejte.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 |
+t: Před Hospodinem, že přišel,
+
+m: r8 as8 asB g8_( f) f4 r ||
+t: * že přišel, aby spravoval zemi,
+
+%% part: verse
+
+m: c''B c8_ bes bes4 |
+t: aby spravoval svět ve spravedlnosti
+
+m: r8 as8 asB g8_( f) f4 r ||
+t: * a národy podle práva.
+
+%% use: responsum
+

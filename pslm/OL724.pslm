@@ -1,69 +1,69 @@
-%% occasion: 'Čtvrtek 23. týdne 1'
-%% responsum_reference: 'Ž 150,6'
+%% occasion: 'Středa 33. týdne 2'
+%% responsum_reference: 'Zj 4,8b'
 %% verse_reference: 'Ž 150'
 %% author: olejnik
 %% source: vsedni_zaltar
-%% page: 134
+%% page: 333
+%% a: "e'B fis8 g a_ b a a2"
+%% b: "aB g8 a b_ c b b2"
 
-% Tento žalm má stejné texty veršů jako publikovaný OL724
-
-m: \key c \major
+m: \key g \major
 
 %% part: responsum
 
-m: bB ||
-t: Všechno, co dýchá, ať chválí Hospodina!
+m: b'8 b a g c a4. | d4 c / b g | g2. r4 ||
+t: Svatý, svatý, svatý, Pán, Bůh vševládný.
 
 %% part: verse
 
-m: aB |
+m: e'B fis8 g a_( b) a a4 r |
 t: Chvalte Hospodina v jeho svatyni,
 
-m: bB ||
+m: aB g8 a b_( c) b b4 r ||
 t: * chvalte ho na jeho vznešené obloze!
 
 %% part: verse
 
-m: aB |
+m: e'B fis8 g a_( b a) a4 r |
 t: Chvalte ho pro jeho mocná díla,
 
-m: bB ||
+m: aB g8 a b_( c) b b4 r ||
 t: * chvalte ho pro jeho svrchovanou velebnost!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: e'B fis8 g a_( b) a a4 r |
 t: Chvalte ho hlaholem polnice,
 
-m: bB ||
+m: aB g8 a b_( c) b b2 ||
 t: * chvalte ho harfou a citerou!
 
 %% part: verse
 
-m: aB |
+m: e'B fis8 g a_( b a) a4 r |
 t: Chvalte ho bubnem a tancem,
 
-m: bB ||
+m: aB g8 a b_( c b) b2 ||
 t: * chvalte ho strunnými nástroji a flétnou!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: e'B fis8 g a_ b( a) a4 r |
 t: Chvalte ho zvučnými cimbály,
 
-m: bB ||
+m: aB g8 a b_ c( b) b4 ||
 t: * chvalte ho cimbály hlučnými!
 
 %% part: verse
 
-m: aB |
+m: r8 e' fis8 g a_( b a) a4 |
 t: Všechno, co dýchá,
 
-m: bB ||
+m: r8 a8 g8 a b_ c b b4 r ||
 t: * ať chválí Hospodina!
 
 %% use: responsum

@@ -11,7 +11,7 @@ m: \key c \major
 
 %% part: responsum
 
-m: g'4 e4. g8 c c b a a( g) g2 ||
+m: g'4 e4. g8 / c c / b a a( g) g2 ||
 t: Hle, stánek Boží mezi lidmi!
 
 %% part: verse
@@ -24,7 +24,7 @@ t: * mé srdce i mé tělo s jásotem tíhnou k živému Bohu.
 
 %% part: responsum_short
 
-m: g'4 e4. g8 c c b a a( g) g4 ||
+m: g'4 e4. g8 / c c / b a a( g) g4 ||
 t: Hle, stánek Boží mezi lidmi!
 
 %% part: verse

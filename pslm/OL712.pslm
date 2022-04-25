@@ -1,13 +1,11 @@
-%% occasion: 'Křtu Páně B (pokud se čte čtení z Iz 55,1-11)'
-%% occasion: 'Zmrtvýchvstání Páně, vigilie (5. čtení)'
-%% occasion: 'Nejsvětějšího Srdce Ježíšova B'
-%% responsum_reference: 'Iz 12,3 R Q .'
+%% occasion: 'Středa 29. týdne 2'
+%% responsum_reference: 'Iz 12,3'
 %% verse_reference: 'Iz 12'
 %% author: olejnik
-%% source: nedelni_zaltar
-%% page: 73
+%% source: vsedni_zaltar
+%% page: 321
 
-% Tento žalm má stejné texty veršů jako publikovaný OL712
+% Tento žalm má stejné texty veršů jako publikovaný OL65
 
 m: \key bes \major
 
@@ -16,64 +14,67 @@ m: \key bes \major
 m: f'8 d f g4. f8 / g a / bes bes bes4. \breathe / c8 a g / f4 f2 ||
 t: Budete vážit vodu s radostí z pramenů spásy.
 
-%% part: verse
+%% part: verse	
 
-m: aB |
+m: es'4 f8 c d4_ d r |
 t: Bůh je má spása!
 
-m: bB ||
+m: c8 g'B a8 a f4_ f r ||
 t: * Bez obavy mohu doufat.
 
 %% part: verse
 
-m: aB |
+m: es'B f8 c d4_ d r |
 t: Hospodin je má síla a má chvála,
 
-m: bB ||
+m: r8 g a8 a f4_ f2 ||
 t: * stal se mou spásou.
 
 %% part: verse
 
-m: aB |
+m: es'B f8 c d_ d d2 |
 t: Budete vážit vodu s radostí
 
-m: bB ||
+m: r8 g a a f4_ f r ||
 t: * z pramenů spásy.
 
-%% use: responsum
+%% part: responsum_short
+
+m: f'8 d f g4. f8 / g a / bes bes bes4. \breathe / c8 a g / f4 f4 ||
+t: Budete vážit vodu s radostí z pramenů spásy.
 
 %% part: verse
 
-m: aB |
+m: r8 es' f c d_ d d d4 |
 t: Děkujte Hospodinu
 
-m: bB ||
+m: r8 c8 g'B a8 a f4_ f r ||
 t: * a vzývejte jeho jméno!
 
 %% part: verse
 
-m: aB |
+m: es'B f8 c d4_ d r |
 t: Hlásejte mezi národy jeho díla,
 
-m: bB ||
+m: c8 g'B a8 a f4_ f r ||
 t: * zvěstujte vznešenost jeho jména!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: es'B f8 c d_ d r4 |
 t: Zpívejte Hospodinu, (+) neboť učinil velkolepé věci,
 
-m: bB ||
+m: c8 g'B a8 a f_ f r4 ||
 t: * ať je to známo po celé zemi!
 
 %% part: verse
 
-m: aB |
+m: es'B f8 c d_ d d4 r |
 t: Plesejte a jásejte, obyvatelé Siónu,
 
-m: bB ||
+m: c8 g'B a8 a f_ f f f4 r ||
 t: * neboť velikým uprostřed vás je Svatý Izraele.
 
 %% use: responsum

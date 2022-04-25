@@ -1,0 +1,70 @@
+%% occasion: 'Sobota 31. týdne 2'
+%% responsum_reference: 'Ž 112 (111),1a'
+%% verse_reference: 'Ž 112 (111)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 329
+%% a: "bes'B a8 bes c_ a a2"
+%% b: "gB f8 g a_ f f2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 e d d r4 / d8 d d / e f / g g g g4 r ||
+t: Blaze muži, který se bojí Hospodina.
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a a4 r |
+t: Blaze muži, který se bojí Hospodina,
+
+m: gB f8 g a_ f f f2 ||
+t: * který má velkou zálibu v jeho přikázáních.
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a4 r |
+t: Mocné bude na zemi jeho potomstvo,
+
+m: gB f8 g a_ f f f4 r ||
+t: * pokolení řádných lidí bude požehnáno.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a4 r |
+t: Blaze muži, který se slitovává a půjčuje,
+
+m: gB f8 g a_( f) f4 r ||
+t: * stará se o své věci podle práva.
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a2 |
+t: Neboť na věky nezakolísá,
+
+m: gB f8 g a_ f f f2 ||
+t: * ve věčné paměti bude spravedlivý.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a a4 r |
+t: Jeho srdce je zmužilé, nebojí se,
+
+m: gB f8 g a_( f) f2 ||
+t: * rozděluje, dává chudým,
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) a4 r |
+t: jeho štědrost potrvá navždy,
+
+m: gB f8 g a_( f) f4 r ||
+t: * jeho moc poroste v slávě.
+
+%% use: responsum
+

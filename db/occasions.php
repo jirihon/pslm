@@ -2751,4 +2751,80 @@
   array (
     0 => 'OL710',
   ),
+  'Sobota 28. týdne 2' => 
+  array (
+    0 => 'OL711',
+  ),
+  'Středa 29. týdne 2' => 
+  array (
+    0 => 'OL712',
+  ),
+  'Čtvrtek 29. týdne 2' => 
+  array (
+    0 => 'OL713',
+  ),
+  'Sobota 29. týdne 2' => 
+  array (
+    0 => 'OL714',
+  ),
+  'Pátek 31. týdne 2' => 
+  array (
+    0 => 'OL714',
+  ),
+  'Středa 30. týdne 2' => 
+  array (
+    0 => 'OL715',
+  ),
+  'Sobota 30. týdne 2' => 
+  array (
+    0 => 'OL716',
+  ),
+  'Úterý 31. týdne 2' => 
+  array (
+    0 => 'OL717',
+  ),
+  'Středa 31. týdne 2' => 
+  array (
+    0 => 'OL718',
+  ),
+  'Čtvrtek 31. týdne 2' => 
+  array (
+    0 => 'OL719',
+  ),
+  'Sobota 31. týdne 2' => 
+  array (
+    0 => 'OL720',
+  ),
+  'Úterý 32. týdne 2' => 
+  array (
+    0 => 'OL721',
+  ),
+  'Čtvrtek 32. týdne 2' => 
+  array (
+    0 => 'OL722',
+  ),
+  'Pátek 32. týdne 2' => 
+  array (
+    0 => 'OL723',
+  ),
+  'Středa 33. týdne 2' => 
+  array (
+    0 => 'OL724',
+  ),
+  'Čtvrtek 33. týdne 2' => 
+  array (
+    0 => 'OL725',
+  ),
+  'Středa 34. týdne 2' => 
+  array (
+    0 => 'OL726',
+  ),
+  'Pátek 34. týdne 2' => 
+  array (
+    0 => 'OL727',
+  ),
+  'Sobota 34. týdne 2' => 
+  array (
+    0 => 'OL728',
+  ),
 );

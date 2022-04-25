@@ -1,0 +1,70 @@
+%% occasion: 'Úterý 32. týdne 2'
+%% responsum_reference: 'Ž 37 (36),30a'
+%% verse_reference: 'Ž 37 (36)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 330
+%% a: "c''B c8_ bes bes2"
+%% b: "asB g8_ f f2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: g'4 es as8 as as / g4. f8 / g as bes4 bes r ||
+t: Ústa spravedlivého mluví moudře.
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 |
+t: Doufej v Hospodina a čiň dobro,
+
+m: r8 as8 asB g8_( f) f4 r ||
+t: * pak budeš přebývat v zemi a těšit se klidu.
+
+%% part: verse
+
+m: c''B c8_ bes bes bes4 |
+t: Raduj se v Hospodinu,
+
+m: r8 as8 asB g8_( f) f4 r ||
+t: * a dá ti, po čem touží tvé srdce.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_ bes bes bes2 |
+t: Hospodin pečuje o život bezúhonných,
+
+m: asB g8_( f) f4 r ||
+t: * dědictví jejich přetrvá věky.
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 |
+t: Hospodin dává krokům člověka sílu,
+
+m: r8 as8 asB g8_( f) f4 r ||
+t: * má zalíbení v jeho životní cestě.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 |
+t: Chraň se zlého a čiň dobré,
+
+m: r8 as8 asB g8_( f) f4 r ||
+t: * a přežiješ věky.
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 r |
+t: Spravedliví budou vlastnit zemi,
+
+m: asB g8_( f) f4 r ||
+t: * budou ji obývat věčně.
+
+%% use: responsum
+

@@ -1,0 +1,88 @@
+%% occasion: 'Čtvrtek 29. týdne 2'
+%% responsum_reference: 'Ž 33 (32),5b'
+%% verse_reference: 'Ž 33 (32)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 322
+%% a: "d'B e8 f a_ g g2"
+%% b: "gB a8 bes d_ c c2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: c''8 d c bes a4 / bes8 c bes / a g / f c c2 ||
+t: Země je plná Hospodinovy milosti.
+
+%% part: verse
+
+m: d'B e8 f a_ g g g4 r |
+t: Radujte se, spravedliví, z Hospodina,
+
+m: gB a8 bes d_ c c4 r ||
+t: * sluší se, aby ho dobří chválili.
+
+%% part: verse
+
+m: d'B e8 f a_ g g g4 r |
+t: Citerou oslavujte Hospodina,
+
+m: gB a8 bes d_( c) c4 r ||
+t: * hrajte mu na desetistrunné harfě.
+
+%% use: responsum
+
+%% part: verse
+
+m: d'B e8 f a_( g) g2 |
+t: Neboť Hospodinovo slovo je správné,
+
+m: gB a8 bes d_( c) c4 r ||
+t: * spolehlivé je celé jeho dílo.
+
+%% part: verse
+
+m: d'B e8 f a_( g) g4 r |
+t: Miluje spravedlnost a právo,
+
+m: gB a8 bes d_ c c4 r ||
+t: * země je plná Hospodinovy milosti.
+
+%% use: responsum
+
+%% part: verse
+
+m: d'B e8 f a_ g g4 r |
+t: Hospodinův úmysl trvá na věky,
+
+m: gB a8 bes d_ c c c2 ||
+t: * myšlenky jeho srdce po všechna pokolení.
+
+%% part: verse
+
+m: d'B e8 f a_ g g4 r |
+t: Blaze národu, jehož Bohem je Hospodin,
+
+m: gB a8 bes d_ c c4 r ||
+t: * blaze lidu, který si vyvolil za svůj majetek.
+
+%% use: responsum
+
+%% part: verse
+
+m: d'B e8 f a_( g) g2 |
+t: Hospodinovo oko bdí nad těmi, kdo se ho bojí,
+
+m: gB a8 bes d_( c) c4 r ||
+t: * nad těmi, kdo doufají v jeho milost,
+
+%% part: verse
+
+m: d'B e8 f a_ g g4 r |
+t: aby jejich duše vyrval ze smrti,
+
+m: gB a8 bes d_ c c4 r ||
+t: * aby jim život zachoval za hladu.
+
+%% use: responsum
+

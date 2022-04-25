@@ -1,0 +1,64 @@
+%% occasion: 'Sobota 29. týdne 2'
+%% occasion: 'Pátek 31. týdne 2'
+%% responsum_reference: 'Srov. Ž 122 (121),1'
+%% verse_reference: 'Ž 122 (121)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 323
+%% a: "as'B g8 as bes_ as as2"
+%% b: "besB as8 bes c_ bes bes2"
+
+m: \key as \major
+
+%% part: responsum
+
+m: es'8 f g as bes g f es4 | des'8 des c / bes4 as8 as4 r ||
+t: Do domu Hospodinova s radostí půjdeme.
+
+%% part: verse
+
+m: as'B g8 as bes_( as) as4 r |
+t: Zaradoval jsem se, když mi řekli:
+
+m: besB as8 bes c_ bes bes4 ||
+t: * „Do domu Hospodinova půjdeme!“
+
+%% part: verse
+
+m: r8 as'8 asB g8 as bes_( as) as4 r |
+t: Už stojí naše nohy
+
+m: besB as8 bes c_( bes) bes4 r ||
+t: * ve tvých branách, Jeruzaléme!
+
+%% part: responsum_short
+
+m: es'8 f g as bes g f es4 | des'8 des c / bes4 as8 as4 ||
+t: Do domu Hospodinova s radostí půjdeme.
+
+%% part: verse
+
+m: r8 as'8 asB g8 as bes_( as) as4 r |
+t: Tam vystupují kmeny,
+
+m: besB as8 bes c_ bes bes4 r ||
+t: * kmeny Hospodinovy,
+
+%% part: verse
+
+m: as'B g8 as bes_ as as as4 r |
+t: jak to zákon přikazuje Izraeli,
+
+m: besB as8 bes c_( bes) bes4 ||
+t: * aby chválil Hospodinovo jméno.
+
+%% part: verse
+
+m: r8 as'8 asB g8 as bes_( as) as4 r |
+t: Tam stojí soudní stolce,
+
+m: besB as8 bes c_( bes) bes4 r ||
+t: * stolce Davidova domu.
+
+%% use: responsum
+
