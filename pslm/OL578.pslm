@@ -1,0 +1,70 @@
+%% occasion: 'Čtvrtek 1. týdne 2'
+%% responsum_reference: 'Ž 44 (43),27b'
+%% verse_reference: 'Ž 44 (43)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 187
+%% a: "bes'B a8 bes c_ a a2"
+%% b: "gB f8 g a_ f f2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 f g a bes g / a bes c4 c2 ||
+t: Vysvoboď nás, Pane, pro svou lásku!
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a4 r |
+t: Nyní jsi nás zavrhl a zahanbil,
+
+m: gB f8 g a_( f) f4 r ||
+t: * netáhneš už, Bože, s našimi vojsky.
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a a4 r |
+t: Dopustil jsi, že jsme utíkali před odpůrci,
+
+m: gB f8 g a_ f f f2 ||
+t: * nabrali si lupu ti, kdo nás nenávidí.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a a4 r |
+t: Našim sousedům jsi nás vydal na pohanu,
+
+m: gB f8 g a_( f) f4 r ||
+t: * našemu okolí v potupu a posměch.
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a a4 r |
+t: Dopustils, že jsme se stali pro národy pořekadlem,
+
+m: gB f8 g a_( f) f2 ||
+t: * pohané nad námi posměšně kývají hlavou.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) a4 r |
+t: Vzbuď se, proč spíš, Pane?
+
+m: gB f8 g a_( f) f4 ||
+t: * Probuď se, neodháněj nás navždy!
+
+%% part: verse
+
+m: r8 bes'8 a8 bes c_( a) a2 |
+t: Proč skrýváš svou tvář,
+
+m: gB f8 g a_( f) f4 r ||
+t: * zapomínáš na naši bídu a útisk?
+
+%% use: responsum
+

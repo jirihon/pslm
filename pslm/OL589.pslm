@@ -1,0 +1,114 @@
+%% occasion: 'Čtvrtek 3. týdne 2'
+%% responsum_reference: 'Lk 1,32b'
+%% verse_reference: 'Ž 132 (131)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 198
+%% a: "as'B bes8 c c_ bes bes2"
+%% b: "fB es8 f as_ g g2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: bes4 | es f g es | as8 as g f bes g g4 ||
+t: Pán Bůh mu dá trůn jeho otce Davida.
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes4 r |
+t: Pamatuj, Hospodine, na Davida,
+
+m: fB es8 f as_ g g g4 r ||
+t: * na veškerou jeho starostlivost,
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes4 r |
+t: jak přísahal Hospodinu,
+
+m: fB es8 f as_ g g g4 r ||
+t: * sliboval Mocnému Jakubovu:
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 r |
+t: „Nevkročím do svého obytného domu,
+
+m: fB es8 f as_( g) g4 r ||
+t: * nevstoupím na své připravené lůžko,
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 |
+t: nepopřeji spánku svým očím,
+
+m: r8 f8 es8 f as_ g g g4 r ||
+t: * svým víčkům odpočinku,
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes4 r |
+t: dokud nenaleznu místo pro Hospodina,
+
+m: fB es8 f as_ g g g4 r ||
+t: * příbytek Mocnému Jakubovu.“
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes bes4 r |
+t: Přísahal Hospodin Davidovi
+
+m: fB es8 f as_ g g g2 ||
+t: * s věrností, kterou neporuší:
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 |
+t: „Potomka z tvého rodu
+
+m: r8 f es8 f as_ g g2 ||
+t: * dosadím na tvůj trůn.
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes4 r |
+t: Budouli tvoji synové dbát na mou smlouvu,
+
+m: fB es8 f as_ g g4 ||
+t: * na mé příkazy, kterým je naučím,
+
+%% part: verse
+
+m: r8 as'8 asB bes8 c c_ bes bes4 r |
+t: též jejich synové na věky
+
+m: fB es8 f as_( g) g4 r ||
+t: * budou sedět na tvém trůně!“
+
+%% use: responsum
+
+%% part: verse
+
+m: as'B bes8 c c_( bes) bes2 |
+t: Neboť Hospodin si vyvolil Sión,
+
+m: fB es8 f as_( g) g4 r ||
+t: * přál si ho mít za své sídlo:
+
+%% part: verse
+
+m: as'B bes8 c c_ bes bes4 |
+t: „To je můj příbytek na věky,
+
+m: r8 f8 fB es8 f as_( g) g4 r ||
+t: * zde budu sídlit, ten jsem si zvolil.“
+
+%% use: responsum
+

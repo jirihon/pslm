@@ -2319,6 +2319,22 @@
   array (
     0 => 'OL575',
   ),
+  'Úterý 1. týdne 2' => 
+  array (
+    0 => 'OL576',
+  ),
+  'Středa 1. týdne 2' => 
+  array (
+    0 => 'OL577',
+  ),
+  'Čtvrtek 1. týdne 2' => 
+  array (
+    0 => 'OL578',
+  ),
+  'Pátek 1. týdne 2' => 
+  array (
+    0 => 'OL579',
+  ),
   'Pondělí 2. týdne 2' => 
   array (
     0 => 'OL580',
@@ -2326,6 +2342,50 @@
   'Pondělí 15. týdne 2' => 
   array (
     0 => 'OL580',
+  ),
+  'Úterý 2. týdne 2' => 
+  array (
+    0 => 'OL581',
+  ),
+  'Středa 2. týdne 2' => 
+  array (
+    0 => 'OL582',
+  ),
+  'Čtvrtek 30. týdne 2' => 
+  array (
+    0 => 'OL582',
+  ),
+  'Sobota 33. týdne 2' => 
+  array (
+    0 => 'OL582',
+  ),
+  'Čtvrtek 2. týdne 2' => 
+  array (
+    0 => 'OL583',
+  ),
+  'Pátek 2. týdne 2' => 
+  array (
+    0 => 'OL584',
+  ),
+  'Sobota 2. týdne 2' => 
+  array (
+    0 => 'OL585',
+  ),
+  'Pondělí 3. týdne 2' => 
+  array (
+    0 => 'OL586',
+  ),
+  'Úterý 3. týdne 2' => 
+  array (
+    0 => 'OL587',
+  ),
+  'Středa 3. týdne 2' => 
+  array (
+    0 => 'OL588',
+  ),
+  'Čtvrtek 3. týdne 2' => 
+  array (
+    0 => 'OL589',
   ),
   'Pátek 4. týdne 2' => 
   array (

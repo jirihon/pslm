@@ -1457,11 +1457,56 @@
     "ordinary_time_1_monday|2": [
         "Pondělí 1. týdne 2"
     ],
+    "ordinary_time_1_tuesday|2": [
+        "Úterý 1. týdne 2"
+    ],
+    "ordinary_time_1_wednesday|2": [
+        "Středa 1. týdne 2"
+    ],
+    "ordinary_time_1_thursday|2": [
+        "Čtvrtek 1. týdne 2"
+    ],
+    "ordinary_time_1_friday|2": [
+        "Pátek 1. týdne 2"
+    ],
     "ordinary_time_2_monday|2": [
         "Pondělí 2. týdne 2"
     ],
     "ordinary_time_15_monday|2": [
         "Pondělí 15. týdne 2"
+    ],
+    "ordinary_time_2_tuesday|2": [
+        "Úterý 2. týdne 2"
+    ],
+    "ordinary_time_2_wednesday|2": [
+        "Středa 2. týdne 2"
+    ],
+    "ordinary_time_30_thursday|2": [
+        "Čtvrtek 30. týdne 2"
+    ],
+    "ordinary_time_33_saturday|2": [
+        "Sobota 33. týdne 2"
+    ],
+    "ordinary_time_2_thursday|2": [
+        "Čtvrtek 2. týdne 2"
+    ],
+    "ordinary_time_2_friday|2": [
+        "Pátek 2. týdne 2"
+    ],
+    "ordinary_time_2_saturday|2": [
+        "Sobota 2. týdne 2"
+    ],
+    "ordinary_time_3_monday|2": [
+        "Pondělí 3. týdne 2"
+    ],
+    "ordinary_time_3_tuesday|2": [
+        "Úterý 3. týdne 2"
+    ],
+    "ordinary_time_3_wednesday|2": [
+        "Středa 3. týdne 2"
+    ],
+    "ordinary_time_3_thursday|2": [
+        "Čtvrtek 3. týdne 2"
     ],
     "ordinary_time_4_friday|2": [
         "Pátek 4. týdne 2"

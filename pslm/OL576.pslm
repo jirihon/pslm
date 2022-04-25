@@ -1,13 +1,11 @@
-%% occasion: 'Předvánoční týden (22. prosince)'
-%% occasion: 'Neposkrvrněného Srdce Panny Marie'
-%% occasion: 'O Panně Marii'
-%% responsum_reference: '1 Sam 2,1a .'
-%% verse_reference: '1. Sam 2'
+%% occasion: 'Úterý 1. týdne 2'
+%% responsum_reference: '1 Sam 2,1a'
+%% verse_reference: '1 Sam 2'
 %% author: olejnik
-%% source: nedelni_zaltar
-%% page: 42
+%% source: vsedni_zaltar
+%% page: 185
 
-% Tento žalm má stejné texty veršů jako publikovaný OL576
+% Tento žalm má stejné texty veršů jako publikovaný OL34
 
 m: \key bes \major
 
@@ -18,78 +16,78 @@ t: Mé srdce jásá v Bohu, mém spasiteli.
 
 %% part: verse
 
-m: aB |
+m: r8 es' esB f8 c d_ d d d4 r |
 t: Mé srdce jásá v Hospodinu,
 
-m: bB ||
+m: c8 g'B a8 g g_( f) f4 r ||
 t: * moje moc se vyvyšuje v mém Bohu.
 
 %% part: verse
 
-m: aB |
+m: es'B f8 c d_ d d d2 |
 t: Ústa se otvírají proti mým nepřátelům,
 
-m: bB ||
+m: c8 g'B a8 g g_ f f4 r ||
 t: * neboť se raduji z tvé pomoci.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: es'B f8 c d_4 d2 |
 t: Luky siláků se lámou,
 
-m: bB ||
+m: c8 g'B a8 g g_( f) f4 ||
 t: * ale slabí se opásávají silou.
 
 %% part: verse
 
-m: aB |
-t: Kdo bývali sytí, ch.léb; kdo hladověli, mohou ustat od práce. dávají se nyní najímat za
+m: r8 es' esB f8 c d_ d4. |
+t: Kdo bývali sytí, dávají se nyní najímat za chléb
 
-m: bB ||
-t: * 
-
-%% part: verse
-
-m: aB |
-t: Neplodná dostává sedm dětí, matka mnoha synů vadne osamělá. R.
-
-m: bB ||
-t: * 
+m: r8 c8 g'B a8 g g_ f f4 r ||
+t: * kdo hladověli, mohou ustat od práce.
 
 %% part: verse
 
-m: aB |
+m: es'B f8 c d_ d4. r4 |
+t: Neplodná dostává sedm dětí,
+
+m: c8 g'B a8 g g_ f f f2 ||
+t: * matka mnoha synů vadne osamělá.
+
+%% part: verse
+
+m: es'B f8 c d_ d d d4 r |
 t: Hospodin usmrcuje i oživuje,
 
-m: bB ||
+m: c8 g'B a8 g g_( f) f4 r ||
 t: * uvádí do říše smrti a zase přivádí nazpět.
 
 %% part: verse
 
-m: aB |
+m: es'B f8 c d_ d d4 r |
 t: Hospodin dává zchudnout, ale i zbohatnout,
 
-m: bB ||
+m: c8 g'B a8 g g_ f f f4 r ||
 t: * ponižuje a povyšuje.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: es'B f8 c d_ d d d4 r |
 t: Pozvedá z prachu ubožáka,
 
-m: bB ||
+m: c8 g'B a8 g g_ f f4 r ||
 t: * ze smetiště povyšuje chudáka,
 
 %% part: verse
 
-m: aB |
+m: es'B f8 c d_ d d4 |
 t: aby ho posadil mezi knížaty
 
-m: bB ||
+m: r8 c8 g'B a8 g g_( f) f4 r ||
 t: * a obdařil ho stolcem slávy.
 
 %% use: responsum

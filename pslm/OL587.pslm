@@ -1,11 +1,11 @@
-%% occasion: 'Uvedení Páně do chrámu (2. února)'
+%% occasion: 'Úterý 3. týdne 2'
 %% responsum_reference: 'Ž 24 (23),10b'
 %% verse_reference: 'Ž 24 (23)'
 %% author: olejnik
-%% source: nedelni_zaltar
-%% page: 266
+%% source: vsedni_zaltar
+%% page: 196
 
-% Tento žalm má stejné texty veršů jako publikovaný OL587
+% Tento žalm má stejné texty veršů jako publikovaný OL257
 
 m: \key f \major
 
@@ -16,40 +16,40 @@ t: Hospodin zástupů, on je král slávy!
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 g bes_( a) a4 r |
 t: Zdvihněte, brány, své klenby,
 
-m: bB ||
+m: d,B e8 f a_( g) g4 r ||
 t: * zvyšte se, prastaré vchody, + ať vejde král slávy!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 g bes_( a) a4 r |
 t: Kdo je ten král slávy?
 
-m: bB ||
+m: d,B e8 f a_( g) g4 r ||
 t: * Silný a mocný Hospodin, + Hospodin udatný v boji.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 g bes_( a) a4 r |
 t: Zdvihněte, brány, své klenby,
 
-m: bB ||
+m: d,B e8 f a_( g) g4 r ||
 t: * zvyšte se, prastaré vchody, + ať vejde král slávy!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 g bes_( a) a4 r |
 t: Kdo je ten král slávy?
 
-m: bB ||
+m: d,B e8 f a_( g) g4 r ||
 t: * Hospodin zástupů, + on je král slávy!
 
 %% use: responsum

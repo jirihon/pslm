@@ -1,0 +1,69 @@
+%% occasion: 'Sobota 2. týdne 2'
+%% responsum_reference: 'Ž 80 (79),4'
+%% verse_reference: 'Ž 80 (79)'
+%% comment: 'Původní tónina d moll.'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 194
+%% a: "f'8 c'B bes8 as g_ f f2"
+%% b: "bes,8 f'B es8 f as_ g g2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: es'8 bes f' es es2 | c8 c d es / f4. \breathe g8 | as g f / bes g g4 r ||
+t: Bože, obnov nás, rozjasni svou tvář, a budeme spaseni.
+
+%% part: verse
+
+m: f'8( c') cB bes8 as g_ f f4 r |
+t: Slyš, Izraelův pastýři,
+
+m: bes,8 f'B es8 f as_( g) g4 r ||
+t: * který vodíš Josefa jak ovce.
+
+%% part: verse
+
+m: f'8 c'B bes8 as g_ f f f4 r |
+t: Skvěj se září, ty, který trůníš nad cheruby,
+
+m: bes,8 f'B es8 f as_ g g4 r ||
+t: * před Efraimem, Benjamínem a Manassem,
+
+%% part: verse
+
+m: f'8 c'8 bes8( as) g_( f) f4 r |
+t: probuď svou sílu
+
+m: bes,8( f'8) es8 f as_ g g4 r ||
+t: * a přijď nás zachránit!
+
+%% use: responsum
+
+%% part: verse
+
+m: f'8 c'B bes8 as g_( f) f4 r |
+t: Bože zástupů, jak dlouho budeš dýmat hněvem,
+
+m: bes,8 f'8 es8 f as_( g) g4 r ||
+t: * když se modlí tvůj lid?
+
+%% part: verse
+
+m: f'8 c'B bes8 as g_ f f4 |
+t: Nasytils jej chlebem slzavým
+
+m: r8 bes,8 f'B es8 f as_ g g g4 r ||
+t: * a slzami jsi ho napojil vrchovatě.
+
+%% part: verse
+
+m: f'8 c'B bes8 as g_( f) f4 |
+t: Dopouštíš, že se kvůli nám sousedé sváří
+
+m: r8 bes,8 f'B es8 f as_ g g g2 ||
+t: * a naši nepřátelé se nám posmívají.
+
+%% use: responsum
+

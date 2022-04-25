@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 305
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: f'8 c f g / a g a bes / c4 c2 ||
 t: Veleben buď Hospodin, má Skála!
 
 %% part: verse

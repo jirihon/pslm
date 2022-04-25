@@ -1307,8 +1307,47 @@
     "OL575": [
         "OL575"
     ],
+    "OL576": [
+        "OL576"
+    ],
+    "OL577": [
+        "OL577"
+    ],
+    "OL578": [
+        "OL578"
+    ],
+    "OL579": [
+        "OL579"
+    ],
     "OL580": [
         "OL580"
+    ],
+    "OL581": [
+        "OL581"
+    ],
+    "OL582": [
+        "OL582"
+    ],
+    "OL583": [
+        "OL583"
+    ],
+    "OL584": [
+        "OL584"
+    ],
+    "OL585": [
+        "OL585"
+    ],
+    "OL586": [
+        "OL586"
+    ],
+    "OL587": [
+        "OL587"
+    ],
+    "OL588": [
+        "OL588"
+    ],
+    "OL589": [
+        "OL589"
     ],
     "OL594": [
         "OL594"
@@ -3442,11 +3481,56 @@
     "Pondělí 1. týdne 2": [
         "OL575"
     ],
+    "Úterý 1. týdne 2": [
+        "OL576"
+    ],
+    "Středa 1. týdne 2": [
+        "OL577"
+    ],
+    "Čtvrtek 1. týdne 2": [
+        "OL578"
+    ],
+    "Pátek 1. týdne 2": [
+        "OL579"
+    ],
     "Pondělí 2. týdne 2": [
         "OL580"
     ],
     "Pondělí 15. týdne 2": [
         "OL580"
+    ],
+    "Úterý 2. týdne 2": [
+        "OL581"
+    ],
+    "Středa 2. týdne 2": [
+        "OL582"
+    ],
+    "Čtvrtek 30. týdne 2": [
+        "OL582"
+    ],
+    "Sobota 33. týdne 2": [
+        "OL582"
+    ],
+    "Čtvrtek 2. týdne 2": [
+        "OL583"
+    ],
+    "Pátek 2. týdne 2": [
+        "OL584"
+    ],
+    "Sobota 2. týdne 2": [
+        "OL585"
+    ],
+    "Pondělí 3. týdne 2": [
+        "OL586"
+    ],
+    "Úterý 3. týdne 2": [
+        "OL587"
+    ],
+    "Středa 3. týdne 2": [
+        "OL588"
+    ],
+    "Čtvrtek 3. týdne 2": [
+        "OL589"
     ],
     "Pátek 4. týdne 2": [
         "OL594"
@@ -3836,6 +3920,7 @@
     ],
     "Bože, obnov nás, rozjasni svou tvář, a budeme spaseni.": [
         "OL3",
+        "OL585",
         "OL645"
     ],
     "K tobě pozvedám svou duši, Hospodine.": [
@@ -3964,6 +4049,10 @@
         "OL261",
         "OL300",
         "OL313",
+        "OL579",
+        "OL581",
+        "OL586",
+        "OL588",
         "OL632"
     ],
     "Ústa má budou vyprávět o tvé spravedlnosti.": [
@@ -3978,7 +4067,8 @@
         "OL630"
     ],
     "Mé srdce jásá v Bohu, mém spasiteli.": [
-        "OL34"
+        "OL34",
+        "OL576"
     ],
     "Na věky budu zpívat o tvém milosrdenství, Hospodine.": [
         "OL35"
@@ -4436,7 +4526,8 @@
         "OL260",
         "OL331",
         "OL409",
-        "OL413"
+        "OL413",
+        "OL577"
     ],
     "Ty jsi kněz na věky podle Melchizedechova řádu!": [
         "OL184",
@@ -4604,7 +4695,8 @@
         "OL255"
     ],
     "Hospodin zástupů, on je král slávy!": [
-        "OL257"
+        "OL257",
+        "OL587"
     ],
     "Ty jsi čest našeho lidu.": [
         "OL258"
@@ -4645,6 +4737,7 @@
     ],
     "Pán Bůh mu dá trůn jeho otce Davida.": [
         "OL273",
+        "OL589",
         "OL631"
     ],
     "Blaze muži, který se slitovává a půjčuje.": [
@@ -4795,6 +4888,19 @@
         "OL540",
         "OL657"
     ],
+    "Vysvoboď nás, Pane, pro svou lásku!": [
+        "OL578"
+    ],
+    "Veleben buď Hospodin, má Skála!": [
+        "OL582",
+        "OL696"
+    ],
+    "V Boha důvěřuji, nebudu se bát.": [
+        "OL583"
+    ],
+    "Smiluj se nade mnou, Bože, smiluj se!": [
+        "OL584"
+    ],
     "Hospodin přichází řídit zemi.": [
         "OL613"
     ],
@@ -4849,9 +4955,6 @@
     ],
     "Svítilnou mým nohám je tvé slovo.": [
         "OL694"
-    ],
-    "Veleben buď Hospodin, má Skála!": [
-        "OL696"
     ],
     "Popřej mi sluchu, slyš mé slovo!": [
         "OL697"

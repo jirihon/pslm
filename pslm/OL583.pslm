@@ -1,0 +1,80 @@
+%% occasion: 'Čtvrtek 2. týdne 2'
+%% responsum_reference: 'Ž 56 (55),5bc'
+%% verse_reference: 'Ž 56 (55)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 192
+%% a: "bes'B a8 g g_ f f2"
+%% b: "fB e8 d d_ c c2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'4 d g8 g g g | g g f g a2 ||
+t: V Boha důvěřuji, nebudu se bát.
+
+%% part: verse
+
+m: bes'B a8 g g_( f) f4 r |
+t: Smiluj se nade mnou, Bože, neboť člověk po mně šlape,
+
+m: fB e8 d d_( c) c4 r ||
+t: * stále mě tísní bojem.
+
+%% part: verse
+
+m: bes'B a8 g g_ f f f4 r |
+t: Stále po mně šlapou moji protivníci,
+
+m: fB e8 d d_( c) c2 ||
+t: * je jich hodně, kdo proti mně brojí.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 g g_( f) f4 r |
+t: Ty sám si zapiš mou bídu,
+
+m: fB e8 d d_( c) c4 ||
+t: * vpiš mé slzy do svého záznamu, + mé trampoty do svého svitku!
+
+%% part: verse
+
+m: r8 bes'8 besB a8 g g_ f f f2 |
+t: Pak ustoupí moji nepřátelé,
+
+m: fB e8 d d_( c) c4 r ||
+t: * kdykoli tě budu volat; + vím velmi dobře, že Bůh je pro mě!
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 g g_ f f2 |
+t: V Boha, jehož slib velebím,
+
+m: fB e8 d d_ c c2 ||
+t: * v Hospodina, jehož slib velebím,
+
+%% part: verse
+
+m: bes'B a8 g g_ f f2 |
+t: v Boha důvěřuji a nebudu se bát,
+
+m: fB e8 d d_( c) c4 r ||
+t: * co mi může udělat člověk?
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 g g_( f) f4 r |
+t: Bože, jsem ti zavázán sliby,
+
+m: fB e8 d d_( c) c4 r ||
+t: * přinesu ti děkovnou oběť.
+
+%% use: responsum
+

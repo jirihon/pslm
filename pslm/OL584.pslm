@@ -1,0 +1,70 @@
+%% occasion: 'Pátek 2. týdne 2'
+%% responsum_reference: 'Ž 57 (56),2a'
+%% verse_reference: 'Ž 57 (56)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 193
+%% a: "f'B e8 f g_ e e2"
+%% b: "dB c8 d e_ c c2"
+
+m: \key c \major
+
+%% part: responsum
+
+m: g'8 e g c b a2 / g8 a b g e2 ||
+t: Smiluj se nade mnou, Bože, smiluj se!
+
+%% part: verse
+
+m: f'B e8 f g_ e e4 r |
+t: Smiluj se nade mnou, Bože, smiluj se,
+
+m: dB c8 d e_( c) c4 r ||
+t: * neboť k tobě se utíká má duše,
+
+%% part: verse
+
+m: f'B e8 f g_( e) e4 r |
+t: uchyluji se do stínu tvých křídel,
+
+m: dB c8 d e_( c) c4 r ||
+t: * dokud se nepřežene zkáza.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B e8 f g_( e) e4 r |
+t: Volám k svrchovanému Bohu,
+
+m: dB c8 d e_( c) c4 ||
+t: * k Bohu, který mi prokazuje dobro.
+
+%% part: verse
+
+m: r8 f'8 fB e8 f g_ e e e4 |
+t: Ať zasáhne z nebe a zachrání mě,
+
+m: r8 d8 dB c8 d e_( c) c4 r ||
+t: * ať zahanbí ty, kteří se na mě sápou, + ať Bůh sešle svou milost a věrnost.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B e8 f g_( e) e4 r |
+t: Ukaž se ve své vznešenosti na nebesích, Bože,
+
+m: dB c8 d e_( c) c4 r ||
+t: * nad celou zemí nechť je tvá sláva!
+
+%% part: verse
+
+m: f'B e8 f g_( e) e4 r |
+t: Protože tvá milost je veliká až k nebi,
+
+m: dB c8 d e_ c c4 r ||
+t: * tvá věrnost až do oblak.
+
+%% use: responsum
+

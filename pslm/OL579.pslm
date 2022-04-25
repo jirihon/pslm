@@ -1,0 +1,52 @@
+%% occasion: 'Pátek 1. týdne 2'
+%% responsum_reference: 'Ž 89 (88),2a'
+%% verse_reference: 'Ž 89 (88)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 188
+%% a: "f'B e8 d a'_ g g2"
+%% b: "c,8 g'B f8 g bes_ a a2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: c''8 d c d c4. a8 | f bes a bes / c bes / a g g4 r ||
+t: Na věky chci zpívat o Hospodinových milostech.
+
+%% part: verse
+
+m: f'B e8 d a'_ g g g4 r |
+t: Šťastný je lid, který dovede oslavovat,
+
+m: c,8 g'B f8 g bes_( a) a4 r ||
+t: * chodí, Hospodine, v záři tvé tváře.
+
+%% part: verse
+
+m: f'B e8 d a'_ g g g4 |
+t: V tvém jménu jásají ustavičně
+
+m: r8 c,8 g'B f8 g bes_ a a2 ||
+t: * a honosí se tvou spravedlností.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B e8 d a'_( g) g4 r |
+t: Neboť ty jsi leskem jejich moci
+
+m: c,8 g'B f8 g bes_( a) a4 r ||
+t: * a tvou přízní roste naše síla.
+
+%% part: verse
+
+m: f'B e8 d a'_ g g g4 r |
+t: Vždyť náš vladař náleží Hospodinu,
+
+m: c,8 g'B f8 g bes_ a a a4 r ||
+t: * náš král Svatému Izraele.
+
+%% use: responsum
+
