@@ -4,6 +4,8 @@
 %% author: olejnik
 %% source: vsedni_zaltar
 %% page: 308
+%% a: "g'B a8 e g_ fis fis2"
+%% b: "b,B cis8 d fis_ e e2"
 
 m: \key d \major
 
@@ -14,54 +16,54 @@ t: Kéž pronikne k tobě má modlitba, Hospodine!
 
 %% part: verse
 
-m: aB |
+m: g'B a8 e g_ fis fis fis4 r |
 t: Denně k tobě volám, Hospodine,
 
-m: bB ||
+m: b,B cis8 d fis_( e) e4 r ||
 t: * k tobě vztahuji své ruce.
 
 %% part: verse
 
-m: aB |
+m: g'B a8 e g_ fis fis4 |
 t: Děláš snad zázraky pro mrtvé,
 
-m: bB ||
+m: r8 b,8 bB cis8 d fis_( e) e4 r ||
 t: * či vstanou lidské stíny a budou tě chválit?
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: g'B a8 e g_ fis fis4 r |
 t: Což se dá v hrobě vyprávět o tvé dobrotě,
 
-m: bB ||
+m: b,B cis8 d fis_( e) e4 ||
 t: * o tvé věrnosti v příbytku mrtvých?
 
 %% part: verse
 
-m: aB |
+m: r8 g'8 gB a8 e g_ fis fis4 |
 t: Lze poznat tvé divy v temnotách,
 
-m: bB ||
+m: r8 b,8 bB cis8 d fis_ e e e2 ||
 t: * tvou milost v kraji zapomnění?
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: g'B a8 e g_ fis fis fis4 |
 t: Já však volám k tobě, Hospodine,
 
-m: bB ||
+m: r8 b,8 bB cis8 d fis_( e) e4 r ||
 t: * má modlitba ti přichází vstříc hned ráno.
 
 %% part: verse
 
-m: aB |
+m: g'B a8 e g_ fis fis fis4 |
 t: Proč mě odmítáš, Hospodine,
 
-m: bB ||
+m: r8 b,8 bB cis8 d fis_( e) e2 ||
 t: * a přede mnou skrýváš svou tvář?
 
 %% use: responsum

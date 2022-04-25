@@ -1,70 +1,69 @@
-%% occasion: 'Středa 24. týdne 1'
-%% occasion: 'Pátek 30. týdne 2'
-%% responsum_reference: 'Ž 111 (110),2a'
+%% occasion: 'Pátek 27. týdne 2'
+%% responsum_reference: 'Ž 105 (104),8a'
 %% verse_reference: 'Ž 111 (110)'
 %% author: olejnik
 %% source: vsedni_zaltar
-%% page: 138
+%% page: 315
+%% a: "b'B cis8 b b_ a a2"
+%% b: "gB a8 g fis_ e e2"
 
-% Tento žalm má stejné texty veršů jako publikovaný OL706
-
-m: \key c \major
+m: \key d \major
 
 %% part: responsum
 
-m: bB ||
-t: Veliká jsou Hospodinova díla.
+m: r8 d' e fis g g g fis / fis( e) e4 | r8 e fis g / a4( fis) fis2 ||
+t: Hospodin pamatuje věčně na svoji smlouvu.
 
 %% part: verse
 
-m: aB |
+m: b'B cis8 b b_( a) a4 r |
 t: Oslavím Hospodina celým srdcem
 
-m: bB ||
+m: gB a8 g fis_ e e2 ||
 t: * ve sboru spravedlivých i ve shromáždění.
 
 %% part: verse
 
-m: aB |
+m: b'B cis8 b b_( a) a4 |
 t: Veliká jsou Hospodinova díla,
 
-m: bB ||
+m: r8 g8 gB a8 g fis_ e e2 ||
 t: * ať o nich uvažují všichni, kteří je milují.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: b'B cis8 b b_( a) a4 |
 t: Velebnost a vznešenost je jeho dílo
 
-m: bB ||
+m: r8 g8 gB a8 g fis_ e e4 r ||
 t: * a jeho spravedlnost zůstává na věky.
 
 %% part: verse
 
-m: aB |
+m: b'B cis8 b b_( a) a4 r |
 t: Památku ustanovil na své divy,
 
-m: bB ||
+m: gB a8 g fis_ e e e2 ||
 t: * Hospodin je milosrdný a dobrotivý.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: b'B cis8 b b_( a) a2 |
 t: Pokrm dal těm, kdo se ho bojí,
 
-m: bB ||
+m: gB a8 g fis_( e) e4 ||
 t: * neustále bude pamatovat na svou smlouvu.
 
 %% part: verse
 
-m: aB |
+m: r8 b'8 bB cis8 b b_( a) a4 r |
 t: Své mocné činy ukázal svému lidu,
 
-m: bB ||
+m: gB a8 g fis_ e e2 ||
 t: * když jim dal majetek pohanů.
 
 %% use: responsum

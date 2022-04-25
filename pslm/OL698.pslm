@@ -4,6 +4,8 @@
 %% author: olejnik
 %% source: vsedni_zaltar
 %% page: 307
+%% a: "g'B a8 e g_ fis fis2"
+%% b: "b,B cis8 d fis_ e e2"
 
 m: \key d \major
 
@@ -14,72 +16,72 @@ t: Kéž pronikne k tobě má modlitba, Hospodine!
 
 %% part: verse
 
-m: aB |
-t: Hospodine, můj Bože, volám ve dne, hořekuji před tebou v no
+m: g'B a8 e g_( fis) fis4 r |
+t: Hospodine, můj Bože, volám ve dne,
 
-m: bB ||
-t: * ci.
+m: b,B cis8 d fis_( e) e4 ||
+t: * hořekuji před tebou v noci.
 
 %% part: verse
 
-m: aB |
+m: r8 g'8 gB a8 e g_ fis fis4 r |
 t: Kéž pronikne k tobě má modlitba,
 
-m: bB ||
+m: b,B cis8 d fis_ e e2 ||
 t: * nakloň svůj sluch k mému volání!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: g'B a8 e g_( fis) fis4 r |
 t: Neboť bědami je nasycena má duše
 
-m: bB ||
+m: b,B cis8 d fis_ e e2 ||
 t: * a můj život se blíží podsvětí.
 
 %% part: verse
 
-m: aB |
+m: g'B a8 e g_ fis fis4 |
 t: Počítají mě k těm, kdo klesli do hrobu,
 
-m: bB ||
+m: r8 b,8 bB cis8 d fis_ e e e4 r ||
 t: * jsem jako člověk bez pomoci.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: g'B a8 e g_( fis) fis4 r |
 t: Mezi mrtvými je moje lože,
 
-m: bB ||
+m: b,B cis8 d fis_( e) e4 ||
 t: * mezi zabitými, kteří leží v hrobě;
 
 %% part: verse
 
-m: aB |
+m: r8 g' a8 e g_ fis fis fis4 |
 t: na ty už nevzpomínáš,
 
-m: bB ||
+m: r8 b,8 bB cis8 d fis_( e) e4 r ||
 t: * jsou vyloučeni z tvé péče.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: g'B a8 e g_( fis) fis4 r |
 t: Položils mě do hluboké jámy,
 
-m: bB ||
+m: b,B cis8 d fis_ e e e2 ||
 t: * do temnot a do propastí.
 
 %% part: verse
 
-m: aB |
+m: g'B a8 e g_( fis) fis4 r |
 t: Doléhá na mě tvůj hněv,
 
-m: bB ||
+m: b,B cis8 d fis_( e) e4 r ||
 t: * všechny své přívaly jsi na mě vylil.
 
 %% use: responsum

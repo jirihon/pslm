@@ -2663,6 +2663,90 @@
   array (
     0 => 'OL689',
   ),
+  'Čtvrtek 24. týdne 2' => 
+  array (
+    0 => 'OL690',
+  ),
+  'Pátek 24. týdne 2' => 
+  array (
+    0 => 'OL691',
+  ),
+  'Sobota 24. týdne 2' => 
+  array (
+    0 => 'OL692',
+  ),
+  'Úterý 25. týdne 2' => 
+  array (
+    0 => 'OL693',
+  ),
+  'Středa 25. týdne 2' => 
+  array (
+    0 => 'OL694',
+  ),
+  'Čtvrtek 25. týdne 2' => 
+  array (
+    0 => 'OL695',
+  ),
+  'Sobota 25. týdne 2' => 
+  array (
+    0 => 'OL695',
+  ),
+  'Pátek 25. týdne 2' => 
+  array (
+    0 => 'OL696',
+  ),
+  'Pondělí 26. týdne 2' => 
+  array (
+    0 => 'OL697',
+  ),
+  'Úterý 26. týdne 2' => 
+  array (
+    0 => 'OL698',
+  ),
+  'Středa 26. týdne 2' => 
+  array (
+    0 => 'OL699',
+  ),
+  'Čtvrtek 26. týdne 2' => 
+  array (
+    0 => 'OL700',
+  ),
+  'Pátek 26. týdne 2' => 
+  array (
+    0 => 'OL701',
+  ),
+  'Sobota 26. týdne 2' => 
+  array (
+    0 => 'OL702',
+  ),
+  'Pondělí 27. týdne 2' => 
+  array (
+    0 => 'OL703',
+  ),
+  'Úterý 27. týdne 2' => 
+  array (
+    0 => 'OL704',
+  ),
+  'Středa 27. týdne 2' => 
+  array (
+    0 => 'OL705',
+  ),
+  'Pátek 27. týdne 2' => 
+  array (
+    0 => 'OL706',
+  ),
+  'Sobota 27. týdne 2' => 
+  array (
+    0 => 'OL707',
+  ),
+  'Úterý 28. týdne 2' => 
+  array (
+    0 => 'OL708',
+  ),
+  'Čtvrtek 28. týdne 2' => 
+  array (
+    0 => 'OL709',
+  ),
   'Pátek 28. týdne 2' => 
   array (
     0 => 'OL710',

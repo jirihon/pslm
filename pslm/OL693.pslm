@@ -1,0 +1,79 @@
+%% occasion: 'Úterý 25. týdne 2'
+%% responsum_reference: 'Ž 119 (118),35a'
+%% verse_reference: 'Ž 119 (118)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 302
+%% a: "es'B f8 g g_ f f2"
+%% b: "cB bes8 c es_ d d2"
+
+m: \key bes \major
+
+%% part: responsum
+
+m: bes'4 g c8 bes a / g a f d2 | g8 es d c2 ||
+t: Voď mě po cestě svých předpisů, Hospodine.
+
+%% part: verse
+
+m: es'B f8 g g_ f f f2 |
+t: Blaze těm, jejichž cesta je bezúhonná,
+
+m: cB bes8 c es_ d d4 r ||
+t: * kteří kráčejí v zákoně Hospodinově.
+
+%% use: responsum
+
+%% part: verse
+
+m: es'B f8 g g_ f f f4 |
+t: Pouč mě o smyslu svých nařízení
+
+m: r8 c8 cB bes8 c es_( d) d4 r ||
+t: * a budu rozjímat o tvých divech.
+
+%% use: responsum
+
+%% part: verse
+
+m: es'B f8 g g_( f) f4 r |
+t: Vyvolil jsem si cestu pravdy,
+
+m: cB bes8 c es_ d d d2 ||
+t: * dal jsem přednost tvým rozhodnutím.
+
+%% use: responsum
+
+%% part: verse
+
+m: es'B f8 g g_( f) f4 |
+t: Pouč mě, ať zachovám tvůj zákon
+
+m: r8 c8 cB bes8 c es_( d) d4 r ||
+t: * a chráním ho celým svým srdcem.
+
+%% use: responsum
+
+%% part: verse
+
+m: es'B f8 g g_ f f2 |
+t: Voď mě po stezce svých předpisů,
+
+m: cB bes8 c es_ d d d2 ||
+t: * neboť v ní mám zalíbení.
+
+%% part: responsum_short
+
+m: bes'4 g c8 bes a / g a f d2 | g8 es d c4 ||
+t: Voď mě po cestě svých předpisů, Hospodine.
+
+%% part: verse
+
+m: r8 es'8 esB f8 g g_( f) f4 r |
+t: Tvůj zákon chci stále střežit,
+
+m: cB bes8 c es_( d) d4 r ||
+t: * na věky a navždy.
+
+%% use: responsum
+

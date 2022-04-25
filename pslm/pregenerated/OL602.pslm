@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 211
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: es'8 d c f f f4 \breathe / f4. g8 / as as / g4 f / bes8 g g g4 r | c f, bes bes2 ||
 t: Ať se mi dostane tvého slitování, Hospodine, abych byl živ.
 
 %% part: verse

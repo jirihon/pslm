@@ -1,12 +1,13 @@
-%% occasion: 'Sv. Barnabáše (11. června)'
-%% occasion: 'Posvěcení římských bazilik sv. Petra a Pavla (18. listopadu)'
+%% occasion: 'Čtvrtek 28. týdne 2'
 %% responsum_reference: 'Srov. Ž 98 (97),2'
 %% verse_reference: 'Ž 98 (97)'
 %% author: olejnik
-%% source: nedelni_zaltar
-%% page: 275
+%% source: vsedni_zaltar
+%% page: 318
+%% a: "bes8 d fB f8 d g_ f f2"
+%% b: "gB a8 bes c_ a f f2"
 
-% Tento žalm má stejné texty veršů jako publikovaný OL39, OL40, OL412, OL709
+% Tento žalm má stejné texty veršů jako publikovaný OL39, OL40, OL266, OL412
 
 m: \key bes \major
 
@@ -17,72 +18,72 @@ t: Hospodin zjevil svou spásu před zraky pohanů.
 
 %% part: verse
 
-m: aB |
+m: bes8 d fB f8 d g_( f) f4 r |
 t: Zpívejte Hospodinu novou píseň,
 
-m: bB ||
+m: gB a8 bes c_( a f) f4 r ||
 t: * neboť učinil podivuhodné věci.
 
 %% part: verse
 
-m: aB |
+m: bes8 d fB f8 d g_ f f4 r |
 t: Vítězství je dílem jeho pravice,
 
-m: bB ||
+m: gB a8 bes c_( a) f f4 r ||
 t: * jeho svatého ramene.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: bes8 d fB f8 d g_( f) f4 r |
 t: Hospodin uvedl ve známost svou spásu,
 
-m: bB ||
+m: gB a8 bes c_ a f f4 r ||
 t: * před zraky pohanů zjevil svou spravedlnost.
 
 %% part: verse
 
-m: aB |
+m: bes8 d fB f8 d g_( f) f4 r |
 t: Rozpomenul se na svou dobrotu a věrnost
 
-m: bB ||
+m: gB a8 bes c_( a f) f4 r ||
 t: * Izraelovu domu.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: bes8 d fB f8 d g_( f) f4 r |
 t: Uzřely všechny končiny země
 
-m: bB ||
+m: gB a8 bes c_( a f) f4 r ||
 t: * spásu našeho Boha.
 
 %% part: verse
 
-m: aB |
+m: bes8 d fB f8 d g_( f) f4 r |
 t: Jásejte Hospodinu, všechny země,
 
-m: bB ||
+m: gB a8 bes c_( a f) f4 r ||
 t: * radujte se, plesejte a hrejte!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: bes8 d fB f8 d g_ f f f4 r |
 t: Hrejte Hospodinu na citeru,
 
-m: bB ||
+m: gB a8 bes c_( a f) f4 r ||
 t: * na citeru a s doprovodem zpěvu,
 
 %% part: verse
 
-m: aB |
+m: bes8 d fB f8 d g_( f) f2 |
 t: za hlaholu trub a rohů,
 
-m: bB ||
+m: gB a8 bes c_ a f f4 r ||
 t: * jásejte před králem Hospodinem!
 
 %% use: responsum

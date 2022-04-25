@@ -1,0 +1,62 @@
+%% occasion: 'Pondělí 26. týdne 2'
+%% responsum_reference: 'Ž 17 (16),6b'
+%% verse_reference: 'Ž 17 (16)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 306
+%% a: "bes'B bes8_ a a2"
+%% b: "gB g8_ f f2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 e d g g r | g f( e) a a~ a4 ||
+t: Popřej mi sluchu, slyš mé slovo!
+
+%% part: verse
+
+m: r8 bes'8 besB bes8_( a) a4 r |
+t: Slyš, Hospodine, spravedlivou žádost,
+
+m: gB g8_ f f f2 ||
+t: * všimni si mého nářku, + popřej sluchu mé modlitbě z bezelstných rtů!
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B bes8_ a a a4 |
+t: Ty sám posuď mou spravedlnost,
+
+m: r8 g8 gB g8_( f) f2 ||
+t: * tvé oči vidí, co je správné.
+
+%% part: verse
+
+m: bes'B bes8_( a) a4 r |
+t: Jestliže zkoušíš mé srdce, (+) zkoumáš mě v noci, tříbíš mě ohněm,
+
+m: gB g8_ f f f4 r ||
+t: * nenalezneš na mně nepravosti.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B bes8_( a) a4 r |
+t: Volám k tobě, protože mě vyslyšíš, Bože,
+
+m: gB g8_( f) f4 r ||
+t: * popřej mi sluchu, slyš mé slovo!
+
+%% part: verse
+
+m: bes'B bes8_( a) a4 r |
+t: Ukaž mi svou zvláštní milost + ty, který zachraňuješ před odpůrci všechny,
+
+m: gB g8_ f f4 r ||
+t: * kdo se utíkají k tvé pravici.
+
+%% use: responsum
+

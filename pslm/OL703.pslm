@@ -1,0 +1,70 @@
+%% occasion: 'Pondělí 27. týdne 2'
+%% responsum_reference: 'Ž 105 (104),8a'
+%% verse_reference: 'Ž 111 (110)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 312
+%% a: "b'B cis8 b b_ a a2"
+%% b: "gB a8 g fis_ e e2"
+
+m: \key d \major
+
+%% part: responsum
+
+m: r8 d' e fis g g g fis / fis( e) e4 | r8 e fis g / a4( fis) fis2 ||
+t: Hospodin pamatuje věčně na svoji smlouvu.
+
+%% part: verse
+
+m: aB |
+t: Oslavím Hospodina celým srdcem
+
+m: bB ||
+t: * ve sboru spravedlivých i ve shromáždění.
+
+%% part: verse
+
+m: aB |
+t: Veliká jsou Hospodinova díla,
+
+m: bB ||
+t: * ať o nich uvažují všichni, kteří je milují.
+
+%% use: responsum
+
+%% part: verse
+
+m: aB |
+t: Skutky jeho rukou jsou věrné a spravedlivé,
+
+m: bB ||
+t: * spolehlivé jsou všechny jeho příkazy,
+
+%% part: verse
+
+m: aB |
+t: pevné na věky, navždy,
+
+m: bB ||
+t: * provedené v pravdě a právu.
+
+%% use: responsum
+
+%% part: verse
+
+m: aB |
+t: Vykoupení seslal svému lidu,
+
+m: bB ||
+t: * sjednal na věky svou smlouvu;
+
+%% part: verse
+
+m: aB |
+t: svaté a velebné je jeho jméno.
+
+m: bB ||
+t: * Jeho chvála zůstává navždy.
+
+%% use: responsum
+

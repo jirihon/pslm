@@ -1,0 +1,62 @@
+%% occasion: 'Čtvrtek 24. týdne 2'
+%% responsum_reference: 'Ž 118 (117),1'
+%% verse_reference: 'Ž 118 (117)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 299
+%% a: "c''B b8_ g e e2"
+%% b: "aB g8_ e c c2"
+
+m: \key c \major
+
+%% part: responsum
+
+m: r8 e' d c d g g g | r g f e e d~ d4 | f8 f a b c c c4 | d8 d4( b8) g g g4 ||
+t: Děkujte Hospodinu, neboť je dobrý, jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: c''B b8_( g e) e2 |
+t: Oslavujte Hospodina, neboť je dobrý,
+
+m: aB g8_( e) c c4 r ||
+t: * jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: c''B b8_ g e e2 |
+t: Nechť řekne dům Izraelův:
+
+m: aB g8_( e) c c4 r ||
+t: * „Jeho milosrdenství trvá na věky.“
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B b8_ g( e) e4 r |
+t: Hospodinova pravice mocně zasáhla,
+
+m: aB g8_( e) c c4 r ||
+t: * Hospodinova pravice mě pozvedla.
+
+%% part: verse
+
+m: c''B b8_( g) e e4 |
+t: Nezemřu, ale budu žít
+
+m: r8 a8 aB g8_( e c) c4 r ||
+t: * a vypravovat o Hospodinových činech.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B b8_ g e e4 r |
+t: Ty jsi můj Bůh, děkuji ti;
+
+m: aB g8_( e c) c4 r ||
+t: * budu tě slavit, můj Bože!
+
+%% use: responsum
+
