@@ -1,70 +1,69 @@
-%% occasion: 'Všech svatých (1. listopadu)'
-%% occasion: 'Při řeholních slibech'
-%% responsum_reference: 'Srov. Ž 24 . (23),6'
+%% occasion: 'Čtvrtek 22. týdne 2'
+%% responsum_reference: 'Srov. Ž 24 (23),7c.10b'
 %% verse_reference: 'Ž 24 (23)'
 %% author: olejnik
-%% source: nedelni_zaltar
-%% page: 295
+%% source: vsedni_zaltar
+%% page: 290
 
-% Tento žalm má stejné texty veršů jako publikovaný OL28, OL414, OL414a, OL681
+% Tento žalm má stejné texty veršů jako publikovaný OL28, OL286, OL414, OL414a
 
-m: \key es \major
+m: \key f \major
 
 %% part: responsum
 
-m: g'8 f es d c d es4 | r8 es as g f / bes2 g4 | c as g f r ||
-t: To je pokolení těch, kdo hledají tvář tvou, Hospodine.
+m: r8 a' f a c c c4 | r8 d bes a g4 g ||
+t: Ať vejde Hospodin, on je král slávy!
 
 %% part: verse
 
-m: aB |
+m: f'B e8 d a'_( g) g2 |
 t: Hospodinu náleží země i to, co je na ní,
 
-m: bB ||
+m: gB f8 g bes_ a a a2 ||
 t: * svět i ti, kdo jej obývají.
 
 %% part: verse
 
-m: aB |
+m: f'B e8 d a'_ g g4 r |
 t: Neboť on jej založil nad moři,
 
-m: bB ||
+m: gB f8 g bes_ a a a4 r ||
 t: * upevnil ho nad proudy vod.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: f'B e8 d a'_( g) g4 r |
 t: Kdo smí vystoupit na Hospodinovu horu,
 
-m: bB ||
+m: gB f8 g bes_( a) a4 r ||
 t: * kdo smí stát na jeho svatém místě?
 
 %% part: verse
 
-m: aB |
+m: f'B e8 d a'_( g) g4 r |
 t: Ten, kdo má nevinné ruce a čisté srdce,
 
-m: bB ||
+m: gB f8 g bes_ a a a4 r ||
 t: * jehož duše nebaží po marnosti.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: r8 f' fB e8 d a'_ g g4 r |
 t: Ten přijme požehnání od Hospodina,
 
-m: bB ||
+m: gB f8 g bes_ a a a4 r ||
 t: * odměnu od Boha, svého spasitele.
 
 %% part: verse
 
-m: aB |
+m: f'B e8 d a'_( g) g4 |
 t: To je pokolení těch, kdo po něm touží,
 
-m: bB ||
+m: r8 g gB f8 g bes_( a) a4 r ||
 t: * kdo hledají tvář Jakubova Boha.
 
 %% use: responsum

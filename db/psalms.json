@@ -1523,6 +1523,27 @@
     "OL680": [
         "OL680"
     ],
+    "OL681": [
+        "OL681"
+    ],
+    "OL682": [
+        "OL682"
+    ],
+    "OL683": [
+        "OL683"
+    ],
+    "OL684": [
+        "OL684"
+    ],
+    "OL685": [
+        "OL685"
+    ],
+    "OL686": [
+        "OL686"
+    ],
+    "OL687": [
+        "OL687"
+    ],
     "OL688": [
         "OL688"
     ],
@@ -3538,6 +3559,27 @@
     "Středa 22. týdne 2": [
         "OL680"
     ],
+    "Čtvrtek 22. týdne 2": [
+        "OL681"
+    ],
+    "Pátek 22. týdne 2": [
+        "OL682"
+    ],
+    "Sobota 22. týdne 2": [
+        "OL683"
+    ],
+    "Pondělí 23. týdne 2": [
+        "OL684"
+    ],
+    "Středa 23. týdne 2": [
+        "OL685"
+    ],
+    "Čtvrtek 23. týdne 2": [
+        "OL686"
+    ],
+    "Pátek 23. týdne 2": [
+        "OL687"
+    ],
     "Sobota 23. týdne 2": [
         "OL688"
     ],
@@ -3672,7 +3714,8 @@
         "OL150"
     ],
     "Ať vejde Hospodin, on je král slávy!": [
-        "OL28"
+        "OL28",
+        "OL681"
     ],
     "Na věky chci zpívat o Hospodinových milostech.": [
         "OL29",
@@ -3924,7 +3967,8 @@
     "Blízký je Hospodin všem, kdo ho vzývají.": [
         "OL100",
         "OL237",
-        "OL326"
+        "OL326",
+        "OL683"
     ],
     "Pamatuj na nás, Hospodine, pro náklonnost k svému lidu.": [
         "OL101"
@@ -4328,7 +4372,8 @@
         "OL267"
     ],
     "Chválím tě, že jsem vznikl tak podivuhodně.": [
-        "OL268"
+        "OL268",
+        "OL686"
     ],
     "Má zalíbení v Hospodinově zákoně.": [
         "OL270"
@@ -4385,7 +4430,8 @@
     ],
     "Jak milý je tvůj příbytek, Hospodine zástupů!": [
         "OL291",
-        "OL332"
+        "OL332",
+        "OL687"
     ],
     "Hle, stánek Boží mezi lidmi!": [
         "OL293"
@@ -4399,7 +4445,8 @@
     "Ústa spravedlivého mluví moudře.": [
         "OL301",
         "OL415",
-        "OL436"
+        "OL436",
+        "OL682"
     ],
     "Hospodinovy výroky jsou pravdivé, všechny jsou spravedlivé.": [
         "OL302",
@@ -4414,7 +4461,8 @@
         "OL305"
     ],
     "Hle, ženich přichází, jděte naproti Kristu Pánu!": [
-        "OL306"
+        "OL306",
+        "OL685"
     ],
     "Spravedlivý bude, Pane, přebývat na tvé svaté hoře.": [
         "OL307"
@@ -4501,7 +4549,8 @@
         "OL651"
     ],
     "Veď mě ve své spravedlnosti, Hospodine!": [
-        "OL638"
+        "OL638",
+        "OL684"
     ],
     "Izraelův dům doufá v Hospodina.": [
         "OL643"

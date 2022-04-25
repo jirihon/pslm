@@ -621,6 +621,13 @@ occasion,id,cycle
 "Pondělí 22. týdne 2",ordinary_time_22_monday,2
 "Úterý 22. týdne 2",ordinary_time_22_tuesday,2
 "Středa 22. týdne 2",ordinary_time_22_wednesday,2
+"Čtvrtek 22. týdne 2",ordinary_time_22_thursday,2
+"Pátek 22. týdne 2",ordinary_time_22_friday,2
+"Sobota 22. týdne 2",ordinary_time_22_saturday,2
+"Pondělí 23. týdne 2",ordinary_time_23_monday,2
+"Středa 23. týdne 2",ordinary_time_23_wednesday,2
+"Čtvrtek 23. týdne 2",ordinary_time_23_thursday,2
+"Pátek 23. týdne 2",ordinary_time_23_friday,2
 "Sobota 23. týdne 2",ordinary_time_23_saturday,2
 "Středa 24. týdne 2",ordinary_time_24_wednesday,2
 "Pátek 28. týdne 2",ordinary_time_28_friday,2

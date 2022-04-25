@@ -2627,6 +2627,34 @@
   array (
     0 => 'OL680',
   ),
+  'Čtvrtek 22. týdne 2' => 
+  array (
+    0 => 'OL681',
+  ),
+  'Pátek 22. týdne 2' => 
+  array (
+    0 => 'OL682',
+  ),
+  'Sobota 22. týdne 2' => 
+  array (
+    0 => 'OL683',
+  ),
+  'Pondělí 23. týdne 2' => 
+  array (
+    0 => 'OL684',
+  ),
+  'Středa 23. týdne 2' => 
+  array (
+    0 => 'OL685',
+  ),
+  'Čtvrtek 23. týdne 2' => 
+  array (
+    0 => 'OL686',
+  ),
+  'Pátek 23. týdne 2' => 
+  array (
+    0 => 'OL687',
+  ),
   'Sobota 23. týdne 2' => 
   array (
     0 => 'OL688',
