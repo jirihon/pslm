@@ -1,0 +1,52 @@
+%% occasion: 'Sobota 7. týdne 2'
+%% responsum_reference: 'Ž 141 (140),2a'
+%% verse_reference: 'Ž 141 (140)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 220
+%% a: "c''B b8 a a_ g g2"
+%% b: "gB fis8 e e_ d d2"
+
+m: \key g \major
+
+%% part: responsum
+
+m: g'2 g8 fis e / a a4 r8 | d, a' / b a a / g fis / b b b2 ||
+t: Má modlitba, Pane, ať je před tebou jako kadidlo.
+
+%% part: verse
+
+m: aB |
+t: Hospodine, volám k tobě, pospěš mi na pomoc,
+
+m: bB ||
+t: * slyš můj hlas, když k tobě volám.
+
+%% part: verse
+
+m: aB |
+t: Má modlitba ať je před tebou jako kadidlo,
+
+m: bB ||
+t: * mé zvednuté dlaně jako večerní oběť.
+
+%% use: responsum
+
+%% part: verse
+
+m: aB |
+t: Postav, Hospodine, stráž k mým ústům,
+
+m: bB ||
+t: * hlídku k bráně mých rtů.
+
+%% part: verse
+
+m: aB |
+t: K tobě, Hospodine, Pane, se obracejí mé oči,
+
+m: bB ||
+t: * k tobě se utíkám, nevydávej mě smrti!
+
+%% use: responsum
+

@@ -1,12 +1,11 @@
-%% occasion: 'Výročí posvěcení kostela'
-%% occasion: 'Při svěcení oltáře'
+%% occasion: 'Úterý 5. týdne 2'
 %% responsum_reference: 'Ž 84 (83),2'
 %% verse_reference: 'Ž 84 (83)'
 %% author: olejnik
-%% source: nedelni_zaltar
-%% page: 301
-%% a: "bes'B c8 bes a_ g g2"
-%% b: "gB a8 f d_ c c2"
+%% source: vsedni_zaltar
+%% page: 206
+
+% Tento žalm má stejné texty veršů jako publikovaný OL291, OL293
 
 m: \key f \major
 

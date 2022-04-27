@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 317
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: f'8 f e d2 / d8 d e f / g g4 g8 / g g / a bes c c4. r4 ||
 t: Spravedlivý bude, Pane, přebývat na tvé svaté hoře.
 
 %% part: verse

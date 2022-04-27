@@ -1,0 +1,70 @@
+%% occasion: 'Čtvrtek 5. týdne 2'
+%% responsum_reference: 'Srov. Ž 106 (105),4a'
+%% verse_reference: 'Ž 106 (105)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 208
+%% a: "bes'B a8 g g_ f f2"
+%% b: "fB e8 d d_ c c2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 f f e d4 / g8 g g / g4( a) | bes8 bes a g / a bes c4 c2 ||
+t: Pamatuj na nás, Hospodine, pro náklonnost k svému lidu.
+
+%% part: verse
+
+m: bes'B a8 g g_( f) f4 r |
+t: Blaze těm, kteří dbají práva,
+
+m: fB e8 d d_( c) c4 r ||
+t: * spravedlivě jednají v každé době.
+
+%% part: verse
+
+m: bes'B a8 g g_( f) f4 r |
+t: Pamatuj na mě, Hospodine, pro náklonnost k svému lidu,
+
+m: fB e8 d d_ c c4 r ||
+t: * ujmi se mě a pomoz mi.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 g g_ f f4 |
+t: Naši otcové se smísili s pohany
+
+m: r8 f8 fB e8 d d_( c) c2 ||
+t: * a naučili se jejich skutkům.
+
+%% part: verse
+
+m: bes'B a8 g g_( f) f4 r |
+t: Uctívali jejich modly,
+
+m: fB e8 d d_( c) c2 ||
+t: * a ty se jim staly léčkou.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 g g_( f) f4 r |
+t: Obětovali své syny
+
+m: fB e8 d d_( c) c4 ||
+t: * i své dcery zlým duchům.
+
+%% part: verse
+
+m: r8 bes'8 besB a8 g g_ f f4 |
+t: Tu vzplanul hněv Hospodinův proti jeho národu
+
+m: r8 f8 fB e8 d d_ c c2 ||
+t: * a zošklivil si své dědictví.
+
+%% use: responsum
+

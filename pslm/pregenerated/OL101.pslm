@@ -6,11 +6,11 @@
 %% source: nedelni_zaltar
 %% page: 110
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: f'8 f f e d4 / g8 g g / g4( a) | bes8 bes a g / a bes c4 c2 ||
 t: Pamatuj na nás, Hospodine, pro náklonnost k svému lidu.
 
 %% part: verse

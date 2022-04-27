@@ -1,0 +1,73 @@
+%% occasion: 'Sobota 6. týdne 2'
+%% responsum_reference: 'Ž 12 (11),8a'
+%% verse_reference: 'Ž 12 (11)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 215
+%% a: "c''B b8 a a_ g g2"
+%% b: "gB fis8 e e_ d d2"
+
+m: \key g \major
+
+%% part: responsum
+
+m: g'4 d e8 d / e g / a4 a a2 ||
+t: Ty nás, Hospodine, ochráníš.
+
+%% part: verse
+
+m: c''B b8 a a_ g g2 |
+t: Pomoz, Hospodine, zbožných ubývá,
+
+m: gB fis8 e e_( d) d4 r ||
+t: * mezi lidmi se vytrácí věrnost.
+
+%% part: verse
+
+m: c''B b8 a a_( g) g4 r |
+t: Klamou se navzájem falešnými slovy,
+
+m: gB fis8 e e_( d) d4 r ||
+t: * hovoří úlisným rtem, dvojakým srdcem.
+
+%% part: responsum_short
+
+m: g'4 d e8 d / e g / a4 a a4 ||
+t: Ty nás, Hospodine, ochráníš.
+
+%% part: verse
+
+m: r8 c''8 cB b8 a a_( g) g2 |
+t: Nechť Hospodin každý úlisný ret zničí,
+
+m: gB fis8 e e_( d) d4 ||
+t: * jazyk, který chlubivě mluví,
+
+%% part: verse
+
+m: r8 c''8 cB b8 a a_ g g4 |
+t: ty, kteří říkají: „Naše síla je v jazyku,
+
+m: r8 g8 gB fis8 e e_( d) d2 ||
+t: * rty máme k vlastnímu prospěchu; kdo je náš pán?“
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B b8 a a_( g) g4 r |
+t: Hospodinovy výroky jsou upřímná slova,
+
+m: gB fis8 e e_ d d2 ||
+t: * ryzí stříbro, zbavené hlíny, sedmkrát tříbené.
+
+%% part: verse
+
+m: c''B b8 a a_ g g4 |
+t: Ty nás, Hospodine, ochráníš
+
+m: r8 g8 gB fis8 e e_ d d d2 ||
+t: * a zachováš navždy před tímto pokolením.
+
+%% use: responsum
+

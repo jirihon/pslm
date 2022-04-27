@@ -2387,13 +2387,97 @@
   array (
     0 => 'OL589',
   ),
+  'Pátek 3. týdne 2' => 
+  array (
+    0 => 'OL590',
+  ),
+  'Sobota 3. týdne 2' => 
+  array (
+    0 => 'OL591',
+  ),
+  'Úterý 4. týdne 2' => 
+  array (
+    0 => 'OL592',
+  ),
+  'Středa 4. týdne 2' => 
+  array (
+    0 => 'OL593',
+  ),
   'Pátek 4. týdne 2' => 
   array (
     0 => 'OL594',
   ),
+  'Sobota 4. týdne 2' => 
+  array (
+    0 => 'OL595',
+  ),
+  'Pondělí 5. týdne 2' => 
+  array (
+    0 => 'OL596',
+  ),
+  'Úterý 5. týdne 2' => 
+  array (
+    0 => 'OL597',
+  ),
+  'Středa 5. týdne 2' => 
+  array (
+    0 => 'OL598',
+  ),
+  'Čtvrtek 5. týdne 2' => 
+  array (
+    0 => 'OL599',
+  ),
+  'Pátek 5. týdne 2' => 
+  array (
+    0 => 'OL600',
+  ),
+  'Sobota 5. týdne 2' => 
+  array (
+    0 => 'OL601',
+  ),
+  'Pondělí 6. týdne 2' => 
+  array (
+    0 => 'OL602',
+  ),
+  'Úterý 6. týdne 2' => 
+  array (
+    0 => 'OL603',
+  ),
+  'Středa 6. týdne 2' => 
+  array (
+    0 => 'OL604',
+  ),
+  'Pondělí 25. týdne 2' => 
+  array (
+    0 => 'OL604',
+  ),
+  'Čtvrtek 6. týdne 2' => 
+  array (
+    0 => 'OL605',
+  ),
+  'Sobota 6. týdne 2' => 
+  array (
+    0 => 'OL606',
+  ),
   'Pondělí 7. týdne 2' => 
   array (
     0 => 'OL607',
+  ),
+  'Úterý 7. týdne 2' => 
+  array (
+    0 => 'OL608',
+  ),
+  'Středa 7. týdne 2' => 
+  array (
+    0 => 'OL609',
+  ),
+  'Čtvrtek 7. týdne 2' => 
+  array (
+    0 => 'OL610',
+  ),
+  'Sobota 7. týdne 2' => 
+  array (
+    0 => 'OL611',
   ),
   'Pondělí 8. týdne 2' => 
   array (

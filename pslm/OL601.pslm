@@ -1,0 +1,70 @@
+%% occasion: 'Sobota 5. týdne 2'
+%% responsum_reference: 'Srov. Ž 106 (105),4a'
+%% verse_reference: 'Ž 106 (105)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 210
+%% a: "bes'B a8 g g_ f f2"
+%% b: "fB e8 d d_ c c2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 f f e d4 / g8 g g / g4( a) | bes8 bes a g / a bes c4 c2 ||
+t: Pamatuj na nás, Hospodine, pro náklonnost k svému lidu.
+
+%% part: verse
+
+m: bes'B a8 g g_ f f2 |
+t: Hřešili jsme jako naši otcové,
+
+m: fB e8 d d_ c c4 r ||
+t: * páchali jsme nepravost, jednali bezbožně.
+
+%% part: verse
+
+m: bes'B a8 g g_ f f4 r |
+t: Naši otcové v Egyptě
+
+m: fB e8 d d_( c) c4 r ||
+t: * nechápali tvé divy.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 g g_ f f f4 |
+t: Zhotovili si tele u Chorebu
+
+m: r8 f8 fB e8 d d_( c) c4 r ||
+t: * a klaněli se modle ulité z kovu.
+
+%% part: verse
+
+m: bes'B a8 g g_( f) f4 r |
+t: Zaměnili tak svoji Slávu
+
+m: fB e8 d d_( c) c4 r ||
+t: * za sochu býka, který požírá trávu.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 g g_ f f4 r |
+t: Zapomněli na Boha, který je zachránil,
+
+m: fB e8 d d_( c) c4 r ||
+t: * který v Egyptě vykonal divy,
+
+%% part: verse
+
+m: bes'B a8 g g_( f) f4 r |
+t: zázraky v Chámově zemi,
+
+m: fB e8 d d_( c) c4 r ||
+t: * úžasné skutky u Rudého moře.
+
+%% use: responsum
+

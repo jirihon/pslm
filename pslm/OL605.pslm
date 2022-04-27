@@ -1,69 +1,71 @@
-%% occasion: 'Pátek 11. týdne 1'
-%% responsum_reference: 'Ž 34 (33),9a . R'
+%% occasion: 'Čtvrtek 6. týdne 2'
+%% responsum_reference: 'Ž 34 (33),7a'
 %% verse_reference: 'Ž 34 (33)'
 %% author: olejnik
 %% source: vsedni_zaltar
-%% page: 70
+%% page: 214
+%% a: "es'B f8 c es_ d d2"
+%% b: "c8 g'B a8 g g_ f f2"
 
-% Tento žalm má stejné texty veršů jako publikovaný OL98, OL605
+% Tento žalm má stejné texty veršů jako publikovaný OL98, OL461
 
-m: \key es \major
+m: \key bes \major
 
 %% part: responsum
 
-m: es'8 es f g as f r4 | f8 f / f g as / bes g~ g4 ||
-t: Okuste a vizte, jak je Hospodin dobrý.
+m: r8 f' f g a bes bes bes | r g c c a g f~ f4 ||
+t: Hle, ubožák zavolal, a Hospodin slyšel.
 
 %% part: verse
 
-m: aB |
+m: es'B f8 c es_ d d d4 r |
 t: Ustavičně chci velebit Hospodina,
 
-m: bB ||
+m: c8 g'B a8 g g_( f) f4 r ||
 t: * vždy bude v mých ústech jeho chvála.
 
 %% part: verse
 
-m: aB |
+m: es'B f8 c es_( d) d4 r |
 t: V Hospodinu nechť se chlubí moje duše,
 
-m: bB ||
+m: c8 g'B a8 g g_ f f f4 r ||
 t: * ať to slyší pokorní a radují se.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: es'B f8 c es_ d d d4 r |
 t: Velebte se mnou Hospodina,
 
-m: bB ||
+m: c8 g'B a8 g g_( f) f4 r ||
 t: * oslavujme spolu jeho jméno!
 
 %% part: verse
 
-m: aB |
+m: es'B f8 c es_ d d d4 r |
 t: Hledal jsem Hospodina a vyslyšel mě,
 
-m: bB ||
+m: c8 g'B a8 g g_( f) f4 r ||
 t: * vysvobodil mě ze všech mých obav.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: es'B f8 c es_ d d4 r |
 t: Pohleďte k němu, ať se rozveselíte,
 
-m: bB ||
+m: c8 g'B a8 g g_( f) f4 ||
 t: * vaše tvář se nemusí zardívat hanbou.
 
 %% part: verse
 
-m: aB |
+m: r8 es'8 esB f8 c es_( d) d4 r |
 t: Hle, ubožák zavolal, a Hospodin slyšel,
 
-m: bB ||
+m: c8 g'B a8 g g_( f) f4 r ||
 t: * pomohl mu ve všech jeho strastech.
 
 %% use: responsum

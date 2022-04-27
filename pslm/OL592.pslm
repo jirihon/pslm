@@ -1,9 +1,11 @@
-%% occasion: 'Sobota po Popeleční středě'
+%% occasion: 'Úterý 4. týdne 2'
 %% responsum_reference: 'Ž 86 (85),5a'
 %% verse_reference: 'Ž 86 (85)'
 %% author: olejnik
-%% source: nedelni_zaltar
-%% page: 77
+%% source: vsedni_zaltar
+%% page: 201
+
+% Tento žalm má stejné texty veršů jako publikovaný OL69
 
 m: \key es \major
 

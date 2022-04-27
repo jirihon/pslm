@@ -1,0 +1,67 @@
+%% occasion: 'Úterý 7. týdne 2'
+%% responsum_reference: 'Ž 55 (54),23a'
+%% verse_reference: 'Ž 55 (54)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 217
+%% a: "f'B g8 a a_ g g2"
+%% b: "dB c8 d f_ e e2"
+
+m: \key c \major
+
+%% part: responsum
+
+m: e'4( c) f8 e / d e / g a a a4. r8 a | c2 / b4( a) a8 g g2 ||
+t: Svou starost hoď na Hospodina, a on tě zachová.
+
+%% part: verse
+
+m: f'B g8 a a_( g) g4 r |
+t: Říkám si: Kéž bych měl křídla jak holub,
+
+m: dB c8 d f_( e) e4 ||
+t: * odletěl bych a dopřál si klidu.
+
+%% part: verse
+
+m: r8 f'8 fB g8 a a_ g g4 |
+t: Hle, daleko bych utekl,
+
+m: r8 d c8 d f_ e e4 r ||
+t: * zůstal bych na poušti.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B g8 a a_( g) g2 |
+t: Rychle bych spěchal do útočiště + před vichrem a bouří.
+
+m: dB c8 d f_ e e4 r ||
+t: * Pane, zmať a rozděl jim jazyky.
+
+%% part: responsum_short
+
+m: e'4( c) f8 e / d e / g a a a4. r8 a | c2 / b4( a) a8 g g4 ||
+t: Svou starost hoď na Hospodina, a on tě zachová.
+
+%% part: verse
+
+m: r8 f'8 fB g8 a a_ g g4 r |
+t: Vždyť vidím násilí a svár ve městě,
+
+m: dB c8 d f_( e) e2 ||
+t: * ve dne v noci obcházejí po jeho hradbách.
+
+%% use: responsum_short
+
+%% part: verse
+
+m: r8 f'8 fB g8 a a_ g g2 |
+t: Svou starost hoď na Hospodina, + a on tě zachová,
+
+m: dB c8 d f_ e e e2 ||
+t: * nikdy nedopustí, aby se viklal spravedlivý.
+
+%% use: responsum
+

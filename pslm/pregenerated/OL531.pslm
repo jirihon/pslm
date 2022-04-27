@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 140
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: g'8 as g f es / c es~ es4 / f8 f r4 | f8 g / as as as / as g as / bes g g2 ||
 t: Blahoslavení chudí v duchu, neboť jejich je království nebeské.
 
 %% part: verse

@@ -4,6 +4,8 @@
 %% author: olejnik
 %% source: vsedni_zaltar
 %% page: 219
+%% a: "c''B c8_ bes bes2"
+%% b: "asB g8_ f f2"
 
 m: \key es \major
 
@@ -14,72 +16,75 @@ t: Blahoslavení chudí v duchu, neboť jejich je království nebeské.
 
 %% part: verse
 
-m: aB |
+m: c''B c8_( bes) bes4 r |
 t: Takové je chování těch, kteří důvěřují v sebe,
 
-m: bB ||
+m: asB g8_ f f4 r ||
 t: * takový je konec těch, kteří se těší ze svého údělu.
 
 %% part: verse
 
-m: aB |
+m: c''B c8_ bes bes bes2 |
 t: Kladou je jak ovce do podsvětí,
 
-m: bB ||
+m: asB g8_( f) f2 ||
 t: * smrt je pase a spravedliví nad nimi vládnou.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B c8_ bes bes4 r |
 t: Jejich vzezření záhy pomine,
 
-m: bB ||
+m: asB g8_ f f4 r ||
 t: * podsvětí jim bude příbytkem.
 
 %% part: verse
 
-m: aB |
+m: c''B c8_ bes bes2 |
 t: Ale mou duši Bůh vysvobodí z podsvětí,
 
-m: bB ||
+m: asB g8_( f) f4 r ||
 t: * neboť mě vezme k sobě.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B c8_ bes bes4 |
 t: Neboj se, jestliže někdo zbohatne
 
-m: bB ||
+m: r8 as8 asB g8_( f) f4 ||
 t: * a vzroste majetek jeho domu.
 
 %% part: verse
 
-m: aB |
+m: r8 c''8 cB c8_ bes bes4 r |
 t: Až zemře, nic si s sebou nevezme,
 
-m: bB ||
+m: asB g8_( f) f2 ||
 t: * nesestoupí s ním jeho jmění.
 
-%% use: responsum
+%% part: responsum_short
+
+m: g'8 as g f es / c es~ es4 / f8 f r4 | f8 g / as as as / as g as / bes g g4 ||
+t: Blahoslavení chudí v duchu, neboť jejich je království nebeské.
 
 %% part: verse
 
-m: aB |
+m: r8 c''8 cB c8_ bes bes4 r |
 t: I kdyby si za svého života liboval:
 
-m: bB ||
+m: asB g8_ f f4 r ||
 t: * „Budou tě chválit, že sis to dobře zařídil“,
 
 %% part: verse
 
-m: aB |
+m: c''B c8_( bes) bes2 |
 t: přece se připojí ke svým předkům,
 
-m: bB ||
+m: asB g8_( f) f4 r ||
 t: * kteří navěky neuzří světla.
 
 %% use: responsum

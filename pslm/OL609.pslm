@@ -4,6 +4,8 @@
 %% author: olejnik
 %% source: vsedni_zaltar
 %% page: 218
+%% a: "c''B c8_ bes bes2"
+%% b: "asB g8_ f f2"
 
 m: \key es \major
 
@@ -14,64 +16,67 @@ t: Blahoslavení chudí v duchu, neboť jejich je království nebeské.
 
 %% part: verse
 
-m: aB |
+m: c''B c8_ bes bes4 r |
 t: Slyšte to, všechny národy,
 
-m: bB ||
+m: asB g8_( f) f4 r ||
 t: * poslouchejte, všichni obyvatelé světa,
 
 %% part: verse
 
-m: aB |
+m: c''B c8_ bes bes2 |
 t: prostí i vznešení,
 
-m: bB ||
+m: asB g8_( f) f2 ||
 t: * bohatý stejně jako chudý!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B c8_ bes bes2 |
 t: Proč bych se měl bát za dnů neštěstí,
 
-m: bB ||
+m: asB g8_ f f4 r ||
 t: * když mě svírá zloba nepřátel,
 
 %% part: verse
 
-m: aB |
+m: c''B c8_ bes bes4 |
 t: kteří spoléhají na svůj majetek
 
-m: bB ||
+m: r8 as8 asB g8_ f f2 ||
 t: * a chlubí se přemírou svého bohatství?
 
-%% use: responsum
+%% part: responsum_short
+
+m: g'8 as g f es / c es~ es4 / f8 f r4 | f8 g / as as as / as g as / bes g g4 ||
+t: Blahoslavení chudí v duchu, neboť jejich je království nebeské.
 
 %% part: verse
 
-m: aB |
+m: r8 c''8 cB c8_ bes bes bes2 |
 t: Vždyť nikdo sám sebe nevykoupí,
 
-m: bB ||
+m: asB g8_ f f2 ||
 t: * není s to zaplatit Bohu své výkupné.
 
 %% part: verse
 
-m: aB |
+m: c''B c8_( bes) bes4 r |
 t: Cena života je příliš veliká, + nikdy nebude stačit,
 
-m: bB ||
+m: asB g8_( f) f4 r ||
 t: * aby člověk žil navěky a neviděl zkázu.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B c8_( bes) bes4 |
 t: Neboť uvidí, že umírají moudří, + že stejně hyne pošetilec i hlupák
 
-m: bB ||
+m: r8 as8 asB g8_( f) f2 ||
 t: * a zanechávají své bohatství jiným.
 
 %% use: responsum
