@@ -10,7 +10,7 @@ m: \key f \major
 
 %% part: responsum
 
-m: c'8 | c d e g f~ f4 a8 g g g a | c c bes a g4. \breathe c8 | d4 c f, a8( g) g4 r ||
+m: c'8 | c d e / g f~ f4 / a8 g / g g a | c c / bes a g4. \breathe c8 | d4 c / f, a8( g) g4 r ||
 t: Ať spočine na nás, Hospodine, tvé milosrdenství, jak doufáme v tebe.
 
 %% part: verse
