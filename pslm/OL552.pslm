@@ -1,0 +1,79 @@
+%% occasion: 'Pátek 29. týdne 1'
+%% responsum_reference: 'Ž 119 (118),12b'
+%% verse_reference: 'Ž 119 (118)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 161
+%% a: "c''B c8_ bes bes2"
+%% b: "asB g8_ f f2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: g'8 f es as g f / es f g8. g16 g2 ||
+t: Nauč mě, Hospodine, svým příkazům!
+
+%% part: verse
+
+m: c''B c8_ bes bes2 |
+t: Nauč mě moudrosti a vědění,
+
+m: asB g8_ f f2 ||
+t: * neboť důvěřuji tvým předpisům.
+
+%% part: responsum_short
+
+m: g'8 f es as g f / es f g8. g16 g4 ||
+t: Nauč mě, Hospodine, svým příkazům!
+
+%% part: verse
+
+m: r8 c''8 cB c8_ bes bes bes2 |
+t: Jsi dobrotivý a prokazuješ dobrodiní,
+
+m: asB g8_ f f2 ||
+t: * nauč mě svým příkazům.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_ bes bes2 |
+t: Ať je mi útěchou tvé milosrdenství,
+
+m: asB g8_ f f f4 r ||
+t: * jak jsi slíbil svému služebníku.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_ bes bes bes4 r |
+t: Ať se mi dostane tvého slitování, abych byl živ,
+
+m: asB g8_ f f f2 ||
+t: * neboť tvůj zákon je mé potěšení.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_ bes bes bes4 |
+t: Na věky nezapomenu na tvá nařízení,
+
+m: r8 as8 asB g8_( f) f4 r ||
+t: * vždyť skrze ně jsi mi dal život.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_ bes bes4 r |
+t: Jsem tvůj, zachraň mě,
+
+m: asB g8_ f f f2 ||
+t: * neboť jsem hledal tvá nařízení.
+
+%% use: responsum
+

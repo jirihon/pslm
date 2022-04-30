@@ -1,0 +1,62 @@
+%% occasion: 'Sobota 30. týdne 1'
+%% responsum_reference: 'Ž 94 (93),14a'
+%% verse_reference: 'Ž 94 (93)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 165
+%% a: "bes'B a8 bes c_ a f f2"
+%% b: "dB e8 f a_ f g g2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 f g a bes bes / a g / c2 a ||
+t: Nezavrhne Hospodin svůj národ.
+
+%% part: verse
+
+m: bes'B a8 bes c_ a f f4 |
+t: Šťastný člověk, jehož vychováváš, Hospodine,
+
+m: r8 d8 dB e8 f a_( f g) g2 ||
+t: * a ve svém zákoně vyučuješ, + abys mu popřál klidu od zlých časů.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_( a f) f4 r |
+t: Neboť nezavrhne Hospodin svůj národ
+
+m: dB e8 f a_ f g g2 ||
+t: * a své dědictví neopustí.
+
+%% part: verse
+
+m: bes'B a8 bes c_( a f) f4 r |
+t: Ale ke spravedlnosti se vrátí právo,
+
+m: dB e8 f a_( f g) g4 r ||
+t: * následovat ji budou všichni upřímného srdce.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_ a f f4 r |
+t: Kdyby mně Hospodin nepomáhal,
+
+m: dB e8 f a_( f g) g4 r ||
+t: * brzo by odpočívala má duše v tichu smrti.
+
+%% part: verse
+
+m: bes'B a8 bes c_( a f) f2 |
+t: Jen si pomyslím: „Má noha je vratká“,
+
+m: dB e8 f a_( f g) g4 r ||
+t: * už mě podpírá, Hospodine, tvá milost.
+
+%% use: responsum
+

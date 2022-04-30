@@ -1,0 +1,70 @@
+%% occasion: 'Pátek 27. týdne 1'
+%% responsum_reference: 'Ž 9,9a'
+%% verse_reference: 'Ž 9'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 154
+%% a: "bes'B bes8_ a a2"
+%% b: "gB g8_ f f2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 f f e d / g4 a / g | a8 bes c4 c2 ||
+t: Hospodin bude soudit svět podle práva.
+
+%% part: verse
+
+m: bes'B bes8_( a) a4 |
+t: Hospodine, chci tě oslavovat z celého svého srdce,
+
+m: r8 g8 gB g8_( f) f2 ||
+t: * chci vyprávět o všech tvých podivuhodných skutcích.
+
+%% part: verse
+
+m: bes'B bes8_( a) a4 r |
+t: V tobě se chci radovat a jásat,
+
+m: gB g8_ f f f2 ||
+t: * opěvovat tvé jméno, Svrchovaný.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B bes8_( a) a4 r |
+t: Obořil ses na pohany, bezbožníka jsi potřel,
+
+m: gB g8_( f) f4 r ||
+t: * navždy jsi vyhladil jejich jméno.
+
+%% part: verse
+
+m: bes'B bes8_ a a a4 r |
+t: Pohané zapadli do jámy, kterou vykopali,
+
+m: gB g8_ f f f4 r ||
+t: * noha jim uvázla v léčce, kterou nastražili.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B bes8_( a) a4 r |
+t: Hospodin však trůní věčně,
+
+m: gB g8_( f) f4 r ||
+t: * stolec svůj postavil k soudu.
+
+%% part: verse
+
+m: bes'B bes8_( a) a4 r |
+t: Podle práva bude svět soudit,
+
+m: gB g8_ f f f4 r ||
+t: * podle spravedlnosti vyřkne rozsudek nad národy.
+
+%% use: responsum
+

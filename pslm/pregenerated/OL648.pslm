@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 257
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: f'8 f g a bes bes / a g / c2 a ||
 t: Nezavrhne Hospodin svůj národ.
 
 %% part: verse

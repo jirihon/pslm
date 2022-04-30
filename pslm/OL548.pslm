@@ -1,0 +1,65 @@
+%% occasion: 'Středa 28. týdne 1'
+%% responsum_reference: 'Ž 62 (61),6a'
+%% verse_reference: 'Ž 62 (61)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 157
+%% a: "e'B fis8 g b_ a a2"
+%% b: "aB g8 a c_ b b2"
+
+m: \key g \major
+
+%% part: responsum_short
+
+m: b'8 a b d c b4 a | g8 e e4 ||
+t: V Bohu jen odpočívej, duše má.
+
+%% part: verse
+
+m: r8 e'8 eB fis8 g b_( a) a4 r |
+t: Jen v Bohu odpočívá má duše,
+
+m: aB g8 a c_( b) b4 r ||
+t: * od něho je má spása.
+
+%% part: verse
+
+m: e'B fis8 g b_( a) a4 r |
+t: Jen on je má skála a spása,
+
+m: aB g8 a c_ b b4 r ||
+t: * má tvrz, nic mnou nepohne.
+
+%% use: responsum_short
+
+%% part: verse
+
+m: r8 e'8 eB fis8 g b_( a) a4 r |
+t: Jen v Bohu odpočívej, má duše,
+
+m: aB g8 a c_( b) b2 ||
+t: * od něho pochází to, v co doufám.
+
+%% part: verse
+
+m: e'B fis8 g b_( a) a4 |
+t: Jen on je má skála a spása,
+
+m: r8 a g8( a) c_ b b b4 r ||
+t: * má tvrz, nepohnu se!
+
+%% part: responsum
+
+m: b'8 a b d c b4 a | g8 e e2 ||
+t: V Bohu jen odpočívej, duše má.
+
+%% part: verse
+
+m: e'B fis8 g b_( a) a4 r |
+t: Lidé, doufejte v něho v každé době,
+
+m: aB g8 a c_ b b b4 r ||
+t: * před ním vylejte své srdce, + Bůh je naše útočiště!
+
+%% use: responsum
+

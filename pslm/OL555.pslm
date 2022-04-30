@@ -1,0 +1,70 @@
+%% occasion: 'Čtvrtek 30. týdne 1'
+%% responsum_reference: 'Ž 109 (108),26b'
+%% verse_reference: 'Ž 109 (108)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 164
+%% a: "bes'B a8 bes c_ a a2"
+%% b: "gB f8 g a_ f f2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 g a bes a g g4 \breathe | g8 g / a bes / c d c4 c2 ||
+t: Zachraň mě, Hospodine, podle svého slitování!
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) a4 r |
+t: Hospodine, Pane, zastaň se mě pro své jméno,
+
+m: gB f8 g a_ f f f2 ||
+t: * vysvoboď mě, vždyť tvá láska je dobrotivá!
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a2 |
+t: Já jsem totiž chudák a ubožák,
+
+m: gB f8 g a_( f) f2 ||
+t: * srdce se mi v nitru svíjí.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) a4 r |
+t: Pomoz mi, Hospodine, můj Bože,
+
+m: gB f8 g a_ f f f4 ||
+t: * zachraň mě podle svého slitování!
+
+%% part: verse
+
+m: r8 bes'8 besB a8 bes c_( a) a4 r |
+t: Ať poznají, že je to tvá ruka,
+
+m: gB f8 g a_ f f f4 r ||
+t: * že tys to učinil, Hospodine!
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) a4 r |
+t: Velmi budu oslavovat Hospodina svými ústy,
+
+m: gB f8 g a_( f) f4 r ||
+t: * uprostřed velkého zástupu ho budu chválit,
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a a4 r |
+t: neboť stanul chudákovi po pravici,
+
+m: gB f8 g a_ f f4 r ||
+t: * aby ho zachránil před soudci.
+
+%% use: responsum
+

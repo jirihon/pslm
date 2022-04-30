@@ -1,11 +1,11 @@
-%% occasion: 'Sv. Jana Evangelisty (27. prosince)'
+%% occasion: 'Sobota 27. týdne 1'
 %% responsum_reference: 'Ž 97 (96),12a'
 %% verse_reference: 'Ž 97 (96)'
 %% author: olejnik
-%% source: nedelni_zaltar
-%% page: 299
+%% source: vsedni_zaltar
+%% page: 155
 
-% Tento žalm má stejné texty veršů jako publikovaný OL546
+% Tento žalm má stejné texty veršů jako publikovaný OL289
 
 m: \key g \major
 
@@ -16,54 +16,54 @@ t: Radujte se, spravedliví, v Hospodinu.
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_( g) g4 r |
 t: Hospodin kraluje, ať zajásá země,
 
-m: bB ||
+m: gB fis8 e e_ d d4 r ||
 t: * ať se radují četné ostrovy!
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_ g g g2 |
 t: Mrak a temnota ho obklopují,
 
-m: bB ||
+m: gB fis8 e e_( d) d4 r ||
 t: * spravedlnost a právo jsou základem jeho trůnu.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_ g g4 r |
 t: Jako vosk se taví hory před Hospodinem,
 
-m: bB ||
+m: gB fis8 e e_( d) d4 r ||
 t: * před vladařem celé země.
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_ g g g4 |
 t: Nebesa hlásají jeho spravedlnost
 
-m: bB ||
+m: r8 g8 gB fis8 e e_( d) d4 r ||
 t: * a všechny národy vidí jeho slávu.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_( g) g4 |
 t: Spravedlivému vychází světlo
 
-m: bB ||
+m: r8 g8 gB fis8 e e_( d) d4 r ||
 t: * a lidem upřímného srdce radost.
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_ g g g4 |
 t: Radujte se, spravedliví, v Hospodinu
 
-m: bB ||
+m: r8 g8 gB fis8 e e_( d) d4 r ||
 t: * a oslavujte jeho svaté jméno!
 
 %% use: responsum

@@ -1,0 +1,70 @@
+%% occasion: 'Sobota 28. týdne 1'
+%% responsum_reference: 'Ž 105 (104),8a'
+%% verse_reference: 'Ž 105 (104)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 160
+%% a: "b'B cis8 b b_ a a2"
+%% b: "gB a8 g fis_ e e2"
+
+m: \key d \major
+
+%% part: responsum
+
+m: r8 d' e fis g g g fis / fis( e) e4 | r8 e fis g / a4( fis) fis2 ||
+t: Hospodin pamatuje věčně na svoji smlouvu.
+
+%% part: verse
+
+m: b'B cis8 b b_ a a a4 r |
+t: Potomstvo Abraháma, jeho služebníka,
+
+m: gB a8 g fis_ e e4 r ||
+t: * synové Jakuba, jeho vyvoleného!
+
+%% part: verse
+
+m: b'B cis8 b b_( a) a2 |
+t: Hospodin sám je náš Bůh,
+
+m: gB a8 g fis_ e e e2 ||
+t: * po celé zemi platí jeho rozhodnutí.
+
+%% use: responsum
+
+%% part: verse
+
+m: b'B cis8 b b_( a) a4 r |
+t: Pamatuje věčně na svoji smlouvu,
+
+m: gB a8 g fis_ e e e2 ||
+t: * na slib, který ustanovil pro tisíc pokolení,
+
+%% part: verse
+
+m: b'B cis8 b b_ a a a4 r |
+t: na smlouvu, kterou sjednal s Abrahámem,
+
+m: gB a8 g fis_ e e e4 r ||
+t: * na svou přísahu Izákovi.
+
+%% use: responsum
+
+%% part: verse
+
+m: b'B cis8 b b_( a) a4 r |
+t: Pamatoval na své svaté slovo,
+
+m: gB a8 g fis_ e e e4 r ||
+t: * které dal Abrahámovi, svému služebníku.
+
+%% part: verse
+
+m: b'B cis8 b b_( a) a4 r |
+t: V radosti vyvedl svůj národ,
+
+m: gB a8 g fis_ e e e2 ||
+t: * s jásotem své vyvolené.
+
+%% use: responsum
+

@@ -1,0 +1,83 @@
+%% occasion: 'Pondělí 27. týdne 1'
+%% responsum_reference: 'Jon 2,7c'
+%% verse_reference: 'Jon 2'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 151
+%% a: "c'B d8 e g_ f f2"
+%% b: "dB e8 f a_ g g2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: c''8 d c bes / a a / g f / bes4 / c8 bes / a f g g2 ||
+t: Ze záhuby vysvobodíš můj život, Hospodine!
+
+%% part: verse
+
+m: c'B d8 e g_ f f f4 |
+t: Ve své tísni jsem volal k Hospodinu,
+
+m: r8 d8 e8 f a_ g g4 r ||
+t: * a on mě vyslyšel.
+
+%% part: verse
+
+m: c'B d8 e g_( f) f4 r |
+t: Z lůna podsvětí jsem křičel,
+
+m: dB e8 f a_( g) g4 r ||
+t: * a slyšel jsi můj hlas.
+
+%% use: responsum
+
+%% part: verse
+
+m: c'B d8 e g_( f) f4 r |
+t: Do hlubiny, doprostřed moře jsi mě vrhl,
+
+m: d4 e8( f) a_ g g4 r ||
+t: * proud mě obklíčil,
+
+%% part: verse
+
+m: c'B d8 e g_( f) f4 |
+t: všechny tvé příboje a vlny
+
+m: r8 d8 e8 f a_ g g g4 r ||
+t: * se přes mě převalily.
+
+%% use: responsum
+
+%% part: verse
+
+m: c'B d8 e g_( f) f2 |
+t: Řekl jsem si: (+) „Jsem zavržen od tvých očí,
+
+m: dB e8 f a_ g g2 ||
+t: * ale znovu spatřím tvůj svatý chrám.“
+
+%% part: responsum_short
+
+m: c''8 d c bes / a a / g f / bes4 / c8 bes / a f g g4 ||
+t: Ze záhuby vysvobodíš můj život, Hospodine!
+
+%% part: verse
+
+m: r8 c'8 cB d8 e g_( f) f4 r |
+t: Když zmalátněla má duše,
+
+m: dB e8 f a_ g g4 ||
+t: * vzpomněl jsem si na Hospodina
+
+%% part: verse
+
+m: r8 c'8 cB d8 e g_( f) f4 r |
+t: a modlitba má přišla k tobě,
+
+m: dB e8 f a_( g) g4 r ||
+t: * do tvého svatého chrámu.
+
+%% use: responsum
+

@@ -1,0 +1,55 @@
+%% occasion: 'Úterý 31. týdne 1'
+%% occasion: 'Pondělí 31. týdne 2'
+%% responsum_reference: ''
+%% verse_reference: 'Ž 131 (130)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 167
+%% a: "c'B f8 e e_ d d2"
+%% b: "dB e8 f a_ g g2"
+
+m: \key c \major
+
+%% part: responsum
+
+m: g'8 a g g e / g a a r | b a g g g4 ||
+t: Opatruj, Pane, mou duši ve svém pokoji!
+
+%% part: verse
+
+m: c'B f8 e e_ d d d2 |
+t: Hospodine, mé srdce se nevypíná,
+
+m: dB e8 f a_( g) g4 r ||
+t: * nevyvyšují se mé oči,
+
+%% part: verse
+
+m: c'B f8 e e_( d) d4 r |
+t: neženu se za velikými věcmi
+
+m: dB e8 f a_ g g4 r ||
+t: * pro mě nedostižnými.
+
+%% use: responsum
+
+%% part: verse
+
+m: c'B f8 e e_( d) d4 r |
+t: Spíše jsem uklidnil a utišil svou duši
+
+m: dB e8 f a_( g) g4 r ||
+t: * jako dítě na matčině klíně; + jako dítě, tak je má duše ve mně.
+
+%% use: responsum
+
+%% part: verse
+
+m: c'B f8 e e_ d d d4 |
+t: Doufej, Izraeli, v Hospodina
+
+m: r8 d e8 f a_ g g4 r ||
+t: * nyní i na věky.
+
+%% use: responsum
+

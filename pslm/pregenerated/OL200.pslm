@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 209
 
-m: \key c \major
+m: \key g \major
 
 %% part: responsum
 
-m: bB ||
+m: b'8 a b d c b4 a | g8 e e2 ||
 t: V Bohu jen odpočívej, duše má.
 
 %% part: verse

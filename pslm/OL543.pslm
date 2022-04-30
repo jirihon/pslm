@@ -1,0 +1,70 @@
+%% occasion: 'Úterý 27. týdne 1'
+%% responsum_reference: 'Ž 130 (129),7bc'
+%% verse_reference: 'Ž 130 (129)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 152
+%% a: "c'B f8_ e d d2"
+%% b: "dB g8_ f e e2"
+
+m: \key c \major
+
+%% part: responsum
+
+m: e'8 g f e d c | f e e4 d | d8 a'8~ a4 / d8 c b a | b g4 e8 e2 ||
+t: U Hospodina je slitování, hojné u něho je vykoupení.
+
+%% part: verse
+
+m: c'B f8_ e d d4 r |
+t: Z hlubin volám k tobě, Hospodine,
+
+m: dB g8_( f e) e2 ||
+t: * Pane, vyslyš hlas můj!
+
+%% part: verse
+
+m: c'B f8_ e d d4 |
+t: Tvůj sluch ať je nakloněný
+
+m: r8 d8 dB g8_( f e) e4 r ||
+t: * k mé snažné prosbě!
+
+%% use: responsum
+
+%% part: verse
+
+m: c'B f8_ e d d4 r |
+t: Budešli uchovávat v paměti viny, Hospodine,
+
+m: dB g8_( f) e e2 ||
+t: * Pane, kdo obstojí?
+
+%% part: verse
+
+m: c'B f8_ e d d2 |
+t: Ale u tebe je odpuštění,
+
+m: dB g8_( f e) e4 r ||
+t: * abychom ti mohli v úctě sloužit.
+
+%% use: responsum
+
+%% part: verse
+
+m: c'B f8_ e d d2 |
+t: Neboť u Hospodina je slitování,
+
+m: dB g8_ f e e4 ||
+t: * hojné u něho je vykoupení.
+
+%% part: verse
+
+m: r8 c'8 cB f8_ e d d4 r |
+t: On vykoupí Izraele
+
+m: dB g8_ f e e2 ||
+t: * ze všech jeho provinění.
+
+%% use: responsum
+
