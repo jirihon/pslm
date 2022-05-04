@@ -1,0 +1,70 @@
+%% occasion: 'Sobota 33. týdne 1'
+%% responsum_reference: 'Ž 9,15'
+%% verse_reference: 'Ž 9'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 178
+%% a: "bes'B a8 bes c_ a a2"
+%% b: "gB f8 g a_ f f2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: c''4 d c4. a8 / f4 / g8( a) / bes g g4 / a8 c c c2 ||
+t: Rozjásám se nad tvou pomocí, Hospodine!
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) a4 |
+t: Hospodine, chci tě oslavovat z celého svého srdce,
+
+m: r8 g8 gB f8 g a_( f) f2 ||
+t: * chci vyprávět o všech tvých podivuhodných skutcích.
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) a4 r |
+t: V tobě se chci radovat a jásat,
+
+m: gB f8 g a_ f f f2 ||
+t: * opěvovat tvé jméno, Svrchovaný.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) a4 r |
+t: Protože se moji nepřátelé stáhli,
+
+m: gB f8 g a_( f) f2 ||
+t: * zhroutili se a zanikli před tvou tváří.
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) a4 r |
+t: Obořil ses na pohany, bezbožníka jsi potřel,
+
+m: gB f8 g a_( f) f4 r ||
+t: * navždy jsi vyhladil jejich jméno.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a a4 r |
+t: Pohané zapadli do jámy, kterou vykopali,
+
+m: gB f8 g a_ f f f4 r ||
+t: * noha jim uvázla v léčce, kterou nastražili,
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) a2 |
+t: neboť nebude na věky zapomenut chudák,
+
+m: gB f8 g a_( f) f4 r ||
+t: * naděje ubohých nezajde navždy!
+
+%% use: responsum
+

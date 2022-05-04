@@ -1,0 +1,50 @@
+%% occasion: 'Úterý 34. týdne 1'
+%% responsum_reference: ''
+%% verse_reference: 'Dan 3'
+%% comment: 'Odpověď (responsum) se nepředzpěvuje, ale zpívá se po každém verši.'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 179
+%% midi: ['verse_1', 'responsum']
+%% b: "f'8 besB a8 bes / c bes / a g / g_ f f4"
+
+m: \key bes \major
+
+%% part: verse
+
+m: f'8 besB a8 bes / c( bes) / a g / g_( f) f4 ||
+t: Všechna díla Páně, velebte Pána,
+
+%% part: responsum
+
+m: es'4 d8 c / f g f / g a / c bes bes2 ||
+t: chvalte a oslavujte ho na věky.
+
+%% part: verse
+
+m: f'8 besB a8 bes / c( bes) / a g / g_( f) f4 ||
+t: Andělé Páně, velebte Pána,
+
+%% use: responsum
+
+%% part: verse
+
+m: f'8 bes8 a8( bes) / c( bes) / a g / g_( f) f4 ||
+t: Nebesa, velebte Pána,
+
+%% use: responsum
+
+%% part: verse
+
+m: f'8 besB a8 bes / c( bes) / a g / g_( f) f4 ||
+t: Všechny vody nad nebem, velebte Pána,
+
+%% use: responsum
+
+%% part: verse
+
+m: f'8 besB a8 bes / c( bes) / a g / g_( f) f4 ||
+t: Všechny mocnosti Páně, velebte Pána,
+
+%% use: responsum
+

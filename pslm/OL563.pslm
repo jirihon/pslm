@@ -1,0 +1,76 @@
+%% occasion: 'Čtvrtek 32. týdne 1'
+%% responsum_reference: 'Ž 119 (118),12b'
+%% verse_reference: 'Ž 119 (118)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 172
+%% a: "c''B c8_ bes bes2"
+%% b: "asB g8_ f f2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: g'8 f es as g f / es f g8. g16 g2 ||
+t: Nauč mě, Hospodine, svým příkazům!
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 |
+t: Na věky, Hospodine, trvá tvé slovo,
+
+m: r8 as8 asB g8_ f f4 r ||
+t: * je pevné jako nebesa.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 r |
+t: Od pokolení do pokolení je tvá věrnost,
+
+m: asB g8_( f) f2 ||
+t: * založil jsi zemi, a ona trvá.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 r |
+t: Podle tvých rozhodnutí trvá stále,
+
+m: asB g8_( f) f2 ||
+t: * neboť všechno ti slouží.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_ bes bes bes4 r |
+t: Výklad tvých slov osvěcuje,
+
+m: asB g8_( f) f4 r ||
+t: * poučuje prosté lidi.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_ bes bes bes4 |
+t: Jasnou tvář ukaž svému služebníku
+
+m: r8 as8 asB g8_ f f2 ||
+t: * a nauč mě svým příkazům!
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 r |
+t: Kéž jsem živ, abych tě chválil,
+
+m: asB g8_ f f f2 ||
+t: * a tvá rozhodnutí ať mi pomáhají!
+
+%% use: responsum
+

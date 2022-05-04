@@ -1409,6 +1409,51 @@
     "OL559": [
         "OL559"
     ],
+    "OL560": [
+        "OL560"
+    ],
+    "OL561": [
+        "OL561"
+    ],
+    "OL562": [
+        "OL562"
+    ],
+    "OL563": [
+        "OL563"
+    ],
+    "OL564": [
+        "OL564"
+    ],
+    "OL565": [
+        "OL565"
+    ],
+    "OL566": [
+        "OL566"
+    ],
+    "OL567": [
+        "OL567"
+    ],
+    "OL568": [
+        "OL568"
+    ],
+    "OL569": [
+        "OL569"
+    ],
+    "OL570": [
+        "OL570"
+    ],
+    "OL571": [
+        "OL571"
+    ],
+    "OL572": [
+        "OL572"
+    ],
+    "OL573": [
+        "OL573"
+    ],
+    "OL574": [
+        "OL574"
+    ],
     "OL575": [
         "OL575"
     ],
@@ -3760,6 +3805,54 @@
     "Středa 31. týdne 1": [
         "OL559"
     ],
+    "Pondělí 32. týdne 1": [
+        "OL560"
+    ],
+    "Úterý 32. týdne 1": [
+        "OL561"
+    ],
+    "Středa 32. týdne 1": [
+        "OL562"
+    ],
+    "Čtvrtek 32. týdne 1": [
+        "OL563"
+    ],
+    "Sobota 32. týdne 1": [
+        "OL564"
+    ],
+    "Pondělí 33. týdne 1": [
+        "OL565"
+    ],
+    "Úterý 33. týdne 1": [
+        "OL566"
+    ],
+    "Pondělí 4. týdne 2": [
+        "OL566"
+    ],
+    "Středa 33. týdne 1": [
+        "OL567"
+    ],
+    "Čtvrtek 4. týdne 2": [
+        "OL568"
+    ],
+    "Sobota 33. týdne 1": [
+        "OL569"
+    ],
+    "Úterý 34. týdne 1": [
+        "OL570"
+    ],
+    "Středa 34. týdne 1": [
+        "OL571"
+    ],
+    "Čtvrtek 34. týdne 1": [
+        "OL572"
+    ],
+    "Pátek 34. týdne 1": [
+        "OL573"
+    ],
+    "Sobota 34. týdne 1": [
+        "OL574"
+    ],
     "Pondělí 1. týdne 2": [
         "OL575"
     ],
@@ -4593,7 +4686,8 @@
     ],
     "Pamatujte na divy, které učinil Hospodin.": [
         "OL84",
-        "OL475"
+        "OL475",
+        "OL564"
     ],
     "Hospodin je milosrdný a milostivý.": [
         "OL85",
@@ -5064,6 +5158,7 @@
     "Až procitnu, Hospodine, nasytím se pohledem na tebe.": [
         "OL252",
         "OL473",
+        "OL567",
         "OL691"
     ],
     "Přišel Hospodin, aby spravoval národy podle práva.": [
@@ -5109,7 +5204,8 @@
     ],
     "Ustavičně chci velebit Hospodina.": [
         "OL271",
-        "OL310"
+        "OL310",
+        "OL561"
     ],
     "Kdo sejí v slzách žnout budou s jásotem.": [
         "OL272"
@@ -5141,7 +5237,8 @@
     ],
     "Ty, Hospodine, vládneš nade vším.": [
         "OL283",
-        "OL292"
+        "OL292",
+        "OL568"
     ],
     "Svým andělům vydal o tobě příkaz, aby tě střežili na všech tvých cestách.": [
         "OL285"
@@ -5193,6 +5290,7 @@
     "Nauč mě, Hospodine, svým příkazům!": [
         "OL303",
         "OL552",
+        "OL563",
         "OL595",
         "OL635",
         "OL662"
@@ -5299,6 +5397,28 @@
     "Nezavrhne Hospodin svůj národ.": [
         "OL556",
         "OL648"
+    ],
+    "Hospodine, ty mě zkoumáš a znáš.": [
+        "OL560"
+    ],
+    "Povstaň, Bože, suď zemi!": [
+        "OL562"
+    ],
+    "Zachovej mi život, Pane, a budu dbát na tvá přikázání.": [
+        "OL565"
+    ],
+    "Povstaň, Hospodine, zachraň mě!": [
+        "OL566"
+    ],
+    "Rozjásám se nad tvou pomocí, Hospodine!": [
+        "OL569"
+    ],
+    "chvalte a oslavujte ho na věky.": [
+        "OL570",
+        "OL571",
+        "OL572",
+        "OL573",
+        "OL574"
     ],
     "Vysvoboď nás, Pane, pro svou lásku!": [
         "OL578"

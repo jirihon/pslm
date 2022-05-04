@@ -1,0 +1,71 @@
+%% occasion: 'Čtvrtek 4. týdne 2'
+%% responsum_reference: '1 Kron 29,12b'
+%% verse_reference: '1. Kron 29'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 177
+
+% Tento žalm má stejné texty veršů jako publikovaný OL292
+
+m: \key g \major
+
+%% part: responsum
+
+m: g'4 a8 g fis e | d2 g4 | a8 b a2 ||
+t: Ty, Hospodine, vládneš nade vším.
+
+%% part: verse
+
+m: c''B dB*2 b8_ b b b4 r |
+t: Veleben buď, Hospodine,
+
+m: aB bB*3 g8_ g r4 |
+t: * Bože Izraele, našeho otce,
+
+m: fis8 e fis( e) e_ d d4 r ||
+t: * od věků na věky.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B dB*2 b8_ b b4 r |
+t: Tvá je, Hospodine, moc a velikost,
+
+m: aB bB*2 g8_ g g4 r |
+t: * nádhera, lesk i vznešenost,
+
+m: fisB eB*2 fis8 e e_ d d4 r ||
+t: * neboť tobě patří všechno na nebi i na zemi.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B dB*3 b8_ b b4 r |
+t: Tobě, Hospodine, přísluší kralovat,
+
+m: aB bB*4 g8_ g g2 |
+t: * ty jsi svrchovaně povýšený nade vším,
+
+m: fisB eB*2 fis8 e e_ d d4 r ||
+t: * od tebe je bohatství a velebnost.
+
+%% part: responsum_short
+
+m: g'4 a8 g fis e | d2 g4 | a8 b a4 ||
+t: Ty, Hospodine, vládneš nade vším.
+
+%% part: verse
+
+m: r8 c''8 dB*2 b8_ b b4 r |
+t: Ty vládneš nade vším,
+
+m: aB bB*2 g4_ g r |
+t: * v tvé ruce je moc a síla,
+
+m: fisB eB*2 fis8 e e_( d) d4 r ||
+t: * z tvé ruky pochází všechna velikost a vláda.
+
+%% use: responsum
+

@@ -1,0 +1,52 @@
+%% occasion: 'Středa 32. týdne 1'
+%% responsum_reference: 'Ž 82 (81),8a'
+%% verse_reference: 'Ž 82 (81)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 171
+%% a: "d'B e8 f a_ g g2"
+%% b: "gB f8 g a_ c c2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: c''4 d c8 a4. | bes4( c) a8 g4. ||
+t: Povstaň, Bože, suď zemi!
+
+%% part: verse
+
+m: d'B e8 f a_ g g4 r |
+t: Zastávejte se utiskovaného a sirotka,
+
+m: gB f8 g a_( c) c4 r ||
+t: * ubohému a chudému pomáhejte k právu!
+
+%% part: verse
+
+m: d'B e8 f a_ g g4 r |
+t: Vysvoboďte utlačovaného a nuzného,
+
+m: gB f8 g a_ c c c4 r ||
+t: * z moci bezbožných ho vytrhněte!
+
+%% use: responsum
+
+%% part: verse
+
+m: d'B e8 f a_( g) g4 r |
+t: Já jsem řekl: „Jste bohy,
+
+m: gB f8 g a_ c c c4 r ||
+t: * všichni jste syny Nejvyššího.
+
+%% part: verse
+
+m: d'B e8 f a_( g) g2 |
+t: Ale zemřete jako lidé,
+
+m: gB f8 g a_( c) c4 r ||
+t: * padnete jako každý z knížat.“
+
+%% use: responsum
+

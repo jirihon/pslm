@@ -5,11 +5,11 @@
 %% source: vsedni_zaltar
 %% page: 120
 
-m: \key c \major
+m: \key d \major
 
 %% part: responsum
 
-m: bB ||
+m: fis'8 e d d4 r8 / g e / e4 fis4. g8 a2 ||
 t: Hospodine, ty mě zkoumáš a znáš.
 
 %% part: verse

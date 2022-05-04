@@ -1,61 +1,64 @@
-%% occasion: '32. neděle v mezidobí C'
+%% occasion: 'Středa 33. týdne 1'
 %% responsum_reference: 'Ž 17 (16),15b'
 %% verse_reference: 'Ž 17 (16)'
 %% author: olejnik
-%% source: nedelni_zaltar
-%% page: 261
+%% source: vsedni_zaltar
+%% page: 176
 
-% Tento žalm má stejné texty veršů jako publikovaný OL567
+% Tento žalm má stejné texty veršů jako publikovaný OL252
 
 m: \key d \major
 
-%% part: responsum
+%% part: responsum_short
 
-m: r8 fis' g fis e a fis fis fis2 | e8 b' b2 a4 / g8 a b cis a fis4 r ||
+m: r8 fis' g fis e a fis fis fis2 | e8 b' b2 a4 / g8 a b cis a fis4 ||
 t: Až procitnu, Hospodine, nasytím se pohledem na tebe.
 
 %% part: verse
 
-m: aB |
+m: r8 g'8 gB a8 b b_( a) a4 r |
 t: Slyš, Hospodine, spravedlivou žádost,
 
-m: bB ||
+m: eB d8 e g_ fis fis fis2 ||
 t: * všimni si mého nářku, + popřej sluchu mé modlitbě z bezelstných rtů!
 
-%% use: responsum
+%% use: responsum_short
 
 %% part: verse
 
-m: aB |
+m: r8 g'8 gB a8 b b_( a) a2 |
 t: Mé kroky pevně setrvaly na tvých stezkách,
 
-m: bB ||
+m: eB d8 e g_( fis) fis4 r ||
 t: * nezakolísaly mé nohy.
 
 %% part: verse
 
-m: aB |
+m: g'B a8 b b_( a) a4 r |
 t: Volám k tobě, protože mě vyslyšíš, Bože,
 
-m: bB ||
+m: eB d8 e g_( fis) fis4 ||
 t: * popřej mi sluchu, slyš mé slovo!
 
-%% use: responsum
+%% part: responsum
+
+m: r8 fis' g fis e a fis fis fis2 | e8 b' b2 a4 / g8 a b cis a fis2 ||
+t: Až procitnu, Hospodine, nasytím se pohledem na tebe.
 
 %% part: verse
 
-m: aB |
+m: g'B a8 b b_( a) a4 r |
 t: Opatruj mě jako zřítelnici oka,
 
-m: bB ||
+m: eB d8 e g_( fis) fis4 r ||
 t: * do stínu svých perutí mě ukryj.
 
 %% part: verse
 
-m: aB |
+m: g'B a8 b b_( a) a4 |
 t: Já však ve spravedlnosti uzřím tvou tvář,
 
-m: bB ||
+m: r8 e8 eB d8 e g_ fis fis4 r ||
 t: * až procitnu, nasytím se pohledem na tebe.
 
 %% use: responsum
