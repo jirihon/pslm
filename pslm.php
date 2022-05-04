@@ -281,6 +281,7 @@ function pslm_parse_psalm($psalm) {
         'text' => [],
     ];
     $verse_n = 1;
+    $use_n = 1;
     $opts = [];
     $part = '';
 
@@ -343,9 +344,12 @@ function pslm_parse_psalm($psalm) {
                     }
                 } elseif (isset($line_opts['use'])) {
                     $key = $line_opts['use'];
-                    $psalm['music'][] = $psalm['music'][$key];
-                    $psalm['text'][] = $psalm['text'][$key];
+                    $store_key = sprintf('%s_%s', $key, $use_n);
+                    $psalm['music'][$store_key] = $psalm['music'][$key];
+                    $psalm['text'][$store_key] = $psalm['text'][$key];
+                    $psalm['original_text'][$store_key] = $psalm['original_text'][$key];
                     $part = '';
+                    ++$use_n;
                 } else {
                     foreach ($line_opts as $key => $value) {
                         if (isset($opts[$key])) {

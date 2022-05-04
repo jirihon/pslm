@@ -458,6 +458,24 @@ function pslm_update_pregenerated() {
     }
 }
 
+function pslm_to_meta_description($psalm) {
+    $desc = [];
+
+    foreach ($psalm['original_text'] as $part => $text) {
+        $text = trim(implode(' ', $text));
+        $text = str_replace(' -- ', '', $text);
+        $text = preg_replace('#\s+#', ' ', $text);
+
+        if (preg_match('#^responsum#', $part)) {
+            $desc[] = sprintf('R. %s', $text);
+        } elseif (preg_match('#^verse_(\d+)#', $part, $m)) {
+            $desc[] = sprintf('%s. %s', $m[1], $text);
+        }
+    }
+    $desc = implode(' / ', $desc);
+    return $desc;
+}
+
 function pslm_render_psalm_html($id) {
     global $PSLM_SOURCES;
     $psalm = pslm_engrave($id, 'svg');
@@ -471,6 +489,8 @@ function pslm_render_psalm_html($id) {
     }
     $source = isset($opts['source']) && isset($PSLM_SOURCES[$opts['source']]) ? $PSLM_SOURCES[$opts['source']]['reference'] : '';
 
+    $desc = pslm_to_meta_description($psalm);
+
     ob_start();
 ?><!DOCTYPE html>
 <html lang="cs" prefix="og: http://ogp.me/ns#">
@@ -478,6 +498,7 @@ function pslm_render_psalm_html($id) {
 	<meta charset="UTF-8">
 	<title><?= pslm_psalm_title($id, $psalm) ?> – Žaltář</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="<?= $desc ?>" />
 	<link rel="stylesheet" href="css/sizes.css?ver=<?= time() ?>" media="all" />
 	<link rel="stylesheet" href="css/style.css?ver=<?= time() ?>" media="all" />
     <script>
