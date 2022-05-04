@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 130
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: \tuplet 3/2 { f'8[ f f] } e d g4. g8 \breathe / \tuplet 3/2 { g[ g g] } / f e / a a a2 ||
 t: Hospodinu chci zpívat, neboť je velmi vznešený.
 
 %% part: verse

@@ -1,11 +1,13 @@
-%% occasion: 'Pátek po 3. neděli adventní'
+%% occasion: 'Sobota 17. týdne 1'
 %% responsum_reference: 'Ž 67 (66),4'
 %% verse_reference: 'Ž 67 (66)'
 %% author: olejnik
-%% source: nedelni_zaltar
-%% page: 35
+%% source: vsedni_zaltar
+%% page: 103
+%% a: "c''B bes8_ as as2"
+%% b: "besB as8_ g g2"
 
-% Tento žalm má stejné texty veršů jako publikovaný OL494
+% Tento žalm má stejné texty veršů jako publikovaný OL27
 
 m: \key es \major
 
@@ -16,46 +18,46 @@ t: Ať tě, Bože, velebí národy, ať tě velebí, kdekterý národ!
 
 %% part: verse
 
-m: aB |
+m: c''B bes8_ as as2 |
 t: Bože, buď milostiv a žehnej nám,
 
-m: bB ||
+m: besB as8_ g g2 ||
 t: * ukaž nám svou jasnou tvář,
 
 %% part: verse
 
-m: aB |
+m: c''B bes8_( as) as2 |
 t: kéž se pozná na zemi, jak jednáš,
 
-m: bB ||
+m: besB as8_ g g g4 r ||
 t: * kéž poznají všechny národy, jak zachraňuješ.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B bes8_ as as4 |
 t: Nechť se lidé radují a jásají,
 
-m: bB ||
+m: r8 bes8 besB as8_( g) g2 ||
 t: * že soudíš národy spravedlivě + a lidi na zemi řídíš.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B bes8_ as as4 r |
 t: Země vydala svou úrodu,
 
-m: bB ||
+m: besB as8_ g g4 r ||
 t: * Bůh, náš Bůh, nám požehnal.
 
 %% part: verse
 
-m: aB |
+m: c''B bes8_( as) as2 |
 t: Kéž nám Bůh žehná,
 
-m: bB ||
+m: besB as8_( g) g4 r ||
 t: * ať ho ctí všechny končiny země!
 
 %% use: responsum

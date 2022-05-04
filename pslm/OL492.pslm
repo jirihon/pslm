@@ -1,0 +1,84 @@
+%% occasion: 'Čtvrtek 17. týdne 1'
+%% occasion: 'Sobota 16. týdne 2'
+%% responsum_reference: 'Ž 84 (83),2'
+%% verse_reference: 'Ž 84 (83)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 101
+%% a: "bes'B c8 bes a_ g g2"
+%% b: "gB a8 f d_ c c2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: r8 c' | f f e d / g4 g8 g | g g f e / a8. a16 a2 ||
+t: Jak milý je tvůj příbytek, Hospodine zástupů!
+
+%% part: verse
+
+m: bes'B c8 bes a_( g) g4 |
+t: Touží, ba prahne má duše po Hospodinových síních,
+
+m: r8 g8 gB a8 f d_( c) c4 r ||
+t: * mé srdce i mé tělo s jásotem tíhnou k živému Bohu.
+
+%% part: responsum_short
+
+m: r8 c' | f f e d / g4 g8 g | g g f e / a8. a16 a4 ||
+t: Jak milý je tvůj příbytek, Hospodine zástupů!
+
+%% part: verse
+
+m: r8 bes'8 besB c8 bes a_ g g4 |
+t: I vrabec si nalézá příbytek
+
+m: r8 g8 gB a8 f d_ c c4 ||
+t: * a vlaštovka své hnízdo, (+) kde ukládá svá mláďata:
+
+%% part: verse
+
+m: r8 bes'8 besB c8 bes a_ g g4 |
+t: Tvé oltáře, Hospodine zástupů,
+
+m: r8 g8 gB a8 f d_( c) c4 r ||
+t: * můj králi a můj Bože!
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 bes a_( g) g4 r |
+t: Blaze těm, kdo přebývají ve tvém domě,
+
+m: gB a8 f d_( c) c4 r ||
+t: * stále tě mohou chválit.
+
+%% part: verse
+
+m: bes'B c8 bes a_( g) g4 r |
+t: Blaze člověku, jenž u tebe nalézá pomoc,
+
+m: gB a8 f d_( c) c2 ||
+t: * půjde se silou stále větší.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 bes a_ g g4 |
+t: Věru, lepší je den ve tvých nádvořích
+
+m: r8 g8 a8 f d_ c c4 r ||
+t: * než jinde tisíce:
+
+%% part: verse
+
+m: bes'B c8 bes a_( g) g4 |
+t: raději budu stát na prahu domu svého Boha
+
+m: r8 g8 gB a8 f d_ c c c4 r ||
+t: * než přebývat ve stanech bezbožníka.
+
+%% use: responsum
+

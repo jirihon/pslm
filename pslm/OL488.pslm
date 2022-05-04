@@ -1,0 +1,73 @@
+%% occasion: 'Sobota 16. týdne 1'
+%% occasion: 'Čtvrtek 33. týdne 1'
+%% responsum_reference: 'Ž 50 (49),23b'
+%% verse_reference: 'Ž 50 (49)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 97
+%% a: "c''B c8_ bes bes2"
+%% b: "asB g8_ f f2"
+
+% Chyba v PDF: zbytečná nota nad slabikou té ve slově svaté.
+
+m: \key es \major
+
+%% part: responsum
+
+m: r8 g' es f g4 es | f8 g / as g4 f8 / g as / bes4 bes r ||
+t: Kdo žije správně, tomu ukážu Boží spásu.
+
+%% part: verse
+
+m: c''B c8_ bes bes4 r |
+t: Svrchovaný Bůh, Hospodin, promluvil a volal zem
+
+m: asB g8_ f f4 ||
+t: * od východu slunce až na západ.
+
+%% part: verse
+
+m: r8 c''8 cB c8_ bes bes4 r |
+t: Bůh zazářil ze Siónu plného nádhery:
+
+m: asB g8_ f f2 ||
+t: * přichází náš Bůh a nemlčí.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_( bes) bes2 |
+t: „Shromážděte mi mé svaté,
+
+m: asB g8_( f) f4 r ||
+t: * kteří obětí sjednali mou smlouvu!“
+
+%% part: verse
+
+m: c''B c8_ bes bes bes4 r |
+t: Nebesa zvěstují jeho spravedlnost,
+
+m: asB g8_( f) f4 r ||
+t: * že sám Bůh je soudcem.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c8_( bes) bes4 r |
+t: „Přinášej Bohu oběť chvály
+
+m: asB g8_( f) f4 r ||
+t: * a plň Nejvyššímu své sliby!
+
+%% part: verse
+
+m: c''B c8_ bes bes2 |
+t: Pak mě vzývej ve dni soužení,
+
+m: asB g8_( f) f4 r ||
+t: * vysvobodím tě, a budeš mě chválit.“
+
+%% use: responsum
+

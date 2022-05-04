@@ -1,0 +1,88 @@
+%% occasion: 'Středa 16. týdne 1'
+%% responsum_reference: 'Ž 78 (77),24b'
+%% verse_reference: 'Ž 78 (77)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 94
+%% a: "es'B d8_ es f f2"
+%% b: "cB bes8_ c d d2"
+
+m: \key bes \major
+
+%% part: responsum
+
+m: r8 f' g a bes bes~ bes4 | c8( bes) a( g) g f f4 ||
+t: Nebeský pokrm dal jim Hospodin.
+
+%% part: verse
+
+m: es'B d8_( es f) f4 |
+t: Pokoušeli Boha ve svém srdci,
+
+m: r8 c8 cB bes8_( c d) d4 r ||
+t: * když žádali pokrm podle své choutky.
+
+%% part: verse
+
+m: es'B d8_( es f) f4 r |
+t: Pohrdlivě mluvili proti Bohu,
+
+m: cB bes8_ c( d) d4 r ||
+t: * řekli: „Dokáže Bůh prostřít stůl zde na poušti?“
+
+%% use: responsum
+
+%% part: verse
+
+m: es'B d8_( es) f f4 |
+t: Poručil tedy mrakům nahoře
+
+m: r8 c8 cB bes8_( c d) d4 r ||
+t: * a otevřel brány nebes,
+
+%% part: verse
+
+m: es'B d8_( es) f f4 |
+t: seslal na ně déšť many, aby se najedli,
+
+m: r8 c8 cB bes8_( c d) d4 r ||
+t: * a dal jim nebeský pokrm.
+
+%% use: responsum
+
+%% part: verse
+
+m: es'B d8_( es f) f2 |
+t: Člověk jedl chléb silných,
+
+m: cB bes8_ c d d4 r ||
+t: * pokrm jim poslal do sytosti.
+
+%% part: verse
+
+m: es'B d8_( es f) f4 r |
+t: Východnímu větru dal vanout z nebe
+
+m: cB bes8_( c) d d4 r ||
+t: * a svou mocí přivedl vítr od jihu.
+
+%% use: responsum
+
+%% part: verse
+
+m: es'B d8_( es f) f4 r |
+t: Jak by to prach byl, seslal na ně déšť masa,
+
+m: cB bes8_( c d) d4 r ||
+t: * jak by to byl mořský písek, dal jim pernaté ptáky.
+
+%% part: verse
+
+m: es'B d8_( es) f f4 r |
+t: Padli do jejich tábora,
+
+m: cB bes8_( c d) d2 ||
+t: * kolem jejich stanů.
+
+%% use: responsum
+

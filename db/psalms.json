@@ -1283,11 +1283,59 @@
     "OL481": [
         "OL481"
     ],
+    "OL482": [
+        "OL482"
+    ],
+    "OL483": [
+        "OL483"
+    ],
+    "OL484": [
+        "OL484"
+    ],
+    "OL485": [
+        "OL485"
+    ],
     "OL486": [
         "OL486"
     ],
+    "OL487": [
+        "OL487"
+    ],
+    "OL488": [
+        "OL488"
+    ],
+    "OL489": [
+        "OL489"
+    ],
+    "OL490": [
+        "OL490"
+    ],
     "OL491": [
         "OL491"
+    ],
+    "OL492": [
+        "OL492"
+    ],
+    "OL493": [
+        "OL493"
+    ],
+    "OL494": [
+        "OL494"
+    ],
+    "OL495": [
+        "OL495"
+    ],
+    "OL496": [
+        "OL496"
+    ],
+    "OL497": [
+        "OL497"
+    ],
+    "OL498": [
+        "OL498"
+    ],
+    "OL499": [
+        "OL499"
     ],
     "OL500": [
         "OL500"
@@ -3547,14 +3595,68 @@
     "Pátek 15. týdne 1": [
         "OL481"
     ],
+    "Sobota 15. týdne 1": [
+        "OL482"
+    ],
+    "Pondělí 16. týdne 1": [
+        "OL483"
+    ],
+    "Úterý 16. týdne 1": [
+        "OL484"
+    ],
+    "Středa 16. týdne 1": [
+        "OL485"
+    ],
     "Čtvrtek 16. týdne 1": [
         "OL486"
     ],
     "Pondělí 34. týdne 1": [
         "OL486"
     ],
+    "Pátek 16. týdne 1": [
+        "OL487"
+    ],
+    "Sobota 16. týdne 1": [
+        "OL488"
+    ],
+    "Čtvrtek 33. týdne 1": [
+        "OL488"
+    ],
+    "Pondělí 17. týdne 1": [
+        "OL489"
+    ],
+    "Úterý 17. týdne 1": [
+        "OL490"
+    ],
     "Středa 17. týdne 1": [
         "OL491"
+    ],
+    "Čtvrtek 17. týdne 1": [
+        "OL492"
+    ],
+    "Sobota 16. týdne 2": [
+        "OL492"
+    ],
+    "Pátek 17. týdne 1": [
+        "OL493"
+    ],
+    "Sobota 17. týdne 1": [
+        "OL494"
+    ],
+    "Pondělí 18. týdne 1": [
+        "OL495"
+    ],
+    "Úterý 18. týdne 1": [
+        "OL496"
+    ],
+    "Středa 18. týdne 1": [
+        "OL497"
+    ],
+    "Čtvrtek 18. týdne 1": [
+        "OL498"
+    ],
+    "Pátek 18. týdne 1": [
+        "OL499"
     ],
     "Sobota 18. týdne 1": [
         "OL500"
@@ -4278,7 +4380,8 @@
     ],
     "Ať tě, Bože, velebí národy, ať tě velebí, kdekterý národ!": [
         "OL27",
-        "OL150"
+        "OL150",
+        "OL494"
     ],
     "Ať vejde Hospodin, on je král slávy!": [
         "OL28",
@@ -4408,6 +4511,7 @@
     "Smiluj se, Pane, neboť jsme zhřešili.": [
         "OL67",
         "OL94",
+        "OL496",
         "OL590",
         "OL628",
         "OL646"
@@ -4477,6 +4581,7 @@
         "OL204",
         "OL429",
         "OL441",
+        "OL488",
         "OL580",
         "OL637",
         "OL639",
@@ -4498,19 +4603,22 @@
         "OL337",
         "OL456",
         "OL467",
-        "OL479"
+        "OL479",
+        "OL490"
     ],
     "Kéž byste dnes uposlechli jeho hlasu: „Nezatvrzujte svá srdce!“": [
         "OL86",
         "OL294",
         "OL404",
+        "OL498",
         "OL728"
     ],
     "Zaslechnete-li dnes jeho hlas, nezatvrzujte svá srdce!": [
         "OL87"
     ],
     "Pane, ty máš slova věčného života.": [
-        "OL88"
+        "OL88",
+        "OL487"
     ],
     "Má duše žízní po tobě, Pane, Bože můj!": [
         "OL90",
@@ -4524,6 +4632,8 @@
     "Plesejte Bohu, který nám pomáhá.": [
         "OL93",
         "OL203",
+        "OL493",
+        "OL495",
         "OL600"
     ],
     "Hospodin je můj pastýř, nic nepostrádám.": [
@@ -4561,6 +4671,7 @@
     ],
     "Pamatuj na nás, Hospodine, pro náklonnost k svému lidu.": [
         "OL101",
+        "OL497",
         "OL599",
         "OL601"
     ],
@@ -4630,7 +4741,9 @@
         "OL623"
     ],
     "Hospodinu chci zpívat, neboť je velmi vznešený.": [
-        "OL121"
+        "OL121",
+        "OL483",
+        "OL484"
     ],
     "Jako laň prahne po vodních bystřinách, tak prahne má duše po tobě, Bože!": [
         "OL122"
@@ -4770,6 +4883,7 @@
         "OL177",
         "OL207",
         "OL465",
+        "OL489",
         "OL672"
     ],
     "Sešli svého ducha, Hospodine, a obnovíš tvář země.": [
@@ -4890,7 +5004,8 @@
         "OL223"
     ],
     "Nebeský pokrm dal jim Hospodin.": [
-        "OL224"
+        "OL224",
+        "OL485"
     ],
     "Pane, tys nám býval útočištěm od pokolení do pokolení.": [
         "OL225",
@@ -5049,6 +5164,7 @@
     "Jak milý je tvůj příbytek, Hospodine zástupů!": [
         "OL291",
         "OL332",
+        "OL492",
         "OL597",
         "OL687"
     ],
@@ -5154,6 +5270,12 @@
     ],
     "Chvalte Hospodina, protože je dobrý.": [
         "OL471"
+    ],
+    "jeho milosrdenství trvá na věky.": [
+        "OL482"
+    ],
+    "Vzpomínám na Hospodinovy činy.": [
+        "OL499"
     ],
     "Pro slávu svého jména vysvoboď nás, Pane!": [
         "OL540",

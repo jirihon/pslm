@@ -2251,6 +2251,22 @@
   array (
     0 => 'OL481',
   ),
+  'Sobota 15. týdne 1' => 
+  array (
+    0 => 'OL482',
+  ),
+  'Pondělí 16. týdne 1' => 
+  array (
+    0 => 'OL483',
+  ),
+  'Úterý 16. týdne 1' => 
+  array (
+    0 => 'OL484',
+  ),
+  'Středa 16. týdne 1' => 
+  array (
+    0 => 'OL485',
+  ),
   'Čtvrtek 16. týdne 1' => 
   array (
     0 => 'OL486',
@@ -2259,9 +2275,65 @@
   array (
     0 => 'OL486',
   ),
+  'Pátek 16. týdne 1' => 
+  array (
+    0 => 'OL487',
+  ),
+  'Sobota 16. týdne 1' => 
+  array (
+    0 => 'OL488',
+  ),
+  'Čtvrtek 33. týdne 1' => 
+  array (
+    0 => 'OL488',
+  ),
+  'Pondělí 17. týdne 1' => 
+  array (
+    0 => 'OL489',
+  ),
+  'Úterý 17. týdne 1' => 
+  array (
+    0 => 'OL490',
+  ),
   'Středa 17. týdne 1' => 
   array (
     0 => 'OL491',
+  ),
+  'Čtvrtek 17. týdne 1' => 
+  array (
+    0 => 'OL492',
+  ),
+  'Sobota 16. týdne 2' => 
+  array (
+    0 => 'OL492',
+  ),
+  'Pátek 17. týdne 1' => 
+  array (
+    0 => 'OL493',
+  ),
+  'Sobota 17. týdne 1' => 
+  array (
+    0 => 'OL494',
+  ),
+  'Pondělí 18. týdne 1' => 
+  array (
+    0 => 'OL495',
+  ),
+  'Úterý 18. týdne 1' => 
+  array (
+    0 => 'OL496',
+  ),
+  'Středa 18. týdne 1' => 
+  array (
+    0 => 'OL497',
+  ),
+  'Čtvrtek 18. týdne 1' => 
+  array (
+    0 => 'OL498',
+  ),
+  'Pátek 18. týdne 1' => 
+  array (
+    0 => 'OL499',
   ),
   'Sobota 18. týdne 1' => 
   array (

@@ -1,0 +1,73 @@
+%% occasion: 'Pátek 18. týdne 1'
+%% responsum_reference: 'Ž 77 (76),12a'
+%% verse_reference: 'Ž 77 (76)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 108
+%% a: "e'B fis8 g b_ a a2"
+%% b: "aB g8 a c_ b b2"
+
+m: \key g \major
+
+%% part: responsum
+
+m: g'4 a g2 | c8 d / c c / b a / a4( g) g2 ||
+t: Vzpomínám na Hospodinovy činy.
+
+%% part: verse
+
+m: e'B fis8 g b_( a) a4 r |
+t: Vzpomínám na Hospodinovy činy,
+
+m: aB g8 a c_( b) b4 r ||
+t: * ano, vzpomínám na dávné tvé divy.
+
+%% part: verse
+
+m: e'B fis8 g b_( a) a4 r |
+t: Rozvažuji všechna tvá díla,
+
+m: aB g8 a c_( b) b2 ||
+t: * přemítám o všech tvých skutcích.
+
+%% use: responsum
+
+%% part: verse
+
+m: e'B fis8 g b_ a a2 |
+t: Bože, svaté je tvé chování:
+
+m: aB g8 a c_( b) b2 ||
+t: * který bůh je tak veliký jako náš Bůh?
+
+%% part: verse
+
+m: e'B fis8 g b_( a) a4 r |
+t: Ty jsi Bůh, který činí divy,
+
+m: aB g8 a c_( b) b4 r ||
+t: * národům jsi dal poznat svou moc.
+
+%% part: responsum_short
+
+m: g'4 a g2 | c8 d / c c / b a / a4( g) g4 ||
+t: Vzpomínám na Hospodinovy činy.
+
+%% part: verse
+
+m: r8 e'8 eB fis8 g b_( a) a4 r |
+t: Svým ramenem jsi vykoupil svůj národ,
+
+m: aB g8 a c_( b) b4 ||
+t: * Jakubovy a Josefovy syny.
+
+%% part: verse
+
+m: r8 e'8 eB fis8 g b_( a) a4 r |
+t: Jak stádo jsi vedl svůj národ,
+
+m: aB g8 a c_( b) b2 ||
+t: * Mojžíšovou a Árónovou rukou.
+
+%% use: responsum
+

@@ -1,0 +1,81 @@
+%% occasion: 'Úterý 16. týdne 1'
+%% responsum_reference: 'Ex 15,1a'
+%% verse_reference: 'Ex 15'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 93
+%% a: "bes'B c8 bes a_ g g2"
+%% b: "gB a8 f d_ c c2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: \tuplet 3/2 { f'8[ f f] } e d g4. g8 \breathe / \tuplet 3/2 { g[ g g] } / f e / a a a2 ||
+t: Hospodinu chci zpívat, neboť je velmi vznešený.
+
+%% part: verse
+
+m: bes'B c8 bes a_( g) g4 r |
+t: Dechem tvých nozder se nakupily vody,
+
+m: gB a8 f d_( c) c4 r ||
+t: * jako hráz se vztyčily proudící vlny,
+
+%% part: verse
+
+m: bes'B c8 bes a_( g) g4 r |
+t: příboje ztuhly uprostřed moře.
+
+m: gB a8 f d_ c c4 r ||
+t: * Nepřítel řekl: „Budu pronásledovat a dostihnu;
+
+%% part: verse
+
+m: bes'B c8 bes a_( g) g4 r |
+t: rozdělím kořist, naplní se jí má touha:
+
+m: gB a8 f d_ c c2 ||
+t: * vytasím svůj meč, má ruka je zahubí!“
+
+%% part: responsum_short
+
+m: \tuplet 3/2 { f'8[ f f] } e d g4. g8 \breathe / \tuplet 3/2 { g[ g g] } / f e / a a a4 ||
+t: Hospodinu chci zpívat, neboť je velmi vznešený.
+
+%% part: verse
+
+m: r8 bes'8 besB c8 bes a_( g) g4 r |
+t: Tu zavál tvůj hněv, a přikrylo je moře;
+
+m: gB a8 f d_( c) c2 ||
+t: * potopili se jak olovo v bouřných vodách.
+
+%% part: verse
+
+m: bes'B c8 bes a_ g g4 |
+t: Vztáhl jsi svou pravici,
+
+m: r8 g8 gB a8 f d_( c) c4 r ||
+t: * a pohltila je země.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B c8 bes a_ g g2 |
+t: Přivedeš a zasadíš svůj lid na hoře, na svém vlastnictví,
+
+m: gB a8 f d_( c) c4 r ||
+t: * na místě, kde si, Hospodine, buduješ své sídlo,
+
+%% part: verse
+
+m: bes'B c8 bes a_( g) g4 r |
+t: ve svatyni, Pane, kterou vystavěly tvé ruce.
+
+m: gB a8 f d_( c) c4 r ||
+t: * Hospodin bude kralovat na věky a navždy.
+
+%% use: responsum
+

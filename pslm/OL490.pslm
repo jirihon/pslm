@@ -1,0 +1,88 @@
+%% occasion: 'Úterý 17. týdne 1'
+%% responsum_reference: 'Ž 103 (102),8a'
+%% verse_reference: 'Ž 103 (102)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 99
+%% a: "c''B d8 c bes_ g es es2"
+%% b: "cB d8 es g_ es f f2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: g'8 g f4 es | \tuplet 3/2 { as8[ as g] } f2 \breathe / bes,4 | \tuplet 3/2 {bes'8[ bes as] } g2  ||
+t: Hospodin je milosrdný a milostivý.
+
+%% part: verse
+
+m: c''B d8 c bes_( g es) es4 r |
+t: Hospodin koná spravedlivé skutky,
+
+m: cB d8 es g_ es f f2 ||
+t: * zjednává právo všem utlačeným.
+
+%% part: verse
+
+m: c''B d8 c bes_ g es es4 r |
+t: Oznámil své plány Mojžíšovi,
+
+m: cB d8 es g_( es f) f4 r ||
+t: * izraelským synům své skutky.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B d8 c bes_ g es es2 |
+t: Hospodin je milosrdný a milostivý,
+
+m: cB d8 es g_ es f f2 ||
+t: * shovívavý a nadmíru dobrotivý.
+
+%% part: verse
+
+m: c''B d8 c bes_ g es es4 r |
+t: Nechce se přít ustavičně
+
+m: cB d8 es g_( es) f f4 r ||
+t: * ani se hněvat na věky.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B d8 c bes_( g es) es2 |
+t: Nejedná s námi podle našich hříchů
+
+m: cB d8 es g_ es f f2 ||
+t: * ani podle našich vin nám neodplácí.
+
+%% part: verse
+
+m: c''B d8 c bes_( g) es es2 |
+t: Jako je vysoko nebe nad zemí,
+
+m: cB d8 es g_( es f) f2 ||
+t: * tak je velká jeho láska k těm, kdo se ho bojí.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B d8 c bes_ g es es4 |
+t: Jako je vzdálen východ od západu,
+
+m: r8 c8 cB d8 es g_ es f f4 r ||
+t: * tak vzdaluje od nás naše nepravosti.
+
+%% part: verse
+
+m: c''B d8 c bes_( g) es es4 r |
+t: Jako se smilovává otec nad syny,
+
+m: cB d8 es g_( es f) f2 ||
+t: * tak se smilovává Hospodin nad těmi, kdo se ho bojí.
+
+%% use: responsum
+
