@@ -4,8 +4,8 @@
 %% author: olejnik
 %% source: nedelni_zaltar
 %% page: 148
-%% a: "as'B c8 c bes_ bes bes2"
-%% b: "fB as8 as g_ g g2"
+%% a: "as'B cB*2 bes8_ bes bes2"
+%% b: "fB asB*2 g8_ g g2"
 
 m: \key es \major
 
@@ -16,64 +16,64 @@ t: Ukaž mi, Pane, cestu k životu.
 
 %% part: verse
 
-m: as'B c8 c bes_ bes bes2 |
+m: as'B cB*2 bes8_ bes bes2 |
 t: Ochraň mě, Bože, neboť se k tobě utíkám.
 
-m: fB as8 as g4_ g2 ||
+m: fB asB*2 g4_ g2 ||
 t: * Pravím Hospodinu: „Ty jsi můj Pán.“
 
 %% part: verse
 
-m: as'B c8 c bes4_ bes2 |
+m: as'B cB*2 bes4_ bes2 |
 t: Ty jsi, Hospodine, mým dědičným podílem i mou číší,
 
-m: fB as8 as as g4_ g4 r ||
+m: fB asB*3 g4_ g4 r ||
 t: * ty mně zachováváš můj úděl.
 
 %% use: responsum
 
 %% part: verse
 
-m: as'B c8 c c bes4_ bes4 r |
+m: as'B cB*3 bes4_ bes4 r |
 t: Velebím Hospodina, že mi byl rádcem,
 
-m: fB as8 as as as g_ g r4 ||
+m: fB asB*4 g8_ g r4 ||
 t: * k tomu mě i za noci vybízí mé nitro.
 
 %% part: verse
 
-m: as'B c8 c c c bes_ bes bes bes4 r |
+m: as'B cB*4 bes8_ bes bes bes4 r |
 t: Hospodina mám neustále na zřeteli,
 
-m: fB as8 as as g_ g g g4 r ||
+m: fB asB*3 g8_ g g g4 r ||
 t: * nezakolísám, když je mi po pravici.
 
 %% use: responsum
 
 %% part: verse
 
-m: as'B c8 c c bes_ bes4. r4 |
+m: as'B cB*3 bes8_ bes4. r4 |
 t: Proto se raduje mé srdce, má duše plesá,
 
-m: fB as8 as g_ g g2 ||
+m: fB asB*2 g8_ g g2 ||
 t: * i mé tělo bydlí v bezpečí,
 
 %% part: verse
 
-m: as'B c8 c bes_ bes bes2 |
+m: as'B cB*2 bes8_ bes bes2 |
 t: neboť nezanecháš mou duši v podsvětí,
 
-m: fB as8 as g_ g g g2 ||
+m: fB asB*2 g8_ g g g2 ||
 t: * nedopustíš, aby tvůj svatý spatřil porušení.
 
 %% use: responsum
 
 %% part: verse
 
-m: as'B c8 c bes_ bes bes4 r |
+m: as'B cB*2 bes8_ bes bes4 r |
 t: Ukážeš mi cestu k životu,
 
-m: fB as8 as as as g_ g g4 r ||
+m: fB asB*4 g8_ g g4 r ||
 t: * u tebe je hojná radost, + po tvé pravici je věčná slast.
 
 %% use: responsum

@@ -7,7 +7,7 @@
 %% page: 167
 %% a: "c''B b8 c d_ b b2"
 %% b: "aB g8 a b_ g g2"
-%% c: "fisB e8 e fis8 e e_ d d2"
+%% c: "fisB eB*2 fis8 e e_ d d2"
 
 
 m: \key g \major
@@ -25,7 +25,7 @@ t: Zpívejte Hospodinu novou píseň,
 m: aB g8 a b_( g) g4 r |
 t: * zpívejte Hospodinu všechny země!
 
-m: fisB e8 e e fis8 e e_( d) d4 r ||
+m: fisB eB*3 fis8 e e_( d) d4 r ||
 t: * Zpívejte Hospodinu, velebte jeho jméno!
 
 %% use: responsum
@@ -51,7 +51,7 @@ t: Hlásejte mezi pohany: Hospodin kraluje.
 m: aB g8 a b_ g g g4 r |
 t: * Upevnil svět, aby nekolísal:
 
-m: fisB e8 e fis8 e e_( d) d4 r ||
+m: fisB eB*2 fis8 e e_( d) d4 r ||
 t: * národy řídí podle práva.
 
 %% use: responsum

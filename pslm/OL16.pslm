@@ -16,72 +16,72 @@ t: Velkou věc s námi učinil Hospodin, naplnila nás radost.
 
 %% part: verse
 
-m: r8 bes' besB c8 c c / a_ a a4 r |
+m: r8 bes' besB cB*3 a8_ a a4 r |
 t: Když Hospodin přiváděl siónské zajatce,
 
-m: gB a8 a / f_ f4. r4 ||
+m: gB aB*2 f8_ f4. r4 ||
 t: * byli jsme jako ve snách.
 
 %% part: verse
 
-m: bes'B c8 c / a4_ a r |
+m: bes'B cB*2 / a4_ a r |
 t: Tehdy naše ústa byla plná smíchu
 
-m: gB a8 a / f_ f f4 r ||
+m: gB aB*2 f8_ f f4 r ||
 t: * a náš jazyk plný jásotu.
 
 %% use: responsum
 
 %% part: verse
 
-m: bes'B c8 c / a_ a a4 r |
+m: bes'B cB*2 a8_ a a4 r |
 t: Tehdy se říkalo mezi pohany:
 
-m: gB a8 a a / f_ f f4 r ||
+m: gB aB*3 f8_ f f4 r ||
 t: * „Velkou věc s nimi učinil Hospodin!“
 
 %% part: verse
 
-m: bes'B c8 c c / a_ a a4 r |
+m: bes'B cB*3 a8_ a a4 r |
 t: Ano, velkou věc s námi učinil Hospodin,
 
-m: gB a8 a a / f_ f r4 ||
+m: gB aB*3 f8_ f r4 ||
 t: * naplnila nás radost.
 
 %% use: responsum
 
 %% part: verse
 
-m: bes'B c8 c / a_ a r4 |
+m: bes'B cB*2 a8_ a r4 |
 t: Hospodine, změň náš osud,
 
-m: gB a8 a a / f_ f r4 ||
+m: gB aB*3 f8_ f r4 ||
 t: * jako se mění údolí na jihu země.
 
 %% part: verse
 
-m: r8 bes' c8 c a_ a4. r4  |
+m: r8 bes' cB*2 a8_ a4. r4  |
 t: Kdo sejí v slzách,
 
-m: gB a8 a / f_ f f4 r ||
+m: gB aB*2 f8_ f f4 r ||
 t: * žnouti budou s jásotem.
 
 %% use: responsum
 
 %% part: verse
 
-m: bes'B c8 c / a4_ a |
+m: bes'B cB*2 / a4_ a |
 t: Vycházejí s pláčem,
 
-m: r8 g gB a8 a a / f_ f4 ||
+m: r8 g gB aB*3 f8_ f4 ||
 t: * když nesou semeno k setí:
 
 %% part: verse
 
-m: r8 bes' c c a_ a a4 |
+m: r8 bes' cB*2 a8_ a a4 |
 t: přijdou však s jásotem
 
-m: r8 g gB a8 a f_ f r4 ||
+m: r8 g gB aB*2 f8_ f r4 ||
 t: * a přinesou své snopy.
 
 %% use: responsum

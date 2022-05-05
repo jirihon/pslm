@@ -5,8 +5,8 @@
 %% source: nedelni_zaltar
 %% page: 153
 %% comment: "Na obdobnou melodii odpovědi se může zpívat text Aleluja, aleluja."
-%% a: "as'B c8 c bes_ bes bes2"
-%% b: "fB as8 as g_ g g2"
+%% a: "as'B cB*2 bes8_ bes bes2"
+%% b: "fB asB*2 g8_ g g2"
 
 m: \key es \major
 

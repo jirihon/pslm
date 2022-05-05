@@ -4,8 +4,8 @@
 %% author: olejnik
 %% source: nedelni_zaltar
 %% page: 78
-%% a: "bes'B c8 c a_ a a2"
-%% b: "gB a8 a f_ f f2"
+%% a: "bes'B cB*2 a8_ a a2"
+%% b: "gB aB*2 f8_ f f2"
 
 m: \key f \major
 
@@ -16,54 +16,54 @@ t: Všechno tvé jednání, Hospodine, je láska a věrnost pro ty, kdo plní tv
 
 %% part: verse
 
-m: bes'B c8 c a_ a a a4 |
+m: bes'B cB*2 a8_ a a a4 |
 t: Ukaž mi své cesty, Hospodine,
 
-m: r8 g gB a8 a f_ f4. r4 ||
+m: r8 g gB aB*2 f8_ f4. r4 ||
 t: * a pouč mě o svých stezkách.
 
 %% part: verse
 
-m: bes'B c8 c c a4_ a r |
+m: bes'B cB*3 a4_ a r |
 t: Veď mě ve své pravdě a uč mě,
 
-m: gB a8 a f_ f f4 r ||
+m: gB aB*2 f8_ f f4 r ||
 t: * neboť ty jsi Bůh, můj spasitel.
 
 %% use: responsum
 
 %% part: verse
 
-m: bes'B c8 c a_ a a a2 |
+m: bes'B cB*2 a8_ a a a2 |
 t: Rozpomeň se, Hospodine, na své slitování,
 
-m: gB a8 a a a f_ f r4 ||
+m: gB aB*4 f8_ f r4 ||
 t: * na své milosrdenství, které trvá věčně.
 
 %% part: verse
 
-m: bes'B c8 c a_ a a2 |
+m: bes'B cB*2 a8_ a a2 |
 t: Pamatuj na mě ve svém milosrdenství
 
-m: gB a8 a a a f_ f f f4 r ||
+m: gB aB*4 f8_ f f f4 r ||
 t: * pro svou dobrotivost, Hospodine!
 
 %% use: responsum
 
 %% part: verse
 
-m: bes'B c8 c c a_ a a a2 |
+m: bes'B cB*3 a8_ a a a2 |
 t: Hospodin je dobrý a dokonalý,
 
-m: gB a8 a a f_ f r4 ||
+m: gB aB*3 f8_ f r4 ||
 t: * proto ukazuje hříšníkům cestu.
 
 %% part: verse
 
-m: bes'B c8 c c a_ a a2 |
+m: bes'B cB*3 a8_ a a2 |
 t: Pokorné vede k správnému jednání,
 
-m: gB a8 a a f_ f r4 ||
+m: gB aB*3 f8_ f r4 ||
 t: * pokorné učí své cestě.
 
 %% use: responsum
