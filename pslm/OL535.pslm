@@ -1,0 +1,59 @@
+%% occasion: 'Pátek 25. týdne 1'
+%% responsum_reference: 'Ž 43 (42),5cd'
+%% verse_reference: 'Ž 43 (42)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 144
+%% a: "a'B g8 a b_ g g2"
+%% b: "fB e8 f g_ e e2"
+
+m: \key c \major
+
+%% part: responsum
+
+m: e'4. d8 d( c) c4 | r8 c f f f / f e e( d) d4 \breathe | e4. f8 / g g g g /  e e4 g a a~a2 ||
+t: Doufej v Boha, vždyť zase ho budu chválit, svého spasitele a svého Boha!
+
+%% part: verse
+
+m: a'B g8 a b_( g) g4 r |
+t: Bože, zjednej mi právo + a ujmi se mé pře proti bezbožnému lidu,
+
+m: fB e8 f g_ e e e4 r ||
+t: * zbav mě člověka lstivého a zločinného!
+
+%% use: responsum
+
+%% part: verse
+
+m: a'B g8 a b_( g) g4 r |
+t: Bože, vždyť ty jsi má síla, + proč jsi mě zahnal?
+
+m: fB e8 f g_ e e e4 r ||
+t: * Proč se musím smutně vláčet tísněn nepřítelem?
+
+%% use: responsum
+
+%% part: verse
+
+m: a'B g8 a b_( g) g4 r |
+t: Sešli své světlo a svou věrnost:
+
+m: fB e8 f g_( e) e2 ||
+t: * ty ať mě vedou a přivedou + na tvou svatou horu a do tvých stanů.
+
+%% part: responsum_short
+
+m: e'4. d8 d( c) c4 | r8 c f f f / f e e( d) d4 \breathe | e4. f8 / g g g g / e e4 g a a~a4 ||
+t: Doufej v Boha, vždyť zase ho budu chválit, svého spasitele a svého Boha!
+
+%% part: verse
+
+m: r8 a'8 aB g8 a b_ g g2 |
+t: Pak přistoupím k Božímu oltáři, + k Bohu, který mě naplňuje radostí.
+
+m: fB e8 f g_( e) e4 r ||
+t: * Oslavím tě citerou, Bože, můj Bože!
+
+%% use: responsum
+

@@ -8,11 +8,11 @@
 
 % Tento žalm má stejné texty veršů jako publikovaný OL706
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: f'8 g a4 a / bes8 a g a bes / c4 c2 ||
 t: Veliká jsou Hospodinova díla.
 
 %% part: verse

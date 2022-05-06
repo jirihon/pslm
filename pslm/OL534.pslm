@@ -1,0 +1,82 @@
+%% occasion: 'Středa 25. týdne 1'
+%% responsum_reference: 'Tob 13,1b'
+%% verse_reference: 'Tob 13'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 143
+%% a: "es'B d8 es f_ g f f2"
+%% b: "cB bes8 c d_ es d d2"
+
+m: \key bes \major
+
+%% part: responsum
+
+m: f'8 bes a4 bes / c8 bes a g / g f f2 ||
+t: Veliký jsi, Hospodine, na věky.
+
+%% part: verse
+
+m: es'B d8 es f_( g) f f2 |
+t: Požehnaný Bůh věčně živý + i jeho království,
+
+m: cB bes8 c d_ es d d2 ||
+t: * protože on trestá a se smilovává,
+
+%% part: verse
+
+m: es'B d8 es f_ g f f2 |
+t: svrhuje do podsvětí + a vyvádí ze záhuby svou vznešeností!
+
+m: cB bes8 c d_( es d) d4 r ||
+t: * Nikdo nemůže uniknout jeho ruce.
+
+%% use: responsum
+
+%% part: verse
+
+m: es'B d8 es f_ g f f4 r |
+t: Oslavujte ho před národy, synové Izraele,
+
+m: cB bes8 c d_( es) d d4 r ||
+t: * neboť vás mezi ně rozptýlil + a tam ukázal svoji vznešenost.
+
+%% use: responsum
+
+%% part: verse
+
+m: es'B d8 es f_( g f) f4 r |
+t: Ctěte ho přede vším, co žije,
+
+m: cB bes8 c d_( es d) d4 r ||
+t: * protože on je náš Pán a on je náš otec, + on je náš Bůh po všechny věky.
+
+%% use: responsum
+
+%% part: verse
+
+m: es'B d8 es f_ g f f4 r |
+t: Bude vás trestat pro vaše nepravosti,
+
+m: cB bes8 c d_ es d d4 ||
+t: * ale smiluje se nad vámi nade všemi
+
+%% part: verse
+
+m: r8 es'8 esB d8 es f_( g) f f2 |
+t: a shromáždí vás ze všech národů,
+
+m: cB bes8 c d_ es d d4 r ||
+t: * kdekoli jste byli rozptýleni.
+
+%% use: responsum
+
+%% part: verse
+
+m: es'B d8 es f_( g) f f4 r |
+t: Všichni vyvolení, velebte Pána, + všichni chvalte jeho vznešenost.
+
+m: cB bes8 c d(_ es) d d4 r ||
+t: * Chvalte ho ve dnech radosti a oslavujte ho.
+
+%% use: responsum
+

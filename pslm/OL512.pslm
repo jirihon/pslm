@@ -1,0 +1,73 @@
+%% occasion: 'Středa 21. týdne 1'
+%% responsum_reference: 'Ž 139 (138),1a'
+%% verse_reference: 'Ž 139 (138)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 121
+%% a: "b'B b_8 a a2"
+%% b: "gB fis_8 e e2"
+
+m: \key d \major
+
+%% part: responsum
+
+m: fis'8 e d d4 r8 / g e / e4 fis4. g8 a2. ||
+t: Hospodine, ty mě zkoumáš a znáš.
+
+%% part: verse
+
+m: b'B b_8( a) a4 r |
+t: Kam se mohu uchýlit před tvým duchem,
+
+m: gB fis_8( e) e4 ||
+t: * kam až utéci před tvou tváří?
+
+%% part: verse
+
+m: r8 b'8 bB b_8 a a4 |
+t: I kdybych vystoupil na nebe, ty jsi tam,
+
+m: r8 g8 gB fis_8 e e4 r ||
+t: * i kdybych ulehl v podsvětí, i tady jsi.
+
+%% part: responsum_short
+
+m: fis'8 e d d4 r8 / g e / e4 fis4. g8 a2 ||
+t: Hospodine, ty mě zkoumáš a znáš.
+
+%% part: verse
+
+m: r8 b'8 bB b_8 a a4 |
+t: I kdybych si připjal křídla jitřenky
+
+m: r8 g8 gB fis_8( e) e4 ||
+t: * a spočinul na nejzazším moři,
+
+%% part: verse
+
+m: r8 b'8 bB b_8( a) a4 |
+t: i tam mě povede tvá ruka
+
+m: r8 g8 gB fis_8 e e4 r ||
+t: * a uchopí mě tvá pravice.
+
+%% use: responsum_short
+
+%% part: verse
+
+m: r8 b'8 bB b_8( a) a4 |
+t: I kdybych řekl: „Aspoň temnota mě skryje
+
+m: r8 g8 gB fis_8( e) e4 r ||
+t: * a noc mě obklopí místo světla,“
+
+%% part: verse
+
+m: b'B b_8( a) a4 |
+t: ani tma ti nebude tmavá,
+
+m: r8 g8 gB fis_8 e e2 ||
+t: * noc jako den se rozjasní.
+
+%% use: responsum
+

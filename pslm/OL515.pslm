@@ -1,0 +1,72 @@
+%% occasion: 'Sobota 21. týdne 1'
+%% responsum_reference: 'Srov. Ž 98 (97),9'
+%% verse_reference: 'Ž 98 (97)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 124
+%% a: "bes'B a8 bes c_ a a2"
+%% b: "gB f8 g a_ f f2"
+
+% Tento žalm má stejné texty veršů jako publikovaný OL55
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 d g g g2 | c,8 g' \tuplet 3/2 { g[ f e] } a8. a16 a4 | bes8 d c4 c r ||
+t: Přišel Hospodin, aby spravoval národy podle práva.
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) a4 r |
+t: Zpívejte Hospodinu novou píseň,
+
+m: gB f8 g a_( f) f4 r ||
+t: * neboť učinil podivuhodné věci.
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a4 r |
+t: Vítězství je dílem jeho pravice,
+
+m: gB f8 g a_ f f4 r ||
+t: * jeho svatého ramene.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a a4 r |
+t: Zahuč, moře a vše, co je naplňuje,
+
+m: gB f8 g a_ f f f2 ||
+t: * svět i všichni, kdo jej obývají,
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a4 r |
+t: Řeky, tleskejte rukama,
+
+m: gB f8 g a_ f f f4 r ||
+t: * hory, spolu zajásejte.
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B a8 bes c_( a) a4 |
+t: Před Hospodinem, že přišel,
+
+m: r8 g8 gB f8 g a_( f) f4 r ||
+t: * že přišel, aby spravoval zemi,
+
+%% part: verse
+
+m: bes'B a8 bes c_ a a4 |
+t: aby spravoval svět ve spravedlnosti
+
+m: r8 g8 gB f8 g a_( f) f4 r ||
+t: * a národy podle práva.
+
+%% use: responsum
+

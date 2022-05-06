@@ -1,93 +1,96 @@
-%% occasion: 'Čtvrtek 6. týdne 1'
-%% responsum_reference: 'Srov. Ž 102 (101),20b'
+%% occasion: 'Pondělí 26. týdne 1'
+%% occasion: 'Úterý 18. týdne 2'
+%% responsum_reference: 'Ž 102 (101),17'
 %% verse_reference: 'Ž 102 (101)'
 %% author: olejnik
 %% source: vsedni_zaltar
-%% page: 41
+%% page: 146
+%% a: "c''B b8 a a_ g g2"
+%% b: "gB fis8 e e_ d d2"
 
-% Tento žalm má stejné texty veršů jako publikovaný OL537
+% Tento žalm má stejné texty veršů jako publikovaný OL432
 
-m: \key c \major
+m: \key g \major
 
 %% part: responsum
 
-m: g'8 e g a a a2 / d b4 / a( g) g2 ||
-t: Hospodin popatřil z nebe na zem.
+m: d'8 e fis g g4 / g8 fis e a a4 | e8 a g fis g a b2 b2  ||
+t: Hospodin znovu zbuduje Sión, objeví se ve své slávě.
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_ g g g4 |
 t: Pohané budou ctít tvé jméno, Hospodine,
 
-m: bB ||
+m: r8 g8 gB fis8 e e_( d) d4 ||
 t: * a všichni králové země tvou slávu,
 
 %% part: verse
 
-m: aB |
+m: r8 c''8 cB b8 a a_( g) g2 |
 t: až Hospodin znovu zbuduje Sión,
 
-m: bB ||
+m: gB fis8 e e_( d) d4 r ||
 t: * až se objeví ve své slávě.
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_ g g g4 |
 t: Skloní se k modlitbě opuštěných
 
-m: bB ||
+m: r8 g8 gB fis8 e e_( d) d2 ||
 t: * a nepohrdne jejich prosbou.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_ g g g2 |
 t: Kéž je to zapsáno pro příští pokolení,
 
-m: bB ||
+m: gB fis8 e e_ d d d4 r ||
 t: * aby budoucí národ chválil Hospodina.
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_ g g4 r |
 t: Neboť Hospodin shlédl ze své vznešené svatyně,
 
-m: bB ||
+m: gB fis8 e e_( d) d4 r ||
 t: * popatřil z nebe na zem,
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_ g g2 |
 t: aby slyšel nářek zajatců,
 
-m: bB ||
+m: gB fis8 e e_( d) d4 r ||
 t: * aby vysvobodil odsouzené k smrti.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_ g g4 |
 t: Synové tvých služebníků budou bydlet v bezpečí
 
-m: bB ||
+m: r8 g8 gB fis8 e e_ d d2 ||
 t: * a jejich potomstvo potrvá před tebou,
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_( g) g4 |
 t: aby hlásali na Siónu Hospodinovo jméno
 
-m: bB ||
+m: r8 g8 gB fis8 e e(_ d) d4 r ||
 t: * a jeho chválu v Jeruzalémě,
 
 %% part: verse
 
-m: aB |
+m: c''B b8 a a_ g g2 |
 t: když se spolu sejdou národy a království,
 
-m: bB ||
+m: gB fis8 e e_ d d d4 r ||
 t: * aby sloužily Hospodinu.
 
 %% use: responsum

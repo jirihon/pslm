@@ -4,6 +4,8 @@
 %% author: olejnik
 %% source: vsedni_zaltar
 %% page: 139
+%% a: "bes'B c8 bes a_ g g2"
+%% b: "gB a8 e g_ f f2"
 
 m: \key f \major
 
@@ -14,38 +16,38 @@ t: Veliká jsou Hospodinova díla.
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 bes a_ g g g2 |
 t: Skutky jeho rukou jsou věrné a spravedlivé,
 
-m: bB ||
+m: gB a8 e g_ f f4 r ||
 t: * spolehlivé jsou všechny jeho příkazy,
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 bes a_( g) g4 r |
 t: pevné na věky, navždy,
 
-m: bB ||
+m: gB a8 e g_( f) f4 r ||
 t: * provedené v pravdě a právu.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 bes a_( g) g4 r |
 t: Vykoupení seslal svému lidu, + sjednal na věky svou smlouvu;
 
-m: bB ||
+m: gB a8 e g_( f) f4 r ||
 t: * svaté a velebné je jeho jméno.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: bes'B c8 bes a_ g g g4 r |
 t: Počátek moudrosti je bát se Hospodina:
 
-m: bB ||
+m: gB a8 e g_( f) f4 r ||
 t: * moudře jednají všichni, kdo tak činí; + jeho chvála zůstává navždy.
 
 %% use: responsum

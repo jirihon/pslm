@@ -1,0 +1,88 @@
+%% occasion: 'Pondělí 22. týdne 1'
+%% responsum_reference: 'Ž 96 (95),13ab'
+%% verse_reference: 'Ž 96 (95)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 125
+%% a: "f'B e8 f g_ e e2"
+%% b: "dB c8 d e_ c c2"
+
+m: \key c \major
+
+%% part: responsum
+
+m: g'8 e g a a a2 / d b4 a8( g) g2 ||
+t: Hospodin přichází řídit zemi.
+
+%% part: verse
+
+m: f'B e8 f g_( e) e4 r |
+t: Zpívejte Hospodinu novou píseň,
+
+m: dB c8 d e_( c) c4 r ||
+t: * zpívejte Hospodinu, všechny země!
+
+%% part: verse
+
+m: f'B e8 f g_( e) e4 r |
+t: Vypravujte mezi pohany o jeho slávě,
+
+m: dB c8 d e_( c) c4 r ||
+t: * mezi všemi národy o jeho divech.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B e8 f g_( e) e4 |
+t: Neboť Hospodin je veliký a velmi hodný chvály,
+
+m: r8 d8 dB c8 d e_( c) c2 ||
+t: * je třeba se ho bát více než -- li všech bohů.
+
+%% part: verse
+
+m: f'B e8 f g_ e e4 r |
+t: Neboť všichni bohové pohanů jsou výmysly,
+
+m: dB c8 d e_( c) c4 r ||
+t: * Hospodin však stvořil nebe.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B e8 f g_( e) e4 r |
+t: Radujte se, nebesa, zajásej, země,
+
+m: dB c8 d e_ c c c4 r ||
+t: * zahuč, moře a vše, co je naplňuje;
+
+%% part: verse
+
+m: f'B e8 f g_( e) e4 r |
+t: zaplesej, pole a vše, co je na něm.
+
+m: dB c8 d e_( c) c4 r ||
+t: * Tehdy se rozveselí všechny lesní stromy.
+
+%% use: responsum
+
+%% part: verse
+
+m: f'B e8 f g_ e e4 |
+t: Před Hospodinem, že přichází,
+
+m: r8 d8 dB c8 d e_( c) c4 r ||
+t: * že přichází řídit zemi.
+
+%% part: verse
+
+m: f'B e8 f g_ e e e4 r |
+t: Bude řídit svět spravedlivě,
+
+m: dB c8 d e_( c) c4 r ||
+t: * národy bude spravovat věrně.
+
+%% use: responsum
+

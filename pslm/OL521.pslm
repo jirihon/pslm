@@ -1,10 +1,11 @@
-%% occasion: '25. neděle v mezidobí B'
-%% occasion: 'O učitelích Církve'
+%% occasion: 'Sobota 22. týdne 1'
 %% responsum_reference: 'Ž 54 (53),6b'
 %% verse_reference: 'Ž 54 (53)'
 %% author: olejnik
-%% source: nedelni_zaltar
-%% page: 247
+%% source: vsedni_zaltar
+%% page: 130
+
+m: \key f \major
 
 m: \key f \major
 
@@ -15,46 +16,36 @@ t: Pán mě udržuje naživu.
 
 %% part: verse
 
-m: aB |
+m: bes'B dB*2 c4_ c |
 t: Bože, zachraň mě pro své jméno,
 
-m: bB ||
+m: r8 g8 gB besB*3 a4_ a r ||
 t: * svou mocí zjednej mi právo!
 
 %% part: verse
 
-m: aB |
+m: bes'B dB*3 c8_ c c4 r |
 t: Bože, slyš moji modlitbu,
 
-m: bB ||
+m: gB besB*2 a4_ a2 ||
 t: * popřej sluchu slovům mých úst!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
-t: Neboť povstali proti mně zpupní lid.é,
-
-m: bB ||
-t: * násilníci mi ukládali o život, + na Boha nebrali ohled.
-
-%% use: responsum
-
-%% part: verse
-
-m: aB |
+m: r8 bes'8 dB*2 c8_ c c2 |
 t: Hle, Bůh mi pomáhá,
 
-m: bB ||
+m: gB besB*3 a8_ a a4 r ||
 t: * Pán mě udržuje naživu.
 
 %% part: verse
 
-m: aB |
+m: bes'B dB*3 c8_ c c4 r |
 t: Budu s radostí přinášet oběti,
 
-m: bB ||
+m: gB besB*2 a8_ a4. r4 ||
 t: * chválit tvé jméno, Hospodine, že je dobré.
 
 %% use: responsum

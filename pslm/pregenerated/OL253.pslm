@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 262
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: f'8 d g g g2 | c,8 g' \tuplet 3/2 { g[ f e] } a8. a16 a4 | bes8 d c4 c r ||
 t: Přišel Hospodin, aby spravoval národy podle práva.
 
 %% part: verse

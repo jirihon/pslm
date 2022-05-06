@@ -1,0 +1,70 @@
+%% occasion: 'Úterý 26. týdne 1'
+%% responsum_reference: 'Zach 8,23'
+%% verse_reference: 'Ž 87 (86)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 147
+%% a: "b'B b_8 a a2"
+%% b: "gB fis_8 e e2"
+
+m: \key d \major
+
+%% part: responsum
+
+m: fis'8 e fis g a4 a2 ||
+t: Hospodin je s námi.
+
+%% part: verse
+
+m: b'B b_8( a) a2 |
+t: Hospodin miluje, co založil na svatých horách,
+
+m: gB fis_8( e) e4 r ||
+t: * miluje brány Siónu nad všechna Jakubova sídla.
+
+%% part: verse
+
+m: b'B b_8 a a a2 |
+t: Slavné věci se o tobě vypravují,
+
+m: gB fis_8( e) e2 ||
+t: * město Boží!
+
+%% use: responsum
+
+%% part: verse
+
+m: b'B b_8 a a4 r |
+t: Připočtu Rahab i Bábel mezi své ctitele,
+
+m: gB fis_8 e e e2 ||
+t: * ba i Filištínsko, Tyrus s Etiopií; +  i ti se tam narodili.
+
+%% part: verse
+
+m: b'B b_8 a a4 |
+t: O Siónu se řekne: (+) „Jeden jako druhý se v něm narodil,
+
+m: r8 g8 gB fis_8( e) e4 r ||
+t: * sám Svrchovaný mu dal pevný základ.“
+
+%% use: responsum
+
+%% part: verse
+
+m: b'B b_8 a a2 |
+t: Hospodin zapíše do knihy národů:
+
+m: gB fis_8 e e e4 r ||
+t: * „Tito se tam narodili.“
+
+%% part: verse
+
+m: b'B b_8( a) a4 r |
+t: Při tanci budou zpívat:
+
+m: gB fis_8( e) e4 r ||
+t: * „Všechna zřídla mé spásy jsou v tobě.“
+
+%% use: responsum
+

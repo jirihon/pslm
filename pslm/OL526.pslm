@@ -1,11 +1,12 @@
-%% occasion: 'O Panně Marii'
+%% occasion: 'Sobota 23. týdne 1'
+%% occasion: 'Pondělí 28. týdne 2'
 %% responsum_reference: 'Srov. Ž 113 (112),2'
 %% verse_reference: 'Ž 113 (112)'
 %% author: olejnik
-%% source: nedelni_zaltar
-%% page: 307
-
-% Tento žalm má stejné texty veršů jako publikovaný OL264
+%% source: vsedni_zaltar
+%% page: 135
+%% a: "bes'B bes_8 a a2"
+%% b: "gB g_8 f f2"
 
 m: \key f \major
 
@@ -16,65 +17,55 @@ t: Buď veleben Hospodin nyní i na věky!
 
 %% part: verse
 
-m: aB |
+m: bes'B bes_8 a a a4 r |
 t: Chvalte, Hospodinovi služebníci,
 
-m: bB ||
+m: gB g_8 f f4 ||
 t: * chvalte jméno Hospodinovo!
 
 %% part: verse
 
-m: aB |
+m: r8 bes'8 besB bes_8( a) a4 r |
 t: Buď velebeno Hospodinovo jméno
 
-m: bB ||
+m: gB g_8 f f4 r ||
 t: * nyní i na věky!
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: bes'B bes_8( a) a4 |
 t: Od východu slunce až na jeho západ
 
-m: bB ||
+m: r8 g8 gB g_8( f) f4 r ||
 t: * buď chváleno Hospodinovo jméno!
 
 %% part: verse
 
-m: aB |
+m: bes'B bes_8 a a4 r |
 t: Povznesen je Hospodin nade všechny národy,
 
-m: bB ||
+m: gB g_8( f) f4 r ||
 t: * nad nebesa jeho sláva.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
-t: Kdo je jako Hospodin, náš Bůh, + který trůní na výsosti
+m: bes'B bes_8( a) a2 |
+t: Kdo je jako Hospodin, náš Bůh,
 
-m: bB ||
-t: * a shlíží dolů na nebe i na zem?
-
-%% use: responsum
+m: gB g_8( f) f4 r ||
+t: * který shlíží dolů na nebe i na zem?
 
 %% part: verse
 
-m: aB |
+m: bes'B bes_8( a) a4 r |
 t: Slabého zdvihá z prachu,
 
-m: bB ||
-t: * ze smetiště povyšuje chudého,
-
-%% part: verse
-
-m: aB |
-t: aby ho posadil vedle knížat,
-
-m: bB ||
-t: * vedle knížat svého lidu.
+m: gB g_8 f f4 r ||
+t: * ze smetiště povyšuje chudého.
 
 %% use: responsum
 

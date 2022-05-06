@@ -1,0 +1,91 @@
+%% occasion: 'Pátek 24. týdne 1'
+%% responsum_reference: 'Mt 5,3'
+%% verse_reference: 'Ž 49 (48)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 140
+%% a: "c''B c_8 bes bes2"
+%% b: "asB g_8 f f2"
+
+m: \key es \major
+
+%% part: responsum
+
+m: g'8 as g f es / c es~ es4 / f8 f r4 | f8 g / as as as / as g as / bes g g2 ||
+t: Blahoslavení chudí v duchu, neboť jejich je království nebeské.
+
+%% part: verse
+
+m: c''B c_8 bes bes2 |
+t: Proč bych se měl bát za dnů neštěstí,
+
+m: asB g_8 f f4 r ||
+t: * když mě svírá zloba nepřátel,
+
+%% part: verse
+
+m: c''B c_8 bes bes4 |
+t: kteří spoléhají na svůj majetek
+
+m: r8 as8 asB g_8 f f2 ||
+t: * a chlubí se přemírou bohatství?
+
+%% part: responsum_short
+
+m: g'8 as g f es / c es~ es4 / f8 f r4 | f8 g / as as as / as g as / bes g g4 ||
+t: Blahoslavení chudí v duchu, neboť jejich je království nebeské.
+
+%% part: verse
+
+m: r8 c''8 cB c_8 bes bes bes2 |
+t: Vždyť nikdo sám sebe nevykoupí,
+
+m: asB g_8 f f2 ||
+t: * není s to zaplatit Bohu své výkupné.
+
+%% part: verse
+
+m: c''B c_8( bes) bes4 r |
+t: Cena života je příliš veliká, + nikdy nebude stačit,
+
+m: asB g_8( f) f4 r ||
+t: * aby člověk žil navěky a neviděl zkázu.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B c_8 bes bes4 |
+t: Neboj se, jestliže někdo zbohatne
+
+m: r8 as8 asB g_8( f) f4 ||
+t: * a vzroste majetek jeho domu.
+
+%% part: verse
+
+m: r8 c''8 cB c_8 bes bes4 r |
+t: Až zemře, nic si s sebou nevezme,
+
+m: asB g_8( f) f2 ||
+t: * nesestoupí s ním jeho jmění.
+
+%% use: responsum_short
+
+%% part: verse
+
+m: r8 c''8 cB c_8 bes bes4 r |
+t: I kdyby si za svého života liboval:
+
+m: asB g_8 f f4 r ||
+t: * „Budou tě chválit, že sis to dobře zařídil“,
+
+%% part: verse
+
+m: c''B c_8( bes) bes2 |
+t: přece se připojí ke svým předkům,
+
+m: asB g_8( f) f4 r ||
+t: * kteří navěky neuzří světla.
+
+%% use: responsum
+

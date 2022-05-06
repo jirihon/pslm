@@ -1,0 +1,54 @@
+%% occasion: 'Pondělí 24. týdne 1'
+%% responsum_reference: 'Ž 28 (27),6'
+%% verse_reference: 'Ž 28 (27)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 136
+%% a: "g'B a8 e g_ f f2"
+%% b: "dB e8 f g_ a g g2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: f'8 f g a bes g g4. \breathe a8 | bes bes a g / f g a bes / c4( a) a2 ||
+t: Požehnán buď Hospodin, že vyslyšel mou úpěnlivou prosbu!
+
+%% part: verse
+
+m: g'B a8 e g(_ f) f4 |
+t: Slyš mou úpěnlivou prosbu, když k tobě volám ,
+
+m: r8 d8 dB e8 f g_( a g) g4 r ||
+t: * když vztahuji své ruce k tvému svatému chrámu.
+
+%% use: responsum
+
+%% part: verse
+
+m: g'B a8 e g_( f) f4 r |
+t: Hospodin je má síla a můj štít, + důvěřuje v něho mé srdce, dostal jsem pomoc,
+
+m: dB e8 f g_( a g) g2 ||
+t: * proto jásá mé srdce a svou písní ho chválím.
+
+%% use: responsum
+
+%% part: verse
+
+m: g'B a8 e g_( f) f4 r |
+t: Hospodin je silou svého lidu,
+
+m: dB e8 f g_ a( g) g4 r ||
+t: * záštitou spásy svému pomazanému.
+
+%% part: verse
+
+m: g'B a8 e g_ f f2 |
+t: Zachraň svůj lid a žehnej svému dědictví,
+
+m: dB e8 f g_( a) g g4 r ||
+t: * pas je a nes je až na věky!
+
+%% use: responsum
+

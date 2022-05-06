@@ -1,0 +1,88 @@
+%% occasion: 'Úterý 24. týdne 1'
+%% responsum_reference: 'Ž 101 (100),2c'
+%% verse_reference: 'Ž 101 (100)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 137
+%% a: "b'B b_8 a a2"
+%% b: "gB fis_8 e e2"
+
+m: \key d \major
+
+%% part: responsum
+
+m: d'4 d( e) fis / g8 g fis g / a4 a ||
+t: Chci kráčet v nevinnosti srdce.
+
+%% part: verse
+
+m: r8 b'8 bB b_8( a) a4 r |
+t: O dobrotivosti a spravedlnosti chci zpívat,
+
+m: gB fis_8( e) e2 ||
+t: * tobě, Hospodine, chci zahrát.
+
+%% part: verse
+
+m: b'B b_8 a a a4 |
+t: Chci se ubírat cestou bezúhonnou,
+
+m: r8 g8 gB fis_8( e) e4 r ||
+t: * kdy ke mně přijdeš?
+
+%% use: responsum
+
+%% part: verse
+
+m: r8 b'8 bB b_8( a) a4 r |
+t: Chci kráčet v nevinnosti srdce,
+
+m: gB fis_8( e) e4 r ||
+t: * ve svém domě.
+
+%% part: verse
+
+m: b'B b_8 a a4 |
+t: Nepostavím si před oči
+
+m: r8 g8 fis_8 e e e4 r ||
+t: * nic hanebného.
+
+%% use: responsum
+
+%% part: verse
+
+m: r8 b'8 bB b_8 a a2 |
+t: Kdo svého bližního v skrytu pomlouvá,
+
+m: gB fis_8 e e2 ||
+t: * toho zahubím.
+
+%% part: verse
+
+m: b'B b_8( a) a4 r |
+t: Pyšného očima a nadutého srdcem,
+
+m: gB fis_8 e e4 ||
+t: * toho nesnesu.
+
+%% use: responsum
+
+%% part: verse
+
+m: r8 b'8 bB b_8( a) a4 r |
+t: Svým zrakem budu hledat věrné v zemi,
+
+m: gB fis_8( e) e4 ||
+t: * aby přebývali se mnou.
+
+%% part: verse
+
+m: r8 b'8 bB b_8 a a a4 r |
+t: Kdo kráčí životem bezúhonně,
+
+m: gB fis_8( e) e4 r ||
+t: * ten mi bude sloužit.
+
+%% use: responsum
+

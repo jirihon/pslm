@@ -5,11 +5,11 @@
 %% source: nedelni_zaltar
 %% page: 252
 
-m: \key c \major
+m: \key f \major
 
 %% part: responsum
 
-m: bB ||
+m: a'8 a f2 d8 e f / bes bes a g2 | a8 g a b / d c c c4 r ||
 t: Nasyť nás, Pane, svou slitovností, abychom se radovali.
 
 %% part: verse

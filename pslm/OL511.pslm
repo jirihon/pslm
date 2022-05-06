@@ -4,54 +4,56 @@
 %% author: olejnik
 %% source: vsedni_zaltar
 %% page: 120
+%% a: "b'B b_8 a a2"
+%% b: "gB fis_8 e e2"
 
 m: \key d \major
 
 %% part: responsum
 
-m: fis'8 e d d4 r8 / g e / e4 fis4. g8 a2. ||
+m: fis'8 e d d4 r8 / g e / e4 fis4. g8 a2 ||
 t: Hospodine, ty mě zkoumáš a znáš.
 
 %% part: verse
 
-m: aB |
+m: b'B b_8 a a a2 |
 t: Hospodine, ty mě zkoumáš a znáš,
 
-m: bB ||
+m: gB fis_8( e) e2 ||
 t: * ty víš, když sedám i když vstávám.
 
 %% part: verse
 
-m: aB |
+m: b'B b_8( a) a4 r |
 t: Poznáváš mé myšlenky již zdálky;
 
-m: bB ||
-t: * ať jdu nebo ležím, ty to určuješ, + všímáš sivšech mých cest.
+m: gB fis_8 e e4 r ||
+t: * ať jdu nebo ležím, ty to určuješ, + všímáš si všech mých cest.
 
 %% use: responsum
 
 %% part: verse
 
-m: aB |
+m: b'B b_8 a a a4 r |
 t: Slovo ještě nemám na jazyku:
 
-m: bB ||
-t: * hle, už je znáš, Hospodine, celé. du a kladeš na mě svou dlaň.
+m: gB fis_8( e) e2 ||
+t: * hle, už je znáš, Hospodine, celé.
 
 %% part: verse
 
-m: aB |
-t: Obklopuješ mě zezadu i zepře
+m: b'B b_8 a a4 |
+t: Obklopuješ mě zezadu i zepředu
 
-m: bB ||
-t: * 
+m: r8 g8 gB fis_8( e) e4 r ||
+t: * a kladeš na mě svou dlaň.
 
 %% part: verse
 
-m: aB |
+m: b'B b_8( a) a4 r |
 t: Podivuhodná je pro mě tvá znalost,
 
-m: bB ||
+m: gB fis_8 e e2 ||
 t: * vznešená a nepochopitelná.
 
 %% use: responsum

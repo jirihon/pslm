@@ -1,0 +1,81 @@
+%% occasion: 'Úterý 22. týdne 1'
+%% occasion: 'Čtvrtek 31. týdne 1'
+%% responsum_reference: 'Ž 27 (26),13'
+%% verse_reference: '1. 2.'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 126
+%% a: "b'B a8 b cis_ a a2"
+%% b: "gB fis8 g a_ fis2"
+
+% Tento žalm má stejné texty veršů jako publikovaný OL11
+
+m: \key d \major
+
+%% part: responsum
+
+m: fis'8 e4 d8 g fis e4 | e8 e d e / fis a a4 | b cis d8 b~ b4 ||
+t: Věřím, že uvidím blaho od Hospodina v zemi živých!
+
+%% part: verse
+
+m: b'B a8 b cis_( a) a4 |
+t: Hospodin je mé světlo a má spása,
+
+m: gB fis8 g a4(_fis2) ||
+t: * koho bych se bál?
+
+%% part: verse
+
+m: b'B a8 b cis_ a a4 r |
+t: Hospodin je záštita mého života,
+
+m: gB fis8 g a(_fis) fis4 r ||
+t: * před kým bych se třásl?
+
+%% use: responsum
+
+%% part: verse
+
+m: b'B a8 b cis_( a) a4 |
+t: Jedno od Hospodina žádám
+
+m: r8 g8 fis8 g a(_fis) fis2 ||
+t: * a po tom toužím:
+
+%% part: verse
+
+m: b'B a8 b cis(_ a) a4 r |
+t: abych směl přebývat v Hospodinově domě
+
+m: gB fis8 g a_ fis fis4 r ||
+t: * po všechny dny svého života,
+
+%% part: verse
+
+m: b'B a8 b cis_( a) a4 |
+t: abych požíval Hospodinovy něhy
+
+m: r8 g8 gB fis8 g a4(_fis2) ||
+t: * a patřil na jeho chrám.
+
+%% use: responsum
+
+%% part: verse
+
+m: b'B a8 b cis_ a a4 |
+t: Věřím, že uvidím blaho od Hospodina
+
+m: r8 g8 fis8( g) a_( fis) fis2 ||
+t: * v zemi živých!
+
+%% part: verse
+
+m: b'B a8 b cis_( a) a2 |
+t: Důvěřuj v Hospodina, buď silný,
+
+m: gB fis8 g a_ fis fis fis4 r ||
+t: * ať se vzmuží tvé srdce, doufej v Hospodina!
+
+%% use: responsum
+

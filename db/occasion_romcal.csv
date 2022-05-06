@@ -458,16 +458,19 @@ occasion,id,cycle
 "Středa 6. týdne 1",ordinary_time_6_wednesday,1
 "Čtvrtek 6. týdne 1",ordinary_time_6_thursday,1
 "Pátek 6. týdne 1",ordinary_time_6_friday,1
-"Sobota 6. a 31. týdne 1",,
+"Sobota 6. týdne 1",ordinary_time_6_saturday,1
+"Sobota 31. týdne 1",ordinary_time_31_saturday,1
 "Pondělí 7. týdne 1",ordinary_time_7_monday,1
 "Sobota 14. týdne 2",ordinary_time_14_saturday,2
 "Úterý 7. týdne 1",ordinary_time_7_tuesday,1
 "Pátek 14. týdne 1",ordinary_time_14_friday,1
 "Středa 7. týdne 1",ordinary_time_7_wednesday,1
-"Čtvrtek 7. a 27. týdne 1",,
+"Čtvrtek 7. týdne 1",ordinary_time_7_thursday,1
+"Čtvrtek 27. týdne 1",ordinary_time_27_thursday,1
 "Středa 28. týdne 2",ordinary_time_28_wednesday,2
 "Čtvrtek 29. týdne 1",ordinary_time_29_thursday,1
-"Pondělí 30. a 33. týdne 2",,
+"Pondělí 30. týdne 2",ordinary_time_30_monday,2
+"Pondělí 33. týdne 2",ordinary_time_33_monday,2
 "Pátek 7. týdne 1",ordinary_time_7_friday,1
 "Sobota 7. týdne 1",ordinary_time_7_saturday,1
 "Úterý 8. týdne 1",ordinary_time_8_tuesday,1
@@ -491,7 +494,8 @@ occasion,id,cycle
 "Středa 10. týdne 1",ordinary_time_10_wednesday,1
 "Čtvrtek 10. týdne 1",ordinary_time_10_thursday,1
 "Úterý 20. týdne 1",ordinary_time_20_tuesday,1
-"Sobota 13. a 20. týdne 2",,
+"Sobota 13. týdne 2",ordinary_time_13_saturday,2
+"Sobota 20. týdne 2",ordinary_time_20_saturday,2
 "Úterý 29. týdne 2",ordinary_time_29_tuesday,2
 "Pátek 10. týdne 1",ordinary_time_10_friday,1
 "Sobota 10. týdne 1",ordinary_time_10_saturday,1
@@ -562,11 +566,46 @@ occasion,id,cycle
 "Středa 20. týdne 1",ordinary_time_20_wednesday,1
 "Sobota 1. týdne 2",ordinary_time_1_saturday,2
 "Čtvrtek 20. týdne 1",ordinary_time_20_thursday,1
+"Pátek 20. týdne 1",ordinary_time_20_friday,1
+"Úterý 21. týdne 1",ordinary_time_21_tuesday,1
+"Středa 21. týdne 1",ordinary_time_21_wednesday,1
+"Čtvrtek 21. týdne 1",ordinary_time_21_thursday,1
+"Pátek 21. týdne 1",ordinary_time_21_friday,1
+"Sobota 21. týdne 1",ordinary_time_21_saturday,1
+"Pondělí 22. týdne 1",ordinary_time_22_monday,1
+"Úterý 22. týdne 1",ordinary_time_22_tuesday,1
+"Čtvrtek 31. týdne 1",ordinary_time_31_thursday,1
+"Středa 22. týdne 1",ordinary_time_22_wednesday,1
+"Čtvrtek 22. týdne 1",ordinary_time_22_thursday,1
 "Pátek 22. týdne 1",ordinary_time_22_friday,1
 "Sobota 24. týdne 1",ordinary_time_24_saturday,1
 "Čtvrtek 8. týdne 2",ordinary_time_8_thursday,2
 "Čtvrtek 34. týdne 2",ordinary_time_34_thursday,2
 "Úterý 24. týdne 2",ordinary_time_24_tuesday,2
+"Sobota 22. týdne 1",ordinary_time_22_saturday,1
+"Pondělí 23. týdne 1",ordinary_time_23_monday,1
+"Úterý 23. týdne 1",ordinary_time_23_tuesday,1
+"Středa 23. týdne 1",ordinary_time_23_wednesday,1
+"Čtvrtek 23. týdne 1",ordinary_time_23_thursday,1
+"Sobota 23. týdne 1",ordinary_time_23_saturday,1
+"Pondělí 28. týdne 2",ordinary_time_28_monday,2
+"Pondělí 24. týdne 1",ordinary_time_24_monday,1
+"Úterý 24. týdne 1",ordinary_time_24_tuesday,1
+"Středa 24. týdne 1",ordinary_time_24_wednesday,1
+"Pátek 30. týdne 2",ordinary_time_30_friday,2
+"Čtvrtek 24. týdne 1",ordinary_time_24_thursday,1
+"Pátek 24. týdne 1",ordinary_time_24_friday,1
+"Pondělí 25. týdne 1",ordinary_time_25_monday,1
+"Úterý 30. týdne 1",ordinary_time_30_tuesday,1
+"Úterý 25. týdne 1",ordinary_time_25_tuesday,1
+"Středa 25. týdne 1",ordinary_time_25_wednesday,1
+"Pátek 25. týdne 1",ordinary_time_25_friday,1
+"Sobota 25. týdne 1",ordinary_time_25_saturday,1
+"Pátek 16. týdne 2",ordinary_time_16_friday,2
+"Středa 18. týdne 2",ordinary_time_18_wednesday,2
+"Pondělí 26. týdne 1",ordinary_time_26_monday,1
+"Úterý 18. týdne 2",ordinary_time_18_tuesday,2
+"Úterý 26. týdne 1",ordinary_time_26_tuesday,1
 "Středa 26. týdne 1",ordinary_time_26_wednesday,1
 "Pátek 12. týdne 2",ordinary_time_12_friday,2
 "Pátek 26. týdne 1",ordinary_time_26_friday,1
@@ -695,14 +734,16 @@ occasion,id,cycle
 "Úterý 16. týdne 2",ordinary_time_16_tuesday,2
 "Středa 16. týdne 2",ordinary_time_16_wednesday,2
 "Čtvrtek 16. týdne 2",ordinary_time_16_thursday,2
-"Pondělí 17. a 20. týdne 2",,
+"Pondělí 17. týdne 2",ordinary_time_17_monday,2
+"Pondělí 20. týdne 2",ordinary_time_20_monday,2
 "Úterý 17. týdne 2",ordinary_time_17_tuesday,2
 "Středa 17. týdne 2",ordinary_time_17_wednesday,2
 "Čtvrtek 17. týdne 2",ordinary_time_17_thursday,2
 "Pátek 17. týdne 2",ordinary_time_17_friday,2
 "Sobota 17. týdne 2",ordinary_time_17_saturday,2
 "Pondělí 18. týdne 2",ordinary_time_18_monday,2
-"Čtvrtek 18. a 20. týdne 2",,
+"Čtvrtek 18. týdne 2",ordinary_time_18_thursday,2
+"Čtvrtek 20. týdne 2",ordinary_time_20_thursday,2
 "Sobota 19. týdne 2",ordinary_time_19_saturday,2
 "Pátek 18. týdne 2",ordinary_time_18_friday,2
 "Sobota 18. týdne 2",ordinary_time_18_saturday,2

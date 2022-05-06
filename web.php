@@ -426,6 +426,9 @@ function pslm_update_pregenerated() {
                 if (!isset($updated_responsums[$template_id])) {
                     $key = implode(' ', $psalm['original_music'][0]);
                     $music = implode(' ', $psalm['original_music']['responsum']);
+                    if (!isset($psalm['original_music']['responsum'])) {
+                        echo "ERROR: missing responsum for $id\n";
+                    }
 
                     $pslm_file = dirname(__FILE__).'/pslm/pregenerated/'.$template_id.'.pslm';
                     $pslm = file_get_contents($pslm_file);
