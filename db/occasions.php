@@ -2351,6 +2351,46 @@
   array (
     0 => 'OL501',
   ),
+  'Úterý 19. týdne 1' => 
+  array (
+    0 => 'OL502',
+  ),
+  'Středa 19. týdne 1' => 
+  array (
+    0 => 'OL503',
+  ),
+  'Čtvrtek 19. týdne 1' => 
+  array (
+    0 => 'OL504',
+  ),
+  'Pátek 19. týdne 1' => 
+  array (
+    0 => 'OL505',
+  ),
+  'Sobota 19. týdne 1' => 
+  array (
+    0 => 'OL506',
+  ),
+  'Pátek 23. týdne 1' => 
+  array (
+    0 => 'OL506',
+  ),
+  'Pondělí 20. týdne 1' => 
+  array (
+    0 => 'OL507',
+  ),
+  'Středa 20. týdne 1' => 
+  array (
+    0 => 'OL508',
+  ),
+  'Sobota 1. týdne 2' => 
+  array (
+    0 => 'OL508',
+  ),
+  'Čtvrtek 20. týdne 1' => 
+  array (
+    0 => 'OL509',
+  ),
   'Pátek 22. týdne 1' => 
   array (
     0 => 'OL520',

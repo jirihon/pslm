@@ -1,0 +1,71 @@
+%% occasion: 'Středa 20. týdne 1'
+%% occasion: 'Sobota 1. týdne 2'
+%% responsum_reference: 'Ž 21 (20),2a'
+%% verse_reference: 'Ž 21 (20)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 117
+%% a: "b'B cis8 b b_ a a2"
+%% b: "gB a8 g fis_ e e2"
+
+m: \key d \major
+
+%% part: responsum
+
+m: fis'8 fis e d4. \breathe d8 / g4 g8 fis / e fis g a2. ||
+t: Hospodine, z tvé síly se raduje král.
+
+%% part: verse
+
+m: b'B cis8 b b_ a a a4 |
+t: Hospodine, z tvé síly se raduje král,
+
+m: r8 g8 gB a8 g fis_ e e2 ||
+t: * jak velice jásá nad tvou pomocí!
+
+%% part: verse
+
+m: b'B cis8 b b_( a) a4 r |
+t: Splnil jsi mu, po čem v srdci toužil,
+
+m: gB a8 g fis_ e e4 r ||
+t: * neodepřels, co jeho rty žádaly.
+
+%% use: responsum
+
+%% part: verse
+
+m: b'B cis8 b b_ a a a2 |
+t: Neboť jsi mu vyšel vstříc s hojným požehnáním,
+
+m: gB a8 g fis_( e) e4 r ||
+t: * vsadils mu na hlavu korunu z ryzího zlata.
+
+%% part: verse
+
+m: b'B cis8 b b_( a) a4 r |
+t: Žádal od tebe život:
+
+m: gB a8 g fis_( e) e4 r ||
+t: * dopřáls mu dlouhá léta na věčné časy.
+
+%% use: responsum
+
+%% part: verse
+
+m: b'B cis8 b b_ a a4 r |
+t: Veliká je sláva jeho, protožes mu pomohl,
+
+m: gB a8 g fis_ e e e2 ||
+t: * ozdobils ho ctí a vznešeností.
+
+%% part: verse
+
+m: b'B cis8 b b_ a a a2 |
+t: Učinils ho věčným požehnáním,
+
+m: gB a8 g fis_( e) e2 ||
+t: * oblažils ho radostí před tvou tváří.
+
+%% use: responsum
+

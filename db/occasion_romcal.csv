@@ -552,6 +552,16 @@ occasion,id,cycle
 "Pondělí 19. týdne 1",ordinary_time_19_monday,1
 "Pátek 30. týdne 1",ordinary_time_30_friday,1
 "Středa 8. týdne 2",ordinary_time_8_wednesday,2
+"Úterý 19. týdne 1",ordinary_time_19_tuesday,1
+"Středa 19. týdne 1",ordinary_time_19_wednesday,1
+"Čtvrtek 19. týdne 1",ordinary_time_19_thursday,1
+"Pátek 19. týdne 1",ordinary_time_19_friday,1
+"Sobota 19. týdne 1",ordinary_time_19_saturday,1
+"Pátek 23. týdne 1",ordinary_time_23_friday,1
+"Pondělí 20. týdne 1",ordinary_time_20_monday,1
+"Středa 20. týdne 1",ordinary_time_20_wednesday,1
+"Sobota 1. týdne 2",ordinary_time_1_saturday,2
+"Čtvrtek 20. týdne 1",ordinary_time_20_thursday,1
 "Pátek 22. týdne 1",ordinary_time_22_friday,1
 "Sobota 24. týdne 1",ordinary_time_24_saturday,1
 "Čtvrtek 8. týdne 2",ordinary_time_8_thursday,2

@@ -1,0 +1,78 @@
+%% occasion: 'Pátek 19. týdne 1'
+%% responsum_reference: ''
+%% verse_reference: 'Ž 136 (135)'
+%% author: olejnik
+%% source: vsedni_zaltar
+%% page: 114
+%% comment: 'Odpověď (responsum) se nepředzpěvuje, ale zpívá se po každém verši.'
+%% midi: ['verse_1', 'responsum']
+%% b: "f'8 besB a8 bes / c bes / a( g) / g_ f f4"
+
+m: \key bes \major
+
+%% part: verse
+
+m: f'8 besB a8 bes / c bes / a( g) / g_( f) f4 ||
+t: Oslavujte Hospodina, neboť je dobrý,
+
+%% part: responsum
+
+m: es'8 es d c / f f f4 / g g4( a8) / c bes bes2 ||
+t: jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: f'8 bes8 a8 bes / c( bes) / a( g) / g_( f) f4 ||
+t: Oslavujte Boha bohů,
+
+%% use: responsum
+
+%% part: verse
+
+m: f'8 bes8 a8 bes / c( bes) / a( g) / g_( f) f4 ||
+t: Oslavujte Pána pánů,
+
+%% use: responsum
+
+%% part: verse
+
+m: f'8 bes8 a8 bes / c( bes) / a( g) / g_ f f4 ||
+t: On vedl svůj národ na poušti,
+
+%% use: responsum
+
+%% part: verse
+
+m: f'8( bes8) a8 bes / c bes / a( g) / g_( f) f4 ||
+t: On potřel veliké krále,
+
+%% use: responsum
+
+%% part: verse
+
+m: f'8( bes8) a8 bes / c( bes) / a( g) / g_( f) f4 ||
+t: On zabil mocné krále,
+
+%% use: responsum
+
+%% part: verse
+
+m: f'8 bes8 a8 bes / c( bes) / a( g) / g_ f f4 ||
+t: Dal jejich zem jako majetek,
+
+%% use: responsum
+
+%% part: verse
+
+m: f'8 besB a8 bes / c bes / a g / g_ f f f4 ||
+t: Jako majetek Izraeli, svému služebníku,
+
+%% use: responsum
+
+%% part: verse
+
+m: f'8 bes8 a8 bes / c bes / a g / g_ f f f4 ||
+t: Vysvobodil nás od našich protivníků,
+
+%% use: responsum
+

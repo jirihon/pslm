@@ -1343,6 +1343,30 @@
     "OL501": [
         "OL501"
     ],
+    "OL502": [
+        "OL502"
+    ],
+    "OL503": [
+        "OL503"
+    ],
+    "OL504": [
+        "OL504"
+    ],
+    "OL505": [
+        "OL505"
+    ],
+    "OL506": [
+        "OL506"
+    ],
+    "OL507": [
+        "OL507"
+    ],
+    "OL508": [
+        "OL508"
+    ],
+    "OL509": [
+        "OL509"
+    ],
     "OL520": [
         "OL520"
     ],
@@ -3715,6 +3739,36 @@
     "Středa 8. týdne 2": [
         "OL501"
     ],
+    "Úterý 19. týdne 1": [
+        "OL502"
+    ],
+    "Středa 19. týdne 1": [
+        "OL503"
+    ],
+    "Čtvrtek 19. týdne 1": [
+        "OL504"
+    ],
+    "Pátek 19. týdne 1": [
+        "OL505"
+    ],
+    "Sobota 19. týdne 1": [
+        "OL506"
+    ],
+    "Pátek 23. týdne 1": [
+        "OL506"
+    ],
+    "Pondělí 20. týdne 1": [
+        "OL507"
+    ],
+    "Středa 20. týdne 1": [
+        "OL508"
+    ],
+    "Sobota 1. týdne 2": [
+        "OL508"
+    ],
+    "Čtvrtek 20. týdne 1": [
+        "OL509"
+    ],
     "Pátek 22. týdne 1": [
         "OL520"
     ],
@@ -4766,6 +4820,7 @@
     "Pamatuj na nás, Hospodine, pro náklonnost k svému lidu.": [
         "OL101",
         "OL497",
+        "OL507",
         "OL599",
         "OL601"
     ],
@@ -4877,7 +4932,8 @@
         "OL144",
         "OL161",
         "OL162",
-        "OL314"
+        "OL314",
+        "OL503"
     ],
     "Jděte do celého světa a hlásejte evangelium.": [
         "OL145",
@@ -4992,6 +5048,7 @@
         "OL331",
         "OL409",
         "OL413",
+        "OL509",
         "OL577"
     ],
     "Ty jsi kněz na věky podle Melchizedechova řádu!": [
@@ -5051,6 +5108,7 @@
     "Ty jsi, Hospodine, mým dědičným podílem.": [
         "OL211",
         "OL299",
+        "OL506",
         "OL626"
     ],
     "Budu velebit tvé jméno, můj Bože, králi.": [
@@ -5233,6 +5291,7 @@
     "Nezapomínejte na Boží skutky!": [
         "OL280",
         "OL405",
+        "OL504",
         "OL669"
     ],
     "Ty, Hospodine, vládneš nade vším.": [
@@ -5370,10 +5429,17 @@
         "OL471"
     ],
     "jeho milosrdenství trvá na věky.": [
-        "OL482"
+        "OL482",
+        "OL505"
     ],
     "Vzpomínám na Hospodinovy činy.": [
         "OL499"
+    ],
+    "Hospodinovým podílem je jeho lid.": [
+        "OL502"
+    ],
+    "Hospodine, z tvé síly se raduje král.": [
+        "OL508"
     ],
     "Pro slávu svého jména vysvoboď nás, Pane!": [
         "OL540",

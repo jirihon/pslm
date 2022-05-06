@@ -6,11 +6,11 @@
 %% source: nedelni_zaltar
 %% page: 170
 
-m: \key c \major
+m: \key es \major
 
 %% part: responsum
 
-m: bB ||
+m: g'4 g8 as bes g / c bes as( g) f4 r ||
 t: Jásejte Bohu, všechny země!
 
 %% part: verse
