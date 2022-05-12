@@ -11,7 +11,7 @@ m: \key c \major
 
 %% part: responsum
 
-m: e'4. d8 d( c) c4 | r8 c f f f / f e e( d) d4 \breathe | e4. f8 / g g g g /  e e4 g a a~a2 ||
+m: e'4. d8 d( c) c4 | r8 c f f f / f e e( d) d4 \breathe | e4. f8 / g g g g /  e e4 g a8 a~a2 ||
 t: Doufej v Boha, vždyť zase ho budu chválit, svého spasitele a svého Boha!
 
 %% part: verse
@@ -44,7 +44,7 @@ t: * ty ať mě vedou a přivedou + na tvou svatou horu a do tvých stanů.
 
 %% part: responsum_short
 
-m: e'4. d8 d( c) c4 | r8 c f f f / f e e( d) d4 \breathe | e4. f8 / g g g g / e e4 g a a~a4 ||
+m: e'4. d8 d( c) c4 | r8 c f f f / f e e( d) d4 \breathe | e4. f8 / g g g g / e e4 g a8 a~a4 ||
 t: Doufej v Boha, vždyť zase ho budu chválit, svého spasitele a svého Boha!
 
 %% part: verse
