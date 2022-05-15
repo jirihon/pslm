@@ -24,6 +24,12 @@ document.addEventListener("DOMContentLoaded", async function() {
         }
     });
 
+    const ranks = {
+        FEAST: 'Svátek',
+        MEMORIAL: 'Památka',
+        SOLEMNITY: 'Slavnost',
+    };
+
     render_calendar(offset);
 
     async function render_calendar(offset) {
@@ -90,11 +96,12 @@ document.addEventListener("DOMContentLoaded", async function() {
             }
             const calendar = calendars[year];
             const day_key = day.toISOString().slice(0, 10);
-            let lit_events = calendar[day_key].filter(d => !d.name.includes('$')); // filter out days with wrong names
+            const lit_events = calendar[day_key].filter(d => !d.name.includes('$')); // filter out days with wrong names
+            const lit_event_keys = lit_events.map(e => e.key);
             
             // include also weekday if missing
             for (const event of lit_events) {
-                if (event.weekday && !lit_events.map(e => e.key).includes(event.weekday.key)) {
+                if (event.rank !== 'FEAST' && event.weekday && !lit_event_keys.includes(event.weekday.key)) {
                     lit_events.push(event.weekday);
                 }
             }
@@ -134,7 +141,13 @@ document.addEventListener("DOMContentLoaded", async function() {
             if (week[i] === today) {
                 day_el.classList.add('calendar-current-day');
             }
-            let day_title = lit_days[i].map(d => d.name).join(', ');
+            let day_title = lit_days[i].map(d => {
+                if (ranks[d.rank]) {
+                    return ranks[d.rank] + ' ' + d.name;
+                } else {
+                    return d.name;
+                }
+            }).join(', ');
             if (week[i].getDay() === 0) {
                 day_title = `<strong>${day_title}</strong>`;
             }
