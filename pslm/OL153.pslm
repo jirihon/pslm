@@ -11,7 +11,7 @@ m: \key es \major
 
 %% part: responsum_short
 
-m: es'8 f g as4. f8 bes g g g4 r | f8 c' bes4( c) / d8 bes4 g8 g4 ||
+m: es'8 f g as4. f8 / bes g g / g4 r | f8 c' / bes4( c) / d8 bes4 g8 g4 ||
 t: Budu tě chválit, Hospodine, ve velkém shromáždění.
 
 %% part: verse
@@ -32,7 +32,7 @@ t: * „Na věky ať žije vaše srdce!“
 
 %% part: responsum
 
-m: es'8 f g as4. f8 bes g g g4 r | f8 c' bes4( c) / d8 bes4 g8 g2 ||
+m: es'8 f g as4. f8 / bes g g / g4 r | f8 c' / bes4( c) / d8 bes4 g8 g2 ||
 t: Budu tě chválit, Hospodine, ve velkém shromáždění.
 
 %% part: verse

@@ -14,7 +14,7 @@ m: \key d \major
 
 %% part: responsum
 
-m: d'8 e fis g g fis e a2 fis ||
+m: d'8 e fis g g / fis e / a2 fis ||
 t: Hospodin miluje svůj národ.
 
 %% part: verse

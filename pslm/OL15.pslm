@@ -12,7 +12,7 @@ m: \key f \major
 
 %% part: responsum
 
-m: a'8 a g4( f) d8 d d e f / bes c bes a g4. \breathe c8 | d4 c f, / a8( g) g4 r ||
+m: a'8 a g4( f) / d8 d d / e f / bes c bes a g4. \breathe c8 | d4 c f, / a8( g) g4 r ||
 t: Ukaž nám, Hospodine, své milosrdenství a dej nám svou spásu!
 
 %% part: verse

@@ -11,7 +11,7 @@ m: \key f \major
 
 %% part: responsum
 
-m: f'8 e d d e f a f g g4 | r8 c, bes'4 bes8 bes / a g c c | r a d bes a g4 g r ||
+m: f'8 e d d e f / a f g g4 | r8 c, bes'4 / bes8 bes / a g / c c | r a / d bes a g4 g r ||
 t: Všechno tvé jednání, Hospodine, je láska a věrnost pro ty, kdo plní tvou smlouvu.
 
 %% part: verse

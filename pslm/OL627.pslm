@@ -11,7 +11,7 @@ m: \key d \major
 
 %% part: responsum
 
-m: fis'8 fis e d4 r8 / g8 fis e fis4. g8 / a a a2 ||
+m: fis'8 fis e d4 r8 / g8 fis e / fis4. g8 / a a a2 ||
 t: Hospodine, všimni si mého volání!
 
 %% part: verse
@@ -32,7 +32,7 @@ t: * můj králi a můj Bože!
 
 %% part: responsum_short
 
-m: fis'8 fis e d4 r8 g8 fis e fis4. g8 a a a4 ||
+m: fis'8 fis e d4 r8 / g8 fis e / fis4. g8 / a a a4 ||
 t: Hospodine, všimni si mého volání!
 
 %% part: verse

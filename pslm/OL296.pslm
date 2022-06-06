@@ -12,7 +12,7 @@ m: \key f \major
 
 %% part: responsum
 
-m: c''8 d c bes4 a8 a4. bes8 c bes a4 g8 g2 ||
+m: c''8 d c bes4 a8 a4. / bes8 c bes a4 g8 g2 ||
 t: Radostně půjdeme do domu Pánova.
 
 %% part: verse

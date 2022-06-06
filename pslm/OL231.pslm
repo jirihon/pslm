@@ -11,7 +11,7 @@ m: \key c \major
 
 %% part: responsum
 
-m: e'8 e d c r c f f e d d4 | e8 g g4 r | a8 e a b a4 / a8 g g g4. ||
+m: e'8 e d c r c / f f e / d d4 | e8 g g4 r | a8 e a / b a4 / a8 g g g4. ||
 t: Hospodine, tvá dobrota trvá na věky, dílo svých rukou neopouštěj!
 
 %% part: verse

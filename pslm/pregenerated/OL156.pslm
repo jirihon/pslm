@@ -9,7 +9,7 @@ m: \key bes \major
 
 %% part: responsum
 
-m: r8 f' g f d es f f f f4 \breathe | es8 es g a / bes bes bes bes / c c a f4 f ||
+m: r8 f' g f d es / f f f f4 \breathe | es8 es / g a / bes bes bes bes / c c a f4 f ||
 t: Ať tvoji zbožní, Hospodine, vypravují o slávě tvé vznešené říše.
 
 %% part: verse

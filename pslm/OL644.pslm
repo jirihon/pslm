@@ -11,7 +11,7 @@ m: \key c \major
 
 %% part: responsum
 
-m: g'8 g e g a c c b a a4( g2)  ||
+m: g'8 g e g / a c c / b a a4( g2)  ||
 t: Hledejte vždy Hospodinovu tvář!
 
 %% part: verse

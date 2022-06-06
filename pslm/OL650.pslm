@@ -11,7 +11,7 @@ m: \key g \major
 
 %% part: responsum
 
-m: d'4 g8 g fis e4 r8 e8 e e fis g a a / r4 fis a b8 b b b2 ||
+m: d'4 g8 g fis e4 r8 e8 / e e / fis g / a a r4 / fis a b8 b b b2 ||
 t: Ty, Hospodine, jsi zachránil mou duši, aby nezhynula.
 
 %% part: verse
@@ -34,7 +34,7 @@ t: *  nemám už hledět na nikoho mezi obyvateli světa.
 
 %% part: responsum_short
 
-m: d'4 g8 g fis e4 r8 e8 e e fis g a a / r4 fis a b8 b b b4 ||
+m: d'4 g8 g fis e4 r8 e8 / e e / fis g / a a r4 / fis a b8 b b b4 ||
 t: Ty, Hospodine, jsi zachránil mou duši, aby nezhynula.
 
 %% part: verse

@@ -9,7 +9,7 @@ m: \key g \major
 
 %% part: responsum
 
-m: g'8 d g a d, a' b d( b) g4. | a8 b c b / a( g) fis e / e4( d2) ||
+m: g'8 d g a d, a' / b d( b) g4. | a8 b / c b / a( g) fis e / e4( d2) ||
 t: Světlo dnes zazáří nad námi, neboť se nám narodil Pán.
 
 %% part: verse
