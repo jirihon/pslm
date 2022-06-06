@@ -9,6 +9,7 @@ html/OL[0-9]*.html
 html/index.html
 html/rejstrik.html
 html/mp3
+html/sitemap.xml
 ly/*
 midi/*
 svg/*

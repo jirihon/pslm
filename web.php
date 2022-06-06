@@ -23,10 +23,34 @@ pslm_update_pregenerated();
 pslm_save_occasions();
 pslm_occasions_to_romcal();
 pslm_render_index();
+pslm_render_sitemap();
 
 
 if (file_exists('upload.sh')) {
     system('./upload.sh');
+}
+
+function pslm_render_sitemap() {
+    global $PSLM_PSALMS;
+
+    $home_url = 'https://www.zaltar.cz';
+
+    $pages = [
+        'rejstrik.html',
+        'o-projektu.html',
+    ];
+    foreach ($PSLM_PSALMS as $id => $psalm) {
+        $pages[] = sprintf('%s.html', $id);
+    }
+    $urls = [];
+    foreach ($pages as $page) {
+        $urls[] = sprintf('<url><loc>%s/%s</loc></url>', $home_url, $page);
+    }
+    $sitemap = sprintf(
+        '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">%s</urlset>',
+        implode($urls)
+    );
+    file_put_contents('html/sitemap.xml', $sitemap);
 }
 
 function pslm_occasions_to_romcal() {
