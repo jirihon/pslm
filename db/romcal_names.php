@@ -127,6 +127,7 @@
   'Sv. Brigity, řeholnice' => 'bridget_of_sweden_religious',
   'Sv. Brigity, řeholnice a spolupatronky Evropy' => 'bridget_of_sweden_religious_copatroness_of_europe',
   'Sv. Brigity z Kildare, panny a spolupatronky Irska' => 'brigid_of_kildare_virgin_copatroness_of_ireland',
+  'Sv. Brigity' => 'bridget_of_sweden_religious',
   'Bl. Bronislavy, panny' => 'bronislava_of_poland_virgin',
   'Bl. Bronislava Markiewicze, kněze' => 'bronislaw_markiewicz_priest',
   'Sv. Bruna, kněze' => 'bruno_of_cologne_priest',
