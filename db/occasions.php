@@ -1721,6 +1721,10 @@
     0 => 'OL310',
     1 => 'OL311',
   ),
+  'Sv. Brigity (23. července)' => 
+  array (
+    0 => 'OL312',
+  ),
   'Při křtu dospělých (i v době velikonoční)' => 
   array (
     0 => 'OL314',
