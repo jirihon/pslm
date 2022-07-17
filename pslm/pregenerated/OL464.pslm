@@ -12,7 +12,7 @@ m: \key es \major
 
 %% part: responsum
 
-m: es'8 es c es f es~ es4 | as8 g4 f8 g as bes4 bes ||
+m: es'8 es c es f es~ es4 | as8 g4 f8 / g as bes4 bes r ||
 t: Hospodine, kdo smí prodlévat ve tvém stánku?
 
 %% part: verse
