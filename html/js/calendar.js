@@ -1,6 +1,8 @@
 /* jshint esversion: 8 */
 document.addEventListener("DOMContentLoaded", async function() {
-    const target = document.getElementsByClassName('calendar')[0];
+    const week_target = document.querySelector('.calendar .week');
+    const today_target = document.querySelector('.calendar .today');
+    const sunday_target = document.querySelector('.calendar .sunday');
     let offset = 0;
     
     const romcal = new Romcal({
@@ -30,10 +32,24 @@ document.addEventListener("DOMContentLoaded", async function() {
         SOLEMNITY: 'Slavnost',
     };
 
-    render_calendar(offset);
+    let today_div;
+    let sunday_div;
+
+    await render_calendar(offset);
+
+    const today_heading_el = document.createElement('h2');
+    today_heading_el.innerText = 'Dnes';
+    today_target.appendChild(today_heading_el);
+
+    const sunday_heading_el = document.createElement('h2');
+    sunday_heading_el.innerText = 'Nadcházející neděle';
+    sunday_target.appendChild(sunday_heading_el);
+
+    today_target.appendChild(today_div.cloneNode(true));
+    sunday_target.appendChild(sunday_div.cloneNode(true));
 
     async function render_calendar(offset) {
-        target.innerHTML = '';
+        week_target.innerHTML = '';
 
         const today = new Date();
         let week = [];
@@ -61,15 +77,14 @@ document.addEventListener("DOMContentLoaded", async function() {
         } else {
             title = `${s.getDate()}. ${s.getMonth()+1}. ${s.getFullYear()} – ${e.getDate()}. ${e.getMonth()+1}. ${e.getFullYear()}`;
         }
-        const heading_el = document.createElement('h2');
-        heading_el.innerText = `Týden ${title}`;
-
-        target.appendChild(heading_el);
+        const week_heading_el = document.createElement('h2');
+        week_heading_el.innerText = `Týden ${title}`;
+        week_target.appendChild(week_heading_el);
 
         const button_el = document.createElement('p');
         button_el.innerHTML = ' <a href="#" class="prev-week-button">Předcházející</a> – <a href="#" class="next-week-button">Následující</a>';
         button_el.classList.add('calendar-buttons');
-        target.appendChild(button_el);
+        week_target.appendChild(button_el);
 
         let lit_days = [];
         let day_psalms = [];
@@ -136,31 +151,41 @@ document.addEventListener("DOMContentLoaded", async function() {
             });
             const ids = psalms.map(p => p.psalms).flat();
 
+            const day_div = document.createElement('div');
+            day_div.classList.add('day');
+
             const day_el = document.createElement('p');
-            day_el.classList.add('calendar-day');
+            day_el.classList.add('day-title');
+
             if (week[i] === today) {
-                day_el.classList.add('calendar-current-day');
+                day_el.classList.add('today');
+                today_div = day_div;
+            } else if (i === day_psalms.length - 1) {
+                sunday_div = day_div;
             }
             let day_title = lit_days[i].map(d => {
+                let title;
                 if (ranks[d.rank]) {
-                    return ranks[d.rank] + ' ' + d.name;
+                    title = ranks[d.rank] + ' ' + d.name;
                 } else {
-                    return d.name;
+                    title = d.name;
                 }
+                return title.replace('Sv.', 'sv.').replace('Bl.', 'bl.');
             }).join(', ');
             if (week[i].getDay() === 0) {
                 day_title = `<strong>${day_title}</strong>`;
             }
             day_el.innerHTML = `<strong>${week[i].getDate()}. ${week[i].getMonth()+1}.</strong> – ${day_title}</strong>`;
-            target.appendChild(day_el);
+            day_div.appendChild(day_el);
 
             const list_el = document.createElement('ul');
             let list = [];
             for (const id of ids) {
-                list.push(`<li><a href="${id}.html">${pslm_titles[id]}</a></li>`)
+                list.push(`<li><a href="${id}.html">${pslm_titles[id]}</a></li>`);
             }
             list_el.innerHTML = list.join('');
-            target.appendChild(list_el);
+            day_div.appendChild(list_el);
+            week_target.appendChild(day_div);
         }
     }
 });

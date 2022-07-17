@@ -363,7 +363,7 @@ function pslm_render_index() {
 
     $html .= '<p><input type="search" class="search-field" placeholder="Hledat..." incremental /></p>';
     $html .= '<div class="search"></div>';
-    $html .= '<div class="calendar"></div>';
+    $html .= '<div class="calendar"><div class="today"></div><div class="sunday"></div><div class="week"></div></div>';
 
     /*
     foreach ($cal as &$year) {
