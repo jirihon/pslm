@@ -110,7 +110,9 @@ document.addEventListener("DOMContentLoaded", async function() {
                 calendars[year] = await romcal.generateCalendar(year);
             }
             const calendar = calendars[year];
-            const day_key = day.toISOString().slice(0, 10);
+            const month_string = (day.getMonth()+1).toString().padStart(2, "0");
+            const day_string = day.getDate().toString().padStart(2, "0");
+            const day_key =  `${year}-${month_string}-${day_string}`;
             const lit_events = calendar[day_key].filter(d => !d.name.includes('$')); // filter out days with wrong names
             const lit_event_keys = lit_events.map(e => e.key);
             
