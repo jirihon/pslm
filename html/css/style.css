@@ -48,7 +48,7 @@ html {
     height: auto;
 }
 body {
-    font-size: 17px;
+    font-size: 18px;
     margin: 0;
 }
 a {
@@ -81,8 +81,8 @@ h1 {
 }
 .search-field {
     width: 100%;
-    font-size: 17px;
-    padding: 5px 5px;
+    font-size: 18px;
+    padding: 8px;
     -webkit-appearance: none;
     border: 1px solid #888888;
     border-radius: 4px;
