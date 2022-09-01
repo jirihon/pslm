@@ -133,6 +133,7 @@ occasion,id,cycle
 "Čtvrtek po 3. neděli postní",lent_3_thursday,
 "4. neděle v mezidobí B",ordinary_time_4_sunday,B
 "23. neděle v mezidobí A",ordinary_time_23_sunday,A
+"27. neděle v mezidobí C",ordinary_time_27_sunday,C
 "3. neděle postní B",lent_3_sunday,B
 "Zmrtvýchvstání Páně, vigilie (6. čtení)",easter_sunday,
 "Seslání Ducha Svatého, vigilie (po čtení z Ex 19,3-20)",pentecost_sunday,
@@ -357,6 +358,7 @@ occasion,id,cycle
 "Sv. Petra a Pavla, vigilie (28. června, večer)",peter_and_paul_apostles,
 "Sv. Matouše (21. září)",matthew_apostle,
 "Sv. Šimona a Judy (28. října)",simon_and_jude_apostles,
+"Sv. Ondřeje (30. listopadu)",30/11,
 "Sv. Matěje (14. května)",matthias_apostle,
 "Sv. Jana Nepomuckého (16. května)",john_nepomucene_priest,
 "Sv. Barnabáše (11. června)",barnabas_apostle,
@@ -365,6 +367,7 @@ occasion,id,cycle
 "Narození sv. Jana Křtitele (24. června)",nativity_of_john_the_baptist,
 "Sv. Petra a Pavla (29. června)",peter_and_paul_apostles,
 "O mučednících (i v době velikonoční)",,
+"Sv. Ignáce Antiochijského (17. října)",17/10,
 "Sv. Prokopa (4. července)",procopius_of_sazava_abbot,
 "Sv. Benedikta (11. července)",benedict_of_nursia_abbot,
 "Sv. Jakuba (25. července)",james_apostle,
@@ -395,6 +398,8 @@ occasion,id,cycle
 "O učitelích Církve (i v době velikonoční)",,
 "O učitelích Církve (v době velikonoční)",,
 "Při řeholních slibech (i v době velikonoční)",,
+"Sv. Terezie Benedikty od Kříže (9. srpna)",9/8,
+"Sv. Kateřiny Sienské (29. dubna)",29/4,
 "Při řeholních slibech (v době velikonoční)",,
 "Sv. Brigity (23. července)",bridget_of_sweden_religious,
 "Při křtu dospělých (i v době velikonoční)",,
@@ -406,6 +411,7 @@ occasion,id,cycle
 "Při žehnání opata a abatyše",,
 "Při žehnání opata a abatyše (v době velikonoční)",,
 "Při svěcení oltáře (v době velikonoční)",,
+"Vzpomínka na všechny věrné zemřelé",all_souls,
 "Při pohřbu pokřtěného dítěte - verze a)",,
 "Při pohřbu dosud nepokřtěného dítěte - verze b)",,
 "Pondělí 1. týdne 1",ordinary_time_1_monday,1

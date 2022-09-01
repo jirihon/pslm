@@ -586,6 +586,11 @@
     0 => 'OL86',
     1 => 'OL87',
   ),
+  '27. neděle v mezidobí C' => 
+  array (
+    0 => 'OL86',
+    1 => 'OL87',
+  ),
   '3. neděle postní B' => 
   array (
     0 => 'OL88',
@@ -1552,6 +1557,10 @@
   array (
     0 => 'OL263',
   ),
+  'Sv. Ondřeje (30. listopadu)' => 
+  array (
+    0 => 'OL263',
+  ),
   'Sv. Matěje (14. května)' => 
   array (
     0 => 'OL264',
@@ -1586,6 +1595,10 @@
     1 => 'OL272',
     2 => 'OL288',
     3 => 'OL290',
+  ),
+  'Sv. Ignáce Antiochijského (17. října)' => 
+  array (
+    0 => 'OL269',
   ),
   'Sv. Prokopa (4. července)' => 
   array (
@@ -1716,6 +1729,15 @@
     2 => 'OL332',
     3 => 'OL334',
   ),
+  'Sv. Terezie Benedikty od Kříže (9. srpna)' => 
+  array (
+    0 => 'OL305',
+    1 => 'OL306',
+  ),
+  'Sv. Kateřiny Sienské (29. dubna)' => 
+  array (
+    0 => 'OL309',
+  ),
   'Při řeholních slibech (v době velikonoční)' => 
   array (
     0 => 'OL310',
@@ -1761,6 +1783,12 @@
   'Při svěcení oltáře (v době velikonoční)' => 
   array (
     0 => 'OL336',
+  ),
+  'Vzpomínka na všechny věrné zemřelé' => 
+  array (
+    0 => 'OL337',
+    1 => 'OL339',
+    2 => 'OL716',
   ),
   'Při pohřbu pokřtěného dítěte - verze a)' => 
   array (

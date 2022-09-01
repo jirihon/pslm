@@ -381,6 +381,9 @@
     "ordinary_time_23_sunday|A": [
         "23. neděle v mezidobí A"
     ],
+    "ordinary_time_27_sunday|C": [
+        "27. neděle v mezidobí C"
+    ],
     "lent_3_sunday|B": [
         "3. neděle postní B"
     ],
@@ -978,6 +981,9 @@
     "simon_and_jude_apostles": [
         "Sv. Šimona a Judy (28. října)"
     ],
+    "30\/11": [
+        "Sv. Ondřeje (30. listopadu)"
+    ],
     "matthias_apostle": [
         "Sv. Matěje (14. května)"
     ],
@@ -993,6 +999,9 @@
     "nativity_of_john_the_baptist": [
         "Narození sv. Jana Křtitele, vigilie (23. června, večer)",
         "Narození sv. Jana Křtitele (24. června)"
+    ],
+    "17\/10": [
+        "Sv. Ignáce Antiochijského (17. října)"
     ],
     "procopius_of_sazava_abbot": [
         "Sv. Prokopa (4. července)"
@@ -1058,8 +1067,17 @@
     "holy_innocents_martyrs": [
         "Sv. Mláďátek (28. prosince)"
     ],
+    "9\/8": [
+        "Sv. Terezie Benedikty od Kříže (9. srpna)"
+    ],
+    "29\/4": [
+        "Sv. Kateřiny Sienské (29. dubna)"
+    ],
     "bridget_of_sweden_religious": [
         "Sv. Brigity (23. července)"
+    ],
+    "all_souls": [
+        "Vzpomínka na všechny věrné zemřelé"
     ],
     "ordinary_time_1_monday|1": [
         "Pondělí 1. týdne 1"

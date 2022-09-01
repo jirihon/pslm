@@ -2,11 +2,14 @@
 %% occasion: 'Čtvrtek po 3. neděli postní'
 %% occasion: '4. neděle v mezidobí B'
 %% occasion: '23. neděle v mezidobí A'
+%% occasion: '27. neděle v mezidobí C'
 %% responsum_reference: 'Ž 95 (94), 7c-8a'
 %% verse_reference: 'Ž 95 (94)'
 %% author: olejnik
 %% source: nedelni_zaltar
 %% page: 95
+
+% Chyba: v žaltáři není uvedena příležitost 27. neděle v mezidobí C
 
 m: \key f \major
 

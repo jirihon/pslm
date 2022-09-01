@@ -48,6 +48,14 @@ document.addEventListener("DOMContentLoaded", async function() {
     today_target.appendChild(today_div.cloneNode(true));
     sunday_target.appendChild(sunday_div.cloneNode(true));
 
+    function date_to_key(day) {
+        const year_string = day.getFullYear().toString();
+        const month_string = (day.getMonth()+1).toString().padStart(2, "0");
+        const day_string = day.getDate().toString().padStart(2, "0");
+        const day_key =  `${year_string}-${month_string}-${day_string}`;
+        return day_key;
+    }
+
     async function render_calendar(offset) {
         week_target.innerHTML = '';
 
@@ -86,36 +94,30 @@ document.addEventListener("DOMContentLoaded", async function() {
         button_el.classList.add('calendar-buttons');
         week_target.appendChild(button_el);
 
-        let lit_days = [];
-        let day_psalms = [];
-
-        function add_psalms(rank, key, i) {
-            if (key in pslm_romcal_to_occasions) {
-                for (const occasion of pslm_romcal_to_occasions[key]) {
-                    if (occasion.match(/vigilie/i)) {
-                        if (i > 0) {
-                            day_psalms[i-1].push({ rank: lit_days[i-1].length, occasion, psalms: pslm_psalms[occasion] });
+        async function get_day_psalms_and_lit_days(i, day, day_psalms, lit_days) {
+            function add_psalms(rank, key, i) {
+                if (key in pslm_romcal_to_occasions) {
+                    for (const occasion of pslm_romcal_to_occasions[key]) {
+                        if (occasion.match(/vigilie/i)) {
+                            if (i > 0) {
+                                day_psalms[i-1].push({ rank: lit_days[i-1].length, occasion, psalms: pslm_psalms[occasion] });
+                            }
+                        } else {
+                            day_psalms[i].push({ rank, occasion, psalms: pslm_psalms[occasion] });
                         }
-                    } else {
-                        day_psalms[i].push({ rank, occasion, psalms: pslm_psalms[occasion] });
                     }
                 }
             }
-        }
-
-        for (const [i, day] of week.entries()) {
             day_psalms[i] = [];
             const year = day.getFullYear();
             if (!(year in calendars)) {
                 calendars[year] = await romcal.generateCalendar(year);
             }
             const calendar = calendars[year];
-            const month_string = (day.getMonth()+1).toString().padStart(2, "0");
-            const day_string = day.getDate().toString().padStart(2, "0");
-            const day_key =  `${year}-${month_string}-${day_string}`;
+            const day_key = date_to_key(day);
             const lit_events = calendar[day_key].filter(d => !d.name.includes('$')); // filter out days with wrong names
             const lit_event_keys = lit_events.map(e => e.key);
-            
+
             // include also weekday if missing
             for (const event of lit_events) {
                 if (event.rank !== 'FEAST' && event.weekday && !lit_event_keys.includes(event.weekday.key)) {
@@ -132,6 +134,13 @@ document.addEventListener("DOMContentLoaded", async function() {
                 add_psalms(rank, `${day.getDate()}/${day.getMonth()+1}`, i);
             }
             lit_days[i] = lit_events;
+        }
+
+        let lit_days = [];
+        let day_psalms = [];
+
+        for (const [i, day] of week.entries()) {
+            await get_day_psalms_and_lit_days(i, day, day_psalms, lit_days);
         }
         
         for (let [i, psalms] of day_psalms.entries()) {
@@ -189,5 +198,32 @@ document.addEventListener("DOMContentLoaded", async function() {
             day_div.appendChild(list_el);
             week_target.appendChild(day_div);
         }
+
+        // print days with no psalm in the whole year
+        /*
+        const day = new Date();
+        day.setFullYear(2022);
+        day.setMonth(0);
+        day.setDate(1);
+        const current_year = day.getFullYear();
+
+        lit_days = [];
+        day_psalms = [];
+        all_days = [];
+        let i = 0;
+
+        while (day.getFullYear() === current_year) {
+            await get_day_psalms_and_lit_days(i, day, day_psalms, lit_days);
+            all_days[i] = new Date(day);
+            day.setDate(day.getDate() + 1);
+            ++i;
+        }
+        for (const [i, day] of all_days.entries()) {
+            if (day_psalms[i].length === 0) {
+                console.log(day);
+                console.log(lit_days[i]);
+            }
+        }
+        */
     }
 });

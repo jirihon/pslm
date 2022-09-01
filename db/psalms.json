@@ -2477,6 +2477,10 @@
         "OL86",
         "OL87"
     ],
+    "27. neděle v mezidobí C": [
+        "OL86",
+        "OL87"
+    ],
     "3. neděle postní B": [
         "OL88"
     ],
@@ -3219,6 +3223,9 @@
     "Sv. Šimona a Judy (28. října)": [
         "OL263"
     ],
+    "Sv. Ondřeje (30. listopadu)": [
+        "OL263"
+    ],
     "Sv. Matěje (14. května)": [
         "OL264"
     ],
@@ -3245,6 +3252,9 @@
         "OL272",
         "OL288",
         "OL290"
+    ],
+    "Sv. Ignáce Antiochijského (17. října)": [
+        "OL269"
     ],
     "Sv. Prokopa (4. července)": [
         "OL270"
@@ -3345,6 +3355,13 @@
         "OL332",
         "OL334"
     ],
+    "Sv. Terezie Benedikty od Kříže (9. srpna)": [
+        "OL305",
+        "OL306"
+    ],
+    "Sv. Kateřiny Sienské (29. dubna)": [
+        "OL309"
+    ],
     "Při řeholních slibech (v době velikonoční)": [
         "OL310",
         "OL311"
@@ -3379,6 +3396,11 @@
     ],
     "Při svěcení oltáře (v době velikonoční)": [
         "OL336"
+    ],
+    "Vzpomínka na všechny věrné zemřelé": [
+        "OL337",
+        "OL339",
+        "OL716"
     ],
     "Při pohřbu pokřtěného dítěte - verze a)": [
         "OL344"
