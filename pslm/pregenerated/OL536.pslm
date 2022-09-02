@@ -13,7 +13,7 @@ m: \key f \major
 
 %% part: responsum
 
-m: f'8 f f e d g g g g2 | c,8 g' g g / f e a4 a2 ||
+m: f'8 f f e d / g g g / g2 | c,8 g' / g g / f e / a4 a2 ||
 t: 1. 3. 4.
 
 %% part: verse

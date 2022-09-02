@@ -1,7 +1,7 @@
 %% occasion: 'Sobota 25. týdne 1'
 %% occasion: 'Pátek 16. týdne 2'
 %% occasion: 'Středa 18. týdne 2'
-%% responsum_reference: 'Jer 31,10d Ho-spo-din bu - de nad ná - mi bdít, ja - ko pa-stýř nad svým stá - dem. stá - dem.'
+%% responsum_reference: 'Jer 31,10d'
 %% verse_reference: 'Jer 31'
 %% author: olejnik
 %% source: vsedni_zaltar
@@ -15,7 +15,7 @@ m: \key f \major
 
 %% part: responsum
 
-m: f'8 f f e d g g g g2 | c,8 g' g g / f e a4 a2 ||
+m: f'8 f f e d / g g g / g2 | c,8 g' / g g / f e / a4 a2 ||
 t: Hospodin bude nad námi bdít, jako pastýř nad svým stádem.
 
 %% part: verse
