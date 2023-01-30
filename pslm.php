@@ -26,6 +26,8 @@ define('PSLM_CRESC_MAX_DIST', 10);
 $PSLM_SYLLABLE = null;
 $PSLM_HYPH_EXCEPTIONS = null;
 
+$LILYPOND = '/home/xhonji01/Programy/lilypond-2.24.0/bin/lilypond';
+
 /* TODO
 find all psalms without []
 
@@ -36,6 +38,7 @@ hiddenBreve =
 
 
 function pslm_engrave($id, $svg_d) {
+    global $LILYPOND;
     $pslm_f = "pslm/$id.pslm";
 
     $psalm = file_get_contents($pslm_f);
@@ -52,7 +55,7 @@ function pslm_engrave($id, $svg_d) {
         file_put_contents($lily_f, $lily);
 
         $svg_name = "$svg_d/$id-$size";
-        $cmd = "lilypond --svg -dbackend=cairo -dno-point-and-click -o $svg_name ly/$id-$size.ly";
+        $cmd = "$LILYPOND --svg -dbackend=cairo -dno-point-and-click -o $svg_name ly/$id-$size.ly";
         system($cmd);
 
         pslm_fix_svg("$svg_name.svg");
@@ -67,7 +70,7 @@ function pslm_engrave($id, $svg_d) {
         echo "Skipping MP3 engraving for $id, lilypond is the same.\n";
     } else {
         file_put_contents($lily_f, $lily);
-        $cmd = "lilypond -o midi/$id $lily_f";
+        $cmd = "$LILYPOND -o midi/$id $lily_f";
         system($cmd);
         // TODO: loudnorm filter does something different than audio normalization, use volume filter instead with fixed amount of gain
         $cmd = "timidity --quiet -T 150 --output-24bit -Ow -o - $midi_f | ffmpeg -hide_banner -loglevel error -y -i - -filter:a loudnorm -acodec libmp3lame -qscale:a 3 html/mp3/$id.mp3";

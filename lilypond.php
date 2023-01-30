@@ -171,6 +171,6 @@ if (preg_match('#\.pslm$#', $pslm_f)) {
 }
 $passed_args = array_map(function($arg) { return escapeshellarg($arg); }, $passed_args);
 $passed_args = implode(' ', $passed_args);
-$cmd = "lilypond $passed_args";
+$cmd = "$LILYPOND $passed_args";
 system($cmd, $retcode);
 exit($retcode);
