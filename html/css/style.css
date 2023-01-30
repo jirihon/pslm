@@ -40,7 +40,8 @@ html {
     position: relative;
     padding: 0 15px;
 }
-.score div {
+.score div,
+.score img {
     width: 100%;
 }
 .score svg {

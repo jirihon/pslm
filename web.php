@@ -503,6 +503,22 @@ function pslm_to_meta_description($psalm) {
     return $desc;
 }
 
+function svg_to_data_uri($svg) {
+    $svg_enc = rawurlencode($svg);
+    
+    // browsers tolerate these characters, and they're frequent
+    $replacements = [
+        '%22' => "'",
+        '%20' => ' ',
+        '%3D' => '=',
+        '%3A' => ':',
+        '%2F' => '/',
+    ];
+    $svg_enc = str_replace(array_keys($replacements), array_values($replacements), $svg_enc);
+
+    return "data:image/svg+xml,$svg_enc";
+}
+
 function pslm_render_psalm_html($id) {
     global $PSLM_SOURCES;
     $psalm = pslm_engrave($id, 'svg');
@@ -546,7 +562,9 @@ function pslm_render_psalm_html($id) {
 
         <div class="score">
         <?php foreach (PSLM_SVG_SIZES as $size): ?>
-            <div class="size-<?= $size ?>"><?= file_get_contents("svg/$id-$size.svg") ?></div>
+            <?php //$data_uri = []; ?>
+            <?php //exec("./node_modules/mini-svg-data-uri/cli.js svg/$id-$size.svg", $data_uri); ?>
+            <img class="size-<?= $size ?>" alt="<?= htmlspecialchars($desc) ?>" src="<?= svg_to_data_uri(file_get_contents("svg/$id-$size.svg")) ?>" />
         <?php endforeach ?>
         </div>
         
