@@ -17,6 +17,7 @@ cache/*
 db/*.xml
 db/*.gz
 db/*_zaltar.*
+db/*_zaltar_final_2021.*
 pslm/*.pdf
 pslm/*.ly
 pslm/*.svg
