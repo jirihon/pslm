@@ -22,7 +22,7 @@ function pslm_preprocessor($psalm) {
     foreach ($var_matches as $var_match) {
         list(, $var, $music) = $var_match;
         
-        $was_snippet_match = preg_match_all("#m: ${var}B (\|+)\nt: (.*)#u", $psalm, $snippet_matches, PREG_SET_ORDER);
+        $was_snippet_match = preg_match_all("#m: {$var}B (\|+)\nt: (.*)#u", $psalm, $snippet_matches, PREG_SET_ORDER);
 
         foreach ($snippet_matches as $snippet_match) {
             list($snippet, $bar, $text) = $snippet_match;
