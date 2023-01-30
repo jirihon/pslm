@@ -11,7 +11,7 @@ m: \key g \major
 
 %% part: responsum_short
 
-m:  d'8 g g g fis4 e / a8 a a2 | d,8 a' a / b a g4 fis / g8 a b b b4 ||
+m:  d'8 g g g fis4 e / a8 a a2 | d,8 a' a / b a / g4 fis / g8 a b b b4 ||
 t: Vzmužte se a buďte srdnatí, všichni, kdo spoléháte na Hospodina.
 
 %% part: verse
@@ -24,7 +24,7 @@ t: * uchoval jsi ji těm, kdo se tě bojí, + popřáváš ji těm, kdo se k tob
 
 %% part: responsum
 
-m:  d'8 g g g fis4 e a8 a a2 | d,8 a' a b a g4 fis g8 a b b b2 ||
+m:  d'8 g g g fis4 e a8 a a2 | d,8 a' a / b a / g4 fis / g8 a b b b2 ||
 t: Vzmužte se a buďte srdnatí, všichni, kdo spoléháte na Hospodina.
 
 %% part: verse
