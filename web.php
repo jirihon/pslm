@@ -617,7 +617,7 @@ function pslm_render_sizes_css() {
     
     for ($i = 0; $i < $n_sizes; ++$i) {
         if ($i > 0) {
-            $css .= "@media (min-width: ${min_width}px) {\n";
+            $css .= "@media (min-width: {$min_width}px) {\n";
         }
         $show_selectors = [];
         $hide_selectors = [];
