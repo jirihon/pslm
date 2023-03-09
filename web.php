@@ -260,9 +260,9 @@ function pslm_html_page($title, $body, $head = '') {
 <head>
     <meta charset="UTF-8">
     <?php if (!empty($title)): ?>
-        <title><?= $title ?> – Žaltář</title>
+        <title><?= $title ?> – Olejníkův žaltář</title>
     <?php else: ?>
-        <title>Žaltář</title>
+        <title>Olejníkův žaltář</title>
     <?php endif ?>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="css/style.css?ver=<?= time() ?>" media="all" />
@@ -274,7 +274,7 @@ function pslm_html_page($title, $body, $head = '') {
             <a onclick="history.back(); return false;" href="./" class="back-button"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="chevron-left" class="svg-inline--fa fa-chevron-left fa-w-10" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M34.52 239.03L228.87 44.69c9.37-9.37 24.57-9.37 33.94 0l22.67 22.67c9.36 9.36 9.37 24.52.04 33.9L131.49 256l154.02 154.75c9.34 9.38 9.32 24.54-.04 33.9l-22.67 22.67c-9.37 9.37-24.57 9.37-33.94 0L34.52 272.97c-9.37-9.37-9.37-24.57 0-33.94z"></path></svg></a>
             <h1><?= $title ?></h1>
         <?php else: ?>
-            <h1>Žaltář</h1>
+            <h1>Olejníkův žaltář</h1>
         <?php endif ?>
         <?= $body ?>
     </div>
@@ -503,6 +503,24 @@ function pslm_to_meta_description($psalm) {
     return $desc;
 }
 
+function pslm_to_formatted_text($psalm) {
+    $desc = [];
+
+    foreach ($psalm['original_text'] as $part => $text) {
+        $text = trim(implode(' ', $text));
+        $text = str_replace(' -- ', '', $text);
+        $text = preg_replace('#\s+#', ' ', $text);
+
+        if (preg_match('#^responsum#', $part)) {
+            $desc[] = sprintf('<p class="responsum-text"><strong>R.</strong> %s</p>', $text);
+        } elseif (preg_match('#^verse_(\d+)#', $part, $m)) {
+            $desc[] = sprintf('<p class="verse-text"><strong>%s.</strong> %s</p>', $m[1], $text);
+        }
+    }
+    $desc = implode('', $desc);
+    return $desc;
+}
+
 function svg_to_data_uri($svg) {
     $svg_enc = rawurlencode($svg);
     
@@ -533,6 +551,7 @@ function pslm_render_psalm_html($id) {
     $source = isset($opts['source']) && isset($PSLM_SOURCES[$opts['source']]) ? $PSLM_SOURCES[$opts['source']]['reference'] : '';
 
     $desc = pslm_to_meta_description($psalm);
+    $formatted_text = pslm_to_formatted_text($psalm);
 
     ob_start();
 ?><!DOCTYPE html>
@@ -567,6 +586,8 @@ function pslm_render_psalm_html($id) {
             <img class="size-<?= $size ?>" alt="<?= htmlspecialchars($desc) ?>" src="<?= svg_to_data_uri(file_get_contents("svg/$id-$size.svg")) ?>" />
         <?php endforeach ?>
         </div>
+
+        <?= $formatted_text ?>
         
         <p>Odpověď: <?= $opts['responsum_reference'] ?></p>
         <p>Verše: <?= $opts['verse_reference'] ?></p>

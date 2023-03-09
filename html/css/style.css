@@ -88,3 +88,9 @@ h1 {
     border: 1px solid #888888;
     border-radius: 4px;
 }
+p.responsum-text {
+    margin: 1em 0;
+}
+p.verse-text {
+    margin: 0;
+}
