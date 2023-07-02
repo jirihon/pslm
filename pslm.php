@@ -395,9 +395,6 @@ function pslm_process_snippet($music, $text) {
     foreach ($note_syllables as $token) {
         if ($token[0] == PSLM_TOKEN_NOTE_SYLLABLE) {
             ++$n_note_syllables;
-            if (preg_match('#\\\\breve\*(\d+)#', $token[1], $m)) {
-                $n_note_syllables += intval($m[1]) - 1;
-            }
         }
     }
     $text = pslm_text_to_lyrics($text);
