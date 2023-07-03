@@ -389,16 +389,22 @@ function pslm_parse_psalm($psalm) {
 
 function pslm_process_snippet($music, $text) {
     $music_tokens = pslm_parse_music($music);
-    $note_syllables = pslm_note_syllables($music_tokens);
 
-    $n_note_syllables = 0;
-    foreach ($note_syllables as $token) {
-        if ($token[0] == PSLM_TOKEN_NOTE_SYLLABLE) {
-            ++$n_note_syllables;
-        }
-    }
+    $note_syllables = pslm_note_syllables($music_tokens);
+    $n_note_syllables = count($note_syllables);
+
     $text = pslm_text_to_lyrics($text);
     $text_tokens = pslm_parse_lyrics($text);
+
+    $text_syllables = pslm_text_syllables($text_tokens);
+    $n_text_syllables = count($text_syllables);
+
+    for ($i = 0; $i < count($text_tokens); ++$i) {
+        if ($text_tokens[$i][0] == PSLM_TOKEN_SYLLABLE && strpos($text_tokens[$i][1], ' ') !== false) {
+            // should be escaped
+            $text_tokens[$i][1] = sprintf('"%s"', $text_tokens[$i][1]);
+        }
+    }
 
     $duration = '4';
     foreach ($music_tokens as &$token) {
@@ -413,38 +419,63 @@ function pslm_process_snippet($music, $text) {
     $music = implode(' ', array_map(function($token) { return $token[1]; }, $music_tokens));
     
     $accent_syllable_i = -1;
+    $breve_syllable_i = -1;
     foreach ($note_syllables as $i => $token) {
         if (strpos($token[1], '_') !== false) {
             $accent_syllable_i = $i;
-            break;
+        }
+        if (strpos($token[1], '\breve') !== false) {
+            $breve_syllable_i = $i;
         }
     }
     if ($accent_syllable_i > -1) {
         $n_syllables_from_end = count($note_syllables) - $accent_syllable_i;
-        $n_text_syllables = 0;
+        $n = 0;
         for ($i = count($text_tokens) - 1; $i >= 0; --$i) {
             if ($text_tokens[$i][0] == PSLM_TOKEN_SYLLABLE) {
-                ++$n_text_syllables;
-                if ($n_text_syllables == $n_syllables_from_end) {
-                    $text_tokens[$i][1] = sprintf('\markup \accent "%s"', $text_tokens[$i][1]);
+                ++$n;
+                if ($n == $n_syllables_from_end) {
+                    $text_tokens[$i][1] = sprintf('\markup \accent %s', $text_tokens[$i][1]);
+                }
+            }
+        }
+    }
+    if ($breve_syllable_i > -1) {
+        $n_syllables_from_end = count($note_syllables) - $breve_syllable_i - 1;
+        $n_breve_syllables = $n_text_syllables - $n_syllables_from_end;
+
+        if ($n_breve_syllables < 2) {
+            echo "WARNING: less than two syllables on a breve\n";
+        } else {
+            $n = 0;
+            for ($i = count($text_tokens) - 1; $i >= 0; --$i) {
+                if ($text_tokens[$i][0] == PSLM_TOKEN_SYLLABLE) {
+                    ++$n;
+                    if ($n == $n_syllables_from_end) {
+                        $text_tokens[$i][1] = sprintf('\unLeft \unSquash %s', $text_tokens[$i][1]);
+                    }
+                }
+            }
+            $n = 0;
+            for ($i = 0; $i < count($text_tokens); ++$i) {
+                if ($text_tokens[$i][0] == PSLM_TOKEN_SYLLABLE) {
+                    ++$n;
+                    if ($n == $breve_syllable_i + 1) {
+                        $text_tokens[$i][1] = sprintf('\left %s', $text_tokens[$i][1]);
+                    }
+                    if ($n == $breve_syllable_i + 2) {
+                        $text_tokens[$i][1] = sprintf('\squash %s', $text_tokens[$i][1]);
+                    }
                 }
             }
         }
     }
     $text = implode(' ', array_map(function($token) {
-        if ($token[1][0] != '\\' && strpos($token[1], ' ') !== false) {
-            // should be escaped
-            return sprintf('"%s"', $token[1]);
-        } else {
-            return $token[1];
-        }
+        return $token[1];
     }, $text_tokens));
 
     // $music = str_replace('_', '', $music);
     $music = preg_replace('#([^ ]*)_#', '\bar "" $1', $music);
-    
-    $text_syllables = pslm_text_syllables($text_tokens);
-    $n_text_syllables = count($text_syllables);
 
     $n_notes_to_add = $n_text_syllables - $n_note_syllables;
 
