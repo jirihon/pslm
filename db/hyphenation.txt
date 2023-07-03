@@ -21,3 +21,4 @@ u-smr
 ut-kal
 se-dm
 us-nu
+u-vn
