@@ -462,6 +462,9 @@ function pslm_process_snippet($music, $text) {
         }
         if ($breve_text_end - $breve_text_start < 2) {
             echo "WARNING: less than two syllables on a breve\n";
+            echo implode(' ', array_map(function($token) {
+                return $token[1];
+            }, $text_tokens));
         } else {
             $k = 0;
             for ($i = 0; $i < count($text_tokens); ++$i) {
