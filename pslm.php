@@ -426,53 +426,54 @@ function pslm_process_snippet($music, $text) {
     $music = implode(' ', array_map(function($token) { return $token[1]; }, $music_tokens));
     
     $accent_syllable_i = -1;
-    $breve_syllable_i = -1;
+    $breve_syllables = [];
     foreach ($note_syllables as $i => $token) {
         if (strpos($token[1], '_') !== false) {
             $accent_syllable_i = $i;
-        }
-        if (strpos($token[1], '\breve') !== false) {
-            $breve_syllable_i = $i;
+        } else if (preg_match('#\\\\breve\*(\d+)#', $token[1], $m)) {
+            $breve_syllables[] = [$i, intval($m[1])];
+        } else if (strpos($token[1], '\breve') !== false) {
+            $breve_syllables[] = [$i, 0];
         }
     }
     if ($accent_syllable_i > -1) {
         $n_syllables_from_end = count($note_syllables) - $accent_syllable_i;
-        $n = 0;
+        $k = 0;
         for ($i = count($text_tokens) - 1; $i >= 0; --$i) {
             if ($text_tokens[$i][0] == PSLM_TOKEN_SYLLABLE) {
-                ++$n;
-                if ($n == $n_syllables_from_end) {
+                ++$k;
+                if ($k == $n_syllables_from_end) {
                     $text_tokens[$i][1] = sprintf('\markup \accent %s', $text_tokens[$i][1]);
                 }
             }
         }
     }
-    if ($breve_syllable_i > -1) {
-        $n_syllables_from_end = count($note_syllables) - $breve_syllable_i - 1;
-        $n_breve_syllables = $n_text_syllables - $n_syllables_from_end;
-
-        if ($n_breve_syllables < 2) {
+    foreach ($breve_syllables as $breve_i => [$breve_note_i, $breve_len]) {
+        if ($breve_i === 0) {
+            if ($breve_len !== 0) {
+                echo "ERROR: variable breve must be the first one\n";
+                die;
+            }
+            $breve_text_start = $breve_note_i;
+            $breve_text_end = $n_text_syllables - $n_note_syllables + $breve_note_i + 1;
+        } else {
+            $breve_text_start = $n_text_syllables - $n_note_syllables + $breve_note_i;
+            $breve_text_end = $breve_text_start + $breve_len;
+        }
+        if ($breve_text_end - $breve_text_start < 2) {
             echo "WARNING: less than two syllables on a breve\n";
         } else {
-            $n = 0;
-            for ($i = count($text_tokens) - 1; $i >= 0; --$i) {
-                if ($text_tokens[$i][0] == PSLM_TOKEN_SYLLABLE) {
-                    ++$n;
-                    if ($n == $n_syllables_from_end) {
-                        $text_tokens[$i][1] = sprintf('\unLeft \unSquash %s', $text_tokens[$i][1]);
-                    }
-                }
-            }
-            $n = 0;
+            $k = 0;
             for ($i = 0; $i < count($text_tokens); ++$i) {
                 if ($text_tokens[$i][0] == PSLM_TOKEN_SYLLABLE) {
-                    ++$n;
-                    if ($n == $breve_syllable_i + 1) {
+                    if ($k === $breve_text_start) {
                         $text_tokens[$i][1] = sprintf('\left %s', $text_tokens[$i][1]);
-                    }
-                    if ($n == $breve_syllable_i + 2) {
+                    } else if ($k === $breve_text_start + 1) {
                         $text_tokens[$i][1] = sprintf('\squash %s', $text_tokens[$i][1]);
+                    } else if ($k === $breve_text_end) {
+                        $text_tokens[$i][1] = sprintf('\unLeft \unSquash %s', $text_tokens[$i][1]);
                     }
+                    ++$k;
                 }
             }
         }
