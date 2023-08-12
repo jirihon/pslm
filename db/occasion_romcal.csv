@@ -21,6 +21,7 @@ occasion,id,cycle
 "Pondělí po 2. neděli adventní",advent_2_monday,
 "Středa po 3. neděli adventní",advent_3_wednesday,
 "15. neděle v mezidobí B",ordinary_time_15_sunday,B
+"19. neděle v mezidobí A",ordinary_time_19_sunday,A
 "2. neděle adventní C",advent_2_sunday,C
 "5. neděle postní C",lent_5_sunday,C
 "30. neděle v mezidobí B",ordinary_time_30_sunday,B

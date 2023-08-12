@@ -106,6 +106,12 @@
     1 => 'OL14',
     2 => 'OL15',
   ),
+  '19. neděle v mezidobí A' => 
+  array (
+    0 => 'OL13',
+    1 => 'OL14',
+    2 => 'OL15',
+  ),
   '2. neděle adventní C' => 
   array (
     0 => 'OL16',
