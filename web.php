@@ -268,7 +268,7 @@ function pslm_html_page($title, $body, $head = '') {
     <link rel="stylesheet" href="css/style.css?ver=<?= time() ?>" media="all" />
     <?= $head ?>
 </head>
-<body>
+<body class="page">
     <div class="main">
         <?php if (!empty($title)): ?>
             <a onclick="history.back(); return false;" href="./" class="back-button"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="chevron-left" class="svg-inline--fa fa-chevron-left fa-w-10" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M34.52 239.03L228.87 44.69c9.37-9.37 24.57-9.37 33.94 0l22.67 22.67c9.36 9.36 9.37 24.52.04 33.9L131.49 256l154.02 154.75c9.34 9.38 9.32 24.54-.04 33.9l-22.67 22.67c-9.37 9.37-24.57 9.37-33.94 0L34.52 272.97c-9.37-9.37-9.37-24.57 0-33.94z"></path></svg></a>
@@ -284,12 +284,17 @@ function pslm_html_page($title, $body, $head = '') {
      return ob_get_clean();
 }
 
+function pslm_psalm_number($psalm) {
+    $psalm_number = preg_replace('#^Ž\s+([^\s]+).*$#', 'Žalm $1', $psalm['opts']['verse_reference']);
+    return $psalm_number;
+}
+
 function pslm_psalm_title($id, $psalm) {
     return sprintf(
         '%s – %s – %s',
         $id,
         implode(' ', $psalm['original_text']['responsum']),
-        $psalm['opts']['verse_reference']
+        pslm_psalm_number($psalm),
     );
 }
 
@@ -321,7 +326,7 @@ function pslm_render_listing() {
         }
         $total = count($source['ids']);
         $done = count($done);
-        $html .= sprintf('<p style="margin-left: 1em">Přepsáno %d z %d žalmů (%s %%).</p>', $done, $total, round($done/$total * 100));
+        //$html .= sprintf('<p style="margin-left: 1em">Přepsáno %d z %d žalmů (%s %%).</p>', $done, $total, round($done/$total * 100));
         $html .= sprintf('<ul>%s</ul>', implode('', $item_html));
     }
     $html = pslm_html_page('Rejstřík', $html);
@@ -358,6 +363,7 @@ function pslm_render_index() {
     */
 
     $html = '';
+    $html .= '<h2>Noty k Olejníkovým žalmům pro každý den litugického kalendáře.</h2>';
     $html .= '<p><i>„Zpěvem se Boží slovo ukládá do srdce, aby se nám vynořilo v pravý čas, kdy budeme plni radosti, bolesti, starosti, úzkosti nebo vděčnosti. Tak se zpívané Boží slovo žalmů stane útěchou, posilou a světlem v našem putování do věčného domova.“</i> P. Josef Olejník</p>';
     $html .= '<p><a href="rejstrik.html">Rejstřík</a> | <a href="o-projektu.html">O projektu</a></p>';
 
@@ -365,52 +371,6 @@ function pslm_render_index() {
     $html .= '<div class="search"></div>';
     $html .= '<div class="calendar"><div class="today"></div><div class="sunday"></div><div class="week"></div></div>';
 
-    /*
-    foreach ($cal as &$year) {
-        usort($year['months'], function($a, $b) {
-            return ($a['month'] < $b['month']) ? -1 : 1;
-        });
-        if ($year['year'] < $c_year) {
-            continue;
-        }
-        $html .= sprintf('<h2>%s</h2>', $year['year']);
-
-        foreach ($year['months'] as &$month) {
-            usort($month['days'], function($a, $b) {
-                return ($a['day'] < $b['day']) ? -1 : 1;
-            });
-            if ($year['year'] == $c_year && $month['month'] < $c_month) {
-                continue;
-            }
-            $html .= sprintf('<h3>%s</h3><ul>', $month_to_text[$month['month']]);
-
-            foreach ($month['days'] as $day) {
-                if ($year['year'] == $c_year && $month['month'] == $c_month && $day['day'] < $c_day) {
-                    continue;
-                }
-                $weekday = date('w', mktime(0, 0, 0, $month['month'], $day['day'], $year['year']));
-
-                $day_html = [];
-                if ($weekday == '0') {
-                    $day_html[] = sprintf('<strong>%s. %s. – %s</strong>', $day['day'], $month['month'], $day['name']);
-                } else {
-                    $day_html[] = sprintf('<strong>%s. %s.</strong> – %s', $day['day'], $month['month'], $day['name']);
-                }
-                foreach ($day['psalms'] as $id) {
-                    if (!isset($PSLM_PSALMS[$id])) {
-                        $PSLM_PSALMS[$id] = pslm_render_psalm_html($id);
-                    }
-                    $day_html[] = sprintf(
-                        '<a href="%s.html">%s</a>',
-                        $id,
-                        pslm_psalm_title($id, $PSLM_PSALMS[$id])
-                    );
-                }
-                $html .= sprintf('<li>%s</li>', implode('<br />', $day_html));
-            }
-            $html .= '</ul>';
-        }
-    } */
     $head = sprintf('
     <script>
         let pslm_psalms = %s;
@@ -558,7 +518,7 @@ function pslm_render_psalm_html($id) {
 <html lang="cs" prefix="og: http://ogp.me/ns#">
 <head>
 	<meta charset="UTF-8">
-	<title><?= pslm_psalm_title($id, $psalm) ?> – Žaltář</title>
+	<title>Noty k žalmu <?= pslm_psalm_title($id, $psalm) ?> – Olejníkův žaltář</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="<?= $desc ?>" />
 	<link rel="stylesheet" href="css/sizes.css?ver=<?= time() ?>" media="all" />
@@ -573,8 +533,9 @@ function pslm_render_psalm_html($id) {
         <a onclick="history.back(); return false;" href="./" class="back-button"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="chevron-left" class="svg-inline--fa fa-chevron-left fa-w-10" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M34.52 239.03L228.87 44.69c9.37-9.37 24.57-9.37 33.94 0l22.67 22.67c9.36 9.36 9.37 24.52.04 33.9L131.49 256l154.02 154.75c9.34 9.38 9.32 24.54-.04 33.9l-22.67 22.67c-9.37 9.37-24.57 9.37-33.94 0L34.52 272.97c-9.37-9.37-9.37-24.57 0-33.94z"></path></svg></a>
         <h1><?= $id ?></h1>
         <?php foreach($occasions as $occasion): ?>
-        <h3><?= $occasion ?></h3>
+            <h3><?= $occasion ?></h3>
         <?php endforeach ?>
+        <h3><?= pslm_psalm_number($psalm) ?></h3>
 
         <p><audio controls src="mp3/<?= $id ?>.mp3"></audio></p>
         <p><a href="#" id="zoom-in-button">Zvětšit</a> – <a href="#" id="zoom-out-button">Zmenšit</a> – <a href="#" id="zoom-reset-button">Resetovat</a></p>
@@ -583,7 +544,7 @@ function pslm_render_psalm_html($id) {
         <?php foreach (PSLM_SVG_SIZES as $size): ?>
             <?php //$data_uri = []; ?>
             <?php //exec("./node_modules/mini-svg-data-uri/cli.js svg/$id-$size.svg", $data_uri); ?>
-            <img class="size-<?= $size ?>" alt="<?= htmlspecialchars($desc) ?>" src="<?= svg_to_data_uri(file_get_contents("svg/$id-$size.svg")) ?>" />
+            <img class="size-<?= $size ?>" alt="Noty k žalmu <?= pslm_psalm_title($id, $psalm) ?>. Text žalmu: <?= htmlspecialchars($desc) ?>" src="<?= svg_to_data_uri(file_get_contents("svg/$id-$size.svg")) ?>" />
         <?php endforeach ?>
         </div>
 

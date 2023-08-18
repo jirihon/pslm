@@ -68,6 +68,9 @@ audio {
 h1 {
     text-align: center;
 }
+.page h2 {
+    font-size: 18px;
+}
 .calendar p,
 .search p {
     margin-bottom: 5px;
