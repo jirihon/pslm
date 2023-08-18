@@ -90,7 +90,7 @@ document.addEventListener("DOMContentLoaded", async function() {
         week_target.appendChild(week_heading_el);
 
         const button_el = document.createElement('p');
-        button_el.innerHTML = ' <a href="#" class="prev-week-button">Předcházející</a> – <a href="#" class="next-week-button">Následující</a>';
+        button_el.innerHTML = ' <a href="#" class="prev-week-button">Předchozí</a> – <a href="#" class="next-week-button">Následující</a>';
         button_el.classList.add('calendar-buttons');
         week_target.appendChild(button_el);
 

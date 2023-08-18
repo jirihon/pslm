@@ -68,7 +68,7 @@ audio {
 h1 {
     text-align: center;
 }
-.page h2 {
+h2.subtitle {
     font-size: 18px;
 }
 .calendar p,

@@ -363,7 +363,7 @@ function pslm_render_index() {
     */
 
     $html = '';
-    $html .= '<h2>Noty k Olejníkovým žalmům pro každý den litugického kalendáře.</h2>';
+    $html .= '<h2 class="subtitle">Noty k Olejníkovým žalmům pro každý den liturgického kalendáře.</h2>';
     $html .= '<p><i>„Zpěvem se Boží slovo ukládá do srdce, aby se nám vynořilo v pravý čas, kdy budeme plni radosti, bolesti, starosti, úzkosti nebo vděčnosti. Tak se zpívané Boží slovo žalmů stane útěchou, posilou a světlem v našem putování do věčného domova.“</i> P. Josef Olejník</p>';
     $html .= '<p><a href="rejstrik.html">Rejstřík</a> | <a href="o-projektu.html">O projektu</a></p>';
 
