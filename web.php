@@ -520,7 +520,7 @@ function pslm_render_psalm_html($id) {
 	<meta charset="UTF-8">
 	<title>Noty k žalmu <?= pslm_psalm_title($id, $psalm) ?> – Olejníkův žaltář</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="<?= $desc ?>" />
+    <meta name="description" content="Noty k žalmu <?= pslm_psalm_title($id, $psalm) ?>. Text žalmu: <?= $desc ?>" />
 	<link rel="stylesheet" href="css/sizes.css?ver=<?= time() ?>" media="all" />
 	<link rel="stylesheet" href="css/style.css?ver=<?= time() ?>" media="all" />
     <script>
@@ -544,7 +544,7 @@ function pslm_render_psalm_html($id) {
         <?php foreach (PSLM_SVG_SIZES as $size): ?>
             <?php //$data_uri = []; ?>
             <?php //exec("./node_modules/mini-svg-data-uri/cli.js svg/$id-$size.svg", $data_uri); ?>
-            <img class="size-<?= $size ?>" alt="Noty k žalmu <?= pslm_psalm_title($id, $psalm) ?>. Text žalmu: <?= htmlspecialchars($desc) ?>" src="<?= svg_to_data_uri(file_get_contents("svg/$id-$size.svg")) ?>" />
+            <img class="size-<?= $size ?>" alt="Noty k žalmu <?= pslm_psalm_title($id, $psalm) ?>" src="<?= svg_to_data_uri(file_get_contents("svg/$id-$size.svg")) ?>" />
         <?php endforeach ?>
         </div>
 
