@@ -714,6 +714,10 @@
     6 => 'OL341',
     7 => 'OL342',
   ),
+  'Sv. Basila Velikého a Řehoře Naziánského, biskupů a učitelů Církve' => 
+  array (
+    0 => 'OL95',
+  ),
   '4. neděle postní B' => 
   array (
     0 => 'OL97',
