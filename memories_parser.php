@@ -120,9 +120,13 @@ function pslm_pdf_to_psalm_lines($filename) {
             $text_lines[$key][$left] = [$right, $text];
         }
     }
+    fclose($fp);
     $psalm_lines = array_merge($psalm_lines, pslm_text_lines_to_psalm_lines($text_lines));
 
-    $regex = '#^(\d+. \d+\.) (.*?) (\(?(Památka|Svátek|Slavnost)\) )?(OL\d+)#';
+    $regex = '#^(\d+. \d+\.) (.*?) (\(?(Památka|Svátek|Slavnost)\)? )?(OL\d+)#';
+
+    $fp = fopen('db/svatky_a_pamatky.csv', 'w');
+    fputcsv($fp, ['date', 'occasion', 'psalm']);
 
     for ($i = 0; $i < count($psalm_lines) - 1; $i++) {
         $line = $psalm_lines[$i];
@@ -136,6 +140,7 @@ function pslm_pdf_to_psalm_lines($filename) {
         }
         if ($m) {
             var_dump($m);
+            fputcsv($fp, [$m[1], $m[2], $m[5]]);
         }
     }
     fclose($fp);
