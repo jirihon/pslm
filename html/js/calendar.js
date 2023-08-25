@@ -162,8 +162,6 @@ document.addEventListener("DOMContentLoaded", async function() {
                     }
                 }
             });
-            const ids = psalms.map(p => p.psalms).flat();
-
             const day_div = document.createElement('div');
             day_div.classList.add('day');
 
@@ -193,8 +191,13 @@ document.addEventListener("DOMContentLoaded", async function() {
 
             const list_el = document.createElement('ul');
             let list = [];
-            for (const id of ids) {
-                list.push(`<li><a href="${id}.html">${pslm_titles[id]}</a></li>`);
+            const show_occasion = psalms.length > 1;
+            for (const p of psalms) {
+                const occasion = p.occasion.replace(/ \([^\)]+\)/, '');
+                const occasion_html = show_occasion ? `<br /><span>(${occasion})</span>` : '';
+                for (const id of p.psalms) {
+                    list.push(`<li><a href="${id}.html">${pslm_titles[id]}</a>${occasion_html}</li>`);
+                }
             }
             list_el.innerHTML = list.join('');
             day_div.appendChild(list_el);

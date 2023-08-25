@@ -97,3 +97,6 @@ p.responsum-text {
 p.verse-text {
     margin: 0;
 }
+.day li span {
+    color: #444;
+}
