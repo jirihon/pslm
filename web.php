@@ -217,6 +217,7 @@ function pslm_save_occasions() {
     }
 
     $occasion_psalm = [];
+    $psalm_occasions = [];
     foreach ($PSLM_PSALMS as $id => $psalm) {
         if (!isset($psalm['opts']['occasion'])) {
             echo "ERROR: $id does not have any occasion\n";
@@ -225,6 +226,7 @@ function pslm_save_occasions() {
         if (!is_array($occasions)) {
             $occasions = [$occasions];
         }
+        $psalm_occasions[$id] = [];
         foreach ($occasions as $occasion) {
             $occasion = trim($occasion);
             if (isset($occasion_psalm[$occasion])) {
@@ -232,6 +234,7 @@ function pslm_save_occasions() {
             } else {
                 $occasion_psalm[$occasion] = [$id];
             }
+            $psalm_occasions[$id][] = $occasion;
         }
     }
     file_put_contents(dirname(__FILE__).'/db/occasions.php', '<?php $occasion_psalm = '.var_export($occasion_psalm, true).';');
@@ -256,6 +259,7 @@ function pslm_save_occasions() {
     }
     file_put_contents(dirname(__FILE__).'/db/psalms.json', json_encode(array_merge($id_psalm, $occasion_psalm, $number_psalm, $responsum_psalm), JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
     file_put_contents(dirname(__FILE__).'/db/psalm_titles.json', json_encode($psalm_titles, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+    file_put_contents(dirname(__FILE__).'/db/psalm_occassions.json', json_encode($psalm_occasions, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
 }
 
 
