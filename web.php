@@ -259,7 +259,7 @@ function pslm_save_occasions() {
     }
     file_put_contents(dirname(__FILE__).'/db/psalms.json', json_encode(array_merge($id_psalm, $occasion_psalm, $number_psalm, $responsum_psalm), JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
     file_put_contents(dirname(__FILE__).'/db/psalm_titles.json', json_encode($psalm_titles, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
-    file_put_contents(dirname(__FILE__).'/db/psalm_occassions.json', json_encode($psalm_occasions, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+    file_put_contents(dirname(__FILE__).'/db/psalm_occasions.json', json_encode($psalm_occasions, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
 }
 
 
