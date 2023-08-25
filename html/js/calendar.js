@@ -95,20 +95,6 @@ document.addEventListener("DOMContentLoaded", async function() {
         week_target.appendChild(button_el);
 
         async function get_day_psalms_and_lit_days(i, day, day_psalms, lit_days) {
-            function add_psalms(rank, key, i) {
-                if (key in pslm_romcal_to_occasions) {
-                    for (const occasion of pslm_romcal_to_occasions[key]) {
-                        if (occasion.match(/vigilie/i)) {
-                            if (i > 0) {
-                                day_psalms[i-1].push({ rank: lit_days[i-1].length, occasion, psalms: pslm_psalms[occasion] });
-                            }
-                        } else {
-                            day_psalms[i].push({ rank, occasion, psalms: pslm_psalms[occasion] });
-                        }
-                    }
-                }
-            }
-            day_psalms[i] = [];
             const year = day.getFullYear();
             if (!(year in calendars)) {
                 calendars[year] = await romcal.generateCalendar(year);
@@ -124,6 +110,23 @@ document.addEventListener("DOMContentLoaded", async function() {
                     lit_events.push(event.weekday);
                 }
             }
+
+            function add_psalms(rank, key, i) {
+                if (key in pslm_romcal_to_occasions) {
+                    for (const occasion of pslm_romcal_to_occasions[key]) {
+                        if (occasion.match(/vigilie/i)) {
+                            if (i > 0) {
+                                day_psalms[i-1].push({ rank: lit_days[i-1].length, occasion, psalms: pslm_psalms[occasion] });
+                            }
+                        } else {
+                            day_psalms[i].push({ rank, occasion, psalms: pslm_psalms[occasion] });
+                        }
+                    }
+                }
+            }
+            day_psalms[i] = [];
+            add_psalms(0, `${day.getDate()}/${day.getMonth()+1}`, i);
+
             for (const [rank, event] of lit_events.entries()) {
                 const key = event.key;
                 add_psalms(rank, key, i);
@@ -131,7 +134,6 @@ document.addEventListener("DOMContentLoaded", async function() {
                 add_psalms(rank, `${key}|${sunday_cycle}`, i);
                 const weekday_cycle = event.cycles.weekdayCycle.slice(-1);
                 add_psalms(rank, `${key}|${weekday_cycle}`, i);
-                add_psalms(rank, `${day.getDate()}/${day.getMonth()+1}`, i);
             }
             lit_days[i] = lit_events;
         }
