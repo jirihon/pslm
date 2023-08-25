@@ -161,7 +161,8 @@ function pslm_occasions_to_romcal() {
                 }
                 $id = str_replace($search, $replace, $template);
                 if (strpos($id, '/') === false && !isset($alldefs[$id])) {
-                    echo "ERROR: $id does not exist in romcal\n";
+                    echo "ERROR: $id does not exist in romcal, continue to match at least by date\n";
+                    continue;
                 }
                 $info['id'] = $id;
                 $to_romcal[$occasion] = $info;
@@ -542,11 +543,12 @@ function pslm_render_psalm_html($id) {
     <div class="main">
         <a onclick="history.back(); return false;" href="./" class="back-button"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="chevron-left" class="svg-inline--fa fa-chevron-left fa-w-10" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M34.52 239.03L228.87 44.69c9.37-9.37 24.57-9.37 33.94 0l22.67 22.67c9.36 9.36 9.37 24.52.04 33.9L131.49 256l154.02 154.75c9.34 9.38 9.32 24.54-.04 33.9l-22.67 22.67c-9.37 9.37-24.57 9.37-33.94 0L34.52 272.97c-9.37-9.37-9.37-24.57 0-33.94z"></path></svg></a>
         <h1><?= $id ?></h1>
+        <div class="occasions">
         <?php foreach($occasions as $occasion): ?>
             <h3><?= $occasion ?></h3>
         <?php endforeach ?>
-        <h3><?= pslm_psalm_number($psalm) ?></h3>
-
+            <h3><?= pslm_psalm_number($psalm) ?></h3>
+        </div>
         <p><audio controls src="mp3/<?= $id ?>.mp3"></audio></p>
         <p><a href="#" id="zoom-in-button">Zvětšit</a> – <a href="#" id="zoom-out-button">Zmenšit</a> – <a href="#" id="zoom-reset-button">Resetovat</a></p>
 
