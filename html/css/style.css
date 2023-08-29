@@ -52,6 +52,9 @@ body {
     font-size: 18px;
     margin: 0;
 }
+a, .back-button {
+    color: #BE1622;
+}
 a {
     text-decoration: none;
 }
@@ -62,7 +65,6 @@ audio {
 .back-button {
     position: absolute;
     width: 18px;
-    color: blue;
     padding: 13px 30px 10px 0px;
 }
 h1 {

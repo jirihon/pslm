@@ -10,10 +10,10 @@ html/index.html
 html/rejstrik.html
 html/mp3
 html/sitemap.xml
-ly/*
-midi/*
-svg/*
-cache/*
+html/svg
+ly
+midi
+cache
 db/*.xml
 db/*.gz
 db/*.pdf

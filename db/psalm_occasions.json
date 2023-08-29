@@ -114,7 +114,8 @@
         "10. neděle v mezidobí C"
     ],
     "OL27": [
-        "Pátek po 3. neděli adventní"
+        "Pátek po 3. neděli adventní",
+        "Panny Marie Guadalupské (12. prosince)"
     ],
     "OL28": [
         "4. neděle adventní A",
@@ -166,7 +167,10 @@
         "Svaté Rodiny A(BC) (pokud se čte čtení z Sir 3,3-17)",
         "33. neděle v mezidobí A",
         "O svatých",
-        "Při svatbě"
+        "Při svatbě",
+        "Sv. Zdislavy (30. května)",
+        "Sv. Pia z Pietrelciny, kněze (23. září)",
+        "Sv. Hedviky, řeholnice (16. října)"
     ],
     "OL43": [
         "Svaté Rodiny B (pokud se čte čtení z Gn 15,1-6)"
@@ -376,7 +380,15 @@
         "Při křtu \/ Při biřmování",
         "Při svěcení jáhnů (v době velikonoční)",
         "Za zemřelé \/ Při pohřbu",
-        "Sv. Basila Velikého a Řehoře Naziánského, biskupů a učitelů Církve"
+        "Sv. Basila Velikého a Řehoře Naziánského, biskupů a učitelů Církve (2. ledna)",
+        "Sv. Anežky Římské, panny a mučednice (21. ledna)",
+        "Sv. Jana I., papeže a mučedníka (18. května)",
+        "Sv. Norberta, biskupa (6. června)",
+        "Sv. Apolináře, biskupa a mučedníka (20. července)",
+        "Sv. Radima, biskupa (12. října)",
+        "Sv. Markéty Marie Alacoque, panny (16. října)",
+        "Sv. Gertrudy Veliké, panny (16. listopadu)",
+        "Sv. Silvestra I., papeže (31. prosince)"
     ],
     "OL96": [
         "4. neděle postní A",
@@ -451,7 +463,8 @@
     ],
     "OL113": [
         "Úterý Svatého týdne",
-        "4. neděle v mezidobí C"
+        "4. neděle v mezidobí C",
+        "Umučení sv. Jana Křtitele (29. srpna)"
     ],
     "OL114": [
         "Středa Svatého týdne"
@@ -561,7 +574,14 @@
         "Sv. Cyrila a Metoděje (5. července)",
         "O duchovních pastýřích (i v době velikonoční)",
         "Při biřmování (v době velikonoční)",
-        "Při svěcení jáhnů (v době velikonoční)"
+        "Při svěcení jáhnů (v době velikonoční)",
+        "Sv. Blažeje, biskupa a mučedníka (3. února)",
+        "Sv. Petra Chanela, kněze a mučedníka (28. dubna)",
+        "Sv. Bonifáce, biskupa a mučedníka (5. června)",
+        "Sv. Jana Marie Vianneye, kněze (4. srpna)",
+        "Sv. Pavla od Kříže, kněze (19. října)",
+        "Sv. Wolfganga, biskupa (31. října)",
+        "Sv. Františka Xaverského, kněze (3. prosince)"
     ],
     "OL146": [
         "Sobota po 3. neděli velikonoční"
@@ -632,7 +652,11 @@
     "OL165": [
         "Středa po 6. neděli velikonoční",
         "O pannách (i v době velikonoční)",
-        "Při pohřbu pokřtěného dítěte (v době velikonoční)"
+        "Při pohřbu pokřtěného dítěte (v době velikonoční)",
+        "Sv. Anděly Mericiové, panny (27. ledna)",
+        "Sv. Scholastiky, panny (10. února)",
+        "Sv. Marie Magdalény de‘ Pazzi, panny (25. května)",
+        "Sv. Růženy z Limy, panny (23. srpna)"
     ],
     "OL166": [
         "Nanebevstoupení Páně (čtvrtek po 6. neděli velikonoční)"
@@ -705,14 +729,28 @@
         "Těla a Krve Páně C",
         "Sv. Hilaria (13. ledna)",
         "O duchovních pastýřích (v době velikonoční)",
-        "Při svěcení kněží a biskupů (v době velikonoční)"
+        "Při svěcení kněží a biskupů (v době velikonoční)",
+        "Sv. Pia V., papeže (30. dubna)",
+        "Sv. Řehoře VII., papeže (25. května)",
+        "Sv. Damasa I., papeže (11. prosince)"
     ],
     "OL189": [
         "Nejsvětějšího Srdce Ježíšova A"
     ],
     "OL190": [
         "2. neděle v mezidobí AB",
-        "O duchovních pastýřích"
+        "O duchovních pastýřích",
+        "Sv. Fabiána, papeže a mučedníka (20. ledna)",
+        "Sv. Vincence Ferrerského, kněze (5. dubna)",
+        "Sv. Ludvíka Marie Grigniona z Montfortu, kněze (28. dubna)",
+        "Sv. Klementa Maria Hofbauera, kněze (20. května)",
+        "Sv. Bernardina Sienského, kněze (20. května)",
+        "Sv. Paulína Nolánského, biskupa (22. června)",
+        "Sv. Vavřince z Brindisi, kněze a učitele Církve (21. července)",
+        "Sv. Jana Zlatoústého, biskupa a učitele Církve (13. září)",
+        "Sv. Kalista I., papeže a mučedníka (14. října)",
+        "Sv. Mikuláše, biskupa (6. prosince)",
+        "Sv. Petra Kanisia, kněze a učitele Církve (21. prosince)"
     ],
     "OL191": [
         "2. neděle v mezidobí C"
@@ -918,7 +956,13 @@
     "OL249": [
         "31. neděle v mezidobí A",
         "Sv. Terezie od Dítěte Ježíše (1. října)",
-        "O svatých"
+        "O svatých",
+        "Sv. Romualda, opata (19. června)",
+        "Sv. Jany Františky de Chantal, řeholnice (12. srpna)",
+        "Sv. Jana Eudese, kněze (19. srpna)",
+        "Sv. Moniky (27. srpna)",
+        "Sv. Martina de Porres, řeholníka (3. listopadu)",
+        "Sv. Jana Didaka Cuauhtlatoatzina (9. prosince)"
     ],
     "OL250": [
         "31. neděle v mezidobí A",
@@ -940,19 +984,37 @@
     ],
     "OL255": [
         "Panny Marie, Matky jednoty křesťanů (18. ledna)",
-        "O Panně Marii (i v době velikonoční)"
+        "O Panně Marii (i v době velikonoční)",
+        "Panny Marie Karmelské (16. července)",
+        "Jména Panny Marie (12. září)",
+        "Panny Marie Růžencové (7. října)",
+        "Zasvěcení Panny Marie v Jeruzalémě (21. listopadu)"
     ],
     "OL256": [
         "Sv. Timoteje a Tita (26. ledna)",
         "Sv. Vojtěcha (23. dubna)",
-        "O duchovních pastýřích"
+        "O duchovních pastýřích",
+        "Sv. Ansgara, biskupa (3. února)",
+        "Sv. Patrika, biskupa (17. března)",
+        "Sv. Turibia z Mongroveja, biskupa (23. března)",
+        "Sv. Augustina z Canterbury, biskupa (27. května)",
+        "Sv. Pavla VI., papeže (29. května)",
+        "Bl. Česlava a sv. Hyacinta, kněží (17. července)",
+        "Sv. Gorazda a druhů (27. července)",
+        "Sv. Dominika, kněze (8. srpna)",
+        "Sv. Řehoře Velikého, papeže a učitele Církve (3. září)",
+        "Sv. Jana Leonardiho, kněze (9. října)",
+        "Sv. Jana Pavla II., papeže (22. října)",
+        "Sv. Antonína Marie Klareta, biskupa (24. října)",
+        "Sv. Kolumbána, opata (23. listopadu)"
     ],
     "OL257": [
         "Uvedení Páně do chrámu (2. února)"
     ],
     "OL258": [
         "Panny Marie Lurdské (11. února)",
-        "O Panně Marii (i v době velikonoční)"
+        "O Panně Marii (i v době velikonoční)",
+        "Posvěcení římské baziliky Panny Marie (5. srpna)"
     ],
     "OL259": [
         "Sv. Josefa (19. března)"
@@ -992,18 +1054,50 @@
     "OL269": [
         "Sv. Petra a Pavla (29. června)",
         "O mučednících (i v době velikonoční)",
-        "Sv. Ignáce Antiochijského (17. října)"
+        "Sv. Ignáce Antiochijského (17. října)",
+        "Sv. Šebestiána, mučedníka (20. ledna)",
+        "Sv. Vincence, jáhna a mučedníka (22. ledna)",
+        "Sv. Jana Ogilvie, kněze a mučedníka (10. března)",
+        "Sv. Stanislava, biskupa a mučedníka (11. dubna)",
+        "Sv. Fidela ze Sigmaringy, kněze a mučedníka (24. dubna)",
+        "Sv. Zikmunda, mučedníka (30. dubna)",
+        "Sv. Jana Sarkandra, kněze a mučedníka (6. května)",
+        "Sv. Kryštofa Magallanese, kněze, a druhů, mučedníků (21. května)",
+        "Sv. Justina, mučedníka (1. června)",
+        "Sv. Pavlíny, panny a mučednice (6. června)",
+        "Bl. Marie Antoníny Kratochvílové, panny, a druhů, mučedníků (12. června)",
+        "Sv. Tomáše Becketa, biskupa a mučedníka (29. prosince)"
     ],
     "OL270": [
         "Sv. Prokopa (4. července)",
-        "O svatých"
+        "O svatých",
+        "Sv. Jana Křtitele de la Salle, kněze (7. dubna)",
+        "Sv. Rity z Cascie, řeholnice (22. května)",
+        "Sv. Jindřicha (13. července)",
+        "Sv. Petra Klavera, kněze (9. září)",
+        "Sv. Bruna, kněze (6. října)",
+        "Sv. Josafata, biskupa a mučedníka (12. listopadu)"
     ],
     "OL271": [
         "Sv. Benedikta (11. července)"
     ],
     "OL272": [
         "Sv. Jakuba (25. července)",
-        "O mučednících (i v době velikonoční)"
+        "O mučednících (i v době velikonoční)",
+        "Sv. Pavla Mikiho a druhů, mučedníků (6. února)",
+        "Sv. Martina I., papeže a mučedníka (13. dubna)",
+        "Sv. Jiří, mučedníka (24. dubna)",
+        "Sv. Jana Fishera, biskupa a Tomáše Mora, mučedníků (22. června)",
+        "Sv. Augustina Žao Ronga, kněze, a druhů, mučedníků (9. července)",
+        "Sv. Sixta II., papeže, a druhů, mučedníků (7. srpna)",
+        "Sv. Maxmiliána Marie Kolbeho, kněze a mučedníka (14. srpna)",
+        "Sv. Kornélia, papeže, a Cypriána, biskupa, mučedníků (17. září)",
+        "Sv. Januária, biskupa a mučedníka (19. září)",
+        "Sv. Ondřeje Kim Tae-gỏna, kněze, Pavla Chõng Ha-sanga a druhů, mučedníků (20. září)",
+        "Sv. Kosmy a Damiána, mučedníků (26. září)",
+        "Sv. Dionýsia, biskupa, a druhů, mučedníků (9. října)",
+        "Sv. Jana de Brébeuf a Izáka Joguese, kněží, a druhů, mučedníků (19. října)",
+        "Sv. Ondřeje Dũng Lạca, kněze, a druhů, mučedníků (24. listopadu)"
     ],
     "OL273": [
         "Sv. Jáchyma a Anny (26. července)"
@@ -1058,14 +1152,33 @@
     ],
     "OL288": [
         "Sv. Štěpána (26. prosince)",
-        "O mučednících (i v době velikonoční)"
+        "O mučednících (i v době velikonoční)",
+        "Sv. Agáty, panny a mučednice (5. února)",
+        "Sv. Polykarpa, biskupa a mučedníka (23. února)",
+        "Sv. Marie Gorettiové, panny a mučednice (6. července)",
+        "Bl. Hroznaty, mučedníka (14. července)",
+        "Sv. Melichara Grodeckého, kněze a mučedníka (7. září)",
+        "Sv. Edmunda Kampiána, kněze a mučedníka (1. prosince)",
+        "Sv. Lucie, panny a mučednice (13. prosince)"
     ],
     "OL289": [
         "Sv. Jana Evangelisty (27. prosince)"
     ],
     "OL290": [
         "Sv. Mláďátek (28. prosince)",
-        "O mučednících (i v době velikonoční)"
+        "O mučednících (i v době velikonoční)",
+        "Bl. Bedřicha Bachsteina a druhů, mučedníků (15. února)",
+        "Sv. Perpetuy a Felicity, mučednic (7. března)",
+        "Sv. Nerea a Achillea, mučedníků (12. května)",
+        "Sv. Marcelina a Petra, mučedníků (2. června)",
+        "Sv. Karla Lwangy a druhů, mučedníků (3. června)",
+        "Sv. Víta, mučedníka (15. června)",
+        "Sv. prvomučedníků římských (30. června)",
+        "Sv. Ponciána, papeže, a Hippolyta, kněze, mučedníků (13. srpna)",
+        "Sv. Benedikta, Jana, Matouše, Izáka a Kristina, mučedníků (25. srpna)",
+        "Bl. Karla Spinoly, kněze a mučedníka (10. září)",
+        "Bl. Marie Restituty Kafkové, panny a mučednice (29. října)",
+        "Sv. Kateřiny Alexandrijské, panny a mučednice (25. listopadu)"
     ],
     "OL291": [
         "Výročí posvěcení kostela",
@@ -1090,34 +1203,76 @@
         "Při svěcení oltáře (i v době velikonoční)"
     ],
     "OL297": [
-        "O Panně Marii"
+        "O Panně Marii",
+        "Panny Marie, Prostřednice všech milostí (8. května)",
+        "Panny Marie Královny (22. srpna)"
     ],
     "OL298": [
-        "O Panně Marii (i v době velikonoční)"
+        "O Panně Marii (i v době velikonoční)",
+        "Panny Marie Fatimské (13. května)"
     ],
     "OL299": [
         "O duchovních pastýřích",
-        "O svatých (i v době velikonoční)"
+        "O svatých (i v době velikonoční)",
+        "Sv. Antonína, opata (17. ledna)",
+        "Sv. Petra Damianiho, biskupa a učitele Církve (21. února)",
+        "Sv. Františka z Pauly, poustevníka (2. dubna)",
+        "Sv. Jana Nepomuckého Neumanna, biskupa (19. června)",
+        "Sv. Aloise Gonzagy, řeholníka (21. června)",
+        "Sv. Kláry, panny (11. srpna)",
+        "Sv. Františka z Assisi (4. října)",
+        "Bl. Karla Rakouského (21. října)",
+        "Sv. Jana Kapistránského, kněze (23. října)"
     ],
     "OL300": [
-        "O duchovních pastýřích"
+        "O duchovních pastýřích",
+        "Sv. Antonína z Padovy, kněze a učitele Církve (13. června)",
+        "Sv. Cyrila Alexandrijského, biskupa a učitele Církve (27. června)",
+        "Sv. Eusebia z Vercelli, biskupa (2. srpna)",
+        "Sv. Pia X., papeže (21. srpna)",
+        "Sv. Karla Boromejského, biskupa (4. listopadu)",
+        "Sv. Martina, biskupa (11. listopadu)",
+        "Sv. Klementa I., papeže a mučedníka (23. listopadu)",
+        "Sv. Ambrože, biskupa a učitele Církve (7. prosince)"
     ],
     "OL301": [
-        "O učitelích Církve (i v době velikonoční)"
+        "O učitelích Církve (i v době velikonoční)",
+        "Sv. Františka Saleského, biskupa a učitele Církve (24. ledna)",
+        "Sv. Izidora, biskupa a učitele Církve (4. dubna)",
+        "Sv. Atanáše, biskupa a učitele Církve (2. května)",
+        "Sv. Efréma Syrského, jáhna a učitele Církve (9. června)",
+        "Sv. Ireneje, biskupa a mučedníka (28. června)",
+        "Sv. Lva Velikého, papeže a učitele Církve (10. listopadu)",
+        "Sv. Jana od Kříže, kněze a učitele Církve (14. prosince)"
     ],
     "OL302": [
-        "O učitelích Církve"
+        "O učitelích Církve",
+        "Sv. Cyrila Jeruzalémského, biskupa a učitele Církve (18. března)",
+        "Sv. Roberta Bellarmina, biskupa a učitele Církve (17. září)",
+        "Sv. Terezie od Ježíše, panny a učitelky Církve (15. října)"
     ],
     "OL303": [
-        "O učitelích Církve"
+        "O učitelích Církve",
+        "Sv. Tomáše Akvinského, kněze a učitele Církve (28. ledna)",
+        "Sv. Bedy Ctihodného, kněze a učitele Církve (25. května)",
+        "Sv. Bonaventury, biskupa a učitele Církve (15. července)",
+        "Sv. Petra Chryzologa, biskupa a učitele Církve (30. července)",
+        "Sv. Alfonsa Marie z Liguori, biskupa a učitele Církve (1. srpna)",
+        "Sv. Bernarda, opata a učitele Církve (20. srpna)",
+        "Sv. Augustina, biskupa a učitele Církve (28. srpna)",
+        "Sv. Jeronýma, kněze a učitele Církve (30. září)",
+        "Sv. Alberta Velikého, biskupa a učitele Církve (15. listopadu)"
     ],
     "OL304": [
-        "O učitelích Církve (v době velikonoční)"
+        "O učitelích Církve (v době velikonoční)",
+        "Sv. Jana Damašského, kněze a učitele Církve (4. prosince)"
     ],
     "OL305": [
         "O pannách (i v době velikonoční)",
         "Při řeholních slibech (i v době velikonoční)",
-        "Sv. Terezie Benedikty od Kříže (9. srpna)"
+        "Sv. Terezie Benedikty od Kříže (9. srpna)",
+        "Sv. Josefíny Bakhity, panny (8. února)",
+        "Sv. Cecílie, panny a mučednice (22. listopadu)"
     ],
     "OL306": [
         "O pannách (i v době velikonoční)",
@@ -1125,19 +1280,36 @@
         "Sv. Terezie Benedikty od Kříže (9. srpna)"
     ],
     "OL307": [
-        "O svatých"
+        "O svatých",
+        "Sv. Kazimíra (4. března)",
+        "Sv. Šarbela Makhlúfa, kněze (24. července)"
     ],
     "OL308": [
         "O svatých",
-        "Při svatbě"
+        "Při svatbě",
+        "Sv. Jana z Boha, řeholníka (8. března)",
+        "Sv. Kamila de Lellis, kněze (14. července)",
+        "Sv. Kajetána, kněze (7. srpna)",
+        "Sv. Štěpána Uherského (16. srpna)",
+        "Sv. Ludvíka (25. srpna)",
+        "Sv. Vincence z Pauly, kněze (27. září)",
+        "Sv. Markéty Skotské (16. listopadu)",
+        "Sv. Jana Kentského, kněze (23. prosince)"
     ],
     "OL309": [
         "O svatých (i v době velikonoční)",
-        "Sv. Kateřiny Sienské (29. dubna)"
+        "Sv. Kateřiny Sienské (29. dubna)",
+        "Sv. Rajmunda z Peñafortu, kněze (7. ledna)",
+        "Sv. Jana Boska, kněze (31. ledna)",
+        "Sv. Pankráce, mučedníka (12. května)",
+        "Sv. Alžběty Portugalské (4. července)",
+        "Sv. Anežky České, panny (13. listopadu)"
     ],
     "OL310": [
         "O svatých",
-        "Při řeholních slibech (v době velikonoční)"
+        "Při řeholních slibech (v době velikonoční)",
+        "Sv. Františky Římské, řeholnice (9. března)",
+        "Sv. Alžběty Uherské, řeholnice (17. listopadu)"
     ],
     "OL311": [
         "O svatých",
@@ -1146,7 +1318,15 @@
     "OL312": [
         "O svatých",
         "Při řeholních slibech",
-        "Sv. Brigity (23. července)"
+        "Sv. Brigity (23. července)",
+        "Sv. Jeronýma Emilianiho (8. února)",
+        "Sv. Alexia a druhů, řeholníků (17. února)",
+        "Sv. Anselma, biskupa a mučedníka (21. dubna)",
+        "Sv. Filipa Neriho, kněze (26. května)",
+        "Sv. Marty (29. července)",
+        "Sv. Ignáce z Loyoly, kněze (31. července)",
+        "Sv. Petra Juliána Eymarda, kněze (2. srpna)",
+        "Sv. Josefa Kalasanského, kněze (25. srpna)"
     ],
     "OL313": [
         "Při křtu dospělých"
