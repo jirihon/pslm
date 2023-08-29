@@ -277,8 +277,13 @@ function pslm_html_page($title, $body, $head = '') {
     <?php endif ?>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="css/style.css?ver=<?= time() ?>" media="all" />
-    <link rel="icon" type="image/svg+xml" href="img/favicon.svg">
-    <link rel="icon" type="image/png" href="img/favicon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#be1622">
+    <meta name="msapplication-TileColor" content="#be1622">
+    <meta name="theme-color" content="#ffffff">
     <?= $head ?>
 </head>
 <body class="page">
@@ -536,8 +541,13 @@ function pslm_render_psalm_html($id) {
     <meta name="description" content="Noty k žalmu <?= pslm_psalm_title($id, $psalm) ?>. Text žalmu: <?= $desc ?>" />
 	<link rel="stylesheet" href="css/sizes.css?ver=<?= time() ?>" media="all" />
 	<link rel="stylesheet" href="css/style.css?ver=<?= time() ?>" media="all" />
-    <link rel="icon" type="image/svg+xml" href="img/favicon.svg">
-    <link rel="icon" type="image/png" href="img/favicon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#be1622">
+    <meta name="msapplication-TileColor" content="#be1622">
+    <meta name="theme-color" content="#ffffff">
     <script>
         let pslm_svg_sizes = [<?= implode(', ', PSLM_SVG_SIZES) ?>];
     </script>
