@@ -4,6 +4,19 @@ document.addEventListener("DOMContentLoaded", async function() {
     const today_target = document.querySelector('.calendar .today');
     const sunday_target = document.querySelector('.calendar .sunday');
     let offset = 0;
+
+    let last_render_date = undefined;
+
+    window.setInterval(() => {
+        const last_render_date_key = date_to_key(last_render_date);
+        const now_key = date_to_key(new Date());
+        if (last_render_date_key !== now_key) {
+            // rerender
+            console.log('date changed, rerender calendar with default offset');
+            offset = 0;
+            render_calendar(offset);
+        }
+    }, 2000);
     
     const romcal = new Romcal({
         localizedCalendar: CzechRepublic_Cs,
@@ -32,21 +45,7 @@ document.addEventListener("DOMContentLoaded", async function() {
         SOLEMNITY: 'Slavnost',
     };
 
-    let today_div;
-    let sunday_div;
-
     await render_calendar(offset);
-
-    const today_heading_el = document.createElement('h2');
-    today_heading_el.innerText = 'Dnes';
-    today_target.appendChild(today_heading_el);
-
-    const sunday_heading_el = document.createElement('h2');
-    sunday_heading_el.innerText = 'Nadcházející neděle';
-    sunday_target.appendChild(sunday_heading_el);
-
-    today_target.appendChild(today_div.cloneNode(true));
-    sunday_target.appendChild(sunday_div.cloneNode(true));
 
     function date_to_key(day) {
         const year_string = day.getFullYear().toString();
@@ -59,7 +58,11 @@ document.addEventListener("DOMContentLoaded", async function() {
     async function render_calendar(offset) {
         week_target.innerHTML = '';
 
+        let today_div;
+        let sunday_div;
+
         const today = new Date();
+        last_render_date = today;
         let week = [];
 
         for (let i = 0; i <= 7; ++i) {
@@ -202,6 +205,22 @@ document.addEventListener("DOMContentLoaded", async function() {
             list_el.innerHTML = list.join('');
             day_div.appendChild(list_el);
             week_target.appendChild(day_div);
+        }
+
+        if (today_div !== undefined) {
+            today_target.innerHTML = '';
+            sunday_target.innerHTML = '';
+
+            const today_heading_el = document.createElement('h2');
+            today_heading_el.innerText = 'Dnes';
+            today_target.appendChild(today_heading_el);
+
+            const sunday_heading_el = document.createElement('h2');
+            sunday_heading_el.innerText = 'Nadcházející neděle';
+            sunday_target.appendChild(sunday_heading_el);
+
+            today_target.appendChild(today_div.cloneNode(true));
+            sunday_target.appendChild(sunday_div.cloneNode(true));
         }
 
         // print days with no psalm in the whole year
