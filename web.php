@@ -19,6 +19,7 @@ $PSLM_PSALMS = [];
 
 pslm_render_sizes_css();
 pslm_render_listing();
+pslm_render_about();
 pslm_update_pregenerated();
 pslm_save_occasions();
 pslm_occasions_to_romcal();
@@ -26,9 +27,9 @@ pslm_render_index();
 pslm_render_sitemap();
 
 
-if (file_exists('upload.sh')) {
-    system('./upload.sh');
-}
+// if (file_exists('upload.sh')) {
+    //system('./upload.sh');
+// }
 
 function pslm_render_sitemap() {
     global $PSLM_PSALMS;
@@ -269,21 +270,7 @@ function pslm_html_page($title, $body, $head = '') {
 ?><!DOCTYPE html>
 <html lang="cs" prefix="og: http://ogp.me/ns#">
 <head>
-    <meta charset="UTF-8">
-    <?php if (!empty($title)): ?>
-        <title><?= $title ?> – Olejníkův žaltář</title>
-    <?php else: ?>
-        <title>Olejníkův žaltář</title>
-    <?php endif ?>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="css/style.css?ver=<?= time() ?>" media="all" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#be1622">
-    <meta name="msapplication-TileColor" content="#be1622">
-    <meta name="theme-color" content="#ffffff">
+    <?php pslm_render_head($title, 'Noty k Olejníkovým žalmům pro každý den liturgického kalendáře.') ?>
     <?= $head ?>
 </head>
 <body class="page">
@@ -351,43 +338,32 @@ function pslm_render_listing() {
     file_put_contents("html/rejstrik.html", $html);
 }
 
+function pslm_render_about() {
+    $html = '
+    <p><i>Chtěli bychom mít stále při sobě noty ke všem Olejníkovým žalmům, abychom je mohli zpívat kdykoli a kdekoli.</i></p>
+        
+    <p>Tento žaltář je technickým experimentem, prozatím bez církevního schválení. Cílem je vymyslet způsob, jak žalmy prezentovat na mobilních zařízeních, aby se pohodlně hledaly a zpívaly. Výsledky by mohly přispět ke zlepšení <a href="https://zpevnik.proscholy.cz">Zpěvníku pro scholy</a>.</p>
+
+    <p>Žaltář čerpá z nejnovějšího tištěného <a href="https://josefolejnik.cz/publikace/vydane/zaltar-2dilny/">Olejníkova dvojdílného Žaltáře</a> připraveného Vladímírem Pavlíkem. Díky této mobilní variantě mohou scholy i jednotlivci ihned využívat tuto nejnovější edici, která opravuje mnoho chyb přechozích vydání.</p>
+
+    <p>Zdrojový kód: <a href="https://github.com/jirihon/pslm/">GitHub</a></p>
+
+    <p>Autoři: <a href="mailto:jiri.hon@gmail.com">Jiří Hon</a>, František Sovadina, Antonín Salzmann z farností <a href="https://www.farnostjaktar.cz/">Opava–Jaktař</a> a <a href="https://www.farnostopava.cz/">Opava</a></p>
+    ';
+    $html = pslm_html_page('O projektu', $html, '');
+    file_put_contents("html/o-projektu.html", $html);
+}
+
 function pslm_render_index() {
-    global $PSLM_PSALMS;
-    /*
-    $cal = Yaml::parseFile('db/calendar.yml');
+    $html = '
+    <h2 class="subtitle">Noty k Olejníkovým žalmům pro každý den liturgického kalendáře.</h2>
+    <p><i>„Zpěvem se Boží slovo ukládá do srdce, aby se nám vynořilo v pravý čas, kdy budeme plni radosti, bolesti, starosti, úzkosti nebo vděčnosti. Tak se zpívané Boží slovo žalmů stane útěchou, posilou a světlem v našem putování do věčného domova.“</i> P. Josef Olejník</p>
+    <p><a href="rejstrik.html">Rejstřík</a> | <a href="o-projektu.html">O projektu</a></p>
 
-    usort($cal, function($a, $b) {
-        return ($a['year'] < $b['year']) ? -1 : 1;
-    });
-
-    $month_to_text = [
-        1 => 'Leden',
-        2 => 'Únor',
-        3 => 'Březen',
-        4 => 'Duben',
-        5 => 'Květen',
-        6 => 'Červen',
-        7 => 'Červenec',
-        8 => 'Srpen',
-        9 => 'Září',
-        10 => 'Říjen',
-        11 => 'Listopad',
-        12 => 'Prosinec',
-    ];
-
-    $c_year = intval(date('Y'));
-    $c_month = intval(date('n'));
-    $c_day = intval(date('j'));
-    */
-
-    $html = '';
-    $html .= '<h2 class="subtitle">Noty k Olejníkovým žalmům pro každý den liturgického kalendáře.</h2>';
-    $html .= '<p><i>„Zpěvem se Boží slovo ukládá do srdce, aby se nám vynořilo v pravý čas, kdy budeme plni radosti, bolesti, starosti, úzkosti nebo vděčnosti. Tak se zpívané Boží slovo žalmů stane útěchou, posilou a světlem v našem putování do věčného domova.“</i> P. Josef Olejník</p>';
-    $html .= '<p><a href="rejstrik.html">Rejstřík</a> | <a href="o-projektu.html">O projektu</a></p>';
-
-    $html .= '<p><input type="search" class="search-field" placeholder="Hledat..." incremental /></p>';
-    $html .= '<div class="search"></div>';
-    $html .= '<div class="calendar"><div class="today"></div><div class="sunday"></div><div class="week"></div></div>';
+    <p><input type="search" class="search-field" placeholder="Hledat..." incremental /></p>
+    <div class="search"></div>
+    <div class="calendar"><div class="today"></div><div class="sunday"></div><div class="week"></div></div>
+    ';
 
     $head = sprintf('
     <script>
@@ -404,11 +380,11 @@ function pslm_render_index() {
         file_get_contents(dirname(__FILE__).'/db/psalms.json'),
         file_get_contents(dirname(__FILE__).'/db/romcal_to_occasions.json'),
         file_get_contents(dirname(__FILE__).'/db/psalm_titles.json'),
-        time(),
-        time(),
-        time(),
-        time(),
-        time()
+        filemtime('html/js/romcal.js'),
+        filemtime('html/js/cs.js'),
+        filemtime('html/js/calendar.js'),
+        filemtime('html/js/diacritics.js'),
+        filemtime('html/js/search.js')
     );
 
     $html = pslm_html_page('', $html, $head);
@@ -463,7 +439,7 @@ function pslm_update_pregenerated() {
     }
 }
 
-function pslm_to_meta_description($psalm) {
+function pslm_to_plain_text($psalm) {
     $desc = [];
 
     foreach ($psalm['original_text'] as $part => $text) {
@@ -515,6 +491,28 @@ function svg_to_data_uri($svg) {
     return "data:image/svg+xml,$svg_enc";
 }
 
+function pslm_render_head($title, $desc) {
+    ?>
+    <meta charset="UTF-8">
+    <?php if (!empty($title)): ?>
+        <title><?= $title ?> – Olejníkův žaltář</title>
+    <?php else: ?>
+        <title>Olejníkův žaltář</title>
+    <?php endif ?>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="stylesheet" href="css/sizes.css?ver=<?= filemtime('html/css/sizes.css') ?>" media="all" />
+	<link rel="stylesheet" href="css/style.css?ver=<?= filemtime('html/css/style.css') ?>" media="all" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?ver=<?= filemtime('html/apple-touch-icon.png') ?>">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?ver=<?= filemtime('html/favicon-32x32.png') ?>">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?ver=<?= filemtime('html/favicon-16x16.png') ?>">
+    <link rel="manifest" href="/site.webmanifest?ver=<?= filemtime('html/site.webmanifest') ?>">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg?ver=<?= filemtime('html/safari-pinned-tab.svg') ?>" color="#be1622">
+    <meta name="msapplication-TileColor" content="#be1622">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="description" content="<?= $desc ?>" />
+    <?php
+}
+
 function pslm_render_psalm_html($id) {
     global $PSLM_SOURCES;
     $psalm = pslm_engrave($id, 'html/svg');
@@ -528,30 +526,24 @@ function pslm_render_psalm_html($id) {
     }
     $source = isset($opts['source']) && isset($PSLM_SOURCES[$opts['source']]) ? $PSLM_SOURCES[$opts['source']]['reference'] : '';
 
-    $desc = pslm_to_meta_description($psalm);
+    $title = pslm_psalm_title($id, $psalm);
+    $plain_text = pslm_to_plain_text($psalm);
+    $desc = "Noty k žalmu $title. Text žalmu: $plain_text";
+    
     $formatted_text = pslm_to_formatted_text($psalm);
 
     ob_start();
 ?><!DOCTYPE html>
 <html lang="cs" prefix="og: http://ogp.me/ns#">
 <head>
-	<meta charset="UTF-8">
-	<title>Noty k žalmu <?= pslm_psalm_title($id, $psalm) ?> – Olejníkův žaltář</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="Noty k žalmu <?= pslm_psalm_title($id, $psalm) ?>. Text žalmu: <?= $desc ?>" />
-	<link rel="stylesheet" href="css/sizes.css?ver=<?= time() ?>" media="all" />
-	<link rel="stylesheet" href="css/style.css?ver=<?= time() ?>" media="all" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#be1622">
-    <meta name="msapplication-TileColor" content="#be1622">
-    <meta name="theme-color" content="#ffffff">
+    <?php pslm_render_head($title, $desc) ?>
     <script>
         let pslm_svg_sizes = [<?= implode(', ', PSLM_SVG_SIZES) ?>];
     </script>
-    <script src="js/zoom.js?ver=<?= time() ?>"></script>
+    <script src="js/zoom.js?ver=<?= filemtime('html/js/zoom.js') ?>"></script>
+    <style>
+<?= file_get_contents("html/css/$id.css") ?>
+    </style>
 </head>
 <body class="zoom-0 psalm">
     <div class="main">
@@ -566,13 +558,16 @@ function pslm_render_psalm_html($id) {
         <p><audio controls src="mp3/<?= $id ?>.mp3"></audio></p>
         <p><a href="#" id="zoom-in-button">Zvětšit</a> – <a href="#" id="zoom-out-button">Zmenšit</a> – <a href="#" id="zoom-reset-button">Resetovat</a></p>
 
+        <img class="score" alt="Noty k žalmu <?= pslm_psalm_title($id, $psalm) ?>" src="<?= "svg/$id.svg" ?>" />
+        <!--
         <div class="score">
         <?php foreach (PSLM_SVG_SIZES as $size): ?>
             <?php //$data_uri = []; ?>
             <?php //exec("./node_modules/mini-svg-data-uri/cli.js svg/$id-$size.svg", $data_uri); ?>
-            <img class="size-<?= $size ?>" alt="Noty k žalmu <?= pslm_psalm_title($id, $psalm) ?>" src="<?= svg_to_data_uri(file_get_contents("html/svg/$id-$size.svg")) ?>" />
+            <img class="size-<?= $size ?>" alt="Noty k žalmu <?= pslm_psalm_title($id, $psalm) ?>" src="<?= ''// svg_to_data_uri(file_get_contents("html/svg/$id-$size.svg")) ?>" />
         <?php endforeach ?>
         </div>
+        -->
 
         <?= $formatted_text ?>
         

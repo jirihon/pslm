@@ -40,6 +40,7 @@ html {
     position: relative;
     padding: 0 15px;
 }
+/* TODO: remove unused styles, also from render_sizes_css */
 .score div,
 .score img {
     width: 100%;
@@ -47,6 +48,10 @@ html {
 .score svg {
     width: 100%;
     height: auto;
+}
+.score {
+    width: 100%;
+    object-fit: cover;
 }
 body {
     font-size: 18px;

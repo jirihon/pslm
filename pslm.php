@@ -36,6 +36,128 @@ hiddenBreve =
   #{ \hideNotes \repeat unfold #n { \breve*1/16 \bar "" } \unHideNotes #})
 */
 
+function xml_node_content($node) {
+    $content = '';
+    foreach ($node->children() as $child) {
+        $content .= $child->asXML();
+    }
+    return $content;
+}
+
+
+function pslm_render_pslm_css($id, $offsets, $aspects, $width, $height) {
+    $css = '';
+    $n_sizes = count(PSLM_SVG_SIZES);
+    $min_width = PSLM_MAX_WIDTH - ($n_sizes) * PSLM_PX_PER_STEP;
+    
+    for ($i = 0; $i < $n_sizes; ++$i) {
+        if ($i > 0) {
+            $css .= "@media (min-width: {$min_width}px) {\n";
+        }
+        for ($z = -$n_sizes + 1; $z < $n_sizes; ++$z) {
+            $k = $i - $z; // move size by zoom
+            if ($k >= $n_sizes) {
+                $k = $n_sizes - 1;
+            } elseif ($k < 0) {
+                $k = 0;
+            }
+            $size = PSLM_SVG_SIZES[$k];
+            $aspect = $aspects[$size];
+            $offset = $offsets[$size];
+            
+            $min = ($width / $aspect) / 2;
+            $max = $height - $min;
+            $delta = $max - $min;
+            $position = ($offset - $min) / $delta * 100;
+
+            $css .= sprintf(".zoom-%d .score {\n  aspect-ratio: %s;\n  object-position: 50%% %s%%}\n", $z, round($aspect, 4), round($position, 2));
+        }
+        if ($i > 0) {
+            $css .= "}\n";
+        }
+        $min_width += PSLM_PX_PER_STEP;
+    }
+    file_put_contents("html/css/$id.css", $css);
+}
+
+function pslm_join_svgs($id, $svg_d) {
+    $defs = [];
+    $counter = 0;
+    $svg_contents = [];
+    $offsets = [];
+    $aspects = [];
+
+    $offset_sum = 0;
+    $width = 0;
+
+    foreach (PSLM_SVG_SIZES as $size) {
+        $symbol_id_map = [];
+
+        $svg_name = "$svg_d/$id-$size.svg";
+        $xml = simplexml_load_file($svg_name);
+        $svg_content = '';
+
+        $view_box = (string) $xml['viewBox'];
+        preg_match('#(\d+) (\d+) (\d+) (\d+)#', $view_box, $m);
+
+        $curr_height = intval($m[4]);
+        $curr_width = intval($m[3]);
+        
+        if ($width === 0) {
+            $width = $curr_width;
+            $scale = 1;
+        } else {
+            $scale = $width / $curr_width;
+            $curr_height *= $scale;
+        }
+        $transform = "translate(0, $offset_sum) scale($scale)";
+        $offsets[$size] = $offset_sum + $curr_height / 2;
+        $aspects[$size] = $width / $curr_height;
+        
+        foreach ($xml->children() as $node) {
+            if ($node->getName() === 'defs') {
+                foreach ($node->children() as $symbol) {
+                    $symbol_content = xml_node_content($symbol);
+                    if (!isset($defs[$symbol_content])) {
+                        $symbol_id = "s$counter";
+                        $defs[$symbol_content] = $symbol_id;
+                        ++$counter;
+                    }
+                    $symbol_id_map[(string) $symbol['id']] = $defs[$symbol_content];
+                }
+            } else {
+                $svg_content .= $node->asXML() ."\n";
+            }
+        };
+        preg_match_all('/(<use [^>]*)xlink:href="#([^"]*)"/', $svg_content, $m);
+        /** @var string[][] $m */
+        foreach ($m[2] as $i => $old_symbol_id) {
+            if (isset($symbol_id_map[$old_symbol_id])) {
+                $new_symbol_id = $symbol_id_map[$old_symbol_id];
+                $svg_content = str_replace($m[0][$i], $m[1][$i]."xlink:href=\"#$new_symbol_id\"", $svg_content);
+            } else {
+                // remove uses of undefined symbols
+                $svg_content = str_replace($m[0][$i], '', $svg_content);
+            }
+        }
+        $svg_contents[$size] = "<g transform=\"$transform\">$svg_content</g>";
+        $offset_sum += $curr_height;
+    }
+    $defs_xml = '';
+    foreach ($defs as $xml => $symbol_id) {
+        $defs_xml .= "<symbol overflow=\"visible\" id=\"$symbol_id\">\n$xml\n</symbol>\n";
+    }
+    $joined_content = implode("\n", $svg_contents);
+    $offset_sum = ceil($offset_sum);
+
+    $svg = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"$width\" height=\"$offset_sum\" viewBox=\"0 0 $width $offset_sum\" version=\"1.1\">\n<defs>\n$defs_xml</defs>\n$joined_content\n</svg>";
+
+    $svg_f = "$svg_d/$id.svg";
+    file_put_contents($svg_f, $svg);
+    pslm_optimize_svg($svg_f);
+
+    pslm_render_pslm_css($id, $offsets, $aspects, $width, $offset_sum);
+}
 
 function pslm_engrave($id, $svg_d) {
     global $LILYPOND;
@@ -43,6 +165,7 @@ function pslm_engrave($id, $svg_d) {
 
     $psalm = file_get_contents($pslm_f);
     $psalm = pslm_parse_psalm($psalm);
+    $skipped = false;
 
     foreach (PSLM_SVG_SIZES as $size) {
         $lily = pslm_lilypond($psalm, $size);
@@ -50,6 +173,7 @@ function pslm_engrave($id, $svg_d) {
         $lily_f = "ly/$id-$size.ly";
         if (PSLM_CACHE && file_exists($lily_f) && $lily === file_get_contents($lily_f)) {
             echo "Skipping SVG engraving for $id, lilypond for size $size is the same.\n";
+            $skipped = true;
             break;
         }
         file_put_contents($lily_f, $lily);
@@ -58,9 +182,13 @@ function pslm_engrave($id, $svg_d) {
         $cmd = "$LILYPOND --svg -dbackend=cairo -dno-point-and-click -o $svg_name ly/$id-$size.ly";
         system($cmd);
 
-        pslm_fix_svg("$svg_name.svg");
+        pslm_optimize_svg("$svg_name.svg");
     }
-
+    if ($skipped && file_exists("$svg_d/$id.svg")) {
+        echo "Skipping SVG joining for $id.\n";
+    } else {
+        pslm_join_svgs($id, $svg_d);
+    }
     $midi_f = "midi/$id.midi";
 
     $lily = pslm_midi($psalm);
@@ -79,13 +207,7 @@ function pslm_engrave($id, $svg_d) {
     return $psalm;
 }
 
-function pslm_fix_svg($svg_f) {
-    $svg = file_get_contents($svg_f);
-
-    $svg = preg_replace('#\s*</?tspan>\s*#', '', $svg);
-    $svg = preg_replace('#<style.*?</style>#s', '', $svg);
-    file_put_contents($svg_f, $svg);
-
+function pslm_optimize_svg($svg_f) {
     $cmd = sprintf('./node_modules/svgo/bin/svgo -i %s', $svg_f);
     system($cmd);
 }
