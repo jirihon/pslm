@@ -508,7 +508,7 @@ function pslm_render_head($title, $desc) {
     <link rel="manifest" href="/site.webmanifest?ver=<?= filemtime('html/site.webmanifest') ?>">
     <link rel="mask-icon" href="/safari-pinned-tab.svg?ver=<?= filemtime('html/safari-pinned-tab.svg') ?>" color="#be1622">
     <meta name="msapplication-TileColor" content="#be1622">
-    <meta name="theme-color" content="#ffffff">
+    <!--<meta name="theme-color" content="#ffffff">-->
     <meta name="description" content="<?= $desc ?>" />
     <?php
 }
