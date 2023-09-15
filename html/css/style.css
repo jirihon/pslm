@@ -27,6 +27,10 @@
     font-display: block;
 }
 
+:root {
+    color-scheme: light dark;
+}
+
 html {
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
@@ -121,4 +125,19 @@ p.verse-text {
     margin-bottom: 10px;
     background: #eee;
     margin-top: 0;
+}
+
+@media (prefers-color-scheme: dark) {
+    .occasions h3 {
+        background: #444;
+    }
+    .score {
+        filter: invert(0.9);
+    }
+    .day li span {
+        color: grey;
+    }
+    a, .back-button {
+        color: #ff0011;
+    }
 }
