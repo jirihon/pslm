@@ -129,12 +129,12 @@ function pslm_join_svgs($id, $svg_d) {
                 $svg_content .= $node->asXML() ."\n";
             }
         };
-        preg_match_all('/(<use [^>]*)xlink:href="#([^"]*)"/', $svg_content, $m);
+        preg_match_all('/(<use [^>]*)xlink:href="#([^"]*)"([^>]*\/>)/', $svg_content, $m);
         /** @var string[][] $m */
         foreach ($m[2] as $i => $old_symbol_id) {
             if (isset($symbol_id_map[$old_symbol_id])) {
                 $new_symbol_id = $symbol_id_map[$old_symbol_id];
-                $svg_content = str_replace($m[0][$i], $m[1][$i]."xlink:href=\"#$new_symbol_id\"", $svg_content);
+                $svg_content = str_replace($m[0][$i], $m[1][$i]."xlink:href=\"#$new_symbol_id\"".$m[3][$i], $svg_content);
             } else {
                 // remove uses of undefined symbols
                 $svg_content = str_replace($m[0][$i], '', $svg_content);
