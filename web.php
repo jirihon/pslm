@@ -559,6 +559,10 @@ function pslm_render_psalm_html($id) {
         <p><a href="#" id="zoom-in-button">Zvětšit</a> – <a href="#" id="zoom-out-button">Zmenšit</a> – <a href="#" id="zoom-reset-button">Resetovat</a></p>
 
         <img class="score" alt="Noty k žalmu <?= pslm_psalm_title($id, $psalm) ?>" src="<?= "svg/$id.svg" ?>" />
+        <?php foreach (PSLM_SVG_SIZES as $size): ?>
+            <div class="size-<?= $size ?>"></div>
+        <?php endforeach ?>
+
         <?php if (false): ?>
         <div class="score">
         <?php foreach (PSLM_SVG_SIZES as $size): ?>
