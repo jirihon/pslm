@@ -2,14 +2,17 @@
 document.addEventListener("DOMContentLoaded", function() {
     let body = document.body;
     function pslm_curr_size() {
-        for (let i = 0; i < pslm_svg_sizes.length; ++i) {
-            let el = document.getElementsByClassName('size-' + pslm_svg_sizes[i])[0];
-            let style = getComputedStyle(el);
-            if (style.display == 'inline-block') {
-                return i;
-            }
-        }
-        return false;
+        let el = document.getElementsByClassName('score')[0];
+        let style = getComputedStyle(el);
+        return Number.parseInt(style.zIndex);
+        // for (let i = 0; i < pslm_svg_sizes.length; ++i) {
+        //     let el = document.getElementsByClassName('size-' + pslm_svg_sizes[i])[0];
+        //     let style = getComputedStyle(el);
+        //     if (style.display == 'inline-block') {
+        //         return i;
+        //     }
+        // }
+        // return false;
     }
     function pslm_curr_zoom() {
         for (let cl of body.classList) {

@@ -537,13 +537,9 @@ function pslm_render_psalm_html($id) {
 <html lang="cs" prefix="og: http://ogp.me/ns#">
 <head>
     <?php pslm_render_head($title, $desc) ?>
-    <script>
-        let pslm_svg_sizes = [<?= implode(', ', PSLM_SVG_SIZES) ?>];
-    </script>
+    <script>let pslm_svg_sizes = [<?= implode(', ', PSLM_SVG_SIZES) ?>];</script>
     <script src="js/zoom.js?ver=<?= filemtime('html/js/zoom.js') ?>"></script>
-    <style>
-<?= file_get_contents("html/css/$id.css") ?>
-    </style>
+    <style><?= preg_replace('#\s+#', ' ', file_get_contents("html/css/$id.css")) ?></style>
 </head>
 <body class="zoom-0 psalm">
     <div class="main">
@@ -559,9 +555,6 @@ function pslm_render_psalm_html($id) {
         <p><a href="#" id="zoom-in-button">Zvětšit</a> – <a href="#" id="zoom-out-button">Zmenšit</a> – <a href="#" id="zoom-reset-button">Resetovat</a></p>
 
         <img class="score" alt="Noty k žalmu <?= pslm_psalm_title($id, $psalm) ?>" src="<?= "svg/$id.svg" ?>" />
-        <?php foreach (PSLM_SVG_SIZES as $size): ?>
-            <div class="size-<?= $size ?>"></div>
-        <?php endforeach ?>
 
         <?php if (false): ?>
         <div class="score">
@@ -603,8 +596,8 @@ function pslm_render_sizes_css() {
         if ($i > 0) {
             $css .= "@media (min-width: {$min_width}px) {\n";
         }
-        $show_selectors = [];
-        $hide_selectors = [];
+        // $show_selectors = [];
+        // $hide_selectors = [];
         $zoom_enable_selectors = [];
         $zoom_disable_selectors = [];
 
@@ -615,7 +608,7 @@ function pslm_render_sizes_css() {
             } elseif ($k < 0) {
                 $k = 0;
             }
-            $show_selectors[] = sprintf('.zoom-%d .size-%d', $z, PSLM_SVG_SIZES[$k]);
+            // $show_selectors[] = sprintf('.zoom-%d .size-%d', $z, PSLM_SVG_SIZES[$k]);
 
             if ($k > 0) {
                 $zoom_enable_selectors[] = sprintf('.zoom-%d #zoom-in-button', $z);
@@ -629,14 +622,14 @@ function pslm_render_sizes_css() {
             }
 
             // hide everything other than what is showed
-            for ($m = 0; $m < $n_sizes; ++$m) {
-                if ($m != $k) {
-                    $hide_selectors[] = sprintf('.zoom-%d .size-%d', $z, PSLM_SVG_SIZES[$m]);
-                }
-            }
+            // for ($m = 0; $m < $n_sizes; ++$m) {
+            //     if ($m != $k) {
+            //         $hide_selectors[] = sprintf('.zoom-%d .size-%d', $z, PSLM_SVG_SIZES[$m]);
+            //     }
+            // }
         }
-        $css .= sprintf("%s {\n    display: inline-block;\n}\n", implode(",\n", $show_selectors));
-        $css .= sprintf("%s {\n    display: none;\n}\n", implode(",\n", $hide_selectors));
+        // $css .= sprintf("%s {\n    display: inline-block;\n}\n", implode(",\n", $show_selectors));
+        // $css .= sprintf("%s {\n    display: none;\n}\n", implode(",\n", $hide_selectors));
         $css .= sprintf("%s {\n    color: #BE1622;\n}\n", implode(",\n", $zoom_enable_selectors));
         $css .= sprintf("%s {\n    color: grey;\n}\n", implode(",\n", $zoom_disable_selectors));
         if ($i > 0) {
@@ -644,5 +637,6 @@ function pslm_render_sizes_css() {
         }
         $min_width += PSLM_PX_PER_STEP;
     }
+    $css = preg_replace('#\s+#', ' ', $css);
     file_put_contents('html/css/sizes.css', $css);
 }

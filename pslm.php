@@ -70,7 +70,10 @@ function pslm_render_pslm_css($id, $offsets, $aspects, $width, $height) {
             $delta = $max - $min;
             $position = ($offset - $min) / $delta * 100;
 
-            $css .= sprintf(".zoom-%d .score {\n  aspect-ratio: %s;\n  object-position: 50%% %s%%}\n", $z, round($aspect, 4), round($position, 2));
+            $css .= sprintf(
+                ".zoom-%d .score {\n  aspect-ratio: %s;\n  object-position: 50%% %s%%; z-index: %s}\n",
+                $z, round($aspect, 4), round($position, 2), $size
+            );
         }
         if ($i > 0) {
             $css .= "}\n";
