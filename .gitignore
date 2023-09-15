@@ -4,6 +4,7 @@ vendor
 upload.sh
 .vscode
 html/css/sizes.css
+html/css/OL[0-9]*.css
 html/[0-9]*.html
 html/OL[0-9]*.html
 html/index.html
