@@ -559,15 +559,13 @@ function pslm_render_psalm_html($id) {
         <p><a href="#" id="zoom-in-button">Zvětšit</a> – <a href="#" id="zoom-out-button">Zmenšit</a> – <a href="#" id="zoom-reset-button">Resetovat</a></p>
 
         <img class="score" alt="Noty k žalmu <?= pslm_psalm_title($id, $psalm) ?>" src="<?= "svg/$id.svg" ?>" />
-        <!--
+        <?php if (false): ?>
         <div class="score">
         <?php foreach (PSLM_SVG_SIZES as $size): ?>
-            <?php //$data_uri = []; ?>
-            <?php //exec("./node_modules/mini-svg-data-uri/cli.js svg/$id-$size.svg", $data_uri); ?>
-            <img class="size-<?= $size ?>" alt="Noty k žalmu <?= pslm_psalm_title($id, $psalm) ?>" src="<?= ''// svg_to_data_uri(file_get_contents("html/svg/$id-$size.svg")) ?>" />
+            <img class="size-<?= $size ?>" alt="Noty k žalmu <?= pslm_psalm_title($id, $psalm) ?>" src="<?= svg_to_data_uri(file_get_contents("html/svg/$id-$size.svg")) ?>" />
         <?php endforeach ?>
         </div>
-        -->
+        <?php endif ?>
 
         <?= $formatted_text ?>
         
