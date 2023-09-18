@@ -86,14 +86,17 @@ As a result ledgers are not printed for this @code{NoteHead}"
 
 hideNotes = {
   \noteHeadBreakVisibility #begin-of-line-visible
-  \stopStaff
   \override NoteHead.color = #(rgb-color 0.5 0.5 0.5)
+  \stopStaff
   \override Staff.LedgerLineSpanner.color = #(rgb-color 0.5 0.5 0.5)
   \startStaff
 }
 unHideNotes = {
   \noteHeadBreakVisibility #all-visible
   \revert NoteHead.color
+  \stopStaff
+  \revert Staff.LedgerLineSpanner.color
+  \startStaff
 }
 
 % work-around for resetting accidentals
