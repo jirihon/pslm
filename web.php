@@ -596,8 +596,8 @@ function pslm_render_sizes_css() {
         if ($i > 0) {
             $css .= "@media (min-width: {$min_width}px) {\n";
         }
-        // $show_selectors = [];
-        // $hide_selectors = [];
+        $show_selectors = [];
+        $hide_selectors = [];
         $zoom_enable_selectors = [];
         $zoom_disable_selectors = [];
 
@@ -608,7 +608,7 @@ function pslm_render_sizes_css() {
             } elseif ($k < 0) {
                 $k = 0;
             }
-            // $show_selectors[] = sprintf('.zoom-%d .size-%d', $z, PSLM_SVG_SIZES[$k]);
+            $show_selectors[] = sprintf('.zoom-%d .size-%d', $z, PSLM_SVG_SIZES[$k]);
 
             if ($k > 0) {
                 $zoom_enable_selectors[] = sprintf('.zoom-%d #zoom-in-button', $z);
@@ -622,14 +622,14 @@ function pslm_render_sizes_css() {
             }
 
             // hide everything other than what is showed
-            // for ($m = 0; $m < $n_sizes; ++$m) {
-            //     if ($m != $k) {
-            //         $hide_selectors[] = sprintf('.zoom-%d .size-%d', $z, PSLM_SVG_SIZES[$m]);
-            //     }
-            // }
+            for ($m = 0; $m < $n_sizes; ++$m) {
+                if ($m != $k) {
+                    $hide_selectors[] = sprintf('.zoom-%d .size-%d', $z, PSLM_SVG_SIZES[$m]);
+                }
+            }
         }
-        // $css .= sprintf("%s {\n    display: inline-block;\n}\n", implode(",\n", $show_selectors));
-        // $css .= sprintf("%s {\n    display: none;\n}\n", implode(",\n", $hide_selectors));
+        $css .= sprintf("%s {\n    display: inline-block;\n}\n", implode(",\n", $show_selectors));
+        $css .= sprintf("%s {\n    display: none;\n}\n", implode(",\n", $hide_selectors));
         $css .= sprintf("%s {\n    color: #BE1622;\n}\n", implode(",\n", $zoom_enable_selectors));
         $css .= sprintf("%s {\n    color: grey;\n}\n", implode(",\n", $zoom_disable_selectors));
         if ($i > 0) {
