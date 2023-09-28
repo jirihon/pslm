@@ -514,8 +514,8 @@ function pslm_parse_psalm($psalm) {
 function pslm_extra_breves($n) {
     if ($n === 0) {
         return '';
-    } elseif ($n === 1 || $n === 2) {
-        return str_repeat('\breve*1/16 ', $n - 1) . '\breve*1/16 \bar "" ';
+    } elseif ($n === 1) {
+        return '\breve*1/16 \bar "" ';
     } else {
         return str_repeat('\breve*1/16 \bar "" ', $n - 2) . '\breve*1/16 \breve*1/16 \bar "" ';
     }
