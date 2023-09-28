@@ -511,6 +511,15 @@ function pslm_parse_psalm($psalm) {
     return $psalm;
 }
 
+function pslm_extra_breves($n) {
+    if ($n === 0) {
+        return '';
+    } elseif ($n === 1 || $n === 2) {
+        return str_repeat('\breve*1/16 ', $n - 1) . '\breve*1/16 \bar "" ';
+    } else {
+        return str_repeat('\breve*1/16 \bar "" ', $n - 2) . '\breve*1/16 \breve*1/16 \bar "" ';
+    }
+}
 
 function pslm_process_snippet($music, $text) {
     $music_tokens = pslm_parse_music($music);
@@ -617,7 +626,7 @@ function pslm_process_snippet($music, $text) {
 
     preg_match_all('#([^\s]+)\\\\breve\*(\d+)#', $music, $matches, PREG_SET_ORDER);
     foreach ($matches as $m) {
-        $extra_breves = str_repeat('\breve*1/16 \bar "" ', intval($m[2]) - 1);
+        $extra_breves = pslm_extra_breves(intval($m[2]) - 1);
         $music = str_replace(
             $m[0],
             sprintf('%s\breve*1/16 \hideNotes %s\unHideNotes', $m[1], $extra_breves),
@@ -630,7 +639,7 @@ function pslm_process_snippet($music, $text) {
         echo "ERROR: More than one automatic breve in a piece of music.\n";
     }
     if ($n_notes_to_add > 0) {
-        $extra_breves = str_repeat('\breve*1/16 \bar "" ', $n_notes_to_add);
+        $extra_breves = pslm_extra_breves($n_notes_to_add);
         $music = preg_replace(
             '#([^\s]+)\\\\breve(?!\*\d+)#',
             sprintf('\1\breve*1/16 \hideNotes %s\unHideNotes', $extra_breves),
