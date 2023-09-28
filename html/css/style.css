@@ -29,6 +29,7 @@
 
 :root {
     color-scheme: light dark;
+    --link-color: #BE1622;
 }
 
 html {
@@ -62,7 +63,7 @@ body {
     margin: 0;
 }
 a, .back-button {
-    color: #BE1622;
+    color: var(--link-color);
 }
 a {
     text-decoration: none;
@@ -128,6 +129,9 @@ p.verse-text {
 }
 
 @media (prefers-color-scheme: dark) {
+    :root {
+        --link-color: #ff0011;
+    }
     .occasions h3 {
         background: #444;
     }
@@ -136,8 +140,5 @@ p.verse-text {
     }
     .day li span {
         color: grey;
-    }
-    a, .back-button {
-        color: #ff0011;
     }
 }

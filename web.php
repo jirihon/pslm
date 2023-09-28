@@ -630,7 +630,7 @@ function pslm_render_sizes_css() {
         }
         $css .= sprintf("%s {\n    display: inline-block;\n}\n", implode(",\n", $show_selectors));
         $css .= sprintf("%s {\n    display: none;\n}\n", implode(",\n", $hide_selectors));
-        $css .= sprintf("%s {\n    color: #BE1622;\n}\n", implode(",\n", $zoom_enable_selectors));
+        $css .= sprintf("%s {\n    color: var(--link-color);\n}\n", implode(",\n", $zoom_enable_selectors));
         $css .= sprintf("%s {\n    color: grey;\n}\n", implode(",\n", $zoom_disable_selectors));
         if ($i > 0) {
             $css .= "}\n";
