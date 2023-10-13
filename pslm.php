@@ -2,12 +2,19 @@
 use Symfony\Component\Yaml\Yaml;
 use Vanderlee\Syllable\Syllable;
 
+define('PSLM_SVG_SIZES', [7, 8, 9, 10, 11, 12, 13, 14, 15]);
+
+define('PSLM_PX_PER_STEP', 50);
+define('PSLM_MAX_WIDTH', 732);
+
 require_once dirname(__FILE__).'/vendor/autoload.php';
 
 $i = 0;
 define('PSLM_TOKEN_SYLLABLE', $i++);
 define('PSLM_TOKEN_HYPHEN', $i++);
 define('PSLM_TOKEN_STAR', $i++);
+define('PSLM_TOKEN_BREATH', $i++);
+define('PSLM_TOKEN_OPTIONAL_BREATH', $i++);
 define('PSLM_TOKEN_KEY', $i++);
 define('PSLM_TOKEN_NOTE_SYLLABLE', $i++);
 define('PSLM_TOKEN_NOTE', $i++);
@@ -157,14 +164,22 @@ function pslm_join_svgs($id, $svg_d) {
 
     $svg_f = "$svg_d/$id.svg";
     file_put_contents($svg_f, $svg);
-    pslm_optimize_svg($svg_f);
+    
+    $cmd = sprintf('./node_modules/svgo/bin/svgo -i %s', $svg_f);
+    system($cmd);
 
     pslm_render_pslm_css($id, $offsets, $aspects, $width, $offset_sum);
+}
+
+function run_cmd($cmd, $id) {
+    file_put_contents("sh/$id.sh", $cmd ."\n", FILE_APPEND);
 }
 
 function pslm_engrave($id, $svg_d) {
     global $LILYPOND;
     $pslm_f = "pslm/$id.pslm";
+
+    file_put_contents("sh/$id.sh", '');
 
     $psalm = file_get_contents($pslm_f);
     $psalm = pslm_parse_psalm($psalm);
@@ -183,14 +198,17 @@ function pslm_engrave($id, $svg_d) {
 
         $svg_name = "$svg_d/$id-$size";
         $cmd = "$LILYPOND --svg -dbackend=cairo -dno-point-and-click -o $svg_name ly/$id-$size.ly";
-        system($cmd);
+        run_cmd($cmd, $id);
 
-        pslm_optimize_svg("$svg_name.svg");
+        $cmd = sprintf('./node_modules/svgo/bin/svgo -i %s', "$svg_name.svg");
+        run_cmd($cmd, $id);
     }
     if ($skipped && file_exists("$svg_d/$id.svg")) {
         echo "Skipping SVG joining for $id.\n";
     } else {
-        pslm_join_svgs($id, $svg_d);
+        $cmd = "php join.php $id";
+        run_cmd($cmd, $id);
+        // pslm_join_svgs($id, $svg_d);
     }
     $midi_f = "midi/$id.midi";
 
@@ -202,17 +220,12 @@ function pslm_engrave($id, $svg_d) {
     } else {
         file_put_contents($lily_f, $lily);
         $cmd = "$LILYPOND -o midi/$id $lily_f";
-        system($cmd);
+        run_cmd($cmd, $id);
         // TODO: loudnorm filter does something different than audio normalization, use volume filter instead with fixed amount of gain
         $cmd = "timidity --quiet -T 150 --output-24bit -Ow -o - $midi_f | ffmpeg -hide_banner -loglevel error -y -i - -filter:a loudnorm -acodec libmp3lame -qscale:a 3 html/mp3/$id.mp3";
-        system($cmd);
+        run_cmd($cmd, $id);
     }
     return $psalm;
-}
-
-function pslm_optimize_svg($svg_f) {
-    $cmd = sprintf('./node_modules/svgo/bin/svgo -i %s', $svg_f);
-    system($cmd);
 }
 
 function pslm_tokens_to_music($tokens) {
@@ -353,6 +366,10 @@ function pslm_lilypond($psalm, $size, $multiscore = false) {
 
         $music = pslm_process_music_part($psalm['music'][$part]);
         $text = implode("\n", $psalm['text'][$part]);
+
+        $text = preg_replace('#("[^"]+"|[^ ]+)[ \n]\*#', '\star $1', $text);
+        $text = preg_replace('#("[^"]+"|[^ ]+)[ \n]\+#', '\breath $1', $text);
+        $text = preg_replace('#("[^"]+"|[^ ]+)[ \n]\(\+\)#', '\optionalBreath $1', $text);
 
         if ($i == count($parts) - 1) {
             $music .= ' \bar "|."';
@@ -662,7 +679,6 @@ function pslm_process_snippet($music, $text) {
     }
     */
     $music = str_replace('\bar "||"', '\bar "||" \break', $music);
-    $text = str_replace('*', '\set stanza = \markup { \lower #0.65 \larger "*" }', $text);
     return [$music, $text];
 }
 
@@ -693,8 +709,8 @@ function pslm_text_to_lyrics($text) {
     $repl = [
         '#\s{2,}#' => ' ', // normalize white-spaces to single space
         '#([^\-])\-([^\-])#' => '\1 -- \2', // 
-        '# -- ([bdďjlrřsš]) -- #ui' => '\1 -- ', // move some ambiguous consonants to the previous syllable if both options are possible
-        '# -- ([cčfghkmnňpqtťvwxzž]|st|md) -- #ui' => ' -- \1', // move other ambiguous consonants to the next syllable if both options are posible
+        '# -- ([bdďjlrř]) -- #ui' => '\1 -- ', // move some ambiguous consonants to the previous syllable if both options are possible
+        '# -- ([cčfghkmnňpqsštťvwxzž]|st|md) -- #ui' => ' -- \1', // move other ambiguous consonants to the next syllable if both options are posible
         '# -- (sť|ls|ch|mž)\b#ui' => '\1', // move unsyllabic parts to the previous syllable
         '#\b(js|lst) -- #ui' => '\1', // move unsyllabic parts to the next syllable
 
@@ -724,6 +740,10 @@ function pslm_parse_lyrics($text) {
                 if ($s !== '') {
                     if ($s === '*') {
                         $tokens[] = [PSLM_TOKEN_STAR, $s];
+                    } else if ($s === '+') {
+                        $tokens[] = [PSLM_TOKEN_BREATH, $s];
+                    } else if ($s === '(+)') {
+                        $tokens[] = [PSLM_TOKEN_OPTIONAL_BREATH, $s];
                     } else {
                         $tokens[] = [PSLM_TOKEN_SYLLABLE, $s];
                     }

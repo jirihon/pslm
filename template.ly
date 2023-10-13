@@ -86,17 +86,9 @@ As a result ledgers are not printed for this @code{NoteHead}"
 
 hideNotes = {
   \noteHeadBreakVisibility #begin-of-line-visible
-  \override NoteHead.color = #(rgb-color 0.5 0.5 0.5)
-  \stopStaff
-  \override Staff.LedgerLineSpanner.color = #(rgb-color 0.5 0.5 0.5)
-  \startStaff
 }
 unHideNotes = {
   \noteHeadBreakVisibility #all-visible
-  \revert NoteHead.color
-  \stopStaff
-  \revert Staff.LedgerLineSpanner.color
-  \startStaff
 }
 
 % work-around for resetting accidentals
@@ -275,5 +267,29 @@ unSquash = \override LyricText.details.squash-threshold = \squashThreshold
 
 left = \override LyricText.self-alignment-X = #LEFT
 unLeft = \revert LyricText.self-alignment-X
+
+star = #(define-music-function (syllable)(string?)
+"Append star separator at the end of a syllable"
+#{
+  \once \override LyricText.X-offset =
+    #(lambda (grob) (+ (ly:self-alignment-interface::aligned-on-x-parent grob) 1.2))
+  \lyricmode { \markup {
+    #syllable
+    \override #'((font-name . "TeX Gyre Schola Bold")) \hspace #0.2 \lower #0.65 \larger "*"
+  } }
+#})
+
+breath = #(define-music-function (syllable)(string?)
+"Append breathing indicator at the end of a syllable"
+#{
+  \lyricmode { \markup { #syllable "+" } }
+#})
+
+optionalBreath = #(define-music-function (syllable)(string?)
+"Append optional breathing indicator at the end of a syllable"
+#{
+  \lyricmode { \markup { #syllable "(+)" } }
+#})
+
 
 \scores

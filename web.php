@@ -5,13 +5,9 @@ use Symfony\Component\Yaml\Yaml;
 require_once dirname(__FILE__).'/pslm.php';
 require_once dirname(__FILE__).'/db/similarities.php';
 
-define('PSLM_SVG_SIZES', [7, 8, 9, 10, 11, 12, 13, 14, 15]);
 //define('PSLM_SVG_SIZES', [15]);
 //define('PSLM_SVG_SIZES', [7, 9, 11, 13, 15]);
 define('PSLM_CACHE', true);
-
-define('PSLM_PX_PER_STEP', 50);
-define('PSLM_MAX_WIDTH', 732);
 
 $PSLM_AUTHORS = Yaml::parseFile(dirname(__FILE__).'/db/authors.yml');
 $PSLM_SOURCES = Yaml::parseFile(dirname(__FILE__).'/db/sources.yml');
@@ -307,6 +303,7 @@ function pslm_render_listing() {
     global $PSLM_SOURCES, $PSLM_PSALMS;
     $html = '';
 
+    file_put_contents("all.sh", "");
 
     foreach ($PSLM_SOURCES as $source) {
         if (!isset($source['ids'])) {
@@ -318,6 +315,7 @@ function pslm_render_listing() {
 
         foreach ($source['ids'] as $id) {
             if (file_exists(sprintf('%s/pslm/%s.pslm', dirname(__FILE__), $id))) {
+                file_put_contents("all.sh", "bash sh/$id.sh\n", FILE_APPEND);
                 $done[] = $id;
                 if (!isset($PSLM_PSALMS[$id])) {
                     $PSLM_PSALMS[$id] = pslm_render_psalm_html($id);
@@ -554,7 +552,7 @@ function pslm_render_psalm_html($id) {
         <p><audio controls src="mp3/<?= $id ?>.mp3?ver=<?= filemtime("html/mp3/$id.mp3") ?>"></audio></p>
         <p><a href="#" id="zoom-in-button">Zvětšit</a> – <a href="#" id="zoom-out-button">Zmenšit</a> – <a href="#" id="zoom-reset-button">Resetovat</a></p>
 
-        <img class="score" alt="Noty k žalmu <?= pslm_psalm_title($id, $psalm) ?>" src="<?= "svg/$id.svg" ?>" />
+        <img class="score" alt="Noty k žalmu <?= pslm_psalm_title($id, $psalm) ?>" src="<?= "svg/$id.svg" ?>?ver=<?= filemtime("html/svg/$id.svg") ?>" />
 
         <?php if (false): ?>
         <div class="score">
