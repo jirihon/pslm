@@ -14,6 +14,8 @@ html/mp3
 html/sitemap.xml
 html/svg
 ly
+sh
+all.sh
 midi
 cache
 db/*.xml
