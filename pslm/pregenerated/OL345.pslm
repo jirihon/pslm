@@ -1,0 +1,68 @@
+%% occasion: 'Není v současné liturgii'
+%% occasion: 'Dříve Sv. Maxmiliána Marie Kolbeho, kněze a mučedníka (14. srpna)'
+%% occasion: 'O mučednících (i v době velikonoční)'
+%% responsum_reference: 'Ž 116 (115),15'
+%% verse_reference: 'Ž 116 (115)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 354
+
+m: \key c \major
+
+%% part: responsum
+
+m: bB ||
+t: Drahocenná je v Hospodinových očích smrt jeho zbožných.
+
+%% part: verse
+
+m: aB |
+t: Měl jsem důvěru, i když jsem si řekl:
+
+m: bB ||
+t: * „Jsem tak sklíčen!“
+
+%% part: verse
+
+m: aB |
+t: Pravil jsem ve svém rozrušení:
+
+m: bB ||
+t: * „Každý člověk klame!“
+
+%% use: responsum
+
+%% part: verse
+
+m: aB |
+t: Čím se odplatím Hospodinu
+
+m: bB ||
+t: * za všechno, co mi prokázal?
+
+%% part: verse
+
+m: aB |
+t: Vezmu kalich spásy
+
+m: bB ||
+t: * a budu vzývat jméno Hospodinovo.
+
+%% use: responsum
+
+%% part: verse
+
+m: aB |
+t: Ach, Hospodine, jsem tvůj služebník, + jsem tvůj služebník, syn tvé služebnice,
+
+m: bB ||
+t: * rozvázal jsi moje pouta.
+
+%% part: verse
+
+m: aB |
+t: Přinesu ti oběť díků, Hospodine,
+
+m: bB ||
+t: * a budu vzývat tvé jméno. R. 354
+
