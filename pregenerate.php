@@ -6,8 +6,8 @@ use Symfony\Component\Yaml\Yaml;
 
 require_once 'vendor/autoload.php';
 
-pslm_pregenerate('db/nedelni_zaltar.yml', 'nedelni_zaltar');
-pslm_pregenerate('db/vsedni_zaltar.yml', 'vsedni_zaltar');
+pslm_pregenerate('db/Nedelni_zaltar_final_2021.yml', 'nedelni_zaltar');
+pslm_pregenerate('db/Vsedni_zaltar_final_2021.yml', 'vsedni_zaltar');
 
 function pslm_pregenerate($filename, $source) {
     $psalms = Yaml::parseFile($filename);
