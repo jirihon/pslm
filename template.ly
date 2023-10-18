@@ -268,13 +268,26 @@ unSquash = \override LyricText.details.squash-threshold = \squashThreshold
 left = \override LyricText.self-alignment-X = #LEFT
 unLeft = \revert LyricText.self-alignment-X
 
+starOffset = #(lambda (grob) 
+                (let ((x_offset (ly:self-alignment-interface::aligned-on-x-parent grob)))
+                  (if (= x_offset 0) 0 (+ x_offset 1.2))))
+
 star = #(define-music-function (syllable)(string?)
 "Append star separator at the end of a syllable"
 #{
-  \once \override LyricText.X-offset =
-    #(lambda (grob) (+ (ly:self-alignment-interface::aligned-on-x-parent grob) 1.2))
+  \once \override LyricText.X-offset = #starOffset
   \lyricmode { \markup {
     #syllable
+    \override #'((font-name . "TeX Gyre Schola Bold")) \hspace #0.2 \lower #0.65 \larger "*"
+  } }
+#})
+
+starAccent = #(define-music-function (syllable)(string?)
+"Append star separator at the end of a syllable and make accent"
+#{
+  \once \override LyricText.X-offset = #starOffset
+  \lyricmode { \markup {
+    \accent #syllable
     \override #'((font-name . "TeX Gyre Schola Bold")) \hspace #0.2 \lower #0.65 \larger "*"
   } }
 #})

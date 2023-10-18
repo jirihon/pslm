@@ -368,6 +368,7 @@ function pslm_lilypond($psalm, $size, $multiscore = false) {
         $text = implode("\n", $psalm['text'][$part]);
 
         $text = preg_replace('#("[^"]+"|[^ ]+)[ \n]\*#', '\star $1', $text);
+        $text = preg_replace('#\\\\markup +\\\\accent +\\\\star #', '\starAccent ', $text);
         $text = preg_replace('#("[^"]+"|[^ ]+)[ \n]\+#', '\breath $1', $text);
         $text = preg_replace('#("[^"]+"|[^ ]+)[ \n]\(\+\)#', '\optionalBreath $1', $text);
 
