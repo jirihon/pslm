@@ -9,14 +9,12 @@
 %% source: nedelni_zaltar
 %% page: 95
 
-% Chyba: v žaltáři není uvedena příležitost 27. neděle v mezidobí C
-
 m: \key f \major
 
 %% part: responsum
 
 m: f'8 f f f / c f / g f f4 r / g8 c / a g / f d / c4 c2 ||
-t: Zaslechnete-li dnes jeho hlas, nezatvrzujte svá srdce!
+t: Zaslechnete -- li dnes jeho hlas, nezatvrzujte svá srdce!
 
 %% part: verse
 

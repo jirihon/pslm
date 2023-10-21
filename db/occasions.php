@@ -152,6 +152,11 @@
   array (
     0 => 'OL20',
   ),
+  'Při žehnání opata a abatyše' => 
+  array (
+    0 => 'OL20',
+    1 => 'OL329',
+  ),
   '3. neděle adventní A' => 
   array (
     0 => 'OL21',
@@ -197,6 +202,10 @@
     0 => 'OL26',
   ),
   '10. neděle v mezidobí C' => 
+  array (
+    0 => 'OL26',
+  ),
+  '13. neděle v mezidobí B' => 
   array (
     0 => 'OL26',
   ),
@@ -271,10 +280,22 @@
     0 => 'OL39',
     1 => 'OL40',
   ),
-  'Svaté Rodiny A(BC) (pokud se čte čtení z Sir 3,3-17)' => 
+  'Svaté rodiny A(BC) (pokud se čte čtení z Sir 3,3-17)' => 
   array (
     0 => 'OL41',
     1 => 'OL42',
+  ),
+  'Při svatbě' => 
+  array (
+    0 => 'OL41',
+    1 => 'OL42',
+    2 => 'OL226',
+    3 => 'OL227',
+    4 => 'OL308',
+    5 => 'OL324',
+    6 => 'OL325',
+    7 => 'OL326',
+    8 => 'OL327',
   ),
   '33. neděle v mezidobí A' => 
   array (
@@ -292,17 +313,6 @@
     7 => 'OL311',
     8 => 'OL312',
   ),
-  'Při svatbě' => 
-  array (
-    0 => 'OL42',
-    1 => 'OL226',
-    2 => 'OL227',
-    3 => 'OL308',
-    4 => 'OL324',
-    5 => 'OL325',
-    6 => 'OL326',
-    7 => 'OL327',
-  ),
   'Sv. Zdislavy (30. května)' => 
   array (
     0 => 'OL42',
@@ -315,12 +325,12 @@
   array (
     0 => 'OL42',
   ),
-  'Svaté Rodiny B (pokud se čte čtení z Gn 15,1-6)' => 
+  'Svaté rodiny B (pokud se čte čtení z Gn 15,1-6)' => 
   array (
     0 => 'OL43',
     1 => 'OL44',
   ),
-  'Svaté Rodiny C (pokud se čte čtení z 1 Sam 1,20-28)' => 
+  'Svaté rodiny C (pokud se čte čtení z 1 Sam 1,20-28)' => 
   array (
     0 => 'OL45',
     1 => 'OL46',
@@ -777,19 +787,16 @@
   'Úterý po 4. neděli postní' => 
   array (
     0 => 'OL99',
-    1 => 'OL99a',
   ),
   'Posvěcení lateránské baziliky (9. listopadu)' => 
   array (
     0 => 'OL99',
-    1 => 'OL99a',
   ),
   'Výročí posvěcení kostela' => 
   array (
     0 => 'OL99',
-    1 => 'OL99a',
-    2 => 'OL291',
-    3 => 'OL292',
+    1 => 'OL291',
+    2 => 'OL292',
   ),
   'Středa po 4. neděli postní' => 
   array (
@@ -1165,7 +1172,6 @@
   'Při pohřbu pokřtěného dítěte (v době velikonoční)' => 
   array (
     0 => 'OL165',
-    1 => 'OL342',
   ),
   'Sv. Anděly Mericiové, panny (27. ledna)' => 
   array (
@@ -1525,7 +1531,13 @@
     0 => 'OL226',
     1 => 'OL227',
   ),
-  'Při křtu (v době velikonoční)' => 
+  'Při křtu dospělých (v době velikonoční)' => 
+  array (
+    0 => 'OL226',
+    1 => 'OL227',
+    2 => 'OL316',
+  ),
+  'Při křtu malých dětí' => 
   array (
     0 => 'OL226',
     1 => 'OL227',
@@ -1582,12 +1594,6 @@
   '25. neděle v mezidobí B' => 
   array (
     0 => 'OL238',
-  ),
-  'O učitelích Církve' => 
-  array (
-    0 => 'OL238',
-    1 => 'OL302',
-    2 => 'OL303',
   ),
   '25. neděle v mezidobí C' => 
   array (
@@ -1853,6 +1859,7 @@
     1 => 'OL272',
     2 => 'OL288',
     3 => 'OL290',
+    4 => 'OL345',
   ),
   'Sv. Ignáce Antiochijského (17. října)' => 
   array (
@@ -2288,6 +2295,11 @@
   array (
     0 => 'OL301',
   ),
+  'O učitelích Církve' => 
+  array (
+    0 => 'OL302',
+    1 => 'OL303',
+  ),
   'Sv. Cyrila Jeruzalémského, biskupa a učitele Církve (18. března)' => 
   array (
     0 => 'OL302',
@@ -2502,10 +2514,6 @@
   array (
     0 => 'OL328',
   ),
-  'Při žehnání opata a abatyše' => 
-  array (
-    0 => 'OL329',
-  ),
   'Při žehnání opata a abatyše (v době velikonoční)' => 
   array (
     0 => 'OL330',
@@ -2633,11 +2641,11 @@
   array (
     0 => 'OL416',
   ),
-  'Čtvrtek 27. týdne 2' => 
+  'Pondělí 29. týdne 1' => 
   array (
     0 => 'OL416',
   ),
-  'Pondělí 29. týdne 1' => 
+  'Čtvrtek 27. týdne 2' => 
   array (
     0 => 'OL416',
   ),
@@ -3464,6 +3472,10 @@
   'Středa 33. týdne 1' => 
   array (
     0 => 'OL567',
+  ),
+  'Pátek 33. týdne 1' => 
+  array (
+    0 => 'OL568',
   ),
   'Čtvrtek 4. týdne 2' => 
   array (

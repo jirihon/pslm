@@ -296,9 +296,6 @@
     "OL99": [
         "OL99"
     ],
-    "OL99a": [
-        "OL99a"
-    ],
     "OL100": [
         "OL100"
     ],
@@ -1036,6 +1033,9 @@
     ],
     "OL344": [
         "OL344"
+    ],
+    "OL345": [
+        "OL345"
     ],
     "OL401": [
         "OL401"
@@ -2144,6 +2144,10 @@
     "6. neděle v mezidobí C": [
         "OL20"
     ],
+    "Při žehnání opata a abatyše": [
+        "OL20",
+        "OL329"
+    ],
     "3. neděle adventní A": [
         "OL21"
     ],
@@ -2178,6 +2182,9 @@
         "OL26"
     ],
     "10. neděle v mezidobí C": [
+        "OL26"
+    ],
+    "13. neděle v mezidobí B": [
         "OL26"
     ],
     "Pátek po 3. neděli adventní": [
@@ -2234,9 +2241,20 @@
         "OL39",
         "OL40"
     ],
-    "Svaté Rodiny A(BC) (pokud se čte čtení z Sir 3,3-17)": [
+    "Svaté rodiny A(BC) (pokud se čte čtení z Sir 3,3-17)": [
         "OL41",
         "OL42"
+    ],
+    "Při svatbě": [
+        "OL41",
+        "OL42",
+        "OL226",
+        "OL227",
+        "OL308",
+        "OL324",
+        "OL325",
+        "OL326",
+        "OL327"
     ],
     "33. neděle v mezidobí A": [
         "OL42"
@@ -2252,16 +2270,6 @@
         "OL311",
         "OL312"
     ],
-    "Při svatbě": [
-        "OL42",
-        "OL226",
-        "OL227",
-        "OL308",
-        "OL324",
-        "OL325",
-        "OL326",
-        "OL327"
-    ],
     "Sv. Zdislavy (30. května)": [
         "OL42"
     ],
@@ -2271,11 +2279,11 @@
     "Sv. Hedviky, řeholnice (16. října)": [
         "OL42"
     ],
-    "Svaté Rodiny B (pokud se čte čtení z Gn 15,1-6)": [
+    "Svaté rodiny B (pokud se čte čtení z Gn 15,1-6)": [
         "OL43",
         "OL44"
     ],
-    "Svaté Rodiny C (pokud se čte čtení z 1 Sam 1,20-28)": [
+    "Svaté rodiny C (pokud se čte čtení z 1 Sam 1,20-28)": [
         "OL45",
         "OL46"
     ],
@@ -2626,16 +2634,13 @@
         "OL98"
     ],
     "Úterý po 4. neděli postní": [
-        "OL99",
-        "OL99a"
+        "OL99"
     ],
     "Posvěcení lateránské baziliky (9. listopadu)": [
-        "OL99",
-        "OL99a"
+        "OL99"
     ],
     "Výročí posvěcení kostela": [
         "OL99",
-        "OL99a",
         "OL291",
         "OL292"
     ],
@@ -2921,8 +2926,7 @@
         "OL306"
     ],
     "Při pohřbu pokřtěného dítěte (v době velikonoční)": [
-        "OL165",
-        "OL342"
+        "OL165"
     ],
     "Sv. Anděly Mericiové, panny (27. ledna)": [
         "OL165"
@@ -3197,7 +3201,12 @@
         "OL226",
         "OL227"
     ],
-    "Při křtu (v době velikonoční)": [
+    "Při křtu dospělých (v době velikonoční)": [
+        "OL226",
+        "OL227",
+        "OL316"
+    ],
+    "Při křtu malých dětí": [
         "OL226",
         "OL227",
         "OL316"
@@ -3240,11 +3249,6 @@
     ],
     "25. neděle v mezidobí B": [
         "OL238"
-    ],
-    "O učitelích Církve": [
-        "OL238",
-        "OL302",
-        "OL303"
     ],
     "25. neděle v mezidobí C": [
         "OL239"
@@ -3445,7 +3449,8 @@
         "OL269",
         "OL272",
         "OL288",
-        "OL290"
+        "OL290",
+        "OL345"
     ],
     "Sv. Ignáce Antiochijského (17. října)": [
         "OL269"
@@ -3774,6 +3779,10 @@
     "Sv. Jana od Kříže, kněze a učitele Církve (14. prosince)": [
         "OL301"
     ],
+    "O učitelích Církve": [
+        "OL302",
+        "OL303"
+    ],
     "Sv. Cyrila Jeruzalémského, biskupa a učitele Církve (18. března)": [
         "OL302"
     ],
@@ -3936,9 +3945,6 @@
     "Při svatbě (v době velikonoční)": [
         "OL328"
     ],
-    "Při žehnání opata a abatyše": [
-        "OL329"
-    ],
     "Při žehnání opata a abatyše (v době velikonoční)": [
         "OL330"
     ],
@@ -4036,10 +4042,10 @@
     "Sobota 3. týdne 1": [
         "OL416"
     ],
-    "Čtvrtek 27. týdne 2": [
+    "Pondělí 29. týdne 1": [
         "OL416"
     ],
-    "Pondělí 29. týdne 1": [
+    "Čtvrtek 27. týdne 2": [
         "OL416"
     ],
     "Pondělí 4. týdne 1": [
@@ -4659,6 +4665,9 @@
     ],
     "Středa 33. týdne 1": [
         "OL567"
+    ],
+    "Pátek 33. týdne 1": [
+        "OL568"
     ],
     "Čtvrtek 4. týdne 2": [
         "OL568"
@@ -5623,6 +5632,7 @@
         "OL322",
         "OL339",
         "OL340",
+        "OL345",
         "OL431",
         "OL455",
         "OL470",
@@ -5697,8 +5707,7 @@
         "OL539"
     ],
     "Žalm 46": [
-        "OL99",
-        "OL99a"
+        "OL99"
     ],
     "Žalm 106": [
         "OL101",
@@ -6503,7 +6512,7 @@
         "OL498",
         "OL728"
     ],
-    "Zaslechnete-li dnes jeho hlas, nezatvrzujte svá srdce!": [
+    "Zaslechnete -- li dnes jeho hlas, nezatvrzujte svá srdce!": [
         "OL87"
     ],
     "Pane, ty máš slova věčného života.": [
@@ -6550,8 +6559,7 @@
         "OL462"
     ],
     "Proudy bystřin jsou k radosti Božímu městu, přesvatému stánku Nejvyššího.": [
-        "OL99",
-        "OL99a"
+        "OL99"
     ],
     "Blízký je Hospodin všem, kdo ho vzývají.": [
         "OL100",
@@ -7135,6 +7143,9 @@
     ],
     "Smím si vykračovat před Pánem v zemi živých.": [
         "OL340"
+    ],
+    "Drahocenná je v Hospodinových očích smrt jeho zbožných.": [
+        "OL345"
     ],
     "Pochválen buď Hospodin, Bůh Izraele, neboť navštívil svůj lid.": [
         "OL416"

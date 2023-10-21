@@ -16,41 +16,73 @@ t: Tvá slova, Pane, jsou duch a jsou život.
 
 %% part: verse
 
-m: c''B bes8 as g_( f) f4 r |
-t: Hospodinův zákon je dokonalý, (+)  občerstvuje duši,
+m: c''B bes8 as g_ f f f2 |
+t: Hospodinův zákon je dokonalý, 
 
 m: fB es8 f as_( g) g4 r ||
-t: * Hospodinův příkaz je spolehlivý, (+) nezkušenému dává moudrost.
-
-%% use: responsum
+t: * občerstvuje duši,
 
 %% part: verse
 
-m: c''B bes8 as g_( f) f4 r |
-t: Hospodinovy předpisy jsou správné, (+) působí radost srdci,
+m: c''B bes8 as g_ f f f2 |
+t: Hospodinův příkaz je spolehlivý,
 
 m: fB es8 f as_( g) g4 r ||
-t: * Hospodinův rozkaz je jasný, (+) osvětluje oči.
+t: * nezkušenému dává moudrost.
 
 %% use: responsum
 
 %% part: verse
 
-m: c''B bes8 as g_ f f4 r |
-t: Bázeň před Hospodinem je upřímná,trvá na věky,
+m: c''B bes8 as g_( f) f2 |
+t: Hospodinovy předpisy jsou správné, 
 
-m: fB es8 f as_ g g g2 ||
-t: * Hospodinovy výroky jsou pravdivé, (+) všechny jsou spravedlivé.
+m: fB es8 f as_( g) g4 r ||
+t: * působí radost srdci,
+
+%% part: verse
+
+m: c''B bes8 as g_( f) f2 |
+t: Hospodinův rozkaz je jasný,
+
+m: fB es8 f as_( g) g4 r ||
+t: * osvětluje oči.
 
 %% use: responsum
+
+%% part: verse
+
+m: c''B bes8 as g_ f f4 |
+t: Bázeň před Hospodinem je upřímná,
+
+m: r8 f8 es8( f) as_ g g4 r ||
+t: * trvá na věky,
+
+%% part: verse
+
+m: c''B bes8 as g_ f f4 |
+t: Hospodinovy výroky jsou pravdivé,
+
+m: r8 f es8 f as_ g g g2 ||
+t: * všechny jsou spravedlivé.
+
+%% use: responsum
+
+%% part: verse
+
+m: c''B bes8 as g_( f) f4 |
+t: Nechť se ti líbí slova mých úst
+
+m: r8 f8 fB es8 f as_( g) g4 r ||
+t: * i smýšlení mého srdce,
 
 %% part: verse
 
 m: c''B bes8 as g_( f) f4 r |
-t: Nechť se ti líbí slova mých úst + i smýšlení mého srdce,
+t: Hospodine, má Skálo,
 
-m: fB es8 f as_ g g g2 ||
-t: * Hospodine, má Skálo, vykupiteli můj!
+m: es8 f as_ g g g2 ||
+t: * vykupiteli můj!
 
 %% use: responsum
 

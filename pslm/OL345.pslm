@@ -1,0 +1,71 @@
+%% comment: 'Není v současné liturgii'
+%% comment: 'Dříve Sv. Maxmiliána Marie Kolbeho, kněze a mučedníka (14. srpna)'
+%% occasion: 'O mučednících (i v době velikonoční)'
+%% responsum_reference: 'Ž 116 (115),15'
+%% verse_reference: 'Ž 116 (115)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 354
+%% a: "bes'B bes8_ a a2"
+%% b: "gB g8_ f f2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: c'8 f f f4 f8 / f f / f e d / g g4 | g8 f e a a4 ||
+t: Drahocenná je v Hospodinových očích smrt jeho zbožných.
+
+%% part: verse
+
+m: bes'B bes8_( a) a4 r |
+t: Měl jsem důvěru, i když jsem si řekl:
+
+m: gB g8_( f) f4 r ||
+t: * „Jsem tak sklíčen!“
+
+%% part: verse
+
+m: bes'B bes8_ a a a2 |
+t: Pravil jsem ve svém rozrušení:
+
+m: gB g8_( f) f4 r ||
+t: * „Každý člověk klame!“
+
+%% use: responsum
+
+%% part: verse
+
+m: bes'B bes8_ a a a4 r |
+t: Čím se odplatím Hospodinu
+
+m: gB g8_ f f4 r ||
+t: * za všechno, co mi prokázal?
+
+%% part: verse
+
+m: bes'B bes8_( a) a4 |
+t: Vezmu kalich spásy
+
+m: r8 g8 gB g8_ f f4 r ||
+t: * a budu vzývat jméno Hospodinovo.
+
+%% use: responsum
+
+%% part: verse
+
+m: r8 bes'8 besB bes8_ a a a4 r |
+t: Ach, Hospodine, jsem tvůj služebník, + jsem tvůj služebník, syn tvé služebnice,
+
+m: gB g8_( f) f4 r ||
+t: * rozvázal jsi moje pouta.
+
+%% part: verse
+
+m: bes'B bes8_ a a a4 |
+t: Přinesu ti oběť díků, Hospodine,
+
+m: r8 g8 gB g8_( f) f4 r ||
+t: * a budu vzývat tvé jméno.
+
+%% use: responsum

@@ -17,41 +17,76 @@ t: Tvá slova, Pane, jsou duch a jsou život.
 
 %% part: verse
 
-m: c''B bes8 as g_( f) f4 r |
-t: Hospodinův zákon je dokonalý, (+) občerstvuje duši,
+m: c''B bes8 as g_ f f f2 |
+t: Hospodinův zákon je dokonalý, 
 
 m: fB es8 f as_( g) g4 r ||
-t: * Hospodinův příkaz je spolehlivý, (+) nezkušenému dává moudrost.
-
-%% use: responsum
+t: * občerstvuje duši,
 
 %% part: verse
 
-m: c''B bes8 as g_( f) f4 r |
-t: Hospodinovy předpisy jsou správné, (+) působí radost srdci,
+m: c''B bes8 as g_ f f f2 |
+t: Hospodinův příkaz je spolehlivý, 
 
 m: fB es8 f as_( g) g4 r ||
-t: * Hospodinův rozkaz je jasný, (+) osvětluje oči.
+t: * nezkušenému dává moudrost.
 
 %% use: responsum
 
 %% part: verse
 
-m: c''B bes8 as g_ f f4 r |
-t: Bázeň před Hospodinem je upřímná, trvá na věky,
+m: c''B bes8 as g_( f) f2 |
+t: Hospodinovy předpisy jsou správné,
 
-m: fB es8 f as_ g g g2 ||
-t: * Hospodinovy výroky jsou pravdivé, (+) všechny jsou spravedlivé.
+m: fB es8 f as_( g) g4 r ||
+t: * působí radost srdci,
+
+%% part: verse
+
+m: c''B bes8 as g_( f) f2 |
+t: Hospodinův rozkaz je jasný,
+
+m: fB es8 f as_( g) g4 r ||
+t: * osvětluje oči.
 
 %% use: responsum
 
 %% part: verse
 
-m: c''B bes8 as g_ f f4 r |
-t: Dražší jsou nad zlato, nad hojnost zlata ryzího,
+m: c''B bes8 as g_ f f4 |
+t: Bázeň před Hospodinem je upřímná,
 
-m: fB es8 f as_( g) g2 ||
-t: * sladší jsou nad med, nad šťávu z plástů.
+m: r8 f es8( f) as_ g g g4 r ||
+t: * trvá na věky,
+
+%% part: verse
+
+m: c''B bes8 as g_ f f4 |
+t: Hospodinovy výroky jsou pravdivé,
+
+m: r8 f es8 f as_ g g g2 ||
+t: * všechny jsou spravedlivé.
+
+%% part: responsum_short
+
+m: es'4 es8 d c d es f4 | es8 f / g( bes) bes4 ||
+t: Tvá slova, Pane, jsou duch a jsou život.
+
+%% part: verse
+
+m: r8 c'' bes8 as g_ f f4 r |
+t: Dražší jsou nad zlato,
+
+m: fB es8 f as_ g g4 ||
+t: * nad hojnost zlata ryzího,
+
+%% part: verse
+
+m: r8 c'' bes8 as g_( f) f4 |
+t: sladší jsou nad med, 
+
+m: r8 f es8 f as_( g) g2 ||
+t: * nad šťávu z plástů.
 
 %% use: responsum
 

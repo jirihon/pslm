@@ -13,7 +13,7 @@ m: \key bes \major
 
 %% part: verse
 
-m: f'8 besB c8 bes a g g_( f) f4 ||
+m: f'8 besB a8 bes / c8 bes a g g_( f) f4 ||
 t: Požehnaný jsi, Pane, Bože našich otců,
 
 %% part: responsum
@@ -23,35 +23,35 @@ t: chvályhodný a svrchovaně velebený navěky.
 
 %% part: verse
 
-m: f'8 besB c8 bes a g g_( f) f4 ||
+m: f'8 besB a8 bes / c8 bes a g g_( f) f4 ||
 t: Požehnané je tvé slavné svaté jméno,
 
 %% use: responsum
 
 %% part: verse
 
-m: f'8 besB c8 bes a g g_( f) f4 ||
+m: f'8 besB a8 bes / c8 bes a g g_( f) f4 ||
 t: Požehnaný jsi ty ve svém svatém slavném chrámě,
 
 %% use: responsum
 
 %% part: verse
 
-m: f'8 besB c8( bes) a g g_( f) f4 ||
+m: f'8 besB a8 bes / c8( bes) a g g_( f) f4 ||
 t: Požehnaný jsi ty na svém královském trůně,
 
 %% use: responsum
 
 %% part: verse
 
-m: f'8 besB c8( bes) a g g_ f f4 ||
+m: f'8 besB a8 bes / c8( bes) a g g_ f f4 ||
 t: Požehnaný jsi ty, který shlížíš na hlubiny a trůníš na cherubech,
 
 %% use: responsum
 
 %% part: verse
 
-m: f'8 besB c8( bes) a g g_( f) f4 ||
+m: f'8 besB a8 bes / c8( bes) a g g_( f) f4 ||
 t: Požehnaný jsi ty na klenbě nebes,
 
 %% use: responsum

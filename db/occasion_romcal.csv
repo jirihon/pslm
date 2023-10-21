@@ -32,6 +32,7 @@ occasion,id,cycle
 "Čtvrtek po Popeleční středě",thursday_after_ash_wednesday,
 "Čtvrtek po 2. neděli postní",lent_2_thursday,
 "6. neděle v mezidobí C",ordinary_time_6_sunday,C
+"Při žehnání opata a abatyše",,
 "3. neděle adventní A",advent_3_sunday,A
 "3. neděle adventní B",advent_3_sunday,B
 "3. neděle adventní C",advent_3_sunday,C
@@ -44,6 +45,7 @@ occasion,id,cycle
 "Zmrtvýchvstání Páně, vigilie (4. čtení)",easter_sunday,
 "3. neděle velikonoční C",easter_time_3_sunday,C
 "10. neděle v mezidobí C",ordinary_time_10_sunday,C
+"13. neděle v mezidobí B",ordinary_time_13_sunday,B
 "Pátek po 3. neděli adventní",advent_3_friday,
 "Panny Marie Guadalupské (12. prosince)",our_lady_of_guadalupe,
 "4. neděle adventní A",advent_4_sunday,A
@@ -61,15 +63,15 @@ occasion,id,cycle
 "Narození Páně, v noci",christmas,
 "Narození Páně, za svítání (v noci)",christmas,
 "Narození Páně, ve dne",christmas,
-"Svaté Rodiny A(BC) (pokud se čte čtení z Sir 3,3-17)",holy_family,A(BC)
+"Svaté rodiny A(BC) (pokud se čte čtení z Sir 3,3-17)",,
+"Při svatbě",,
 "33. neděle v mezidobí A",ordinary_time_33_sunday,A
 "O svatých",,
-"Při svatbě",,
 "Sv. Zdislavy (30. května)",zdislava_of_lemberk,
 "Sv. Pia z Pietrelciny, kněze (23. září)",pius_of_pietrelcina_priest,
 "Sv. Hedviky, řeholnice (16. října)",16/10,
-"Svaté Rodiny B (pokud se čte čtení z Gn 15,1-6)",holy_family,B
-"Svaté Rodiny C (pokud se čte čtení z 1 Sam 1,20-28)",holy_family,C
+"Svaté rodiny B (pokud se čte čtení z Gn 15,1-6)",,
+"Svaté rodiny C (pokud se čte čtení z 1 Sam 1,20-28)",,
 "Pátý den v oktávu Narození Páně (29. prosince)",christmas_octave_day_5,
 "Šestý den v oktávu Narození Páně (30. prosince)",christmas_octave_day_6,
 "Sedmý den v oktávu Narození Páně (31. prosince)",christmas_octave_day_7,
@@ -352,7 +354,8 @@ occasion,id,cycle
 "18. neděle v mezidobí C",ordinary_time_18_sunday,C
 "23. neděle v mezidobí C",ordinary_time_23_sunday,C
 "19. neděle v mezidobí B",ordinary_time_19_sunday,B
-"Při křtu (v době velikonoční)",,
+"Při křtu dospělých (v době velikonoční)",,
+"Při křtu malých dětí",,
 "19. neděle v mezidobí C",ordinary_time_19_sunday,C
 "20. neděle v mezidobí B",ordinary_time_20_sunday,B
 "20. neděle v mezidobí C",ordinary_time_20_sunday,C
@@ -366,7 +369,6 @@ occasion,id,cycle
 "24. neděle v mezidobí C",ordinary_time_24_sunday,C
 "25. neděle v mezidobí A",ordinary_time_25_sunday,A
 "25. neděle v mezidobí B",ordinary_time_25_sunday,B
-"O učitelích Církve",,
 "25. neděle v mezidobí C",ordinary_time_25_sunday,C
 "26. neděle v mezidobí B",ordinary_time_26_sunday,B
 "27. neděle v mezidobí A",ordinary_time_27_sunday,A
@@ -462,11 +464,11 @@ occasion,id,cycle
 "Sv. Maxmiliána Marie Kolbeho, kněze a mučedníka (14. srpna)",maximilian_kolbe_priest,
 "Sv. Kornélia, papeže, a Cypriána, biskupa, mučedníků (17. září)",cornelius_i_pope_and_cyprian_of_carthage_bishop_martyrs,
 "Sv. Januária, biskupa a mučedníka (19. září)",januarius_i_of_benevento_bishop,
-"Sv. Ondřeje Kim Tae-gỏna, kněze, Pavla Chõng Ha-sanga a druhů, mučedníků (20. září)",andrew_apostle,
+"Sv. Ondřeje Kim Tae-gỏna, kněze, Pavla Chõng Ha-sanga a druhů, mučedníků (20. září)",andrew_kim_tae_gon_priest_paul_chong_ha_sang_and_companions_martyrs,
 "Sv. Kosmy a Damiána, mučedníků (26. září)",cosmas_of_cilicia_and_damian_of_cilicia_martyrs,
 "Sv. Dionýsia, biskupa, a druhů, mučedníků (9. října)",denis_of_paris_bishop_and_companions_martyrs,
 "Sv. Jana de Brébeuf a Izáka Joguese, kněží, a druhů, mučedníků (19. října)",john_de_brebeuf_isaac_jogues_priests_and_companions_martyrs,
-"Sv. Ondřeje Dũng Lạca, kněze, a druhů, mučedníků (24. listopadu)",andrew_apostle,
+"Sv. Ondřeje Dũng Lạca, kněze, a druhů, mučedníků (24. listopadu)",andrew_dung_lac_priest_and_companions_martyrs,
 "Sv. Jáchyma a Anny (26. července)",joachim_and_anne_parents_of_mary,
 "Proměnění Páně (6. srpna)",transfiguration,
 "Sv. Vavřince (10. srpna)",lawrence_of_rome_deacon,
@@ -538,6 +540,7 @@ occasion,id,cycle
 "Sv. Ireneje, biskupa a mučedníka (28. června)",irenaeus_of_lyon_bishop,
 "Sv. Lva Velikého, papeže a učitele Církve (10. listopadu)",leo_i_the_great_pope,
 "Sv. Jana od Kříže, kněze a učitele Církve (14. prosince)",john_of_the_cross_priest,
+"O učitelích Církve",,
 "Sv. Cyrila Jeruzalémského, biskupa a učitele Církve (18. března)",cyril_of_jerusalem_bishop,
 "Sv. Roberta Bellarmina, biskupa a učitele Církve (17. září)",robert_bellarmine_bishop,
 "Sv. Terezie od Ježíše, panny a učitelky Církve (15. října)",teresa_of_jesus_of_avila_virgin,
@@ -590,7 +593,6 @@ occasion,id,cycle
 "Při svěcení jáhnů",,
 "Při svěcení kněží",,
 "Při svatbě (v době velikonoční)",,
-"Při žehnání opata a abatyše",,
 "Při žehnání opata a abatyše (v době velikonoční)",,
 "Při svěcení oltáře (v době velikonoční)",,
 "Vzpomínka na všechny věrné zemřelé",all_souls,
@@ -621,8 +623,8 @@ occasion,id,cycle
 "Pondělí 34. týdne 2",ordinary_time_34_monday,2
 "Pátek 3. týdne 1",ordinary_time_3_friday,1
 "Sobota 3. týdne 1",ordinary_time_3_saturday,1
-"Čtvrtek 27. týdne 2",ordinary_time_27_thursday,2
 "Pondělí 29. týdne 1",ordinary_time_29_monday,1
+"Čtvrtek 27. týdne 2",ordinary_time_27_thursday,2
 "Pondělí 4. týdne 1",ordinary_time_4_monday,1
 "Úterý 4. týdne 1",ordinary_time_4_tuesday,1
 "Středa 4. týdne 1",ordinary_time_4_wednesday,1
@@ -829,6 +831,7 @@ occasion,id,cycle
 "Úterý 33. týdne 1",ordinary_time_33_tuesday,1
 "Pondělí 4. týdne 2",ordinary_time_4_monday,2
 "Středa 33. týdne 1",ordinary_time_33_wednesday,1
+"Pátek 33. týdne 1",ordinary_time_33_friday,1
 "Čtvrtek 4. týdne 2",ordinary_time_4_thursday,2
 "Sobota 33. týdne 1",ordinary_time_33_saturday,1
 "Úterý 34. týdne 1",ordinary_time_34_tuesday,1

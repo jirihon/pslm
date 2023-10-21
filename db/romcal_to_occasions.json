@@ -138,6 +138,9 @@
     "ordinary_time_10_sunday|C": [
         "10. neděle v mezidobí C"
     ],
+    "ordinary_time_13_sunday|B": [
+        "13. neděle v mezidobí B"
+    ],
     "advent_3_friday": [
         "Pátek po 3. neděli adventní"
     ],
@@ -179,15 +182,6 @@
         "Narození Páně, v noci",
         "Narození Páně, za svítání (v noci)",
         "Narození Páně, ve dne"
-    ],
-    "holy_family|A": [
-        "Svaté Rodiny A(BC) (pokud se čte čtení z Sir 3,3-17)"
-    ],
-    "holy_family|B": [
-        "Svaté Rodiny B (pokud se čte čtení z Gn 15,1-6)"
-    ],
-    "holy_family|C": [
-        "Svaté Rodiny C (pokud se čte čtení z 1 Sam 1,20-28)"
     ],
     "ordinary_time_33_sunday|A": [
         "33. neděle v mezidobí A"
@@ -1173,9 +1167,7 @@
         "Sv. Šimona a Judy (28. října)"
     ],
     "andrew_apostle": [
-        "Sv. Ondřeje (30. listopadu)",
-        "Sv. Ondřeje Kim Tae-gỏna, kněze, Pavla Chõng Ha-sanga a druhů, mučedníků (20. září)",
-        "Sv. Ondřeje Dũng Lạca, kněze, a druhů, mučedníků (24. listopadu)"
+        "Sv. Ondřeje (30. listopadu)"
     ],
     "matthias_apostle": [
         "Sv. Matěje (14. května)"
@@ -1287,6 +1279,9 @@
     "januarius_i_of_benevento_bishop": [
         "Sv. Januária, biskupa a mučedníka (19. září)"
     ],
+    "andrew_kim_tae_gon_priest_paul_chong_ha_sang_and_companions_martyrs": [
+        "Sv. Ondřeje Kim Tae-gỏna, kněze, Pavla Chõng Ha-sanga a druhů, mučedníků (20. září)"
+    ],
     "cosmas_of_cilicia_and_damian_of_cilicia_martyrs": [
         "Sv. Kosmy a Damiána, mučedníků (26. září)"
     ],
@@ -1295,6 +1290,9 @@
     ],
     "john_de_brebeuf_isaac_jogues_priests_and_companions_martyrs": [
         "Sv. Jana de Brébeuf a Izáka Joguese, kněží, a druhů, mučedníků (19. října)"
+    ],
+    "andrew_dung_lac_priest_and_companions_martyrs": [
+        "Sv. Ondřeje Dũng Lạca, kněze, a druhů, mučedníků (24. listopadu)"
     ],
     "joachim_and_anne_parents_of_mary": [
         "Sv. Jáchyma a Anny (26. července)"
@@ -1690,11 +1688,11 @@
     "ordinary_time_3_saturday|1": [
         "Sobota 3. týdne 1"
     ],
-    "ordinary_time_27_thursday|2": [
-        "Čtvrtek 27. týdne 2"
-    ],
     "ordinary_time_29_monday|1": [
         "Pondělí 29. týdne 1"
+    ],
+    "ordinary_time_27_thursday|2": [
+        "Čtvrtek 27. týdne 2"
     ],
     "ordinary_time_4_monday|1": [
         "Pondělí 4. týdne 1"
@@ -2313,6 +2311,9 @@
     ],
     "ordinary_time_33_wednesday|1": [
         "Středa 33. týdne 1"
+    ],
+    "ordinary_time_33_friday|1": [
+        "Pátek 33. týdne 1"
     ],
     "ordinary_time_4_thursday|2": [
         "Čtvrtek 4. týdne 2"

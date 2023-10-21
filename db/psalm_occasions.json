@@ -87,7 +87,8 @@
         "Pátek po 2. neděli adventní",
         "Čtvrtek po Popeleční středě",
         "Čtvrtek po 2. neděli postní",
-        "6. neděle v mezidobí C"
+        "6. neděle v mezidobí C",
+        "Při žehnání opata a abatyše"
     ],
     "OL21": [
         "3. neděle adventní A"
@@ -111,7 +112,8 @@
         "Pondělí po 4. neděli postní",
         "Zmrtvýchvstání Páně, vigilie (4. čtení)",
         "3. neděle velikonoční C",
-        "10. neděle v mezidobí C"
+        "10. neděle v mezidobí C",
+        "13. neděle v mezidobí B"
     ],
     "OL27": [
         "Pátek po 3. neděli adventní",
@@ -161,10 +163,11 @@
         "Narození Páně, ve dne"
     ],
     "OL41": [
-        "Svaté Rodiny A(BC) (pokud se čte čtení z Sir 3,3-17)"
+        "Svaté rodiny A(BC) (pokud se čte čtení z Sir 3,3-17)",
+        "Při svatbě"
     ],
     "OL42": [
-        "Svaté Rodiny A(BC) (pokud se čte čtení z Sir 3,3-17)",
+        "Svaté rodiny A(BC) (pokud se čte čtení z Sir 3,3-17)",
         "33. neděle v mezidobí A",
         "O svatých",
         "Při svatbě",
@@ -173,16 +176,16 @@
         "Sv. Hedviky, řeholnice (16. října)"
     ],
     "OL43": [
-        "Svaté Rodiny B (pokud se čte čtení z Gn 15,1-6)"
+        "Svaté rodiny B (pokud se čte čtení z Gn 15,1-6)"
     ],
     "OL44": [
-        "Svaté Rodiny B (pokud se čte čtení z Gn 15,1-6)"
+        "Svaté rodiny B (pokud se čte čtení z Gn 15,1-6)"
     ],
     "OL45": [
-        "Svaté Rodiny C (pokud se čte čtení z 1 Sam 1,20-28)"
+        "Svaté rodiny C (pokud se čte čtení z 1 Sam 1,20-28)"
     ],
     "OL46": [
-        "Svaté Rodiny C (pokud se čte čtení z 1 Sam 1,20-28)"
+        "Svaté rodiny C (pokud se čte čtení z 1 Sam 1,20-28)"
     ],
     "OL47": [
         "Pátý den v oktávu Narození Páně (29. prosince)"
@@ -411,11 +414,6 @@
         "4. neděle postní C"
     ],
     "OL99": [
-        "Úterý po 4. neděli postní",
-        "Posvěcení lateránské baziliky (9. listopadu)",
-        "Výročí posvěcení kostela"
-    ],
-    "OL99a": [
         "Úterý po 4. neděli postní",
         "Posvěcení lateránské baziliky (9. listopadu)",
         "Výročí posvěcení kostela"
@@ -877,12 +875,14 @@
     ],
     "OL226": [
         "19. neděle v mezidobí B",
-        "Při křtu (v době velikonoční)",
+        "Při křtu dospělých (v době velikonoční)",
+        "Při křtu malých dětí",
         "Při svatbě"
     ],
     "OL227": [
         "19. neděle v mezidobí B",
-        "Při křtu (v době velikonoční)",
+        "Při křtu dospělých (v době velikonoční)",
+        "Při křtu malých dětí",
         "Při svatbě"
     ],
     "OL228": [
@@ -918,8 +918,7 @@
         "25. neděle v mezidobí A"
     ],
     "OL238": [
-        "25. neděle v mezidobí B",
-        "O učitelích Církve"
+        "25. neděle v mezidobí B"
     ],
     "OL239": [
         "25. neděle v mezidobí C"
@@ -1338,7 +1337,8 @@
         "Při křtu dospělých"
     ],
     "OL316": [
-        "Při křtu (v době velikonoční)"
+        "Při křtu dospělých (v době velikonoční)",
+        "Při křtu malých dětí"
     ],
     "OL317": [
         "Při biřmování (i v době velikonoční)"
@@ -1418,8 +1418,7 @@
         "Za zemřelé \/ Při pohřbu"
     ],
     "OL342": [
-        "Za zemřelé \/ Při pohřbu",
-        "Při pohřbu pokřtěného dítěte (v době velikonoční)"
+        "Za zemřelé \/ Při pohřbu"
     ],
     "OL343": [
         "Za zemřelé \/ Při pohřbu (v době velikonoční)"
@@ -1427,6 +1426,9 @@
     "OL344": [
         "Při pohřbu pokřtěného dítěte - verze a)",
         "Při pohřbu dosud nepokřtěného dítěte - verze b)"
+    ],
+    "OL345": [
+        "O mučednících (i v době velikonoční)"
     ],
     "OL401": [
         "Pondělí 1. týdne 1"
@@ -1491,8 +1493,8 @@
     ],
     "OL416": [
         "Sobota 3. týdne 1",
-        "Čtvrtek 27. týdne 2",
-        "Pondělí 29. týdne 1"
+        "Pondělí 29. týdne 1",
+        "Čtvrtek 27. týdne 2"
     ],
     "OL417": [
         "Pondělí 4. týdne 1"
@@ -2003,6 +2005,7 @@
         "Středa 33. týdne 1"
     ],
     "OL568": [
+        "Pátek 33. týdne 1",
         "Čtvrtek 4. týdne 2"
     ],
     "OL569": [
