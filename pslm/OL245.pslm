@@ -9,8 +9,6 @@
 
 % Tento žalm má stejné texty veršů jako publikovaný OL621
 
-% Chyba: čárka místo tečky za 4
-
 m: \key es \major
 
 %% part: responsum
