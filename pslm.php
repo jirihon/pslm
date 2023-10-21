@@ -692,7 +692,7 @@ function pslm_text_to_lyrics($text) {
         $PSLM_SYLLABLE = new Syllable('cssk', ' -- ');
     }
     $htext = $PSLM_SYLLABLE->hyphenateText($text);
-
+    
     if ($PSLM_HYPH_EXCEPTIONS === null) {
         $hyph = file_get_contents(dirname(__FILE__) . '/db/hyphenation.txt');
         $hyph = preg_split("#\n+#", trim($hyph));
@@ -709,7 +709,6 @@ function pslm_text_to_lyrics($text) {
     $htext = preg_replace($PSLM_HYPH_EXCEPTIONS[0], $PSLM_HYPH_EXCEPTIONS[1], $htext);
     $repl = [
         '#\s{2,}#' => ' ', // normalize white-spaces to single space
-        '#([^\-])\-([^\-])#' => '\1 -- \2', // 
         '# -- ([bdďjlrř]) -- #ui' => '\1 -- ', // move some ambiguous consonants to the previous syllable if both options are possible
         '# -- ([cčfghkmnňpqsštťvwxzž]|st|md) -- #ui' => ' -- \1', // move other ambiguous consonants to the next syllable if both options are posible
         '# -- (sť|ls|ch|mž)\b#ui' => '\1', // move unsyllabic parts to the previous syllable
