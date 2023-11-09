@@ -710,7 +710,8 @@ function pslm_text_to_lyrics($text) {
     $repl = [
         '#\s{2,}#' => ' ', // normalize white-spaces to single space
         '# -- ([bdďjlrř]) -- #ui' => '\1 -- ', // move some ambiguous consonants to the previous syllable if both options are possible
-        '# -- ([cčfghkmnňpqsštťvwxzž]|st|md) -- #ui' => ' -- \1', // move other ambiguous consonants to the next syllable if both options are posible
+        '# -- ([cčfghkmnňpqsštťvwxzž]) -- #ui' => ' -- \1', // move other ambiguous consonants to the next syllable if both options are posible
+        '# -- (st|md) -- #ui' => ' -- \1', // move other ambiguous consonants to the next syllable if both options are posible
         '# -- (sť|ls|ch|mž)\b#ui' => '\1', // move unsyllabic parts to the previous syllable
         '#\b(js|lst) -- #ui' => '\1', // move unsyllabic parts to the next syllable
 
