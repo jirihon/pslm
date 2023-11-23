@@ -66,10 +66,10 @@ t: Chci tě oslavovat, Hospodine, neboť jsi mě vysvobodil.
 
 %% part: verse
 
-m: r8 d' dB e8 f a_ g g2 |
+m: r8 d' dB e8 f a_ g g4 |
 t: Slyš, Hospodine, a smiluj se nade mnou,
 
-m: e8 f8 g bes_ a a a4 r ||
+m: r8 e8 f8 g bes_ a a a4 r ||
 t: * pomoz mi, Hospodine!
 
 %% part: verse
