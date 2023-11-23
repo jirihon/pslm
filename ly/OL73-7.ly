@@ -329,7 +329,7 @@ Pán mě vy -- svo -- bo -- dil ze všech mých o -- bav.
 \set stanza = \responsum
 Pán mě vy -- svo -- bo -- dil ze všech mých o -- bav.
 \set stanza = "3."
-\left Po -- \squash hleď -- te "k ně" -- mu, ať se \unLeft \unSquash roz -- ve -- \markup \accent se -- lí -- \star te, \left va -- \squash še tvář se ne -- mu -- sí zar -- \unLeft \unSquash dí -- vat \markup \accent han -- bou.
+\left Po -- \squash hleď -- te "k ně" -- mu, ať se \unLeft \unSquash roz -- ve -- \markup \accent se -- lí -- \star te, \left va -- \squash še tvář se ne -- mu -- sí za -- \unLeft \unSquash rdí -- vat \markup \accent han -- bou.
 \set stanza = "4."
 Hle, \left u -- \squash bo -- žák za -- vo -- lal, a Ho -- \unLeft \unSquash spo -- din \markup \accent sly -- \star šel, \left po -- \squash mo -- hl mu ve všech \unLeft \unSquash je -- ho \markup \accent stra -- stech.
 \set stanza = \responsum

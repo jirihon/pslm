@@ -336,7 +336,7 @@ Hle, u -- bo -- žák za -- vo -- lal, a Ho -- spo -- din sly -- šel.
 \set stanza = \responsum
 Hle, u -- bo -- žák za -- vo -- lal, a Ho -- spo -- din sly -- šel.
 \set stanza = "5."
-\left Po -- \squash hleď -- te "k ně" -- mu, ať se \unLeft \unSquash roz -- ve -- \markup \accent se -- lí -- \star te, va -- \left še \squash tvář se ne -- mu -- sí zar -- \unLeft \unSquash dí -- vat \markup \accent han -- bou.
+\left Po -- \squash hleď -- te "k ně" -- mu, ať se \unLeft \unSquash roz -- ve -- \markup \accent se -- lí -- \star te, va -- \left še \squash tvář se ne -- mu -- sí za -- \unLeft \unSquash rdí -- vat \markup \accent han -- bou.
 \set stanza = "6."
 Hle, \left u -- \squash bo -- žák za -- vo -- lal, a Ho -- \unLeft \unSquash spo -- din \markup \accent sly -- \star šel, po -- \left mo -- \squash hl mu ve všech \unLeft \unSquash je -- ho \markup \accent stra -- stech.
 \set stanza = \responsum
