@@ -317,15 +317,15 @@ optionalBreath = #(define-music-function (syllable)(string?)
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Zbož -- ní uz -- ří tvou tvář, Ho -- spo -- di -- ne.
 \set stanza = "1."
-\left Ho -- \squash spo -- din síd -- lí ve svém po -- \unLeft \unSquash svát -- ném \markup \accent chrá -- \star mě, \left na \squash ne -- be -- sích má Ho -- \unLeft \unSquash spo -- din, \markup \accent svůj trůn,
+\left Ho -- \squash spo -- din sí -- dlí ve svém po -- \unLeft \unSquash svát -- ném \markup \accent chrá -- \star mě, \left na \squash ne -- be -- sích má Ho -- \unLeft \unSquash spo -- din, \markup \accent svůj trůn,
 \set stanza = "2."
 \left je -- \squash ho \unLeft \unSquash o -- či \markup \accent po -- zo -- ru -- \star jí, \left smr -- \squash tel -- ní -- ky \unLeft \unSquash zkou -- má \markup \accent je -- ho zrak.
 \set stanza = \responsum
 Zbož -- ní uz -- ří tvou tvář, Ho -- spo -- di -- ne.
 \set stanza = "3."
-\left Ho -- \squash spo -- din zkou -- ší spra -- ved -- li -- vé -- \unLeft \unSquash ho i \markup \accent bez -- bož -- ní -- \star ka, \left mi -- \squash lu -- je -- li kdo bez -- prá -- ví, to -- ho \unLeft \unSquash "z du" -- še \markup \accent ne -- ná -- vi -- dí.
+\left Ho -- \squash spo -- din zkou -- ší spra -- ve -- dli -- vé -- \unLeft \unSquash ho i \markup \accent bez -- bož -- ní -- \star ka, \left mi -- \squash lu -- je -- li kdo bez -- prá -- ví, to -- ho \unLeft \unSquash "z du" -- še \markup \accent ne -- ná -- vi -- dí.
 \set stanza = "4."
-Vždyť \left Ho -- \squash spo -- din je spra -- ved -- li -- \breath "vý," má rád spra -- ved -- \unLeft \unSquash li -- vé \markup \accent skut -- \star ky, \left zbož -- \squash ní \unLeft \unSquash uz -- ří \markup \accent je -- ho tvář.
+Vždyť \left Ho -- \squash spo -- din je spra -- ve -- dli -- \breath "vý," má rád spra -- ve -- \unLeft \unSquash dli -- vé \markup \accent skut -- \star ky, \left zbož -- \squash ní \unLeft \unSquash uz -- ří \markup \accent je -- ho tvář.
 \set stanza = \responsum
 Zbož -- ní uz -- ří tvou tvář, Ho -- spo -- di -- ne. } }
     >>

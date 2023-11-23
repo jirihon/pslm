@@ -327,7 +327,7 @@ pro -- buď svou \markup \accent sí -- \star lu a přijď nás \markup \accent 
 \set stanza = \responsum
 Bo -- že, ob -- nov nás, roz -- ja -- sni svou tvář, a bu -- de -- me spa -- se -- ni.
 \set stanza = "4."
-Bo -- \left že \squash zá -- stu -- pů, jak dlou -- ho bu -- deš \unLeft \unSquash dý -- mat \markup \accent hně -- \star vem, když se mod -- lí \markup \accent tvůj lid?
+Bo -- \left že \squash zá -- stu -- pů, jak dlou -- ho bu -- deš \unLeft \unSquash dý -- mat \markup \accent hně -- \star vem, když se mo -- dlí \markup \accent tvůj lid?
 \set stanza = "5."
 Na -- \left sy -- \squash tils jej \unLeft \unSquash chle -- bem \markup \accent sl -- za -- \star vým a \left sl -- \squash za -- mi jsi ho na -- \unLeft \unSquash po -- jil \markup \accent vr -- cho -- va -- tě.
 \set stanza = "6."

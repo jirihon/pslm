@@ -329,7 +329,7 @@ Vzpo -- mí -- ná -- me, Bo -- že, na tvé mi -- lo -- sr -- den -- ství ve t
 \set stanza = \responsum
 Vzpo -- mí -- ná -- me, Bo -- že, na tvé mi -- lo -- sr -- den -- ství ve tvém chrá -- mě.
 \set stanza = "3."
-\left Ho -- \squash ra Si -- ón, to ta -- jem -- né \unLeft \unSquash síd -- lo \markup \accent Bo -- \star ží, je \left mě -- \squash stem ve -- li -- \unLeft \unSquash ké -- ho \markup \accent krá -- le.
+\left Ho -- \squash ra Si -- ón, to ta -- jem -- né \unLeft \unSquash sí -- dlo \markup \accent Bo -- \star ží, je \left mě -- \squash stem ve -- li -- \unLeft \unSquash ké -- ho \markup \accent krá -- le.
 \set stanza = "4."
 \left Bůh \squash se u -- ká -- zal \unLeft \unSquash "v je" -- jích \markup \accent pev -- no -- \star stech \left ja -- \squash ko \unLeft \unSquash ji -- stá \markup \accent o -- chra -- na.
 \set stanza = \responsum

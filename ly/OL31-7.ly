@@ -322,7 +322,7 @@ optionalBreath = #(define-music-function (syllable)(string?)
 \set stanza = "1."
 \left Bo -- \squash že, svěř krá -- \unLeft \unSquash li svou \markup \accent pra -- vo -- \star moc, svou \left spra -- \squash ve -- dl -- nost krá -- lov -- \unLeft \unSquash ské -- mu \markup \accent sy -- nu.
 \set stanza = "2."
-Ať \left vlád -- \squash ne tvé -- mu \unLeft \unSquash li -- du \markup \accent spra -- ved -- li -- \star vě, \left ne -- \squash stran -- \unLeft \unSquash ně tvým \markup \accent u -- bo -- hým.
+Ať \left vlád -- \squash ne tvé -- mu \unLeft \unSquash li -- du \markup \accent spra -- ve -- dli -- \star vě, \left ne -- \squash stran -- \unLeft \unSquash ně tvým \markup \accent u -- bo -- hým.
 \set stanza = \responsum
 "V je" -- ho dnech roz -- kve -- te spra -- ve -- dl -- nost a hoj -- nost po -- ko -- je na vě -- ky.
 \set stanza = "3."

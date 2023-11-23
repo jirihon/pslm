@@ -335,11 +335,11 @@ Dě -- kuj -- te Ho -- spo -- di -- nu, ne -- boť je dob -- rý, je -- ho mi --
 \set stanza = "5."
 \left Ho -- \squash spo -- din je má sí -- la a \unLeft \unSquash \markup \accent sta -- teč -- \star nost, \left stal \squash se mou \unLeft \unSquash \markup \accent spá -- sou.
 \set stanza = "6."
-\left Já -- \squash sot \unLeft \unSquash \markup \accent ze spá -- \star sy \left zní \squash ve sta -- nech \unLeft \unSquash \markup \accent spra -- ved -- li -- vých.
+\left Já -- \squash sot \unLeft \unSquash \markup \accent ze spá -- \star sy \left zní \squash ve sta -- nech \unLeft \unSquash \markup \accent spra -- ve -- dli -- vých.
 \set stanza = \responsum
 Dě -- kuj -- te Ho -- spo -- di -- nu, ne -- boť je dob -- rý, je -- ho mi -- lo -- sr -- den -- ství tr -- vá na vě -- ky.
 \set stanza = "7."
-\left Ká -- \squash men, kte -- rý sta -- vi -- te -- lé \unLeft \unSquash \markup \accent za -- vrh -- \star li, \left stal \squash se kvád -- rem \unLeft \unSquash \markup \accent ná -- rož -- ním.
+\left Ká -- \squash men, kte -- rý sta -- vi -- te -- lé \unLeft \unSquash \markup \accent za -- vrh -- \star li, \left stal \squash se kvá -- drem \unLeft \unSquash \markup \accent ná -- rož -- ním.
 \set stanza = "8."
 \left Ho -- \squash spo -- di -- no -- vým ří -- ze -- ním se tak \unLeft \unSquash \markup \accent sta -- \star lo, \left je \squash to po -- di -- vu -- hod -- né "v na" -- šich \unLeft \unSquash \markup \accent o -- čích.
 \set stanza = "9."

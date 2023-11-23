@@ -332,7 +332,7 @@ Bla -- ze těm, kdo pře -- bý -- va -- jí "v tvém" do -- mě, Bo -- že.
 \set stanza = \responsum
 Bla -- ze těm, kdo pře -- bý -- va -- jí "v tvém" do -- mě, Bo -- že.
 \set stanza = "5."
-\left Ho -- \squash spo -- di -- ne, Bo -- že zá -- stu -- pů, slyš \unLeft \unSquash mo -- ji \markup \accent mod -- lit -- \star bu, \left po -- \squash přej slu -- chu, \unLeft \unSquash Bo -- že \markup \accent Ja -- ku -- bův!
+\left Ho -- \squash spo -- di -- ne, Bo -- že zá -- stu -- pů, slyš \unLeft \unSquash mo -- ji \markup \accent mo -- dlit -- \star bu, \left po -- \squash přej slu -- chu, \unLeft \unSquash Bo -- že \markup \accent Ja -- ku -- bův!
 \set stanza = "6."
 \left Ští -- \squash te náš, \unLeft \unSquash Bo -- že, \markup \accent po -- \star hleď, \left po -- \squash patř na tvář své -- ho \unLeft \unSquash po -- ma -- \markup \accent za -- né -- ho!
 \set stanza = \responsum

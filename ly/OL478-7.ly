@@ -329,7 +329,7 @@ Hle -- dej -- te, u -- bo -- žá -- ci, Ho -- spo -- di -- na a po -- o -- kře
 \set stanza = \responsum
 Hle -- dej -- te, u -- bo -- žá -- ci, Ho -- spo -- di -- na a po -- o -- křej -- te "v srd" -- ci.
 \set stanza = "3."
-\left Já \squash se však, Ho -- spo -- di -- ne, o -- bra -- cím mod -- \unLeft \unSquash lit -- bou \markup \accent "k to" -- \star bě \left "v čas" \squash mi -- \unLeft \unSquash lo -- sti, \markup \accent Bo -- že!
+\left Já \squash se však, Ho -- spo -- di -- ne, o -- bra -- cím mo -- \unLeft \unSquash dlit -- bou \markup \accent "k to" -- \star bě \left "v čas" \squash mi -- \unLeft \unSquash lo -- sti, \markup \accent Bo -- že!
 \set stanza = "4."
 \left Vy -- \squash slyš mě ve své ve -- \unLeft \unSquash li -- ké \markup \accent lá -- \star sce, věr -- ně mi \markup \accent po -- moz!
 \set stanza = \responsum

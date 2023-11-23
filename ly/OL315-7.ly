@@ -329,7 +329,7 @@ Stvoř mi či -- sté srd -- ce, Bo -- že!
 \set stanza = \responsum
 Stvoř mi či -- sté srd -- ce, Bo -- že!
 \set stanza = "3."
-Hle, \left lí -- \squash bí se ti u -- \unLeft \unSquash přím -- né \markup \accent srd -- \star ce, \left ve \squash skry -- tu mě \unLeft \unSquash u -- číš \markup \accent moud -- ro -- sti!
+Hle, \left lí -- \squash bí se ti u -- \unLeft \unSquash přím -- né \markup \accent srd -- \star ce, \left ve \squash skry -- tu mě \unLeft \unSquash u -- číš \markup \accent mou -- dro -- sti!
 \set stanza = "4."
 \left Po -- \squash krop mě y -- zo -- pem, a \unLeft \unSquash bu -- du \markup \accent či -- \star stý, \left u -- \squash myj mě, a bu -- du \unLeft \unSquash bě -- lej -- \markup \accent ší než sníh.
 \set stanza = \responsum

@@ -318,25 +318,25 @@ optionalBreath = #(define-music-function (syllable)(string?)
 \relative { c''\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" c8[( bes)] bes4 r \cadenzaMeasure \bar "|" as\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" g8[( f)] f4 r \cadenzaMeasure \bar "||" \break }
 \relative { g'4 es as8 as as \bar "" g4. f8 \bar "" g as bes4 bes r \cadenzaMeasure \bar "||" \break } \bar "|." }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
-Ús -- ta spra -- ved -- li -- vé -- ho mlu -- ví moud -- ře.
+Ús -- ta spra -- ve -- dli -- vé -- ho mlu -- ví mou -- dře.
 \set stanza = "1."
 \left Dou -- \squash fej "v Ho" -- spo -- di -- na a čiň \unLeft \unSquash \markup \accent dob -- \star ro, pak \left bu -- \squash deš pře -- bý -- vat "v ze" -- mi a tě -- šit se \unLeft \unSquash \markup \accent kli -- du.
 \set stanza = "2."
 \left Ra -- \squash duj se \unLeft \unSquash \markup \accent "v Ho" -- spo -- di -- \star nu, a \left dá \squash ti, po čem tou -- ží tvé \unLeft \unSquash \markup \accent srd -- ce.
 \set stanza = \responsum
-Ús -- ta spra -- ved -- li -- vé -- ho mlu -- ví moud -- ře.
+Ús -- ta spra -- ve -- dli -- vé -- ho mlu -- ví mou -- dře.
 \set stanza = "3."
 \left Ho -- \squash spo -- din pe -- ču -- je o ži -- vot \unLeft \unSquash \markup \accent bez -- ú -- hon -- \star ných, \left dě -- \squash dic -- tví je -- jich pře -- tr -- vá \unLeft \unSquash \markup \accent vě -- ky.
 \set stanza = "4."
 \left Ho -- \squash spo -- din dá -- vá kro -- kům člo -- vě -- ka \unLeft \unSquash \markup \accent sí -- \star lu, má \left za -- \squash lí -- be -- ní "v je" -- ho ži -- vot -- ní \unLeft \unSquash \markup \accent ce -- stě.
 \set stanza = \responsum
-Ús -- ta spra -- ved -- li -- vé -- ho mlu -- ví moud -- ře.
+Ús -- ta spra -- ve -- dli -- vé -- ho mlu -- ví mou -- dře.
 \set stanza = "5."
 \left Chraň \squash se zlé -- ho a čiň \unLeft \unSquash \markup \accent dob -- \star ré, a \left pře -- \squash ži -- ješ \unLeft \unSquash \markup \accent vě -- ky.
 \set stanza = "6."
-\left Spra -- \squash ved -- li -- ví bu -- dou vlast -- nit \unLeft \unSquash \markup \accent ze -- \star mi, \left bu -- \squash dou ji o -- bý -- vat \unLeft \unSquash \markup \accent věč -- ně.
+\left Spra -- \squash ve -- dli -- ví bu -- dou vlast -- nit \unLeft \unSquash \markup \accent ze -- \star mi, \left bu -- \squash dou ji o -- bý -- vat \unLeft \unSquash \markup \accent věč -- ně.
 \set stanza = \responsum
-Ús -- ta spra -- ved -- li -- vé -- ho mlu -- ví moud -- ře. } }
+Ús -- ta spra -- ve -- dli -- vé -- ho mlu -- ví mou -- dře. } }
     >>
     \layout {}
 }

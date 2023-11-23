@@ -337,7 +337,7 @@ Dnes se nám na -- ro -- dil Spa -- si -- tel, Kri -- stus Pán.
 \set stanza = "5."
 Před Ho -- \left spo -- \squash di -- \unLeft \unSquash nem, že \markup \accent při -- chá -- \star zí, že \left při -- \squash chá -- zí \unLeft \unSquash ří -- dit \markup \accent ze -- mi.
 \set stanza = "6."
-Bu -- de ří -- dit svět \markup \accent spra -- ved -- li -- \star vě, \left ná -- \squash ro -- dy bu -- de spra -- \unLeft \unSquash vo -- vat \markup \accent věr -- ně.
+Bu -- de ří -- dit svět \markup \accent spra -- ve -- dli -- \star vě, \left ná -- \squash ro -- dy bu -- de spra -- \unLeft \unSquash vo -- vat \markup \accent věr -- ně.
 \set stanza = \responsum
 Dnes se nám na -- ro -- dil Spa -- si -- tel, Kri -- stus Pán. } }
     >>

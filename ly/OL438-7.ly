@@ -334,7 +334,7 @@ Bla -- ze to -- mu, kdo svou na -- dě -- ji vlo -- žil do Ho -- spo -- di -- n
 \set stanza = "5."
 \left Ji -- \squash nak je to -- mu "s bez" -- bož -- ný -- mi, \unLeft \unSquash zce -- la \markup \accent ji -- \star nak: jsou \left ja -- \squash ko ple -- va roz -- \unLeft \unSquash vá -- tá \markup \accent vě -- trem,
 \set stanza = "6."
-vždyť \left Ho -- \squash spo -- din dbá o \unLeft \unSquash ce -- stu \markup \accent spra -- ved -- li -- \star vých, \left a -- \squash le ce -- sta bez -- bož -- ných \unLeft \unSquash skon -- čí \markup \accent zá -- hu -- bou.
+vždyť \left Ho -- \squash spo -- din dbá o \unLeft \unSquash ce -- stu \markup \accent spra -- ve -- dli -- \star vých, \left a -- \squash le ce -- sta bez -- bož -- ných \unLeft \unSquash skon -- čí \markup \accent zá -- hu -- bou.
 \set stanza = \responsum
 Bla -- ze to -- mu, kdo svou na -- dě -- ji vlo -- žil do Ho -- spo -- di -- na. } }
     >>

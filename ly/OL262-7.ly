@@ -332,7 +332,7 @@ Pa -- ne, dej zdar prá -- ci na -- šich ru -- kou!
 \set stanza = \responsum
 Pa -- ne, dej zdar prá -- ci na -- šich ru -- kou!
 \set stanza = "4."
-\left Na -- \squash uč nás po -- čí -- tat \unLeft \unSquash \markup \accent na -- še \star dny, ať \left doj -- \squash de -- me "k moud" -- ro -- sti \unLeft \unSquash \markup \accent srd -- ce.
+\left Na -- \squash uč nás po -- čí -- tat \unLeft \unSquash \markup \accent na -- še \star dny, ať \left doj -- \squash de -- me "k mou" -- dro -- sti \unLeft \unSquash \markup \accent srd -- ce.
 \set stanza = "5."
 \left O -- \squash brať se, Ho -- spo -- di -- \optionalBreath ne, jak dlou -- ho je -- ště bu -- deš \unLeft \unSquash \markup \accent če -- \star kat? \left Sli -- \squash tuj se nad svý -- mi \unLeft \unSquash \markup \accent slu -- žeb -- ní -- ky!
 \set stanza = \responsum

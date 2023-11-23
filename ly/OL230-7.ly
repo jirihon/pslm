@@ -337,7 +337,7 @@ Ho -- spo -- di -- ne, na po -- moc mi po -- spěš!
 \set stanza = "5."
 Já \left jsem \squash jen chu -- \unLeft \unSquash dák a \markup \accent u -- bo -- \star žák, \left a -- \squash le Pán se \unLeft \unSquash o mě \markup \accent sta -- rá.
 \set stanza = "6."
-Tys \left můj \squash po -- moc -- \unLeft \unSquash ník, můj \markup \accent za -- chrán -- \star ce: \left ne -- \squash prod -- lé -- \unLeft \unSquash vej, můj \markup \accent Bo -- že!
+Tys \left můj \squash po -- moc -- \unLeft \unSquash ník, můj \markup \accent za -- chrán -- \star ce: \left ne -- \squash pro -- dlé -- \unLeft \unSquash vej, můj \markup \accent Bo -- že!
 \set stanza = \responsum
 Ho -- spo -- di -- ne, na po -- moc mi po -- spěš! } }
     >>

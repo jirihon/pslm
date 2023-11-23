@@ -340,7 +340,7 @@ Vždyť \left ni -- \squash kdo sám se -- be \unLeft \unSquash \markup \accent 
 \set stanza = \responsum
 Bla -- ho -- sla -- ve -- ní chu -- dí "v du" -- chu, ne -- boť je -- jich je krá -- lov -- ství ne -- be -- ské.
 \set stanza = "7."
-\left Ne -- \squash boť u -- vi -- dí, že u -- mí -- ra -- jí moud -- \breath "ří," že stej -- ně hy -- ne po -- še -- ti -- lec i \unLeft \unSquash \markup \accent hlu -- \star pák a \left za -- \squash ne -- chá -- va -- jí své bo -- hat -- ství \unLeft \unSquash \markup \accent ji -- ným.
+\left Ne -- \squash boť u -- vi -- dí, že u -- mí -- ra -- jí mou -- \breath "dří," že stej -- ně hy -- ne po -- še -- ti -- lec i \unLeft \unSquash \markup \accent hlu -- \star pák a \left za -- \squash ne -- chá -- va -- jí své bo -- hat -- ství \unLeft \unSquash \markup \accent ji -- ným.
 \set stanza = \responsum
 Bla -- ho -- sla -- ve -- ní chu -- dí "v du" -- chu, ne -- boť je -- jich je krá -- lov -- ství ne -- be -- ské. } }
     >>

@@ -323,15 +323,15 @@ optionalBreath = #(define-music-function (syllable)(string?)
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Ne -- be -- ský po -- krm dal jim Ho -- spo -- din.
 \set stanza = "1."
-\left Po -- \squash kou -- še -- li Bo -- ha ve svém \unLeft \unSquash \markup \accent srd -- \star ci, když \left žá -- \squash da -- li po -- krm pod -- le své \unLeft \unSquash \markup \accent chout -- ky.
+\left Po -- \squash kou -- še -- li Bo -- ha ve svém \unLeft \unSquash \markup \accent srd -- \star ci, když \left žá -- \squash da -- li po -- krm po -- dle své \unLeft \unSquash \markup \accent chout -- ky.
 \set stanza = "2."
-\left Po -- \squash hrd -- li -- vě mlu -- vi -- li pro -- ti \unLeft \unSquash \markup \accent Bo -- \star hu, \left ře -- \squash kli: „Do -- ká -- že Bůh pro -- střít stůl zde \unLeft \unSquash \markup \accent na pou -- šti?“
+\left Po -- \squash hr -- dli -- vě mlu -- vi -- li pro -- ti \unLeft \unSquash \markup \accent Bo -- \star hu, \left ře -- \squash kli: „Do -- ká -- že Bůh pro -- střít stůl zde \unLeft \unSquash \markup \accent na pou -- šti?“
 \set stanza = \responsum
 Ne -- be -- ský po -- krm dal jim Ho -- spo -- din.
 \set stanza = "3."
 \left Po -- \squash ru -- čil te -- dy mra -- kům \unLeft \unSquash \markup \accent na -- ho -- \star ře a \left o -- \squash te -- vřel brá -- ny \unLeft \unSquash \markup \accent ne -- bes,
 \set stanza = "4."
-\left se -- \squash slal na ně déšť ma -- ny, a -- by se \unLeft \unSquash \markup \accent na -- jed -- \star li, a \left dal \squash jim ne -- be -- ský \unLeft \unSquash \markup \accent po -- krm.
+\left se -- \squash slal na ně déšť ma -- ny, a -- by se \unLeft \unSquash \markup \accent na -- je -- \star dli, a \left dal \squash jim ne -- be -- ský \unLeft \unSquash \markup \accent po -- krm.
 \set stanza = \responsum
 Ne -- be -- ský po -- krm dal jim Ho -- spo -- din.
 \set stanza = "5."
@@ -343,7 +343,7 @@ Ne -- be -- ský po -- krm dal jim Ho -- spo -- din.
 \set stanza = "7."
 \left Jak \squash by to prach byl, se -- slal na ně déšť \unLeft \unSquash \markup \accent ma -- \star sa, \left jak \squash by to byl moř -- ský pí -- sek, dal jim per -- na -- té \unLeft \unSquash \markup \accent ptá -- ky.
 \set stanza = "8."
-\left Pad -- \squash li do je -- jich \unLeft \unSquash \markup \accent tá -- bo -- \star ra, \left ko -- \squash lem je -- jich \unLeft \unSquash \markup \accent sta -- nů.
+\left Pa -- \squash dli do je -- jich \unLeft \unSquash \markup \accent tá -- bo -- \star ra, \left ko -- \squash lem je -- jich \unLeft \unSquash \markup \accent sta -- nů.
 \set stanza = \responsum
 Ne -- be -- ský po -- krm dal jim Ho -- spo -- din. } }
     >>

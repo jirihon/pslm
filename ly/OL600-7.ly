@@ -326,9 +326,9 @@ Já \left jsem \squash Ho -- \unLeft \unSquash spo -- din, \markup \accent tvůj
 \set stanza = \responsum
 Ple -- sej -- te Bo -- hu, kte -- rý nám po -- má -- há.
 \set stanza = "3."
-A -- \left le \squash můj ná -- rod \unLeft \unSquash ned -- bal \markup \accent na můj \star hlas, Iz -- ra -- el mě \markup \accent ne -- po -- slou -- chal.
+A -- \left le \squash můj ná -- rod \unLeft \unSquash ne -- dbal \markup \accent na můj \star hlas, Iz -- ra -- el mě \markup \accent ne -- po -- slou -- chal.
 \set stanza = "4."
-Ne -- \left chal \squash jsem je te -- dy "v za" -- tvr -- ze -- lo -- sti \unLeft \unSquash je -- jich \markup \accent srd -- \star ce, ať \left si \squash ži -- jí pod -- \unLeft \unSquash le svých \markup \accent ná -- pa -- dů!
+Ne -- \left chal \squash jsem je te -- dy "v za" -- tvr -- ze -- lo -- sti \unLeft \unSquash je -- jich \markup \accent srd -- \star ce, ať \left si \squash ži -- jí po -- \unLeft \unSquash dle svých \markup \accent ná -- pa -- dů!
 \set stanza = \responsum
 Ple -- sej -- te Bo -- hu, kte -- rý nám po -- má -- há.
 \set stanza = "5."

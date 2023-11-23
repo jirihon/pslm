@@ -323,7 +323,7 @@ Hle, při -- chá -- zím, Pa -- ne, spl -- nit tvou vů -- li.
 \set stanza = "1."
 \left Pev -- \squash ně jsem \unLeft \unSquash dou -- fal \markup \accent "v Ho" -- spo -- di -- \star na, on \left se \squash ke mně sklo -- nil a vy -- sly -- \unLeft \unSquash šel mé \markup \accent vo -- lá -- ní.
 \set stanza = "2."
-\left Bla -- \squash ze to -- mu, kdo svou na -- dě -- ji \unLeft \unSquash vlo -- žil \markup \accent "v Ho" -- spo -- di -- \star na, kdo \left nic \squash ne -- má "s mod" -- lá -- \optionalBreath ři, "s tě" -- mi, kdo se u -- chy -- \unLeft \unSquash lu -- jí \markup \accent ke lži.
+\left Bla -- \squash ze to -- mu, kdo svou na -- dě -- ji \unLeft \unSquash vlo -- žil \markup \accent "v Ho" -- spo -- di -- \star na, kdo \left nic \squash ne -- má "s mo" -- dlá -- \optionalBreath ři, "s tě" -- mi, kdo se u -- chy -- \unLeft \unSquash lu -- jí \markup \accent ke lži.
 \set stanza = \responsum
 Hle, při -- chá -- zím, Pa -- ne, spl -- nit tvou vů -- li.
 \set stanza = "3."

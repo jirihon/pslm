@@ -322,13 +322,13 @@ Bu -- dou se ti, Ho -- spo -- di -- ne, kla -- nět všech -- ny ná -- ro -- dy
 \set stanza = "1."
 \left Bo -- \squash že, svěř krá -- \unLeft \unSquash li svou \markup \accent pra -- vo -- \star moc, svou \left spra -- \squash ve -- dl -- nost krá -- lov -- \unLeft \unSquash ské -- mu \markup \accent sy -- nu.
 \set stanza = "2."
-Ať \left vlád -- \squash ne tvé -- mu \unLeft \unSquash li -- du \markup \accent spra -- ved -- li -- \star vě, ne -- stran -- ně tvým \markup \accent u -- bo -- hým.
+Ať \left vlád -- \squash ne tvé -- mu \unLeft \unSquash li -- du \markup \accent spra -- ve -- dli -- \star vě, ne -- stran -- ně tvým \markup \accent u -- bo -- hým.
 \set stanza = \responsum
 Bu -- dou se ti, Ho -- spo -- di -- ne, kla -- nět všech -- ny ná -- ro -- dy.
 \set stanza = "3."
 \left Vy -- \squash ma -- ní je "z křiv" -- \unLeft \unSquash dy a \markup \accent ná -- si -- \star lí, ne -- \left boť \squash je -- jich krev je dra -- há \unLeft \unSquash "v je" -- ho \markup \accent o -- čích.
 \set stanza = "4."
-\left Stá -- \squash le se bu -- dou za \unLeft \unSquash ně -- ho \markup \accent mod -- \star lit, u -- \left sta -- \squash vič -- ně mu \unLeft \unSquash bu -- dou \markup \accent žeh -- nat.
+\left Stá -- \squash le se bu -- dou za \unLeft \unSquash ně -- ho \markup \accent mo -- \star dlit, u -- \left sta -- \squash vič -- ně mu \unLeft \unSquash bu -- dou \markup \accent žeh -- nat.
 \set stanza = \responsum
 Bu -- dou se ti, Ho -- spo -- di -- ne, kla -- nět všech -- ny ná -- ro -- dy.
 \set stanza = "5."

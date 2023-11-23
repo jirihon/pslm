@@ -326,7 +326,7 @@ Bla -- ze li -- du, kte -- rý si Ho -- spo -- din vy -- vo -- lil za svůj ma -
 \set stanza = \responsum
 Bla -- ze li -- du, kte -- rý si Ho -- spo -- din vy -- vo -- lil za svůj ma -- je -- tek.
 \set stanza = "3."
-\left "Z mí" -- \squash sta, kde \unLeft \unSquash síd -- lí, \markup \accent dí -- vá \star se \left na \squash všech -- ny o -- by -- va -- \unLeft \unSquash te -- le \markup \accent ze -- mě.
+\left "Z mí" -- \squash sta, kde \unLeft \unSquash sí -- dlí, \markup \accent dí -- vá \star se \left na \squash všech -- ny o -- by -- va -- \unLeft \unSquash te -- le \markup \accent ze -- mě.
 \set stanza = "4."
 \left Kaž -- \squash dé -- mu "z nich" uh -- \unLeft \unSquash ně -- tl \markup \accent srd -- \star ce, \left u -- \squash va -- žu -- je o všech \unLeft \unSquash je -- jich \markup \accent skut -- cích.
 \set stanza = \responsum

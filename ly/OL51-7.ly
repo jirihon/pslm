@@ -325,7 +325,7 @@ Bo -- že, buď mi -- lo -- stiv a žeh -- nej nám!
 \set stanza = \responsum
 Bo -- že, buď mi -- lo -- stiv a žeh -- nej nám!
 \set stanza = "3."
-\left Nechť \squash se li -- dé ra -- du -- \unLeft \unSquash jí a \markup \accent já -- sa -- \star jí, že \left sou -- \squash díš ná -- ro -- dy spra -- ved -- li -- \breath "vě" a li -- di na \unLeft \unSquash ze -- mi \markup \accent ří -- díš.
+\left Nechť \squash se li -- dé ra -- du -- \unLeft \unSquash jí a \markup \accent já -- sa -- \star jí, že \left sou -- \squash díš ná -- ro -- dy spra -- ve -- dli -- \breath "vě" a li -- di na \unLeft \unSquash ze -- mi \markup \accent ří -- díš.
 \set stanza = \responsum
 Bo -- že, buď mi -- lo -- stiv a žeh -- nej nám!
 \set stanza = "4."

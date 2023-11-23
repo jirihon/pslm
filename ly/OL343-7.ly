@@ -321,31 +321,31 @@ optionalBreath = #(define-music-function (syllable)(string?)
 \relative { a'\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes g8 a \bar "" b g g4 r \cadenzaMeasure \bar "|" f\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes e8 f \bar "" g[( e)] e4 r \cadenzaMeasure \bar "||" \break }
 \relative { e'8 e d c \bar "" d4 e \bar "" f8 d d4 \bar "" r8 e f f4 f8 \bar "" e4 d \bar "" e g \bar "" a8 a a2 \cadenzaMeasure \bar "||" \break } \bar "|." }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
-Ho -- spo -- di -- ne, slyš mou mod -- lit -- bu a vo -- lá -- ní mé ať "k to" -- bě pro -- nik -- ne!
+Ho -- spo -- di -- ne, slyš mou mo -- dlit -- bu a vo -- lá -- ní mé ať "k to" -- bě pro -- nik -- ne!
 \set stanza = "1."
-\left Ho -- \squash spo -- di -- ne, slyš \unLeft \unSquash mo -- ji \markup \accent mod -- lit -- \star bu, \left pro \squash svou věr -- nost po -- přej slu -- chu mé ú -- pěn -- li -- vé pro -- \breath "sbě," vy -- slyš mě \unLeft \unSquash pro svou \markup \accent spra -- ve -- dl -- nost.
+\left Ho -- \squash spo -- di -- ne, slyš \unLeft \unSquash mo -- ji \markup \accent mo -- dlit -- \star bu, \left pro \squash svou věr -- nost po -- přej slu -- chu mé ú -- pěn -- li -- vé pro -- \breath "sbě," vy -- slyš mě \unLeft \unSquash pro svou \markup \accent spra -- ve -- dl -- nost.
 \set stanza = "2."
-\left Ne -- \squash po -- há -- něj na soud \unLeft \unSquash své -- ho \markup \accent slu -- žeb -- ní -- \star ka, \left ni -- \squash kdo "z ži" -- vých ne -- ní před \unLeft \unSquash te -- bou \markup \accent spra -- ved -- li -- vý.
+\left Ne -- \squash po -- há -- něj na soud \unLeft \unSquash své -- ho \markup \accent slu -- žeb -- ní -- \star ka, \left ni -- \squash kdo "z ži" -- vých ne -- ní před \unLeft \unSquash te -- bou \markup \accent spra -- ve -- dli -- vý.
 \set stanza = \responsum
-Ho -- spo -- di -- ne, slyš mou mod -- lit -- bu a vo -- lá -- ní mé ať "k to" -- bě pro -- nik -- ne!
+Ho -- spo -- di -- ne, slyš mou mo -- dlit -- bu a vo -- lá -- ní mé ať "k to" -- bě pro -- nik -- ne!
 \set stanza = "3."
 \left Vzpo -- \squash mí -- nám \unLeft \unSquash si na \markup \accent dáv -- né \star dny, \left u -- \squash va -- žu -- ji o všech tvých či -- \breath "nech," my -- slím na skut -- \unLeft \unSquash ky tvých \markup \accent ru -- kou.
 \set stanza = "4."
 \left Roz -- \squash pí -- nám "k to" -- \unLeft \unSquash bě své \markup \accent ru -- \star ce, má \left du -- \squash še po to -- bě žíz -- ní jak vy -- \unLeft \unSquash pra -- hlá \markup \accent ze -- mě.
 \set stanza = \responsum
-Ho -- spo -- di -- ne, slyš mou mod -- lit -- bu a vo -- lá -- ní mé ať "k to" -- bě pro -- nik -- ne!
+Ho -- spo -- di -- ne, slyš mou mo -- dlit -- bu a vo -- lá -- ní mé ať "k to" -- bě pro -- nik -- ne!
 \set stanza = "5."
 \left Rych -- \squash le mě \unLeft \unSquash vy -- slyš, \markup \accent Ho -- spo -- di -- \star ne, \left ne -- \squash boť \unLeft \unSquash můj duch \markup \accent ma -- lát -- ní.
 \set stanza = "6."
 \left Dej, \squash ať zá -- hy doj -- \unLeft \unSquash du tvé \markup \accent mi -- lo -- \star sti, vždyť "v te" -- be \markup \accent dou -- fám.
 \set stanza = \responsum
-Ho -- spo -- di -- ne, slyš mou mod -- lit -- bu a vo -- lá -- ní mé ať "k to" -- bě pro -- nik -- ne!
+Ho -- spo -- di -- ne, slyš mou mo -- dlit -- bu a vo -- lá -- ní mé ať "k to" -- bě pro -- nik -- ne!
 \set stanza = "7."
 \left Po -- \squash uč mě, a -- bych ko -- \unLeft \unSquash nal tvou \markup \accent vů -- \star li, vždyť ty jsi \markup \accent můj Bůh!
 \set stanza = "8."
 \left Dob -- \squash ro -- \unLeft \unSquash ti -- vý \markup \accent je tvůj \star duch, \left ať \squash mě ve -- de \unLeft \unSquash rov -- ným \markup \accent kra -- jem.
 \set stanza = \responsum
-Ho -- spo -- di -- ne, slyš mou mod -- lit -- bu a vo -- lá -- ní mé ať "k to" -- bě pro -- nik -- ne! } }
+Ho -- spo -- di -- ne, slyš mou mo -- dlit -- bu a vo -- lá -- ní mé ať "k to" -- bě pro -- nik -- ne! } }
     >>
     \layout {}
 }

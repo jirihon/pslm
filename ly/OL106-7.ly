@@ -321,23 +321,23 @@ optionalBreath = #(define-music-function (syllable)(string?)
 \relative { a'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes g8 a \bar "" b g g2 \cadenzaMeasure \bar "|" f\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes e8 f \bar "" g[( e)] e4 r \cadenzaMeasure \bar "||" \break }
 \relative { e'8 e d c d4 e f8 d d4 \bar "" r8 e f f4 f8 \bar "" e4 d \bar "" e g \bar "" a8 a a2 \cadenzaMeasure \bar "||" \break } \bar "|." }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
-Ho -- spo -- di -- ne, slyš mou mod -- lit -- bu a vo -- lá -- ní mé ať "k to" -- bě pro -- nik -- ne!
+Ho -- spo -- di -- ne, slyš mou mo -- dlit -- bu a vo -- lá -- ní mé ať "k to" -- bě pro -- nik -- ne!
 \set stanza = "1."
-\left Ho -- \squash spo -- di -- ne, \unLeft \unSquash slyš mou \markup \accent mod -- lit -- \star bu a \left vo -- \squash lá -- ní mé ať \unLeft \unSquash "k to" -- bě \markup \accent pro -- nik -- ne!
+\left Ho -- \squash spo -- di -- ne, \unLeft \unSquash slyš mou \markup \accent mo -- dlit -- \star bu a \left vo -- \squash lá -- ní mé ať \unLeft \unSquash "k to" -- bě \markup \accent pro -- nik -- ne!
 \set stanza = "2."
 \left Ne -- \squash skrý -- vej \unLeft \unSquash svou tvář \markup \accent pře -- de \star mnou \left "v den," \squash kdy \unLeft \unSquash je mi \markup \accent úz -- ko.
 \set stanza = "3."
 \left Na -- \squash kloň \unLeft \unSquash ke mně \markup \accent svůj \star sluch: když \left vo -- \squash lám, rych -- \unLeft \unSquash le mě \markup \accent vy -- slyš!
 \set stanza = \responsum
-Ho -- spo -- di -- ne, slyš mou mod -- lit -- bu a vo -- lá -- ní mé ať "k to" -- bě pro -- nik -- ne!
+Ho -- spo -- di -- ne, slyš mou mo -- dlit -- bu a vo -- lá -- ní mé ať "k to" -- bě pro -- nik -- ne!
 \set stanza = "4."
 \left Po -- \squash ha -- né bu -- dou ctít tvé \unLeft \unSquash jmé -- no, \markup \accent Ho -- spo -- di -- \star ne, a \left všich -- \squash ni krá -- lo -- vé ze -- \unLeft \unSquash mě tvou \markup \accent slá -- vu,
 \set stanza = "5."
 až \left Ho -- \squash spo -- din zno -- vu zbu -- \unLeft \unSquash du -- je \markup \accent Si -- \star ón, \left až \squash se ob -- je -- ví \unLeft \unSquash ve své \markup \accent slá -- vě.
 \set stanza = "6."
-\left Sklo -- \squash ní se "k mod" -- \unLeft \unSquash lit -- bě \markup \accent o -- pu -- ště -- \star ných a \left ne -- \squash po -- hrd -- ne \unLeft \unSquash je -- jich \markup \accent pro -- sbou.
+\left Sklo -- \squash ní se "k mo" -- \unLeft \unSquash dlit -- bě \markup \accent o -- pu -- ště -- \star ných a \left ne -- \squash po -- hrd -- ne \unLeft \unSquash je -- jich \markup \accent pro -- sbou.
 \set stanza = \responsum
-Ho -- spo -- di -- ne, slyš mou mod -- lit -- bu a vo -- lá -- ní mé ať "k to" -- bě pro -- nik -- ne!
+Ho -- spo -- di -- ne, slyš mou mo -- dlit -- bu a vo -- lá -- ní mé ať "k to" -- bě pro -- nik -- ne!
 \set stanza = "7."
 \left Kéž \squash je to za -- psá -- no pro \unLeft \unSquash pří -- ští \markup \accent po -- ko -- le -- \star ní, \left a -- \squash by bu -- dou -- cí ná -- rod \unLeft \unSquash chvá -- lil \markup \accent Ho -- spo -- di -- na.
 \set stanza = "8."
@@ -345,7 +345,7 @@ Ho -- spo -- di -- ne, slyš mou mod -- lit -- bu a vo -- lá -- ní mé ať "k 
 \set stanza = "9."
 \left a -- \squash by sly -- šel \unLeft \unSquash ná -- řek \markup \accent za -- jat -- \star ců, \left a -- \squash by vy -- svo -- bo -- dil od -- sou -- \unLeft \unSquash ze -- né \markup \accent "k smr" -- ti.
 \set stanza = \responsum
-Ho -- spo -- di -- ne, slyš mou mod -- lit -- bu a vo -- lá -- ní mé ať "k to" -- bě pro -- nik -- ne! } }
+Ho -- spo -- di -- ne, slyš mou mo -- dlit -- bu a vo -- lá -- ní mé ať "k to" -- bě pro -- nik -- ne! } }
     >>
     \layout {}
 }

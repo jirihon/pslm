@@ -325,7 +325,7 @@ Ne -- za -- po -- mí -- nej na chu -- dá -- ky, Ho -- spo -- di -- ne!
 \set stanza = "1."
 \left Proč \squash jsi nás, Bo -- že, na -- \unLeft \unSquash dob -- ro \markup \accent za -- vr -- \star hl, proč \left dý -- \squash má tvůj hněv pro -- ti ov -- cím, \unLeft \unSquash kte -- ré \markup \accent pa -- seš?
 \set stanza = "2."
-\left Pa -- \squash ma -- tuj na svou o -- bec, kte -- rou sis kdy -- si zí -- \breath "skal," na svůj kmen, kte -- rý sis vy -- \unLeft \unSquash kou -- pil \markup \accent do vlast -- nic -- \star tví, na \left ho -- \squash ru Si -- ón, \unLeft \unSquash kde ses \markup \accent u -- síd -- lil.
+\left Pa -- \squash ma -- tuj na svou o -- bec, kte -- rou sis kdy -- si zí -- \breath "skal," na svůj kmen, kte -- rý sis vy -- \unLeft \unSquash kou -- pil \markup \accent do vlast -- nic -- \star tví, na \left ho -- \squash ru Si -- ón, \unLeft \unSquash kde ses \markup \accent u -- sí -- dlil.
 \set stanza = \responsum
 Ne -- za -- po -- mí -- nej na chu -- dá -- ky, Ho -- spo -- di -- ne!
 \set stanza = "3."

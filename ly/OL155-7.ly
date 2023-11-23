@@ -328,7 +328,7 @@ Ni -- ko -- liv nám, Ho -- spo -- di -- ne, a -- le své -- mu jmé -- nu zjed 
 \set stanza = "3."
 Bůh náš je \markup \accent na ne -- be -- \star sích, \left všech -- \squash no, \unLeft \unSquash co chtěl \markup \accent u -- či -- nil.
 \set stanza = "4."
-\left Je -- \squash jich mod -- ly jsou stříb -- \unLeft \unSquash ro a \markup \accent zla -- \star to, \left dí -- \squash lo \unLeft \unSquash lid -- ských \markup \accent ru -- kou.
+\left Je -- \squash jich mo -- dly jsou stříb -- \unLeft \unSquash ro a \markup \accent zla -- \star to, \left dí -- \squash lo \unLeft \unSquash lid -- ských \markup \accent ru -- kou.
 \set stanza = \responsum
 Ni -- ko -- liv nám, Ho -- spo -- di -- ne, a -- le své -- mu jmé -- nu zjed -- nej slá -- vu.
 \set stanza = "5."

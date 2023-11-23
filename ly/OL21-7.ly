@@ -328,7 +328,7 @@ Pa -- ne, přijď, a za -- chraň nás!
 \set stanza = "3."
 \left Ho -- \squash spo -- din o -- tví -- rá \unLeft \unSquash o -- či \markup \accent sle -- \star pým, Ho -- \left spo -- \squash din na -- při -- \unLeft \unSquash mu -- je \markup \accent sklí -- če -- né,
 \set stanza = "4."
-\left Ho -- \squash spo -- din mi -- \unLeft \unSquash lu -- je \markup \accent spra -- ved -- li -- \star vé, Ho -- \left spo -- \squash din chrá -- ní \unLeft \unSquash při -- stě -- \markup \accent ho -- val -- ce.
+\left Ho -- \squash spo -- din mi -- \unLeft \unSquash lu -- je \markup \accent spra -- ve -- dli -- \star vé, Ho -- \left spo -- \squash din chrá -- ní \unLeft \unSquash při -- stě -- \markup \accent ho -- val -- ce.
 \set stanza = \responsum
 Pa -- ne, přijď, a za -- chraň nás!
 \set stanza = "5."

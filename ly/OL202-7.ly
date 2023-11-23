@@ -317,7 +317,7 @@ optionalBreath = #(define-music-function (syllable)(string?)
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Buď mi, Ho -- spo -- di -- ne, o -- chran -- nou ská -- lou!
 \set stanza = "1."
-"K to" -- \left bě \squash se u -- tí -- kám, Ho -- spo -- di -- \optionalBreath ne, ať nej -- sem za -- han -- ben \unLeft \unSquash \markup \accent na -- vě -- \star ky, \left vy -- \squash svo -- boď mě, jsi \unLeft \unSquash \markup \accent spra -- ved -- li -- \star vý! \left Po -- \squash přej mi \unLeft \unSquash \markup \accent slu -- \star chu, \left rych -- \squash le mě \unLeft \unSquash \markup \accent za -- chraň!
+"K to" -- \left bě \squash se u -- tí -- kám, Ho -- spo -- di -- \optionalBreath ne, ať nej -- sem za -- han -- ben \unLeft \unSquash \markup \accent na -- vě -- \star ky, \left vy -- \squash svo -- boď mě, jsi \unLeft \unSquash \markup \accent spra -- ve -- dli -- \star vý! \left Po -- \squash přej mi \unLeft \unSquash \markup \accent slu -- \star chu, \left rych -- \squash le mě \unLeft \unSquash \markup \accent za -- chraň!
 \set stanza = \responsum
 Buď mi, Ho -- spo -- di -- ne, o -- chran -- nou ská -- lou!
 \set stanza = "2."

@@ -331,7 +331,7 @@ Vy -- pra -- vuj -- te me -- zi vše -- mi ná -- ro -- dy o Ho -- spo -- di -- 
 \set stanza = \responsum
 Vy -- pra -- vuj -- te me -- zi vše -- mi ná -- ro -- dy o Ho -- spo -- di -- no -- vých di -- vech.
 \set stanza = "4."
-\left Hlá -- \squash sej -- te me -- zi po -- ha -- ny: Ho -- \unLeft \unSquash spo -- din \markup \accent kra -- lu -- \star je. \left U -- \squash pev -- nil svět, \unLeft \unSquash a -- by \markup \accent ne -- ko -- lí -- \star sal: \left ná -- \squash ro -- dy \left \unLeft \unSquash ří -- \squash dí \unLeft \unSquash pod -- le \markup \accent prá -- va.
+\left Hlá -- \squash sej -- te me -- zi po -- ha -- ny: Ho -- \unLeft \unSquash spo -- din \markup \accent kra -- lu -- \star je. \left U -- \squash pev -- nil svět, \unLeft \unSquash a -- by \markup \accent ne -- ko -- lí -- \star sal: \left ná -- \squash ro -- dy \left \unLeft \unSquash ří -- \squash dí \unLeft \unSquash po -- dle \markup \accent prá -- va.
 \set stanza = \responsum
 Vy -- pra -- vuj -- te me -- zi vše -- mi ná -- ro -- dy o Ho -- spo -- di -- no -- vých di -- vech. } }
     >>

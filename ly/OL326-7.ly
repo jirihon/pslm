@@ -329,7 +329,7 @@ Blíz -- ký je Ho -- spo -- din všem, kdo ho vzý -- va -- jí.
 \set stanza = "4."
 \left O -- \squash či všech \left \unLeft \unSquash dou -- \squash fa -- jí \unLeft \unSquash \markup \accent "v te" -- \star be a \left ty \squash jim dá -- váš \left \unLeft \unSquash po -- \squash krm \unLeft \unSquash \markup \accent "v pra" -- vý čas.
 \set stanza = "5."
-\left Spra -- \squash ved -- li -- vý je Ho -- spo -- din \left \unLeft \unSquash na \squash všech svých \unLeft \unSquash \markup \accent ce -- \star stách a \left sva -- \squash tý \left \unLeft \unSquash ve \squash všech svých \unLeft \unSquash \markup \accent či -- nech.
+\left Spra -- \squash ve -- dli -- vý je Ho -- spo -- din \left \unLeft \unSquash na \squash všech svých \unLeft \unSquash \markup \accent ce -- \star stách a \left sva -- \squash tý \left \unLeft \unSquash ve \squash všech svých \unLeft \unSquash \markup \accent či -- nech.
 \set stanza = "6."
 \left Blíz -- \squash ko je Ho -- spo -- din \left \unLeft \unSquash všem, \squash kdo ho \unLeft \unSquash \markup \accent vzý -- va -- \star jí, \left všem, \squash kdo ho \left \unLeft \unSquash vzý -- \squash va -- jí \unLeft \unSquash \markup \accent u -- přím -- ně.
 \set stanza = \responsum

@@ -334,7 +334,7 @@ U -- zře -- ly všech -- ny kon -- či -- ny ze -- mě spá -- su na -- še -- 
 \set stanza = "5."
 Před Ho -- \left spo -- \squash di -- \unLeft \unSquash nem, že \markup \accent při -- \star šel, že \left při -- \squash šel, a -- by spra -- \unLeft \unSquash vo -- val \markup \accent ze -- mi,
 \set stanza = "6."
-a -- by \left spra -- \squash vo -- val svět ve \unLeft \unSquash spra -- ve -- \markup \accent dl -- no -- \star sti a \left ná -- \squash ro -- dy \unLeft \unSquash pod -- le \markup \accent prá -- va.
+a -- by \left spra -- \squash vo -- val svět ve \unLeft \unSquash spra -- ve -- \markup \accent dl -- no -- \star sti a \left ná -- \squash ro -- dy \unLeft \unSquash po -- dle \markup \accent prá -- va.
 \set stanza = \responsum
 U -- zře -- ly všech -- ny kon -- či -- ny ze -- mě spá -- su na -- še -- ho Bo -- ha. } }
     >>

@@ -322,7 +322,7 @@ Tvou dob -- ro -- tu, Pa -- ne, mám na zře -- te -- li.
 \set stanza = "1."
 \left Zkou -- \squash mej mě, Ho -- spo -- di -- \unLeft \unSquash ne, a \markup \accent zkou -- \star šej, \left vy -- \squash še -- třuj mé led -- \unLeft \unSquash ví a \markup \accent srd -- ce!
 \set stanza = "2."
-Tvou \left dob -- \squash ro -- \unLeft \unSquash tu mám \markup \accent na zře -- te -- \star li, \left jed -- \squash nám pod -- \unLeft \unSquash le tvé \markup \accent prav -- dy.
+Tvou \left dob -- \squash ro -- \unLeft \unSquash tu mám \markup \accent na zře -- te -- \star li, \left jed -- \squash nám po -- \unLeft \unSquash dle tvé \markup \accent prav -- dy.
 \set stanza = \responsum
 Tvou dob -- ro -- tu, Pa -- ne, mám na zře -- te -- li.
 \set stanza = "3."

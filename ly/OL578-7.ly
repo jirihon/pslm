@@ -328,7 +328,7 @@ Vy -- svo -- boď nás, Pa -- ne, pro svou lá -- sku!
 \set stanza = "3."
 \left Na -- \squash šim sou -- se -- dům jsi nás \unLeft \unSquash vy -- dal \markup \accent na po -- ha -- \star nu, \left na -- \squash še -- mu o -- ko -- lí "v po" -- tu -- \unLeft \unSquash pu a \markup \accent po -- směch.
 \set stanza = "4."
-\left Do -- \squash pu -- stils, že jsme se sta -- li pro ná -- \unLeft \unSquash ro -- dy \markup \accent po -- ře -- kad -- \star lem, \left po -- \squash ha -- né nad ná -- mi po -- smě -- šně ký -- \unLeft \unSquash va -- jí \markup \accent hla -- vou.
+\left Do -- \squash pu -- stils, že jsme se sta -- li pro ná -- \unLeft \unSquash ro -- dy \markup \accent po -- ře -- ka -- \star dlem, \left po -- \squash ha -- né nad ná -- mi po -- smě -- šně ký -- \unLeft \unSquash va -- jí \markup \accent hla -- vou.
 \set stanza = \responsum
 Vy -- svo -- boď nás, Pa -- ne, pro svou lá -- sku!
 \set stanza = "5."

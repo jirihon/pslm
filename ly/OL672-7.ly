@@ -329,7 +329,7 @@ O -- sla -- vuj -- te Ho -- spo -- di -- na, ne -- boť na vě -- ky tr -- vá j
 \set stanza = \responsum
 O -- sla -- vuj -- te Ho -- spo -- di -- na, ne -- boť na vě -- ky tr -- vá je -- ho mi -- lo -- sr -- den -- ství.
 \set stanza = "3."
-\left Blou -- \squash di -- li na \unLeft \unSquash ste -- pi, \markup \accent po pu -- sti -- \star ně, \left ne -- \squash na -- šli ce -- stu "k mě" -- stu, kde by \unLeft \unSquash mo -- hli \markup \accent byd -- let.
+\left Blou -- \squash di -- li na \unLeft \unSquash ste -- pi, \markup \accent po pu -- sti -- \star ně, \left ne -- \squash na -- šli ce -- stu "k mě" -- stu, kde by \unLeft \unSquash mo -- hli \markup \accent by -- dlet.
 \set stanza = "4."
 \left Hla -- \squash do -- vě -- \unLeft \unSquash li a \markup \accent žíz -- ni -- \star li, ži -- vot "v nich" \markup \accent chřa -- dl.
 \set stanza = \responsum
@@ -337,7 +337,7 @@ O -- sla -- vuj -- te Ho -- spo -- di -- na, ne -- boť na vě -- ky tr -- vá j
 \set stanza = "5."
 Tu \left vo -- \squash la -- li ve své \unLeft \unSquash tí -- sni \markup \accent "k Ho" -- spo -- di -- \star nu, a \left on \squash je "z je" -- jich úz -- \unLeft \unSquash ko -- stí \markup \accent vy -- svo -- bo -- dil.
 \set stanza = "6."
-\left Ve -- \squash dl je \unLeft \unSquash pra -- vou \markup \accent ce -- \star stou, \left a -- \squash by do -- šli do mě -- sta, kde by \unLeft \unSquash mo -- hli \markup \accent byd -- let.
+\left Ve -- \squash dl je \unLeft \unSquash pra -- vou \markup \accent ce -- \star stou, \left a -- \squash by do -- šli do mě -- sta, kde by \unLeft \unSquash mo -- hli \markup \accent by -- dlet.
 \set stanza = \responsum
 O -- sla -- vuj -- te Ho -- spo -- di -- na, ne -- boť na vě -- ky tr -- vá je -- ho mi -- lo -- sr -- den -- ství.
 \set stanza = "7."

@@ -325,7 +325,7 @@ Iz -- ra -- e -- lův dům dou -- fá "v Ho" -- spo -- di -- na.
 \set stanza = "1."
 Bůh náš je \markup \accent na ne -- be -- \star sích, \left všech -- \squash no, \unLeft \unSquash co chtěl, \markup \accent u -- či -- nil.
 \set stanza = "2."
-\left Mod -- \squash ly po -- ha -- nů jsou stříb -- \unLeft \unSquash ro a \markup \accent zla -- \star to, \left dí -- \squash lo \unLeft \unSquash lid -- ských \markup \accent ru -- kou.
+\left Mo -- \squash dly po -- ha -- nů jsou stříb -- \unLeft \unSquash ro a \markup \accent zla -- \star to, \left dí -- \squash lo \unLeft \unSquash lid -- ských \markup \accent ru -- kou.
 \set stanza = \responsum
 Iz -- ra -- e -- lův dům dou -- fá "v Ho" -- spo -- di -- na.
 \set stanza = "3."

@@ -336,7 +336,7 @@ Slu -- \left žeb -- \squash ní -- ci \unLeft \unSquash Pá -- ně, ve -- leb -
 \set stanza = \responsum
 chval -- te a o -- sla -- vuj -- te ho na vě -- ky.
 \set stanza = "5."
-Du -- \left cho -- \squash vé a du -- še spra -- ved -- \unLeft \unSquash li -- vých, ve -- leb -- te \markup \accent Pá -- na,
+Du -- \left cho -- \squash vé a du -- še spra -- ve -- \unLeft \unSquash dli -- vých, ve -- leb -- te \markup \accent Pá -- na,
 \set stanza = \responsum
 chval -- te a o -- sla -- vuj -- te ho na vě -- ky.
 \set stanza = "6."

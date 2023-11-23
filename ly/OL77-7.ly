@@ -332,7 +332,7 @@ Tys, \left Ho -- \squash spo -- di -- ne, \unLeft \unSquash dal svá \markup \ac
 \set stanza = \responsum
 Bla -- ze těm, kdo krá -- če -- jí "v zá" -- ko -- ně Ho -- spo -- di -- no -- vě.
 \set stanza = "5."
-\left O -- \squash sla -- vím tě u -- \unLeft \unSquash přím -- ným \markup \accent srd -- \star cem, \left když \squash se na -- u -- čím tvým spra -- ved -- \unLeft \unSquash li -- vým \markup \accent roz -- hod -- nu -- tím.
+\left O -- \squash sla -- vím tě u -- \unLeft \unSquash přím -- ným \markup \accent srd -- \star cem, \left když \squash se na -- u -- čím tvým spra -- ve -- \unLeft \unSquash dli -- vým \markup \accent roz -- hod -- nu -- tím.
 \set stanza = "6."
 Tvé \left pří -- \squash ka -- \unLeft \unSquash zy chci \markup \accent za -- cho -- vá -- \star vat, je -- nom mě \markup \accent ne -- o -- pou -- štěj!
 \set stanza = \responsum

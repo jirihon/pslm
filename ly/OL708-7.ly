@@ -323,7 +323,7 @@ optionalBreath = #(define-music-function (syllable)(string?)
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Ať se mi do -- sta -- ne tvé -- ho sli -- to -- vá -- ní, Ho -- spo -- di -- ne, a -- bych byl živ.
 \set stanza = "1."
-\left Ať \squash se mi do -- sta -- ne tvé -- ho sli -- to -- \unLeft \unSquash vá -- ní, \markup \accent Ho -- spo -- di -- \star ne, tvé \left po -- \squash mo -- ci pod -- le \unLeft \unSquash tvé -- ho \markup \accent sli -- bu.
+\left Ať \squash se mi do -- sta -- ne tvé -- ho sli -- to -- \unLeft \unSquash vá -- ní, \markup \accent Ho -- spo -- di -- \star ne, tvé \left po -- \squash mo -- ci po -- dle \unLeft \unSquash tvé -- ho \markup \accent sli -- bu.
 \set stanza = \responsum
 Ať se mi do -- sta -- ne tvé -- ho sli -- to -- vá -- ní, Ho -- spo -- di -- ne, a -- bych byl živ.
 \set stanza = "2."

@@ -335,7 +335,7 @@ Tak \left tou -- \squash žím tě \unLeft \unSquash spa -- třit \markup \accen
 \set stanza = \responsum
 Má du -- še žíz -- ní po to -- bě, Pa -- ne, Bo -- že můj!
 \set stanza = "5."
-\left Tak \squash tě bu -- du ve -- le -- bit \unLeft \unSquash ve svém \markup \accent ži -- vo -- \star tě, \left "v tvém" \squash jmé -- nu po -- vzne -- su své \unLeft \unSquash dla -- ně \markup \accent "k mod" -- lit -- bě.
+\left Tak \squash tě bu -- du ve -- le -- bit \unLeft \unSquash ve svém \markup \accent ži -- vo -- \star tě, \left "v tvém" \squash jmé -- nu po -- vzne -- su své \unLeft \unSquash dla -- ně \markup \accent "k mo" -- dlit -- bě.
 \set stanza = "6."
 Má \left du -- \squash še se bu -- de sy -- tit jak tu -- \unLeft \unSquash kem a \markup \accent mor -- \star kem, \left ple -- \squash sa -- jí -- cí -- mi rty za -- já -- \unLeft \unSquash sa -- jí \markup \accent ús -- ta.
 \set stanza = \responsum

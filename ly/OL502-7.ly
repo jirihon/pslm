@@ -325,7 +325,7 @@ Ho -- spo -- di -- no -- vým po -- dí -- lem je je -- ho lid.
 \set stanza = "1."
 \left Ho -- \squash spo -- di -- no -- vo jmé -- no bu -- du \unLeft \unSquash \markup \accent vzý -- \star vat, \left vzdej -- \squash te čest na -- še -- mu \unLeft \unSquash \markup \accent Bo -- hu!
 \set stanza = "2."
-Je \left Ská -- \squash la, do -- ko -- na -- lá jsou je -- ho \unLeft \unSquash \markup \accent dí -- \star la, \left ne -- \squash boť všech -- ny je -- ho ce -- sty jsou \unLeft \unSquash \markup \accent spra -- ved -- li -- vé.
+Je \left Ská -- \squash la, do -- ko -- na -- lá jsou je -- ho \unLeft \unSquash \markup \accent dí -- \star la, \left ne -- \squash boť všech -- ny je -- ho ce -- sty jsou \unLeft \unSquash \markup \accent spra -- ve -- dli -- vé.
 \set stanza = \responsum
 Ho -- spo -- di -- no -- vým po -- dí -- lem je je -- ho lid.
 \set stanza = "3."
@@ -335,9 +335,9 @@ Ho -- spo -- di -- no -- vým po -- dí -- lem je je -- ho lid.
 \set stanza = \responsum
 Ho -- spo -- di -- no -- vým po -- dí -- lem je je -- ho lid.
 \set stanza = "5."
-Když \left Nej -- \squash vyš -- ší vy -- ka -- zo -- val ná -- ro -- dům je -- jich \unLeft \unSquash \markup \accent síd -- \star la, když \left roz -- \squash dě -- lo -- val sy -- ny \unLeft \unSquash \markup \accent A -- da -- mo -- vy,
+Když \left Nej -- \squash vyš -- ší vy -- ka -- zo -- val ná -- ro -- dům je -- jich \unLeft \unSquash \markup \accent sí -- \star dla, když \left roz -- \squash dě -- lo -- val sy -- ny \unLeft \unSquash \markup \accent A -- da -- mo -- vy,
 \set stanza = "6."
-\left sta -- \squash no -- vil hra -- ni -- ce \unLeft \unSquash \markup \accent ná -- ro -- \star dů \left pod -- \squash le po -- čtu sy -- nů \unLeft \unSquash \markup \accent Iz -- ra -- e -- le.
+\left sta -- \squash no -- vil hra -- ni -- ce \unLeft \unSquash \markup \accent ná -- ro -- \star dů \left po -- \squash dle po -- čtu sy -- nů \unLeft \unSquash \markup \accent Iz -- ra -- e -- le.
 \set stanza = \responsum
 Ho -- spo -- di -- no -- vým po -- dí -- lem je je -- ho lid.
 \set stanza = "7."

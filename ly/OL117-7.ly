@@ -323,7 +323,7 @@ optionalBreath = #(define-music-function (syllable)(string?)
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Ot -- če, do tvých ru -- kou po -- rou -- čím du -- cha své -- ho.
 \set stanza = "1."
-\left "K to" -- \squash bě se u -- tí -- kám, Ho -- spo -- di -- \optionalBreath ne, ať nej -- sem za -- \unLeft \unSquash han -- ben \markup \accent na vě -- \star ky, \left vy -- \squash svo -- boď \unLeft \unSquash mě, jsi \markup \accent spra -- ved -- li -- vý!
+\left "K to" -- \squash bě se u -- tí -- kám, Ho -- spo -- di -- \optionalBreath ne, ať nej -- sem za -- \unLeft \unSquash han -- ben \markup \accent na vě -- \star ky, \left vy -- \squash svo -- boď \unLeft \unSquash mě, jsi \markup \accent spra -- ve -- dli -- vý!
 \set stanza = "2."
 \left Do \squash tvých ru -- kou svě -- řu -- ji \unLeft \unSquash své -- ho \markup \accent du -- \star cha, \left Ho -- \squash spo -- di -- ne, věr -- ný Bo -- že, \unLeft \unSquash ty mě \markup \accent vy -- svo -- bo -- díš.
 \set stanza = \responsum

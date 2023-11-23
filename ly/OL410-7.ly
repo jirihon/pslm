@@ -322,7 +322,7 @@ Pa -- ne, u -- kaž nám své mi -- lo -- sr -- den -- ství!
 \set stanza = "1."
 \left U -- \squash kaž nám, Ho -- spo -- di -- ne, své \unLeft \unSquash mi -- lo -- \markup \accent sr -- den -- \star ství \left a \squash dej \unLeft \unSquash nám svou \markup \accent spá -- su!
 \set stanza = "2."
-\left Ji -- \squash stě je blíz -- ko je -- ho spá -- sa těm, kte -- ří \unLeft \unSquash se ho \markup \accent bo -- \star jí, \left a -- \squash by síd -- li -- la je -- ho ve -- leb -- nost \unLeft \unSquash "v na" -- ší \markup \accent ze -- mi.
+\left Ji -- \squash stě je blíz -- ko je -- ho spá -- sa těm, kte -- ří \unLeft \unSquash se ho \markup \accent bo -- \star jí, \left a -- \squash by sí -- dli -- la je -- ho ve -- leb -- nost \unLeft \unSquash "v na" -- ší \markup \accent ze -- mi.
 \set stanza = \responsum
 Pa -- ne, u -- kaž nám své mi -- lo -- sr -- den -- ství!
 \set stanza = "3."

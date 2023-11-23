@@ -339,7 +339,7 @@ Ať se mi do -- sta -- ne tvé -- ho sli -- to -- vá -- ní, Ho -- spo -- di --
 \set stanza = \responsum
 Ať se mi do -- sta -- ne tvé -- ho sli -- to -- vá -- ní, Ho -- spo -- di -- ne, a -- bych byl živ.
 \set stanza = "5."
-Vím, \left Ho -- \squash spo -- di -- ne, že spra -- ved -- li -- vá \unLeft \unSquash jsou tvá \markup \accent roz -- hod -- nu -- \star tí, \left že \squash jsi mě po -- ko -- řil \unLeft \unSquash pod -- le \markup \accent prá -- va.
+Vím, \left Ho -- \squash spo -- di -- ne, že spra -- ve -- dli -- vá \unLeft \unSquash jsou tvá \markup \accent roz -- hod -- nu -- \star tí, \left že \squash jsi mě po -- ko -- řil \unLeft \unSquash po -- dle \markup \accent prá -- va.
 \set stanza = \responsum
 Ať se mi do -- sta -- ne tvé -- ho sli -- to -- vá -- ní, Ho -- spo -- di -- ne, a -- bych byl živ.
 \set stanza = "6."

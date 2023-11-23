@@ -319,7 +319,7 @@ Po -- vstaň, Bo -- že, suď ze -- mi!
 \set stanza = "1."
 \left Za -- \squash stá -- vej -- te se u -- ti -- sko -- va -- né -- \unLeft \unSquash ho a \markup \accent si -- rot -- \star ka, \left u -- \squash bo -- hé -- mu a chu -- dé -- mu po -- má -- \unLeft \unSquash hej -- te \markup \accent "k prá" -- vu!
 \set stanza = "2."
-\left Vy -- \squash svo -- boď -- te u -- tla -- čo -- va -- né -- \unLeft \unSquash ho a \markup \accent nuz -- né -- \star ho, \left "z mo" -- \squash ci bez -- bož -- \unLeft \unSquash ných ho \markup \accent vy -- trh -- ně -- te!
+\left Vy -- \squash svo -- bo -- ďte u -- tla -- čo -- va -- né -- \unLeft \unSquash ho a \markup \accent nuz -- né -- \star ho, \left "z mo" -- \squash ci bez -- bož -- \unLeft \unSquash ných ho \markup \accent vy -- trh -- ně -- te!
 \set stanza = \responsum
 Po -- vstaň, Bo -- že, suď ze -- mi!
 \set stanza = "3."

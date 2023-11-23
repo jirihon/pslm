@@ -336,9 +336,9 @@ Ji -- no -- ši a pan -- ny, chval -- te Ho -- spo -- di -- no -- vo jmé -- no!
 \set stanza = \responsum
 Ji -- no -- ši a pan -- ny, chval -- te Ho -- spo -- di -- no -- vo jmé -- no!
 \set stanza = "5."
-\left Ho -- \squash ry a všech -- ny \unLeft \unSquash \markup \accent pa -- hor -- \star ky, \left o -- \squash voc -- né stro -- my a všech -- ny \unLeft \unSquash \markup \accent ced -- ry,
+\left Ho -- \squash ry a všech -- ny \unLeft \unSquash \markup \accent pa -- hor -- \star ky, \left o -- \squash voc -- né stro -- my a všech -- ny \unLeft \unSquash \markup \accent ce -- dry,
 \set stanza = "6."
-\left všech -- \squash na zví -- řa -- ta, di -- vo -- ká i \unLeft \unSquash \markup \accent kro -- \star tká, \left pla -- \squash zi a okříd -- le -- né \unLeft \unSquash \markup \accent ptac -- tvo.
+\left všech -- \squash na zví -- řa -- ta, di -- vo -- ká i \unLeft \unSquash \markup \accent kro -- \star tká, \left pla -- \squash zi a okří -- dle -- né \unLeft \unSquash \markup \accent ptac -- tvo.
 \set stanza = \responsum
 Ji -- no -- ši a pan -- ny, chval -- te Ho -- spo -- di -- no -- vo jmé -- no!
 \set stanza = "7."

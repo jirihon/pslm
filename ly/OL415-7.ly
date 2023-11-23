@@ -321,31 +321,31 @@ optionalBreath = #(define-music-function (syllable)(string?)
 \relative { c''\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" c8 bes bes4 r \cadenzaMeasure \bar "|" as\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" g8 f f f2 \cadenzaMeasure \bar "||" \break }
 \relative { g'4 es as8 as as \bar "" g4. f8 \bar "" g as bes4 bes r \cadenzaMeasure \bar "||" \break } \bar "|." }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
-Ús -- ta spra -- ved -- li -- vé -- ho mlu -- ví moud -- ře.
+Ús -- ta spra -- ve -- dli -- vé -- ho mlu -- ví mou -- dře.
 \set stanza = "1."
 \left Dou -- \squash fej "v Ho" -- spo -- di -- na a čiň \unLeft \unSquash \markup \accent dob -- \star ro, pak \left bu -- \squash deš pře -- bý -- vat "v ze" -- mi a tě -- šit se \unLeft \unSquash \markup \accent kli -- du.
 \set stanza = "2."
 \left Ra -- \squash duj se \unLeft \unSquash \markup \accent "v Ho" -- spo -- di -- \star nu, a \left dá \squash ti, po čem tou -- ží tvé \unLeft \unSquash \markup \accent srd -- ce.
 \set stanza = \responsum
-Ús -- ta spra -- ved -- li -- vé -- ho mlu -- ví moud -- ře.
+Ús -- ta spra -- ve -- dli -- vé -- ho mlu -- ví mou -- dře.
 \set stanza = "3."
 \left Ho -- \squash spo -- di -- nu svěř svůj \unLeft \unSquash \markup \accent o -- \star sud, \left "v ně" -- \squash ho dů -- vě -- řuj, on sám bu -- de \unLeft \unSquash \markup \accent jed -- nat.
 \set stanza = "4."
 Tvé \left spra -- \squash ve -- dl -- no -- sti dá vze -- jít ja -- ko \unLeft \unSquash \markup \accent svět -- \star lu, \left tvé -- \squash mu prá -- vu jak po -- led -- ní -- mu \unLeft \unSquash \markup \accent ja -- su.
 \set stanza = \responsum
-Ús -- ta spra -- ved -- li -- vé -- ho mlu -- ví moud -- ře.
+Ús -- ta spra -- ve -- dli -- vé -- ho mlu -- ví mou -- dře.
 \set stanza = "5."
 \left Ho -- \squash spo -- din dá -- vá kro -- kům člo -- vě -- ka \unLeft \unSquash \markup \accent sí -- \star lu, má \left za -- \squash lí -- be -- ní "v je" -- ho ži -- vot -- ní \unLeft \unSquash \markup \accent ce -- stě.
 \set stanza = "6."
 \left Je -- \squash stli -- že pad -- ne, ne -- zů -- sta -- ne \unLeft \unSquash \markup \accent le -- \star žet, \left pro -- \squash to -- že mu Ho -- spo -- din pod -- pí -- rá \unLeft \unSquash \markup \accent ru -- ku.
 \set stanza = \responsum
-Ús -- ta spra -- ved -- li -- vé -- ho mlu -- ví moud -- ře.
+Ús -- ta spra -- ve -- dli -- vé -- ho mlu -- ví mou -- dře.
 \set stanza = "7."
-\left Spra -- \squash ved -- li -- vým při -- chá -- zí spá -- sa od Ho -- \unLeft \unSquash \markup \accent spo -- di -- \star na, \left "v do" -- \squash bách tí -- sně je jim \unLeft \unSquash \markup \accent ú -- to -- či -- štěm.
+\left Spra -- \squash ve -- dli -- vým při -- chá -- zí spá -- sa od Ho -- \unLeft \unSquash \markup \accent spo -- di -- \star na, \left "v do" -- \squash bách tí -- sně je jim \unLeft \unSquash \markup \accent ú -- to -- či -- štěm.
 \set stanza = "8."
 \left Ho -- \squash spo -- din jim po -- má -- há a je vy -- svo -- \unLeft \unSquash \markup \accent bo -- zu -- \star je, \left bez -- \squash bož -- ní -- ků je zba -- vu -- je a chrá -- ní \breath "je," pro -- to -- že se "k ně" -- mu \unLeft \unSquash \markup \accent u -- tí -- ka -- jí.
 \set stanza = \responsum
-Ús -- ta spra -- ved -- li -- vé -- ho mlu -- ví moud -- ře. } }
+Ús -- ta spra -- ve -- dli -- vé -- ho mlu -- ví mou -- dře. } }
     >>
     \layout {}
 }

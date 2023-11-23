@@ -326,7 +326,7 @@ Pa -- ma -- tuj na nás, Ho -- spo -- di -- ne, pro ná -- klon -- nost "k své"
 \set stanza = \responsum
 Pa -- ma -- tuj na nás, Ho -- spo -- di -- ne, pro ná -- klon -- nost "k své" -- mu li -- du.
 \set stanza = "3."
-\left Zho -- \squash to -- vi -- li si \unLeft \unSquash te -- le \markup \accent u Cho -- re -- \star bu a \left kla -- \squash ně -- li se mod -- le u -- \unLeft \unSquash li -- té \markup \accent "z ko" -- vu.
+\left Zho -- \squash to -- vi -- li si \unLeft \unSquash te -- le \markup \accent u Cho -- re -- \star bu a \left kla -- \squash ně -- li se mo -- dle u -- \unLeft \unSquash li -- té \markup \accent "z ko" -- vu.
 \set stanza = "4."
 \left Za -- \squash mě -- ni -- li tak \unLeft \unSquash svo -- ji \markup \accent Slá -- \star vu \left za \squash so -- chu bý -- ka, kte -- rý po -- \unLeft \unSquash ží -- rá \markup \accent trá -- vu.
 \set stanza = \responsum

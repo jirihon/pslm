@@ -334,7 +334,7 @@ Chval -- te Ho -- spo -- di -- na, kte -- rý po -- vy -- šu -- je chu -- dé -
 \set stanza = "5."
 \left Sla -- \squash bé -- ho \unLeft \unSquash zdvi -- há \markup \accent "z pra" -- \star chu, \left ze \squash sme -- ti -- ště po -- vy -- \unLeft \unSquash šu -- je \markup \accent chu -- dé -- ho,
 \set stanza = "6."
-\left a -- \squash by ho po -- sa -- dil \unLeft \unSquash ved -- le \markup \accent kní -- \star žat, \left ved -- \squash le kní -- žat \unLeft \unSquash své -- ho \markup \accent li -- du.
+\left a -- \squash by ho po -- sa -- dil \unLeft \unSquash ve -- dle \markup \accent kní -- \star žat, \left ve -- \squash dle kní -- žat \unLeft \unSquash své -- ho \markup \accent li -- du.
 \set stanza = \responsum
 Chval -- te Ho -- spo -- di -- na, kte -- rý po -- vy -- šu -- je chu -- dé -- ho. } }
     >>

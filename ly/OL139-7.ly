@@ -334,7 +334,7 @@ U -- kaž mi, Pa -- ne, ce -- stu "k ži" -- vo -- tu.
 \set stanza = \responsum
 U -- kaž mi, Pa -- ne, ce -- stu "k ži" -- vo -- tu.
 \set stanza = "5."
-\left Pro -- \squash to se ra -- du -- je mé srd -- ce, \left \unLeft \unSquash má \squash du -- še \unLeft \unSquash \markup \accent ple -- \star sá, \left i \squash mé tě -- lo \left \unLeft \unSquash byd -- \squash lí \unLeft \unSquash \markup \accent "v bez" -- pe -- čí,
+\left Pro -- \squash to se ra -- du -- je mé srd -- ce, \left \unLeft \unSquash má \squash du -- še \unLeft \unSquash \markup \accent ple -- \star sá, \left i \squash mé tě -- lo \left \unLeft \unSquash by -- \squash dlí \unLeft \unSquash \markup \accent "v bez" -- pe -- čí,
 \set stanza = "6."
 \left ne -- \squash boť ne -- za -- ne -- cháš mou \left \unLeft \unSquash du -- \squash ši \unLeft \unSquash \markup \accent "v pod" -- svě -- \star tí, \left ne -- \squash do -- pu -- stíš, a -- by tvůj sva -- tý \left \unLeft \unSquash spa -- \squash třil \unLeft \unSquash \markup \accent po -- ru -- še -- ní.
 \set stanza = \responsum

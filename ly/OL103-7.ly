@@ -326,15 +326,15 @@ ať \left žád -- \squash ný "z nich" ne -- u -- chvá -- tí mou \unLeft \unS
 \set stanza = \responsum
 Ho -- spo -- di -- ne, můj Bo -- že, "k to" -- bě se u -- tí -- kám.
 \set stanza = "3."
-\left Zjed -- \squash nej mi prá -- vo, Ho -- spo -- di -- ne, \unLeft \unSquash vždyť jsem \markup \accent spra -- ved -- li -- \star vý a \left ne -- \squash ní \unLeft \unSquash na mně \markup \accent vi -- ny.
+\left Zjed -- \squash nej mi prá -- vo, Ho -- spo -- di -- ne, \unLeft \unSquash vždyť jsem \markup \accent spra -- ve -- dli -- \star vý a \left ne -- \squash ní \unLeft \unSquash na mně \markup \accent vi -- ny.
 \set stanza = "4."
-Ať \left pře -- \squash sta -- ne ni -- čem -- nost bez -- bož -- ní -- \optionalBreath ků, po -- de -- při \unLeft \unSquash spra -- ved -- \markup \accent li -- vé -- \star ho ty, \left kte -- \squash rý zkou -- máš srd -- ce i led -- \optionalBreath ví, spra -- ved -- \unLeft \unSquash li -- vý \markup \accent Bo -- že!
+Ať \left pře -- \squash sta -- ne ni -- čem -- nost bez -- bož -- ní -- \optionalBreath ků, po -- de -- při \unLeft \unSquash spra -- ve -- \markup \accent dli -- vé -- \star ho ty, \left kte -- \squash rý zkou -- máš srd -- ce i led -- \optionalBreath ví, spra -- ve -- \unLeft \unSquash dli -- vý \markup \accent Bo -- že!
 \set stanza = \responsum
 Ho -- spo -- di -- ne, můj Bo -- že, "k to" -- bě se u -- tí -- kám.
 \set stanza = "5."
 Bůh je \markup \accent můj \star štít, on \left u -- \squash chrá -- ní li -- di u -- přím -- \unLeft \unSquash né -- ho \markup \accent srd -- ce!
 \set stanza = "6."
-\left Bůh \squash je \unLeft \unSquash soud -- ce \markup \accent spra -- ved -- li -- \star vý, Bůh \left dá -- \squash vá vý -- \unLeft \unSquash stra -- hy \markup \accent u -- sta -- vič -- ně.
+\left Bůh \squash je \unLeft \unSquash soud -- ce \markup \accent spra -- ve -- dli -- \star vý, Bůh \left dá -- \squash vá vý -- \unLeft \unSquash stra -- hy \markup \accent u -- sta -- vič -- ně.
 \set stanza = \responsum
 Ho -- spo -- di -- ne, můj Bo -- že, "k to" -- bě se u -- tí -- kám. } }
     >>

@@ -325,7 +325,7 @@ Bu -- dou se ti, Ho -- spo -- di -- ne, kla -- nět všech -- ny ná -- ro -- dy
 \set stanza = "1."
 \left Bo -- \squash že, svěř krá -- \unLeft \unSquash li svou \markup \accent pra -- vo -- \star moc, svou \left spra -- \squash ve -- dl -- nost krá -- lov -- \unLeft \unSquash ské -- mu \markup \accent sy -- nu.
 \set stanza = "2."
-Ať \left vlád -- \squash ne tvé -- mu \unLeft \unSquash li -- du \markup \accent spra -- ved -- li -- \star vě, ne -- stran -- ně tvým \markup \accent u -- bo -- hým.
+Ať \left vlád -- \squash ne tvé -- mu \unLeft \unSquash li -- du \markup \accent spra -- ve -- dli -- \star vě, ne -- stran -- ně tvým \markup \accent u -- bo -- hým.
 \set stanza = \responsum
 Bu -- dou se ti, Ho -- spo -- di -- ne, kla -- nět všech -- ny ná -- ro -- dy.
 \set stanza = "3."

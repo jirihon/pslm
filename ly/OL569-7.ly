@@ -332,7 +332,7 @@ Roz -- já -- sám se nad tvou po -- mo -- cí, Ho -- spo -- di -- ne!
 \set stanza = \responsum
 Roz -- já -- sám se nad tvou po -- mo -- cí, Ho -- spo -- di -- ne!
 \set stanza = "5."
-\left Po -- \squash ha -- né za -- pad -- li do já -- my, \unLeft \unSquash kte -- rou \markup \accent vy -- ko -- pa -- \star li, \left no -- \squash ha jim u -- váz -- la "v léč" -- ce, \unLeft \unSquash kte -- rou \markup \accent na -- stra -- ži -- li,
+\left Po -- \squash ha -- né za -- pa -- dli do já -- my, \unLeft \unSquash kte -- rou \markup \accent vy -- ko -- pa -- \star li, \left no -- \squash ha jim u -- váz -- la "v léč" -- ce, \unLeft \unSquash kte -- rou \markup \accent na -- stra -- ži -- li,
 \set stanza = "6."
 \left ne -- \squash boť ne -- bu -- de na vě -- ky za -- po -- \unLeft \unSquash me -- nut \markup \accent chu -- \star dák, \left na -- \squash dě -- je u -- bo -- hých ne -- \unLeft \unSquash zaj -- de \markup \accent na -- vždy!
 \set stanza = \responsum

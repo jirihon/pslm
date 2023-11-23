@@ -331,7 +331,7 @@ Smi -- luj se, Pa -- ne, ne -- boť jsme zhře -- ši -- li.
 \set stanza = "4."
 Jen \left pro -- \squash ti to -- bě \unLeft \unSquash jsem se \markup \accent pro -- hře -- \star šil, \left spá -- \squash chal jsem, \unLeft \unSquash co je \markup \accent před te -- bou zlé,
 \set stanza = "5."
-\left tak -- \squash že se u -- ká -- že, jak je tvůj roz -- \unLeft \unSquash su -- dek \markup \accent spra -- ved -- li -- \star vý, \left že \squash jsi bez ú -- ho -- ny \unLeft \unSquash ve svém \markup \accent sou -- du.
+\left tak -- \squash že se u -- ká -- že, jak je tvůj roz -- \unLeft \unSquash su -- dek \markup \accent spra -- ve -- dli -- \star vý, \left že \squash jsi bez ú -- ho -- ny \unLeft \unSquash ve svém \markup \accent sou -- du.
 \set stanza = \responsum
 Smi -- luj se, Pa -- ne, ne -- boť jsme zhře -- ši -- li.
 \set stanza = "6."

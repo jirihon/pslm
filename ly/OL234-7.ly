@@ -328,7 +328,7 @@ Du -- še má, chval Ho -- spo -- di -- na!
 \set stanza = "3."
 \left Ho -- \squash spo -- din o -- tví -- rá \unLeft \unSquash o -- či \markup \accent sle -- \star pým, \left Ho -- \squash spo -- din na -- při -- \unLeft \unSquash mu -- je \markup \accent sklí -- če -- né,
 \set stanza = "4."
-\left Ho -- \squash spo -- din mi -- \unLeft \unSquash lu -- je \markup \accent spra -- ved -- li -- \star vé, \left Ho -- \squash spo -- din chrá -- ní \unLeft \unSquash při -- stě -- \markup \accent ho -- val -- ce.
+\left Ho -- \squash spo -- din mi -- \unLeft \unSquash lu -- je \markup \accent spra -- ve -- dli -- \star vé, \left Ho -- \squash spo -- din chrá -- ní \unLeft \unSquash při -- stě -- \markup \accent ho -- val -- ce.
 \set stanza = \responsum
 Du -- še má, chval Ho -- spo -- di -- na!
 \set stanza = "5."

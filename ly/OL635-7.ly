@@ -335,7 +335,7 @@ Na -- uč mě, Ho -- spo -- di -- ne, svým pří -- ka -- zům!
 \set stanza = \responsum
 Na -- uč mě, Ho -- spo -- di -- ne, svým pří -- ka -- zům!
 \set stanza = "4."
-\left Na -- \squash kloň mé srd -- ce "k svým" \unLeft \unSquash \markup \accent při -- ká -- zá -- \star ním, \left ni -- \squash ko -- li však "k ne" -- spra -- ved -- li -- vé -- mu \unLeft \unSquash \markup \accent zi -- sku.
+\left Na -- \squash kloň mé srd -- ce "k svým" \unLeft \unSquash \markup \accent při -- ká -- zá -- \star ním, \left ni -- \squash ko -- li však "k ne" -- spra -- ve -- dli -- vé -- mu \unLeft \unSquash \markup \accent zi -- sku.
 \set stanza = \responsum
 Na -- uč mě, Ho -- spo -- di -- ne, svým pří -- ka -- zům!
 \set stanza = "5."

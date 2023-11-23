@@ -340,7 +340,7 @@ Buď ve -- le -- ben Ho -- spo -- din ny -- ní i na vě -- ky!
 \set stanza = "6."
 \left Sla -- \squash bé -- ho zdvi -- há \unLeft \unSquash \markup \accent "z pra" -- \star chu, \left ze \squash sme -- ti -- ště po -- vy -- šu -- je \unLeft \unSquash \markup \accent chu -- dé -- ho,
 \set stanza = "7."
-\left a -- \squash by ho po -- sa -- dil ved -- le \unLeft \unSquash \markup \accent kní -- \star žat, \left ved -- \squash le kní -- žat své -- ho \unLeft \unSquash \markup \accent li -- du.
+\left a -- \squash by ho po -- sa -- dil ve -- dle \unLeft \unSquash \markup \accent kní -- \star žat, \left ve -- \squash dle kní -- žat své -- ho \unLeft \unSquash \markup \accent li -- du.
 \set stanza = \responsum
 Buď ve -- le -- ben Ho -- spo -- din ny -- ní i na vě -- ky! } }
     >>

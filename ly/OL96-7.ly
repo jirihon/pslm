@@ -324,7 +324,7 @@ optionalBreath = #(define-music-function (syllable)(string?)
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Pán je můj pa -- stýř, nic mi ne -- schá -- zí.
 \set stanza = "1."
-\left Ho -- \squash spo -- din je můj pa -- \unLeft \unSquash stýř, nic \markup \accent ne -- po -- strá -- \star dám, \left dá -- \squash vá mi prod -- lé -- vat na \unLeft \unSquash svě -- žích \markup \accent pa -- stvi -- nách,
+\left Ho -- \squash spo -- din je můj pa -- \unLeft \unSquash stýř, nic \markup \accent ne -- po -- strá -- \star dám, \left dá -- \squash vá mi pro -- dlé -- vat na \unLeft \unSquash svě -- žích \markup \accent pa -- stvi -- nách,
 \set stanza = "2."
 \left vo -- \squash dí mě "k vo" -- dám, kde si \unLeft \unSquash mo -- hu \markup \accent od -- po -- či -- \star nout. \left Ob -- \squash čer -- stvu -- \unLeft \unSquash je mou \markup \accent du -- ši.
 \set stanza = \responsum
@@ -346,7 +346,7 @@ Pán je můj pa -- stýř, nic mi ne -- schá -- zí.
 \set stanza = "8."
 \left Ště -- \squash stí a pří -- \unLeft \unSquash zeň mě \markup \accent pro -- vá -- ze -- \star jí \left po \squash všech -- ny dny \unLeft \unSquash mé -- ho \markup \accent ži -- vo -- ta,
 \set stanza = "9."
-\left pře -- \squash bý -- vat smím "v Ho" -- spo -- di -- \unLeft \unSquash no -- vě \markup \accent do -- \star mě \left na \squash dlou -- hé, před -- \unLeft \unSquash lou -- hé \markup \accent ča -- sy.
+\left pře -- \squash bý -- vat smím "v Ho" -- spo -- di -- \unLeft \unSquash no -- vě \markup \accent do -- \star mě \left na \squash dlou -- hé, pře -- \unLeft \unSquash dlou -- hé \markup \accent ča -- sy.
 \set stanza = \responsum
 Pán je můj pa -- stýř, nic mi ne -- schá -- zí. } }
     >>

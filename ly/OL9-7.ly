@@ -333,7 +333,7 @@ Dě -- kuj -- te Ho -- spo -- di -- nu, ne -- boť je dob -- rý, je -- ho mi --
 \set stanza = "4."
 \left O -- \squash te -- vře -- te mně brá -- ny spra -- ve -- \unLeft \unSquash \markup \accent dl -- no -- \star sti, \left vej -- \squash du ji -- mi, a -- bych vzdal dí -- ky \unLeft \unSquash \markup \accent Ho -- spo -- di -- nu.
 \set stanza = "5."
-\left To -- \squash to je Ho -- spo -- di -- no -- va \unLeft \unSquash \markup \accent brá -- \star na, jí \left pro -- \squash chá -- ze -- jí \unLeft \unSquash \markup \accent spra -- ved -- li -- ví.
+\left To -- \squash to je Ho -- spo -- di -- no -- va \unLeft \unSquash \markup \accent brá -- \star na, jí \left pro -- \squash chá -- ze -- jí \unLeft \unSquash \markup \accent spra -- ve -- dli -- ví.
 \set stanza = "6."
 \left Dě -- \squash ku -- ji ti, žes mě \unLeft \unSquash \markup \accent vy -- sly -- \star šel \left a \squash stal se mou \unLeft \unSquash \markup \accent spá -- sou.
 \set stanza = \responsum

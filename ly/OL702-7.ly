@@ -323,7 +323,7 @@ optionalBreath = #(define-music-function (syllable)(string?)
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Ja -- snou tvář u -- kaž své -- mu slu -- žeb -- ní -- ku, Ho -- spo -- di -- ne!
 \set stanza = "1."
-\left Na -- \squash uč mě moud -- ro -- \unLeft \unSquash sti a \markup \accent vě -- dě -- \star ní, ne -- \left boť \squash dů -- vě -- řu -- \unLeft \unSquash ji tvým \markup \accent před -- pi -- sům.
+\left Na -- \squash uč mě mou -- dro -- \unLeft \unSquash sti a \markup \accent vě -- dě -- \star ní, ne -- \left boť \squash dů -- vě -- řu -- \unLeft \unSquash ji tvým \markup \accent před -- pi -- sům.
 \set stanza = \responsum
 Ja -- snou tvář u -- kaž své -- mu slu -- žeb -- ní -- ku, Ho -- spo -- di -- ne!
 \set stanza = "2."
@@ -331,11 +331,11 @@ Ja -- snou tvář u -- kaž své -- mu slu -- žeb -- ní -- ku, Ho -- spo -- di
 \set stanza = \responsum
 Ja -- snou tvář u -- kaž své -- mu slu -- žeb -- ní -- ku, Ho -- spo -- di -- ne!
 \set stanza = "3."
-Vím, \left Ho -- \squash spo -- di -- ne, že spra -- ved -- li -- vá \unLeft \unSquash jsou tvá \markup \accent roz -- hod -- nu -- \star tí, že \left jsi \squash mě po -- ko -- řil \unLeft \unSquash pod -- le \markup \accent prá -- va.
+Vím, \left Ho -- \squash spo -- di -- ne, že spra -- ve -- dli -- vá \unLeft \unSquash jsou tvá \markup \accent roz -- hod -- nu -- \star tí, že \left jsi \squash mě po -- ko -- řil \unLeft \unSquash po -- dle \markup \accent prá -- va.
 \set stanza = \responsum
 Ja -- snou tvář u -- kaž své -- mu slu -- žeb -- ní -- ku, Ho -- spo -- di -- ne!
 \set stanza = "4."
-\left Pod -- \squash le tvých roz -- hod -- nu -- tí ze -- mě \unLeft \unSquash tr -- vá \markup \accent stá -- \star le, ne -- \left boť \squash všech -- \unLeft \unSquash no ti \markup \accent slou -- ží.
+\left Po -- \squash dle tvých roz -- hod -- nu -- tí ze -- mě \unLeft \unSquash tr -- vá \markup \accent stá -- \star le, ne -- \left boť \squash všech -- \unLeft \unSquash no ti \markup \accent slou -- ží.
 \set stanza = \responsum
 Ja -- snou tvář u -- kaž své -- mu slu -- žeb -- ní -- ku, Ho -- spo -- di -- ne!
 \set stanza = "5."

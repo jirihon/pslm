@@ -317,23 +317,23 @@ optionalBreath = #(define-music-function (syllable)(string?)
 \relative { r8 bes'8 a8 bes \bar "" c[( a)] a2 \cadenzaMeasure \bar "|" g\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes f8 g \bar "" a f f2 \cadenzaMeasure \bar "||" \break }
 \relative { f'8 f e d2 \bar "" d8 d e f \bar "" g g4 g8 \bar "" g g \bar "" a bes c c4. r4 \cadenzaMeasure \bar "||" \break } \bar "|." }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
-Spra -- ved -- li -- vý bu -- de, Pa -- ne, pře -- bý -- vat na tvé sva -- té ho -- ře.
+Spra -- ve -- dli -- vý bu -- de, Pa -- ne, pře -- bý -- vat na tvé sva -- té ho -- ře.
 \set stanza = "1."
 Kdo \left ži -- \squash je bez va -- dy a \unLeft \unSquash ko -- ná \markup \accent spra -- ve -- dl -- \star nost, \left u -- \squash přím -- ně smý -- šlí ve svém srd -- \breath "ci," svým ja -- \unLeft \unSquash zy -- kem \markup \accent ne -- po -- mlou -- vá.
 \set stanza = \responsum
-Spra -- ved -- li -- vý bu -- de, Pa -- ne, pře -- bý -- vat na tvé sva -- té ho -- ře.
+Spra -- ve -- dli -- vý bu -- de, Pa -- ne, pře -- bý -- vat na tvé sva -- té ho -- ře.
 \set stanza = "2."
 \left Ne -- \squash či -- ní pří -- ko -- ří \unLeft \unSquash své -- mu \markup \accent bliž -- ní -- \star mu, \left ne -- \squash tu -- pí \unLeft \unSquash své -- ho \markup \accent sou -- se -- da.
 \set stanza = "3."
 \left Ne -- \squash šle -- chet -- ným člo -- \unLeft \unSquash vě -- kem \markup \accent po -- hr -- \star dá, \left a -- \squash le vá -- ží si těch, kdo se \unLeft \unSquash bo -- jí \markup \accent Ho -- spo -- di -- na.
 \set stanza = \responsum
-Spra -- ved -- li -- vý bu -- de, Pa -- ne, pře -- bý -- vat na tvé sva -- té ho -- ře.
+Spra -- ve -- dli -- vý bu -- de, Pa -- ne, pře -- bý -- vat na tvé sva -- té ho -- ře.
 \set stanza = "4."
 \left Ne -- \squash lichva -- ří \unLeft \unSquash svý -- mi \markup \accent pe -- ně -- \star zi a \left ne -- \squash be -- re úplat -- ky \unLeft \unSquash pro -- ti \markup \accent ne -- vin -- né -- mu.
 \set stanza = "5."
 Kdo tak -- to \markup \accent jed -- \star ná, \left ni -- \squash kdy \unLeft \unSquash ne -- za -- \markup \accent ko -- lí -- sá!
 \set stanza = \responsum
-Spra -- ved -- li -- vý bu -- de, Pa -- ne, pře -- bý -- vat na tvé sva -- té ho -- ře. } }
+Spra -- ve -- dli -- vý bu -- de, Pa -- ne, pře -- bý -- vat na tvé sva -- té ho -- ře. } }
     >>
     \layout {}
 }

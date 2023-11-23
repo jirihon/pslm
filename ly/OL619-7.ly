@@ -327,7 +327,7 @@ Jak mi -- lu -- ji tvůj zá -- kon, Ho -- spo -- di -- ne.
 \set stanza = \responsum
 Jak mi -- lu -- ji tvůj zá -- kon, Ho -- spo -- di -- ne.
 \set stanza = "2."
-\left Zá -- \squash kla -- dem tvé -- ho slo -- \unLeft \unSquash va je \markup \accent stá -- \star lost, \left věč -- \squash ná jsou všech -- na tvá spra -- ved -- \unLeft \unSquash li -- vá \markup \accent roz -- hod -- nu -- tí.
+\left Zá -- \squash kla -- dem tvé -- ho slo -- \unLeft \unSquash va je \markup \accent stá -- \star lost, \left věč -- \squash ná jsou všech -- na tvá spra -- ve -- \unLeft \unSquash dli -- vá \markup \accent roz -- hod -- nu -- tí.
 \set stanza = \responsum
 Jak mi -- lu -- ji tvůj zá -- kon, Ho -- spo -- di -- ne.
 \set stanza = "3."

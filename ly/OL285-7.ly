@@ -331,7 +331,7 @@ Svým an -- dě -- lům vy -- dal o to -- bě pří -- kaz, a -- by tě stře --
 \set stanza = "3."
 \left Ne -- \squash boť on tě vy -- svo -- bo -- dil "z léč" -- ky \unLeft \unSquash \markup \accent ptáč -- ní -- \star ka, \left ze \squash zhoub -- né -- ho \unLeft \unSquash \markup \accent mo -- ru.
 \set stanza = "4."
-\left O -- \squash chrá -- ní tě svý -- mi \unLeft \unSquash \markup \accent pe -- ru -- tě -- \star mi, \left u -- \squash chý -- líš se pod je -- ho \unLeft \unSquash \markup \accent kříd -- la.
+\left O -- \squash chrá -- ní tě svý -- mi \unLeft \unSquash \markup \accent pe -- ru -- tě -- \star mi, \left u -- \squash chý -- líš se pod je -- ho \unLeft \unSquash \markup \accent kří -- dla.
 \set stanza = \responsum
 Svým an -- dě -- lům vy -- dal o to -- bě pří -- kaz, a -- by tě stře -- ži -- li na všech tvých ce -- stách.
 \set stanza = "5."

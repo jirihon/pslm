@@ -319,7 +319,7 @@ optionalBreath = #(define-music-function (syllable)(string?)
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Ho -- spo -- di -- no -- vy před -- pi -- sy jsou správ -- né, pů -- so -- bí ra -- dost srd -- ci.
 \set stanza = "1."
-\left Ho -- \squash spo -- di -- nův zá -- kon je do -- ko -- na -- \optionalBreath lý, ob -- čer -- \unLeft \unSquash stvu -- je \markup \accent du -- \star ši, \left Ho -- \squash spo -- di -- nův pří -- kaz je spo -- leh -- li -- \optionalBreath vý, ne -- zku -- še -- né -- mu \unLeft \unSquash dá -- vá \markup \accent moud -- rost.
+\left Ho -- \squash spo -- di -- nův zá -- kon je do -- ko -- na -- \optionalBreath lý, ob -- čer -- \unLeft \unSquash stvu -- je \markup \accent du -- \star ši, \left Ho -- \squash spo -- di -- nův pří -- kaz je spo -- leh -- li -- \optionalBreath vý, ne -- zku -- še -- né -- mu \unLeft \unSquash dá -- vá \markup \accent mou -- drost.
 \set stanza = \responsum
 Ho -- spo -- di -- no -- vy před -- pi -- sy jsou správ -- né, pů -- so -- bí ra -- dost srd -- ci.
 \set stanza = "2."
@@ -327,7 +327,7 @@ Ho -- spo -- di -- no -- vy před -- pi -- sy jsou správ -- né, pů -- so -- b
 \set stanza = \responsum
 Ho -- spo -- di -- no -- vy před -- pi -- sy jsou správ -- né, pů -- so -- bí ra -- dost srd -- ci.
 \set stanza = "3."
-\left Bá -- \squash zeň před Ho -- spo -- di -- nem je u -- přím -- ná, \unLeft \unSquash tr -- vá \markup \accent na vě -- \star ky, \left Ho -- \squash spo -- di -- no -- vy vý -- ro -- ky jsou prav -- di -- \optionalBreath vé, všech -- \unLeft \unSquash ny jsou \markup \accent spra -- ved -- li -- vé.
+\left Bá -- \squash zeň před Ho -- spo -- di -- nem je u -- přím -- ná, \unLeft \unSquash tr -- vá \markup \accent na vě -- \star ky, \left Ho -- \squash spo -- di -- no -- vy vý -- ro -- ky jsou prav -- di -- \optionalBreath vé, všech -- \unLeft \unSquash ny jsou \markup \accent spra -- ve -- dli -- vé.
 \set stanza = \responsum
 Ho -- spo -- di -- no -- vy před -- pi -- sy jsou správ -- né, pů -- so -- bí ra -- dost srd -- ci.
 \set stanza = "4."

@@ -320,7 +320,7 @@ optionalBreath = #(define-music-function (syllable)(string?)
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Ho -- spo -- din je "s ná" -- mi.
 \set stanza = "1."
-\left Ho -- \squash spo -- din mi -- lu -- je, co za -- lo -- žil na sva -- tých \unLeft \unSquash \markup \accent ho -- \star rách, \left mi -- \squash lu -- je brá -- ny Si -- ó -- nu nad všech -- na Ja -- ku -- bo -- va \unLeft \unSquash \markup \accent síd -- la.
+\left Ho -- \squash spo -- din mi -- lu -- je, co za -- lo -- žil na sva -- tých \unLeft \unSquash \markup \accent ho -- \star rách, \left mi -- \squash lu -- je brá -- ny Si -- ó -- nu nad všech -- na Ja -- ku -- bo -- va \unLeft \unSquash \markup \accent sí -- dla.
 \set stanza = "2."
 \left Slav -- \squash né vě -- ci se o to -- bě \unLeft \unSquash \markup \accent vy -- pra -- vu -- \star jí, \left mě -- \squash sto \unLeft \unSquash \markup \accent Bo -- ží!
 \set stanza = \responsum
@@ -334,7 +334,7 @@ Ho -- spo -- din je "s ná" -- mi.
 \set stanza = "5."
 \left Ho -- \squash spo -- din za -- pí -- še do kni -- hy \unLeft \unSquash \markup \accent ná -- ro -- \star dů: \left „Ti -- \squash to se tam \unLeft \unSquash \markup \accent na -- ro -- di -- li.“
 \set stanza = "6."
-\left Při \squash tan -- ci bu -- dou \unLeft \unSquash \markup \accent zpí -- \star vat: \left „Všech -- \squash na zříd -- la mé spá -- sy jsou \unLeft \unSquash \markup \accent "v to" -- bě.“
+\left Při \squash tan -- ci bu -- dou \unLeft \unSquash \markup \accent zpí -- \star vat: \left „Všech -- \squash na zří -- dla mé spá -- sy jsou \unLeft \unSquash \markup \accent "v to" -- bě.“
 \set stanza = \responsum
 Ho -- spo -- din je "s ná" -- mi. } }
     >>

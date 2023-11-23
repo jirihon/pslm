@@ -327,7 +327,7 @@ Jak \left mi -- \squash lu -- ji tvůj \unLeft \unSquash zá -- kon, \markup \ac
 \set stanza = \responsum
 Jak mi -- lu -- ji tvůj zá -- kon, Ho -- spo -- di -- ne.
 \set stanza = "2."
-\left Moud -- \squash řej -- ším nad mé ne -- přá -- te -- le mě u -- či -- \unLeft \unSquash nil tvůj \markup \accent před -- \star pis, \left ne -- \squash boť na vě -- \unLeft \unSquash ky je \markup \accent se mnou.
+\left Mou -- \squash dřej -- ším nad mé ne -- přá -- te -- le mě u -- či -- \unLeft \unSquash nil tvůj \markup \accent před -- \star pis, \left ne -- \squash boť na vě -- \unLeft \unSquash ky je \markup \accent se mnou.
 \set stanza = \responsum
 Jak mi -- lu -- ji tvůj zá -- kon, Ho -- spo -- di -- ne.
 \set stanza = "3."

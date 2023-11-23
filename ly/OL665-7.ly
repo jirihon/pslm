@@ -322,7 +322,7 @@ Ne -- o -- pou -- štíš, Ho -- spo -- di -- ne, ty, kte -- ří tě hle -- da 
 \set stanza = "1."
 \left Ho -- \squash spo -- din trů -- ní \unLeft \unSquash \markup \accent věč -- \star ně, \left sto -- \squash lec svůj po -- sta -- vil \unLeft \unSquash \markup \accent "k sou" -- du.
 \set stanza = "2."
-\left Pod -- \squash le prá -- va bu -- de svět \unLeft \unSquash \markup \accent sou -- \star dit, \left pod -- \squash le spra -- ve -- dl -- no -- sti vy -- řkne roz -- su -- dek \unLeft \unSquash \markup \accent nad ná -- ro -- dy.
+\left Po -- \squash dle prá -- va bu -- de svět \unLeft \unSquash \markup \accent sou -- \star dit, \left po -- \squash dle spra -- ve -- dl -- no -- sti vy -- řkne roz -- su -- dek \unLeft \unSquash \markup \accent nad ná -- ro -- dy.
 \set stanza = \responsum
 Ne -- o -- pou -- štíš, Ho -- spo -- di -- ne, ty, kte -- ří tě hle -- da -- jí.
 \set stanza = "3."
@@ -332,7 +332,7 @@ Ne -- o -- pou -- štíš, Ho -- spo -- di -- ne, ty, kte -- ří tě hle -- da 
 \set stanza = \responsum
 Ne -- o -- pou -- štíš, Ho -- spo -- di -- ne, ty, kte -- ří tě hle -- da -- jí.
 \set stanza = "5."
-\left Zpí -- \squash vej -- te Ho -- spo -- di -- nu, kte -- rý síd -- lí \unLeft \unSquash \markup \accent na Si -- ó -- \star nu, \left roz -- \squash hla -- šuj -- te je -- ho či -- ny me -- zi \unLeft \unSquash \markup \accent ná -- ro -- dy,
+\left Zpí -- \squash vej -- te Ho -- spo -- di -- nu, kte -- rý sí -- dlí \unLeft \unSquash \markup \accent na Si -- ó -- \star nu, \left roz -- \squash hla -- šuj -- te je -- ho či -- ny me -- zi \unLeft \unSquash \markup \accent ná -- ro -- dy,
 \set stanza = "6."
 \left vždyť \squash si na ně vzpo -- mněl ja -- ko krev -- ní \unLeft \unSquash \markup \accent msti -- \star tel, \left ne -- \squash za -- po -- mněl na vý -- kři -- ky \unLeft \unSquash \markup \accent u -- bo -- žá -- ků.
 \set stanza = \responsum

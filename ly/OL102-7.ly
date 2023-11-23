@@ -322,13 +322,13 @@ Hle, u -- bo -- žák za -- vo -- lal, a Ho -- spo -- din sly -- šel.
 \set stanza = "1."
 \left Ho -- \squash spo -- di -- nův hněv stí -- há \unLeft \unSquash ty, kdo \markup \accent pá -- cha -- jí \star zlo, a -- \left by \squash vy -- hla -- dil ze ze -- mě vzpo -- \unLeft \unSquash mín -- ku \markup \accent na ně.
 \set stanza = "2."
-\left Spra -- \squash ved -- li -- ví vo -- la -- li, a Ho -- \unLeft \unSquash spo -- din \markup \accent sly -- \star šel, vy -- \left svo -- \squash bo -- dil je "z kaž" -- dé \unLeft \unSquash je -- jich \markup \accent tí -- sně.
+\left Spra -- \squash ve -- dli -- ví vo -- la -- li, a Ho -- \unLeft \unSquash spo -- din \markup \accent sly -- \star šel, vy -- \left svo -- \squash bo -- dil je "z kaž" -- dé \unLeft \unSquash je -- jich \markup \accent tí -- sně.
 \set stanza = \responsum
 Hle, u -- bo -- žák za -- vo -- lal, a Ho -- spo -- din sly -- šel.
 \set stanza = "3."
 \left Blíz -- \squash ko je Ho -- spo -- din těm, kdo ma -- jí zkrou -- \unLeft \unSquash še -- né \markup \accent srd -- \star ce, na \left du -- \squash chu zlo -- \unLeft \unSquash me -- né \markup \accent za -- chra -- ňu -- je.
 \set stanza = "4."
-\left Spra -- \squash ved -- li -- vý mí -- vá \unLeft \unSquash mno -- ho \markup \accent sou -- že -- \star ní, Ho -- \left spo -- \squash din však ho \unLeft \unSquash ze všech \markup \accent vy -- pro -- stí.
+\left Spra -- \squash ve -- dli -- vý mí -- vá \unLeft \unSquash mno -- ho \markup \accent sou -- že -- \star ní, Ho -- \left spo -- \squash din však ho \unLeft \unSquash ze všech \markup \accent vy -- pro -- stí.
 \set stanza = \responsum
 Hle, u -- bo -- žák za -- vo -- lal, a Ho -- spo -- din sly -- šel.
 \set stanza = "5."

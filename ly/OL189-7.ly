@@ -335,7 +335,7 @@ On \left vy -- \squash ku -- pu -- je \left \unLeft \unSquash tvůj \squash ži 
 \set stanza = \responsum
 Ho -- spo -- di -- no -- va lá -- ska od vě -- ků pro ty, kdo se ho bo -- jí.
 \set stanza = "5."
-\left Ho -- \squash spo -- din ko -- ná \left \unLeft \unSquash spra -- \squash ved -- li -- vé \unLeft \unSquash \markup \accent skut -- \star ky, \left zjed -- \squash ná -- vá \left \unLeft \unSquash prá -- \squash vo všem \unLeft \unSquash \markup \accent u -- tla -- če -- ným.
+\left Ho -- \squash spo -- din ko -- ná \left \unLeft \unSquash spra -- \squash ve -- dli -- vé \unLeft \unSquash \markup \accent skut -- \star ky, \left zjed -- \squash ná -- vá \left \unLeft \unSquash prá -- \squash vo všem \unLeft \unSquash \markup \accent u -- tla -- če -- ným.
 \set stanza = "6."
 \left Oz -- \squash ná -- mil své \left \unLeft \unSquash plá -- \squash ny \unLeft \unSquash \markup \accent Moj -- ží -- šo -- \star vi, \left iz -- \squash ra -- el -- ským \left \unLeft \unSquash sy -- \squash nům své \unLeft \unSquash \markup \accent skut -- ky.
 \set stanza = \responsum
@@ -343,7 +343,7 @@ Ho -- spo -- di -- no -- va lá -- ska od vě -- ků pro ty, kdo se ho bo -- jí
 \set stanza = "7."
 \left Ho -- \squash spo -- din je \left \unLeft \unSquash mi -- \squash lo -- srd -- ný a \unLeft \unSquash \markup \accent mi -- lo -- sti -- \star vý, \left sho -- \squash ví -- va -- vý a \left \unLeft \unSquash nad -- \squash mí -- ru \unLeft \unSquash \markup \accent dob -- ro -- ti -- vý.
 \set stanza = "8."
-\left Ne -- \squash jed -- ná "s ná" -- mi \left \unLeft \unSquash pod -- \squash le na -- šich \unLeft \unSquash \markup \accent hří -- \star chů \left a -- \squash ni pod -- le \left \unLeft \unSquash na -- \squash šich vin nám \unLeft \unSquash \markup \accent ne -- od -- plá -- cí.
+\left Ne -- \squash jed -- ná "s ná" -- mi \left \unLeft \unSquash po -- \squash dle na -- šich \unLeft \unSquash \markup \accent hří -- \star chů \left a -- \squash ni po -- dle \left \unLeft \unSquash na -- \squash šich vin nám \unLeft \unSquash \markup \accent ne -- od -- plá -- cí.
 \set stanza = \responsum
 Ho -- spo -- di -- no -- va lá -- ska od vě -- ků pro ty, kdo se ho bo -- jí. } }
     >>

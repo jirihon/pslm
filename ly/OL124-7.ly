@@ -326,13 +326,13 @@ Nechť řek -- ne dům \markup \accent Iz -- ra -- e -- \star lův: \left „Je 
 \set stanza = \responsum
 To -- to je den, kte -- rý při -- pra -- vil Pán, já -- sej -- me a ra -- du -- jme se "z ně" -- ho!
 \set stanza = "3."
-Ho -- spo -- \left di -- \squash no -- va pra -- vi -- ce \unLeft \unSquash moc -- ně \markup \accent za -- sáh -- \star la, \left Ho -- \squash spo -- di -- no -- va \unLeft \unSquash pra -- vi -- ce mě \markup \accent po -- zved -- la.
+Ho -- spo -- \left di -- \squash no -- va pra -- vi -- ce \unLeft \unSquash moc -- ně \markup \accent za -- sáh -- \star la, \left Ho -- \squash spo -- di -- no -- va \unLeft \unSquash pra -- vi -- ce mě \markup \accent po -- zve -- dla.
 \set stanza = "4."
 Ne -- ze -- mřu, a -- le \markup \accent bu -- du \star žít a \left vy -- \squash pra -- vo -- vat o Ho -- \unLeft \unSquash spo -- di -- no -- vých \markup \accent či -- nech.
 \set stanza = \responsum
 To -- to je den, kte -- rý při -- pra -- vil Pán, já -- sej -- me a ra -- du -- jme se "z ně" -- ho!
 \set stanza = "5."
-Ká -- men, \left kte -- \squash rý sta -- vi -- \unLeft \unSquash te -- lé \markup \accent za -- vrh -- \star li, stal se kvád -- rem \markup \accent ná -- rož -- ním.
+Ká -- men, \left kte -- \squash rý sta -- vi -- \unLeft \unSquash te -- lé \markup \accent za -- vrh -- \star li, stal se kvá -- drem \markup \accent ná -- rož -- ním.
 \set stanza = "6."
 Ho -- spo -- \left di -- \squash no -- vým ří -- ze -- ním \unLeft \unSquash se tak \markup \accent sta -- \star lo, \left je \squash to po -- di -- vu -- \unLeft \unSquash hod -- né "v na" -- šich \markup \accent o -- čích.
 \set stanza = \responsum

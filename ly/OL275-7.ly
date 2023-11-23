@@ -328,9 +328,9 @@ Bla -- ze mu -- ži, kte -- rý se sli -- to -- vá -- vá a půj -- ču -- je.
 \set stanza = \responsum
 Bla -- ze mu -- ži, kte -- rý se sli -- to -- vá -- vá a půj -- ču -- je.
 \set stanza = "3."
-\left Bla -- \squash ze mu -- ži, kte -- rý se sli -- to -- vá -- \unLeft \unSquash vá a \markup \accent půj -- ču -- \star je, sta -- \left rá \squash se o své vě -- ci \unLeft \unSquash pod -- le \markup \accent prá -- va.
+\left Bla -- \squash ze mu -- ži, kte -- rý se sli -- to -- vá -- \unLeft \unSquash vá a \markup \accent půj -- ču -- \star je, sta -- \left rá \squash se o své vě -- ci \unLeft \unSquash po -- dle \markup \accent prá -- va.
 \set stanza = "4."
-\left Ne -- \squash boť na vě -- ky \unLeft \unSquash ne -- za -- \markup \accent ko -- lí -- \star sá, ve \left věč -- \squash né pa -- mě -- ti \unLeft \unSquash bu -- de \markup \accent spra -- ved -- li -- vý.
+\left Ne -- \squash boť na vě -- ky \unLeft \unSquash ne -- za -- \markup \accent ko -- lí -- \star sá, ve \left věč -- \squash né pa -- mě -- ti \unLeft \unSquash bu -- de \markup \accent spra -- ve -- dli -- vý.
 \set stanza = \responsum
 Bla -- ze mu -- ži, kte -- rý se sli -- to -- vá -- vá a půj -- ču -- je.
 \set stanza = "5."
@@ -340,7 +340,7 @@ Bla -- ze mu -- ži, kte -- rý se sli -- to -- vá -- vá a půj -- ču -- je.
 \set stanza = \responsum
 Bla -- ze mu -- ži, kte -- rý se sli -- to -- vá -- vá a půj -- ču -- je.
 \set stanza = "7."
-\left Roz -- \squash dě -- lu -- je, \unLeft \unSquash dá -- vá \markup \accent chu -- \star dým, je -- \left ho \squash štěd -- rost po -- tr -- vá na -- \breath "vždy," je -- ho moc po -- \unLeft \unSquash ro -- ste \markup \accent "v slá" -- vě.
+\left Roz -- \squash dě -- lu -- je, \unLeft \unSquash dá -- vá \markup \accent chu -- \star dým, je -- \left ho \squash ště -- drost po -- tr -- vá na -- \breath "vždy," je -- ho moc po -- \unLeft \unSquash ro -- ste \markup \accent "v slá" -- vě.
 \set stanza = \responsum
 Bla -- ze mu -- ži, kte -- rý se sli -- to -- vá -- vá a půj -- ču -- je. } }
     >>

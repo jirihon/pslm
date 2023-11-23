@@ -335,7 +335,7 @@ Ať \left oplý -- \squash va -- jí \unLeft \unSquash mé rty \markup \accent c
 \set stanza = \responsum
 Jak mi -- lu -- ji tvůj zá -- kon, Ho -- spo -- di -- ne.
 \set stanza = "4."
-\left Ať \squash můj ja -- zyk o -- pě -- vu -- \unLeft \unSquash je tvůj \markup \accent vý -- \star rok, \left ne -- \squash boť všech -- ny tvé před -- pi -- \unLeft \unSquash sy jsou \markup \accent spra -- ved -- li -- vé.
+\left Ať \squash můj ja -- zyk o -- pě -- vu -- \unLeft \unSquash je tvůj \markup \accent vý -- \star rok, \left ne -- \squash boť všech -- ny tvé před -- pi -- \unLeft \unSquash sy jsou \markup \accent spra -- ve -- dli -- vé.
 \set stanza = \responsum
 Jak mi -- lu -- ji tvůj zá -- kon, Ho -- spo -- di -- ne.
 \set stanza = "5."

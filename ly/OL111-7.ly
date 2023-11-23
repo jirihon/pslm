@@ -331,7 +331,7 @@ Bo -- že můj, Bo -- že můj, proč jsi mne o -- pu -- stil?
 \set stanza = "3."
 \left Ob -- \squash kli -- ču -- \unLeft \unSquash je mě \markup \accent smeč -- ka \star psů, \left tlu -- \squash pa zlo -- sy -- \unLeft \unSquash nů mě \markup \accent sví -- rá.
 \set stanza = "4."
-\left Pro -- \squash bod -- li mi ru -- \unLeft \unSquash ce i \markup \accent no -- \star hy, \left spo -- \squash čí -- tat mo -- hu všech -- \unLeft \unSquash ny své \markup \accent ko -- sti.
+\left Pro -- \squash bo -- dli mi ru -- \unLeft \unSquash ce i \markup \accent no -- \star hy, \left spo -- \squash čí -- tat mo -- hu všech -- \unLeft \unSquash ny své \markup \accent ko -- sti.
 \set stanza = \responsum
 Bo -- že můj, Bo -- že můj, proč jsi mne o -- pu -- stil?
 \set stanza = "5."

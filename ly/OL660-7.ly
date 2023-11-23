@@ -338,7 +338,7 @@ Svým \left bra -- \squash trům stal \unLeft \unSquash jsem se \markup \accent 
 \set stanza = \responsum
 Vy -- slyš mě, Ho -- spo -- di -- ne, ve své ve -- li -- ké lá -- sce!
 \set stanza = "7."
-\left Já \squash se však, Ho -- spo -- di -- ne, o -- bra -- cím mod -- \unLeft \unSquash lit -- bou \markup \accent "k to" -- \star bě \left "v čas" \squash mi -- \unLeft \unSquash lo -- sti, \markup \accent Bo -- že!
+\left Já \squash se však, Ho -- spo -- di -- ne, o -- bra -- cím mo -- \unLeft \unSquash dlit -- bou \markup \accent "k to" -- \star bě \left "v čas" \squash mi -- \unLeft \unSquash lo -- sti, \markup \accent Bo -- že!
 \set stanza = "8."
 \left Vy -- \squash slyš mě ve své ve -- \unLeft \unSquash li -- ké \markup \accent lá -- \star sce, věr -- ně mi \markup \accent po -- moz!
 \set stanza = \responsum

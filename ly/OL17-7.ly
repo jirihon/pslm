@@ -331,7 +331,7 @@ Vy -- pra -- vuj -- te me -- zi vše -- mi ná -- ro -- dy o Ho -- spo -- di -- 
 \set stanza = "3."
 \left Vy -- \squash pra -- vuj -- te me -- zi po -- ha -- ny o \unLeft \unSquash je -- ho \markup \accent slá -- \star vě, \left me -- \squash zi vše -- mi ná -- ro -- dy o \unLeft \unSquash je -- ho \markup \accent di -- vech.
 \set stanza = "4."
-\left Hlá -- \squash sej -- te me -- zi po -- ha -- ny: Ho -- \unLeft \unSquash spo -- din \markup \accent kra -- lu -- \star je, \left ná -- \squash ro -- dy ří -- dí \unLeft \unSquash pod -- le \markup \accent prá -- va.
+\left Hlá -- \squash sej -- te me -- zi po -- ha -- ny: Ho -- \unLeft \unSquash spo -- din \markup \accent kra -- lu -- \star je, \left ná -- \squash ro -- dy ří -- dí \unLeft \unSquash po -- dle \markup \accent prá -- va.
 \set stanza = \responsum
 Vy -- pra -- vuj -- te me -- zi vše -- mi ná -- ro -- dy o Ho -- spo -- di -- no -- vých di -- vech.
 \set stanza = "5."
@@ -343,7 +343,7 @@ Vy -- pra -- vuj -- te me -- zi vše -- mi ná -- ro -- dy o Ho -- spo -- di -- 
 \set stanza = \responsum
 Vy -- pra -- vuj -- te me -- zi vše -- mi ná -- ro -- dy o Ho -- spo -- di -- no -- vých di -- vech.
 \set stanza = "8."
-\left Bu -- \squash de ří -- \unLeft \unSquash dit svět \markup \accent spra -- ved -- li -- \star vě, \left ná -- \squash ro -- dy bu -- de spra -- \unLeft \unSquash vo -- vat \markup \accent věr -- ně.
+\left Bu -- \squash de ří -- \unLeft \unSquash dit svět \markup \accent spra -- ve -- dli -- \star vě, \left ná -- \squash ro -- dy bu -- de spra -- \unLeft \unSquash vo -- vat \markup \accent věr -- ně.
 \set stanza = \responsum
 Vy -- pra -- vuj -- te me -- zi vše -- mi ná -- ro -- dy o Ho -- spo -- di -- no -- vých di -- vech. } }
     >>

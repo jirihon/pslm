@@ -326,7 +326,7 @@ Bo -- že, ve své dob -- ro -- tě ses po -- sta -- ral o chu -- dá -- ka.
 \set stanza = \responsum
 Bo -- že, ve své dob -- ro -- tě ses po -- sta -- ral o chu -- dá -- ka.
 \set stanza = "3."
-\left Spra -- \squash ved -- li -- ví se však ra -- du -- jí, já -- \unLeft \unSquash sa -- jí \markup \accent před Bo -- \star hem a \left ve -- \squash se -- \unLeft \unSquash lí se \markup \accent "v ra" -- do -- sti.
+\left Spra -- \squash ve -- dli -- ví se však ra -- du -- jí, já -- \unLeft \unSquash sa -- jí \markup \accent před Bo -- \star hem a \left ve -- \squash se -- \unLeft \unSquash lí se \markup \accent "v ra" -- do -- sti.
 \set stanza = "4."
 \left Zpí -- \squash vej -- te Bo -- hu, ve -- leb -- te \unLeft \unSquash je -- ho \markup \accent jmé -- \star no, \left je -- \squash ho jmé -- \unLeft \unSquash no je \markup \accent Ho -- spo -- din.
 \set stanza = \responsum

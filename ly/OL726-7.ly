@@ -343,7 +343,7 @@ Zpí -- vej -- te Ho -- spo -- di -- nu pí -- seň no -- vou, pro -- to -- že 
 \set stanza = "7."
 \left Před \squash Ho -- spo -- di -- nem, že \unLeft \unSquash \markup \accent při -- \star šel, že \left při -- \squash šel, a -- by spra -- vo -- val \unLeft \unSquash \markup \accent ze -- mi,
 \set stanza = "8."
-\left a -- \squash by spra -- vo -- val svět ve spra -- ve -- \unLeft \unSquash \markup \accent dl -- no -- \star sti a \left ná -- \squash ro -- dy pod -- le \unLeft \unSquash \markup \accent prá -- va.
+\left a -- \squash by spra -- vo -- val svět ve spra -- ve -- \unLeft \unSquash \markup \accent dl -- no -- \star sti a \left ná -- \squash ro -- dy po -- dle \unLeft \unSquash \markup \accent prá -- va.
 \set stanza = \responsum
 Zpí -- vej -- te Ho -- spo -- di -- nu pí -- seň no -- vou, pro -- to -- že u -- či -- nil po -- di -- vu -- hod -- né vě -- ci. } }
     >>

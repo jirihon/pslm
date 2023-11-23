@@ -323,7 +323,7 @@ optionalBreath = #(define-music-function (syllable)(string?)
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Sví -- til -- nou mým no -- hám je tvé slo -- vo.
 \set stanza = "1."
-\left Od -- \squash vrať \unLeft \unSquash mě od \markup \accent ce -- sty \star lži, \left u -- \squash štěd -- ři \unLeft \unSquash mi svůj \markup \accent zá -- kon!
+\left Od -- \squash vrať \unLeft \unSquash mě od \markup \accent ce -- sty \star lži, \left u -- \squash ště -- dři \unLeft \unSquash mi svůj \markup \accent zá -- kon!
 \set stanza = \responsum
 Sví -- til -- nou mým no -- hám je tvé slo -- vo.
 \set stanza = "2."
@@ -339,7 +339,7 @@ Sví -- til -- nou mým no -- hám je tvé slo -- vo.
 \set stanza = \responsum
 Sví -- til -- nou mým no -- hám je tvé slo -- vo.
 \set stanza = "5."
-\left Tvý -- \squash mi na -- ří -- ze -- ní -- \unLeft \unSquash mi jsem \markup \accent zmoud -- \star řel, \left pro -- \squash to ne -- ná -- vi -- dím kde -- ja -- kou ne -- \unLeft \unSquash řest -- nou \markup \accent ce -- stu.
+\left Tvý -- \squash mi na -- ří -- ze -- ní -- \unLeft \unSquash mi jsem \markup \accent zmou -- \star dřel, \left pro -- \squash to ne -- ná -- vi -- dím kde -- ja -- kou ne -- \unLeft \unSquash řest -- nou \markup \accent ce -- stu.
 \set stanza = \responsum
 Sví -- til -- nou mým no -- hám je tvé slo -- vo.
 \set stanza = "6."

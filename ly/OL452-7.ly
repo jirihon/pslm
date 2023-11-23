@@ -339,7 +339,7 @@ Ja -- snou tvář u -- kaž své -- mu slu -- žeb -- ní -- ku, Ho -- spo -- di
 \set stanza = \responsum
 Ja -- snou tvář u -- kaž své -- mu slu -- žeb -- ní -- ku, Ho -- spo -- di -- ne!
 \set stanza = "5."
-\left Veď \squash mé kro -- ky pod -- le \unLeft \unSquash své -- ho \markup \accent vý -- ro -- \star ku, ať \left mi \squash ne -- vlád -- ne \unLeft \unSquash žád -- ná \markup \accent ne -- pra -- vost!
+\left Veď \squash mé kro -- ky po -- dle \unLeft \unSquash své -- ho \markup \accent vý -- ro -- \star ku, ať \left mi \squash ne -- vlád -- ne \unLeft \unSquash žád -- ná \markup \accent ne -- pra -- vost!
 \set stanza = \responsum
 Ja -- snou tvář u -- kaž své -- mu slu -- žeb -- ní -- ku, Ho -- spo -- di -- ne!
 \set stanza = "6."

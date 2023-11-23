@@ -332,7 +332,7 @@ Tak \left tou -- \squash žím \left \unLeft \unSquash spa -- \squash třit tě 
 \set stanza = "4."
 \left Vždyť \squash tvá mi -- lost je \left \unLeft \unSquash lep -- \squash ší než \unLeft \unSquash \markup \accent ži -- \star vot, \left mé \squash rty tě \left \unLeft \unSquash bu -- \squash dou \unLeft \unSquash \markup \accent chvá -- lit.
 \set stanza = "5."
-\left Tak \squash tě bu -- du ve -- le -- bit \left \unLeft \unSquash ve \squash svém \unLeft \unSquash \markup \accent ži -- vo -- \star tě, \left "v tvém" \squash jmé -- nu po -- vzne -- su své \left \unLeft \unSquash dla -- \squash ně \unLeft \unSquash \markup \accent "k mod" -- lit -- bě.
+\left Tak \squash tě bu -- du ve -- le -- bit \left \unLeft \unSquash ve \squash svém \unLeft \unSquash \markup \accent ži -- vo -- \star tě, \left "v tvém" \squash jmé -- nu po -- vzne -- su své \left \unLeft \unSquash dla -- \squash ně \unLeft \unSquash \markup \accent "k mo" -- dlit -- bě.
 \set stanza = "6."
 Má \left du -- \squash še se bu -- de sy -- tit jak \left \unLeft \unSquash tu -- \squash kem a \unLeft \unSquash \markup \accent mor -- \star kem, \left ple -- \squash sa -- jí -- cí -- mi rty \left \unLeft \unSquash za -- \squash já -- sa -- jí \unLeft \unSquash \markup \accent ús -- ta.
 \set stanza = \responsum

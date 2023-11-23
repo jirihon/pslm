@@ -332,7 +332,7 @@ O -- pu -- stil jsi Bo -- ha, kte -- rý tě zplo -- dil.
 \set stanza = \responsum
 O -- pu -- stil jsi Bo -- ha, kte -- rý tě zplo -- dil.
 \set stanza = "5."
-\left Po -- \squash pu -- di -- li mě "k žár" -- li -- vo -- sti kvů -- li to -- \unLeft \unSquash mu, kdo \markup \accent ne -- ní \star Bůh, \left roz -- \squash hně -- va -- li mě \unLeft \unSquash svý -- mi \markup \accent mod -- la -- mi.
+\left Po -- \squash pu -- di -- li mě "k žár" -- li -- vo -- sti kvů -- li to -- \unLeft \unSquash mu, kdo \markup \accent ne -- ní \star Bůh, \left roz -- \squash hně -- va -- li mě \unLeft \unSquash svý -- mi \markup \accent mo -- dla -- mi.
 \set stanza = "6."
 \left Nu -- \squash že, já je po -- pu -- dím "k žár" -- li -- vo -- sti kvů -- li to -- mu, kdo \unLeft \unSquash ne -- ní \markup \accent ná -- \star rod, \left kvů -- \squash li po -- še -- ti -- lé -- mu li -- \unLeft \unSquash du je \markup \accent roz -- hně -- vám.“
 \set stanza = \responsum

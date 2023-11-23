@@ -335,7 +335,7 @@ Na vě -- ky chci zpí -- vat o Ho -- spo -- di -- no -- vých mi -- lo -- stech
 \set stanza = \responsum
 Na vě -- ky chci zpí -- vat o Ho -- spo -- di -- no -- vých mi -- lo -- stech.
 \set stanza = "5."
-\left Je -- \squash stli -- že je -- ho sy -- no -- vé o -- pu -- \unLeft \unSquash stí můj \markup \accent zá -- \star kon a \left ne -- \squash bu -- dou jed -- nat pod -- \unLeft \unSquash le mých \markup \accent pří -- ka -- zů,
+\left Je -- \squash stli -- že je -- ho sy -- no -- vé o -- pu -- \unLeft \unSquash stí můj \markup \accent zá -- \star kon a \left ne -- \squash bu -- dou jed -- nat po -- \unLeft \unSquash dle mých \markup \accent pří -- ka -- zů,
 \set stanza = "6."
 \left je -- \squash stli -- že po -- skvr -- ní má \unLeft \unSquash u -- sta -- \markup \accent no -- ve -- \star ní a \left ne -- \squash za -- cho -- va -- \unLeft \unSquash jí má \markup \accent při -- ká -- zá -- ní:
 \set stanza = \responsum

@@ -337,7 +337,7 @@ Ho -- spo -- din je mi -- lo -- srd -- ný a mi -- lo -- sti -- vý.
 \set stanza = "5."
 \left Nech -- \squash ce \unLeft \unSquash se přít \markup \accent u -- sta -- vič -- \star ně \left a -- \squash ni se \unLeft \unSquash hně -- vat \markup \accent na vě -- ky.
 \set stanza = "6."
-\left Ne -- \squash jed -- ná "s ná" -- mi pod -- le \unLeft \unSquash na -- šich \markup \accent hří -- \star chů \left a -- \squash ni pod -- le na -- šich \unLeft \unSquash vin nám \markup \accent ne -- od -- plá -- cí.
+\left Ne -- \squash jed -- ná "s ná" -- mi po -- dle \unLeft \unSquash na -- šich \markup \accent hří -- \star chů \left a -- \squash ni po -- dle na -- šich \unLeft \unSquash vin nám \markup \accent ne -- od -- plá -- cí.
 \set stanza = \responsum
 Ho -- spo -- din je mi -- lo -- srd -- ný a mi -- lo -- sti -- vý.
 \set stanza = "7."

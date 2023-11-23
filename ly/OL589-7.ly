@@ -353,9 +353,9 @@ též \left je -- \squash jich sy -- \unLeft \unSquash no -- vé \markup \accent
 \set stanza = \responsum
 Pán Bůh mu dá trůn je -- ho ot -- ce Da -- vi -- da.
 \set stanza = "10."
-\left Ne -- \squash boť Ho -- spo -- din si vy -- \unLeft \unSquash vo -- lil \markup \accent Si -- \star ón, \left přál \squash si ho mít \unLeft \unSquash za své \markup \accent síd -- lo:
+\left Ne -- \squash boť Ho -- spo -- din si vy -- \unLeft \unSquash vo -- lil \markup \accent Si -- \star ón, \left přál \squash si ho mít \unLeft \unSquash za své \markup \accent sí -- dlo:
 \set stanza = "11."
-\left „To \squash je můj pří -- \unLeft \unSquash by -- tek \markup \accent na vě -- \star ky, zde \left bu -- \squash du síd -- \optionalBreath lit, ten \unLeft \unSquash jsem si \markup \accent zvo -- lil.“
+\left „To \squash je můj pří -- \unLeft \unSquash by -- tek \markup \accent na vě -- \star ky, zde \left bu -- \squash du sí -- \optionalBreath dlit, ten \unLeft \unSquash jsem si \markup \accent zvo -- lil.“
 \set stanza = \responsum
 Pán Bůh mu dá trůn je -- ho ot -- ce Da -- vi -- da. } }
     >>

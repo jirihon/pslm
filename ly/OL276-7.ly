@@ -332,9 +332,9 @@ Vstaň, Ho -- spo -- di -- ne, vej -- di na mí -- sto své -- ho od -- po -- č
 \set stanza = \responsum
 Vstaň, Ho -- spo -- di -- ne, vej -- di na mí -- sto své -- ho od -- po -- čin -- ku, ty i tvá vzne -- še -- ná ar -- cha!
 \set stanza = "5."
-\left Ne -- \squash boť Ho -- spo -- din si vy -- \unLeft \unSquash vo -- lil \markup \accent Si -- \star ón, \left přál \squash si ho mít \unLeft \unSquash za své \markup \accent síd -- lo:
+\left Ne -- \squash boť Ho -- spo -- din si vy -- \unLeft \unSquash vo -- lil \markup \accent Si -- \star ón, \left přál \squash si ho mít \unLeft \unSquash za své \markup \accent sí -- dlo:
 \set stanza = "6."
-\left „To \squash je můj pří -- \unLeft \unSquash by -- tek \markup \accent na vě -- \star ky, zde \left bu -- \squash du síd -- \optionalBreath lit, ten \unLeft \unSquash jsem si \markup \accent zvo -- lil.“
+\left „To \squash je můj pří -- \unLeft \unSquash by -- tek \markup \accent na vě -- \star ky, zde \left bu -- \squash du sí -- \optionalBreath dlit, ten \unLeft \unSquash jsem si \markup \accent zvo -- lil.“
 \set stanza = \responsum
 Vstaň, Ho -- spo -- di -- ne, vej -- di na mí -- sto své -- ho od -- po -- čin -- ku, ty i tvá vzne -- še -- ná ar -- cha! } }
     >>

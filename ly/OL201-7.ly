@@ -326,7 +326,7 @@ Dob -- ré je chvá -- lit Ho -- spo -- di -- na.
 \set stanza = \responsum
 Dob -- ré je chvá -- lit Ho -- spo -- di -- na.
 \set stanza = "3."
-\left Spra -- \squash ved -- li -- vý po -- kve -- te jak \unLeft \unSquash \markup \accent pal -- \star ma, \left po -- \squash ro -- ste jak ce -- dr na \unLeft \unSquash \markup \accent Li -- ba -- no -- nu.
+\left Spra -- \squash ve -- dli -- vý po -- kve -- te jak \unLeft \unSquash \markup \accent pal -- \star ma, \left po -- \squash ro -- ste jak ce -- dr na \unLeft \unSquash \markup \accent Li -- ba -- no -- nu.
 \set stanza = "4."
 \left Kdo \squash jsou za -- sa -- ze -- ni "v do" -- mě Ho -- spo -- \unLeft \unSquash \markup \accent di -- no -- \star vě, \left po -- \squash kve -- tou "v ná" -- dvo -- řích na -- še -- ho \unLeft \unSquash \markup \accent Bo -- ha.
 \set stanza = \responsum
@@ -334,7 +334,7 @@ Dob -- ré je chvá -- lit Ho -- spo -- di -- na.
 \set stanza = "5."
 \left Je -- \squash ště ve stá -- ří bu -- dou při -- ná -- šet \unLeft \unSquash \markup \accent u -- ži -- \star tek, \left zů -- \squash sta -- nou šťav -- na -- tí a \unLeft \unSquash \markup \accent svě -- ží,
 \set stanza = "6."
-\left a -- \squash by hlá -- sa -- li, jak spra -- ved -- li -- vý je \unLeft \unSquash \markup \accent Ho -- spo -- \star din, má \left ská -- \squash la, "v němž" ne -- ní \unLeft \unSquash \markup \accent ne -- pra -- vo -- sti.
+\left a -- \squash by hlá -- sa -- li, jak spra -- ve -- dli -- vý je \unLeft \unSquash \markup \accent Ho -- spo -- \star din, má \left ská -- \squash la, "v němž" ne -- ní \unLeft \unSquash \markup \accent ne -- pra -- vo -- sti.
 \set stanza = \responsum
 Dob -- ré je chvá -- lit Ho -- spo -- di -- na. } }
     >>

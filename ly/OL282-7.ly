@@ -329,7 +329,7 @@ Bla -- ze těm, kdo krá -- če -- jí "v zá" -- ko -- ně Ho -- spo -- di -- n
 \set stanza = \responsum
 Bla -- ze těm, kdo krá -- če -- jí "v zá" -- ko -- ně Ho -- spo -- di -- no -- vě.
 \set stanza = "3."
-Jsi \left spra -- \squash ved -- \unLeft \unSquash li -- vý, \markup \accent Ho -- spo -- di -- \star ne, a \left správ -- \squash né \unLeft \unSquash je tvé \markup \accent roz -- hod -- nu -- tí.
+Jsi \left spra -- \squash ve -- \unLeft \unSquash dli -- vý, \markup \accent Ho -- spo -- di -- \star ne, a \left správ -- \squash né \unLeft \unSquash je tvé \markup \accent roz -- hod -- nu -- tí.
 \set stanza = "4."
 Se \left spra -- \squash ve -- dl -- no -- stí jsi u -- lo -- \unLeft \unSquash žil svá \markup \accent při -- ká -- zá -- \star ní, "s pev" -- no -- stí \markup \accent svr -- cho -- va -- nou.
 \set stanza = \responsum

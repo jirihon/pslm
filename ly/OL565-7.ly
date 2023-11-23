@@ -343,7 +343,7 @@ Za -- cho -- vej mi ži -- vot, Pa -- ne, a bu -- du dbát na tvá při -- ká -
 \set stanza = \responsum
 Za -- cho -- vej mi ži -- vot, Pa -- ne, a bu -- du dbát na tvá při -- ká -- zá -- ní.
 \set stanza = "6."
-\left Vi -- \squash děl jsem od -- pad -- lí -- ky a \unLeft \unSquash zhnu -- si -- \markup \accent li se \star mi, \left po -- \squash ně -- vadž ned -- ba -- li \unLeft \unSquash na tvůj \markup \accent vý -- rok.
+\left Vi -- \squash děl jsem od -- pa -- dlí -- ky a \unLeft \unSquash zhnu -- si -- \markup \accent li se \star mi, \left po -- \squash ně -- vadž ne -- dba -- li \unLeft \unSquash na tvůj \markup \accent vý -- rok.
 \set stanza = \responsum
 Za -- cho -- vej mi ži -- vot, Pa -- ne, a bu -- du dbát na tvá při -- ká -- zá -- ní. } }
     >>

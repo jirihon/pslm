@@ -329,7 +329,7 @@ Pa -- ma -- tuj na nás, Ho -- spo -- di -- ne, pro ná -- klon -- nost "k své"
 \set stanza = \responsum
 Pa -- ma -- tuj na nás, Ho -- spo -- di -- ne, pro ná -- klon -- nost "k své" -- mu li -- du.
 \set stanza = "3."
-\left U -- \squash ctí -- va -- li \unLeft \unSquash je -- jich \markup \accent mod -- \star ly, \left a \squash ty se jim \unLeft \unSquash sta -- ly \markup \accent léč -- kou.
+\left U -- \squash ctí -- va -- li \unLeft \unSquash je -- jich \markup \accent mo -- \star dly, \left a \squash ty se jim \unLeft \unSquash sta -- ly \markup \accent léč -- kou.
 \set stanza = "4."
 \left O -- \squash bě -- to -- va -- \unLeft \unSquash li své \markup \accent sy -- \star ny \left i \squash své dce -- \unLeft \unSquash ry zlým \markup \accent du -- chům.
 \set stanza = \responsum

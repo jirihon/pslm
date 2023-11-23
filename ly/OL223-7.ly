@@ -332,7 +332,7 @@ O -- tví -- ráš svou ru -- ku a sy -- tíš nás, Ho -- spo -- di -- ne.
 \set stanza = \responsum
 O -- tví -- ráš svou ru -- ku a sy -- tíš nás, Ho -- spo -- di -- ne.
 \set stanza = "5."
-\left Spra -- \squash ved -- li -- vý je Ho -- spo -- din na všech svých \unLeft \unSquash \markup \accent ce -- \star stách a \left sva -- \squash tý ve všech svých \unLeft \unSquash \markup \accent či -- nech.
+\left Spra -- \squash ve -- dli -- vý je Ho -- spo -- din na všech svých \unLeft \unSquash \markup \accent ce -- \star stách a \left sva -- \squash tý ve všech svých \unLeft \unSquash \markup \accent či -- nech.
 \set stanza = "6."
 \left Blíz -- \squash ko je Ho -- spo -- din všem, kdo ho \unLeft \unSquash \markup \accent vzý -- va -- \star jí, všem, \left kdo \squash ho vzý -- va -- jí \unLeft \unSquash \markup \accent u -- přím -- ně.
 \set stanza = \responsum

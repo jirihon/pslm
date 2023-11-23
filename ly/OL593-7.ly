@@ -333,7 +333,7 @@ Od -- pusť, Pa -- ne, co jsem za -- vi -- nil hří -- chem.
 \set stanza = \responsum
 Od -- pusť, Pa -- ne, co jsem za -- vi -- nil hří -- chem.
 \set stanza = "5."
-\left Pro -- \squash to se bu -- de "k to" -- bě mod -- lit kaž -- dý zbož -- \unLeft \unSquash ný "v čas" \markup \accent tí -- \star sně. Až \left bu -- \squash dou do -- rá -- žet pří -- va -- ly \breath "vod," \unLeft \unSquash "k ně" -- mu \markup \accent ne -- do -- sáh -- nou.
+\left Pro -- \squash to se bu -- de "k to" -- bě mo -- dlit kaž -- dý zbož -- \unLeft \unSquash ný "v čas" \markup \accent tí -- \star sně. Až \left bu -- \squash dou do -- rá -- žet pří -- va -- ly \breath "vod," \unLeft \unSquash "k ně" -- mu \markup \accent ne -- do -- sáh -- nou.
 \set stanza = \responsum
 Od -- pusť, Pa -- ne, co jsem za -- vi -- nil hří -- chem.
 \set stanza = "6."

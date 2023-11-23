@@ -332,7 +332,7 @@ Ur -- ču -- je \markup \accent po -- čet \star hvězd, \left kaž -- \squash d
 \set stanza = \responsum
 Chval -- te Ho -- spo -- di -- na, kte -- rý uz -- dra -- vu -- je ty, jimž pu -- ká srd -- ce.
 \set stanza = "5."
-\left Vel -- \squash ký je náš \unLeft \unSquash Pán a \markup \accent pře -- moc -- \star ný, \left je -- \squash ho moud -- \unLeft \unSquash rost je \markup \accent bez mí -- ry.
+\left Vel -- \squash ký je náš \unLeft \unSquash Pán a \markup \accent pře -- moc -- \star ný, \left je -- \squash ho mou -- \unLeft \unSquash drost je \markup \accent bez mí -- ry.
 \set stanza = "6."
 \left Po -- \squash kor -- né Ho -- \unLeft \unSquash spo -- din \markup \accent po -- zve -- \star dá, \left bez -- \squash bož -- né však po -- ni -- \unLeft \unSquash žu -- je \markup \accent "k ze" -- mi.
 \set stanza = \responsum

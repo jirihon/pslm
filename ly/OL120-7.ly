@@ -325,7 +325,7 @@ O -- chraň mě, Bo -- že, ne -- boť se "k to" -- bě u -- tí -- kám.
 \set stanza = \responsum
 O -- chraň mě, Bo -- že, ne -- boť se "k to" -- bě u -- tí -- kám.
 \set stanza = "3."
-\left Pro -- \squash to se ra -- du -- je mé srd -- ce, má \unLeft \unSquash du -- še \markup \accent ple -- \star sá, \left i \squash mé tě -- lo \unLeft \unSquash byd -- lí \markup \accent "v bez" -- pe -- čí,
+\left Pro -- \squash to se ra -- du -- je mé srd -- ce, má \unLeft \unSquash du -- še \markup \accent ple -- \star sá, \left i \squash mé tě -- lo \unLeft \unSquash by -- dlí \markup \accent "v bez" -- pe -- čí,
 \set stanza = "4."
 \left ne -- \squash boť ne -- za -- ne -- cháš mou \unLeft \unSquash du -- ši \markup \accent "v pod" -- svě -- \star tí, \left ne -- \squash do -- pu -- stíš, a -- by tvůj sva -- tý \unLeft \unSquash spa -- třil \markup \accent po -- ru -- še -- ní.
 \set stanza = \responsum

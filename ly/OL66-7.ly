@@ -339,7 +339,7 @@ Vě -- try \left si \squash vo -- líš \unLeft \unSquash za své \markup \accen
 \set stanza = \responsum
 Ve -- leb, du -- še má, Ho -- spo -- di -- na.
 \set stanza = "5."
-Jak čet -- \left ná \squash jsou tvá \unLeft \unSquash dí -- la, \markup \accent Ho -- spo -- di -- \star ne! Všech -- no jsi moud -- ře \markup \accent u -- či -- nil,
+Jak čet -- \left ná \squash jsou tvá \unLeft \unSquash dí -- la, \markup \accent Ho -- spo -- di -- \star ne! Všech -- no jsi mou -- dře \markup \accent u -- či -- nil,
 \set stanza = "6."
 ze -- mě \left je \squash pl -- ná \unLeft \unSquash tvé -- ho \markup \accent tvor -- \star stva. Zde \left mo -- \squash ře mo -- hut -- \unLeft \unSquash né a \markup \accent ši -- ro -- ši -- ré,
 \set stanza = "7."

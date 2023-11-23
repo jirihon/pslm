@@ -346,7 +346,7 @@ Bla -- ze li -- du, kte -- rý si Ho -- spo -- din vy -- vo -- lil za svůj ma -
 \set stanza = "7."
 \left "Z ne" -- \squash be \unLeft \unSquash shlí -- ží \markup \accent Ho -- spo -- \star din, \left vi -- \squash dí \unLeft \unSquash všech -- ny \markup \accent smr -- tel -- ní -- ky.
 \set stanza = "8."
-\left "Z mí" -- \squash sta, kde \unLeft \unSquash síd -- lí, \markup \accent dí -- vá \star se \left na \squash všech -- ny o -- by -- va -- \unLeft \unSquash te -- le \markup \accent ze -- mě.
+\left "Z mí" -- \squash sta, kde \unLeft \unSquash sí -- dlí, \markup \accent dí -- vá \star se \left na \squash všech -- ny o -- by -- va -- \unLeft \unSquash te -- le \markup \accent ze -- mě.
 \set stanza = \responsum
 Bla -- ze li -- du, kte -- rý si Ho -- spo -- din vy -- vo -- lil za svůj ma -- je -- tek.
 \set stanza = "9."

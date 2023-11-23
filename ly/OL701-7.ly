@@ -335,7 +335,7 @@ I \left kdy -- \squash bych vy -- stou -- pil na ne -- be, \unLeft \unSquash \ma
 \set stanza = \responsum
 Chvá -- lím tě, že jsem vzni -- kl tak po -- di -- vu -- hod -- ně.
 \set stanza = "5."
-I \left kdy -- \squash bych si při -- pjal kříd -- la \unLeft \unSquash \markup \accent ji -- třen -- \star ky a \left spo -- \squash či -- nul na nej -- zazším \unLeft \unSquash \markup \accent mo -- ři,
+I \left kdy -- \squash bych si při -- pjal kří -- dla \unLeft \unSquash \markup \accent ji -- třen -- \star ky a \left spo -- \squash či -- nul na nej -- zazším \unLeft \unSquash \markup \accent mo -- ři,
 \set stanza = "6."
 i \left tam \squash mě po -- ve -- de tvá \unLeft \unSquash \markup \accent ru -- \star ka a \left u -- \squash cho -- pí mě tvá \unLeft \unSquash \markup \accent pra -- vi -- ce.
 \set stanza = \responsum

@@ -326,9 +326,9 @@ Vy -- slyš mě, Ho -- spo -- di -- ne, ve své ve -- li -- ké lá -- sce!
 \set stanza = \responsum
 Vy -- slyš mě, Ho -- spo -- di -- ne, ve své ve -- li -- ké lá -- sce!
 \set stanza = "4."
-\left Ne -- \squash boť Bůh po -- mů -- že Si -- ó -- nu a vy -- sta -- ví \unLeft \unSquash jud -- ská \markup \accent mě -- \star sta: \left bu -- \squash dou tam byd -- \unLeft \unSquash let a \markup \accent ob -- sa -- dí je.
+\left Ne -- \squash boť Bůh po -- mů -- že Si -- ó -- nu a vy -- sta -- ví \unLeft \unSquash jud -- ská \markup \accent mě -- \star sta: \left bu -- \squash dou tam by -- \unLeft \unSquash dlet a \markup \accent ob -- sa -- dí je.
 \set stanza = "5."
-\left Zdě -- \squash dí je po -- tom -- ci \unLeft \unSquash je -- ho \markup \accent slu -- žeb -- ní -- \star ků, \left bu -- \squash dou tam síd -- lit, kdo mi -- lu -- jí \unLeft \unSquash je -- ho \markup \accent jmé -- no.
+\left Zdě -- \squash dí je po -- tom -- ci \unLeft \unSquash je -- ho \markup \accent slu -- žeb -- ní -- \star ků, \left bu -- \squash dou tam sí -- dlit, kdo mi -- lu -- jí \unLeft \unSquash je -- ho \markup \accent jmé -- no.
 \set stanza = \responsum
 Vy -- slyš mě, Ho -- spo -- di -- ne, ve své ve -- li -- ké lá -- sce! } }
     >>

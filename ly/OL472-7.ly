@@ -328,7 +328,7 @@ Buď se mnou, Pa -- ne, "v mé" tí -- sni.
 \set stanza = "3."
 \left Ne -- \squash boť on tě vy -- svo -- bo -- dí \unLeft \unSquash "z léč" -- ky \markup \accent ptáč -- ní -- \star ka, \left ze \squash zhoub -- \unLeft \unSquash né -- ho \markup \accent mo -- ru.
 \set stanza = "4."
-\left O -- \squash chrá -- ní tě \unLeft \unSquash svý -- mi \markup \accent pe -- ru -- tě -- \star mi, \left u -- \squash chý -- líš se pod \unLeft \unSquash je -- ho \markup \accent kříd -- la.
+\left O -- \squash chrá -- ní tě \unLeft \unSquash svý -- mi \markup \accent pe -- ru -- tě -- \star mi, \left u -- \squash chý -- líš se pod \unLeft \unSquash je -- ho \markup \accent kří -- dla.
 \set stanza = \responsum
 Buď se mnou, Pa -- ne, "v mé" tí -- sni.
 \set stanza = "5."

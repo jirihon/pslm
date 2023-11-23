@@ -331,7 +331,7 @@ Tys mé ú -- to -- či -- ště, za -- hr -- neš mě ra -- do -- stí ze zá -
 \set stanza = \responsum
 Tys mé ú -- to -- či -- ště, za -- hr -- neš mě ra -- do -- stí ze zá -- chra -- ny.
 \set stanza = "5."
-\left Ra -- \squash duj -- te se "z Ho" -- spo -- di -- na a tě -- \unLeft \unSquash šte se, \markup \accent spra -- ved -- li -- \star ví, \left já -- \squash sej -- te všich -- ni, kdo jste u -- přím -- \unLeft \unSquash né -- ho \markup \accent srd -- ce.
+\left Ra -- \squash duj -- te se "z Ho" -- spo -- di -- na a tě -- \unLeft \unSquash šte se, \markup \accent spra -- ve -- dli -- \star ví, \left já -- \squash sej -- te všich -- ni, kdo jste u -- přím -- \unLeft \unSquash né -- ho \markup \accent srd -- ce.
 \set stanza = \responsum
 Tys mé ú -- to -- či -- ště, za -- hr -- neš mě ra -- do -- stí ze zá -- chra -- ny. } }
     >>

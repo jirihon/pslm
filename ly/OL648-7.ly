@@ -337,7 +337,7 @@ Ne -- za -- vrh -- ne Ho -- spo -- din svůj ná -- rod.
 \set stanza = "5."
 \left Že \squash by ne -- sly -- šel, kdo \unLeft \unSquash vsa -- dil \markup \accent u -- \star cho? \left Že \squash by ne -- vi -- děl, kdo u -- \unLeft \unSquash tvo -- řil \markup \accent o -- ko?
 \set stanza = "6."
-\left Že \squash by ne -- po -- tre -- stal, kdo vy -- cho -- \unLeft \unSquash vá -- vá \markup \accent ná -- ro -- \star dy, \left kdo \squash u -- \unLeft \unSquash čí lid \markup \accent moud -- ro -- sti?
+\left Že \squash by ne -- po -- tre -- stal, kdo vy -- cho -- \unLeft \unSquash vá -- vá \markup \accent ná -- ro -- \star dy, \left kdo \squash u -- \unLeft \unSquash čí lid \markup \accent mou -- dro -- sti?
 \set stanza = \responsum
 Ne -- za -- vrh -- ne Ho -- spo -- din svůj ná -- rod.
 \set stanza = "7."

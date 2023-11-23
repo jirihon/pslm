@@ -331,7 +331,7 @@ Bla -- ze mu -- ži, kte -- rý se bo -- jí Ho -- spo -- di -- na.
 \set stanza = \responsum
 Bla -- ze mu -- ži, kte -- rý se bo -- jí Ho -- spo -- di -- na.
 \set stanza = "5."
-\left Roz -- \squash dě -- lu -- je, \unLeft \unSquash dá -- vá \markup \accent chu -- \star dým, \left je -- \squash ho štěd -- rost po -- tr -- vá na -- \breath "vždy," je -- ho moc po -- \unLeft \unSquash ro -- ste \markup \accent "v slá" -- vě.
+\left Roz -- \squash dě -- lu -- je, \unLeft \unSquash dá -- vá \markup \accent chu -- \star dým, \left je -- \squash ho ště -- drost po -- tr -- vá na -- \breath "vždy," je -- ho moc po -- \unLeft \unSquash ro -- ste \markup \accent "v slá" -- vě.
 \set stanza = \responsum
 Bla -- ze mu -- ži, kte -- rý se bo -- jí Ho -- spo -- di -- na. } }
     >>

@@ -318,25 +318,25 @@ optionalBreath = #(define-music-function (syllable)(string?)
 \relative { c''\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes b8 a \bar "" a[( g)] g4 r \cadenzaMeasure \bar "|" g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes fis8 e \bar "" e[( d)] d4 r \cadenzaMeasure \bar "||" \break }
 \relative { d'8 g g g a g \bar "" fis g \bar "" a b a a4 r \cadenzaMeasure \bar "||" \break } \bar "|." }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
-Ra -- duj -- te se, spra -- ved -- li -- ví, "v Ho" -- spo -- di -- nu.
+Ra -- duj -- te se, spra -- ve -- dli -- ví, "v Ho" -- spo -- di -- nu.
 \set stanza = "1."
 \left Ci -- \squash te -- rou o -- sla -- \unLeft \unSquash vuj -- te \markup \accent Ho -- spo -- di -- \star na, \left hraj -- \squash te mu na de -- se -- ti -- \unLeft \unSquash strun -- né \markup \accent har -- fě.
 \set stanza = "2."
 \left Zpí -- \squash vej -- te mu \unLeft \unSquash no -- vou \markup \accent pí -- \star seň, \left do -- \squash ved -- ně sáh -- ně -- te do \optionalBreath strun, slav -- nost -- \unLeft \unSquash ně je \markup \accent ro -- ze -- zvuč -- te!
 \set stanza = \responsum
-Ra -- duj -- te se, spra -- ved -- li -- ví, "v Ho" -- spo -- di -- nu.
+Ra -- duj -- te se, spra -- ve -- dli -- ví, "v Ho" -- spo -- di -- nu.
 \set stanza = "3."
 \left Ho -- \squash spo -- di -- nův ú -- my -- sl \unLeft \unSquash tr -- vá \markup \accent na vě -- \star ky, \left my -- \squash šlen -- ky je -- ho srd -- ce po \unLeft \unSquash všech -- na \markup \accent po -- ko -- le -- ní.
 \set stanza = "4."
 \left Bla -- \squash ze ná -- ro -- du, je -- hož Bo -- \unLeft \unSquash hem je \markup \accent Ho -- spo -- \star din, \left bla -- \squash ze li -- du, kte -- rý si vy -- vo -- lil \unLeft \unSquash za svůj \markup \accent ma -- je -- tek.
 \set stanza = \responsum
-Ra -- duj -- te se, spra -- ved -- li -- ví, "v Ho" -- spo -- di -- nu.
+Ra -- duj -- te se, spra -- ve -- dli -- ví, "v Ho" -- spo -- di -- nu.
 \set stanza = "5."
 \left Na -- \squash še du -- še vy -- \unLeft \unSquash hlí -- ží \markup \accent Ho -- spo -- di -- \star na, \left on \squash sám je \unLeft \unSquash na -- še \markup \accent po -- moc a štít.
 \set stanza = "6."
 \left "V něm" \squash se ra -- du -- je \unLeft \unSquash na -- še \markup \accent srd -- \star ce, \left dů -- \squash vě -- řu -- je -- me "v je" -- ho \unLeft \unSquash sva -- té \markup \accent jmé -- no.
 \set stanza = \responsum
-Ra -- duj -- te se, spra -- ved -- li -- ví, "v Ho" -- spo -- di -- nu. } }
+Ra -- duj -- te se, spra -- ve -- dli -- ví, "v Ho" -- spo -- di -- nu. } }
     >>
     \layout {}
 }

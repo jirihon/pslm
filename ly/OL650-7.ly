@@ -330,7 +330,7 @@ Ty, Ho -- spo -- di -- ne, jsi za -- chrá -- nil mou du -- ši, a -- by ne -- z
 \set stanza = "3."
 Můj \left pří -- \squash by -- tek je str -- žen, je o -- \unLeft \unSquash de mě \markup \accent od -- ne -- \star sen ja -- ko stan \markup \accent pa -- stý -- řů.
 \set stanza = "4."
-Bůh \left svi -- \squash nul ja -- ko tkad -- \unLeft \unSquash lec můj \markup \accent ži -- \star vot, \left od -- \squash ří -- \unLeft \unSquash zl mě \markup \accent od os -- no -- vy.
+Bůh \left svi -- \squash nul ja -- ko tka -- \unLeft \unSquash dlec můj \markup \accent ži -- \star vot, \left od -- \squash ří -- \unLeft \unSquash zl mě \markup \accent od os -- no -- vy.
 \set stanza = \responsum
 Ty, Ho -- spo -- di -- ne, jsi za -- chrá -- nil mou du -- ši, a -- by ne -- zhy -- nu -- la.
 \set stanza = "5."

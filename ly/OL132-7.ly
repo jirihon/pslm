@@ -331,7 +331,7 @@ Dě -- kuj -- te Ho -- spo -- di -- nu, ne -- boť je dob -- rý, je -- ho mi --
 \set stanza = \responsum
 Dě -- kuj -- te Ho -- spo -- di -- nu, ne -- boť je dob -- rý, je -- ho mi -- lo -- sr -- den -- ství tr -- vá na vě -- ky.
 \set stanza = "4."
-\left Ho -- \squash spo -- di -- no -- va pra -- vi -- ce moc -- ně \unLeft \unSquash \markup \accent za -- sáh -- \star la, \left Ho -- \squash spo -- di -- no -- va pra -- vi -- ce mě \unLeft \unSquash \markup \accent po -- zved -- la.
+\left Ho -- \squash spo -- di -- no -- va pra -- vi -- ce moc -- ně \unLeft \unSquash \markup \accent za -- sáh -- \star la, \left Ho -- \squash spo -- di -- no -- va pra -- vi -- ce mě \unLeft \unSquash \markup \accent po -- zve -- dla.
 \set stanza = "5."
 \left Ne -- \squash ze -- mřu, a -- le \unLeft \unSquash \markup \accent bu -- du \star žít a \left vy -- \squash pra -- vo -- vat o Ho -- spo -- di -- no -- vých \unLeft \unSquash \markup \accent či -- nech.
 \set stanza = "6."
@@ -339,7 +339,7 @@ Dě -- kuj -- te Ho -- spo -- di -- nu, ne -- boť je dob -- rý, je -- ho mi --
 \set stanza = \responsum
 Dě -- kuj -- te Ho -- spo -- di -- nu, ne -- boť je dob -- rý, je -- ho mi -- lo -- sr -- den -- ství tr -- vá na vě -- ky.
 \set stanza = "7."
-\left Ká -- \squash men, kte -- rý sta -- vi -- te -- lé \unLeft \unSquash \markup \accent za -- vrh -- \star li, \left stal \squash se kvád -- rem \unLeft \unSquash \markup \accent ná -- rož -- ním.
+\left Ká -- \squash men, kte -- rý sta -- vi -- te -- lé \unLeft \unSquash \markup \accent za -- vrh -- \star li, \left stal \squash se kvá -- drem \unLeft \unSquash \markup \accent ná -- rož -- ním.
 \set stanza = "8."
 \left Ho -- \squash spo -- di -- no -- vým ří -- ze -- ním se tak \unLeft \unSquash \markup \accent sta -- \star lo, \left je \squash to po -- di -- vu -- hod -- né "v na" -- šich \unLeft \unSquash \markup \accent o -- čích.
 \set stanza = "9."

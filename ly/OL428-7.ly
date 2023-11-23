@@ -338,7 +338,7 @@ Pa -- ne, tys nám bý -- val ú -- to -- či -- štěm od po -- ko -- le -- ní
 \set stanza = \responsum
 Pa -- ne, tys nám bý -- val ú -- to -- či -- štěm od po -- ko -- le -- ní do po -- ko -- le -- ní.
 \set stanza = "6."
-\left Na -- \squash uč nás po -- čí -- tat \unLeft \unSquash \markup \accent na -- še \star dny, ať \left doj -- \squash de -- me "k moud" -- ro -- sti \unLeft \unSquash \markup \accent srd -- ce.
+\left Na -- \squash uč nás po -- čí -- tat \unLeft \unSquash \markup \accent na -- še \star dny, ať \left doj -- \squash de -- me "k mou" -- dro -- sti \unLeft \unSquash \markup \accent srd -- ce.
 \set stanza = "7."
 \left O -- \squash brať se, Ho -- spo -- di -- \optionalBreath ne, jak dlou -- ho je -- ště bu -- deš \unLeft \unSquash \markup \accent če -- \star kat? \left Sli -- \squash tuj se nad svý -- mi \unLeft \unSquash \markup \accent slu -- žeb -- ní -- ky!
 \set stanza = \responsum

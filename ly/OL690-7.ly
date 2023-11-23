@@ -325,7 +325,7 @@ Dě -- kuj -- te Ho -- spo -- di -- nu, ne -- boť je dob -- rý, je -- ho mi --
 \set stanza = \responsum
 Dě -- kuj -- te Ho -- spo -- di -- nu, ne -- boť je dob -- rý, je -- ho mi -- lo -- sr -- den -- ství tr -- vá na vě -- ky.
 \set stanza = "3."
-\left Ho -- \squash spo -- di -- no -- va pra -- vi -- ce moc -- ně \unLeft \unSquash \markup \accent za -- sáh -- \star la, \left Ho -- \squash spo -- di -- no -- va pra -- vi -- ce mě \unLeft \unSquash \markup \accent po -- zved -- la.
+\left Ho -- \squash spo -- di -- no -- va pra -- vi -- ce moc -- ně \unLeft \unSquash \markup \accent za -- sáh -- \star la, \left Ho -- \squash spo -- di -- no -- va pra -- vi -- ce mě \unLeft \unSquash \markup \accent po -- zve -- dla.
 \set stanza = "4."
 \left Ne -- \squash ze -- mřu, a -- le \unLeft \unSquash \markup \accent bu -- du \star žít a \left vy -- \squash pra -- vo -- vat o Ho -- spo -- di -- no -- vých \unLeft \unSquash \markup \accent či -- nech.
 \set stanza = \responsum

@@ -328,7 +328,7 @@ Ne -- be -- ský po -- krm dal jim Ho -- spo -- din.
 \set stanza = "3."
 \left Po -- \squash ru -- čil mra -- kům \unLeft \unSquash \markup \accent na -- ho -- \star ře a \left o -- \squash te -- vřel brá -- ny \unLeft \unSquash \markup \accent ne -- bes,
 \set stanza = "4."
-\left se -- \squash slal na ně déšť ma -- ny, a -- by se \unLeft \unSquash \markup \accent na -- jed -- \star li, a \left dal \squash jim ne -- be -- ský \unLeft \unSquash \markup \accent po -- krm.
+\left se -- \squash slal na ně déšť ma -- ny, a -- by se \unLeft \unSquash \markup \accent na -- je -- \star dli, a \left dal \squash jim ne -- be -- ský \unLeft \unSquash \markup \accent po -- krm.
 \set stanza = \responsum
 Ne -- be -- ský po -- krm dal jim Ho -- spo -- din.
 \set stanza = "5."

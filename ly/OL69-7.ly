@@ -334,7 +334,7 @@ Tys, Pa -- ne, dob -- rý a sho -- ví -- va -- vý.
 \set stanza = "5."
 Tys \left to -- \squash tiž, Pa -- ne, dob -- \unLeft \unSquash rý a \markup \accent sho -- ví -- va -- \star vý, \left nej -- \squash výš mi -- lo -- srd -- ný ke všem, kdo vo -- \unLeft \unSquash la -- jí \markup \accent "k to" -- bě.
 \set stanza = "6."
-\left Vy -- \squash slyš, Ho -- spo -- di -- \unLeft \unSquash ne, mou \markup \accent mod -- lit -- \star bu, \left všim -- \squash ni si hla -- su mé \unLeft \unSquash snaž -- né \markup \accent pro -- sby.
+\left Vy -- \squash slyš, Ho -- spo -- di -- \unLeft \unSquash ne, mou \markup \accent mo -- dlit -- \star bu, \left všim -- \squash ni si hla -- su mé \unLeft \unSquash snaž -- né \markup \accent pro -- sby.
 \set stanza = \responsum
 Tys, Pa -- ne, dob -- rý a sho -- ví -- va -- vý. } }
     >>

@@ -335,7 +335,7 @@ Bu -- du krá -- čet před Ho -- spo -- di -- nem "v ze" -- mi ži -- vých.
 \set stanza = \responsum
 Bu -- du krá -- čet před Ho -- spo -- di -- nem "v ze" -- mi ži -- vých.
 \set stanza = "5."
-\left Ho -- \squash spo -- din je mi -- lo -- sti -- \unLeft \unSquash vý a \markup \accent spra -- ved -- li -- \star vý, Bůh náš je \markup \accent mi -- lo -- srd -- ný.
+\left Ho -- \squash spo -- din je mi -- lo -- sti -- \unLeft \unSquash vý a \markup \accent spra -- ve -- dli -- \star vý, Bůh náš je \markup \accent mi -- lo -- srd -- ný.
 \set stanza = "6."
 \left Ho -- \squash spo -- din chrá -- ní \unLeft \unSquash pro -- sté \markup \accent li -- \star di; \left po -- \squash mo -- hl mi, když \unLeft \unSquash jsem byl \markup \accent "v bí" -- dě.
 \set stanza = \responsum

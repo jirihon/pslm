@@ -331,7 +331,7 @@ Vy -- pra -- vuj -- te me -- zi vše -- mi ná -- ro -- dy o Ho -- spo -- di -- 
 \set stanza = \responsum
 Vy -- pra -- vuj -- te me -- zi vše -- mi ná -- ro -- dy o Ho -- spo -- di -- no -- vých di -- vech.
 \set stanza = "4."
-\left "V po" -- \squash svát -- ném rou -- chu klaň -- \unLeft \unSquash te se \markup \accent Ho -- spo -- di -- \star nu! \left Tře -- \squash ste se před ním, všech -- ny ze -- \breath "mě!" Hlá -- sej -- te me -- zi po -- ha -- ny: Ho -- \unLeft \unSquash spo -- din \markup \accent kra -- lu -- \star je, \left ná -- \squash ro -- dy \left \unLeft \unSquash ří -- \squash dí \unLeft \unSquash pod -- le \markup \accent prá -- va.
+\left "V po" -- \squash svát -- ném rou -- chu klaň -- \unLeft \unSquash te se \markup \accent Ho -- spo -- di -- \star nu! \left Tře -- \squash ste se před ním, všech -- ny ze -- \breath "mě!" Hlá -- sej -- te me -- zi po -- ha -- ny: Ho -- \unLeft \unSquash spo -- din \markup \accent kra -- lu -- \star je, \left ná -- \squash ro -- dy \left \unLeft \unSquash ří -- \squash dí \unLeft \unSquash po -- dle \markup \accent prá -- va.
 \set stanza = \responsum
 Vy -- pra -- vuj -- te me -- zi vše -- mi ná -- ro -- dy o Ho -- spo -- di -- no -- vých di -- vech. } }
     >>

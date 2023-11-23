@@ -332,7 +332,7 @@ Ty jsi, Ho -- spo -- di -- ne, mým dě -- dič -- ným po -- dí -- lem.
 \set stanza = \responsum
 Ty jsi, Ho -- spo -- di -- ne, mým dě -- dič -- ným po -- dí -- lem.
 \set stanza = "5."
-\left Pro -- \squash to se ra -- du -- je mé srd -- ce, má du -- še \unLeft \unSquash \markup \accent ple -- \star sá, \left i \squash mé tě -- lo byd -- lí \unLeft \unSquash \markup \accent "v bez" -- pe -- čí,
+\left Pro -- \squash to se ra -- du -- je mé srd -- ce, má du -- še \unLeft \unSquash \markup \accent ple -- \star sá, \left i \squash mé tě -- lo by -- dlí \unLeft \unSquash \markup \accent "v bez" -- pe -- čí,
 \set stanza = "6."
 \left ne -- \squash boť ne -- za -- ne -- cháš mou du -- ši \unLeft \unSquash \markup \accent "v pod" -- svě -- \star tí, \left ne -- \squash do -- pu -- stíš, a -- by tvůj sva -- tý spa -- třil \unLeft \unSquash \markup \accent po -- ru -- še -- ní.
 \set stanza = \responsum

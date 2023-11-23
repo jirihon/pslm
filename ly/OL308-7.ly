@@ -331,15 +331,15 @@ Bla -- ze mu -- ži, kte -- rý se bo -- jí Ho -- spo -- di -- na.
 \set stanza = \responsum
 Bla -- ze mu -- ži, kte -- rý se bo -- jí Ho -- spo -- di -- na.
 \set stanza = "3."
-\left Hoj -- \squash nost a bo -- hat -- ství bu -- dou \unLeft \unSquash "v je" -- ho \markup \accent do -- \star mě a \left je -- \squash ho štěd -- rost po -- \unLeft \unSquash tr -- vá \markup \accent na -- vždy.
+\left Hoj -- \squash nost a bo -- hat -- ství bu -- dou \unLeft \unSquash "v je" -- ho \markup \accent do -- \star mě a \left je -- \squash ho ště -- drost po -- \unLeft \unSquash tr -- vá \markup \accent na -- vždy.
 \set stanza = "4."
-\left Zá -- \squash ří "v tem" -- no -- tách ja -- ko svět -- lo \unLeft \unSquash řád -- ným \markup \accent li -- \star dem, je \left mi -- \squash lo -- srd -- ný, dob -- ro -- ti -- \unLeft \unSquash vý a \markup \accent spra -- ved -- li -- vý.
+\left Zá -- \squash ří "v tem" -- no -- tách ja -- ko svět -- lo \unLeft \unSquash řád -- ným \markup \accent li -- \star dem, je \left mi -- \squash lo -- srd -- ný, dob -- ro -- ti -- \unLeft \unSquash vý a \markup \accent spra -- ve -- dli -- vý.
 \set stanza = \responsum
 Bla -- ze mu -- ži, kte -- rý se bo -- jí Ho -- spo -- di -- na.
 \set stanza = "5."
-\left Bla -- \squash ze mu -- ži, kte -- rý se sli -- to -- vá -- \unLeft \unSquash vá a \markup \accent půj -- ču -- \star je, \left sta -- \squash rá se o své vě -- ci \unLeft \unSquash pod -- le \markup \accent prá -- va.
+\left Bla -- \squash ze mu -- ži, kte -- rý se sli -- to -- vá -- \unLeft \unSquash vá a \markup \accent půj -- ču -- \star je, \left sta -- \squash rá se o své vě -- ci \unLeft \unSquash po -- dle \markup \accent prá -- va.
 \set stanza = "6."
-\left Ne -- \squash boť na vě -- ky \unLeft \unSquash ne -- za -- \markup \accent ko -- lí -- \star sá, \left ve \squash věč -- né pa -- mě -- ti \unLeft \unSquash bu -- de \markup \accent spra -- ved -- li -- vý.
+\left Ne -- \squash boť na vě -- ky \unLeft \unSquash ne -- za -- \markup \accent ko -- lí -- \star sá, \left ve \squash věč -- né pa -- mě -- ti \unLeft \unSquash bu -- de \markup \accent spra -- ve -- dli -- vý.
 \set stanza = \responsum
 Bla -- ze mu -- ži, kte -- rý se bo -- jí Ho -- spo -- di -- na.
 \set stanza = "7."
@@ -349,7 +349,7 @@ Bla -- ze mu -- ži, kte -- rý se bo -- jí Ho -- spo -- di -- na.
 \set stanza = \responsum
 Bla -- ze mu -- ži, kte -- rý se bo -- jí Ho -- spo -- di -- na.
 \set stanza = "9."
-\left Roz -- \squash dě -- lu -- je, \unLeft \unSquash dá -- vá \markup \accent chu -- \star dým, \left je -- \squash ho štěd -- rost po -- tr -- vá na -- \breath "vždy," je -- ho moc po -- \unLeft \unSquash ro -- ste \markup \accent "v slá" -- vě.
+\left Roz -- \squash dě -- lu -- je, \unLeft \unSquash dá -- vá \markup \accent chu -- \star dým, \left je -- \squash ho ště -- drost po -- tr -- vá na -- \breath "vždy," je -- ho moc po -- \unLeft \unSquash ro -- ste \markup \accent "v slá" -- vě.
 \set stanza = \responsum
 Bla -- ze mu -- ži, kte -- rý se bo -- jí Ho -- spo -- di -- na. } }
     >>

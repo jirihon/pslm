@@ -325,7 +325,7 @@ Se -- šli své -- ho du -- cha, Ho -- spo -- di -- ne, a ob -- no -- víš tvá
 \set stanza = "1."
 \left Ve -- \squash leb, má \unLeft \unSquash du -- še, \markup \accent Ho -- spo -- di -- \star na! \left Ho -- \squash spo -- di -- ne, můj Bo -- že, jsi nad -- \unLeft \unSquash mí -- ru \markup \accent ve -- li -- ký!
 \set stanza = "2."
-Jak \left čet -- \squash ná jsou tvá \unLeft \unSquash dí -- la, \markup \accent Ho -- spo -- di -- \star ne! \left Všech -- \squash no jsi moud -- ře u -- či -- \breath "nil," ze -- mě je pl -- ná \unLeft \unSquash tvé -- ho \markup \accent tvor -- stva.
+Jak \left čet -- \squash ná jsou tvá \unLeft \unSquash dí -- la, \markup \accent Ho -- spo -- di -- \star ne! \left Všech -- \squash no jsi mou -- dře u -- či -- \breath "nil," ze -- mě je pl -- ná \unLeft \unSquash tvé -- ho \markup \accent tvor -- stva.
 \set stanza = \responsum
 Se -- šli své -- ho du -- cha, Ho -- spo -- di -- ne, a ob -- no -- víš tvář ze -- mě.
 \set stanza = "3."

@@ -322,7 +322,7 @@ Náš Bůh je Bo -- hem spá -- sy.
 \set stanza = "1."
 \left Bůh \squash po -- vstá -- vá, je -- ho ne -- přá -- te -- lé se \unLeft \unSquash \markup \accent roz -- pty -- lu -- \star jí, \left ti, \squash kdo ho ne -- ná -- vi -- dí, pr -- cha -- jí \unLeft \unSquash \markup \accent před ním.
 \set stanza = "2."
-\left Spra -- \squash ved -- li -- ví se však ra -- du -- jí, já -- sa -- jí \unLeft \unSquash \markup \accent před Bo -- \star hem a \left ve -- \squash se -- lí se \unLeft \unSquash \markup \accent "v ra" -- do -- sti.
+\left Spra -- \squash ve -- dli -- ví se však ra -- du -- jí, já -- sa -- jí \unLeft \unSquash \markup \accent před Bo -- \star hem a \left ve -- \squash se -- lí se \unLeft \unSquash \markup \accent "v ra" -- do -- sti.
 \set stanza = \responsum
 Náš Bůh je Bo -- hem spá -- sy.
 \set stanza = "3."

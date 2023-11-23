@@ -325,7 +325,7 @@ Ať tě, Bo -- že, ve -- le -- bí ná -- ro -- dy, ať tě ve -- le -- bí, kd
 \set stanza = \responsum
 Ať tě, Bo -- že, ve -- le -- bí ná -- ro -- dy, ať tě ve -- le -- bí, kde -- kte -- rý ná -- rod!
 \set stanza = "3."
-\left Nechť \squash se li -- dé ra -- du -- jí a \unLeft \unSquash \markup \accent já -- sa -- \star jí, že \left sou -- \squash díš ná -- ro -- dy spra -- ved -- li -- \breath "vě" a li -- di na ze -- mi \unLeft \unSquash \markup \accent ří -- díš.
+\left Nechť \squash se li -- dé ra -- du -- jí a \unLeft \unSquash \markup \accent já -- sa -- \star jí, že \left sou -- \squash díš ná -- ro -- dy spra -- ve -- dli -- \breath "vě" a li -- di na ze -- mi \unLeft \unSquash \markup \accent ří -- díš.
 \set stanza = \responsum
 Ať tě, Bo -- že, ve -- le -- bí ná -- ro -- dy, ať tě ve -- le -- bí, kde -- kte -- rý ná -- rod!
 \set stanza = "4."

@@ -341,7 +341,7 @@ Tvá \left pra -- \squash vi -- ce, Ho -- spo -- di -- ne, u -- ka -- zu -- je s
 \set stanza = \responsum
 Ho -- spo -- di -- nu chci zpí -- vat, ne -- boť je vel -- mi vzne -- še -- ný.
 \set stanza = "7."
-\left Při -- \squash ve -- deš a za -- sa -- díš svůj lid na ho -- ře, \unLeft \unSquash na svém \markup \accent vlast -- nic -- \star tví, \left na \squash mí -- stě, kde si, Ho -- spo -- di -- ne, bu -- du -- \unLeft \unSquash ješ své \markup \accent síd -- lo,
+\left Při -- \squash ve -- deš a za -- sa -- díš svůj lid na ho -- ře, \unLeft \unSquash na svém \markup \accent vlast -- nic -- \star tví, \left na \squash mí -- stě, kde si, Ho -- spo -- di -- ne, bu -- du -- \unLeft \unSquash ješ své \markup \accent sí -- dlo,
 \set stanza = "8."
 \left ve \squash sva -- ty -- ni, Pa -- ne, kte -- rou vy -- sta -- vě -- \unLeft \unSquash ly tvé \markup \accent ru -- \star ce. \left Ho -- \squash spo -- din bu -- de kra -- lo -- vat na vě -- \unLeft \unSquash ky a \markup \accent na -- vždy.
 \set stanza = \responsum

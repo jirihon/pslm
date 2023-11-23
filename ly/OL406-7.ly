@@ -325,7 +325,7 @@ Tvá slo -- va, Pa -- ne, jsou duch a jsou ži -- vot.
 \set stanza = "1."
 \left Ho -- \squash spo -- di -- nův zá -- \unLeft \unSquash kon je \markup \accent do -- ko -- na -- \star lý, \left ob -- \squash čer -- \unLeft \unSquash stvu -- je \markup \accent du -- ši,
 \set stanza = "2."
-\left Ho -- \squash spo -- di -- nův pří -- \unLeft \unSquash kaz je \markup \accent spo -- leh -- li -- \star vý, \left ne -- \squash zku -- še -- né -- mu \unLeft \unSquash dá -- vá \markup \accent moud -- rost.
+\left Ho -- \squash spo -- di -- nův pří -- \unLeft \unSquash kaz je \markup \accent spo -- leh -- li -- \star vý, \left ne -- \squash zku -- še -- né -- mu \unLeft \unSquash dá -- vá \markup \accent mou -- drost.
 \set stanza = \responsum
 Tvá slo -- va, Pa -- ne, jsou duch a jsou ži -- vot.
 \set stanza = "3."
@@ -337,7 +337,7 @@ Tvá slo -- va, Pa -- ne, jsou duch a jsou ži -- vot.
 \set stanza = "5."
 \left Bá -- \squash zeň před Ho -- spo -- di -- \unLeft \unSquash nem je \markup \accent u -- přím -- \star ná, tr -- vá \markup \accent na vě -- ky,
 \set stanza = "6."
-\left Ho -- \squash spo -- di -- no -- vy vý -- ro -- \unLeft \unSquash ky jsou \markup \accent prav -- di -- \star vé, všech -- ny jsou \markup \accent spra -- ved -- li -- vé.
+\left Ho -- \squash spo -- di -- no -- vy vý -- ro -- \unLeft \unSquash ky jsou \markup \accent prav -- di -- \star vé, všech -- ny jsou \markup \accent spra -- ve -- dli -- vé.
 \set stanza = \responsum
 Tvá slo -- va, Pa -- ne, jsou duch a jsou ži -- vot.
 \set stanza = "7."

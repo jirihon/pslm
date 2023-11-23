@@ -334,7 +334,7 @@ Po -- chvá -- len buď Ho -- spo -- din, Bůh Iz -- ra -- e -- le, ne -- boť n
 \set stanza = "5."
 \left Na \squash pří -- sa -- hu, kte -- rou se za -- vá -- zal na -- še -- mu ot -- ci \unLeft \unSquash Ab -- ra -- \markup \accent há -- mo -- \star vi: \left že \squash nám do -- pře -- je, a -- by -- chom mu be -- ze stra -- \breath "chu" a vy -- svo -- bo -- ze -- ni \unLeft \unSquash "z ru" -- kou \markup \accent ne -- přá -- tel
 \set stanza = "6."
-\left zbož -- \squash ně a spra -- ved -- \unLeft \unSquash li -- vě \markup \accent slou -- ži -- \star li \left po \squash všech -- ny dny \unLeft \unSquash své -- ho \markup \accent ži -- vo -- ta.
+\left zbož -- \squash ně a spra -- ve -- \unLeft \unSquash dli -- vě \markup \accent slou -- ži -- \star li \left po \squash všech -- ny dny \unLeft \unSquash své -- ho \markup \accent ži -- vo -- ta.
 \set stanza = \responsum
 Po -- chvá -- len buď Ho -- spo -- din, Bůh Iz -- ra -- e -- le, ne -- boť na -- vští -- vil svůj lid. } }
     >>

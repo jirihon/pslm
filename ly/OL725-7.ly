@@ -334,7 +334,7 @@ Vy -- tvo -- řil jsi "z nás" na -- še -- mu Bo -- hu krá -- lov -- ství a k
 \set stanza = "5."
 Ať \left sva -- \squash tí já -- \unLeft \unSquash sa -- jí \markup \accent chva -- lo -- zpě -- \star vem, \left ať \squash se ve -- se -- lí \unLeft \unSquash na svých \markup \accent lo -- žích.
 \set stanza = "6."
-\left Bo -- \squash ží chvá -- lu ať \unLeft \unSquash ma -- jí \markup \accent "v hrd" -- \star lech. Všem \left je -- \squash ho sva -- tým bu -- \unLeft \unSquash de to \markup \accent ke cti.
+\left Bo -- \squash ží chvá -- lu ať \unLeft \unSquash ma -- jí \markup \accent "v hr" -- \star dlech. Všem \left je -- \squash ho sva -- tým bu -- \unLeft \unSquash de to \markup \accent ke cti.
 \set stanza = \responsum
 Vy -- tvo -- řil jsi "z nás" na -- še -- mu Bo -- hu krá -- lov -- ství a kně -- ze. } }
     >>

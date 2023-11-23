@@ -332,9 +332,9 @@ Mi -- lu -- ji tě, Ho -- spo -- di -- ne, má sí -- lo!
 \set stanza = \responsum
 Mi -- lu -- ji tě, Ho -- spo -- di -- ne, má sí -- lo!
 \set stanza = "4."
-\left Ob -- \squash klo -- pil mě smr -- \unLeft \unSquash tí -- cí \markup \accent pří -- \star boj, \left pře -- \squash pad -- ly mě zá -- \unLeft \unSquash hub -- né \markup \accent pří -- va -- ly,
+\left Ob -- \squash klo -- pil mě smr -- \unLeft \unSquash tí -- cí \markup \accent pří -- \star boj, \left pře -- \squash pa -- dly mě zá -- \unLeft \unSquash hub -- né \markup \accent pří -- va -- ly,
 \set stanza = "5."
-\left o -- \squash vi -- nu -- la mě o -- \unLeft \unSquash sid -- la \markup \accent pod -- svě -- \star tí, \left ohro -- \squash zi -- ly mě \unLeft \unSquash léč -- ky \markup \accent smr -- ti.
+\left o -- \squash vi -- nu -- la mě o -- \unLeft \unSquash si -- dla \markup \accent pod -- svě -- \star tí, \left ohro -- \squash zi -- ly mě \unLeft \unSquash léč -- ky \markup \accent smr -- ti.
 \set stanza = \responsum
 Mi -- lu -- ji tě, Ho -- spo -- di -- ne, má sí -- lo!
 \set stanza = "6."

@@ -326,7 +326,7 @@ Kdo \left vy -- \squash lí -- čí moc -- né Ho -- spo -- di -- \unLeft \unSqu
 \set stanza = \responsum
 O -- sla -- vuj -- te Ho -- spo -- di -- na, ne -- boť na vě -- ky tr -- vá je -- ho mi -- lo -- sr -- den -- ství.
 \set stanza = "3."
-\left Bla -- \squash ze těm, kte -- ří \unLeft \unSquash dba -- jí \markup \accent prá -- \star va, \left spra -- \squash ved -- li -- vě jed -- na -- jí \unLeft \unSquash "v kaž" -- dé \markup \accent do -- bě.
+\left Bla -- \squash ze těm, kte -- ří \unLeft \unSquash dba -- jí \markup \accent prá -- \star va, \left spra -- \squash ve -- dli -- vě jed -- na -- jí \unLeft \unSquash "v kaž" -- dé \markup \accent do -- bě.
 \set stanza = "4."
 \left Pa -- \squash ma -- tuj \unLeft \unSquash na mě, \markup \accent Ho -- spo -- di -- \star ne, \left pro \squash ná -- klon -- nost \unLeft \unSquash "k své" -- mu \markup \accent li -- du.
 \set stanza = \responsum

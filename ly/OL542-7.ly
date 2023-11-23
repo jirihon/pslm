@@ -340,7 +340,7 @@ Ze zá -- hu -- by vy -- svo -- bo -- díš můj ži -- vot, Ho -- spo -- di -- 
 \set stanza = "6."
 Když \left zma -- \squash lát -- ně -- \unLeft \unSquash la má \markup \accent du -- \star še, \left vzpo -- \squash mněl jsem si \unLeft \unSquash na Ho -- \markup \accent spo -- di -- na
 \set stanza = "7."
-a \left mod -- \squash lit -- ba má \unLeft \unSquash při -- šla \markup \accent "k to" -- \star bě, \left do \squash tvé -- ho sva -- \unLeft \unSquash té -- ho \markup \accent chrá -- mu.
+a \left mo -- \squash dlit -- ba má \unLeft \unSquash při -- šla \markup \accent "k to" -- \star bě, \left do \squash tvé -- ho sva -- \unLeft \unSquash té -- ho \markup \accent chrá -- mu.
 \set stanza = \responsum
 Ze zá -- hu -- by vy -- svo -- bo -- díš můj ži -- vot, Ho -- spo -- di -- ne! } }
     >>

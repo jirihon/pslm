@@ -327,7 +327,7 @@ Bla -- ze všem, kdo se u -- chy -- lu -- jí "k Ho" -- spo -- di -- nu.
 \set stanza = "2."
 \left Po -- \squash zdvi -- hu -- jí se po -- \unLeft \unSquash zem -- ští \markup \accent krá -- lo -- \star vé a \left vla -- \squash da -- ři se spo -- lu u -- mlou -- va -- \breath "jí" pro -- ti Ho -- spo -- di -- nu a je -- ho \unLeft \unSquash Po -- ma -- \markup \accent za -- né -- mu.
 \set stanza = "3."
-\left „Roz -- \squash lá -- mej -- me \unLeft \unSquash je -- jich \markup \accent o -- ko -- \star vy a \left od -- \squash hoď -- me \unLeft \unSquash je -- jich \markup \accent pou -- ta!“
+\left „Roz -- \squash lá -- mej -- me \unLeft \unSquash je -- jich \markup \accent o -- ko -- \star vy a \left od -- \squash ho -- ďme \unLeft \unSquash je -- jich \markup \accent pou -- ta!“
 \set stanza = \responsum
 Bla -- ze všem, kdo se u -- chy -- lu -- jí "k Ho" -- spo -- di -- nu.
 \set stanza = "4."

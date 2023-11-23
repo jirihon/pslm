@@ -327,11 +327,11 @@ Svět -- lo dnes za -- zá -- ří nad ná -- mi, ne -- boť se nám na -- ro --
 \set stanza = \responsum
 Svět -- lo dnes za -- zá -- ří nad ná -- mi, ne -- boť se nám na -- ro -- dil Pán.
 \set stanza = "3."
-\left Spra -- \squash ved -- li -- vé -- mu vy -- \unLeft \unSquash chá -- zí \markup \accent svět -- \star lo a \left li -- \squash dem u -- přím -- né -- ho \unLeft \unSquash srd -- ce \markup \accent ra -- dost.
+\left Spra -- \squash ve -- dli -- vé -- mu vy -- \unLeft \unSquash chá -- zí \markup \accent svět -- \star lo a \left li -- \squash dem u -- přím -- né -- ho \unLeft \unSquash srd -- ce \markup \accent ra -- dost.
 \set stanza = \responsum
 Svět -- lo dnes za -- zá -- ří nad ná -- mi, ne -- boť se nám na -- ro -- dil Pán.
 \set stanza = "4."
-\left Ra -- \squash duj -- te se, spra -- ved -- \unLeft \unSquash li -- ví, \markup \accent "v Ho" -- spo -- di -- \star nu a \left o -- \squash sla -- vuj -- te je -- ho \unLeft \unSquash sva -- té \markup \accent jmé -- no!
+\left Ra -- \squash duj -- te se, spra -- ve -- \unLeft \unSquash dli -- ví, \markup \accent "v Ho" -- spo -- di -- \star nu a \left o -- \squash sla -- vuj -- te je -- ho \unLeft \unSquash sva -- té \markup \accent jmé -- no!
 \set stanza = \responsum
 Svět -- lo dnes za -- zá -- ří nad ná -- mi, ne -- boť se nám na -- ro -- dil Pán. } }
     >>

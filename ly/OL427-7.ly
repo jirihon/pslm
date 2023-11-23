@@ -333,7 +333,7 @@ Tys mé ú -- to -- či -- ště, za -- hr -- neš mě ra -- do -- stí ze zá -
 \set stanza = \responsum
 Tys mé ú -- to -- či -- ště, za -- hr -- neš mě ra -- do -- stí ze zá -- chra -- ny.
 \set stanza = "5."
-\left Pro -- \squash to se bu -- de "k to" -- bě mod -- lit kaž -- dý zbož -- \unLeft \unSquash ný "v čas" \markup \accent tí -- \star sně. Až \left bu -- \squash dou do -- rá -- žet pří -- va -- ly \breath "vod," \unLeft \unSquash "k ně" -- mu \markup \accent ne -- do -- sáh -- nou.
+\left Pro -- \squash to se bu -- de "k to" -- bě mo -- dlit kaž -- dý zbož -- \unLeft \unSquash ný "v čas" \markup \accent tí -- \star sně. Až \left bu -- \squash dou do -- rá -- žet pří -- va -- ly \breath "vod," \unLeft \unSquash "k ně" -- mu \markup \accent ne -- do -- sáh -- nou.
 \set stanza = \responsum
 Tys mé ú -- to -- či -- ště, za -- hr -- neš mě ra -- do -- stí ze zá -- chra -- ny.
 \set stanza = "6."

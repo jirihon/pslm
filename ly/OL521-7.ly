@@ -321,7 +321,7 @@ Pán mě udr -- žu -- je na -- ži -- vu. \repeat unfold 1 { \skip 1 }
 \set stanza = "1."
 \left Bo -- \squash že, za -- chraň mě \left \unLeft \unSquash pro \squash své \unLeft \unSquash \markup \accent jmé -- \star no, svou \left mo -- \squash cí \left \unLeft \unSquash zjed -- \squash nej mi \unLeft \unSquash \markup \accent prá -- vo!
 \set stanza = "2."
-\left Bo -- \squash že, \left \unLeft \unSquash slyš \squash mo -- ji \unLeft \unSquash \markup \accent mod -- lit -- \star bu, \left po -- \squash přej slu -- chu \left \unLeft \unSquash slo -- \squash vům \unLeft \unSquash \markup \accent mých úst!
+\left Bo -- \squash že, \left \unLeft \unSquash slyš \squash mo -- ji \unLeft \unSquash \markup \accent mo -- dlit -- \star bu, \left po -- \squash přej slu -- chu \left \unLeft \unSquash slo -- \squash vům \unLeft \unSquash \markup \accent mých úst!
 \set stanza = \responsum
 Pán mě udr -- žu -- je na -- ži -- vu. \repeat unfold 1 { \skip 1 }
 \set stanza = "3."
