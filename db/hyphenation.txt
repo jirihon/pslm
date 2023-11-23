@@ -20,5 +20,5 @@ vr-hl
 u-smr
 ut-kal
 se-dm
-us-nu
+u-snu
 u-vn

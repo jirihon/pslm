@@ -332,7 +332,7 @@ Po -- vstaň, Ho -- spo -- di -- ne, za -- chraň mě!
 \set stanza = \responsum
 Po -- vstaň, Ho -- spo -- di -- ne, za -- chraň mě!
 \set stanza = "5."
-\left Klid -- \squash ně jsem u -- \unLeft \unSquash lehl a \markup \accent us -- \star nul. \left Pro -- \squash bu -- dil jsem se, pro -- to -- že mi Ho -- \unLeft \unSquash spo -- din \markup \accent po -- má -- há.
+\left Klid -- \squash ně jsem u -- \unLeft \unSquash lehl a \markup \accent u -- \star snul. \left Pro -- \squash bu -- dil jsem se, pro -- to -- že mi Ho -- \unLeft \unSquash spo -- din \markup \accent po -- má -- há.
 \set stanza = "6."
 \left Ne -- \squash za -- lek -- nu se a -- ni ti -- sí -- ců, kte -- \unLeft \unSquash ří mě \markup \accent ob -- kli -- ču -- \star jí. \left Po -- \squash vstaň, Ho -- spo -- di -- ne, můj \unLeft \unSquash Bo -- že, \markup \accent za -- chraň mě!
 \set stanza = \responsum
