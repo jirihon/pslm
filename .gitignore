@@ -13,7 +13,8 @@ html/o-projektu.html
 html/mp3
 html/sitemap.xml
 html/svg
-ly
+ly/*
+!ly/*-7.ly
 sh
 all.sh
 midi
