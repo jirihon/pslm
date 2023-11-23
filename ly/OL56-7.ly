@@ -323,7 +323,7 @@ Ple -- \left sej -- \squash te Ho -- spo -- di -- nu všech -- ny \unLeft \unSqu
 \set stanza = \responsum
 Pojď -- te se po -- klo -- nit Pá -- nu!
 \set stanza = "2."
-Uz -- \left nej -- \squash te, že Ho -- spo -- din je \unLeft \unSquash \starAccent Bůh: \left on \squash nás u -- či -- nil, a my mu \unLeft \unSquash \markup \accent ná -- le -- ží -- \star me, \left jsme \squash je -- ho lid a stád -- ce \left \unLeft \unSquash na \squash je -- ho \unLeft \unSquash \markup \accent pa -- stvi -- ně.
+U -- \left znej -- \squash te, že Ho -- spo -- din je \unLeft \unSquash \starAccent Bůh: \left on \squash nás u -- či -- nil, a my mu \unLeft \unSquash \markup \accent ná -- le -- ží -- \star me, \left jsme \squash je -- ho lid a stád -- ce \left \unLeft \unSquash na \squash je -- ho \unLeft \unSquash \markup \accent past -- vi -- ně.
 \set stanza = \responsum
 Pojď -- te se po -- klo -- nit Pá -- nu!
 \set stanza = "3."

@@ -715,8 +715,10 @@ function pslm_text_to_lyrics($text) {
         '# -- (sť|ls|ch|mž)\b#ui' => '\1', // move unsyllabic parts to the previous syllable
         '#\b(js|lst) -- #ui' => '\1', // move unsyllabic parts to the next syllable
 
-        '#příz -- n#ui' => 'pří -- zn',
+        '#(p)říz -- n#ui' => '\1ří -- zn',
         '#s -- t#ui' => ' -- st',
+        '#(p)a -- stvi#ui' => '\1ast -- vi',
+        '#\b(u)z -- n#ui' => '\1 -- zn',
         
         '#\b[ksvz] [^\s]+#ui' => '"\0"', // join unsyllabic preposition to the next syllable
         '#[^\s]+ \+#ui' => '"\0"', // join + sign to the previous syllable

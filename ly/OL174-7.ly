@@ -327,7 +327,7 @@ Bo -- že, ve své dob -- ro -- tě ses po -- sta -- ral o chu -- dá -- ka.
 \set stanza = "3."
 \left Po -- \squash zem -- ské ří -- še, zpí -- vej -- te Bo -- hu, ve -- \unLeft \unSquash leb -- te \markup \accent Pá -- \star na, \left kte -- \squash rý jez -- dí po ne -- be -- sích, po od -- \unLeft \unSquash vě -- kém \markup \accent ne -- bi!
 \set stanza = "4."
-Hle, \left o -- \squash zý -- vá se je -- ho \unLeft \unSquash hlas, hlas \markup \accent moc -- \star ný: „Uz -- nej -- te \markup \accent Bo -- ží moc!“
+Hle, \left o -- \squash zý -- vá se je -- ho \unLeft \unSquash hlas, hlas \markup \accent moc -- \star ný: „U -- znej -- te \markup \accent Bo -- ží moc!“
 \set stanza = "5."
 \left Nad \squash Iz -- ra -- e -- lem se zje -- vu -- je \unLeft \unSquash je -- ho \markup \accent vzne -- še -- \star nost, je -- ho moc \markup \accent "v ob" -- la -- cích.
 \set stanza = "6."

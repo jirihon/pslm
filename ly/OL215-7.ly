@@ -336,7 +336,7 @@ Se -- me -- no pa -- dlo na dob -- rou pů -- du a při -- ne -- slo u -- ži --
 \set stanza = "5."
 \left Rok \squash jsi ko -- ru -- no -- val svou \unLeft \unSquash \markup \accent dob -- ro -- \star tou, \left ku -- \squash dy jsi pro -- šel, prý -- ští \unLeft \unSquash \markup \accent hoj -- nost.
 \set stanza = "6."
-\left Pa -- \squash stvi -- ny na ste -- pi mo -- kva -- jí \unLeft \unSquash \markup \accent vlá -- \star hou, \left pa -- \squash hor -- ky se o -- ví -- je -- jí \unLeft \unSquash \markup \accent ra -- do -- stí.
+\left Past -- \squash vi -- ny na ste -- pi mo -- kva -- jí \unLeft \unSquash \markup \accent vlá -- \star hou, \left pa -- \squash hor -- ky se o -- ví -- je -- jí \unLeft \unSquash \markup \accent ra -- do -- stí.
 \set stanza = \responsum
 Se -- me -- no pa -- dlo na dob -- rou pů -- du a při -- ne -- slo u -- ži -- tek.
 \set stanza = "7."

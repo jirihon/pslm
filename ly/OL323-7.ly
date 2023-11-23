@@ -323,7 +323,7 @@ Vy jste mý -- mi přá -- te -- li, bu -- de -- te -- li či -- ni -- ti to, co
 \set stanza = \responsum
 Vy jste mý -- mi přá -- te -- li, bu -- de -- te -- li či -- ni -- ti to, co vám při -- ka -- zu -- ji.
 \set stanza = "2."
-\left Uz -- \squash nej -- te, že \unLeft \unSquash Ho -- spo -- \markup \accent din je \star Bůh: \left on \squash nás u -- či -- nil, a \unLeft \unSquash my mu \markup \accent ná -- le -- ží -- \star me, jsme \left je -- \squash ho lid a stád -- ce na \unLeft \unSquash je -- ho \markup \accent pa -- stvi -- ně.
+\left U -- \squash znej -- te, že \unLeft \unSquash Ho -- spo -- \markup \accent din je \star Bůh: \left on \squash nás u -- či -- nil, a \unLeft \unSquash my mu \markup \accent ná -- le -- ží -- \star me, jsme \left je -- \squash ho lid a stád -- ce na \unLeft \unSquash je -- ho \markup \accent past -- vi -- ně.
 \set stanza = \responsum
 Vy jste mý -- mi přá -- te -- li, bu -- de -- te -- li či -- ni -- ti to, co vám při -- ka -- zu -- ji.
 \set stanza = "3."

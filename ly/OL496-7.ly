@@ -327,7 +327,7 @@ Smi -- luj se, Pa -- ne, ne -- boť jsme zhře -- ši -- li.
 \set stanza = \responsum
 Smi -- luj se, Pa -- ne, ne -- boť jsme zhře -- ši -- li.
 \set stanza = "3."
-\left Ne -- \squash boť já svou ne -- \unLeft \unSquash pra -- vost \markup \accent uz -- ná -- \star vám, \left můj \squash hřích je \unLeft \unSquash stá -- le \markup \accent pře -- de mnou.
+\left Ne -- \squash boť já svou ne -- \unLeft \unSquash pra -- vost \markup \accent u -- zná -- \star vám, \left můj \squash hřích je \unLeft \unSquash stá -- le \markup \accent pře -- de mnou.
 \set stanza = "4."
 Jen \left pro -- \squash ti to -- bě \unLeft \unSquash jsem se \markup \accent pro -- hře -- \star šil, \left spá -- \squash chal jsem, \unLeft \unSquash co je \markup \accent před te -- bou zlé,
 \set stanza = "5."
