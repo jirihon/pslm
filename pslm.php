@@ -716,10 +716,12 @@ function pslm_text_to_lyrics($text) {
         '#\b(js|lst) -- #ui' => '\1', // move unsyllabic parts to the next syllable
 
         '#příz -- n#ui' => 'pří -- zn',
+        '#s -- t#ui' => ' -- st',
         
         '#\b[ksvz] [^\s]+#ui' => '"\0"', // join unsyllabic preposition to the next syllable
         '#[^\s]+ \+#ui' => '"\0"', // join + sign to the previous syllable
     ];
+    var_dump($htext);
     $htext = preg_replace(array_keys($repl), array_values($repl), $htext);
     return $htext;
 }

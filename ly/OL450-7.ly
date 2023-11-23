@@ -335,7 +335,7 @@ on se "k vám" \markup \accent ob -- rá -- \star tí \left a \squash už před 
 \set stanza = \responsum
 Ve -- li -- ký jsi, Ho -- spo -- di -- ne, na vě -- ky.
 \set stanza = "5."
-A \left ny -- \squash ní po -- hleď -- te na to, \unLeft \unSquash co vám \markup \accent u -- či -- \star nil, a \left zpl -- \squash na jej o -- sla -- vuj -- te \unLeft \unSquash svý -- mi \markup \accent ús -- ty.
+A \left ny -- \squash ní po -- hleď -- te na to, \unLeft \unSquash co vám \markup \accent u -- či -- \star nil, a \left zpl -- \squash na jej o -- sla -- vuj -- te \unLeft \unSquash svý -- mi \markup \accent ú -- sty.
 \set stanza = "6."
 \left Ve -- \squash leb -- te spra -- ve -- dli -- \unLeft \unSquash vé -- ho \markup \accent Pá -- \star na a \left ctě -- \squash te věč -- \unLeft \unSquash né -- ho \markup \accent krá -- le!
 \set stanza = \responsum

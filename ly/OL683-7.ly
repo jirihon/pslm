@@ -331,7 +331,7 @@ Blíz -- ký je Ho -- spo -- din všem, kdo ho vzý -- va -- jí.
 \set stanza = \responsum
 Blíz -- ký je Ho -- spo -- din všem, kdo ho vzý -- va -- jí.
 \set stanza = "5."
-\left Ať \squash má ús -- ta hlá -- sa -- jí \left \unLeft \unSquash Ho -- \squash spo -- di -- no -- vu \unLeft \unSquash \markup \accent chvá -- \star lu, \left vše, \squash co ži -- je, ať ve -- le -- bí je -- ho sva -- té jmé -- no \left \unLeft \unSquash po \squash všech -- ny \unLeft \unSquash \markup \accent vě -- ky!
+\left Ať \squash má ú -- sta hlá -- sa -- jí \left \unLeft \unSquash Ho -- \squash spo -- di -- no -- vu \unLeft \unSquash \markup \accent chvá -- \star lu, \left vše, \squash co ži -- je, ať ve -- le -- bí je -- ho sva -- té jmé -- no \left \unLeft \unSquash po \squash všech -- ny \unLeft \unSquash \markup \accent vě -- ky!
 \set stanza = \responsum
 Blíz -- ký je Ho -- spo -- din všem, kdo ho vzý -- va -- jí. } }
     >>

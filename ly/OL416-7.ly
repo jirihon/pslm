@@ -322,7 +322,7 @@ Po -- chvá -- len buď Ho -- spo -- din, Bůh Iz -- ra -- e -- le, ne -- boť n
 \set stanza = "1."
 \left Vzbu -- \squash dil nám moc -- \unLeft \unSquash né -- ho \markup \accent spa -- si -- te -- \star le, \left "z ro" -- \squash du své -- ho slu -- žeb -- \unLeft \unSquash ní -- ka \markup \accent Da -- vi -- da,
 \set stanza = "2."
-jak slí -- bil \markup \accent od pra -- dáv -- \star na \left ús -- \squash ty svých \unLeft \unSquash sva -- tých \markup \accent pro -- ro -- ků.
+jak slí -- bil \markup \accent od pra -- dáv -- \star na \left ú -- \squash sty svých \unLeft \unSquash sva -- tých \markup \accent pro -- ro -- ků.
 \set stanza = \responsum
 Po -- chvá -- len buď Ho -- spo -- din, Bůh Iz -- ra -- e -- le, ne -- boť na -- vští -- vil svůj lid.
 \set stanza = "3."

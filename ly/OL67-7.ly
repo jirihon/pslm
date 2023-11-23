@@ -343,7 +343,7 @@ Smi -- luj se, Pa -- ne, ne -- boť jsme zhře -- ši -- li.
 \set stanza = "7."
 \left Vrať \squash mi ra -- dost \unLeft \unSquash ze své \markup \accent o -- chra -- \star ny a \left po -- \squash sil -- \unLeft \unSquash ni mou \markup \accent vel -- ko -- du -- šnost.
 \set stanza = "8."
-\left O -- \squash te -- vři \unLeft \unSquash mé rty, \markup \accent Pa -- \star ne, \left a -- \squash by má ús -- ta zvě -- sto -- va -- \unLeft \unSquash la tvou \markup \accent chvá -- lu.
+\left O -- \squash te -- vři \unLeft \unSquash mé rty, \markup \accent Pa -- \star ne, \left a -- \squash by má ú -- sta zvě -- sto -- va -- \unLeft \unSquash la tvou \markup \accent chvá -- lu.
 \set stanza = \responsum
 Smi -- luj se, Pa -- ne, ne -- boť jsme zhře -- ši -- li. } }
     >>

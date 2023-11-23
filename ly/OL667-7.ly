@@ -335,7 +335,7 @@ Jak mi -- lu -- ji tvůj zá -- kon, Ho -- spo -- di -- ne.
 \set stanza = \responsum
 Jak mi -- lu -- ji tvůj zá -- kon, Ho -- spo -- di -- ne.
 \set stanza = "4."
-Jak \left slad -- \squash ké jsou na mém pa -- \unLeft \unSquash tru tvé \markup \accent vý -- ro -- \star ky, \left nad \squash med jsou slad -- ší \unLeft \unSquash pro má \markup \accent ús -- ta.
+Jak \left slad -- \squash ké jsou na mém pa -- \unLeft \unSquash tru tvé \markup \accent vý -- ro -- \star ky, \left nad \squash med jsou slad -- ší \unLeft \unSquash pro má \markup \accent ú -- sta.
 \set stanza = \responsum
 Jak mi -- lu -- ji tvůj zá -- kon, Ho -- spo -- di -- ne.
 \set stanza = "5."
@@ -343,7 +343,7 @@ Mým \left dě -- \squash dic -- tvím na vě -- ky \unLeft \unSquash jsou tvá 
 \set stanza = \responsum
 Jak mi -- lu -- ji tvůj zá -- kon, Ho -- spo -- di -- ne.
 \set stanza = "6."
-\left O -- \squash tví -- rám ús -- \unLeft \unSquash ta a \markup \accent na -- bí -- rám \star dech, \left ne -- \squash boť tou -- žím \unLeft \unSquash po tvých \markup \accent před -- pi -- sech.
+\left O -- \squash tví -- rám ú -- \unLeft \unSquash sta a \markup \accent na -- bí -- rám \star dech, \left ne -- \squash boť tou -- žím \unLeft \unSquash po tvých \markup \accent před -- pi -- sech.
 \set stanza = \responsum
 Jak mi -- lu -- ji tvůj zá -- kon, Ho -- spo -- di -- ne. } }
     >>

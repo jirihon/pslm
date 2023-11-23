@@ -329,7 +329,7 @@ Bůh náš je \markup \accent na ne -- be -- \star sích, \left všech -- \squas
 \set stanza = \responsum
 Iz -- ra -- e -- lův dům dou -- fá "v Ho" -- spo -- di -- na.
 \set stanza = "3."
-\left Ma -- \squash jí ús -- ta, \unLeft \unSquash a -- le \markup \accent ne -- mlu -- \star ví, \left ma -- \squash jí o -- či, \unLeft \unSquash a -- le \markup \accent ne -- vi -- dí.
+\left Ma -- \squash jí ú -- sta, \unLeft \unSquash a -- le \markup \accent ne -- mlu -- \star ví, \left ma -- \squash jí o -- či, \unLeft \unSquash a -- le \markup \accent ne -- vi -- dí.
 \set stanza = "4."
 \left Ma -- \squash jí u -- ši, \unLeft \unSquash a -- le \markup \accent ne -- sly -- \star ší, \left ma -- \squash jí nos, \unLeft \unSquash a -- le \markup \accent ne -- či -- cha -- jí.
 \set stanza = \responsum

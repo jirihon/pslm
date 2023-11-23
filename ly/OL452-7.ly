@@ -331,7 +331,7 @@ Ja -- snou tvář u -- kaž své -- mu slu -- žeb -- ní -- ku, Ho -- spo -- di
 \set stanza = \responsum
 Ja -- snou tvář u -- kaž své -- mu slu -- žeb -- ní -- ku, Ho -- spo -- di -- ne!
 \set stanza = "3."
-\left O -- \squash tví -- rám ús -- \unLeft \unSquash ta a \markup \accent na -- bí -- rám \star dech, ne -- \left boť \squash tou -- žím \unLeft \unSquash po tvých \markup \accent před -- pi -- sech.
+\left O -- \squash tví -- rám ú -- \unLeft \unSquash sta a \markup \accent na -- bí -- rám \star dech, ne -- \left boť \squash tou -- žím \unLeft \unSquash po tvých \markup \accent před -- pi -- sech.
 \set stanza = \responsum
 Ja -- snou tvář u -- kaž své -- mu slu -- žeb -- ní -- ku, Ho -- spo -- di -- ne!
 \set stanza = "4."

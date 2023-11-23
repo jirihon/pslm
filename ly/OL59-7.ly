@@ -335,7 +335,7 @@ Bu -- dou se ti, Ho -- spo -- di -- ne, kla -- nět všech -- ny ná -- ro -- dy
 \set stanza = \responsum
 Bu -- dou se ti, Ho -- spo -- di -- ne, kla -- nět všech -- ny ná -- ro -- dy.
 \set stanza = "5."
-\left Krá -- \squash lo -- vé Tar -- ší -- še a os -- tro -- vů při -- \unLeft \unSquash ne -- sou \markup \accent da -- \star ry, krá -- \left lo -- \squash vé A -- rá -- bi -- e a Sá -- by za -- \unLeft \unSquash pla -- tí \markup \accent da -- ně.
+\left Krá -- \squash lo -- vé Tar -- ší -- še a o -- stro -- vů při -- \unLeft \unSquash ne -- sou \markup \accent da -- \star ry, krá -- \left lo -- \squash vé A -- rá -- bi -- e a Sá -- by za -- \unLeft \unSquash pla -- tí \markup \accent da -- ně.
 \set stanza = "6."
 \left Všich -- \squash ni krá -- lo -- vé se mu \unLeft \unSquash bu -- dou \markup \accent kla -- \star nět, všech -- \left ny \squash ná -- ro -- dy mu \unLeft \unSquash bu -- dou \markup \accent slou -- žit.
 \set stanza = \responsum

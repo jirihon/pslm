@@ -334,7 +334,7 @@ Já -- sej -- te Bo -- hu, všech -- ny ze -- mě!
 \set stanza = "5."
 \left Pojď -- \squash te, sly -- šte, \left \unLeft \unSquash všich -- \squash ni \unLeft \unSquash \markup \accent bo -- ha -- boj -- \star ní, chci \left vy -- \squash prá -- vět, co pro -- ká -- zal \left \unLeft \unSquash Bůh \squash mé \unLeft \unSquash \markup \accent du -- ši.
 \set stanza = "6."
-\left Svý -- \squash mi ús -- ty jsem \left \unLeft \unSquash "k ně" -- \squash mu \unLeft \unSquash \markup \accent vo -- \star lal, \left ve -- \squash le -- bil jsem \left \unLeft \unSquash ho \squash svým \unLeft \unSquash \markup \accent ja -- zy -- kem.
+\left Svý -- \squash mi ú -- sty jsem \left \unLeft \unSquash "k ně" -- \squash mu \unLeft \unSquash \markup \accent vo -- \star lal, \left ve -- \squash le -- bil jsem \left \unLeft \unSquash ho \squash svým \unLeft \unSquash \markup \accent ja -- zy -- kem.
 \set stanza = \responsum
 Já -- sej -- te Bo -- hu, všech -- ny ze -- mě! } }
     >>

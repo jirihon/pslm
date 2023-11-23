@@ -332,7 +332,7 @@ Ať \left po -- \squash zna -- jí, že je \unLeft \unSquash to tvá \markup \ac
 \set stanza = \responsum
 Za -- chraň mě, Ho -- spo -- di -- ne, po -- dle své -- ho sli -- to -- vá -- ní!
 \set stanza = "5."
-\left Vel -- \squash mi bu -- du o -- sla -- vo -- vat Ho -- spo -- di -- na \unLeft \unSquash svý -- mi \markup \accent ús -- \star ty, \left upro -- \squash střed vel -- ké -- ho zá -- stu -- pu ho \unLeft \unSquash bu -- du \markup \accent chvá -- lit,
+\left Vel -- \squash mi bu -- du o -- sla -- vo -- vat Ho -- spo -- di -- na \unLeft \unSquash svý -- mi \markup \accent ú -- \star sty, \left upro -- \squash střed vel -- ké -- ho zá -- stu -- pu ho \unLeft \unSquash bu -- du \markup \accent chvá -- lit,
 \set stanza = "6."
 \left ne -- \squash boť sta -- nul chu -- dá -- \unLeft \unSquash ko -- vi \markup \accent po pra -- vi -- \star ci, \left a -- \squash by ho za -- \unLeft \unSquash chrá -- nil \markup \accent před soud -- ci.
 \set stanza = \responsum

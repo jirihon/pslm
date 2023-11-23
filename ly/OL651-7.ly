@@ -335,7 +335,7 @@ Vždyť \left hří -- \squash šník se chlu -- bí svou \unLeft \unSquash ná 
 \set stanza = \responsum
 Ne -- za -- po -- mí -- nej na chu -- dá -- ky, Ho -- spo -- di -- ne!
 \set stanza = "5."
-\left Je -- \squash ho ús -- ta jsou pl -- ná klet -- by, \unLeft \unSquash lsti a \markup \accent ú -- kla -- \star du, pod \left je -- \squash ho ja -- zy -- kem jen ú -- tra -- \unLeft \unSquash pa a \markup \accent ho -- ře.
+\left Je -- \squash ho ú -- sta jsou pl -- ná klet -- by, \unLeft \unSquash lsti a \markup \accent ú -- kla -- \star du, pod \left je -- \squash ho ja -- zy -- kem jen ú -- tra -- \unLeft \unSquash pa a \markup \accent ho -- ře.
 \set stanza = "6."
 \left Se -- \squash dí na čí -- ha -- né \unLeft \unSquash pob -- líž \markup \accent o -- \star sad, za -- \left bí -- \squash jí ne -- vin -- \unLeft \unSquash né -- ho \markup \accent ve skry -- tu.
 \set stanza = \responsum

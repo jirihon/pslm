@@ -332,7 +332,7 @@ já \left u -- \squash smr -- cu -- ji a já \unLeft \unSquash \markup \accent o
 \set stanza = \responsum
 Já u -- smr -- cu -- ji a já o -- ži -- vu -- ji.
 \set stanza = "5."
-\left Je -- \squash stli -- že na -- os -- třím svůj \unLeft \unSquash \markup \accent blý -- ska -- vý \star meč, \left při -- \squash pra -- ví -- li se "k prá" -- vu má \unLeft \unSquash \markup \accent ru -- ka,
+\left Je -- \squash stli -- že na -- o -- střím svůj \unLeft \unSquash \markup \accent blý -- ska -- vý \star meč, \left při -- \squash pra -- ví -- li se "k prá" -- vu má \unLeft \unSquash \markup \accent ru -- ka,
 \set stanza = "6."
 \left po -- \squash mstím se svým \unLeft \unSquash \markup \accent ne -- přá -- te -- \star lům, \left od -- \squash pla -- tím těm, kdo mě \unLeft \unSquash \markup \accent ne -- ná -- vi -- dí.
 \set stanza = \responsum

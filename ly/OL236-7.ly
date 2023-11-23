@@ -332,7 +332,7 @@ Vsta -- nu a půj -- du "k své" -- mu Ot -- ci.
 \set stanza = \responsum
 Vsta -- nu a půj -- du "k své" -- mu Ot -- ci.
 \set stanza = "5."
-\left O -- \squash te -- vři \unLeft \unSquash mé rty, \markup \accent Pa -- \star ne, a -- \left by \squash má ús -- ta zvě -- sto -- va -- \unLeft \unSquash la tvou \markup \accent chvá -- lu.
+\left O -- \squash te -- vři \unLeft \unSquash mé rty, \markup \accent Pa -- \star ne, a -- \left by \squash má ú -- sta zvě -- sto -- va -- \unLeft \unSquash la tvou \markup \accent chvá -- lu.
 \set stanza = "6."
 \left Mou \squash o -- bě -- tí, Bo -- \unLeft \unSquash že, je \markup \accent zkrou -- še -- ný \star duch, zkrou -- \left še -- \squash ným a po -- kor -- ným srd -- cem, \unLeft \unSquash Bo -- že, \markup \accent ne -- po -- hrd -- neš.
 \set stanza = \responsum

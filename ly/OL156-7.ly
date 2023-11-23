@@ -331,7 +331,7 @@ Tvé \left krá -- \squash lov -- ství je krá -- lov -- ství všech \unLeft \
 \set stanza = \responsum
 Ať tvo -- ji zbož -- ní, Ho -- spo -- di -- ne, vy -- pra -- vu -- jí o slá -- vě tvé vzne -- še -- né ří -- še.
 \set stanza = "5."
-\left Ať \squash má ús -- ta hlá -- sa -- jí Ho -- spo -- di -- no -- vu \unLeft \unSquash \markup \accent chvá -- \star lu, \left vše, \squash co ži -- je, ať ve -- le -- bí je -- ho sva -- té jmé -- no po všech -- ny \unLeft \unSquash \markup \accent vě -- ky!
+\left Ať \squash má ú -- sta hlá -- sa -- jí Ho -- spo -- di -- no -- vu \unLeft \unSquash \markup \accent chvá -- \star lu, \left vše, \squash co ži -- je, ať ve -- le -- bí je -- ho sva -- té jmé -- no po všech -- ny \unLeft \unSquash \markup \accent vě -- ky!
 \set stanza = \responsum
 Ať tvo -- ji zbož -- ní, Ho -- spo -- di -- ne, vy -- pra -- vu -- jí o slá -- vě tvé vzne -- še -- né ří -- še. } }
     >>

@@ -325,7 +325,7 @@ Kdo se -- jí "v sl" -- zách žnout bu -- dou "s já" -- so -- tem.
 \set stanza = "1."
 Když \left Ho -- \squash spo -- din při -- vá -- děl si -- ón -- ské \unLeft \unSquash \markup \accent za -- jat -- \star ce, \left by -- \squash li jsme ja -- ko \unLeft \unSquash \markup \accent ve snách.
 \set stanza = "2."
-\left Teh -- \squash dy na -- še ús -- ta by -- la pl -- ná \unLeft \unSquash \markup \accent smí -- \star chu \left a \squash náš ja -- zyk pl -- ný \unLeft \unSquash \markup \accent já -- so -- tu.
+\left Teh -- \squash dy na -- še ú -- sta by -- la pl -- ná \unLeft \unSquash \markup \accent smí -- \star chu \left a \squash náš ja -- zyk pl -- ný \unLeft \unSquash \markup \accent já -- so -- tu.
 \set stanza = \responsum
 Kdo se -- jí "v sl" -- zách žnout bu -- dou "s já" -- so -- tem.
 \set stanza = "3."

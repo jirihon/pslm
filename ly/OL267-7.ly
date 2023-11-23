@@ -341,7 +341,7 @@ Od klí -- na mé mat -- ky byls mým o -- chrán -- cem.
 \set stanza = \responsum
 Od klí -- na mé mat -- ky byls mým o -- chrán -- cem.
 \set stanza = "7."
-\left Ús -- \squash ta má bu -- dou vy -- prá -- vět o tvé spra -- ve -- \unLeft \unSquash \markup \accent dl -- no -- \star sti, \left po \squash ce -- lý den bu -- du vy -- prá -- vět o tvé \unLeft \unSquash \markup \accent po -- mo -- ci.
+\left Ú -- \squash sta má bu -- dou vy -- prá -- vět o tvé spra -- ve -- \unLeft \unSquash \markup \accent dl -- no -- \star sti, \left po \squash ce -- lý den bu -- du vy -- prá -- vět o tvé \unLeft \unSquash \markup \accent po -- mo -- ci.
 \set stanza = "8."
 \left Bo -- \squash že, u -- čils mě od mé -- ho \unLeft \unSquash \markup \accent mlá -- \star dí, až \left do -- \squash sud hlá -- sám tvé po -- di -- vu -- hod -- né \unLeft \unSquash \markup \accent či -- ny.
 \set stanza = \responsum

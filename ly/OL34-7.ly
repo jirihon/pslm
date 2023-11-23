@@ -325,7 +325,7 @@ Mé srd -- ce já -- sá "v Bo" -- hu, mém spa -- si -- te -- li.
 \set stanza = "1."
 Mé \left srd -- \squash ce \unLeft \unSquash já -- sá \markup \accent "v Ho" -- spo -- di -- \star nu, mo -- \left je \squash moc se vy -- vy -- šu -- \unLeft \unSquash je "v mém" \markup \accent Bo -- hu.
 \set stanza = "2."
-\left Ús -- \squash ta se o -- tví -- ra -- jí pro -- \unLeft \unSquash ti mým \markup \accent ne -- přá -- te -- \star lům, ne -- \left boť \squash se ra -- du -- \unLeft \unSquash ji "z tvé" \markup \accent po -- mo -- ci.
+\left Ú -- \squash sta se o -- tví -- ra -- jí pro -- \unLeft \unSquash ti mým \markup \accent ne -- přá -- te -- \star lům, ne -- \left boť \squash se ra -- du -- \unLeft \unSquash ji "z tvé" \markup \accent po -- mo -- ci.
 \set stanza = \responsum
 Mé srd -- ce já -- sá "v Bo" -- hu, mém spa -- si -- te -- li.
 \set stanza = "3."

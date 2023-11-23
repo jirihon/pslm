@@ -324,7 +324,7 @@ Ne -- za -- po -- mí -- nej -- te na Bo -- ží skut -- ky!
 \set stanza = "1."
 \left Slyš, \squash můj li -- \unLeft \unSquash de, mé \markup \accent na -- u -- če -- \star ní, \left na -- \squash stav u -- ši \unLeft \unSquash slo -- vům \markup \accent mých úst!
 \set stanza = "2."
-\left O -- \squash te -- vřu "k prů" -- po -- vě -- \unLeft \unSquash di svá \markup \accent ús -- \star ta, \left vy -- \squash lo -- žím ta -- jem -- né u -- dá -- \unLeft \unSquash lo -- sti \markup \accent "z pra" -- dáv -- ných dob.
+\left O -- \squash te -- vřu "k prů" -- po -- vě -- \unLeft \unSquash di svá \markup \accent ú -- \star sta, \left vy -- \squash lo -- žím ta -- jem -- né u -- dá -- \unLeft \unSquash lo -- sti \markup \accent "z pra" -- dáv -- ných dob.
 \set stanza = \responsum
 Ne -- za -- po -- mí -- nej -- te na Bo -- ží skut -- ky!
 \set stanza = "3."
@@ -334,7 +334,7 @@ Když \left Ho -- \squash spo -- din hu -- bil Iz -- ra -- \unLeft \unSquash e -
 \set stanza = \responsum
 Ne -- za -- po -- mí -- nej -- te na Bo -- ží skut -- ky!
 \set stanza = "5."
-\left Lí -- \squash sa -- li se \unLeft \unSquash "k ně" -- mu \markup \accent ús -- \star ty, \left a -- \squash le svým ja -- zy -- \unLeft \unSquash kem mu \markup \accent lha -- li,
+\left Lí -- \squash sa -- li se \unLeft \unSquash "k ně" -- mu \markup \accent ú -- \star sty, \left a -- \squash le svým ja -- zy -- \unLeft \unSquash kem mu \markup \accent lha -- li,
 \set stanza = "6."
 \left ne -- \squash boť je -- jich srd -- ce ne -- by -- lo \unLeft \unSquash "k ně" -- mu \markup \accent u -- přím -- \star né a \left ne -- \squash by -- li věr -- ni \unLeft \unSquash je -- ho \markup \accent smlou -- vě.
 \set stanza = \responsum

@@ -334,7 +334,7 @@ Stvoř mi či -- sté srd -- ce, Bo -- že!
 \set stanza = "5."
 \left Zbav \squash mě, Bo -- že, tre -- stu za pro -- li -- tou \optionalBreath krev, Bo -- \unLeft \unSquash že, můj \markup \accent spa -- si -- te -- \star li, ať \left za -- \squash já -- sá můj ja -- zyk nad tvou \unLeft \unSquash spra -- ve -- \markup \accent dl -- no -- stí.
 \set stanza = "6."
-\left O -- \squash te -- vři \unLeft \unSquash mé rty, \markup \accent Pa -- \star ne, \left a -- \squash by má ús -- ta zvě -- sto -- va -- \unLeft \unSquash la tvou \markup \accent chvá -- lu.
+\left O -- \squash te -- vři \unLeft \unSquash mé rty, \markup \accent Pa -- \star ne, \left a -- \squash by má ú -- sta zvě -- sto -- va -- \unLeft \unSquash la tvou \markup \accent chvá -- lu.
 \set stanza = \responsum
 Stvoř mi či -- sté srd -- ce, Bo -- že! } }
     >>

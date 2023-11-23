@@ -328,7 +328,7 @@ Ne -- za -- po -- mí -- nej -- te na Bo -- ží skut -- ky!
 \set stanza = "3."
 \left Do \squash hně -- vu ho při -- vá -- dě -- li svý -- mi o -- \unLeft \unSquash bě -- ťmi \markup \accent na vý -- ši -- \star nách, \left svý -- \squash mi mo -- dla -- mi vzbu -- di -- li \unLeft \unSquash je -- ho \markup \accent žár -- li -- vost.
 \set stanza = "4."
-\left Bůh \squash to sly -- \unLeft \unSquash šel a \markup \accent roz -- hně -- val \star se, \left os -- \squash tře od -- \unLeft \unSquash mí -- tl \markup \accent Iz -- ra -- e -- le.
+\left Bůh \squash to sly -- \unLeft \unSquash šel a \markup \accent roz -- hně -- val \star se, \left o -- \squash stře od -- \unLeft \unSquash mí -- tl \markup \accent Iz -- ra -- e -- le.
 \set stanza = \responsum
 Ne -- za -- po -- mí -- nej -- te na Bo -- ží skut -- ky!
 \set stanza = "5."

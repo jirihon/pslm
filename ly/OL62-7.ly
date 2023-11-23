@@ -325,7 +325,7 @@ Ať \left vlád -- \squash ne tvé -- mu \unLeft \unSquash li -- du \markup \acc
 \set stanza = \responsum
 Bu -- dou se ti, Ho -- spo -- di -- ne, kla -- nět všech -- ny ná -- ro -- dy.
 \set stanza = "3."
-\left Krá -- \squash lo -- vé Tar -- ší -- še a os -- tro -- vů při -- \unLeft \unSquash ne -- sou \markup \accent da -- \star ry, krá -- \left lo -- \squash vé A -- rá -- bi -- e a Sá -- by za -- \unLeft \unSquash pla -- tí \markup \accent da -- ně.
+\left Krá -- \squash lo -- vé Tar -- ší -- še a o -- stro -- vů při -- \unLeft \unSquash ne -- sou \markup \accent da -- \star ry, krá -- \left lo -- \squash vé A -- rá -- bi -- e a Sá -- by za -- \unLeft \unSquash pla -- tí \markup \accent da -- ně.
 \set stanza = \responsum
 Bu -- dou se ti, Ho -- spo -- di -- ne, kla -- nět všech -- ny ná -- ro -- dy.
 \set stanza = "4."

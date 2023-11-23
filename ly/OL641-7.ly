@@ -343,7 +343,7 @@ Hle, \left tou -- \squash žím \unLeft \unSquash po tvých \markup \accent na -
 \set stanza = \responsum
 Jak mi -- lu -- ji tvůj zá -- kon, Ho -- spo -- di -- ne.
 \set stanza = "6."
-\left O -- \squash tví -- rám ús -- \unLeft \unSquash ta a \markup \accent na -- bí -- rám \star dech, \left ne -- \squash boť tou -- žím \unLeft \unSquash po tvých \markup \accent před -- pi -- sech.
+\left O -- \squash tví -- rám ú -- \unLeft \unSquash sta a \markup \accent na -- bí -- rám \star dech, \left ne -- \squash boť tou -- žím \unLeft \unSquash po tvých \markup \accent před -- pi -- sech.
 \set stanza = \responsum
 Jak mi -- lu -- ji tvůj zá -- kon, Ho -- spo -- di -- ne. } }
     >>

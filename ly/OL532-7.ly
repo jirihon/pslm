@@ -325,7 +325,7 @@ Vel -- kou věc "s ná" -- mi u -- či -- nil Ho -- spo -- din, na -- pl -- ni -
 \set stanza = "1."
 Když \left Ho -- \squash spo -- din při -- vá -- děl \left \unLeft \unSquash si -- \squash ón -- ské \unLeft \unSquash \markup \accent za -- jat -- \star ce, \left by -- \squash li jsme \left \unLeft \unSquash ja -- \squash ko \unLeft \unSquash \markup \accent ve snách.
 \set stanza = "2."
-\left Teh -- \squash dy na -- še ús -- ta by -- la \left \unLeft \unSquash pl -- \squash ná \unLeft \unSquash \markup \accent smí -- \star chu \left a \squash náš ja -- zyk \left \unLeft \unSquash pl -- \squash ný \unLeft \unSquash \markup \accent já -- so -- tu.
+\left Teh -- \squash dy na -- še ú -- sta by -- la \left \unLeft \unSquash pl -- \squash ná \unLeft \unSquash \markup \accent smí -- \star chu \left a \squash náš ja -- zyk \left \unLeft \unSquash pl -- \squash ný \unLeft \unSquash \markup \accent já -- so -- tu.
 \set stanza = \responsum
 Vel -- kou věc "s ná" -- mi u -- či -- nil Ho -- spo -- din, na -- pl -- ni -- la nás ra -- dost.
 \set stanza = "3."
