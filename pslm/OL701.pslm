@@ -48,10 +48,7 @@ t: I kdybych vystoupil na nebe, ty jsi tam,
 m: r8 bes8 besB a8_ g g4 r ||
 t: * i kdybych ulehl v podsvětí, i tady jsi.
 
-%% part: responsum_short
-
-m: a'4 g4. f8 | d d / d e f | bes c bes a g4 ||
-t: Chválím tě, že jsem vznikl tak podivuhodně.
+%% use: responsum
 
 %% part: verse
 
@@ -69,7 +66,7 @@ t: i tam mě povede tvá ruka
 m: r8 bes8 besB a8_ g g4 r ||
 t: * a uchopí mě tvá pravice.
 
-%% use: responsum_short
+%% use: responsum
 
 %% part: verse
 

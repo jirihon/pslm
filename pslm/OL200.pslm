@@ -9,9 +9,9 @@
 
 m: \key g \major
 
-%% part: responsum_short
+%% part: responsum
 
-m: b'8 a b d c b4 a | g8 e e4 ||
+m: b'8 a b d c b4 a | g8 e e2 ||
 t: V Bohu jen odpočívej, duše má.
 
 %% part: verse
@@ -30,7 +30,7 @@ t: Jen on je má skála a spása,
 m: aB g8 a c_ b b4 r ||
 t: * má tvrz, nic mnou nepohne.
 
-%% use: responsum_short
+%% use: responsum
 
 %% part: verse
 
@@ -48,10 +48,7 @@ t: Jen on je má skála a spása,
 m: r8 a8 g8( a) c_ b b b4 r ||
 t: * má tvrz, nepohnu se!
 
-%% part: responsum
-
-m: b'8 a b d c b4 a | g8 e e2 ||
-t: V Bohu jen odpočívej, duše má.
+%% use: responsum
 
 %% part: verse
 

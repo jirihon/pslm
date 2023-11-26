@@ -22,10 +22,7 @@ t: Po své pravici máš královnu,
 m: aB g8 f e_( d) d4 r ||
 t: * ozdobenou ofirským zlatem.
 
-%% part: responsum_short
-
-m: e'8 c~ c4 f8 f f g / e4 e8 e | d f a a2 / a8 b a gis( e) e4 ||
-t: Po své pravici máš královnu ozdobenou ofirským zlatem.
+%% use: responsum
 
 %% part: verse
 

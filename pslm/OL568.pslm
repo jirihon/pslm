@@ -52,10 +52,7 @@ t: * ty jsi svrchovaně povýšený nade vším,
 m: fisB eB*2 fis8 e e_ d d4 r ||
 t: * od tebe je bohatství a velebnost.
 
-%% part: responsum_short
-
-m: g'4 a8 g fis e | d2 g4 | a8 b a4 ||
-t: Ty, Hospodine, vládneš nade vším.
+%% use: responsum
 
 %% part: verse
 

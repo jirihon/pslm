@@ -58,10 +58,7 @@ t: Nenechal jsem si pro sebe tvou spravedlnost,
 m: f8 c'B d8 c c_( bes) bes4 r ||
 t: * o tvé věrnosti a pomoci jsem mluvil.
 
-%% part: responsum_short
-
-m: bes'4 c8 bes4 g8 / es d / c d es / f4 f ||
-t: Hle, přicházím, Pane, splnit tvou vůli.
+%% use: responsum
 
 %% part: verse
 

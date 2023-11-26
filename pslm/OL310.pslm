@@ -69,10 +69,7 @@ t: Hle, ubožák zavolal, a Hospodin slyšel,
 m: gB fis8_( e) e4 r ||
 t: * pomohl mu ve všech jeho strastech.
 
-%% part: responsum_short
-
-m: d'8 d d e fis / g fis e / fis a a a4 ||
-t: Ustavičně chci velebit Hospodina.
+%% use: responsum
 
 %% part: verse
 

@@ -52,10 +52,7 @@ t: Vyvolil jsem si cestu pravdy,
 m: fB es8 f as_ g g g2 ||
 t: * dal jsem přednost tvým rozhodnutím.
 
-%% part: responsum_short
-
-m: bes4 | f'8 es d es / as2 f4 | bes8 bes g es4 ||
-t: Jak miluji tvůj zákon, Hospodine.
+%% use: responsum
 
 %% part: verse
 

@@ -30,10 +30,7 @@ t: Bezbožník zpupně pronásleduje ubožáka,
 m: d8 a'B b8 a a_ g g4 r ||
 t: * chytí ho do nástrah, které si přichystal.
 
-%% part: responsum_short
-
-m: c''8 c c a4 c / d8 c / b4 a | b8 b a g4 ||
-t: Nezapomínej na chudáky, Hospodine!
+%% use: responsum
 
 %% part: verse
 

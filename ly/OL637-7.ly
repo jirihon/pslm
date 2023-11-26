@@ -307,7 +307,7 @@ optionalBreath = #(define-music-function (syllable)(string?)
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key es \major \relative { r8 g' es f g4 es \cadenzaMeasure \bar "|" f8 g \bar "" as g4 f8 \bar "" g as \bar "" bes4 bes \cadenzaMeasure \bar "||" \break }
+        \new Voice = "melody" { \cadenzaOn \key es \major \relative { r8 g' es f g4 es \cadenzaMeasure \bar "|" f8 g \bar "" as g4 f8 \bar "" g as \bar "" bes4 bes r \cadenzaMeasure \bar "||" \break }
 \relative { r8 c''8 c\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" c8 bes bes bes4 \cadenzaMeasure \bar "|" r8 as8 as\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" g8[( f)] f4 \cadenzaMeasure \bar "||" \break }
 \relative { r8 c''8 c\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" c8[( bes)] bes4 r \cadenzaMeasure \bar "|" as\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" g8 f f4 r \cadenzaMeasure \bar "||" \break }
 \relative { r8 g' es f g4 es \cadenzaMeasure \bar "|" f8 g \bar "" as g4 f8 \bar "" g as \bar "" bes4 bes r \cadenzaMeasure \bar "||" \break }

@@ -38,10 +38,7 @@ t: Budete vážit vodu s radostí
 m: r8 g a a f4_ f r ||
 t: * z pramenů spásy.
 
-%% part: responsum_short
-
-m: f'8 d f g4. f8 / g a / bes bes bes4. \breathe / c8 a g / f4 f4 ||
-t: Budete vážit vodu s radostí z pramenů spásy.
+%% use: responsum
 
 %% part: verse
 

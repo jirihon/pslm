@@ -66,10 +66,7 @@ t: pevně ho drží má ruka
 m: c,8 g'B f8 g bes_ a a a4 r ||
 t: * i mé rámě ho posiluje.
 
-%% part: responsum_short
-
-m: c''8 d c d c4. a8 | f bes a bes / c bes / a g g4 ||
-t: Na věky chci zpívat o Hospodinových milostech.
+%% use: responsum
 
 %% part: verse
 

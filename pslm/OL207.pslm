@@ -48,10 +48,7 @@ t: Stoupali až k nebi, (+) sestupovali do propastí,
 m: eB fis8 g a_ fis fis fis2 ||
 t: * jejich duše se třásla v nebezpečí.
 
-%% part: responsum_short
-
-m: d'8 e fis fis g a b a4 | g8 b d d d / cis fis,~ fis4 | b8 b a g fis e e4 ||
-t: Oslavujte Hospodina, neboť na věky trvá jeho milosrdenství.
+%% use: responsum
 
 %% part: verse
 

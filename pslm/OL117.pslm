@@ -64,10 +64,7 @@ t: Můj osud je ve tvé ruce,
 m: gB a8 bes d_ c c4 r ||
 t: * vysvoboď mě z moci mých úhlavních nepřátel!
 
-%% part: responsum_short
-
-m: c''4 a d8 c bes a | g f g / a f / c4 c ||
-t: Otče, do tvých rukou poroučím ducha svého.
+%% use: responsum
 
 %% part: verse
 

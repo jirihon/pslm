@@ -9,9 +9,9 @@
 
 m: \key c \major
 
-%% part: responsum_short
+%% part: responsum
 
-m: g'4( e) a8 g e c e / a g e c( d) d4 | d8 e f / a a a4 | a8 b a a( g) g4 ||
+m: g'4( e) a8 g e c e / a g e c( d) d4 | d8 e f / a a a4 | a8 b a a( g) g2 ||
 t: Svým andělům vydal o tobě příkaz, aby tě střežili na všech tvých cestách.
 
 %% part: verse
@@ -30,10 +30,7 @@ t: řekni Hospodinu: (+) „Jsi mé útočiště a má tvrz,
 m: bB a8_( g) g2 ||
 t: * můj Bůh, v něhož doufám!“
 
-%% part: responsum
-
-m: g'4( e) a8 g e c e / a g e c( d) d4 | d8 e f / a a a4 | a8 b a a( g) g2 ||
-t: Svým andělům vydal o tobě příkaz, aby tě střežili na všech tvých cestách.
+%% use: responsum
 
 %% part: verse
 

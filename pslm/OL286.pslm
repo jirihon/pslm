@@ -51,10 +51,7 @@ t: Ten, kdo má nevinné ruce a čisté srdce,
 m: fB es8 f g_ bes bes bes4 r ||
 t: * jehož duše nebaží po marnosti.
 
-%% part: responsum_short
-
-m: bes'8 c bes c bes g g4 | r8 es as g f bes2 g4 | c as g f ||
-t: To je pokolení těch, kdo hledají tvář tvou, Hospodine.
+%% use: responsum
 
 %% part: verse
 

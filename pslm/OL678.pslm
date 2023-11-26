@@ -9,9 +9,9 @@
 
 m: \key es \major
 
-%% part: responsum_short
+%% part: responsum
 
-m: bes4 | f'8 es d es as2 f4 | bes8 bes g es4 ||
+m: bes4 | f'8 es d es as2 f4 | bes8 bes g es4 r ||
 t: Jak miluji tvůj zákon, Hospodine.
 
 %% part: verse
@@ -22,10 +22,7 @@ t: Jak miluji tvůj zákon, Hospodine!
 m: fB es8 f as_ g g2 ||
 t: * Po celý den o něm rozjímám.
 
-%% part: responsum
-
-m: bes4 | f'8 es d es as2 f4 | bes8 bes g es4 r ||
-t: Jak miluji tvůj zákon, Hospodine.
+%% use: responsum
 
 %% part: verse
 

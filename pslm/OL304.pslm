@@ -67,10 +67,7 @@ t: Hospodinovy výroky jsou pravdivé,
 m: r8 f es8 f as_ g g g2 ||
 t: * všechny jsou spravedlivé.
 
-%% part: responsum_short
-
-m: es'4 es8 d c d es f4 | es8 f / g( bes) bes4 ||
-t: Tvá slova, Pane, jsou duch a jsou život.
+%% use: responsum
 
 %% part: verse
 

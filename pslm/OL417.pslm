@@ -9,9 +9,9 @@
 
 m: \key g \major
 
-%% part: responsum_short
+%% part: responsum
 
-m: d'8 g g g fis4 e a8 a a2 | d,8 a' a / b a / g4 fis / g8 a b b b4 ||
+m: d'8 g g g fis4 e a8 a a2 | d,8 a' a / b a / g4 fis / g8 a b b b2 ||
 t: Vzmužte se a buďte srdnatí, všichni, kdo spoléháte na Hospodina.
 
 %% part: verse
@@ -22,10 +22,7 @@ t: Jak nesmírná je tvá dobrotivost, Hospodine,
 m: gB fis8 e e_ d d4 r ||
 t: * uchoval jsi ji těm, kdo se tě bojí, + popřáváš ji těm, kdo se k tobě utíkají před lidmi.
 
-%% part: responsum
-
-m: d'8 g g g fis4 e a8 a a2 | d,8 a' a / b a / g4 fis / g8 a b b b2 ||
-t: Vzmužte se a buďte srdnatí, všichni, kdo spoléháte na Hospodina.
+%% use: responsum
 
 %% part: verse
 

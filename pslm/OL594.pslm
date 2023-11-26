@@ -22,10 +22,7 @@ t: Boží cesta je dokonalá, + Hospodinovo slovo, tříbené ohněm,
 m: asB bes8 f as_ g g g2 ||
 t: * štítem je všem, kdo se k němu utíkají.
 
-%% part: responsum_short
-
-m: es'8 es f g as as g f | g( as) bes4 bes ||
-t: Miluji tě, Hospodine, má sílo!
+%% use: responsum
 
 %% part: verse
 

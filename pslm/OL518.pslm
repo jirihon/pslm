@@ -9,9 +9,9 @@
 
 m: \key c \major
 
-%% part: responsum_short
+%% part: responsum
 
-m: g'4 e a8 a a4. / a8 g a b b b4 ||
+m: g'4 e a8 a a4. / a8 g a b b b2 ||
 t: Stále spoléhám na Boží slitovnost.
 
 %% part: verse
@@ -22,10 +22,7 @@ t: Jsem jako zelená oliva v Božím domě,
 m: aB g8 f e_ d d4 r ||
 t: * stále se spoléhám na Boží slitovnost.
 
-%% part: responsum
-
-m: g'4 e a8 a a4. / a8 g a b b b2 ||
-t: Stále spoléhám na Boží slitovnost.
+%% use: responsum
 
 %% part: verse
 

@@ -9,9 +9,9 @@
 
 m: \key es \major
 
-%% part: responsum_short
+%% part: responsum
 
-m: g'8 f es as g f / es f g8. g16 g4 ||
+m: g'8 f es as g f / es f g8. g16 g2 ||
 t: Nauč mě, Hospodine, svým příkazům!
 
 %% part: verse
@@ -22,10 +22,7 @@ t: Jak půjde jinoch svou cestou bez úhony?
 m: asB g8_( f) f4 r ||
 t: * Budeli se chovat podle tvého slova.
 
-%% part: responsum
-
-m: g'8 f es as g f / es f g8. g16 g2 ||
-t: Nauč mě, Hospodine, svým příkazům!
+%% use: responsum
 
 %% part: verse
 

@@ -46,10 +46,7 @@ t: Bezbožné budu učit tvým cestám
 m: r8 g gB a8 bes d_( c) c4 r ||
 t: * a hříšníci se budou obracet k tobě.
 
-%% part: responsum_short
-
-m: c''4 a d8 c a g / f4( d) c4 ||
-t: Stvoř mi čisté srdce, Bože!
+%% use: responsum
 
 %% part: verse
 

@@ -13,9 +13,9 @@
 
 m: \key g \major
 
-%% part: responsum_short
+%% part: responsum
 
-m: r8 g' fis e a a a4 | d,8 a' / a a a / g fis b4 b ||
+m: r8 g' fis e a a a4 | d,8 a' / a a a / g fis b4 b r ||
 t: Hle, ženich přichází, jděte naproti Kristu Pánu!
 
 %% part: verse
@@ -34,10 +34,7 @@ t: Sám král touží po tvé kráse:
 m: gB fis8 e e_ d d d4 r ||
 t: * vždyť je tvým pánem, před ním se skloň!
 
-%% part: responsum
-
-m: r8 g' fis e a a a4 | d,8 a' / a a a / g fis b4 b r ||
-t: Hle, ženich přichází, jděte naproti Kristu Pánu!
+%% use: responsum
 
 %% part: verse
 

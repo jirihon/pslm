@@ -38,10 +38,7 @@ t: rozdělím kořist, naplní se jí má touha:
 m: gB a8 f d_ c c2 ||
 t: * vytasím svůj meč, má ruka je zahubí!“
 
-%% part: responsum_short
-
-m: \tuplet 3/2 { f'8[ f f] } e d g4. g8 \breathe / \tuplet 3/2 { g[ g g] } / f e / a a a4 ||
-t: Hospodinu chci zpívat, neboť je velmi vznešený.
+%% use: responsum
 
 %% part: verse
 

@@ -48,10 +48,7 @@ t: Tvoji protivníci hlučeli uvnitř tvého svatého místa,
 m: r8 d8 a'B b8 a a_ g g g2 ||
 t: * své korouhve tam vztyčili na vítězství.
 
-%% part: responsum_short
-
-m: c''8 c c a4 c / d8 c / b4 a | b8 b a g4 ||
-t: Nezapomínej na chudáky, Hospodine!
+%% use: responsum
 
 %% part: verse
 

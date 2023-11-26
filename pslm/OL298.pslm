@@ -10,9 +10,9 @@
 
 m: \key c \major
 
-%% part: responsum_short
+%% part: responsum
 
-m: e'8 c~ c4 f8 f f g / e4 e8 e | d f a a2 / a8 b a gis( e) e4 ||
+m: e'8 c~ c4 f8 f f g / e4 e8 e | d f a a2 / a8 b a gis( e) e2 ||
 t: Po své pravici máš královnu ozdobenou ofirským zlatem.
 
 %% part: verse
@@ -31,10 +31,7 @@ t: Sám král touží po tvé kráse:
 m: aB g8 f e_ d d d4 r ||
 t: * vždyť je tvým pánem, před ním se skloň!
 
-%% part: responsum
-
-m: e'8 c~ c4 f8 f f g / e4 e8 e | d f a a2 / a8 b a gis( e) e2 ||
-t: Po své pravici máš královnu ozdobenou ofirským zlatem.
+%% use: responsum
 
 %% part: verse
 

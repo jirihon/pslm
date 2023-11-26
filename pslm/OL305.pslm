@@ -15,9 +15,9 @@
 
 m: \key es \major
 
-%% part: responsum_short
+%% part: responsum
 
-m: g'8 g f es4. | f8 g as g f / g as bes4 bes4 ||
+m: g'8 g f es4. | f8 g as g f / g as bes4 bes2 ||
 t: Ženich je tu, jděte naproti Kristu Pánu!
 
 %% part: verse
@@ -36,10 +36,7 @@ t: Sám král touží po tvé kráse:
 m: asB bes8 as g_ f f f4 r ||
 t: * vždyť je tvým pánem, před ním se skloň!
 
-%% part: responsum
-
-m: g'8 g f es4. | f8 g as g f / g as bes4 bes2 ||
-t: Ženich je tu, jděte naproti Kristu Pánu!
+%% use: responsum
 
 %% part: verse
 

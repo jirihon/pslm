@@ -23,10 +23,7 @@ t: Hospodin kraluje, oděl se velebností,
 m: c8 g'B a8 g g_( f) f2 ||
 t: * oděl se Hospodin, opásal se mocí.
 
-%% part: responsum_short
-
-m: f'8 d f g g g | g a bes / c a f f4 ||
-t: Hospodin kraluje, oděl se velebností.
+%% use: responsum
 
 %% part: verse
 
@@ -36,7 +33,7 @@ t: Dal světu základ, že nezakolísá.
 m: c8 g'B a8 g g_ f f f4 r ||
 t: * Pevný je trůn tvůj od pradávna, jsi od věčnosti.
 
-%% use: responsum_short
+%% use: responsum
 
 %% part: verse
 

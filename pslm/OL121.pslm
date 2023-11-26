@@ -7,9 +7,9 @@
 
 m: \key f \major
 
-%% part: responsum_short
+%% part: responsum
 
-m: \tuplet 3/2 { f'8[ f f] } e d g4. g8 \breathe / \tuplet 3/2 { g[ g g] } / f e / a a a4 ||
+m: \tuplet 3/2 { f'8[ f f] } e d g4. g8 \breathe / \tuplet 3/2 { g[ g g] } / f e / a a a2 ||
 t: Hospodinu chci zpívat, neboť je velmi vznešený.
 
 %% part: verse
@@ -28,10 +28,7 @@ t: Hospodin je má síla, jej opěvuji, + stal se mou spásou.
 m: gB a8 f d_ c c c4 r ||
 t: * On je můj Bůh, a já ho chválím, + Bůh mého otce, a já ho oslavuji.
 
-%% part: responsum
-
-m: \tuplet 3/2 { f'8[ f f] } e d g4. g8 \breathe / \tuplet 3/2 { g[ g g] } / f e / a a a2 ||
-t: Hospodinu chci zpívat, neboť je velmi vznešený.
+%% use: responsum
 
 %% part: verse
 

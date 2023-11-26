@@ -22,10 +22,7 @@ t: Bloudil jsem před svým pokořením,
 m: asB bes8 as g_( f) f4 r ||
 t: * nyní však dbám na tvůj výrok.
 
-%% part: responsum_short
-
-m: es'8 d c f f f4 \breathe / f4. g8 / as as / g4 f / bes8 g g g4 r | c f, bes bes4 ||
-t: Ať se mi dostane tvého slitování, Hospodine, abych byl živ.
+%% use: responsum
 
 %% part: verse
 
@@ -55,7 +52,7 @@ t: Lepší je pro mě zákon tvých úst
 m: r8 as8 asB bes8 as g_( f) f4 r ||
 t: * než tisíce ve zlatě a stříbře.
 
-%% use: responsum_short
+%% use: responsum
 
 %% part: verse
 

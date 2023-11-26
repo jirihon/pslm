@@ -48,10 +48,7 @@ t: Já však důvěřuji v Hospodina,
 m: gB a8 bes d_ c c c2 ||
 t: * budu se veselit a jásat nad tvým slitováním.
 
-%% part: responsum_short
-
-m: c''8 a~ a4 d8 c bes a | g f g a f c4 c ||
-t: Do tvých rukou, Pane, svěřuji ducha svého.
+%% use: responsum
 
 %% part: verse
 

@@ -32,10 +32,7 @@ t: Dobře mi, že jsem byl pokořen,
 m: d8 a'B b8 a a_ g g2 ||
 t: * abych se naučil tvým příkazům.
 
-%% part: responsum_short
-
-m: e'8 c g'2 a8 a / g a / b b / g4 e | a8 f e d4 ||
-t: Jasnou tvář ukaž svému služebníku, Hospodine!
+%% use: responsum
 
 %% part: verse
 

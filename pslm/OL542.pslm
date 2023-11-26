@@ -58,10 +58,7 @@ t: Řekl jsem si: (+) „Jsem zavržen od tvých očí,
 m: dB e8 f a_ g g2 ||
 t: * ale znovu spatřím tvůj svatý chrám.“
 
-%% part: responsum_short
-
-m: c''8 d c bes / a a / g f / bes4 / c8 bes / a f g g4 ||
-t: Ze záhuby vysvobodíš můj život, Hospodine!
+%% use: responsum
 
 %% part: verse
 

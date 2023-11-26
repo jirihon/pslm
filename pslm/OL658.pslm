@@ -48,10 +48,7 @@ t: Jsem bez viny a bez hříchu, Hospodine,
 m: gB a8 e g_ f f2 ||
 t: * nic jsem nezavinil, a přece vyrážejí a útočí.
 
-%% part: responsum_short
-
-m: f'4 e8 d g g g g / r g f e a4 a4 ||
-t: Bůh je mé útočiště, když je mi úzko.
+%% use: responsum
 
 %% part: verse
 
@@ -87,7 +84,7 @@ t: neboť ses osvědčil jako mé útočiště,
 m: gB a8 e g_( f) f4 r ||
 t: * jako úkryt, když je mi úzko.
 
-%% use: responsum_short
+%% use: responsum
 
 %% part: verse
 

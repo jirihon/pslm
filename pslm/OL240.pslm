@@ -32,10 +32,7 @@ t: Bázeň před Hospodinem je upřímná, trvá na věky,
 m: e,B fis8 g b_ a a a2 ||
 t: * Hospodinovy výroky jsou pravdivé, (+) všechny jsou spravedlivé.
 
-%% part: responsum_short
-
-m: d'8 e d e fis / g a fis e / d4 d2 | c8 e g4 / fis8 g a4 a  ||
-t: Hospodinovy předpisy jsou správné, působí radost srdci.
+%% use: responsum
 
 %% part: verse
 

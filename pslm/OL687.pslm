@@ -22,10 +22,7 @@ t: Touží, ba prahne má duše po Hospodinových síních,
 m: r8 g8 gB a8 f d_( c) c4 r ||
 t: * mé srdce i mé tělo s jásotem tíhnou k živému Bohu.
 
-%% part: responsum_short
-
-m: r8 c' | f f e d / g4 g8 g | g g f e / a8. a16 a4 ||
-t: Jak milý je tvůj příbytek, Hospodine zástupů!
+%% use: responsum
 
 %% part: verse
 

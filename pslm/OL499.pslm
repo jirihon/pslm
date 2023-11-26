@@ -48,10 +48,7 @@ t: Ty jsi Bůh, který činí divy,
 m: aB g8 a c_( b) b4 r ||
 t: * národům jsi dal poznat svou moc.
 
-%% part: responsum_short
-
-m: g'4 a g2 | c8 d / c c / b a / a4( g) g4 ||
-t: Vzpomínám na Hospodinovy činy.
+%% use: responsum
 
 %% part: verse
 

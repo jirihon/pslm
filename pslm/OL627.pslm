@@ -30,10 +30,7 @@ t: Naslouchej mé hlasité prosbě,
 m: r8 e8 eB d8 e fis_( d) d4 r ||
 t: * můj králi a můj Bože!
 
-%% part: responsum_short
-
-m: fis'8 fis e d4 r8 / g8 fis e / fis4. g8 / a a a4 ||
-t: Hospodine, všimni si mého volání!
+%% use: responsum
 
 %% part: verse
 

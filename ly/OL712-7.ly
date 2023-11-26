@@ -311,7 +311,7 @@ optionalBreath = #(define-music-function (syllable)(string?)
 \relative { es'4 f8 c \bar "" d4 d r \cadenzaMeasure \bar "|" c8 g'\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 a \bar "" f4 f r \cadenzaMeasure \bar "||" \break }
 \relative { es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 c \bar "" d4 d r \cadenzaMeasure \bar "|" r8 g a8 a \bar "" f4 f2 \cadenzaMeasure \bar "||" \break }
 \relative { es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 c \bar "" d d d2 \cadenzaMeasure \bar "|" r8 g a a \bar "" f4 f r \cadenzaMeasure \bar "||" \break }
-\relative { f'8 d f g4. f8 \bar "" g a \bar "" bes bes bes4. \breathe \bar "" c8 a g \bar "" f4 f4 \cadenzaMeasure \bar "||" \break }
+\relative { f'8 d f g4. f8 \bar "" g a \bar "" bes bes bes4. \breathe \bar "" c8 a g \bar "" f4 f2 \cadenzaMeasure \bar "||" \break }
 \relative { r8 es' f c \bar "" d d d d4 \cadenzaMeasure \bar "|" r8 c8 g'\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 a \bar "" f4 f r \cadenzaMeasure \bar "||" \break }
 \relative { es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 c \bar "" d4 d r \cadenzaMeasure \bar "|" c8 g'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 a \bar "" f4 f r \cadenzaMeasure \bar "||" \break }
 \relative { f'8 d f g4. f8 \bar "" g a \bar "" bes bes bes4. \breathe \bar "" c8 a g \bar "" f4 f2 \cadenzaMeasure \bar "||" \break }

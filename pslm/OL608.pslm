@@ -40,10 +40,7 @@ t: Rychle bych spěchal do útočiště + před vichrem a bouří.
 m: dB c8 d f_ e e4 r ||
 t: * Pane, zmať a rozděl jim jazyky.
 
-%% part: responsum_short
-
-m: e'4( c) f8 e / d e / g a a a4. r8 a | c2 / b4( a) a8 g g4 ||
-t: Svou starost hoď na Hospodina, a on tě zachová.
+%% use: responsum
 
 %% part: verse
 
@@ -53,7 +50,7 @@ t: Vždyť vidím násilí a svár ve městě,
 m: dB c8 d f_( e) e2 ||
 t: * ve dne v noci obcházejí po jeho hradbách.
 
-%% use: responsum_short
+%% use: responsum
 
 %% part: verse
 

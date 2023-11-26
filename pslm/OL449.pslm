@@ -22,10 +22,7 @@ t: Pokud žiji, chci chválit Hospodina,
 m: dB e8 f a_( g) g4 r ||
 t: * pokud budu, chci opěvovat svého Boha.
 
-%% part: responsum_short
-
-m: c''8 d c2 bes4 a8 f a g4 ||
-t: Duše má, chval Hospodina!
+%% use: responsum
 
 %% part: verse
 

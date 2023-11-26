@@ -28,10 +28,7 @@ t: Ať vládne tvému lidu spravedlivě,
 m: d,B e8 f a_ g g2 ||
 t: * nestranně tvým ubohým.
 
-%% part: responsum_short
-
-m: f'8 g a bes a g / a c c | c4 r8 a | d4 c / bes8 bes a | g e c4 ||
-t: V jeho dnech rozkvete spravedlnost a hojnost pokoje na věky.
+%% use: responsum
 
 %% part: verse
 

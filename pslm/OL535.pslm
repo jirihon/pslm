@@ -42,10 +42,7 @@ t: Sešli své světlo a svou věrnost:
 m: fB e8 f g_( e) e2 ||
 t: * ty ať mě vedou a přivedou + na tvou svatou horu a do tvých stanů.
 
-%% part: responsum_short
-
-m: e'4. d8 d( c) c4 | r8 c f f f / f e e( d) d4 \breathe | e4. f8 / g g g g / e e4 g a8 a~a4 ||
-t: Doufej v Boha, vždyť zase ho budu chválit, svého spasitele a svého Boha!
+%% use: responsum
 
 %% part: verse
 

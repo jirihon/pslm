@@ -48,10 +48,7 @@ t: Nemusím brát býka z tvého chléva
 m: asB g8_( f) f4 r ||
 t: * ani kozly z tvých ohrad.“
 
-%% part: responsum_short
-
-m: r8 g' es f g4 es | f8 g / as g4 f8 / g as / bes4 bes ||
-t: Kdo žije správně, tomu ukážu Boží spásu.
+%% use: responsum
 
 %% part: verse
 

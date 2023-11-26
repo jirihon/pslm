@@ -30,10 +30,7 @@ t: vodí mě k vodám, kde si mohu odpočinout.
 m: es8 bes'B c8 bes bes_( as) as4 r ||
 t: * Občerstvuje mou duši.
 
-%% part: responsum_short
-
-m: f'8 f es des f as as4 \breathe / as8 | bes c bes( as) as4 ||
-t: Hospodin je můj pastýř, nic nepostrádám.
+%% use: responsum
 
 %% part: verse
 

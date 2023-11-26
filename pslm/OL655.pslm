@@ -30,10 +30,7 @@ t: Tvá spravedlnost je jak Boží hory,
 m: r8 g8 gB f8 g a_ f f4 r ||
 t: * tvé rozsudky jsou jak mořská hlubina.
 
-%% part: responsum_short
-
-m: f'8 f e d / g g / f g a a a4 ||
-t: U tebe je, Bože, pramen života.
+%% use: responsum
 
 %% part: verse
 

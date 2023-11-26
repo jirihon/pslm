@@ -9,9 +9,9 @@
 
 m: \key f \major
 
-%% part: responsum_short
+%% part: responsum
 
-m: f'8 e d / d e f / g4 g ||
+m: f'8 e d / d e f / g4 g r ||
 t: Buď se mnou, Pane, v mé tísni.
 
 %% part: verse
@@ -30,10 +30,7 @@ t: řekni Hospodinu: (+) „Jsi mé útočiště a má tvrz,
 m: d,B e8 f a_( g) g2 ||
 t: * můj Bůh, v něhož doufám!“
 
-%% part: responsum
-
-m: f'8 e d / d e f / g4 g r ||
-t: Buď se mnou, Pane, v mé tísni.
+%% use: responsum
 
 %% part: verse
 

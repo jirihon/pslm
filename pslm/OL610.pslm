@@ -66,10 +66,7 @@ t: Až zemře, nic si s sebou nevezme,
 m: asB g8_( f) f2 ||
 t: * nesestoupí s ním jeho jmění.
 
-%% part: responsum_short
-
-m: g'8 as g f es / c es~ es4 / f8 f r4 | f8 g / as as as / as g as / bes g g4 ||
-t: Blahoslavení chudí v duchu, neboť jejich je království nebeské.
+%% use: responsum
 
 %% part: verse
 

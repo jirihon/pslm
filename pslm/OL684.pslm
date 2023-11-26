@@ -9,9 +9,9 @@
 
 m: \key f \major
 
-%% part: responsum_short
+%% part: responsum
 
-m: f'8 f g f e d / g g g2 | a8 c c c4 ||
+m: f'8 f g f e d / g g g2 | a8 c c c2 ||
 t: Veď mě ve své spravedlnosti, Hospodine!
 
 %% part: verse
@@ -22,10 +22,7 @@ t: Ty nejsi Bůh, kterému by se líbila nepravost,
 m: gB f8 g a_ f f f2 ||
 t: * zlý u tebe prodlévat nesmí + ani rouhači před tebou neobstojí.
 
-%% part: responsum
-
-m: f'8 f g f e d / g g g2 | a8 c c c2 ||
-t: Veď mě ve své spravedlnosti, Hospodine!
+%% use: responsum
 
 %% part: verse
 

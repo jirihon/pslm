@@ -67,10 +67,7 @@ t: Hle, ubožák zavolal, a Hospodin slyšel,
 m: aB g8 f d_( c) c4 r ||
 t: * pomohl mu ve všech jeho strastech.
 
-%% part: responsum_short
-
-m: c'8 f g a bes / c4. a8 / d c bes( a) g4 ||
-t: Chci dobrořečit Pánu v každé chvíli.
+%% use: responsum
 
 %% part: verse
 

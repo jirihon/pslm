@@ -307,7 +307,7 @@ optionalBreath = #(define-music-function (syllable)(string?)
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key c \major \relative { g'4( e) a8 g e c e \bar "" a g e c[( d)] d4 \cadenzaMeasure \bar "|" d8 e f \bar "" a a a4 \cadenzaMeasure \bar "|" a8 b a a[( g)] g4 \cadenzaMeasure \bar "||" \break }
+        \new Voice = "melody" { \cadenzaOn \key c \major \relative { g'4( e) a8 g e c e \bar "" a g e c[( d)] d4 \cadenzaMeasure \bar "|" d8 e f \bar "" a a a4 \cadenzaMeasure \bar "|" a8 b a a[( g)] g2 \cadenzaMeasure \bar "||" \break }
 \relative { r8 c''8 c\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" b8 a a a4 r \cadenzaMeasure \bar "|" b\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" a8 g g g4 r \cadenzaMeasure \bar "||" \break }
 \relative { c''\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" b8 a a4 r \cadenzaMeasure \bar "|" b\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" a8[( g)] g2 \cadenzaMeasure \bar "||" \break }
 \relative { g'4( e) a8 g e c e \bar "" a g e c[( d)] d4 \cadenzaMeasure \bar "|" d8 e f \bar "" a a a4 \cadenzaMeasure \bar "|" a8 b a a[( g)] g2 \cadenzaMeasure \bar "||" \break }

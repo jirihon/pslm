@@ -59,10 +59,7 @@ t: zvečera se uhostí pláč,
 m: r8 e f g bes_( a) a4 r ||
 t: * zjitra však jásot.
 
-%% part: responsum_short
-
-m: c''4 a d8 c bes a / d c bes a \breathe / bes bes c bes / a g g g4 ||
-t: Chci tě oslavovat, Hospodine, neboť jsi mě vysvobodil. 
+%% use: responsum
 
 %% part: verse
 

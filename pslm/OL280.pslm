@@ -30,10 +30,7 @@ t: Otevřu k průpovědi svá ústa,
 m: fB es8 f as_ g g g4 r ||
 t: * vyložím tajemné události z pradávných dob.
 
-%% part: responsum_short
-
-m: g'8 f as g f es / f bes bes2 g4 es ||
-t: Nezapomínejte na Boží skutky!
+%% use: responsum
 
 %% part: verse
 

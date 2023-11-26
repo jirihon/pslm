@@ -9,9 +9,9 @@
 
 m: \key d \major
 
-%% part: responsum_short
+%% part: responsum
 
-m: r8 fis' g fis e a fis fis fis2 | e8 b' b2 a4 / g8 a b cis a fis4 ||
+m: r8 fis' g fis e a fis fis fis2 | e8 b' b2 a4 / g8 a b cis a fis2 ||
 t: Až procitnu, Hospodine, nasytím se pohledem na tebe.
 
 %% part: verse
@@ -22,7 +22,7 @@ t: Slyš, Hospodine, spravedlivou žádost,
 m: eB d8 e g_ fis fis fis2 ||
 t: * všimni si mého nářku, + popřej sluchu mé modlitbě z bezelstných rtů!
 
-%% use: responsum_short
+%% use: responsum
 
 %% part: verse
 
@@ -40,10 +40,7 @@ t: Volám k tobě, protože mě vyslyšíš, Bože,
 m: eB d8 e g_( fis) fis4 ||
 t: * popřej mi sluchu, slyš mé slovo!
 
-%% part: responsum
-
-m: r8 fis' g fis e a fis fis fis2 | e8 b' b2 a4 / g8 a b cis a fis2 ||
-t: Až procitnu, Hospodine, nasytím se pohledem na tebe.
+%% use: responsum
 
 %% part: verse
 

@@ -33,10 +33,7 @@ t: Ať se raduje Izrael ze svého tvůrce,
 m: gB a8 g fis_( e) e4 r ||
 t: * synové Siónu ať jásají nad svým králem.
 
-%% part: responsum_short
-
-m: d'8 e fis g g / fis e / a2 fis4 ||
-t: Hospodin miluje svůj národ.
+%% use: responsum
 
 %% part: verse
 
@@ -54,7 +51,7 @@ t: neboť Hospodin miluje svůj národ
 m: r8 g gB a8 g fis_ e e2 ||
 t: * a pokorné zdobí vítězstvím.
 
-%% use: responsum_short
+%% use: responsum
 
 %% part: verse
 
