@@ -322,7 +322,7 @@ Ho -- spo -- din je můj pa -- stýř, nic ne -- po -- strá -- dám.
 \set stanza = "1."
 \left Ho -- \squash spo -- din je můj pa -- \unLeft \unSquash stýř, nic \markup \accent ne -- po -- strá -- \star dám, dá -- \left vá \squash mi pro -- dlé -- vat na \unLeft \unSquash svě -- žích \markup \accent past -- vi -- nách,
 \set stanza = "2."
-\left vo -- \squash dí mě "k vo" -- dám, kde si \unLeft \unSquash mo -- hu \markup \accent od -- po -- či -- \star nout. Ob -- \left čer -- \squash stvu -- \unLeft \unSquash je mou \markup \accent du -- ši.
+\left vo -- \squash dí mě "k vo" -- dám, kde si \unLeft \unSquash mo -- hu \markup \accent od -- po -- či -- \star nout. Ob -- \left čerst -- \squash vu -- \unLeft \unSquash je mou \markup \accent du -- ši.
 \set stanza = \responsum
 Ho -- spo -- din je můj pa -- stýř, nic ne -- po -- strá -- dám.
 \set stanza = "3."
