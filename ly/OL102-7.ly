@@ -314,7 +314,7 @@ optionalBreath = #(define-music-function (syllable)(string?)
 \relative { es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 c \bar "" es[( d)] d4 r \cadenzaMeasure \bar "|" c8 g'\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 g \bar "" g f f f4 r \cadenzaMeasure \bar "||" \break }
 \relative { es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 c \bar "" es d d2 \cadenzaMeasure \bar "|" c8 g'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 g \bar "" g f f2 \cadenzaMeasure \bar "||" \break }
 \relative { r8 f' f g a bes bes bes \cadenzaMeasure \bar "|" r g c c a g f~ f4 \cadenzaMeasure \bar "||" \break }
-\relative { es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 c \bar "" es[( d)] d4 r \cadenzaMeasure \bar "|" c8 g'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 g \bar "" g f f4 r \cadenzaMeasure \bar "||" \break }
+\relative { es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 c \bar "" es[( d)] d4 r \cadenzaMeasure \bar "|" c8 g'\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 g \bar "" g f f2 \cadenzaMeasure \bar "||" \break }
 \relative { es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 c \bar "" es d d d2 \cadenzaMeasure \bar "|" c8 g'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 g \bar "" g f f f2 \cadenzaMeasure \bar "||" \break }
 \relative { r8 f' f g a bes bes bes \cadenzaMeasure \bar "|" r g c c a g f~ f4 \cadenzaMeasure \bar "||" \break } \bar "|." }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
@@ -332,7 +332,7 @@ Hle, u -- bo -- žák za -- vo -- lal, a Ho -- spo -- din sly -- šel.
 \set stanza = \responsum
 Hle, u -- bo -- žák za -- vo -- lal, a Ho -- spo -- din sly -- šel.
 \set stanza = "5."
-\left Chrá -- \squash ní všech -- ny \unLeft \unSquash je -- ho \markup \accent ko -- \star sti, a -- \left ni \squash jed -- na "z nich" ne -- \unLeft \unSquash bu -- de \markup \accent zlo -- me -- na.
+\left Chrá -- \squash ní všech -- ny \unLeft \unSquash je -- ho \markup \accent ko -- \star sti, a -- \left ni \squash jed -- na \unLeft \unSquash "z nich" se \markup \accent ne -- zlo -- mí.
 \set stanza = "6."
 \left Ho -- \squash spo -- din za -- chra -- ňu -- je du -- \unLeft \unSquash še svých \markup \accent slu -- žeb -- ní -- \star ků, ne -- \left bu -- \squash dou py -- kat, kdo se \unLeft \unSquash "k ně" -- mu \markup \accent u -- tí -- ka -- jí.
 \set stanza = \responsum

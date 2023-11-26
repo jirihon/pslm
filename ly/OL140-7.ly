@@ -326,11 +326,11 @@ Ho -- spo -- di -- ne, u -- kaž nám svou ja -- snou tvář!
 \set stanza = \responsum
 Ho -- spo -- di -- ne, u -- kaž nám svou ja -- snou tvář!
 \set stanza = "3."
-\left Pa -- \squash ma -- tuj -- te: Ho -- spo -- din vy -- zna -- me -- ná -- vá \unLeft \unSquash své -- ho \markup \accent sva -- té -- \star ho; \left Ho -- \squash spo -- din vy -- sly -- ší, když \unLeft \unSquash "k ně" -- mu \markup \accent za -- vo -- lám.
+\left Pa -- \squash ma -- tuj -- \optionalBreath te: Ho -- spo -- din vy -- zna -- me -- ná -- vá \unLeft \unSquash své -- ho \markup \accent sva -- té -- \star ho; \left Ho -- \squash spo -- din vy -- sly -- ší, když \unLeft \unSquash "k ně" -- mu \markup \accent za -- vo -- lám.
 \set stanza = \responsum
 Ho -- spo -- di -- ne, u -- kaž nám svou ja -- snou tvář!
 \set stanza = "4."
-\left Mno -- \squash ho li -- dí ří -- ká: „Kdo nám u -- \unLeft \unSquash ká -- že \markup \accent dob -- \star ro?“ \left Ho -- \squash spo -- di -- ne, u -- kaž \unLeft \unSquash nám svou \markup \accent ja -- snou tvář!
+\left Mno -- \squash ho li -- dí ří -- \optionalBreath ká: „Kdo nám u -- \unLeft \unSquash ká -- že \markup \accent dob -- \star ro?“ \left Ho -- \squash spo -- di -- ne, u -- kaž \unLeft \unSquash nám svou \markup \accent ja -- snou tvář!
 \set stanza = \responsum
 Ho -- spo -- di -- ne, u -- kaž nám svou ja -- snou tvář!
 \set stanza = "5."

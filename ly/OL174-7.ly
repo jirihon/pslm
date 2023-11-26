@@ -308,11 +308,12 @@ optionalBreath = #(define-music-function (syllable)(string?)
 \score {
     <<
         \new Voice = "melody" { \cadenzaOn \key es \major \relative { bes'8 bes g bes c bes g bes \bar "" c bes c \bar "" d bes g4 g r \cadenzaMeasure \bar "||" \break }
-\relative { as'\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes g8 as \bar "" bes[( g es)] es4 r \cadenzaMeasure \bar "|" c\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes d8 es \bar "" f g f f4 \cadenzaMeasure \bar "||" \break }
+\relative { as'\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes g8 as \bar "" bes[( g es)] es4 r \cadenzaMeasure \bar "|" c\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes d8 es \bar "" f g f f2 \cadenzaMeasure \bar "||" \break }
 \relative { as'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes g8 as \bar "" bes[( g es)] es4 r \cadenzaMeasure \bar "|" c\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes d8 es \bar "" f[( g f)] f4 r \cadenzaMeasure \bar "||" \break }
 \relative { bes'8 bes g bes c bes g bes \bar "" c bes c \bar "" d bes g4 g r \cadenzaMeasure \bar "||" \break }
 \relative { as'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes g8 as \bar "" bes[( g es)] es4 r \cadenzaMeasure \bar "|" c\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes d8 es \bar "" f[( g f)] f4 \cadenzaMeasure \bar "||" \break }
 \relative { r8 as'8 as\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes g8 as \bar "" bes[( g es)] es4 \cadenzaMeasure \bar "|" r8 c8 d8 es \bar "" f g[( f)] f4 r \cadenzaMeasure \bar "||" \break }
+\relative { bes'8 bes g bes c bes g bes \bar "" c bes c \bar "" d bes g4 g r \cadenzaMeasure \bar "||" \break }
 \relative { as'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes g8 as \bar "" bes[( g)] es es4 \cadenzaMeasure \bar "|" r8 c8 d8 es \bar "" f[( g)] f f2 \cadenzaMeasure \bar "||" \break }
 \relative { as'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes g8 as \bar "" bes g es es4 \cadenzaMeasure \bar "|" r8 c8 c\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes d8 es \bar "" f[( g)] f f4 r \cadenzaMeasure \bar "||" \break }
 \relative { bes'8 bes g bes c bes g bes \bar "" c bes c \bar "" d bes g4 g r \cadenzaMeasure \bar "||" \break } \bar "|." }
@@ -328,6 +329,8 @@ Bo -- že, ve své dob -- ro -- tě ses po -- sta -- ral o chu -- dá -- ka.
 \left Po -- \squash zem -- ské ří -- še, zpí -- vej -- te Bo -- hu, ve -- \unLeft \unSquash leb -- te \markup \accent Pá -- \star na, \left kte -- \squash rý jez -- dí po ne -- be -- sích, po od -- \unLeft \unSquash vě -- kém \markup \accent ne -- bi!
 \set stanza = "4."
 Hle, \left o -- \squash zý -- vá se je -- ho \unLeft \unSquash hlas, hlas \markup \accent moc -- \star ný: „U -- znej -- te \markup \accent Bo -- ží moc!“
+\set stanza = \responsum
+Bo -- že, ve své dob -- ro -- tě ses po -- sta -- ral o chu -- dá -- ka.
 \set stanza = "5."
 \left Nad \squash Iz -- ra -- e -- lem se zje -- vu -- je \unLeft \unSquash je -- ho \markup \accent vzne -- še -- \star nost, je -- ho moc \markup \accent "v ob" -- la -- cích.
 \set stanza = "6."

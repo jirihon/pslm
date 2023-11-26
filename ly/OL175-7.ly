@@ -311,7 +311,7 @@ optionalBreath = #(define-music-function (syllable)(string?)
 \relative { bes'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes c8 d \bar "" d[( c)] c4 r \cadenzaMeasure \bar "|" g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 g \bar "" bes[( a)] a2 \cadenzaMeasure \bar "||" \break }
 \relative { bes'\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes c8 d \bar "" d c c c2 \cadenzaMeasure \bar "|" g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 g \bar "" bes a a4 r \cadenzaMeasure \bar "||" \break }
 \relative { f'8 f e d g4 g \bar "" c8 c a f2 \cadenzaMeasure \bar "||" \break }
-\relative { bes'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes c8 d \bar "" d c c c4 r \cadenzaMeasure \bar "|" g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 g \bar "" bes a a a4 \cadenzaMeasure \bar "||" \break }
+\relative { bes'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes c8 d \bar "" d c c c4 r \cadenzaMeasure \bar "|" g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 g \bar "" bes a a a4 \cadenzaMeasure \bar "||" \break }
 \relative { r8 bes'8 bes\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes c8 d \bar "" d[( c)] c4 r \cadenzaMeasure \bar "|" g\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes f8 g \bar "" bes a a2 \cadenzaMeasure \bar "||" \break }
 \relative { f'8 f e d g4 g \bar "" c8 c a f2 \cadenzaMeasure \bar "||" \break } \bar "|." }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
@@ -323,7 +323,7 @@ Zbož -- ní uz -- ří tvou tvář, Ho -- spo -- di -- ne.
 \set stanza = \responsum
 Zbož -- ní uz -- ří tvou tvář, Ho -- spo -- di -- ne.
 \set stanza = "3."
-\left Ho -- \squash spo -- din zkou -- ší spra -- ve -- dli -- vé -- \unLeft \unSquash ho i \markup \accent bez -- bož -- ní -- \star ka, \left mi -- \squash lu -- je -- li kdo bez -- prá -- ví, to -- ho \unLeft \unSquash "z du" -- še \markup \accent ne -- ná -- vi -- dí.
+\left Ho -- \squash spo -- din zkou -- ší spra -- ve -- dli -- vé -- \unLeft \unSquash ho i \markup \accent bez -- bož -- ní -- \star ka, \left mi -- \squash lu -- je-li kdo bez -- prá -- ví, to -- ho \unLeft \unSquash "z du" -- še \markup \accent ne -- ná -- vi -- dí.
 \set stanza = "4."
 Vždyť \left Ho -- \squash spo -- din je spra -- ve -- dli -- \breath "vý," má rád spra -- ve -- \unLeft \unSquash dli -- vé \markup \accent skut -- \star ky, \left zbož -- \squash ní \unLeft \unSquash uz -- ří \markup \accent je -- ho tvář.
 \set stanza = \responsum
