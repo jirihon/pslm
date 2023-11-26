@@ -492,6 +492,10 @@ function pslm_parse_psalm($psalm) {
                 } elseif (isset($line_opts['use'])) {
                     $key = $line_opts['use'];
                     $store_key = sprintf('%s_%s', $key, $use_n);
+                    if (!isset($psalm['music'][$key]) || !isset($psalm['text'][$key])) {
+                        echo "ERROR: undefined part $key\n";
+                        die;
+                    }
                     $psalm['music'][$store_key] = $psalm['music'][$key];
                     $psalm['text'][$store_key] = $psalm['text'][$key];
                     $psalm['original_text'][$store_key] = $psalm['original_text'][$key];
