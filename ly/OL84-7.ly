@@ -307,16 +307,16 @@ optionalBreath = #(define-music-function (syllable)(string?)
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key f \major \relative { f'8 f e d a' g g4 r \cadenzaMeasure \bar "|" c,8 g'4. \bar "" g8 f e \bar "" a a a2 \cadenzaMeasure \bar "||" \break }
+        \new Voice = "melody" { \cadenzaOn \key f \major \relative { f'8 f e d g g g4 r \cadenzaMeasure \bar "|" c,8 g'4. \bar "" g8 f e \bar "" a a a2 \cadenzaMeasure \bar "||" \break }
 \relative { bes'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" bes8 a a a4 r \cadenzaMeasure \bar "|" g\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" g8[( f)] f4 r \cadenzaMeasure \bar "||" \break }
 \relative { bes'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" bes8[( a)] a4 r \cadenzaMeasure \bar "|" g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" g8 f f f4 r \cadenzaMeasure \bar "||" \break }
-\relative { f'8 f e d a' g g4 r \cadenzaMeasure \bar "|" c,8 g'4. \bar "" g8 f e \bar "" a a a2 \cadenzaMeasure \bar "||" \break }
+\relative { f'8 f e d g g g4 r \cadenzaMeasure \bar "|" c,8 g'4. \bar "" g8 f e \bar "" a a a2 \cadenzaMeasure \bar "||" \break }
 \relative { bes'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" bes8[( a)] a4 r \cadenzaMeasure \bar "|" g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" g8[( f)] f4 r \cadenzaMeasure \bar "||" \break }
 \relative { bes'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" bes8[( a)] a4 r \cadenzaMeasure \bar "|" g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" g8 f f f4 r \cadenzaMeasure \bar "||" \break }
-\relative { f'8 f e d a' g g4 r \cadenzaMeasure \bar "|" c,8 g'4. \bar "" g8 f e \bar "" a a a2 \cadenzaMeasure \bar "||" \break }
+\relative { f'8 f e d g g g4 r \cadenzaMeasure \bar "|" c,8 g'4. \bar "" g8 f e \bar "" a a a2 \cadenzaMeasure \bar "||" \break }
 \relative { bes'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" bes8 a a4 r \cadenzaMeasure \bar "|" g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" g8 f f4 r \cadenzaMeasure \bar "||" \break }
 \relative { bes'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" bes8[( a)] a4 \cadenzaMeasure \bar "|" r8 g g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" g8 f f4 r \cadenzaMeasure \bar "||" \break }
-\relative { f'8 f e d a' g g4 r \cadenzaMeasure \bar "|" c,8 g'4. \bar "" g8 f e \bar "" a a a2 \cadenzaMeasure \bar "||" \break } \bar "|." }
+\relative { f'8 f e d g g g4 r \cadenzaMeasure \bar "|" c,8 g'4. \bar "" g8 f e \bar "" a a a2 \cadenzaMeasure \bar "||" \break } \bar "|." }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Pa -- ma -- tuj -- te na di -- vy, kte -- ré u -- či -- nil Ho -- spo -- din.
 \set stanza = "1."

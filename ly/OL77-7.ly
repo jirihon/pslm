@@ -315,7 +315,7 @@ optionalBreath = #(define-music-function (syllable)(string?)
 \relative { as'\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes bes8 c \bar "" c[( bes)] bes4 r \cadenzaMeasure \bar "|" f\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes es8 f \bar "" as g g4 r \cadenzaMeasure \bar "||" \break }
 \relative { bes'8 c bes as g4 f8 es \bar "" c4 d8 es \bar "" f es f g f4 r \cadenzaMeasure \bar "||" \break }
 \relative { as'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes bes8 c \bar "" c[( bes)] bes4 r \cadenzaMeasure \bar "|" f\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes es8 f \bar "" as g g g4 \cadenzaMeasure \bar "||" \break }
-\relative { r8 as' as\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes bes8 c \bar "" c bes bes bes4 \cadenzaMeasure \bar "|" r8 f es8 g \bar "" as g g g4 r \cadenzaMeasure \bar "||" \break }
+\relative { r8 as' as\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes bes8 c \bar "" c bes bes bes4 \cadenzaMeasure \bar "|" r8 f es8 f \bar "" as g g g4 r \cadenzaMeasure \bar "||" \break }
 \relative { bes'8 c bes as g4 f8 es \bar "" c4 d8 es \bar "" f es f g f4 r \cadenzaMeasure \bar "||" \break } \bar "|." }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Bla -- ze těm, kdo krá -- če -- jí "v zá" -- ko -- ně Ho -- spo -- di -- no -- vě.
