@@ -308,7 +308,7 @@ optionalBreath = #(define-music-function (syllable)(string?)
 \score {
     <<
         \new Voice = "melody" { \cadenzaOn \key es \major \relative { es'8 bes f' es es2 \cadenzaMeasure \bar "|" c8 c d es \bar "" f4. \breathe g8 \cadenzaMeasure \bar "|" as g f \bar "" bes g g4 r \cadenzaMeasure \bar "||" \break }
-\relative { f'8[( c')] c\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes bes8 as \bar "" g f f4 r \cadenzaMeasure \bar "|" bes,8 f'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes es8 f \bar "" as g g4 r \cadenzaMeasure \bar "||" \break }
+\relative { f'8[( c')] c\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes bes8 as \bar "" g f f4 r \cadenzaMeasure \bar "|" bes,8 f'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes es8 f \bar "" as g g g4 r \cadenzaMeasure \bar "||" \break }
 \relative { f'8 c' bes8[( as)] \bar "" g[( f)] f4 r \cadenzaMeasure \bar "|" bes,8[( f')] es8 f \bar "" as g g4 r \cadenzaMeasure \bar "||" \break }
 \relative { es'8 bes f' es es2 \cadenzaMeasure \bar "|" c8 c d es \bar "" f4. \breathe g8 \cadenzaMeasure \bar "|" as g f \bar "" bes g g4 r \cadenzaMeasure \bar "||" \break }
 \relative { f'8 c'\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes bes8 as \bar "" g[( f)] f4 r \cadenzaMeasure \bar "|" bes,8 f'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes es8 f \bar "" as[( g)] g4 r \cadenzaMeasure \bar "||" \break }
@@ -320,7 +320,7 @@ optionalBreath = #(define-music-function (syllable)(string?)
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Bo -- že, ob -- nov nás, roz -- ja -- sni svou tvář, a bu -- de -- me spa -- se -- ni.
 \set stanza = "1."
-Slyš, \left Iz -- \squash ra -- \unLeft \unSquash e -- lův \markup \accent pa -- stý -- \star ři, skvěj \left se \squash zá -- ří, ty, kte -- rý trů -- \unLeft \unSquash níš nad \markup \accent che -- ru -- by,
+Slyš, \left Iz -- \squash ra -- \unLeft \unSquash e -- lův \markup \accent pa -- stý -- \star ři, skvěj \left se \squash zá -- ří, ty, kte -- rý \unLeft \unSquash trů -- níš \markup \accent nad che -- ru -- by,
 \set stanza = "2."
 pro -- buď svou \markup \accent sí -- \star lu a přijď nás \markup \accent za -- chrá -- nit!
 \set stanza = \responsum
