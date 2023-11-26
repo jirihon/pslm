@@ -314,6 +314,7 @@ function pslm_render_listing() {
         $done = [];
 
         foreach ($source['ids'] as $id) {
+            echo "Processing $id\n";
             if (file_exists(sprintf('%s/pslm/%s.pslm', dirname(__FILE__), $id))) {
                 file_put_contents("all.sh", "bash sh/$id.sh\n", FILE_APPEND);
                 $done[] = $id;
