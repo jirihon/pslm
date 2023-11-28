@@ -337,7 +337,7 @@ Od -- pusť, Pa -- ne, co jsem za -- vi -- nil hří -- chem.
 \set stanza = \responsum
 Od -- pusť, Pa -- ne, co jsem za -- vi -- nil hří -- chem.
 \set stanza = "6."
-\left Ra -- \squash duj -- te se "z Ho" -- spo -- di -- na a tě -- \unLeft \unSquash šte se, \markup \accent spra -- ve -- dli -- \star ví, \left já -- \squash sej -- te všich -- ni, kdo jste u -- přím -- \unLeft \unSquash né -- ho \markup \accent srd -- ce.
+\left Ra -- \squash duj -- te se "z Ho" -- spo -- di -- \optionalBreath na a tě -- \unLeft \unSquash šte se, \markup \accent spra -- ve -- dli -- \star ví, \left já -- \squash sej -- te všich -- ni, kdo jste u -- přím -- \unLeft \unSquash né -- ho \markup \accent srd -- ce.
 \set stanza = \responsum
 Od -- pusť, Pa -- ne, co jsem za -- vi -- nil hří -- chem. } }
     >>

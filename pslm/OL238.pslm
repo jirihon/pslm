@@ -16,10 +16,10 @@ t: Pán mě udržuje naživu.
 
 %% part: verse
 
-m: bes'B dB*2 c4_ c r |
+m: bes'B dB*2 c4_ c |
 t: Bože, zachraň mě pro své jméno,
 
-m: gB besB*3 a4_ a r ||
+m: r8 g gB besB*3 a4_ a r ||
 t: * svou mocí zjednej mi právo!
 
 %% part: verse

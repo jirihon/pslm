@@ -55,12 +55,12 @@ t: * a neodnímej mi svého svatého ducha.
 m: bes'B c8 bes a_( g) g4 r |
 t: Otevři mé rty, Pane,
 
-m: c,8 g'B f8 g bes_( a) a4 r ||
+m: c,8 g'B f8 g bes_( a) a4 ||
 t: * aby má ústa zvěstovala tvou chválu.
 
 %% part: verse
 
-m: bes'B c8 bes a_ g g g4 r |
+m: r8 bes'8 besB c8 bes a_ g g g4 r |
 t: Mou obětí, Bože, je zkroušený duch,
 
 m: c,8 g'B f8 g bes_ a a a4 r ||

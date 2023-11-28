@@ -9,7 +9,7 @@ m: \key d \major
 
 %% part: responsum
 
-m: r8 fis' g fis e a fis fis fis2 | e8 b' b2 a4 / g8 a b cis a fis2 ||
+m: r8 fis' g fis e a fis fis fis2 | e8 b' b2 a4 / g8 a b cis a fis4 r ||
 t: Až procitnu, Hospodine, nasytím se pohledem na tebe.
 
 %% part: verse

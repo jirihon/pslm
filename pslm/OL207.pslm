@@ -24,10 +24,10 @@ t: * sháněli obchody po širých vodách.
 
 %% part: verse
 
-m: d'B cis8 d fis_( e) e4 |
+m: d'B cis8 d fis_( e) e4 r |
 t: Viděli Hospodinova díla
 
-m: r8 e8 eB fis8 g a_( fis) fis4 r ||
+m: eB fis8 g a_( fis) fis4 r ||
 t: * a na širém moři jeho divy.
 
 %% use: responsum
@@ -70,7 +70,7 @@ t: * a utišily se mořské vlny.
 
 %% part: verse
 
-m: d'B cis8 d fis_ e e4 |
+m: d'B cis8 d fis_ e e e4 |
 t: Radovali se, že se uklidnily,
 
 m: r8 e8 eB fis8 g a_ fis fis4 ||

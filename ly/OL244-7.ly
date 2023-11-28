@@ -341,7 +341,7 @@ vzdej -- te \left Ho -- \squash spo -- di -- nu slá -- vu, hod -- nou \unLeft \
 \set stanza = \responsum
 Vzdej -- te Ho -- spo -- di -- nu moc a slá -- vu!
 \set stanza = "7."
-"V po" -- svát -- \left ném \squash rou -- chu klaň -- \unLeft \unSquash te se \markup \accent Ho -- spo -- di -- \star nu! \left Tře -- \squash ste se před ním, \unLeft \unSquash všech -- ny \markup \accent ze -- mě!
+"V po" -- svát -- \left ném \squash rou -- chu se \unLeft \unSquash klaň -- te \markup \accent Ho -- spo -- di -- \star nu! \left Tře -- \squash ste se před ním, \unLeft \unSquash všech -- ny \markup \accent ze -- mě!
 \set stanza = "8."
 Hlá -- sej -- \left te \squash me -- zi po -- ha -- ny: Ho -- \unLeft \unSquash spo -- din \markup \accent kra -- lu -- \star je, \left ná -- \squash ro -- dy ří -- dí \unLeft \unSquash po -- dle \markup \accent prá -- va.
 \set stanza = \responsum

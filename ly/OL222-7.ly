@@ -325,7 +325,7 @@ Když jsem vo -- lal, Ho -- spo -- di -- ne, vy -- sly -- šels mě.
 \set stanza = "1."
 \left Chci \squash tě chvá -- lit, Ho -- spo -- di -- ne, ce -- \unLeft \unSquash lým svým \markup \accent srd -- \star cem, žes \left vy -- \squash sly -- šel \unLeft \unSquash slo -- va \markup \accent mých úst.
 \set stanza = "2."
-\left Bu -- \squash du \unLeft \unSquash ti hrát \markup \accent před an -- dě -- \star ly, \left vrh -- \squash nu se na tvář smě -- rem "k tvé" -- mu sva -- \unLeft \unSquash té -- mu \markup \accent chrá -- mu
+\left Bu -- \squash du \unLeft \unSquash ti hrát \markup \accent před an -- dě -- \star ly, \left vrh -- \squash nu se na tvář smě -- rem "k tvé" -- mu sva -- \unLeft \unSquash té -- mu \markup \accent chrá -- mu.
 \set stanza = \responsum
 Když jsem vo -- lal, Ho -- spo -- di -- ne, vy -- sly -- šels mě.
 \set stanza = "3."

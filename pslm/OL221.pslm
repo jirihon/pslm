@@ -37,7 +37,7 @@ t: * ať mluví o tvé síle.
 m: c''B d8_( b g) g4 |
 t: Oči všech doufají v tebe
 
-m: r8 a8 aB a8_( f) e d4 r ||
+m: r8 a8 aB a8_ f( e) d4 r ||
 t: * a ty jim dáváš pokrm v pravý čas.
 
 %% part: verse
@@ -60,10 +60,10 @@ t: * a svatý ve všech svých činech.
 
 %% part: verse
 
-m: c''B d8_( b) g g4 |
+m: c''B d8_( b) g g2 |
 t: Blízko je Hospodin všem, kdo ho vzývají,
 
-m: r8 a8 aB a8_( f) e d4 r ||
+m: aB a8_ f( e) d4 r ||
 t: * všem, kdo ho vzývají upřímně.
 
 %% use: responsum

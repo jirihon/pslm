@@ -1,6 +1,7 @@
 node_modules
 vendor
 *.lock
+.~lock*
 upload.sh
 .vscode
 html/css/sizes.css
@@ -23,6 +24,7 @@ db/*.xml
 db/*.gz
 db/*.pdf
 db/*_zaltar.yml
+db/*.ods
 pslm/*.pdf
 pslm/*.ly
 pslm/*.svg
