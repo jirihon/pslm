@@ -1,4 +1,4 @@
-\version "2.22.1"
+\version "2.24.0"
 \header { tagline = "" }
 \paper {
   indent = 0\cm

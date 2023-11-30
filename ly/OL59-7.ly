@@ -9,7 +9,7 @@
   paper-width = 7\cm
   page-breaking = #ly:one-page-breaking
   system-system-spacing.basic-distance = #11
-  score-system-spacing.basic-distance = #11
+  score-system-spacing.basic-distance = #11.3
   ragged-last = ##f
 }
 
@@ -307,44 +307,116 @@ optionalBreath = #(define-music-function (syllable)(string?)
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key bes \major \relative { f'8 bes bes bes \bar "" c bes a bes \bar "" c bes a g \bar "" g f f4 \cadenzaMeasure \bar "||" \break }
-\relative { es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 c \bar "" es d d4 \cadenzaMeasure \bar "|" r8 c g'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 g \bar "" g[( f)] f4 \cadenzaMeasure \bar "||" \break }
-\relative { r8 es'8 es\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 c \bar "" es d d d4 r \cadenzaMeasure \bar "|" c8 g' a g \bar "" g f f2 \cadenzaMeasure \bar "||" \break }
-\relative { f'8 bes bes bes \bar "" c bes a bes \bar "" c bes a g \bar "" g f f4 \cadenzaMeasure \bar "||" \break }
-\relative { es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 c \bar "" es d d4 r \cadenzaMeasure \bar "|" c8 g'\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 g \bar "" g[( f)] f4 r \cadenzaMeasure \bar "||" \break }
-\relative { es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 c \bar "" es[( d)] d4 r \cadenzaMeasure \bar "|" c8 g'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 g \bar "" g[( f)] f4 r \cadenzaMeasure \bar "||" \break }
-\relative { f'8 bes bes bes \bar "" c bes a bes \bar "" c bes a g \bar "" g f f4 \cadenzaMeasure \bar "||" \break }
-\relative { es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 c \bar "" es[( d)] d4 r \cadenzaMeasure \bar "|" c8 g'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 g \bar "" g[( f)] f4 r \cadenzaMeasure \bar "||" \break }
-\relative { es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 c \bar "" es[( d)] d4 r \cadenzaMeasure \bar "|" c8 g'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 g \bar "" g[( f)] f4 r \cadenzaMeasure \bar "||" \break }
-\relative { f'8 bes bes bes \bar "" c bes a bes \bar "" c bes a g \bar "" g f f4 \cadenzaMeasure \bar "||" \break }
-\relative { r8 es' es\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 c \bar "" es d d4 r \cadenzaMeasure \bar "|" c8 g'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 g \bar "" g f f f2 \cadenzaMeasure \bar "||" \break }
-\relative { es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 c \bar "" es[( d)] d2 \cadenzaMeasure \bar "|" c8 g'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 g \bar "" g[( f)] f4 r \cadenzaMeasure \bar "||" \break }
-\relative { f'8 bes bes bes \bar "" c bes a bes \bar "" c bes a g \bar "" g f f4 \cadenzaMeasure \bar "||" \break } \bar "|." }
+        \new Voice = "melody" { \cadenzaOn \key bes \major \relative { f'8 bes bes bes \bar "" c bes a bes \bar "" c bes a g \bar "" g f f4 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
-Bu -- dou se ti, Ho -- spo -- di -- ne, kla -- nět všech -- ny ná -- ro -- dy.
-\set stanza = "1."
-\left Bo -- \squash že, svěř krá -- \unLeft \unSquash li svou \markup \accent pra -- vo -- \star moc, svou \left spra -- \squash ve -- dl -- nost krá -- lov -- \unLeft \unSquash ské -- mu \markup \accent sy -- nu.
-\set stanza = "2."
-Ať \left vlád -- \squash ne tvé -- mu \unLeft \unSquash li -- du \markup \accent spra -- ve -- dli -- \star vě, ne -- stran -- ně tvým \markup \accent u -- bo -- hým.
-\set stanza = \responsum
-Bu -- dou se ti, Ho -- spo -- di -- ne, kla -- nět všech -- ny ná -- ro -- dy.
-\set stanza = "3."
-\left "V je" -- \squash ho dnech roz -- kve -- te spra -- ve -- dl -- nost a \unLeft \unSquash hoj -- nost \markup \accent po -- ko -- \star je, do -- \left kud \squash ne -- za -- \unLeft \unSquash nik -- ne \markup \accent lu -- na.
-\set stanza = "4."
-\left Bu -- \squash de vlád -- nout od \unLeft \unSquash mo -- ře \markup \accent "k mo" -- \star ři, od \left Ře -- \squash ky až do \unLeft \unSquash kon -- čin \markup \accent ze -- mě.
-\set stanza = \responsum
-Bu -- dou se ti, Ho -- spo -- di -- ne, kla -- nět všech -- ny ná -- ro -- dy.
-\set stanza = "5."
-\left Krá -- \squash lo -- vé Tar -- ší -- še a o -- stro -- vů při -- \unLeft \unSquash ne -- sou \markup \accent da -- \star ry, krá -- \left lo -- \squash vé A -- rá -- bi -- e a Sá -- by za -- \unLeft \unSquash pla -- tí \markup \accent da -- ně.
-\set stanza = "6."
-\left Všich -- \squash ni krá -- lo -- vé se mu \unLeft \unSquash bu -- dou \markup \accent kla -- \star nět, všech -- \left ny \squash ná -- ro -- dy mu \unLeft \unSquash bu -- dou \markup \accent slou -- žit.
-\set stanza = \responsum
-Bu -- dou se ti, Ho -- spo -- di -- ne, kla -- nět všech -- ny ná -- ro -- dy.
-\set stanza = "7."
-On \left vy -- \squash svo -- bo -- dí chu -- dá -- ka, kte -- rý se do -- vo -- \unLeft \unSquash lá -- vá \markup \accent po -- mo -- \star ci, u -- \left bo -- \squash žá -- ka, je -- hož se \unLeft \unSquash ni -- kdo \markup \accent ne -- u -- jí -- má.
-\set stanza = "8."
-\left Smi -- \squash lu -- je se nad nuz -- \unLeft \unSquash ným a \markup \accent chu -- \star dým, za -- \left chrá -- \squash ní u -- bo -- \unLeft \unSquash žá -- kům \markup \accent ži -- vot.
-\set stanza = \responsum
+Bu -- dou se ti, Ho -- spo -- di -- ne, kla -- nět všech -- ny ná -- ro -- dy. } }
+    >>
+    \layout {}
+}
+
+\score {
+    <<
+        \new Voice = "melody" { \cadenzaOn \key bes \major \relative { es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 c \bar "" es d d4 \cadenzaMeasure \bar "|" r8 c g'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 g \bar "" g[( f)] f4 \cadenzaMeasure \bar "||" \break } }
+        \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "1."
+\left Bo -- \squash že, svěř krá -- \unLeft \unSquash li svou \markup \accent pra -- vo -- \star moc, svou \left spra -- \squash ve -- dl -- nost krá -- lov -- \unLeft \unSquash ské -- mu \markup \accent sy -- nu. } }
+    >>
+    \layout {}
+}
+
+\score {
+    <<
+        \new Voice = "melody" { \cadenzaOn \key bes \major \relative { r8 es'8 es\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 c \bar "" es d d d4 r \cadenzaMeasure \bar "|" c8 g' a g \bar "" g f f2 \cadenzaMeasure \bar "||" \break } }
+        \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "2."
+Ať \left vlád -- \squash ne tvé -- mu \unLeft \unSquash li -- du \markup \accent spra -- ve -- dli -- \star vě, ne -- stran -- ně tvým \markup \accent u -- bo -- hým. } }
+    >>
+    \layout {}
+}
+
+\score {
+    <<
+        \new Voice = "melody" { \cadenzaOn \key bes \major \relative { f'8 bes bes bes \bar "" c bes a bes \bar "" c bes a g \bar "" g f f4 \cadenzaMeasure \bar "||" \break } }
+        \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
+Bu -- dou se ti, Ho -- spo -- di -- ne, kla -- nět všech -- ny ná -- ro -- dy. } }
+    >>
+    \layout {}
+}
+
+\score {
+    <<
+        \new Voice = "melody" { \cadenzaOn \key bes \major \relative { es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 c \bar "" es d d4 r \cadenzaMeasure \bar "|" c8 g'\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 g \bar "" g[( f)] f4 r \cadenzaMeasure \bar "||" \break } }
+        \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "3."
+\left "V je" -- \squash ho dnech roz -- kve -- te spra -- ve -- dl -- nost a \unLeft \unSquash hoj -- nost \markup \accent po -- ko -- \star je, do -- \left kud \squash ne -- za -- \unLeft \unSquash nik -- ne \markup \accent lu -- na. } }
+    >>
+    \layout {}
+}
+
+\score {
+    <<
+        \new Voice = "melody" { \cadenzaOn \key bes \major \relative { es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 c \bar "" es[( d)] d4 r \cadenzaMeasure \bar "|" c8 g'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 g \bar "" g[( f)] f4 r \cadenzaMeasure \bar "||" \break } }
+        \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "4."
+\left Bu -- \squash de vlád -- nout od \unLeft \unSquash mo -- ře \markup \accent "k mo" -- \star ři, od \left Ře -- \squash ky až do \unLeft \unSquash kon -- čin \markup \accent ze -- mě. } }
+    >>
+    \layout {}
+}
+
+\score {
+    <<
+        \new Voice = "melody" { \cadenzaOn \key bes \major \relative { f'8 bes bes bes \bar "" c bes a bes \bar "" c bes a g \bar "" g f f4 \cadenzaMeasure \bar "||" \break } }
+        \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
+Bu -- dou se ti, Ho -- spo -- di -- ne, kla -- nět všech -- ny ná -- ro -- dy. } }
+    >>
+    \layout {}
+}
+
+\score {
+    <<
+        \new Voice = "melody" { \cadenzaOn \key bes \major \relative { es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 c \bar "" es[( d)] d4 r \cadenzaMeasure \bar "|" c8 g'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 g \bar "" g[( f)] f4 r \cadenzaMeasure \bar "||" \break } }
+        \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "5."
+\left Krá -- \squash lo -- vé Tar -- ší -- še a o -- stro -- vů při -- \unLeft \unSquash ne -- sou \markup \accent da -- \star ry, krá -- \left lo -- \squash vé A -- rá -- bi -- e a Sá -- by za -- \unLeft \unSquash pla -- tí \markup \accent da -- ně. } }
+    >>
+    \layout {}
+}
+
+\score {
+    <<
+        \new Voice = "melody" { \cadenzaOn \key bes \major \relative { es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 c \bar "" es[( d)] d4 r \cadenzaMeasure \bar "|" c8 g'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 g \bar "" g[( f)] f4 r \cadenzaMeasure \bar "||" \break } }
+        \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "6."
+\left Všich -- \squash ni krá -- lo -- vé se mu \unLeft \unSquash bu -- dou \markup \accent kla -- \star nět, všech -- \left ny \squash ná -- ro -- dy mu \unLeft \unSquash bu -- dou \markup \accent slou -- žit. } }
+    >>
+    \layout {}
+}
+
+\score {
+    <<
+        \new Voice = "melody" { \cadenzaOn \key bes \major \relative { f'8 bes bes bes \bar "" c bes a bes \bar "" c bes a g \bar "" g f f4 \cadenzaMeasure \bar "||" \break } }
+        \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
+Bu -- dou se ti, Ho -- spo -- di -- ne, kla -- nět všech -- ny ná -- ro -- dy. } }
+    >>
+    \layout {}
+}
+
+\score {
+    <<
+        \new Voice = "melody" { \cadenzaOn \key bes \major \relative { r8 es' es\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 c \bar "" es d d4 r \cadenzaMeasure \bar "|" c8 g'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 g \bar "" g f f f2 \cadenzaMeasure \bar "||" \break } }
+        \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "7."
+On \left vy -- \squash svo -- bo -- dí chu -- dá -- ka, kte -- rý se do -- vo -- \unLeft \unSquash lá -- vá \markup \accent po -- mo -- \star ci, u -- \left bo -- \squash žá -- ka, je -- hož se \unLeft \unSquash ni -- kdo \markup \accent ne -- u -- jí -- má. } }
+    >>
+    \layout {}
+}
+
+\score {
+    <<
+        \new Voice = "melody" { \cadenzaOn \key bes \major \relative { es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 c \bar "" es[( d)] d2 \cadenzaMeasure \bar "|" c8 g'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 g \bar "" g[( f)] f4 r \cadenzaMeasure \bar "||" \break } }
+        \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "8."
+\left Smi -- \squash lu -- je se nad nuz -- \unLeft \unSquash ným a \markup \accent chu -- \star dým, za -- \left chrá -- \squash ní u -- bo -- \unLeft \unSquash žá -- kům \markup \accent ži -- vot. } }
+    >>
+    \layout {}
+}
+
+\score {
+    <<
+        \new Voice = "melody" { \cadenzaOn \key bes \major \relative { f'8 bes bes bes \bar "" c bes a bes \bar "" c bes a g \bar "" g f f4 \cadenzaMeasure \bar "||" \break } \bar "|." }
+        \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Bu -- dou se ti, Ho -- spo -- di -- ne, kla -- nět všech -- ny ná -- ro -- dy. } }
     >>
     \layout {}

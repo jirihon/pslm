@@ -334,7 +334,7 @@ function pslm_midi($psalm) {
 }
 
 
-function pslm_lilypond($psalm, $size, $multiscore = false) {
+function pslm_lilypond($psalm, $size, $multiscore = true) {
     foreach ($psalm['music'] as $key => $music) {
         if (preg_match('#^verse#', $key)) {
             preg_match_all('#\\\\accent#', implode(' ', $psalm['text'][$key]), $m);
@@ -406,7 +406,7 @@ function pslm_lilypond($psalm, $size, $multiscore = false) {
         '\scores',
     ], [
         $size,
-        $multiscore ? '##t' : '##f',
+        '##f', //$multiscore ? '##t' : '##f',
         $scores,
     ], $lily);
 

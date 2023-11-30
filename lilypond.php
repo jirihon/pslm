@@ -158,7 +158,7 @@ if (preg_match('#\.pslm$#', $pslm_f)) {
     //exit;
     file_put_contents($pslm_f, $psalm);
     $psalm = pslm_parse_psalm($psalm);
-    $lily = pslm_lilypond($psalm, 7, false);
+    $lily = pslm_lilypond($psalm, 11, true);
 
     $lily_f = preg_replace('#\.pslm$#', '.ly', $pslm_f);
     file_put_contents($lily_f, $lily);
