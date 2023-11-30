@@ -307,7 +307,7 @@ optionalBreath = #(define-music-function (syllable)(string?)
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key c \major \relative { e'8 c~ c4 f8 f f g \bar "" e4 e8 e \cadenzaMeasure \bar "|" d f a a2 \bar "" a8 b a gis[( e)] e2 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key c \major \relative { e'8 c~ c4 f8 f f g \bar "" e4 e8 e \cadenzaMeasure \bar "|" d f a a2 \bar "" a8 b a gis[( e)] e4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Po své pra -- vi -- ci máš krá -- lov -- nu oz -- do -- be -- nou o -- fir -- ským zla -- tem. } }
     >>
@@ -334,7 +334,7 @@ Slyš, \left dce -- \squash ro, po -- \unLeft \unSquash hleď a \markup \accent 
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key c \major \relative { e'8 c~ c4 f8 f f g \bar "" e4 e8 e \cadenzaMeasure \bar "|" d f a a2 \bar "" a8 b a gis[( e)] e2 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key c \major \relative { e'8 c~ c4 f8 f f g \bar "" e4 e8 e \cadenzaMeasure \bar "|" d f a a2 \bar "" a8 b a gis[( e)] e4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Po své pra -- vi -- ci máš krá -- lov -- nu oz -- do -- be -- nou o -- fir -- ským zla -- tem. } }
     >>
@@ -361,7 +361,7 @@ Po své pra -- vi -- ci máš krá -- lov -- nu oz -- do -- be -- nou o -- fir -
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key c \major \relative { e'8 c~ c4 f8 f f g \bar "" e4 e8 e \cadenzaMeasure \bar "|" d f a a2 \bar "" a8 b a gis[( e)] e2 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key c \major \relative { e'8 c~ c4 f8 f f g \bar "" e4 e8 e \cadenzaMeasure \bar "|" d f a a2 \bar "" a8 b a gis[( e)] e4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Po své pra -- vi -- ci máš krá -- lov -- nu oz -- do -- be -- nou o -- fir -- ským zla -- tem. } }
     >>
@@ -388,7 +388,7 @@ Po své pra -- vi -- ci máš krá -- lov -- nu oz -- do -- be -- nou o -- fir -
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key c \major \relative { e'8 c~ c4 f8 f f g \bar "" e4 e8 e \cadenzaMeasure \bar "|" d f a a2 \bar "" a8 b a gis[( e)] e2 \cadenzaMeasure \bar "||" \break } \bar "|." }
+        \new Voice = "melody" { \cadenzaOn \key c \major \relative { e'8 c~ c4 f8 f f g \bar "" e4 e8 e \cadenzaMeasure \bar "|" d f a a2 \bar "" a8 b a gis[( e)] e4 r \cadenzaMeasure \bar "||" \break } \bar "|." }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Po své pra -- vi -- ci máš krá -- lov -- nu oz -- do -- be -- nou o -- fir -- ským zla -- tem. } }
     >>
