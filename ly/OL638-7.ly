@@ -1,4 +1,4 @@
-\version "2.22.1"
+\version "2.24.0"
 \header { tagline = "" }
 \paper {
   indent = 0\cm
@@ -9,7 +9,7 @@
   paper-width = 7\cm
   page-breaking = #ly:one-page-breaking
   system-system-spacing.basic-distance = #11
-  score-system-spacing.basic-distance = #11.3
+  score-system-spacing.basic-distance = #11
   ragged-last = ##f
 }
 
