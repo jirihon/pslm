@@ -363,7 +363,7 @@ Pa -- ne, dej zdar prá -- ci na -- šich ru -- kou! } }
     <<
         \new Voice = "melody" { \cadenzaOn \key f \major \relative { bes'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" a8 g g4 \cadenzaMeasure \bar "|" r8 a8 a\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" g8[( f)] f4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "4."
-\left Na -- \squash uč nás po -- čí -- tat \unLeft \unSquash \markup \accent na -- še \star dny, ať \left doj -- \squash de -- me "k mou" -- dro -- sti \unLeft \unSquash \markup \accent srd -- ce. } }
+\left Na -- \squash uč nás po -- čí -- tat \unLeft \unSquash \markup \accent na -- še \star dny, ať \left do -- \squash jde -- me "k mou" -- dro -- sti \unLeft \unSquash \markup \accent srd -- ce. } }
     >>
     \layout {}
 }

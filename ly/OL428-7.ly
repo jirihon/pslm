@@ -390,7 +390,7 @@ Pa -- ne, tys nám bý -- val ú -- to -- či -- štěm od po -- ko -- le -- ní
     <<
         \new Voice = "melody" { \cadenzaOn \key es \major \relative { c''\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" bes8 g g4 \cadenzaMeasure \bar "|" r8 as8 as\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" g8[( f)] f4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "6."
-\left Na -- \squash uč nás po -- čí -- tat \unLeft \unSquash \markup \accent na -- še \star dny, ať \left doj -- \squash de -- me "k mou" -- dro -- sti \unLeft \unSquash \markup \accent srd -- ce. } }
+\left Na -- \squash uč nás po -- čí -- tat \unLeft \unSquash \markup \accent na -- še \star dny, ať \left do -- \squash jde -- me "k mou" -- dro -- sti \unLeft \unSquash \markup \accent srd -- ce. } }
     >>
     \layout {}
 }

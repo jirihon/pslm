@@ -318,7 +318,7 @@ Na -- syť nás, Pa -- ne, svou sli -- tov -- no -- stí, a -- by -- chom se ra 
     <<
         \new Voice = "melody" { \cadenzaOn \key f \major \relative { bes'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes c8 g \bar "" bes a a4 \cadenzaMeasure \bar "|" r8 d,8 d\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes e8 f \bar "" a[( g)] g4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "1."
-\left Na -- \squash uč nás po -- \unLeft \unSquash čí -- tat \markup \accent na -- še \star dny, ať \left doj -- \squash de -- me "k mou" -- \unLeft \unSquash dro -- sti \markup \accent srd -- ce. } }
+\left Na -- \squash uč nás po -- \unLeft \unSquash čí -- tat \markup \accent na -- še \star dny, ať \left do -- \squash jde -- me "k mou" -- \unLeft \unSquash dro -- sti \markup \accent srd -- ce. } }
     >>
     \layout {}
 }

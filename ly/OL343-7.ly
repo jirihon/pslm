@@ -381,7 +381,7 @@ Ho -- spo -- di -- ne, slyš mou mo -- dlit -- bu a vo -- lá -- ní mé ať "k 
     <<
         \new Voice = "melody" { \cadenzaOn \key c \major \relative { a'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes g8 a \bar "" b g g4 \cadenzaMeasure \bar "|" r8 f8 e8 f \bar "" g[( e)] e2 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "6."
-\left Dej, \squash ať zá -- hy doj -- \unLeft \unSquash du tvé \markup \accent mi -- lo -- \star sti, vždyť "v te" -- be \markup \accent dou -- fám. } }
+\left Dej, \squash ať zá -- hy do -- \unLeft \unSquash jdu tvé \markup \accent mi -- lo -- \star sti, vždyť "v te" -- be \markup \accent dou -- fám. } }
     >>
     \layout {}
 }
