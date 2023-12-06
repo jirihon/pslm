@@ -316,9 +316,9 @@ Bu -- du krá -- čet před Ho -- spo -- di -- nem "v ze" -- mi ži -- vých. } 
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key g \major \relative { g'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes g8 fis \bar "" e d d d4 r \cadenzaMeasure \bar "|" e4 e8 d8 a \bar "" b fis' fis fis2 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key g \major \relative { g'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes g8 fis \bar "" e d d d2 \cadenzaMeasure \bar "|" e4 d8 a \bar "" b fis' fis fis2 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "1."
-\left Ho -- \squash spo -- din je mi -- lo -- sti -- \unLeft \unSquash vý a \markup \accent spra -- ve -- dli -- \star vý, Bůh náš je \markup \accent mi -- lo -- srd -- ný. \repeat unfold 1 { \skip 1 } } }
+\left Ho -- \squash spo -- din je mi -- lo -- sti -- \unLeft \unSquash vý a \markup \accent spra -- ve -- dli -- \star vý, Bůh náš je \markup \accent mi -- lo -- srd -- ný. } }
     >>
     \layout {}
 }

@@ -34,7 +34,7 @@ t: * pomohl mi, když jsem byl v bídě.
 
 %% part: verse
 
-m: f'B e8 f d8_ d |
+m: f'B e8 f d8_ d r4 |
 t: Měl jsem důvěru, i když jsem si řekl:
 
 m: r8 g8( f8) g e4_ e r ||
@@ -52,7 +52,7 @@ t: * „Každý člověk klame!“
 
 %% part: verse
 
-m: f'B e8 f d8_ d4. r4 |
+m: f'B e8 f d8_ d4. |
 t: Drahocenná je v Hospodinových očích
 
 m: r8 g8 f8 g e_ e4. ||

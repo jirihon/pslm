@@ -307,7 +307,7 @@ optionalBreath = #(define-music-function (syllable)(string?)
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key c \major \relative { g'8 g e g d' c b a \bar "" b[( a)] \bar "" g e \bar "" d4( a') g2 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key c \major \relative { g'8 g e g \bar "" d' c b a \bar "" b[( a)] \bar "" g e \bar "" d4( a') g2 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Bla -- ze těm, kdo pře -- bý -- va -- jí "v tvém" do -- mě, Bo -- že. } }
     >>
@@ -334,7 +334,7 @@ mé \left srd -- \squash ce \unLeft \unSquash i mé \markup \accent tě -- \star
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key c \major \relative { g'8 g e g d' c b a \bar "" b[( a)] \bar "" g e \bar "" d4( a') g2 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key c \major \relative { g'8 g e g \bar "" d' c b a \bar "" b[( a)] \bar "" g e \bar "" d4( a') g2 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Bla -- ze těm, kdo pře -- bý -- va -- jí "v tvém" do -- mě, Bo -- že. } }
     >>
@@ -361,7 +361,7 @@ Bla -- ze těm, kdo pře -- bý -- va -- jí "v tvém" do -- mě, Bo -- že. } }
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key c \major \relative { g'8 g e g d' c b a \bar "" b[( a)] \bar "" g e \bar "" d4( a') g2 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key c \major \relative { g'8 g e g \bar "" d' c b a \bar "" b[( a)] \bar "" g e \bar "" d4( a') g2 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Bla -- ze těm, kdo pře -- bý -- va -- jí "v tvém" do -- mě, Bo -- že. } }
     >>
@@ -388,7 +388,7 @@ Bla -- ze těm, kdo pře -- bý -- va -- jí "v tvém" do -- mě, Bo -- že. } }
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key c \major \relative { g'8 g e g d' c b a \bar "" b[( a)] \bar "" g e \bar "" d4( a') g2 \cadenzaMeasure \bar "||" \break } \bar "|." }
+        \new Voice = "melody" { \cadenzaOn \key c \major \relative { g'8 g e g \bar "" d' c b a \bar "" b[( a)] \bar "" g e \bar "" d4( a') g2 \cadenzaMeasure \bar "||" \break } \bar "|." }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Bla -- ze těm, kdo pře -- bý -- va -- jí "v tvém" do -- mě, Bo -- že. } }
     >>

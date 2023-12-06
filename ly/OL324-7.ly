@@ -370,7 +370,7 @@ Ze -- mě je pl -- ná Ho -- spo -- di -- no -- vy mi -- lo -- sti. } }
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key f \major \relative { r8 d'8 d\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes e8 f \bar "" a g g4 r \cadenzaMeasure \bar "|" g\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes a8 bes \bar "" d[( c)] c4 r \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key f \major \relative { r8 d'8 d\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes e8 f \bar "" a g g2 \cadenzaMeasure \bar "|" g\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes a8 bes \bar "" d[( c)] c4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "5."
 Ať \left spo -- \squash či -- ne na nás, Ho -- spo -- di -- ne, tvé \unLeft \unSquash mi -- lo -- \markup \accent sr -- den -- \star ství, \left jak \squash dou -- \unLeft \unSquash fá -- me \markup \accent "v te" -- be. } }
     >>

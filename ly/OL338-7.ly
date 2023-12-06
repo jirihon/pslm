@@ -379,7 +379,7 @@ Vě -- řím, že u -- vi -- dím bla -- ho od Ho -- spo -- di -- na "v ze" -- m
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key d \major \relative { r8 b'8 b\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 b \bar "" cis[( a)] a2 \cadenzaMeasure \bar "|" g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes fis8 g \bar "" a fis fis4 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key d \major \relative { r8 b'8 b\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 b \bar "" cis[( a)] a2 \cadenzaMeasure \bar "|" g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes fis8 g \bar "" a fis fis4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "6."
 Slyš, \left Ho -- \squash spo -- di -- ne, můj \unLeft \unSquash hlas, jak \markup \accent vo -- \star lám, \left smi -- \squash luj se na -- \unLeft \unSquash de mnou, \markup \accent vy -- slyš mě! } }
     >>

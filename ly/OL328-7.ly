@@ -370,7 +370,7 @@ Ho -- spo -- di -- no -- va lá -- ska od vě -- ků pro ty, kdo se ho bo -- jí
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key es \major \relative { as'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes c\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" bes8 bes bes4 r \cadenzaMeasure \bar "|" f\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes as\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" g8 g4. r4 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key es \major \relative { as'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes c\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" bes8 bes bes4 r \cadenzaMeasure \bar "|" f\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes as\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" g8 g4. \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "5."
 \left Ho -- \squash spo -- di -- no -- va lá -- ska však \left \unLeft \unSquash od \squash vě -- ků \unLeft \unSquash \markup \accent na vě -- \star ky \left pro \squash všech -- ny, \left \unLeft \unSquash kdo \squash se ho \unLeft \unSquash \markup \accent bo -- jí, } }
     >>

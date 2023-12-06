@@ -318,7 +318,7 @@ Vy jste mý -- mi přá -- te -- li, bu -- de -- te -- li či -- ni -- ti to, co
     <<
         \new Voice = "melody" { \cadenzaOn \key f \major \relative { d'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes e8 f \bar "" a[( g)] g4 r \cadenzaMeasure \bar "|" g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 g \bar "" bes a a2 \cadenzaMeasure \bar "|" bes\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes c8 d \bar "" d c c4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "1."
-\left Ple -- \squash sej -- te Ho -- spo -- di -- nu, \unLeft \unSquash všech -- ny \markup \accent ze -- \star mě, \left služ -- \squash te Ho -- po -- \unLeft \unSquash di -- nu \markup \accent "s ra" -- do -- \star stí, \left vstup -- \squash te před \unLeft \unSquash ně -- ho \markup \accent "s já" -- so -- tem! } }
+\left Ple -- \squash sej -- te Ho -- spo -- di -- nu, \unLeft \unSquash všech -- ny \markup \accent ze -- \star mě, \left služ -- \squash te Ho -- spo -- \unLeft \unSquash di -- nu \markup \accent "s ra" -- do -- \star stí, \left vstup -- \squash te před \unLeft \unSquash ně -- ho \markup \accent "s já" -- so -- tem! } }
     >>
     \layout {}
 }

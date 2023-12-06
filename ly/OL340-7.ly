@@ -343,7 +343,7 @@ Smím si vy -- kra -- čo -- vat před Pá -- nem "v ze" -- mi ži -- vých. } }
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key f \major \relative { f'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes e8 f \bar "" d8 d \cadenzaMeasure \bar "|" r8 g8[( f8)] g \bar "" e4 e r \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key f \major \relative { f'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes e8 f \bar "" d8 d r4 \cadenzaMeasure \bar "|" r8 g8[( f8)] g \bar "" e4 e r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "3."
 \left Měl \squash jsem dů -- vě -- ru, i když \unLeft \unSquash jsem si \markup \accent ře -- \star kl: „Jsem tak \markup \accent sklí -- čen!“ } }
     >>
@@ -370,7 +370,7 @@ Smím si vy -- kra -- čo -- vat před Pá -- nem "v ze" -- mi ži -- vých. } }
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key f \major \relative { f'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes e8 f \bar "" d8 d4. r4 \cadenzaMeasure \bar "|" r8 g8 f8 g \bar "" e e4. \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key f \major \relative { f'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes e8 f \bar "" d8 d4. \cadenzaMeasure \bar "|" r8 g8 f8 g \bar "" e e4. \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "5."
 \left Dra -- \squash ho -- cen -- ná je "v Ho" -- spo -- di -- \unLeft \unSquash no -- vých \markup \accent o -- \star čích smrt je -- ho \markup \accent zbož -- ných. } }
     >>
