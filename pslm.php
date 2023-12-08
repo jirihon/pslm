@@ -697,28 +697,36 @@ function pslm_text_to_lyrics($text) {
     }
     $htext = $PSLM_SYLLABLE->hyphenateText($text);
     
-    if ($PSLM_HYPH_EXCEPTIONS === null) {
-        $hyph = file_get_contents(dirname(__FILE__) . '/db/hyphenation.txt');
-        $hyph = preg_split("#\n+#", trim($hyph));
-        
-        $search = str_replace('-', '', $hyph);
-        for ($i = 0; $i < count($search); ++$i) {
-            $search[$i] = '#'.$search[$i].'#ui'; // case-insensitive
-        }
-        $replace = str_replace('-', ' -- ', $hyph);
-        $search[] = '#(?<=[aáeéěiíoóuúůyý])(?=([bdďcčfghjklmnňpqrřsštťvwxzž]|ch|ct|chr|sk|[hkmst]l|[bfkt]r|př|tv|zř|jm|[sš]t|sv|vš|zn)[aáeéěiíoóuúůyý])#ui'; // general pattern for two vowels separated by a consonant or consonant group
-        $replace[] = ' -- ';
-        $PSLM_HYPH_EXCEPTIONS = [$search, $replace];
-    }
-    $htext = preg_replace($PSLM_HYPH_EXCEPTIONS[0], $PSLM_HYPH_EXCEPTIONS[1], $htext);
     $repl = [
         '#\s{2,}#' => ' ', // normalize white-spaces to single space
+
+        // two syllable-forming vowels
+        '#(?<=e)(?=[aáio])#ui' => ' -- ',
+        '#(?<=a)(?=[eo])#ui' => ' -- ',
+        '#(?<=i)(?=[aáeu])#ui' => ' -- ',
+        
+        // two vowels separated by a consonant or consonant group
+        '#(?<=[aáeéěiíoóuúůyý])(?=([bdďcčfghjklmnňpqrřsštťvwxzž]|ch|hr|ct|chr|sk|[hkmst]l|[bfkt]r|př|tv|zř|jm|[sš]t|sv|sn|vš|zn)[aáeéěiíoóuúůyý])#ui' => ' -- ',
+
         '# -- ([bjl]) -- #ui' => '\1 -- ', // move some ambiguous consonants to the previous syllable if both options are possible
         '# -- ([cčdďfghkmnňpqrřsštťvwxzž]) -- #ui' => ' -- \1', // move other ambiguous consonants to the next syllable if both options are posible
         '# -- (st|md) -- #ui' => ' -- \1', // move other ambiguous consonants to the next syllable if both options are posible
         '# -- (sť|ls|ch|mž)\b#ui' => '\1', // move unsyllabic parts to the previous syllable
         '#\b(js|lst) -- #ui' => '\1', // move unsyllabic parts to the next syllable
 
+        // fix unbreaked cases
+        '#(?<=ne)(?=u)#ui' => ' -- ',
+        '#(?<=ad)(?=b)#ui' => ' -- ',
+        '#(?<=ez)(?=k)#ui' => ' -- ',
+        '#(?<=se)(?=dm)#ui' => ' -- ',
+        '#(?<=u)(?=(smr|vn))#ui' => ' -- ',
+        '#(?<=em)(?=ž)#ui' => ' -- ',
+        '#(?<=vr)(?=hl)#ui' => ' -- ',
+        '#(?<=á)(?=hl)#ui' => ' -- ',
+        '#(?<=ut)(?=k)#ui' => ' -- ',
+        '#(?<=o)(?=sm)#ui' => ' -- ',
+
+        // fix wrongly breaked cases
         '#(p)říz -- n#ui' => '\1ří -- zn',
         '#s -- t#ui' => ' -- st',
         '#(p)a -- stvi#ui' => '\1ast -- vi',

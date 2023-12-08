@@ -370,9 +370,9 @@ Mi -- lu -- ji tě, Ho -- spo -- di -- ne, má sí -- lo! } }
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key es \major \relative { c''\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes bes8 as \bar "" g f f2 \cadenzaMeasure \bar "|" as\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes bes8 f \bar "" as[( g)] g4 r \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key es \major \relative { c''\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes bes8 as \bar "" g f f2 \cadenzaMeasure \bar "|" as\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes bes8 f \bar "" as[( g)] g4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "5."
-\left o -- \squash vi -- nu -- la mě o -- \unLeft \unSquash si -- dla \markup \accent pod -- svě -- \star tí, \left ohro -- \squash zi -- ly mě \unLeft \unSquash léč -- ky \markup \accent smr -- ti. } }
+\left o -- \squash vi -- nu -- la mě o -- \unLeft \unSquash si -- dla \markup \accent pod -- svě -- \star tí, \left o -- \squash hro -- zi -- ly mě \unLeft \unSquash léč -- ky \markup \accent smr -- ti. } }
     >>
     \layout {}
 }

@@ -408,7 +408,7 @@ Jak mi -- lu -- ji tvůj zá -- kon, Ho -- spo -- di -- ne. } }
     <<
         \new Voice = "melody" { \cadenzaOn \key es \major \relative { as'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes bes8 c \bar "" c bes bes bes2 \cadenzaMeasure \bar "|" f\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes es8 f \bar "" as g g4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "6."
-\left ne -- \squash u -- chy -- lu -- ji se \unLeft \unSquash od tvých \markup \accent roz -- hod -- nu -- \star tí, \left pro -- \squash to -- že \unLeft \unSquash tys mě \markup \accent po -- u -- čil. } }
+\left Ne -- \squash u -- chy -- lu -- ji se \unLeft \unSquash od tvých \markup \accent roz -- hod -- nu -- \star tí, \left pro -- \squash to -- že \unLeft \unSquash tys mě \markup \accent po -- u -- čil. } }
     >>
     \layout {}
 }
