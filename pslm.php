@@ -699,11 +699,6 @@ function pslm_text_to_lyrics($text) {
     
     $repl = [
         '#\s{2,}#' => ' ', // normalize white-spaces to single space
-
-        // two syllable-forming vowels
-        '#(?<=e)(?=[aáio])#ui' => ' -- ',
-        '#(?<=a)(?=[eo])#ui' => ' -- ',
-        '#(?<=i)(?=[aáeu])#ui' => ' -- ',
         
         // two vowels separated by a consonant or consonant group
         '#(?<=[aáeéěiíoóuúůyý])(?=([bdďcčfghjklmnňpqrřsštťvwxzž]|ch|hr|ct|chr|sk|[hkmst]l|[bfkt]r|př|tv|zř|jm|[sš]t|sv|sn|vš|zn)[aáeéěiíoóuúůyý])#ui' => ' -- ',
@@ -715,6 +710,9 @@ function pslm_text_to_lyrics($text) {
         '#\b(js|lst) -- #ui' => '\1', // move unsyllabic parts to the next syllable
 
         // fix unbreaked cases
+        '#(?<=e)(?=[aáio])#ui' => ' -- ',
+        '#(?<=a)(?=[eo])#ui' => ' -- ',
+        '#(?<=i)(?=[aáeu])#ui' => ' -- ',
         '#(?<=ne)(?=u)#ui' => ' -- ',
         '#(?<=ad)(?=b)#ui' => ' -- ',
         '#(?<=ez)(?=k)#ui' => ' -- ',
