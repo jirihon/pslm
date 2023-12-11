@@ -701,9 +701,9 @@ function pslm_text_to_lyrics($text) {
         '#\s{2,}#' => ' ', // normalize white-spaces to single space
         
         // two vowels separated by a consonant or consonant group
-        '#(?<=[aáeéěiíoóuúůyý])(?=([bdďcčfghjklmnňpqrřsštťvwxzž]|ch|hr|ct|chr|sk|[hkmst]l|[bfkt]r|př|tv|zř|jm|[sš]t|sv|sn|vš|zn)[aáeéěiíoóuúůyý])#ui' => ' -- ',
+        '#(?<=[aáeéěiíoóuúůyý])(?=([bdďcčfghjklmnňpqrřsštťvwxzž]|ch|hr|ct|chr|sk|[hkmst]l|[bfkpt]r|př|tv|zř|jm|[sš]t|sv|sn|vš|zn)[aáeéěiíoóuúůyý])#ui' => ' -- ',
 
-        '# -- ([bjl]) -- #ui' => '\1 -- ', // move some ambiguous consonants to the previous syllable if both options are possible
+        '# -- ([bjlť]) -- #ui' => '\1 -- ', // move some ambiguous consonants to the previous syllable if both options are possible
         '# -- ([cčdďfghkmnňpqrřsštťvwxzž]) -- #ui' => ' -- \1', // move other ambiguous consonants to the next syllable if both options are posible
         '# -- (st|md) -- #ui' => ' -- \1', // move other ambiguous consonants to the next syllable if both options are posible
         '# -- (sť|ls|ch|mž)\b#ui' => '\1', // move unsyllabic parts to the previous syllable
@@ -731,6 +731,7 @@ function pslm_text_to_lyrics($text) {
         '#\b(u)z -- n#ui' => '\1 -- zn',
         '#(č)er -- st#ui' => '\1erst --',
         '#(d)oj -- d#ui' => '\1o -- jd',
+        '#(u)h -- n#ui' => '\1 -- hn',
         
         '#\b[ksvz] [^\s]+#ui' => '"\0"', // join unsyllabic preposition to the next syllable
         '#[^\s]+ \+#ui' => '"\0"', // join + sign to the previous syllable

@@ -316,7 +316,7 @@ Bu -- du krá -- čet před Ho -- spo -- di -- nem "v ze" -- mi ži -- vých. } 
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key g \major \relative { g'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes g8 fis \bar "" e[( d)] d4 r \cadenzaMeasure \bar "|" e8[( d8)] a \bar "" b[( fis')] fis4 r \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key g \major \relative { g'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes g8 fis \bar "" e[( d)] d4 \cadenzaMeasure \bar "|" r8 e8[( d8)] a \bar "" b[( fis')] fis4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "1."
 \left Měl \squash jsem dů -- vě -- ru, i když \unLeft \unSquash jsem si \markup \accent ře -- \star kl: „Jsem tak \markup \accent sklí -- čen!“ } }
     >>

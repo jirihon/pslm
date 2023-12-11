@@ -307,7 +307,7 @@ optionalBreath = #(define-music-function (syllable)(string?)
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key d \major \relative { d'4 d( e) fis \bar "" g8 g fis g \bar "" a4 a \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key d \major \relative { d'4 d( e) fis \bar "" g8 g fis g \bar "" a4 a2 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Chci krá -- čet "v ne" -- vin -- no -- sti srd -- ce. } }
     >>
@@ -334,7 +334,7 @@ O \left dob -- \squash ro -- ti -- vo -- sti a spra -- ve -- dl -- no -- sti chc
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key d \major \relative { d'4 d( e) fis \bar "" g8 g fis g \bar "" a4 a \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key d \major \relative { d'4 d( e) fis \bar "" g8 g fis g \bar "" a4 a2 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Chci krá -- čet "v ne" -- vin -- no -- sti srd -- ce. } }
     >>
@@ -361,7 +361,7 @@ Chci \left krá -- \squash čet "v ne" -- vin -- no -- sti \unLeft \unSquash \ma
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key d \major \relative { d'4 d( e) fis \bar "" g8 g fis g \bar "" a4 a \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key d \major \relative { d'4 d( e) fis \bar "" g8 g fis g \bar "" a4 a2 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Chci krá -- čet "v ne" -- vin -- no -- sti srd -- ce. } }
     >>
@@ -379,7 +379,7 @@ Kdo \left své -- \squash ho bliž -- ní -- ho "v skry" -- tu \unLeft \unSquash
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key d \major \relative { b'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" b8[( a)] a4 r \cadenzaMeasure \bar "|" g\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes \bar "" fis8 e e4 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key d \major \relative { b'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" b8[( a)] a4 r \cadenzaMeasure \bar "|" g\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes \bar "" fis8 e e4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "6."
 \left Py -- \squash šné -- ho o -- či -- ma a na -- du -- té -- ho \unLeft \unSquash \markup \accent srd -- \star cem, \left to -- \squash ho \unLeft \unSquash \markup \accent ne -- sne -- su. } }
     >>
@@ -388,7 +388,7 @@ Kdo \left své -- \squash ho bliž -- ní -- ho "v skry" -- tu \unLeft \unSquash
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key d \major \relative { d'4 d( e) fis \bar "" g8 g fis g \bar "" a4 a \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key d \major \relative { d'4 d( e) fis \bar "" g8 g fis g \bar "" a4 a2 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Chci krá -- čet "v ne" -- vin -- no -- sti srd -- ce. } }
     >>
@@ -415,7 +415,7 @@ Kdo \left krá -- \squash čí ži -- vo -- tem \unLeft \unSquash \markup \accen
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key d \major \relative { d'4 d( e) fis \bar "" g8 g fis g \bar "" a4 a \cadenzaMeasure \bar "||" \break } \bar "|." }
+        \new Voice = "melody" { \cadenzaOn \key d \major \relative { d'4 d( e) fis \bar "" g8 g fis g \bar "" a4 a2 \cadenzaMeasure \bar "||" \break } \bar "|." }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Chci krá -- čet "v ne" -- vin -- no -- sti srd -- ce. } }
     >>

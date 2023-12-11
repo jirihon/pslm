@@ -370,7 +370,7 @@ Bůh se vzná -- ší za já -- so -- tu, Ho -- spo -- din vy -- stu -- pu -- je
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key c \major \relative { c'8 e g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes g8 e \bar "" a[( g)] g4 r \cadenzaMeasure \bar "|" a\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes b8 c \bar "" d[( b)] g g4 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key c \major \relative { c'8 e g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes g8 e \bar "" a[( g)] g4 r \cadenzaMeasure \bar "|" a\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes b8 c \bar "" d[( b)] g g4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "5."
 Pro -- to -- \left že \squash Bůh je krá -- lem ce -- \unLeft \unSquash lé -- ho \markup \accent svě -- \star ta, \left zpí -- \squash vej -- \unLeft \unSquash te mu \markup \accent chva -- lo -- zpěv! } }
     >>

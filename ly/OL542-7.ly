@@ -388,9 +388,9 @@ Ze zá -- hu -- by vy -- svo -- bo -- díš můj ži -- vot, Ho -- spo -- di -- 
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key f \major \relative { r8 c'8 c\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes d8 e \bar "" g[( f)] f4 r \cadenzaMeasure \bar "|" d\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes e8 f \bar "" a g g4 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key f \major \relative { r8 c'8 c\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes d8 e \bar "" g[( f)] f4 r \cadenzaMeasure \bar "|" d\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes e8 f \bar "" a g g g4 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "6."
-Když \left zma -- \squash lát -- ně -- \unLeft \unSquash la má \markup \accent du -- \star še, \left vzpo -- \squash mněl jsem si \unLeft \unSquash na Ho -- \markup \accent spo -- di -- na } }
+Když \left zma -- \squash lát -- ně -- \unLeft \unSquash la má \markup \accent du -- \star še, \left vzpo -- \squash mněl jsem \unLeft \unSquash si na \markup \accent Ho -- spo -- di -- na } }
     >>
     \layout {}
 }

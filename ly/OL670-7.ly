@@ -388,9 +388,9 @@ Ple -- sej -- te a já -- sej -- te, ne -- boť nad vá -- mi vlád -- ne Sva --
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key es \major \relative { c''\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" c8 bes bes4 r \cadenzaMeasure \bar "|" as\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" g8 f f f4 r \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key es \major \relative { c''\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" c8 bes bes4 r \cadenzaMeasure \bar "|" as\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" g8 f f f4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "7."
-\left Ple -- \squash sej -- te a já -- sej -- te, o -- by -- va -- te -- lé \unLeft \unSquash \markup \accent Si -- ó -- \star nu, \left ne -- \squash boť ve -- li -- kým upro -- střed vás je Sva -- tý \unLeft \unSquash \markup \accent Iz -- ra -- e -- le. } }
+\left Ple -- \squash sej -- te a já -- sej -- te, o -- by -- va -- te -- lé \unLeft \unSquash \markup \accent Si -- ó -- \star nu, \left ne -- \squash boť ve -- li -- kým u -- pro -- střed vás je Sva -- tý \unLeft \unSquash \markup \accent Iz -- ra -- e -- le. } }
     >>
     \layout {}
 }

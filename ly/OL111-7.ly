@@ -397,9 +397,9 @@ Bo -- že můj, Bo -- že můj, proč jsi mne o -- pu -- stil? } }
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key f \major \relative { c'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes d8 e \bar "" g[( f)] f4 r \cadenzaMeasure \bar "|" d\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes e8 f \bar "" a[( g)] g4 r \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key f \major \relative { c'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes d8 e \bar "" g[( f)] f4 r \cadenzaMeasure \bar "|" d\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes e8 f \bar "" a[( g)] g4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "7."
-\left Bu -- \squash du vy -- prá -- vět svým bra -- třím \unLeft \unSquash o tvém \markup \accent jmé -- \star nu, \left upro -- \squash střed shro -- máž -- dě -- ní bu -- \unLeft \unSquash du tě \markup \accent chvá -- lit. } }
+\left Bu -- \squash du vy -- prá -- vět svým bra -- třím \unLeft \unSquash o tvém \markup \accent jmé -- \star nu, \left u -- \squash pro -- střed shro -- máž -- dě -- ní bu -- \unLeft \unSquash du tě \markup \accent chvá -- lit. } }
     >>
     \layout {}
 }

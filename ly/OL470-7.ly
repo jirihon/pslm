@@ -370,7 +370,7 @@ Bu -- du krá -- čet před Ho -- spo -- di -- nem "v ze" -- mi ži -- vých. } 
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key f \major \relative { bes'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes c8 g \bar "" bes a a a4 r \cadenzaMeasure \bar "|" d,4 e8 f \bar "" a g g g2 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key f \major \relative { bes'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes c8 g \bar "" bes a a a2 \cadenzaMeasure \bar "|" d,4 e8 f \bar "" a g g g2 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "5."
 \left Ho -- \squash spo -- din je mi -- lo -- sti -- \unLeft \unSquash vý a \markup \accent spra -- ve -- dli -- \star vý, Bůh náš je \markup \accent mi -- lo -- srd -- ný. } }
     >>

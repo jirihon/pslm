@@ -388,9 +388,9 @@ Bu -- de -- te vá -- žit vo -- du "s ra" -- do -- stí "z pra" -- me -- nů sp
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key bes \major \relative { es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 c \bar "" d d d4 r \cadenzaMeasure \bar "|" c8 g'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 a \bar "" f f f f4 r \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key bes \major \relative { es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 c \bar "" d d d4 r \cadenzaMeasure \bar "|" c8 g'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 a \bar "" f f f f4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "7."
-\left Ple -- \squash sej -- te a já -- sej -- te, o -- by -- va -- \unLeft \unSquash te -- lé \markup \accent Si -- ó -- \star nu, ne -- \left boť \squash ve -- li -- kým upro -- střed vás je \unLeft \unSquash Sva -- tý \markup \accent Iz -- ra -- e -- le. } }
+\left Ple -- \squash sej -- te a já -- sej -- te, o -- by -- va -- \unLeft \unSquash te -- lé \markup \accent Si -- ó -- \star nu, ne -- \left boť \squash ve -- li -- kým u -- pro -- střed vás je \unLeft \unSquash Sva -- tý \markup \accent Iz -- ra -- e -- le. } }
     >>
     \layout {}
 }

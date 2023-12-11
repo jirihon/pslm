@@ -316,9 +316,9 @@ Ty, Ho -- spo -- di -- ne, jsi za -- chrá -- nil mou du -- ši, a -- by ne -- z
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key g \major \relative { c''\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes b8 a \bar "" a g g2 \cadenzaMeasure \bar "|" g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes fis8 e \bar "" e[( d)] d4 r \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key g \major \relative { c''\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes b8 a \bar "" a g g2 \cadenzaMeasure \bar "|" g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes fis8 e \bar "" e[( d)] d4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "1."
-\left Ře -- \squash kl jsem: „Upro -- střed své -- ho ži -- vo -- \unLeft \unSquash ta mám \markup \accent o -- de -- \star jít, \left u \squash bran pod -- svě -- tí mám po -- strá -- dat \unLeft \unSquash zby -- tek \markup \accent svých let.“ } }
+\left Ře -- \squash kl jsem: „U -- pro -- střed své -- ho ži -- vo -- \unLeft \unSquash ta mám \markup \accent o -- de -- \star jít, \left u \squash bran pod -- svě -- tí mám po -- strá -- dat \unLeft \unSquash zby -- tek \markup \accent svých let.“ } }
     >>
     \layout {}
 }

@@ -343,7 +343,7 @@ Ve -- leb, du -- še má, Ho -- spo -- di -- na. } }
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key f \major \relative { f'8 e d8 e8 f \bar "" a g g4 \cadenzaMeasure \bar "|" r8 g8 f e\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes f8 g \bar "" bes a a4 r \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key f \major \relative { f'8 e d8 e8 f \bar "" a g g4 r \cadenzaMeasure \bar "|" g8 f e\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes f8 g \bar "" bes a a4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "3."
 Všich -- ni če -- ka -- jí \markup \accent od te -- \star be, že jim \left dáš \squash ob -- \unLeft \unSquash ži -- vu \markup \accent "v pra" -- vý čas. } }
     >>

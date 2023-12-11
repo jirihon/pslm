@@ -43,10 +43,10 @@ t: * jejichž hlas by nebylo slyšet.
 
 %% part: verse
 
-m: c''B c8_( bes) bes4 r |
+m: c''B c8_( bes) bes4 |
 t: Do celé země vychází jejich hlahol,
 
-m: asB g8_( f) f4 r ||
+m: r8 as asB g8_( f) f4 r ||
 t: * až na konec světa jejich slova.
 
 %% use: responsum

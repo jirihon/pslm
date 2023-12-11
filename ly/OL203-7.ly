@@ -318,7 +318,7 @@ Ple -- sej -- te Bo -- hu, kte -- rý nám po -- má -- há. } }
     <<
         \new Voice = "melody" { \cadenzaOn \key es \major \relative { f'8 c'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes bes8 as \bar "" g[( f)] f4 r \cadenzaMeasure \bar "|" bes,8 f'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes es8 f \bar "" as[( g)] g4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "1."
-Za -- \left no -- \squash ťte pí -- seň, u -- \unLeft \unSquash deř -- te \markup \accent "v bu" -- \star ben, na \left lí -- \squash bez -- ně zvu -- čí -- cí ci -- te -- \unLeft \unSquash ru a \markup \accent har -- fu. } }
+Za -- \left noť -- \squash te pí -- seň, u -- \unLeft \unSquash deř -- te \markup \accent "v bu" -- \star ben, na \left lí -- \squash bez -- ně zvu -- čí -- cí ci -- te -- \unLeft \unSquash ru a \markup \accent har -- fu. } }
     >>
     \layout {}
 }

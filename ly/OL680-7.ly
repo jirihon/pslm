@@ -354,7 +354,7 @@ Bla -- ze li -- du, kte -- rý si Ho -- spo -- din vy -- vo -- lil za svůj ma -
     <<
         \new Voice = "melody" { \cadenzaOn \key d \major \relative { b'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes cis8 b \bar "" b[( a)] a4 r \cadenzaMeasure \bar "|" g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 g \bar "" fis[( e)] e2 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "4."
-\left Kaž -- \squash dé -- mu "z nich" uh -- \unLeft \unSquash ně -- tl \markup \accent srd -- \star ce, \left u -- \squash va -- žu -- je o všech \unLeft \unSquash je -- jich \markup \accent skut -- cích. } }
+\left Kaž -- \squash dé -- mu "z nich" u -- \unLeft \unSquash hně -- tl \markup \accent srd -- \star ce, \left u -- \squash va -- žu -- je o všech \unLeft \unSquash je -- jich \markup \accent skut -- cích. } }
     >>
     \layout {}
 }

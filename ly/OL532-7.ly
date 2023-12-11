@@ -397,7 +397,7 @@ Vel -- kou věc "s ná" -- mi u -- či -- nil Ho -- spo -- din, na -- pl -- ni -
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key f \major \relative { bes'\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes c\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes \bar "" \bar "" a4 a \cadenzaMeasure \bar "|" r8 g g\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes a\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" f8 f4 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key f \major \relative { bes'\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes c\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes \bar "" \bar "" a4 a \cadenzaMeasure \bar "|" r8 g g\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes a\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" f8 f4. \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "7."
 \left Vy -- \squash chá -- \left \unLeft \unSquash ze -- \squash jí \unLeft \unSquash \markup \accent "s plá" -- \star čem, když \left ne -- \squash sou \left \unLeft \unSquash se -- \squash me -- no \unLeft \unSquash \markup \accent "k se" -- tí: } }
     >>

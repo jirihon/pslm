@@ -370,9 +370,9 @@ Ho -- spo -- din zje -- vil svou spá -- su před zra -- ky po -- ha -- nů. } }
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key bes \major \relative { bes8 d f\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 s \bar "" g[( f)] f4 r \cadenzaMeasure \bar "|" g\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 bes \bar "" c[( a f)] f4 r \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key bes \major \relative { bes8 d f\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 d \bar "" g[( f)] f4 r \cadenzaMeasure \bar "|" g\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 bes \bar "" c[( a f)] f4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "5."
-U -- zře -- \left ly \squash všech -- ny kon -- či -- \unLeft \unSquash ny \markup \accent ze -- \star mě \left spá -- \squash su na -- \unLeft \unSquash še -- ho \markup \accent Bo -- ha. } }
+U -- zře -- \left ly \squash všech -- ny kon -- \unLeft \unSquash či -- ny \markup \accent ze -- \star mě \left spá -- \squash su na -- \unLeft \unSquash še -- ho \markup \accent Bo -- ha. } }
     >>
     \layout {}
 }

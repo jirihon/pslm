@@ -316,7 +316,7 @@ Vě -- řím, že u -- vi -- dím bla -- ho od Ho -- spo -- di -- na "v ze" -- m
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key d \major \relative { b'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 b \bar "" cis[( a)] a4 \cadenzaMeasure \bar "|" g\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes fis8 g \bar "" a4(fis2) \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key d \major \relative { b'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 b \bar "" cis[( a)] a4 r \cadenzaMeasure \bar "|" g\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes fis8 g \bar "" a4(fis2) \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "1."
 \left Ho -- \squash spo -- din je mé svět -- lo \unLeft \unSquash a má \markup \accent spá -- \star sa, \left ko -- \squash ho \unLeft \unSquash bych se \markup \accent bál? } }
     >>

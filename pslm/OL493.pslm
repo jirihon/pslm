@@ -6,7 +6,7 @@
 %% source: vsedni_zaltar
 %% page: 102
 %% a: "f'8 c'B bes8 as g_ f f2"
-%% b: "bes,8 f'B es8 g as_ g g2"
+%% b: "bes,8 f'B es8 f as_ g g2"
 
 m: \key es \major
 
@@ -18,9 +18,9 @@ t: Plesejte Bohu, který nám pomáhá.
 %% part: verse
 
 m: f'8 c'B bes8 as g_( f) f4 r |
-t: Zanoť -- te píseň, udeřte v buben,
+t: Zanoťte píseň, udeřte v buben,
 
-m: bes,8 f'B es8 g as_( g) g4 r ||
+m: bes,8 f'B es8 f as_( g) g4 r ||
 t: * na líbezně zvučící citeru a harfu.
 
 %% part: verse
@@ -28,7 +28,7 @@ t: * na líbezně zvučící citeru a harfu.
 m: f'8 c'B bes8 as g_ f f f2 |
 t: Zadujte do trub v den novoluní,
 
-m: bes,8 f'B es8 g as_( g) g4 r ||
+m: bes,8 f'B es8 f as_( g) g4 r ||
 t: * v den úplňku, v čas našeho svátku.
 
 %% use: responsum
@@ -38,7 +38,7 @@ t: * v den úplňku, v čas našeho svátku.
 m: f'8 c'B bes8 as g_ f f f4 r |
 t: Takový je příkaz v Izraeli,
 
-m: bes,8 f'B es8 g as_( g) g4 r ||
+m: bes,8 f'B es8 f as_( g) g4 r ||
 t: * je to zákon Jakubova Boha.
 
 %% part: verse
@@ -46,7 +46,7 @@ t: * je to zákon Jakubova Boha.
 m: f'8 c'B bes8 as g_ f f f4 r |
 t: Nařízení, které dal Josefovi,
 
-m: bes,8 f'B es8 g as_( g) g4 r ||
+m: bes,8 f'B es8 f as_( g) g4 r ||
 t: * když se postavil proti egyptské zemi.
 
 %% use: responsum
@@ -56,7 +56,7 @@ t: * když se postavil proti egyptské zemi.
 m: f'8 c'B bes8 as g_ f f4 r |
 t: Nesmíš mít boha jiného,
 
-m: bes,8 f'B es8 g as_ g g4 r ||
+m: bes,8 f'B es8 f as_ g g4 r ||
 t: * nesmíš se klanět bohu cizímu!
 
 %% part: verse
@@ -64,7 +64,7 @@ t: * nesmíš se klanět bohu cizímu!
 m: f'8( c'8) cB bes8 as g_( f) f2 |
 t: Já jsem Hospodin, tvůj Bůh,
 
-m: bes,8 f'B es8 g as_( g) g4 r ||
+m: bes,8 f'B es8 f as_( g) g4 r ||
 t: * já jsem tě vyvedl z egyptské země!
 
 %% use: responsum

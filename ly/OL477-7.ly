@@ -352,9 +352,9 @@ Na -- še du -- še vy -- váz -- la ja -- ko pták "z ptáč" -- ní -- ko -- v
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key f \major \relative { bes'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes c8 d \bar "" d c c c4 r \cadenzaMeasure \bar "|" g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 g \bar "" bes[( a)] a2 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key f \major \relative { bes'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes c8 d \bar "" d c c c4 r \cadenzaMeasure \bar "|" g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 g \bar "" bes[( a)] a2 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "4."
-\left Vo -- \squash da by nás \unLeft \unSquash by -- la \markup \accent za -- to -- pi -- \star la, \left pří -- \squash val by se byl \unLeft \unSquash pře -- lil \markup \accent přes nás, } }
+\left Vo -- \squash da by nás \unLeft \unSquash by -- la \markup \accent za -- to -- pi -- \star la, \left pří -- \squash val by se byl pře -- \unLeft \unSquash va -- lil \markup \accent přes nás, } }
     >>
     \layout {}
 }

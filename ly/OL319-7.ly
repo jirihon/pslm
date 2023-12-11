@@ -316,9 +316,9 @@ Bu -- du tě chvá -- lit, Ho -- spo -- di -- ne, ve vel -- kém shro -- máž -
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key es \major \relative { es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes es8 d \bar "" c4 c r \cadenzaMeasure \bar "|" f\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 es \bar "" d4 d r \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key es \major \relative { es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes es8 d \bar "" c4 c r \cadenzaMeasure \bar "|" f\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 es \bar "" d4 d r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "1."
-\left Bu -- \squash du vy -- prá -- vět svým bra -- třím \unLeft \unSquash o tvém \markup \accent jmé -- \star nu, \left upro -- \squash střed shro -- máž -- dě -- ní bu -- \unLeft \unSquash du tě \markup \accent chvá -- lit. } }
+\left Bu -- \squash du vy -- prá -- vět svým bra -- třím \unLeft \unSquash o tvém \markup \accent jmé -- \star nu, \left u -- \squash pro -- střed shro -- máž -- dě -- ní bu -- \unLeft \unSquash du tě \markup \accent chvá -- lit. } }
     >>
     \layout {}
 }

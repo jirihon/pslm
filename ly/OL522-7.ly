@@ -318,7 +318,7 @@ optionalBreath = #(define-music-function (syllable)(string?)
     <<
         \new Voice = "melody" { \cadenzaOn \key g \major \relative { r8 e'8 e\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes fis8 g \bar "" b[( a)] a4 r \cadenzaMeasure \bar "|" a\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes g8 a \bar "" c[( b)] b2 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "1."
-Jen \left "v Bo" -- \squash hu od -- po -- čí -- \unLeft \unSquash vá má \markup \accent du -- \star še, \left od \squash ně -- ho po -- chá -- zí \unLeft \unSquash to, "v co" \markup \accent dou -- fám. } }
+Jen \left "v Bo" -- \squash hu od -- po -- čí -- \unLeft \unSquash vej, má \markup \accent du -- \star še, \left od \squash ně -- ho po -- chá -- zí \unLeft \unSquash to, "v co" \markup \accent dou -- fám. } }
     >>
     \layout {}
 }

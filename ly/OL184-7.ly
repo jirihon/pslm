@@ -334,9 +334,9 @@ Ty jsi kněz na vě -- ky po -- dle Mel -- chi -- ze -- de -- cho -- va řá -- 
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key c \major \relative { f'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes g8 d \bar "" f e e e4 r \cadenzaMeasure \bar "|" d8 a'\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes b8 a \bar "" a g g4 r \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key c \major \relative { f'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes g8 d \bar "" f e e e4 r \cadenzaMeasure \bar "|" d8 a'\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes b8 a \bar "" a g g4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "2."
-\left Žez -- \squash lo mo -- ci ti po -- dá -- vá Ho -- \unLeft \unSquash spo -- din \markup \accent ze Si -- ó -- \star nu: „Pa -- \left nuj \squash upro -- \unLeft \unSquash střed svých \markup \accent ne -- přá -- tel! } }
+\left Žez -- \squash lo mo -- ci ti po -- dá -- vá Ho -- \unLeft \unSquash spo -- din \markup \accent ze Si -- ó -- \star nu: „Pa -- \left nuj \squash u -- pro -- \unLeft \unSquash střed svých \markup \accent ne -- přá -- tel! } }
     >>
     \layout {}
 }

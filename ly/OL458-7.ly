@@ -318,7 +318,7 @@ Du -- še má, chval Ho -- spo -- di -- na! } }
     <<
         \new Voice = "melody" { \cadenzaOn \key f \major \relative { c'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes d8 e \bar "" g f f f4 r \cadenzaMeasure \bar "|" d\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes e8 f \bar "" a[( g)] g4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "1."
-\left Po -- \squash kud ži -- ji, chci \unLeft \unSquash chvá -- lit \markup \accent Ho -- spo -- di -- \star na, \left po -- \squash kud bu -- du, chci o -- pě -- vo -- vat \unLeft \unSquash své -- ho \markup \accent Pá -- na. } }
+\left Po -- \squash kud ži -- ji, chci \unLeft \unSquash chvá -- lit \markup \accent Ho -- spo -- di -- \star na, \left po -- \squash kud bu -- du, chci o -- pě -- vo -- vat \unLeft \unSquash své -- ho \markup \accent Bo -- ha. } }
     >>
     \layout {}
 }
