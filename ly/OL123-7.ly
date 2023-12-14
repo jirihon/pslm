@@ -354,7 +354,7 @@ Stvoř mi či -- sté srd -- ce, Bo -- že! } }
     <<
         \new Voice = "melody" { \cadenzaOn \key f \major \relative { d'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes e8 f \bar "" a[( g)] g4 \cadenzaMeasure \bar "|" r8 g g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 bes \bar "" d[( c)] c4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "4."
-\left Bez -- \squash bož -- né bu -- du u -- \unLeft \unSquash čit tvým \markup \accent ce -- \star stám a \left hří -- \squash šní -- ci se bu -- dou o -- \unLeft \unSquash bra -- cet \markup \accent "k to" -- bě. } }
+\left Bez -- \squash bož -- né bu -- du u -- \unLeft \unSquash čit tvým \markup \accent ce -- \star stám a \left hří -- \squash šní -- ci se bu -- dou ob -- \unLeft \unSquash ra -- cet \markup \accent "k to" -- bě. } }
     >>
     \layout {}
 }

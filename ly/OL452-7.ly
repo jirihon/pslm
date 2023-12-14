@@ -372,7 +372,7 @@ Ja -- snou tvář u -- kaž své -- mu slu -- žeb -- ní -- ku, Ho -- spo -- di
     <<
         \new Voice = "melody" { \cadenzaOn \key c \major \relative { f'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes g8 d \bar "" f e e4 \cadenzaMeasure \bar "|" r8 d8 a'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes b8 a \bar "" a[( g)] g4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "4."
-\left O -- \squash brať se ke mně a smi -- \unLeft \unSquash luj se \markup \accent na -- de \star mnou, jak \left či -- \squash ní -- váš těm, kdo mi -- lu -- \unLeft \unSquash jí tvé \markup \accent jmé -- no. } }
+\left Ob -- \squash rať se ke mně a smi -- \unLeft \unSquash luj se \markup \accent na -- de \star mnou, jak \left či -- \squash ní -- váš těm, kdo mi -- lu -- \unLeft \unSquash jí tvé \markup \accent jmé -- no. } }
     >>
     \layout {}
 }

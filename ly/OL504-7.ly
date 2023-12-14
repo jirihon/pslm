@@ -372,7 +372,7 @@ Ne -- za -- po -- mí -- nej -- te na Bo -- ží skut -- ky! } }
     <<
         \new Voice = "melody" { \cadenzaOn \key es \major \relative { as'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes bes8 c \bar "" c[( bes)] bes2 \cadenzaMeasure \bar "|" f\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes es8 f \bar "" as[( g)] g4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "5."
-\left Co \squash je ti, mo -- \unLeft \unSquash ře, že \markup \accent pr -- \star cháš, \left Jor -- \squash dá -- ne, že se o -- \unLeft \unSquash bra -- cíš \markup \accent na -- zpět, } }
+\left Co \squash je ti, mo -- \unLeft \unSquash ře, že \markup \accent pr -- \star cháš, \left Jor -- \squash dá -- ne, že se ob -- \unLeft \unSquash ra -- cíš \markup \accent na -- zpět, } }
     >>
     \layout {}
 }

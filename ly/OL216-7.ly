@@ -318,7 +318,7 @@ Hle -- dej -- te, u -- bo -- žá -- ci, Ho -- spo -- di -- na a po -- o -- kře
     <<
         \new Voice = "melody" { \cadenzaOn \key es \major \relative { c''\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes bes8 c \bar "" d bes bes bes4 r \cadenzaMeasure \bar "|" as\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes g8 as \bar "" bes[( g)] g4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "1."
-\left O -- \squash bra -- cím se mo -- dlit -- bou \unLeft \unSquash "k to" -- bě \markup \accent Ho -- spo -- di -- \star ne, \left "v čas" \squash mi -- \unLeft \unSquash lo -- sti, \markup \accent Bo -- že! } }
+\left Ob -- \squash ra -- cím se mo -- dlit -- bou \unLeft \unSquash "k to" -- bě \markup \accent Ho -- spo -- di -- \star ne, \left "v čas" \squash mi -- \unLeft \unSquash lo -- sti, \markup \accent Bo -- že! } }
     >>
     \layout {}
 }
@@ -336,7 +336,7 @@ Hle -- dej -- te, u -- bo -- žá -- ci, Ho -- spo -- di -- na a po -- o -- kře
     <<
         \new Voice = "melody" { \cadenzaOn \key es \major \relative { c''\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes bes8 c \bar "" d bes bes bes2 \cadenzaMeasure \bar "|" as\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes g8 as \bar "" bes g g g2 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "3."
-\left Vy -- \squash slyš mě, Ho -- spo -- di -- ne, tvá lá -- \unLeft \unSquash ska je \markup \accent dob -- ro -- ti -- \star vá, \left o -- \squash brať se ke mně se svým ne -- \unLeft \unSquash smír -- ným \markup \accent sli -- to -- vá -- ním. } }
+\left Vy -- \squash slyš mě, Ho -- spo -- di -- ne, tvá lá -- \unLeft \unSquash ska je \markup \accent dob -- ro -- ti -- \star vá, \left ob -- \squash rať se ke mně se svým ne -- \unLeft \unSquash smír -- ným \markup \accent sli -- to -- vá -- ním. } }
     >>
     \layout {}
 }

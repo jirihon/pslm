@@ -381,7 +381,7 @@ Tys, Pa -- ne, dob -- rý a sho -- ví -- va -- vý. } }
     <<
         \new Voice = "melody" { \cadenzaOn \key es \major \relative { r8 es' d8 c \bar "" g'[( f)] f4 r \cadenzaMeasure \bar "|" f\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes es8 f \bar "" g[( bes)] bes bes2 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "6."
-O -- brať se \markup \accent ke \star mně \left a \squash smi -- \unLeft \unSquash luj se \markup \accent na -- de mnou. } }
+Ob -- rať se \markup \accent ke \star mně \left a \squash smi -- \unLeft \unSquash luj se \markup \accent na -- de mnou. } }
     >>
     \layout {}
 }

@@ -345,7 +345,7 @@ Ne -- za -- po -- mí -- nej -- te na Bo -- ží skut -- ky! } }
     <<
         \new Voice = "melody" { \cadenzaOn \key es \major \relative { r8 as'8 as\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes bes8 c \bar "" c bes bes bes4 r \cadenzaMeasure \bar "|" f\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes es8 f \bar "" as g g4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "3."
-Když \left Ho -- \squash spo -- din hu -- bil Iz -- ra -- \unLeft \unSquash e -- le, \markup \accent hle -- da -- li \star ho, \left o -- \squash bra -- ce -- li se a shá -- ně -- \unLeft \unSquash li se \markup \accent po Bo -- hu. } }
+Když \left Ho -- \squash spo -- din hu -- bil Iz -- ra -- \unLeft \unSquash e -- le, \markup \accent hle -- da -- li \star ho, \left ob -- \squash ra -- ce -- li se a shá -- ně -- \unLeft \unSquash li se \markup \accent po Bo -- hu. } }
     >>
     \layout {}
 }

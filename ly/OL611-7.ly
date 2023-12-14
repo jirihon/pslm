@@ -354,7 +354,7 @@ Má mo -- dlit -- ba, Pa -- ne, ať je před te -- bou ja -- ko ka -- di -- dlo.
     <<
         \new Voice = "melody" { \cadenzaOn \key g \major \relative { c''\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes b8 a \bar "" a[( g)] g4 r \cadenzaMeasure \bar "|" g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes fis8 e \bar "" e[( d)] d4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "4."
-\left "K to" -- \squash bě, Ho -- spo -- di -- ne, Pa -- ne, se o -- bra -- ce -- \unLeft \unSquash jí mé \markup \accent o -- \star či, \left "k to" -- \squash bě se u -- tí -- kám, ne -- vy -- dá -- \unLeft \unSquash vej mě \markup \accent smr -- ti! } }
+\left "K to" -- \squash bě, Ho -- spo -- di -- ne, Pa -- ne, se ob -- ra -- ce -- \unLeft \unSquash jí mé \markup \accent o -- \star či, \left "k to" -- \squash bě se u -- tí -- kám, ne -- vy -- dá -- \unLeft \unSquash vej mě \markup \accent smr -- ti! } }
     >>
     \layout {}
 }

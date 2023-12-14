@@ -354,7 +354,7 @@ Na -- syť nás, Pa -- ne, svou sli -- tov -- no -- stí, a -- by -- chom se ra 
     <<
         \new Voice = "melody" { \cadenzaOn \key f \major \relative { bes'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes c8 g \bar "" bes[( a)] a4 r \cadenzaMeasure \bar "|" d,\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes e8 f \bar "" a g g g4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "4."
-\left O -- \squash brať se, Ho -- spo -- di -- \optionalBreath ne, jak dlou -- ho je -- ště \unLeft \unSquash bu -- deš \markup \accent če -- \star kat? \left Sli -- \squash tuj se nad \unLeft \unSquash svý -- mi \markup \accent slu -- žeb -- ní -- ky! } }
+\left Ob -- \squash rať se, Ho -- spo -- di -- \optionalBreath ne, jak dlou -- ho je -- ště \unLeft \unSquash bu -- deš \markup \accent če -- \star kat? \left Sli -- \squash tuj se nad \unLeft \unSquash svý -- mi \markup \accent slu -- žeb -- ní -- ky! } }
     >>
     \layout {}
 }
