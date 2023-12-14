@@ -309,7 +309,7 @@ optionalBreath = #(define-music-function (syllable)(string?)
     <<
         \new Voice = "melody" { \cadenzaOn \key f \major \relative { r8 a' f a c c c4 \cadenzaMeasure \bar "|" r8 d bes a g4 g \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
-Ať vej -- de Ho -- spo -- din, on je král slá -- vy! } }
+Ať ve -- jde Ho -- spo -- din, on je král slá -- vy! } }
     >>
     \layout {}
 }
@@ -336,7 +336,7 @@ Ať vej -- de Ho -- spo -- din, on je král slá -- vy! } }
     <<
         \new Voice = "melody" { \cadenzaOn \key f \major \relative { r8 a' f a c c c4 \cadenzaMeasure \bar "|" r8 d bes a g4 g \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
-Ať vej -- de Ho -- spo -- din, on je král slá -- vy! } }
+Ať ve -- jde Ho -- spo -- din, on je král slá -- vy! } }
     >>
     \layout {}
 }
@@ -363,7 +363,7 @@ Ať vej -- de Ho -- spo -- din, on je král slá -- vy! } }
     <<
         \new Voice = "melody" { \cadenzaOn \key f \major \relative { r8 a' f a c c c4 \cadenzaMeasure \bar "|" r8 d bes a g4 g \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
-Ať vej -- de Ho -- spo -- din, on je král slá -- vy! } }
+Ať ve -- jde Ho -- spo -- din, on je král slá -- vy! } }
     >>
     \layout {}
 }
@@ -390,7 +390,7 @@ Ten \left při -- \squash jme po -- žeh -- ná -- ní \unLeft \unSquash od Ho -
     <<
         \new Voice = "melody" { \cadenzaOn \key f \major \relative { r8 a' f a c c c4 \cadenzaMeasure \bar "|" r8 d bes a g4 g \cadenzaMeasure \bar "||" \break } \bar "|." }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
-Ať vej -- de Ho -- spo -- din, on je král slá -- vy! } }
+Ať ve -- jde Ho -- spo -- din, on je král slá -- vy! } }
     >>
     \layout {}
 }

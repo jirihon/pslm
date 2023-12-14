@@ -390,7 +390,7 @@ Dě -- kuj -- te Ho -- spo -- di -- nu, ne -- boť je dob -- rý, je -- ho mi --
     <<
         \new Voice = "melody" { \cadenzaOn \key c \major \relative { c''\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" b8[( g)] e e4 r \cadenzaMeasure \bar "|" a\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" g8 e c c4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "7."
-\left O -- \squash te -- vře -- te mně brá -- ny spra -- ve -- \unLeft \unSquash \markup \accent dl -- no -- \star sti, \left vej -- \squash du ji -- mi, a -- bych vzdal dí -- ky \unLeft \unSquash \markup \accent Ho -- spo -- di -- nu. } }
+\left O -- \squash te -- vře -- te mně brá -- ny spra -- ve -- \unLeft \unSquash \markup \accent dl -- no -- \star sti, \left ve -- \squash jdu ji -- mi, a -- bych vzdal dí -- ky \unLeft \unSquash \markup \accent Ho -- spo -- di -- nu. } }
     >>
     \layout {}
 }

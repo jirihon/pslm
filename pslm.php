@@ -732,6 +732,7 @@ function pslm_text_to_lyrics($text) {
         '#(č)er -- st#ui' => '\1erst --',
         '#(d)oj -- d#ui' => '\1o -- jd',
         '#(u)h -- n#ui' => '\1 -- hn',
+        '#(v)ej -- d#ui' => '\1e -- jd',
         
         '#\b[ksvz] [^\s]+#ui' => '"\0"', // join unsyllabic preposition to the next syllable
         '#[^\s]+ \+#ui' => '"\0"', // join + sign to the previous syllable
