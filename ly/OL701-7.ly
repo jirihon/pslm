@@ -352,9 +352,9 @@ Chvá -- lím tě, že jsem vzni -- kl tak po -- di -- vu -- hod -- ně. } }
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key f \major \relative { r8 c''8 c\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" c8 a a4 \cadenzaMeasure \bar "|" r8 bes8 bes\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" a8 g g4 r \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key f \major \relative { r8 c''8 c\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" c8 a a4 \cadenzaMeasure \bar "|" r8 bes8 bes\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \bar "" a8 g g4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "4."
-I \left kdy -- \squash bych vy -- stou -- pil na ne -- be, \unLeft \unSquash \markup \accent ty jsi \star tam, i \left kdy -- \squash bych u -- lehl "v pod" -- svě -- tí, i \unLeft \unSquash \markup \accent ta -- dy jsi. } }
+I \left kdy -- \squash bych vy -- stou -- pil na ne -- be, \unLeft \unSquash \markup \accent ty jsi \star tam, i \left kdy -- \squash bych u -- le -- hl "v pod" -- svě -- tí, i \unLeft \unSquash \markup \accent ta -- dy jsi. } }
     >>
     \layout {}
 }

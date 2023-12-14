@@ -52,10 +52,10 @@ t: * ve jménu mém zmohutní jeho síla.
 
 %% part: verse
 
-m: f'B e8 d a'_ g g4 r |
+m: f'B e8 d a'_ g g4 |
 t: Položím jeho ruku na moře
 
-m: c,8 g'B f8 g bes_ a a4 r ||
+m: r8 c,8 g'B f8 g bes_ a a4 r ||
 t: * a na řeky jeho pravici.“
 
 %% use: responsum

@@ -307,7 +307,7 @@ optionalBreath = #(define-music-function (syllable)(string?)
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key d \major \relative { r8 fis' g fis e a fis fis fis2 \cadenzaMeasure \bar "|" e8 b' b2 a4 \bar "" g8 a b cis a fis2 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key d \major \relative { r8 fis' g fis e a fis fis fis2 \cadenzaMeasure \bar "|" e8 b' b2 a4 \bar "" g8 a b cis a fis4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Až pro -- cit -- nu, Ho -- spo -- di -- ne, na -- sy -- tím se po -- hle -- dem na te -- be. } }
     >>
@@ -325,7 +325,7 @@ Slyš, \left Ho -- \squash spo -- di -- ne, spra -- ve -- \unLeft \unSquash dli 
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key d \major \relative { r8 fis' g fis e a fis fis fis2 \cadenzaMeasure \bar "|" e8 b' b2 a4 \bar "" g8 a b cis a fis2 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key d \major \relative { r8 fis' g fis e a fis fis fis2 \cadenzaMeasure \bar "|" e8 b' b2 a4 \bar "" g8 a b cis a fis4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Až pro -- cit -- nu, Ho -- spo -- di -- ne, na -- sy -- tím se po -- hle -- dem na te -- be. } }
     >>
@@ -352,7 +352,7 @@ Až pro -- cit -- nu, Ho -- spo -- di -- ne, na -- sy -- tím se po -- hle -- de
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key d \major \relative { r8 fis' g fis e a fis fis fis2 \cadenzaMeasure \bar "|" e8 b' b2 a4 \bar "" g8 a b cis a fis2 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key d \major \relative { r8 fis' g fis e a fis fis fis2 \cadenzaMeasure \bar "|" e8 b' b2 a4 \bar "" g8 a b cis a fis4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Až pro -- cit -- nu, Ho -- spo -- di -- ne, na -- sy -- tím se po -- hle -- dem na te -- be. } }
     >>
@@ -379,7 +379,7 @@ Až pro -- cit -- nu, Ho -- spo -- di -- ne, na -- sy -- tím se po -- hle -- de
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key d \major \relative { r8 fis' g fis e a fis fis fis2 \cadenzaMeasure \bar "|" e8 b' b2 a4 \bar "" g8 a b cis a fis2 \cadenzaMeasure \bar "||" \break } \bar "|." }
+        \new Voice = "melody" { \cadenzaOn \key d \major \relative { r8 fis' g fis e a fis fis fis2 \cadenzaMeasure \bar "|" e8 b' b2 a4 \bar "" g8 a b cis a fis4 r \cadenzaMeasure \bar "||" \break } \bar "|." }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Až pro -- cit -- nu, Ho -- spo -- di -- ne, na -- sy -- tím se po -- hle -- dem na te -- be. } }
     >>

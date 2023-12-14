@@ -370,9 +370,9 @@ Ho -- spo -- di -- no -- vy před -- pi -- sy jsou správ -- né, pů -- so -- b
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key g \major \relative { r8 c''8 c\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes d8 a \bar "" c[( b)] b4 r \cadenzaMeasure \bar "|" e,\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes fis8 g \bar "" b a a2 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key g \major \relative { c''\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes d8 a \bar "" c[( b)] b4 r \cadenzaMeasure \bar "|" e,\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes fis8 g \bar "" b a a2 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "4."
-Nechť \left se \squash ti lí -- bí slo -- va mých \breath "úst" i smý -- šle -- ní \unLeft \unSquash mé -- ho \markup \accent srd -- \star ce, \left Ho -- \squash spo -- di -- ne, má Ská -- lo, vy -- \unLeft \unSquash ku -- pi -- \markup \accent te -- li můj! } }
+\left Nechť \squash se ti lí -- bí slo -- va mých \breath "úst" i smý -- šle -- ní \unLeft \unSquash mé -- ho \markup \accent srd -- \star ce, \left Ho -- \squash spo -- di -- ne, má Ská -- lo, vy -- \unLeft \unSquash ku -- pi -- \markup \accent te -- li můj! } }
     >>
     \layout {}
 }

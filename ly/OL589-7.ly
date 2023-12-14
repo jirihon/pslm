@@ -406,9 +406,9 @@ Pán Bůh mu dá trůn je -- ho ot -- ce Da -- vi -- da. } }
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key es \major \relative { as'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes bes8 c \bar "" c[( bes)] bes4 r \cadenzaMeasure \bar "|" f\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes es8 f \bar "" as g g4 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key es \major \relative { as'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes bes8 c \bar "" c[( bes)] bes4 r \cadenzaMeasure \bar "|" f\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes es8 f \bar "" as g g4 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "8."
-\left Bu -- \squash dou -- li tvo -- ji sy -- no -- vé dbát \unLeft \unSquash na mou \markup \accent smlou -- \star vu, \left na \squash mé pří -- ka -- zy, kte -- \unLeft \unSquash rým je \markup \accent na -- u -- čím, } }
+\left Bu -- \squash dou-li tvo -- ji sy -- no -- vé dbát \unLeft \unSquash na mou \markup \accent smlou -- \star vu, \left na \squash mé pří -- ka -- zy, kte -- \unLeft \unSquash rým je \markup \accent na -- u -- čím, } }
     >>
     \layout {}
 }

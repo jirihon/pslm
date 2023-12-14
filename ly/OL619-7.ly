@@ -352,9 +352,9 @@ Jak mi -- lu -- ji tvůj zá -- kon, Ho -- spo -- di -- ne. } }
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key es \major \relative { as'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes bes8 c \bar "" c[( bes)] bes bes4 \cadenzaMeasure \bar "|" r8 f8 f\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes es8 f \bar "" as[( g)] g2 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key es \major \relative { as'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes bes8 c \bar "" c bes bes bes4 \cadenzaMeasure \bar "|" r8 f8 f\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes es8 f \bar "" as[( g)] g2 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "3."
-\left Kní -- \squash ža -- ta mě stí -- ha -- \unLeft \unSquash jí bez \markup \accent dů -- vo -- \star du, mé \left srd -- \squash ce však má ú -- \unLeft \unSquash ctu "k tvým" \markup \accent slo -- vům. } }
+\left Kní -- \squash ža -- ta mě stí -- \unLeft \unSquash ha -- jí \markup \accent bez dů -- vo -- \star du, mé \left srd -- \squash ce však má ú -- \unLeft \unSquash ctu "k tvým" \markup \accent slo -- vům. } }
     >>
     \layout {}
 }

@@ -307,7 +307,7 @@ optionalBreath = #(define-music-function (syllable)(string?)
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key d \major \relative { r8 fis' g fis e a fis fis fis2 \cadenzaMeasure \bar "|" e8 b' b2 a4 \bar "" g8 a b cis a fis2 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key d \major \relative { r8 fis' g fis e a fis fis fis2 \cadenzaMeasure \bar "|" e8 b' b2 a4 \bar "" g8 a b cis a fis4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Až pro -- cit -- nu, Ho -- spo -- di -- ne, na -- sy -- tím se po -- hle -- dem na te -- be. } }
     >>
@@ -325,7 +325,7 @@ Slyš, \left Ho -- \squash spo -- di -- ne, spra -- ve -- \unLeft \unSquash dli 
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key d \major \relative { r8 fis' g fis e a fis fis fis2 \cadenzaMeasure \bar "|" e8 b' b2 a4 \bar "" g8 a b cis a fis2 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key d \major \relative { r8 fis' g fis e a fis fis fis2 \cadenzaMeasure \bar "|" e8 b' b2 a4 \bar "" g8 a b cis a fis4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Až pro -- cit -- nu, Ho -- spo -- di -- ne, na -- sy -- tím se po -- hle -- dem na te -- be. } }
     >>
@@ -343,7 +343,7 @@ Mé \left kro -- \squash ky pev -- ně se -- tr -- va -- ly \unLeft \unSquash na
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key d \major \relative { g'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 b \bar "" b[( a)] a4 r \cadenzaMeasure \bar "|" e\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes d8 e \bar "" g[( fis)] fis4 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key d \major \relative { g'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 b \bar "" b[( a)] a4 r \cadenzaMeasure \bar "|" e\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes d8 e \bar "" g[( fis)] fis4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "3."
 \left Vo -- \squash lám "k to" -- bě, pro -- to -- že mě vy -- \unLeft \unSquash sly -- šíš, \markup \accent Bo -- \star že, \left po -- \squash přej mi slu -- chu, \unLeft \unSquash slyš mé \markup \accent slo -- vo! } }
     >>
@@ -352,7 +352,7 @@ Mé \left kro -- \squash ky pev -- ně se -- tr -- va -- ly \unLeft \unSquash na
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key d \major \relative { r8 fis' g fis e a fis fis fis2 \cadenzaMeasure \bar "|" e8 b' b2 a4 \bar "" g8 a b cis a fis2 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key d \major \relative { r8 fis' g fis e a fis fis fis2 \cadenzaMeasure \bar "|" e8 b' b2 a4 \bar "" g8 a b cis a fis4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Až pro -- cit -- nu, Ho -- spo -- di -- ne, na -- sy -- tím se po -- hle -- dem na te -- be. } }
     >>
@@ -379,7 +379,7 @@ Až pro -- cit -- nu, Ho -- spo -- di -- ne, na -- sy -- tím se po -- hle -- de
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key d \major \relative { r8 fis' g fis e a fis fis fis2 \cadenzaMeasure \bar "|" e8 b' b2 a4 \bar "" g8 a b cis a fis2 \cadenzaMeasure \bar "||" \break } \bar "|." }
+        \new Voice = "melody" { \cadenzaOn \key d \major \relative { r8 fis' g fis e a fis fis fis2 \cadenzaMeasure \bar "|" e8 b' b2 a4 \bar "" g8 a b cis a fis4 r \cadenzaMeasure \bar "||" \break } \bar "|." }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Až pro -- cit -- nu, Ho -- spo -- di -- ne, na -- sy -- tím se po -- hle -- dem na te -- be. } }
     >>

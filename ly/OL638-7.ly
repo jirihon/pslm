@@ -307,7 +307,7 @@ optionalBreath = #(define-music-function (syllable)(string?)
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key f \major \relative { f'8 f g f e d \bar "" g g g2 \cadenzaMeasure \bar "|" a8 c c c2 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key f \major \relative { f'8 f g f e d \bar "" g g g2 \cadenzaMeasure \bar "|" a8 c c c4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Veď mě ve své spra -- ve -- dl -- no -- sti, Ho -- spo -- di -- ne! } }
     >>
@@ -325,7 +325,7 @@ Ty \left nej -- \squash si Bůh, kte -- ré -- mu by se lí -- \unLeft \unSquash
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key f \major \relative { f'8 f g f e d \bar "" g g g2 \cadenzaMeasure \bar "|" a8 c c c2 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key f \major \relative { f'8 f g f e d \bar "" g g g2 \cadenzaMeasure \bar "|" a8 c c c4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Veď mě ve své spra -- ve -- dl -- no -- sti, Ho -- spo -- di -- ne! } }
     >>
@@ -352,7 +352,7 @@ Veď mě ve své spra -- ve -- dl -- no -- sti, Ho -- spo -- di -- ne! } }
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key f \major \relative { f'8 f g f e d \bar "" g g g2 \cadenzaMeasure \bar "|" a8 c c c2 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key f \major \relative { f'8 f g f e d \bar "" g g g2 \cadenzaMeasure \bar "|" a8 c c c4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Veď mě ve své spra -- ve -- dl -- no -- sti, Ho -- spo -- di -- ne! } }
     >>
@@ -379,7 +379,7 @@ Veď mě ve své spra -- ve -- dl -- no -- sti, Ho -- spo -- di -- ne! } }
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key f \major \relative { f'8 f g f e d \bar "" g g g2 \cadenzaMeasure \bar "|" a8 c c c2 \cadenzaMeasure \bar "||" \break } \bar "|." }
+        \new Voice = "melody" { \cadenzaOn \key f \major \relative { f'8 f g f e d \bar "" g g g2 \cadenzaMeasure \bar "|" a8 c c c4 r \cadenzaMeasure \bar "||" \break } \bar "|." }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Veď mě ve své spra -- ve -- dl -- no -- sti, Ho -- spo -- di -- ne! } }
     >>

@@ -354,7 +354,7 @@ Ho -- spo -- di -- ne, u -- kaž nám svou ja -- snou tvář! } }
     <<
         \new Voice = "melody" { \cadenzaOn \key bes \major \relative { es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes d8 es \bar "" f f f4 r \cadenzaMeasure \bar "|" c\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes bes8 c \bar "" d d d2 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "4."
-\left Pa -- \squash ma -- tuj -- te: Ho -- spo -- din vy -- zna -- me -- ná -- vá \unLeft \unSquash své -- ho \markup \accent sva -- té -- \star ho; \left Ho -- \squash spo -- din vy -- sly -- ší, když \unLeft \unSquash "k ně" -- mu \markup \accent za -- vo -- lám. } }
+\left Pa -- \squash ma -- tuj -- \optionalBreath te: Ho -- spo -- din vy -- zna -- me -- ná -- vá \unLeft \unSquash své -- ho \markup \accent sva -- té -- \star ho; \left Ho -- \squash spo -- din vy -- sly -- ší, když \unLeft \unSquash "k ně" -- mu \markup \accent za -- vo -- lám. } }
     >>
     \layout {}
 }
@@ -381,7 +381,7 @@ Ho -- spo -- di -- ne, u -- kaž nám svou ja -- snou tvář! } }
     <<
         \new Voice = "melody" { \cadenzaOn \key bes \major \relative { es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes d8 es \bar "" f f r4 \cadenzaMeasure \bar "|" c\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes bes8 c \bar "" d d d2 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "6."
-\left Mno -- \squash ho li -- dí ří -- ká: „Kdo nám u -- \unLeft \unSquash ká -- že \markup \accent dob -- \star ro?“ \left Ho -- \squash spo -- di -- ne, u -- kaž \unLeft \unSquash nám svou \markup \accent ja -- snou tvář! } }
+\left Mno -- \squash ho li -- dí ří -- \optionalBreath ká: „Kdo nám u -- \unLeft \unSquash ká -- že \markup \accent dob -- \star ro?“ \left Ho -- \squash spo -- di -- ne, u -- kaž \unLeft \unSquash nám svou \markup \accent ja -- snou tvář! } }
     >>
     \layout {}
 }

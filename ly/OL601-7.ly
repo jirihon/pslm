@@ -343,9 +343,9 @@ Pa -- ma -- tuj na nás, Ho -- spo -- di -- ne, pro ná -- klon -- nost "k své"
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key f \major \relative { bes'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 g \bar "" g f f f4 \cadenzaMeasure \bar "|" r8 f8 f\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes e8 d \bar "" d[( c)] c4 r \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key f \major \relative { bes'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes a8 g \bar "" g f f4 \cadenzaMeasure \bar "|" r8 f8 f\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes e8 d \bar "" d[( c)] c4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "3."
-\left Zho -- \squash to -- vi -- li si \unLeft \unSquash te -- le \markup \accent u Cho -- re -- \star bu a \left kla -- \squash ně -- li se mo -- dle u -- \unLeft \unSquash li -- té \markup \accent "z ko" -- vu. } }
+\left Zho -- \squash to -- vi -- li si te -- \unLeft \unSquash le u \markup \accent Cho -- re -- \star bu a \left kla -- \squash ně -- li se mo -- dle u -- \unLeft \unSquash li -- té \markup \accent "z ko" -- vu. } }
     >>
     \layout {}
 }

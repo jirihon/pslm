@@ -370,7 +370,7 @@ Má \left věr -- \squash nost a lá -- ska ho \unLeft \unSquash bu -- dou \mark
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key f \major \relative { f'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes e8 d \bar "" a' g g4 r \cadenzaMeasure \bar "|" c,8 g'\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 g \bar "" bes a a4 r \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key f \major \relative { f'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes e8 d \bar "" a' g g4 \cadenzaMeasure \bar "|" r8 c,8 g'\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes f8 g \bar "" bes a a4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "5."
 \left Po -- \squash lo -- žím je -- ho \unLeft \unSquash ru -- ku \markup \accent na mo -- \star ře a \left na \squash ře -- ky \unLeft \unSquash je -- ho \markup \accent pra -- vi -- ci.“ } }
     >>
