@@ -65,7 +65,7 @@ document.addEventListener("DOMContentLoaded", async function() {
         last_render_date = today;
         let week = [];
 
-        for (let i = 0; i <= 7; ++i) {
+        for (let i = 0; i <= 8; ++i) {
             const day_offset = i - today.getDay() + offset*7;
             if (day_offset == 0) {
                 week.push(today);
@@ -147,6 +147,8 @@ document.addEventListener("DOMContentLoaded", async function() {
         for (const [i, day] of week.entries()) {
             await get_day_psalms_and_lit_days(i, day, day_psalms, lit_days);
         }
+        // delete the extra last day added for finding vigils
+        day_psalms = day_psalms.slice(0, -1);
         
         for (let [i, psalms] of day_psalms.entries()) {
             
