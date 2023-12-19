@@ -3,6 +3,7 @@ vendor
 *.lock
 .~lock*
 upload.sh
+upload_staging.sh
 .vscode
 html/css/sizes.css
 html/css/OL[0-9]*.css
@@ -29,4 +30,5 @@ pslm/*.pdf
 pslm/*.ly
 pslm/*.svg
 tiny_example.*
-OL543_MWE.ly
+OL543_MWE*
+*.txt

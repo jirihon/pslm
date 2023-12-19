@@ -326,7 +326,7 @@ function pslm_midi($psalm) {
     $music = pslm_music_implode($music);
 
     // fold breves back into single half note
-    $music = str_replace(['\>', '\<', '\!', '\accent', '\cadenzaMeasure'], '', $music);
+    $music = str_replace(['\>', '\<', '\!', '\accent', '\cadenzaMeasure', '\squashNotes', '\unSquashNotes'], '', $music);
     $music = preg_replace('#\\\\breve\*1/16 \\\\hideNotes( \\\\breve\*1/16( \\\\bar "")?)+ \\\\unHideNotes#', '2', $music);
 
     $lily = sprintf('\version "2.22.1" \score { { %s } \midi {} }', $music);
@@ -626,11 +626,11 @@ function pslm_process_snippet($music, $text) {
             for ($i = 0; $i < count($text_tokens); ++$i) {
                 if ($text_tokens[$i][0] == PSLM_TOKEN_SYLLABLE) {
                     if ($k === $breve_text_start) {
-                        $text_tokens[$i][1] = sprintf('\left %s', $text_tokens[$i][1]);
+                        $text_tokens[$i][1] = sprintf('\leftText %s', $text_tokens[$i][1]);
                     } else if ($k === $breve_text_start + 1) {
-                        $text_tokens[$i][1] = sprintf('\squash %s', $text_tokens[$i][1]);
+                        $text_tokens[$i][1] = sprintf('\squashText %s', $text_tokens[$i][1]);
                     } else if ($k === $breve_text_end) {
-                        $text_tokens[$i][1] = sprintf('\unLeft \unSquash %s', $text_tokens[$i][1]);
+                        $text_tokens[$i][1] = sprintf('\unLeftText \unSquashText %s', $text_tokens[$i][1]);
                     }
                     ++$k;
                 }
@@ -641,7 +641,6 @@ function pslm_process_snippet($music, $text) {
         return $token[1];
     }, $text_tokens));
 
-    // $music = str_replace('_', '', $music);
     $music = preg_replace('#([^ ]*)_#', '\bar "" $1', $music);
 
     $n_notes_to_add = $n_text_syllables - $n_note_syllables;
@@ -651,11 +650,10 @@ function pslm_process_snippet($music, $text) {
         $extra_breves = pslm_extra_breves(intval($m[2]) - 1);
         $music = str_replace(
             $m[0],
-            sprintf('%s\breve*1/16 \hideNotes %s\unHideNotes', $m[1], $extra_breves),
+            sprintf('\squashNotes %s\breve*1/16 \hideNotes %s\unHideNotes \unSquashNotes', $m[1], $extra_breves),
             $music
         );
     }
-
     preg_match_all('#\\\\breve(?!\*\d+)#', $music, $m, PREG_SET_ORDER);
     if (count($m) > 1) {
         echo "ERROR: More than one automatic breve in a piece of music.\n";
@@ -664,25 +662,13 @@ function pslm_process_snippet($music, $text) {
         $extra_breves = pslm_extra_breves($n_notes_to_add);
         $music = preg_replace(
             '#([^\s]+)\\\\breve(?!\*\d+)#',
-            sprintf('\1\breve*1/16 \hideNotes %s\unHideNotes', $extra_breves),
+            sprintf('\squashNotes \1\breve*1/16 \hideNotes %s\unHideNotes \unSquashNotes', $extra_breves),
             $music
         );
     } elseif ($n_notes_to_add < 0) {
         $n_syllabels_to_add = -$n_notes_to_add;
         $text .= sprintf(' \repeat unfold %d { \skip 1 }', $n_syllabels_to_add);
     }
-    /*
-    if ($double_breve && preg_match('#\\\\unHideNotes +([abcdefgis]+)[,\']*8( +\1)+[24]?#', $music, $m)) {
-        $n_breves = count(preg_split('#\s+#', $m[0])) - 1;
-        $breve = '\breve*1/16';
-        $extra_breves = str_repeat(sprintf('%s \bar "" ', $breve), $n_breves - 1);
-        $music = str_replace(
-            $m[0],
-            sprintf('\unHideNotes %s%s \hideNotes %s\unHideNotes <>8', $m[1], $breve, $extra_breves),
-            $music
-        );
-    }
-    */
     $music = str_replace('\bar "||"', '\bar "||" \break', $music);
     return [$music, $text];
 }
