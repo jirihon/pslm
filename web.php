@@ -347,7 +347,13 @@ function pslm_render_about() {
 
     <p>Zdrojový kód: <a href="https://github.com/jirihon/pslm/">GitHub</a></p>
 
-    <p>Autoři: <a href="mailto:jiri.hon@gmail.com">Jiří Hon</a>, František Sovadina, Antonín Salzmann z farností <a href="https://www.farnostjaktar.cz/">Opava–Jaktař</a> a <a href="https://www.farnostopava.cz/">Opava</a></p>
+    <p>Tým Žaltář.cz:</p>
+    <ul>
+        <li><a href="mailto:jiri.hon@gmail.com">Jiří Hon</a> – programování, sazba (farnost <a target="_blank" rel="noopener noreferrer" href="https://www.farnostjaktar.cz/">Opava–Jaktař</a>)</li>
+        <li>František Sovadina – sazba (farnost <a target="_blank" rel="noopener noreferrer" href="https://www.farnostopava.cz/">Opava</a>)</li>
+        <li>Antonín Salzmann – sazba (farnost <a target="_blank" rel="noopener noreferrer" href="https://www.farnostjaktar.cz/">Opava–Jaktař</a>)</li>
+        <li>Vladimír Pavlík – korektury (farnost <a target="_blank" rel="noopener noreferrer" href="http://www.farnostvelkapolom.cz/">Velká Polom</a>)</li>
+    </ul>
     ';
     $html = pslm_html_page('O projektu', $html, '');
     file_put_contents("html/o-projektu.html", $html);
@@ -498,9 +504,9 @@ function pslm_render_head($title, $desc) {
     <?php else: ?>
         <title>Olejníkův žaltář</title>
     <?php endif ?>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-	<link rel="stylesheet" href="css/sizes.css?ver=<?= filemtime('html/css/sizes.css') ?>" media="all" />
-	<link rel="stylesheet" href="css/style.css?ver=<?= filemtime('html/css/style.css') ?>" media="all" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="css/sizes.css?ver=<?= filemtime('html/css/sizes.css') ?>" media="all">
+	<link rel="stylesheet" href="css/style.css?ver=<?= filemtime('html/css/style.css') ?>" media="all">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?ver=<?= filemtime('html/apple-touch-icon.png') ?>">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?ver=<?= filemtime('html/favicon-32x32.png') ?>">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?ver=<?= filemtime('html/favicon-16x16.png') ?>">
@@ -508,7 +514,7 @@ function pslm_render_head($title, $desc) {
     <link rel="mask-icon" href="/safari-pinned-tab.svg?ver=<?= filemtime('html/safari-pinned-tab.svg') ?>" color="#be1622">
     <meta name="msapplication-TileColor" content="#be1622">
     <!--<meta name="theme-color" content="#ffffff">-->
-    <meta name="description" content="<?= $desc ?>" />
+    <meta name="description" content="<?= $desc ?>">
     <?php
 }
 
