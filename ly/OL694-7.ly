@@ -323,7 +323,7 @@ optionalBreath = #(define-music-function (syllable)(string?)
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key c \major \relative { c'8 c d e f d4. \bar "" e4 g a8 a~ a4 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key c \major \relative { c'8 c d e f d4. \bar "" e4 g a8 a~ a2 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Sví -- til -- nou mým no -- hám je tvé slo -- vo. } }
     >>
@@ -341,7 +341,7 @@ Sví -- til -- nou mým no -- hám je tvé slo -- vo. } }
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key c \major \relative { c'8 c d e f d4. \bar "" e4 g a8 a~ a4 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key c \major \relative { c'8 c d e f d4. \bar "" e4 g a8 a~ a2 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Sví -- til -- nou mým no -- hám je tvé slo -- vo. } }
     >>
@@ -359,7 +359,7 @@ Sví -- til -- nou mým no -- hám je tvé slo -- vo. } }
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key c \major \relative { c'8 c d e f d4. \bar "" e4 g a8 a~ a4 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key c \major \relative { c'8 c d e f d4. \bar "" e4 g a8 a~ a2 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Sví -- til -- nou mým no -- hám je tvé slo -- vo. } }
     >>
@@ -377,7 +377,7 @@ Sví -- til -- nou mým no -- hám je tvé slo -- vo. } }
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key c \major \relative { c'8 c d e f d4. \bar "" e4 g a8 a~ a4 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key c \major \relative { c'8 c d e f d4. \bar "" e4 g a8 a~ a2 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Sví -- til -- nou mým no -- hám je tvé slo -- vo. } }
     >>
@@ -395,7 +395,7 @@ Sví -- til -- nou mým no -- hám je tvé slo -- vo. } }
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key c \major \relative { c'8 c d e f d4. \bar "" e4 g a8 a~ a4 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key c \major \relative { c'8 c d e f d4. \bar "" e4 g a8 a~ a2 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Sví -- til -- nou mým no -- hám je tvé slo -- vo. } }
     >>
@@ -413,7 +413,7 @@ Sví -- til -- nou mým no -- hám je tvé slo -- vo. } }
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key c \major \relative { c'8 c d e f d4. \bar "" e4 g a8 a~ a4 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key c \major \relative { c'8 c d e f d4. \bar "" e4 g a8 a~ a2 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Sví -- til -- nou mým no -- hám je tvé slo -- vo. } }
     >>
@@ -422,16 +422,16 @@ Sví -- til -- nou mým no -- hám je tvé slo -- vo. } }
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key c \major \relative { \squashNotes a'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes g8 a \bar "" b[( g)] g4 r \cadenzaMeasure \bar "|" \squashNotes f\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes e8 f \bar "" g[( e)] e4 r \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key c \major \relative { \squashNotes a'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes g8 a \bar "" b g g4 r \cadenzaMeasure \bar "|" \squashNotes f\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes e8 f \bar "" g[( e)] e4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "6."
-\leftText Ne -- \squashText ná -- vi -- dím ne -- pra -- vost a pro -- \unLeftText \unSquashText ti -- ví \markup \accent se \star mi, \leftText mi -- \squashText lu -- ji \unLeftText \unSquashText však tvůj \markup \accent zá -- kon. } }
+\leftText Ne -- \squashText ná -- vi -- dím ne -- pra -- vost a \unLeftText \unSquashText pro -- ti -- \markup \accent ví se \star mi, \leftText mi -- \squashText lu -- ji \unLeftText \unSquashText však tvůj \markup \accent zá -- kon. } }
     >>
     \layout {}
 }
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key c \major \relative { c'8 c d e f d4. \bar "" e4 g a8 a~ a4 \cadenzaMeasure \bar "||" \break } \bar "|." }
+        \new Voice = "melody" { \cadenzaOn \key c \major \relative { c'8 c d e f d4. \bar "" e4 g a8 a~ a2 \cadenzaMeasure \bar "||" \break } \bar "|." }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Sví -- til -- nou mým no -- hám je tvé slo -- vo. } }
     >>

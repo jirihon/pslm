@@ -341,7 +341,7 @@ Bůh je má \markup \accent spá -- \star sa! Bez \leftText o -- \squashText ba 
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key bes \major \relative { \squashNotes es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes f8 c \bar "" d4 d r \cadenzaMeasure \bar "|" r8 g a8 a \bar "" f4 f2 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key bes \major \relative { \squashNotes es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes f8 c \bar "" d4 d \cadenzaMeasure \bar "|" r8 g a8 a \bar "" f4 f2 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "2."
 \leftText Ho -- \squashText spo -- din je má sí -- la \unLeftText \unSquashText a má \markup \accent chvá -- \star la, stal se mou \markup \accent spá -- sou. } }
     >>
@@ -350,7 +350,7 @@ Bůh je má \markup \accent spá -- \star sa! Bez \leftText o -- \squashText ba 
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key bes \major \relative { \squashNotes es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes f8 c \bar "" d d d2 \cadenzaMeasure \bar "|" r8 g a a \bar "" f4 f r \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key bes \major \relative { \squashNotes es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes f8 c \bar "" d d d4 \cadenzaMeasure \bar "|" r8 g a a \bar "" f4 f r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "3."
 \leftText Bu -- \squashText de -- te vá -- žit \unLeftText \unSquashText vo -- du \markup \accent "s ra" -- do -- \star stí "z pra" -- me -- nů \markup \accent spá -- sy. } }
     >>

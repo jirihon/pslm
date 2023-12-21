@@ -386,9 +386,9 @@ optionalBreath = #(define-music-function (syllable)(string?)
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key d \major \relative { r8 g'8 \squashNotes g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes \bar "" fis8[( g a)] a4 \cadenzaMeasure \bar "|" r8 e8 \squashNotes e\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes \bar "" d8 e fis fis4 r \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key d \major \relative { \squashNotes g'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes \bar "" fis8[( g a)] a4 \cadenzaMeasure \bar "|" r8 e8 \squashNotes e\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes \bar "" d8 e fis fis4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "5."
-Vždyť \leftText tys \squashText má na -- dě -- je, \unLeftText \unSquashText \markup \accent Pa -- \star ne, má \leftText dů -- \squashText vě -- ra od mé -- ho mlá -- dí, \unLeftText \unSquashText \markup \accent Ho -- spo -- di -- ne! } }
+\leftText Vždyť \squashText tys má na -- dě -- je, \unLeftText \unSquashText \markup \accent Pa -- \star ne, má \leftText dů -- \squashText vě -- ra od mé -- ho mlá -- dí, \unLeftText \unSquashText \markup \accent Ho -- spo -- di -- ne! } }
     >>
     \layout {}
 }

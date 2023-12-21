@@ -352,7 +352,7 @@ Ty, Ho -- spo -- di -- ne, jsi za -- chrá -- nil mou du -- ši, a -- by ne -- z
     <<
         \new Voice = "melody" { \cadenzaOn \key g \major \relative { \squashNotes c''\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes b8 a \bar "" a[( g)] g2 \cadenzaMeasure \bar "|" \squashNotes g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes fis8 e \bar "" e[( d)] d4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "2."
-\leftText Ře -- \squashText kl \optionalBreath jsem: „Ne -- mám už vi -- dět Ho -- spo -- di -- na \unLeftText \unSquashText "v ze" -- mi \markup \accent ži -- \star vých, \leftText ne -- \squashText mám už hle -- dět na ni -- ko -- ho me -- zi o -- by -- va -- \unLeftText \unSquashText te -- li \markup \accent svě -- ta. } }
+\leftText Ře -- \squashText kl jsem: „Ne -- mám už vi -- dět Ho -- spo -- di -- na \unLeftText \unSquashText "v ze" -- mi \markup \accent ži -- \star vých, \leftText ne -- \squashText mám už hle -- dět na ni -- ko -- ho me -- zi o -- by -- va -- \unLeftText \unSquashText te -- li \markup \accent svě -- ta. } }
     >>
     \layout {}
 }
