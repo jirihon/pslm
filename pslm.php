@@ -9,6 +9,8 @@ define('PSLM_MAX_WIDTH', 732);
 
 require_once dirname(__FILE__).'/vendor/autoload.php';
 
+// regex to fix breves on halfbeats: (m:\s+[^r\s]+8\s+)([^r\s']+)('?)B -> $1$2$3 / $2B
+
 $i = 0;
 define('PSLM_TOKEN_SYLLABLE', $i++);
 define('PSLM_TOKEN_HYPHEN', $i++);
