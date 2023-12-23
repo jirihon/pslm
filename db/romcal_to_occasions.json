@@ -183,6 +183,17 @@
         "Narození Páně, za svítání (v noci)",
         "Narození Páně, ve dne"
     ],
+    "holy_family|A": [
+        "Svaté rodiny A(BC) (pokud se čte čtení z Sir 3,3-17)"
+    ],
+    "holy_family|B": [
+        "Svaté rodiny A(BC) (pokud se čte čtení z Sir 3,3-17)",
+        "Svaté rodiny B (pokud se čte čtení z Gn 15,1-6)"
+    ],
+    "holy_family|C": [
+        "Svaté rodiny A(BC) (pokud se čte čtení z Sir 3,3-17)",
+        "Svaté rodiny C (pokud se čte čtení z 1 Sam 1,20-28)"
+    ],
     "ordinary_time_33_sunday|A": [
         "33. neděle v mezidobí A"
     ],
@@ -292,9 +303,11 @@
         "Křtu Páně A(BC) (pokud se čte čtení z Iz 42,1-7)"
     ],
     "baptism_of_the_lord|B": [
+        "Křtu Páně A(BC) (pokud se čte čtení z Iz 42,1-7)",
         "Křtu Páně B (pokud se čte čtení z Iz 55,1-11)"
     ],
     "baptism_of_the_lord|C": [
+        "Křtu Páně A(BC) (pokud se čte čtení z Iz 42,1-7)",
         "Křtu Páně C (pokud se čte čtení z Iz 40,1-11)"
     ],
     "most_sacred_heart_of_jesus|B": [

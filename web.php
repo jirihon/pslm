@@ -197,10 +197,11 @@ function pslm_occasions_to_romcal() {
         /** @var array $cycles */
         foreach ($cycles as $cycle) {
             $key = "$id|$cycle";
-            if (isset($to_occassion[$key])) {
-                echo "ERROR: $key already set\n";
+            if (isset($to_occasions[$key])) {
+                $to_occasions[$key][] = $occasion;
+            } else {
+                $to_occasions[$key] = [$occasion];
             }
-            $to_occasions[$key] = [$occasion];
         }
     }
     file_put_contents('db/romcal_to_occasions.json', json_encode($to_occasions, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));

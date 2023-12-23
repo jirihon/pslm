@@ -14,7 +14,7 @@
   'Povýšení svatého kříže' => 'exaltation_of_the_holy_cross',
   'Velký pátek' => 'good_friday',
   'Svaté rodiny Ježíše, Marie a Josefa' => 'holy_family',
-  'Svaté Rodiny' => 'holy_family',
+  'Svaté rodiny' => 'holy_family',
   'Bílá sobota/Velikonoční vigilie' => 'holy_saturday',
   'Zelený čtvrtek' => 'holy_thursday',
   'Panny Marie, počaté bez poskvrny prvotního hříchu' => 'immaculate_conception_of_mary',
