@@ -128,7 +128,7 @@ document.addEventListener("DOMContentLoaded", async function() {
                 }
             }
             day_psalms[i] = [];
-            add_psalms(0, `${day.getDate()}/${day.getMonth()+1}`, i);
+            add_psalms(lit_events.length, `${day.getDate()}/${day.getMonth()+1}`, i);
 
             for (const [rank, event] of lit_events.entries()) {
                 const key = event.key;
