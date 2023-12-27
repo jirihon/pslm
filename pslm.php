@@ -184,7 +184,7 @@ function pslm_engrave($id, $svg_d) {
     file_put_contents("sh/$id.sh", '');
 
     $psalm = file_get_contents($pslm_f);
-    $psalm = pslm_parse_psalm($psalm);
+    $psalm = pslm_parse_psalm($psalm, $id);
     $skipped = false;
 
     foreach (PSLM_SVG_SIZES as $size) {
@@ -416,7 +416,7 @@ function pslm_lilypond($psalm, $size, $multiscore = true) {
 }
 
 
-function pslm_parse_psalm($psalm) {
+function pslm_parse_psalm($psalm, $id) {
     $lines = explode("\n", $psalm);
     
     $lines[] = 'm:';
@@ -457,7 +457,7 @@ function pslm_parse_psalm($psalm) {
                 $text = implode(' ', $text);
                 $original_music = $music;
                 $original_text = $text;
-                list($music, $text) = pslm_process_snippet($music, $text);
+                list($music, $text) = pslm_process_snippet($music, $text, $id);
                 
                 if (!empty($part)) {
                     $psalm['music'][$part][] = $music;
@@ -545,7 +545,7 @@ function pslm_extra_breves($n) {
     }
 }
 
-function pslm_process_snippet($music, $text) {
+function pslm_process_snippet($music, $text, $id) {
     $music_tokens = pslm_parse_music($music);
 
     $note_syllables = pslm_note_syllables($music_tokens);
@@ -619,7 +619,7 @@ function pslm_process_snippet($music, $text) {
             $breve_text_end = $breve_text_start + $breve_len;
         }
         if ($breve_text_end - $breve_text_start < 2) {
-            echo "WARNING: less than two syllables on a breve\n";
+            echo "WARNING: less than two syllables on a breve in psalm $id\n";
             echo implode(' ', array_map(function($token) {
                 return $token[1];
             }, $text_tokens));
