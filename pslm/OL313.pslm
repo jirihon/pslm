@@ -19,7 +19,7 @@ t: Na věky chci zpívat o Hospodinových milostech.
 m: f'B e8 d a'_( g) g4 r |
 t: Řekl jsi totiž: (+) „Na věky je založena milost.“
 
-m: c,8 g'B f8 g bes_( a) a4 r ||
+m: c,8 g' / gB f8 g bes_( a) a4 r ||
 t: * Na nebi jsi upevnil svou věrnost.
 
 %% part: verse
@@ -27,7 +27,7 @@ t: * Na nebi jsi upevnil svou věrnost.
 m: f'B e8 d a'_ g g g2 |
 t: „Smlouvu jsem sjednal se svým vyvoleným,
 
-m: c,8 g'B f8 g bes_ a a a4 r ||
+m: c,8 g' / gB f8 g bes_ a a a4 r ||
 t: * přísahal jsem Davidovi, svému služebníku.“
 
 %% use: responsum
@@ -37,7 +37,7 @@ t: * přísahal jsem Davidovi, svému služebníku.“
 m: f'B e8 d a'_ g g g4 r |
 t: Šťastný je lid, který dovede oslavovat,
 
-m: c,8 g'B f8 g bes_( a) a4 r ||
+m: c,8 g' / gB f8 g bes_( a) a4 r ||
 t: * chodí, Hospodine, v záři tvé tváře.
 
 %% part: verse
@@ -55,7 +55,7 @@ t: * a honosí se tvou spravedlností.
 m: f'B e8 d a'_ g g g4 r |
 t: „Nalezl jsem Davida, svého služebníka,
 
-m: c,8 g'B f8 g bes_ a a4 r ||
+m: c,8 g' / gB f8 g bes_ a a4 r ||
 t: * pomazal jsem ho svým svatým olejem,
 
 %% part: verse
@@ -63,7 +63,7 @@ t: * pomazal jsem ho svým svatým olejem,
 m: f'B e8 d a'_( g) g4 r |
 t: pevně ho drží má ruka
 
-m: c,8 g'B f8 g bes_ a a a4 r ||
+m: c,8 g' / g f8 g bes_ a a a4 r ||
 t: * i mé rámě ho posiluje.
 
 %% use: responsum
@@ -73,7 +73,7 @@ t: * i mé rámě ho posiluje.
 m: r8 f'8 fB e8 d a'_ g g4 r |
 t: Má věrnost a láska ho budou provázet,
 
-m: c,8 g'B f8 g bes_( a) a4 r ||
+m: c,8 g' / gB f8 g bes_( a) a4 r ||
 t: * ve jménu mém zmohutní jeho síla.
 
 %% part: verse
@@ -81,7 +81,7 @@ t: * ve jménu mém zmohutní jeho síla.
 m: f'B e8 d a'_( g) g4 r |
 t: On mě bude vzývat: Ty jsi můj otec,
 
-m: c,8 g'B f8 g bes_( a) a4 r ||
+m: c,8 g' / gB f8 g bes_( a) a4 r ||
 t: * můj Bůh a skála mé spásy.“
 
 %% use: responsum

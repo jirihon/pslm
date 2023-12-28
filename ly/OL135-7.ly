@@ -91,7 +91,7 @@ squashNotes = {
     #(lambda (grob)
        (let ((pos (ly:grob-property grob 'staff-position)))
          (begin
-           (if (< pos -7) (display "ERROR: Lower brevis then expected\n") (display "OK: Expected brevis position\n"))
+           (if (< pos -7) (display "ERROR: Lower brevis then expected\n") (display ""))
            (if (<= pos -6) ly:text-interface::print ly:note-head::print))))
 }
 unSquashNotes = {
@@ -332,9 +332,9 @@ Ho -- spo -- din kra -- lu -- je, o -- děl se ve -- leb -- no -- stí. } }
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key bes \major \relative { \squashNotes es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes f8 c \bar "" es d d d2 \cadenzaMeasure \bar "|" c8 \squashNotes g'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes a8 g \bar "" g[( f)] f2 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key bes \major \relative { \squashNotes es'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes f8 c \bar "" es d d d2 \cadenzaMeasure \bar "|" c8 g' \bar "" \squashNotes g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes a8 g \bar "" g[( f)] f2 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "1."
-\leftText Ho -- \squashText spo -- din kra -- lu -- je, o -- \unLeftText \unSquashText děl se \markup \accent ve -- leb -- no -- \star stí, o -- \leftText děl \squashText se Ho -- spo -- din, o -- pá -- \unLeftText \unSquashText sal se \markup \accent mo -- cí. } }
+\leftText Ho -- \squashText spo -- din kra -- lu -- je, o -- \unLeftText \unSquashText děl se \markup \accent ve -- leb -- no -- \star stí, o -- děl \leftText se \squashText Ho -- spo -- din, o -- pá -- \unLeftText \unSquashText sal se \markup \accent mo -- cí. } }
     >>
     \layout {}
 }
@@ -350,9 +350,9 @@ Ho -- spo -- din kra -- lu -- je, o -- děl se ve -- leb -- no -- stí. } }
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key bes \major \relative { r8 es'8 \squashNotes es\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes f8 c \bar "" es d d2 \cadenzaMeasure \bar "|" c8 \squashNotes g'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes a8 g \bar "" g f f f4 r \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key bes \major \relative { r8 es'8 \squashNotes es\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes f8 c \bar "" es d d2 \cadenzaMeasure \bar "|" c8 g' \bar "" \squashNotes g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes a8 g \bar "" g f f f4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "2."
-Dal \leftText svě -- \squashText tu zá -- klad, že \unLeftText \unSquashText ne -- za -- \markup \accent ko -- lí -- \star sá. Pev -- \leftText ný \squashText je trůn tvůj od pra -- dáv -- \unLeftText \unSquashText na, jsi \markup \accent od věč -- no -- sti. } }
+Dal \leftText svě -- \squashText tu zá -- klad, že \unLeftText \unSquashText ne -- za -- \markup \accent ko -- lí -- \star sá. Pev -- ný \leftText je \squashText trůn tvůj od pra -- dáv -- \unLeftText \unSquashText na, jsi \markup \accent od věč -- no -- sti. } }
     >>
     \layout {}
 }
@@ -368,9 +368,9 @@ Ho -- spo -- din kra -- lu -- je, o -- děl se ve -- leb -- no -- stí. } }
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key bes \major \relative { r8 es'8 \squashNotes es\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes f8 c \bar "" es d d d2 \cadenzaMeasure \bar "|" c8 \squashNotes g'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes a8 g \bar "" g[( f)] f4 r \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key bes \major \relative { r8 es'8 \squashNotes es\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes f8 c \bar "" es d d d2 \cadenzaMeasure \bar "|" c8 g' \bar "" \squashNotes g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes a8 g \bar "" g[( f)] f4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "3."
-Tvé \leftText vý -- \squashText ro -- ky jsou \unLeftText \unSquashText nej -- výš \markup \accent spo -- leh -- li -- \star vé, tvé -- \leftText mu \squashText do -- mu pří -- slu -- ší sva -- tost, Ho -- spo -- di -- ne, na \unLeftText \unSquashText věč -- né \markup \accent ča -- sy. } }
+Tvé \leftText vý -- \squashText ro -- ky jsou \unLeftText \unSquashText nej -- výš \markup \accent spo -- leh -- li -- \star vé, tvé -- mu \leftText do -- \squashText mu pří -- slu -- ší sva -- tost, Ho -- spo -- di -- ne, na \unLeftText \unSquashText věč -- né \markup \accent ča -- sy. } }
     >>
     \layout {}
 }

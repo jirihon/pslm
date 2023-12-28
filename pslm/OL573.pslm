@@ -12,7 +12,7 @@ m: \key bes \major
 
 %% part: verse
 
-m: f'8 besB a8 bes / c( bes) / a g / g_( f) f4 ||
+m: f'8 bes / bes a8 bes / c( bes) / a g / g_( f) f4 ||
 t: Hory a kopce, velebte Pána,
 
 %% part: responsum
@@ -22,7 +22,7 @@ t: chvalte a oslavujte ho na věky.
 
 %% part: verse
 
-m: f'8 besB a8 bes / c( bes) / a( g) / g_( f) f4 ||
+m: f'8 bes / besB a8 bes / c( bes) / a( g) / g_( f) f4 ||
 t: Vše, co na zemi roste, veleb Pána,
 
 %% use: responsum
@@ -36,28 +36,28 @@ t: Prameny, velebte Pána,
 
 %% part: verse
 
-m: f'8 besB a8 bes / c( bes) / a g / g_( f) f4 ||
+m: f'8 bes / bes a8 bes / c( bes) / a g / g_( f) f4 ||
 t: Moře a řeky, velebte Pána,
 
 %% use: responsum
 
 %% part: verse
 
-m: f'8 besB a8 bes / c( bes) / a g / g_( f) f4 ||
+m: f'8 bes / besB a8 bes / c( bes) / a g / g_( f) f4 ||
 t: Velké i malé ryby, které plují ve vodě, velebte Pána,
 
 %% use: responsum
 
 %% part: verse
 
-m: f'8 besB a8 bes / c( bes) / a g / g_( f) f4 ||
+m: f'8 bes / besB a8 bes / c( bes) / a g / g_( f) f4 ||
 t: Všichni nebeští ptáci, velebte Pána,
 
 %% use: responsum
 
 %% part: verse
 
-m: f'8 besB a8 bes / c( bes) / a g / g_( f) f4 ||
+m: f'8 bes / besB a8 bes / c( bes) / a g / g_( f) f4 ||
 t: Všechna zvířata divoká i krotká, velebte Pána,
 
 %% use: responsum

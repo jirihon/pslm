@@ -12,7 +12,7 @@ m: \key bes \major
 
 %% part: verse
 
-m: f'8 besB a8 bes / c( bes) / a g / g_( f) f4 ||
+m: f'8 bes / besB a8 bes / c( bes) / a g / g_( f) f4 ||
 t: Všechna díla Páně, velebte Pána,
 
 %% part: responsum
@@ -22,7 +22,7 @@ t: chvalte a oslavujte ho na věky.
 
 %% part: verse
 
-m: f'8 besB a8 bes / c( bes) / a g / g_( f) f4 ||
+m: f'8 bes / bes a8 bes / c( bes) / a g / g_( f) f4 ||
 t: Andělé Páně, velebte Pána,
 
 %% use: responsum
@@ -36,14 +36,14 @@ t: Nebesa, velebte Pána,
 
 %% part: verse
 
-m: f'8 besB a8 bes / c( bes) / a g / g_( f) f4 ||
+m: f'8 bes / besB a8 bes / c( bes) / a g / g_( f) f4 ||
 t: Všechny vody nad nebem, velebte Pána,
 
 %% use: responsum
 
 %% part: verse
 
-m: f'8 besB a8 bes / c( bes) / a g / g_( f) f4 ||
+m: f'8 bes / besB a8 bes / c( bes) / a g / g_( f) f4 ||
 t: Všechny mocnosti Páně, velebte Pána,
 
 %% use: responsum

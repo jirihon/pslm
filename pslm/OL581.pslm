@@ -19,7 +19,7 @@ t: Na věky chci zpívat o Hospodinových milostech.
 m: f'B e8 d a'_( g) g4 r |
 t: Kdysi ve vidění jsi mluvil ke svým zbožným a řekls:
 
-m: c,8 g'B f8 g bes_( a) a4 r ||
+m: c,8 g' / gB f8 g bes_( a) a4 r ||
 t: * „Jinochu jsem dal přednost před bojovníkem, + povýšil jsem vyvoleného z lidu.
 
 %% use: responsum
@@ -29,7 +29,7 @@ t: * „Jinochu jsem dal přednost před bojovníkem, + povýšil jsem vyvolené
 m: f'B e8 d a'_ g g g4 r |
 t: Nalezl jsem Davida, svého služebníka,
 
-m: c,8 g'B f8 g bes_ a a4 r ||
+m: c,8 g' / gB f8 g bes_ a a4 r ||
 t: * pomazal jsem ho svým svatým olejem,
 
 %% part: verse
@@ -37,7 +37,7 @@ t: * pomazal jsem ho svým svatým olejem,
 m: f'B e8 d a'_( g) g4 r |
 t: pevně ho drží má ruka
 
-m: c,8 g'B f8 g bes_ a a a4 r ||
+m: c,8 g' / g f8 g bes_ a a a4 r ||
 t: * i mé rámě ho posiluje.
 
 %% use: responsum
@@ -47,7 +47,7 @@ t: * i mé rámě ho posiluje.
 m: f'B e8 d a'_( g) g4 r |
 t: On mě bude vzývat: Ty jsi můj otec,
 
-m: c,8 g'B f8 g bes_( a) a4 r ||
+m: c,8 g' / gB f8 g bes_( a) a4 r ||
 t: * můj Bůh a skála mé spásy.
 
 %% part: verse
@@ -55,7 +55,7 @@ t: * můj Bůh a skála mé spásy.
 m: f'B e8 d a'_( g) g4 r |
 t: Já ho pak ustanovím prvorozeným synem,
 
-m: c,8 g'B f8 g bes_( a) a4 r ||
+m: c,8 g' / gB f8 g bes_( a) a4 r ||
 t: * nejvyšším mezi králi země.“
 
 %% use: responsum

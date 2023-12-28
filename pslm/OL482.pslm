@@ -12,7 +12,7 @@ m: \key bes \major
 
 %% part: verse
 
-m: f'8 besB a8 bes / c bes / a( g) g_( f) f4 ||
+m: f'8 bes / besB a8 bes / c bes / a( g) g_( f) f4 ||
 t: Oslavujte Hospodina, neboť je dobrý,
 
 %% part: responsum
@@ -50,7 +50,7 @@ t: On vyvedl Izraele z jejich středu,
 
 %% part: verse
 
-m: f'8 besB a8 bes / c bes / a g g_ f f4 ||
+m: f'8 bes / bes a8 bes / c bes / a g g_ f f4 ||
 t: Mocnou rukou a napřaženým ramenem,
 
 %% use: responsum
