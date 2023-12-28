@@ -14,7 +14,7 @@ t: Toto je den, který připravil Pán, jásejme a radujme se z něho!
 
 %% part: verse
 
-m: e'8 a aB a8 b b_( fis) fis2 |
+m: e'8 a / aB a8 b b_( fis) fis2 |
 t: Oslavujte Hospodina, neboť je dobrý,
 
 m: aB a8 gis fis cis d_( e) e e4 r ||
@@ -32,7 +32,7 @@ t: * „Jeho milosrdenství trvá na věky.“
 
 %% part: verse
 
-m: e'8 a aB a8 b b_ fis fis4 r |
+m: e'8 a / aB a8 b b_ fis fis4 r |
 t: Hospodinova pravice mocně zasáhla,
 
 m: aB a8 gis fis cis d_( e) e e4 r ||
@@ -50,7 +50,7 @@ t: * a vypravovat o Hospodinových činech.
 
 %% part: verse
 
-m: e'8 a aB a8 b b_ fis fis4 r |
+m: e'8 a / aB a8 b b_ fis fis4 r |
 t: Kámen, který stavitelé zavrhli,
 
 m: a8 gis fis cis d_( e) e e2 ||
@@ -58,7 +58,7 @@ t: * stal se kvádrem nárožním.
 
 %% part: verse
 
-m: e'8 a aB a8 b b_( fis) fis4 r |
+m: e'8 a / aB a8 b b_( fis) fis4 r |
 t: Hospodinovým řízením se tak stalo,
 
 m: aB a8 gis fis cis d_( e) e2 ||
