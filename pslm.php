@@ -628,7 +628,11 @@ function pslm_process_snippet($music, $text, $id) {
             for ($i = 0; $i < count($text_tokens); ++$i) {
                 if ($text_tokens[$i][0] == PSLM_TOKEN_SYLLABLE) {
                     if ($k === $breve_text_start) {
-                        $text_tokens[$i][1] = sprintf('\leftText %s', $text_tokens[$i][1]);
+                        // clear possible \unLeftText from previous brevis 
+                        $text_tokens[$i][1] = str_replace('\unLeftText ', '', $text_tokens[$i][1], $count);
+                        if ($count === 0) {
+                            $text_tokens[$i][1] = sprintf('\leftText %s', $text_tokens[$i][1]);
+                        }
                     } else if ($k === $breve_text_start + 1) {
                         $text_tokens[$i][1] = sprintf('\squashText %s', $text_tokens[$i][1]);
                     } else if ($k === $breve_text_end) {
