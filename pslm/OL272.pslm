@@ -24,9 +24,9 @@
 
 m: \key f \major
 
-%% part: responsum_short
+%% part: responsum
 
-m: r8 f' e d g g4. | g4 f8 e a a a4 ||
+m: r8 f' e d g g4. | g4 f8 e a a a4 r ||
 t: Kdo sejí v slzách žnout budou s jásotem.
 
 %% part: verse
@@ -45,10 +45,7 @@ t: Tehdy naše ústa byla plná smíchu
 m: gB g8_ f f4 ||
 t: * a náš jazyk plný jásotu.
 
-%% part: responsum
-
-m: r8 f' e d g g4. | g4 f8 e a a a4 r ||
-t: Kdo sejí v slzách žnout budou s jásotem.
+%% use: responsum
 
 %% part: verse
 

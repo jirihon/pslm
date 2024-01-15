@@ -19,7 +19,7 @@ t: Na věky chci zpívat o Hospodinových milostech.
 m: f'B e8 d a'_ g g g4 r |
 t: Šťastný je lid, který dovede oslavovat,
 
-m: c,8 g'B f8 g bes_( a) a4 r ||
+m: c,8 g' / gB f8 g bes_( a) a4 r ||
 t: * chodí, Hospodine, v záři tvé tváře.
 
 %% part: verse
@@ -37,7 +37,7 @@ t: * a honosí se tvou spravedlností.
 m: f'B e8 d a'_( g) g4 r |
 t: Neboť ty jsi leskem jejich moci
 
-m: c,8 g'B f8 g bes_( a) a4 r ||
+m: c,8 g' / gB f8 g bes_( a) a4 r ||
 t: * a tvou přízní roste naše síla.
 
 %% part: verse
@@ -45,7 +45,7 @@ t: * a tvou přízní roste naše síla.
 m: f'B e8 d a'_ g g g4 r |
 t: Vždyť náš vladař náleží Hospodinu,
 
-m: c,8 g'B f8 g bes_ a a a4 r ||
+m: c,8 g' / g f8 g bes_ a a a4 r ||
 t: * náš král Svatému Izraele.
 
 %% use: responsum

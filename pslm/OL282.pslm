@@ -30,10 +30,7 @@ t: Blaze těm, kdo dbají na jeho přikázání,
 m: fB es8 f as_( g) g4 r ||
 t: * hledají ho celým srdcem.
 
-%% part: responsum_short
-
-m: bes'8 c bes as g4 f8 es / c4 d8 es / f es f g f4 ||
-t: Blaze těm, kdo kráčejí v zákoně Hospodinově.
+%% use: responsum
 
 %% part: verse
 
@@ -51,7 +48,7 @@ t: Se spravedlností jsi uložil svá přikázání,
 m: r8 f es8 f as_ g g g2 ||
 t: * s pevností svrchovanou.
 
-%% use: responsum_short
+%% use: responsum
 
 %% part: verse
 

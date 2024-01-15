@@ -30,10 +30,7 @@ t: Pomoz nám, Bože, náš spasiteli, (+) pro slávu svého jména,
 m: dB c8_( d e) e4 r ||
 t: * vysvoboď nás a odpusť nám hříchy pro své jméno.
 
-%% part: responsum_short
-
-m: e'8 d c f4. d8 e d / e g / a4 a / b8 b a g4 ||
-t: Nejednej s námi podle našich hříchů, Hospodine!
+%% use: responsum
 
 %% part: verse
 

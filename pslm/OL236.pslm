@@ -19,7 +19,7 @@ t: Vstanu a půjdu k svému Otci.
 m: bes'B c8 bes a_ g g2 |
 t: Smiluj se nade mnou, Bože, pro své milosrdenství,
 
-m: c,8 g'B f8 g bes_ a a4 r ||
+m: c,8 g' / gB f8 g bes_ a a4 r ||
 t: * pro své velké slitování zahlaď mou nepravost.
 
 %% part: verse
@@ -37,7 +37,7 @@ t: * a očisť mě od mého hříchu.
 m: bes'B c8 bes a_( g) g4 r |
 t: Stvoř mi čisté srdce, Bože!
 
-m: c,8 g'B f8 g bes_ a a4 r ||
+m: c,8 g' / gB f8 g bes_ a a4 r ||
 t: * Obnov ve mně ducha vytrvalosti.
 
 %% part: verse
@@ -55,15 +55,15 @@ t: * a neodnímej mi svého svatého ducha.
 m: bes'B c8 bes a_( g) g4 r |
 t: Otevři mé rty, Pane,
 
-m: c,8 g'B f8 g bes_( a) a4 r ||
+m: c,8 g' / gB f8 g bes_( a) a4 ||
 t: * aby má ústa zvěstovala tvou chválu.
 
 %% part: verse
 
-m: bes'B c8 bes a_ g g g4 r |
+m: r8 bes'8 besB c8 bes a_ g g g4 r |
 t: Mou obětí, Bože, je zkroušený duch,
 
-m: c,8 g'B f8 g bes_ a a a4 r ||
+m: c,8 g' / gB f8 g bes_ a a a4 r ||
 t: * zkroušeným a pokorným srdcem, Bože, nepohrdneš.
 
 %% use: responsum

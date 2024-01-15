@@ -62,10 +62,7 @@ t: Odvrať mé oči, ať nevidí marnost,
 m: asB g8_( f) f4 r ||
 t: * dej mi život na své cestě!
 
-%% part: responsum_short
-
-m: g'8 f es as g / f es f / g8. g16 g4 ||
-t: Nauč mě, Hospodine, svým příkazům!
+%% use: responsum
 
 %% part: verse
 

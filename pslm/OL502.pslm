@@ -48,10 +48,7 @@ t: Ptej se svého otce, a oznámí ti,
 m: gB fis8_ e e4 r ||
 t: * ptej se svých starců, a řeknou ti:
 
-%% part: responsum_short
-
-m: fis'8 fis fis e d / g e4 e8 / fis4( g) a8 a a4 ||
-t: Hospodinovým podílem je jeho lid.
+%% use: responsum
 
 %% part: verse
 

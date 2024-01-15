@@ -28,10 +28,7 @@ t: má duše po tobě žízní, (+) mé tělo prahne po tobě
 m: r8 f fB esB*3 g8_ g r4 ||
 t: * jak vyprahlá, žíznivá, bezvodá země.
 
-%% part: responsum_
-
-m: bes'4 g8 bes c bes g es4. d8 | c8 c d es g f f4 ||
-t: Má duše po tobě žízní, Hospodine, Bože můj!
+%% use: responsum
 
 %% part: verse
 

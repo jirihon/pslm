@@ -48,14 +48,11 @@ t: V něm se raduje naše srdce,
 m: gB a8 bes d_( c) c4 r ||
 t: * důvěřujeme v jeho svaté jméno.
 
-%% part: responsum_short
-
-m: c''8 d c bes a4 / bes8 c bes / a g / f c c4 ||
-t: Země je plná Hospodinovy milosti.
+%% use: responsum
 
 %% part: verse
 
-m: r8 d'8 dB e8 f a_ g g4 r |
+m: r8 d'8 dB e8 f a_ g g2 |
 t: Ať spočine na nás, Hospodine, tvé milosrdenství,
 
 m: gB a8 bes d_( c) c4 r ||

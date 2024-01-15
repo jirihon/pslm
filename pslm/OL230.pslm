@@ -16,7 +16,7 @@ t: Hospodine, na pomoc mi pospěš!
 
 %% part: verse
 
-m: f'8 c'B bes8 c d_ bes g g4 r |
+m: f'8 c' / c bes8 c d_ bes g g4 r |
 t: Pevně jsem doufal v Hospodina,
 
 m: fB es8 f bes_ g( es) es2 ||
@@ -26,7 +26,7 @@ t: * on se ke mně sklonil a vyslyšel mé volání.
 
 %% part: verse
 
-m: f'8 c'B bes8 c d_( bes g) g4 r |
+m: f'8 c' / cB bes8 c d_( bes g) g4 r |
 t: Vytáhl mě z podzemní jámy, (+) z bahnitého kalu,
 
 m: fB es8 f bes_( g es) es2 ||
@@ -36,7 +36,7 @@ t: * na skálu postavil mé nohy, (+) dodal síly mým krokům.
 
 %% part: verse
 
-m: f'8 c'B bes8 c d_( bes g) g2 |
+m: f'8 c' / cB bes8 c d_( bes g) g2 |
 t: Novou píseň vložil mi do úst,
 
 m: fB es8 f bes_( g es) es4 r ||
@@ -44,7 +44,7 @@ t: * chvalozpěv našemu Bohu.
 
 %% part: verse
 
-m: f'8 c'B bes8 c d_( bes g) g4 r |
+m: f'8 c' / cB bes8 c d_( bes g) g4 r |
 t: Mnozí to uvidí a nabudou úcty,
 
 m: fB es8 f bes_ g es es4 r ||
@@ -54,7 +54,7 @@ t: * budou doufat v Hospodina.
 
 %% part: verse
 
-m: f'8 c'B bes8 c d_( bes) g g2 |
+m: f'8 c' / cB bes8 c d_( bes) g g2 |
 t: Já jsem jen chudák a ubožák,
 
 m: fB es8 f bes_( g es) es2 ||
@@ -62,7 +62,7 @@ t: * ale Pán se o mě stará.
 
 %% part: verse
 
-m: f'8 c'B bes8 c d_ bes( g) g4 r |
+m: f'8 c' / cB bes8 c d_ bes( g) g4 r |
 t: Tys můj pomocník, můj zachránce:
 
 m: fB es8 f bes_( g es) es4 r ||

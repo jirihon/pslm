@@ -19,7 +19,7 @@ t: Bože, ve své dobrotě ses postaral o chudáka.
 m: as'B g8 as bes_( g es) es4 r |
 t: Ukaž, Bože, svou moc,
 
-m: cB d8 es f_ g f f4 ||
+m: cB d8 es f_ g f f2 ||
 t: * tu moc, Bože, kterou na nás vykonáváš!
 
 %% part: verse
@@ -47,6 +47,8 @@ t: Hle, ozývá se jeho hlas, hlas mocný:
 
 m: r8 c8 d8 es f_ g( f) f4 r ||
 t: * „Uznejte Boží moc!“
+
+%% use: responsum
 
 %% part: verse
 

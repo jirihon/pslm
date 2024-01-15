@@ -17,25 +17,25 @@ t: Plesejte Bohu, který nám pomáhá.
 
 %% part: verse
 
-m: f'8 c'B bes8 as g_ f f4 r |
+m: f'8 c' / c bes8 as g_ f f4 r |
 t: Nesmíš mít boha jiného,
 
-m: bes,8 f'B es8 f as_ g g4 r ||
+m: bes,8 f' / fB es8 f as_ g g4 r ||
 t: * nesmíš se klanět bohu cizímu!
 
 %% part: verse
 
-m: f'8 c'B bes8 as g_( f) f2 |
+m: f'8( c') / cB bes8 as g_( f) f2 |
 t: Já jsem Hospodin, tvůj Bůh,
 
-m: bes,8 f'B es8 f as_( g) g4 r ||
+m: bes,8 f' / fB es8 f as_( g) g4 r ||
 t: * já jsem tě vyvedl z egyptské země!
 
 %% use: responsum
 
 %% part: verse
 
-m: f'8 c'B bes8 as g_ f f4 r |
+m: f'8 c' / cB bes8 as g_ f f4 r |
 t: Ale můj národ nedbal na můj hlas,
 
 m: bes,8 f'8 es8 f as_ g g g4 r ||
@@ -43,28 +43,28 @@ t: * Izrael mě neposlouchal.
 
 %% part: verse
 
-m: f'8 c'B bes8 as g_( f) f4 r |
+m: f'8 c' / cB bes8 as g_( f) f4 r |
 t: Nechal jsem je tedy v zatvrzelosti jejich srdce,
 
-m: bes,8 f'B es8 f as_ g g2 ||
+m: bes,8 f' / fB es8 f as_ g g2 ||
 t: * ať si žijí podle svých nápadů!
 
 %% use: responsum
 
 %% part: verse
 
-m: f'8 c'B bes8 as g_( f) f4 r |
+m: f'8 c' / cB bes8 as g_( f) f4 r |
 t: Kéž by mě můj národ slyšel,
 
-m: bes,8 f'B es8 f as_( g) g2 ||
+m: bes,8 f' / fB es8 f as_( g) g2 ||
 t: * kéž by Izrael kráčel po mých cestách!
 
 %% part: verse
 
-m: f'8 c'B bes8 as g_ f f f4 r |
+m: f'8 c' / cB bes8 as g_ f f f4 r |
 t: Hned bych pokořil jejich nepřátele,
 
-m: bes,8 f'B es8 f as_( g) g4 r ||
+m: bes,8 f' / fB es8 f as_( g) g4 r ||
 t: * na jejich protivníky bych obrátil svou ruku.
 
 %% use: responsum

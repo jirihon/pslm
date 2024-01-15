@@ -1,7 +1,7 @@
 /* jshint esversion: 8 */
 document.addEventListener("DOMContentLoaded", function () {
     const search_field = document.getElementsByClassName('search-field')[0];
-    search_field.addEventListener('search', search);
+    search_field.addEventListener('input', search);
     const target = document.getElementsByClassName('search')[0];
 
     function render_hits(hits) {

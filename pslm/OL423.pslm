@@ -66,10 +66,7 @@ t: Podél nich hnízdí nebeské ptactvo,
 m: fB e8 d d_( c) c4 r ||
 t: * ve větvích švitoří svou píseň.
 
-%% part: responsum_short
-
-m: f'8 c f g a c / bes( a) a4 / r8 c d4 c / bes8 f / a( g) g4 ||
-t: Sešli svého ducha, Pane, a obnov tvářnost země.
+%% use: responsum
 
 %% part: verse
 

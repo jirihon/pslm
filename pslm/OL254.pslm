@@ -31,10 +31,7 @@ t: Už stojí naše nohy
 m: besB as8 bes c_( bes) bes4 r ||
 t: * ve tvých branách, Jeruzaléme!
 
-%% part: responsum_short
-
-m: es'8 f g as bes g f es4 | des'8 des c / bes4 as8 as4 ||
-t: Do domu Hospodinova s radostí půjdeme.
+%% use: responsum
 
 %% part: verse
 

@@ -9,9 +9,9 @@
 
 m: \key es \major
 
-%% part: responsum_short
+%% part: responsum
 
-m: es'8 f g as4. f8 / bes g g g4 r | f8 c' / bes4( c) / d8 bes4 g8 g4 ||
+m: es'8 f g as4. f8 / bes g g g4 r | f8 c' / bes4( c) / d8 bes4 g8 g2 ||
 t: Budu tě chválit, Hospodine, ve velkém shromáždění.
 
 %% part: verse
@@ -30,14 +30,11 @@ t: kdo hledají Hospodina, budou ho chválit:
 m: fB f8 es d8_ d r4 ||
 t: * „Na věky ať žije vaše srce!“
 
-%% part: responsum
-
-m: es'8 f g as4. f8 / bes g g g4 r | f8 c' / bes4( c) / d8 bes4 g8 g2 ||
-t: Budu tě chválit, Hospodine, ve velkém shromáždění.
+%% use: responsum
 
 %% part: verse
 
-m: es'B es8 d c_ c r |
+m: es'B es8 d c_ c r4 |
 t: Rozpomenou se a k Hospodinu se obrátí všechny končiny země,
 
 m: fB f8 es d_ d d d2 ||
@@ -59,7 +56,7 @@ t: Jen jemu se budou kořit všichni,
 m: r8 f8 f8( es) d8_ d r4 ||
 t: * kdo spí v zemi.
 
-%% use: responsum_short
+%% use: responsum
 
 %% part: verse
 

@@ -48,10 +48,7 @@ t: on se k vám obrátí
 m: cB bes8 c d_( es) d d2 ||
 t: * a už před vámi neskryje svoji tvář.
 
-%% part: responsum_short
-
-m: f'8 bes a4 bes / c8 bes a g / g f f4 ||
-t: Veliký jsi, Hospodine, na věky.
+%% use: responsum
 
 %% part: verse
 

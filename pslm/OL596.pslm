@@ -9,9 +9,9 @@
 
 m: \key g \major
 
-%% part: responsum_short
+%% part: responsum
 
-m: d'4 | a'8 g g g4 r | e8 e e e e / fis g / b a a a4 \breathe | d,8 a' a / a g fis b4 b ||
+m: d'4 | a'8 g g g4 r | e8 e e e e / fis g / b a a a4 \breathe | d,8 a' a / a g fis b4 b r ||
 t: Vstaň, Hospodine, vejdi na místo svého odpočinku, ty i tvá vznešená archa!
 
 %% part: verse
@@ -30,7 +30,7 @@ t: Vejděme do Hospodinova příbytku,
 m: aB b8 g e_( d) d2 ||
 t: * klaňme se u podnože jeho nohou.
 
-%% use: responsum_short
+%% use: responsum
 
 %% part: verse
 
@@ -56,7 +56,4 @@ t: Pro Davida, svého služebníka,
 m: aB b8 g e_ d d4 r ||
 t: * neodmítej tvář svého pomazaného!
 
-%% part: responsum
-
-m: d'4 | a'8 g g g4 r | e8 e e e e / fis g / b a a a4 \breathe | d,8 a' a / a g fis b4 b r ||
-t: Vstaň, Hospodine, vejdi na místo svého odpočinku, ty i tvá vznešená archa!
+%% use: responsum

@@ -62,10 +62,7 @@ t: Voď mě po stezce svých předpisů,
 m: cB bes8 c es_ d d d2 ||
 t: * neboť v ní mám zalíbení.
 
-%% part: responsum_short
-
-m: bes'4 g c8 bes a / g a f d2 | g8 es d c4 ||
-t: Voď mě po cestě svých předpisů, Hospodine.
+%% use: responsum
 
 %% part: verse
 

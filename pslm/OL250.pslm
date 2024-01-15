@@ -19,7 +19,7 @@ t: Ochraň, Pane, duši mou v pokoji u tebe.
 %% part: verse
 
 m: f'B f8_ g g g2 |
-t: Hospodine, mé srdce se nevypíná,
+t: Hospodine, (+) mé srdce se nevypíná,
 
 m: gB g8_( a) a4 r ||
 t: * nevyvyšují se mé oči,
@@ -36,11 +36,19 @@ t: * pro mě nedostižnými.
 
 %% part: verse
 
+m: f'B f8_( g) g g4 |
+t: Spíše jsem uklidnil 
+
+m: r8 g gB g8_( a) a4 r ||
+t: * a utišil svou duši
+
+%% part: verse
+
 m: f'B f8_( g) g4 r |
-t: Spíše jsem uklidnil a utišil svou duši
+t: jako dítě na matčině klíně;
 
 m: gB g8_( a) a4 r ||
-t: * jako dítě na matčině klíně; + jako dítě, tak je má duše ve mně.
+t: * jako dítě, tak je má duše ve mně.
 
 %% use: responsum
 

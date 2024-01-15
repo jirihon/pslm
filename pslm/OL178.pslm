@@ -30,10 +30,7 @@ t: Velebností a vznešeností ses oděl,
 m: aB g8 f e_( d) d4 r ||
 t: * světlem se halíš jako pláštěm.
 
-%% part: responsum_short
-
-m: e'8 f g a g4 c, | e8 d d d r4 c | d8 a' a2 b4 | gis e r4 ||
-t: Sešli svého ducha, Hospodine, a obnovíš tvář země.
+%% use: responsum
 
 %% part: verse
 

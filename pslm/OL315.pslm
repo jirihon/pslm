@@ -30,10 +30,7 @@ t: Úplně ze mě smyj mou vinu
 m: r8 g8 gB a8 bes d_( c) c4 r ||
 t: * a očisť mě od mého hříchu.
 
-%% part: responsum_short
-
-m: c''4 a d8 c a g / f4( d) c4 ||
-t: Stvoř mi čisté srdce, Bože!
+%% use: responsum
 
 %% part: verse
 

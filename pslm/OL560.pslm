@@ -74,10 +74,7 @@ t: I kdybych vystoupil na nebe, ty jsi tam,
 m: r8 g8 gB fis8_ e e4 r ||
 t: * i kdybych ulehl v podsvětí, i tady jsi.
 
-%% part: responsum_short
-
-m: fis'8 e d d4 r8 / g e / e4 fis4. g8 a4 ||
-t: Hospodine, ty mě zkoumáš a znáš.
+%% use: responsum
 
 %% part: verse
 

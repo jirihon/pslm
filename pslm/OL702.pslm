@@ -19,7 +19,7 @@ t: Jasnou tvář ukaž svému služebníku, Hospodine!
 m: f'B g8 d f_ e e2 |
 t: Nauč mě moudrosti a vědění,
 
-m: d8 a'B b8 a a_ g g2 ||
+m: d8 a' / aB b8 a a_ g g2 ||
 t: * neboť důvěřuji tvým předpisům.
 
 %% use: responsum
@@ -29,20 +29,17 @@ t: * neboť důvěřuji tvým předpisům.
 m: f'B g8 d f_ e e4 r |
 t: Dobře mi, že jsem byl pokořen,
 
-m: d8 a'B b8 a a_ g g2 ||
+m: d8 a' / aB b8 a a_ g g2 ||
 t: * abych se naučil tvým příkazům.
 
-%% part: responsum_short
-
-m: e'8 c g'2 a8 a / g a / b b / g4 e | a8 f e d4 ||
-t: Jasnou tvář ukaž svému služebníku, Hospodine!
+%% use: responsum
 
 %% part: verse
 
 m: r8 f'8 fB g8 d f_ e e e2 |
 t: Vím, Hospodine, že spravedlivá jsou tvá rozhodnutí,
 
-m: d8 a'B b8 a a_( g) g4 r ||
+m: d8 a' / aB b8 a a_( g) g4 r ||
 t: * že jsi mě pokořil podle práva.
 
 %% use: responsum
@@ -52,7 +49,7 @@ t: * že jsi mě pokořil podle práva.
 m: f'B g8 d f_( e) e4 r |
 t: Podle tvých rozhodnutí země trvá stále,
 
-m: d8 a'B b8 a a_( g) g2 ||
+m: d8 a' / a b8 a a_( g) g2 ||
 t: * neboť všechno ti slouží.
 
 %% use: responsum
@@ -62,7 +59,7 @@ t: * neboť všechno ti slouží.
 m: f'B g8 d f_ e e4 r |
 t: Jsem tvůj služebník, pouč mě,
 
-m: d8 a'B b8 a a_ g g g2 ||
+m: d8 a' / a b8 a a_ g g g2 ||
 t: * abych poznal tvá přikázání.
 
 %% use: responsum
@@ -72,7 +69,7 @@ t: * abych poznal tvá přikázání.
 m: f'B g8 d f_ e e e4 r |
 t: Výklad tvých slov osvěcuje,
 
-m: d8 a'B b8 a a_( g) g4 r ||
+m: d8 a' / aB b8 a a_( g) g4 r ||
 t: * poučuje prosté lidi.
 
 %% use: responsum

@@ -9,9 +9,9 @@
 
 m: \key es \major
 
-%% part: responsum_short
+%% part: responsum
 
-m: g'8 f as g f es / f bes bes2 g4 es ||
+m: g'8 f as g f es / f bes bes2 g4 es r ||
 t: Nezapomínejte na Boží skutky!
 
 %% part: verse
@@ -30,10 +30,7 @@ t: stal se Juda Boží svatyní,
 m: fB es8 f as_( g) g2 ||
 t: * Izrael Božím panstvím.
 
-%% part: responsum
-
-m: g'8 f as g f es / f bes bes2 g4 es r ||
-t: Nezapomínejte na Boží skutky!
+%% use: responsum
 
 %% part: verse
 

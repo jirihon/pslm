@@ -27,15 +27,12 @@ t: * u bran podsvětí mám postrádat zbytek svých let.“
 %% part: verse
 
 m: c''B b8 a a_( g) g2 |
-t: Řekl jsem: (+) „Nemám už vidět Hospodina v zemi živých,
+t: Řekl jsem: „Nemám už vidět Hospodina v zemi živých,
 
 m: gB fis8 e e_( d) d4 r ||
 t: *  nemám už hledět na nikoho mezi obyvateli světa.
 
-%% part: responsum_short
-
-m: d'4 g8 g fis e4 r8 e8 / e e / fis g / a a r4 / fis a b8 b b b4 ||
-t: Ty, Hospodine, jsi zachránil mou duši, aby nezhynula.
+%% use: responsum
 
 %% part: verse
 

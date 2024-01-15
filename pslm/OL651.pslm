@@ -19,7 +19,7 @@ t: Nezapomínej na chudáky, Hospodine!
 m: f'B e8 f g_( e) e4 r |
 t: Hospodine, proč jsi tak vzdálen,
 
-m: d8 a'B b8 a a_( g) g4 r ||
+m: d8 a' / aB b8 a a_( g) g4 r ||
 t: * proč se skrýváš v dobách tísně?
 
 %% part: verse
@@ -27,20 +27,17 @@ t: * proč se skrýváš v dobách tísně?
 m: f'B e8 f g_ e e e4 r |
 t: Bezbožník zpupně pronásleduje ubožáka,
 
-m: d8 a'B b8 a a_ g g4 r ||
+m: d8 a' / aB b8 a a_ g g4 r ||
 t: * chytí ho do nástrah, které si přichystal.
 
-%% part: responsum_short
-
-m: c''8 c c a4 c / d8 c / b4 a | b8 b a g4 ||
-t: Nezapomínej na chudáky, Hospodine!
+%% use: responsum
 
 %% part: verse
 
 m: r8 f'8 fB e8 f g_ e e2 |
 t: Vždyť hříšník se chlubí svou náruživostí,
 
-m: d8 a'B b8 a a_ g g g4 r ||
+m: d8 a' / aB b8 a a_ g g g4 r ||
 t: * rouhá se chamtivec, pohrdá Hospodinem.
 
 %% part: verse
@@ -58,7 +55,7 @@ t: * „On nepotrestá! Bůh není!“
 m: f'B e8 f g_ e e4 r |
 t: Jeho ústa jsou plná kletby, lsti a úkladu,
 
-m: d8 a'B b8 a a_( g) g4 r ||
+m: d8 a' / aB b8 a a_( g) g4 r ||
 t: * pod jeho jazykem jen útrapa a hoře.
 
 %% part: verse
@@ -66,7 +63,7 @@ t: * pod jeho jazykem jen útrapa a hoře.
 m: f'B e8 f g_( e) e4 r |
 t: Sedí na číhané poblíž osad,
 
-m: d8 a'B b8 a a_ g g4 r ||
+m: d8 a' / aB b8 a a_ g g4 r ||
 t: * zabíjí nevinného ve skrytu.
 
 %% use: responsum
@@ -76,7 +73,7 @@ t: * zabíjí nevinného ve skrytu.
 m: f'B e8 f g_ e e4 r |
 t: Ty však vidíš; (+) ty sleduješ žal i útrapy,
 
-m: d8 a'B b8 a a_( g) g2 ||
+m: d8 a' / aB b8 a a_( g) g2 ||
 t: * abys je vzal do svých rukou.
 
 %% part: verse
@@ -84,7 +81,7 @@ t: * abys je vzal do svých rukou.
 m: f'B e8 f g_ e e2 |
 t: Na tebe se ubožák spoléhá,
 
-m: d8 a'B b8 a a_ g g g4 r ||
+m: d8 a' / a b8 a a_ g g g4 r ||
 t: * sirotkovi tys pomocníkem.
 
 %% use: responsum

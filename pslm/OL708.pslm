@@ -32,10 +32,7 @@ t: Neodnímej z mých úst slovo pravdy,
 m: asB bes8 as g_ f f f2 ||
 t: * neboť doufám v tvá rozhodnutí.
 
-%% part: responsum_short
-
-m: es'8 d c f f f4 \breathe / f4. g8 / as as / g4 f / bes8 g g g4 r | c f, bes bes4 ||
-t: Ať se mi dostane tvého slitování, Hospodine, abych byl živ.
+%% use: responsum
 
 %% part: verse
 

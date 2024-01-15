@@ -9,15 +9,15 @@
 
 m: \key g \major
 
-%% part: responsum_short
+%% part: responsum
 
-m: b'8 a b d c b4 a | g8 e e4 ||
+m: b'8 a b d c b4 a | g8 e e2 ||
 t: V Bohu jen odpočívej, duše má.
 
 %% part: verse
 
 m: r8 e'8 eB fis8 g b_( a) a4 r |
-t: Jen v Bohu odpočívá má duše,
+t: Jen v Bohu odpočívej, má duše,
 
 m: aB g8 a c_( b) b2 ||
 t: * od něho pochází to, v co doufám.
@@ -30,10 +30,7 @@ t: Jen on je má skála a spása,
 m: r8 a8 g8( a) c_ b b b4 r ||
 t: * má tvrz, nepohnu se!
 
-%% part: responsum
-
-m: b'8 a b d c b4 a | g8 e e2 ||
-t: V Bohu jen odpočívej, duše má.
+%% use: responsum
 
 %% part: verse
 

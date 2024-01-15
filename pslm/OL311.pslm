@@ -18,7 +18,7 @@ t: Chci dobrořečit Pánu v každé chvíli.
 %% part: verse
 
 m: bes'B c8 a g_ g g g4 r |
-t: stavičně chci velebit Hospodina,
+t: Ustavičně chci velebit Hospodina,
 
 m: aB g8 f d_( c) c4 r ||
 t: * vždy bude v mých ústech jeho chvála.
@@ -67,10 +67,7 @@ t: Hle, ubožák zavolal, a Hospodin slyšel,
 m: aB g8 f d_( c) c4 r ||
 t: * pomohl mu ve všech jeho strastech.
 
-%% part: responsum_short
-
-m: c'8 f g a bes / c4. a8 / d c bes( a) g4 ||
-t: Chci dobrořečit Pánu v každé chvíli.
+%% use: responsum
 
 %% part: verse
 

@@ -34,7 +34,7 @@ t: * a soucit má se všemi svými tvory.
 
 %% part: verse
 
-m: as'B cB*3 bes4_ bes r |
+m: as'B cB*3 bes4_ bes |
 t: Ať tě chválí, Hospodine, všechna tvá díla
 
 m: r8 f8 fB asB*2 g8_ g g2 ||
@@ -47,6 +47,8 @@ t: Oči všech doufají v tebe
 
 m: r8 f8 fB asB*2 g8_ g g4 r ||
 t: * a ty jim dáváš pokrm v pravý čas.
+
+%% use: responsum
 
 %% part: verse
 

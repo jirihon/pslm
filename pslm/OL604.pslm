@@ -12,9 +12,9 @@
 
 m: \key f \major
 
-%% part: responsum_short
+%% part: responsum
 
-m: f'8 f e d2 / d8 d e f / g g4 g8 / g g / a bes c c4. ||
+m: f'8 f e d2 / d8 d e f / g g4 g8 / g g / a bes c c4. r4 ||
 t: Spravedlivý bude, Pane, přebývat na tvé svaté hoře.
 
 %% part: verse
@@ -25,10 +25,7 @@ t: Kdo žije bez vady a koná spravedlnost,
 m: gB f8 g a_ f f f2 ||
 t: * upřímně smýšlí ve svém srdci, + svým jazykem nepomlouvá.
 
-%% part: responsum
-
-m: f'8 f e d2 / d8 d e f / g g4 g8 / g g / a bes c c4. r4 ||
-t: Spravedlivý bude, Pane, přebývat na tvé svaté hoře.
+%% use: responsum
 
 %% part: verse
 

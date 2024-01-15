@@ -12,7 +12,7 @@ m: \key bes \major
 
 %% part: verse
 
-m: f'8 besB a8 bes / c bes / a( g) g_( f) f4 ||
+m: f'8 bes / besB a8 bes / c bes / a( g) g_( f) f4 ||
 t: Oslavujte Hospodina, neboť je dobrý,
 
 %% part: responsum
@@ -25,24 +25,21 @@ t: jeho milosrdenství trvá na věky.
 m: f'8 bes8 a8 bes / c bes / a g g_ f f f4 ||
 t: On si vzpomněl na nás v našem ponížení,
 
-%% part: responsum_short
-
-m: es'8 es d c / f f f4 / g8 g4( a8) / c bes bes4 ||
-t: jeho milostrdenství trvá na věky.
+%% use: responsum
 
 %% part: verse
 
 m: r8 f' besB a8 bes / c bes / a g g_ f f4 ||
 t: A vysvobodil nás od našich nepřátel,
 
-%% use: responsum_short
+%% use: responsum
 
 %% part: verse
 
 m: r8 f' besB a8 bes / c bes / a g g_ f f4 ||
 t: On pobil Egypťany v jejich prvorozencích,
 
-%% use: responsum_short
+%% use: responsum
 
 %% part: verse
 
@@ -53,7 +50,7 @@ t: On vyvedl Izraele z jejich středu,
 
 %% part: verse
 
-m: f'8 besB a8 bes / c bes / a g g_ f f4 ||
+m: f'8 bes / bes a8 bes / c bes / a g g_ f f4 ||
 t: Mocnou rukou a napřaženým ramenem,
 
 %% use: responsum
@@ -63,14 +60,14 @@ t: Mocnou rukou a napřaženým ramenem,
 m: f'8 bes a8 bes / c( bes) / a( g) g_( f) f4 ||
 t: On rozdělil Rudé moře,
 
-%% use: responsum_short
+%% use: responsum
 
 %% part: verse
 
 m: r8 f'8 besB a8 bes / c bes / a g g_( f) f4 ||
 t: A převedl Izraele jeho středem,
 
-%% use: responsum_short
+%% use: responsum
 
 %% part: verse
 

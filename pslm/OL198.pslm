@@ -19,24 +19,21 @@ t: Pán je milosrdný a milostivý.
 
 %% part: verse
 
-m: f'8 c'B b8 a b_ e, e e4 r |
+m: f'8 c' / c b8 a b_ e, e e4 r |
 t: Veleb, má duše, Hospodina,
 
-m: d8 a'B g8 f e_( d) d4 r ||
+m: d8 a' / aB g8 f e_( d) d4 r ||
 t: * vše, co je ve mně, veleb jeho svaté jméno!
 
 %% part: verse
 
-m: f'8 c'B b8 a b_ e, e e4 |
+m: f'8 c' / c b8 a b_ e, e e4 |
 t: Veleb, má duše, Hospodina
 
 m: r8 d8 a'B g8 f e_ d d d2 ||
 t: * a nezapomeň na žádné z jeho dobrodiní!
 
-%% part: responsum_short
-
-m: c'4 e \tuplet 3/2 { a8[ f e] } d4. \breathe / a'8 \tuplet 3/2 { b[ g f] } e4 ||
-t: Pán je milosrdný a milostivý.
+%% use: responsum
 
 %% part: verse
 
@@ -51,32 +48,32 @@ t: * on léčí všechny tvé neduhy.
 m: r8 f'8 c'B b8 a b_ e, e e4 r |
 t: On vykupuje tvůj život ze záhuby,
 
-m: d8 a'B g8 f e_ d d d2 ||
+m: d8 a' / aB g8 f e_ d d d2 ||
 t: * on tě věnčí láskou a slitováním.
 
 %% use: responsum
 
 %% part: verse
 
-m: f'8 c'B b8 a b_ e, e e2 |
+m: f'8 c' / cB b8 a b_ e, e e2 |
 t: Hospodin je milosrdný a milostivý,
 
-m: d8 a'B g8 f e_ d d d2 ||
+m: d8 a' / aB g8 f e_ d d d2 ||
 t: * shovívavý a nadmíru dobrotivý.
 
 %% part: verse
 
-m: f'8 c'B b8 a b_( e,) e2 |
+m: f'8 c' / cB b8 a b_( e,) e2 |
 t: Nejedná s námi podle našich hříchů
 
-m: d8 a'B g8 f e_ d d d2 ||
+m: d8 a' / aB g8 f e_ d d d2 ||
 t: * ani podle našich vin nám neodplácí.
 
 %% use: responsum
 
 %% part: verse
 
-m: f'8 c'B b8 a b_ e, e e4 |
+m: f'8 c' / cB b8 a b_ e, e e4 |
 t: Jako je vzdálen východ od západu,
 
 m: r8 d8 a'B g8 f e_ d d d4 r ||
@@ -84,10 +81,10 @@ t: * tak vzdaluje od nás naše nepravosti.
 
 %% part: verse
 
-m: f'8 c'B b8 a b_ e, e4 r |
+m: f'8 c' / cB b8 a b_ e, e4 r |
 t: Jako se smilovává otec nad syny,
 
-m: d8 a'B g8 f e_( d) d2 ||
+m: d8 a' / aB g8 f e_( d) d2 ||
 t: * tak se smilovává Hospodin nad těmi, kdo se ho bojí.
 
 %% use: responsum

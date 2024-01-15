@@ -63,15 +63,15 @@ occasion,id,cycle
 "Narození Páně, v noci",christmas,
 "Narození Páně, za svítání (v noci)",christmas,
 "Narození Páně, ve dne",christmas,
-"Svaté rodiny A(BC) (pokud se čte čtení z Sir 3,3-17)",,
+"Svaté rodiny A(BC) (pokud se čte čtení z Sir 3,3-17)",holy_family,A(BC)
 "Při svatbě",,
 "33. neděle v mezidobí A",ordinary_time_33_sunday,A
 "O svatých",,
 "Sv. Zdislavy (30. května)",zdislava_of_lemberk,
 "Sv. Pia z Pietrelciny, kněze (23. září)",pius_of_pietrelcina_priest,
 "Sv. Hedviky, řeholnice (16. října)",16/10,
-"Svaté rodiny B (pokud se čte čtení z Gn 15,1-6)",,
-"Svaté rodiny C (pokud se čte čtení z 1 Sam 1,20-28)",,
+"Svaté rodiny B (pokud se čte čtení z Gn 15,1-6)",holy_family,B
+"Svaté rodiny C (pokud se čte čtení z 1 Sam 1,20-28)",holy_family,C
 "Pátý den v oktávu Narození Páně (29. prosince)",christmas_octave_day_5,
 "Šestý den v oktávu Narození Páně (30. prosince)",christmas_octave_day_6,
 "Sedmý den v oktávu Narození Páně (31. prosince)",christmas_octave_day_7,

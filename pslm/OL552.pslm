@@ -22,10 +22,7 @@ t: Nauč mě moudrosti a vědění,
 m: asB g8_ f f2 ||
 t: * neboť důvěřuji tvým předpisům.
 
-%% part: responsum_short
-
-m: g'8 f es as g f / es f g8. g16 g4 ||
-t: Nauč mě, Hospodine, svým příkazům!
+%% use: responsum
 
 %% part: verse
 

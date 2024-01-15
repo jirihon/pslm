@@ -19,7 +19,7 @@ t: Na věky chci zpívat o Hospodinových milostech.
 m: f'B e8 d a'_ g g4 r |
 t: Na věky chci zpívat o Hospodinových milostech,
 
-m: c,8 g'B f8 g bes_( a) a4 r ||
+m: c,8 g' / gB f8 g bes_( a) a4 r ||
 t: * po všechna pokolení hlásat svými ústy tvou věrnost.
 
 %% part: verse
@@ -27,7 +27,7 @@ t: * po všechna pokolení hlásat svými ústy tvou věrnost.
 m: f'B e8 d a'_( g) g4 r |
 t: Řekl jsi totiž: (+) „Na věky je založena milost.“
 
-m: c,8 g'B f8 g bes_( a) a4 r ||
+m: c,8 g' / gB f8 g bes_( a) a4 r ||
 t: * Na nebi jsi upevnil svou věrnost.
 
 %% use: responsum
@@ -37,10 +37,8 @@ t: * Na nebi jsi upevnil svou věrnost.
 m: f'B e8 d a'_ g g g4 r |
 t: Nebesa oslavují tvé divy, Hospodine,
 
-m: c,8 g'B f8 g bes_( a) a2 ||
+m: c,8 g' / gB f8 g bes_( a) a2 ||
 t: * a tvou věrnost shromáždění svatých.
-
-%% use: responsum
 
 %% part: verse
 
@@ -50,12 +48,14 @@ t: Neboť kdo se může v oblacích rovnat Hospodinu,
 m: r8 c,8 g'B f8 g bes_( a) a4 r ||
 t: * kdo z Božích synů se podobá Pánu?
 
+%% use: responsum
+
 %% part: verse
 
 m: f'B e8 d a'_ g g g4 r |
 t: Šťastný je lid, který dovede oslavovat,
 
-m: c,8 g'B f8 g bes_( a) a4 r ||
+m: c,8 g' / gB f8 g bes_( a) a4 r ||
 t: * chodí, Hospodine, v záři tvé tváře.
 
 %% part: verse

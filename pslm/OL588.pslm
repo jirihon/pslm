@@ -19,7 +19,7 @@ t: Na věky chci zpívat o Hospodinových milostech.
 m: f'B e8 d a'_ g g g2 |
 t: „Smlouvu jsem sjednal se svým vyvoleným,
 
-m: c,8 g'B f8 g bes_ a a a4 r ||
+m: c,8 g' / gB f8 g bes_ a a a4 r ||
 t: * přísahal jsem Davidovi, svému služebníku:
 
 %% part: verse
@@ -37,7 +37,7 @@ t: * a tvůj trůn zbuduji na všechna pokolení.“
 m: f'B e8 d a'_( g) g4 r |
 t: „On mě bude vzývat: Ty jsi můj otec,
 
-m: c,8 g'B f8 g bes_( a) a4 r ||
+m: c,8 g' / gB f8 g bes_( a) a4 r ||
 t: * můj Bůh a skála mé spásy.
 
 %% part: verse
@@ -45,7 +45,7 @@ t: * můj Bůh a skála mé spásy.
 m: f'B e8 d a'_( g) g4 r |
 t: Já ho pak ustanovím prvorozeným synem,
 
-m: c,8 g'B f8 g bes_( a) a4 r ||
+m: c,8 g' / gB f8 g bes_( a) a4 r ||
 t: * nejvyšším mezi králi země.
 
 %% use: responsum
@@ -63,7 +63,7 @@ t: * má smlouva s ním platit nepřestane.
 m: f'B e8 d a'_( g) g4 r |
 t: Dám věčné trvání jeho rodu,
 
-m: c,8 g'B f8 g bes_( a) a4 r ||
+m: c,8 g' / gB f8 g bes_( a) a4 r ||
 t: * jeho trůn bude jako věk nebes.“
 
 %% use: responsum

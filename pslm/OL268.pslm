@@ -16,7 +16,7 @@ t: Chválím tě, že jsem vznikl tak podivuhodně.
 
 %% part: verse
 
-m: c''B c8_ a a a4 |
+m: c''B c8_ a a a2 |
 t: Hospodine, ty mě zkoumáš a znáš,
 
 m: besB a8_( g) g2 ||
@@ -30,10 +30,7 @@ t: Poznáváš mé myšlenky již zdálky;
 m: besB a8_ g g4 r ||
 t: * ať jdu nebo ležím, ty to určuješ, + všímáš si všech mých cest.
 
-%% part: responsum_short
-
-m: a'4 g4. f8 | d d / d e f | bes c bes a g4 ||
-t: Chválím tě, že jsem vznikl tak podivuhodně.
+%% use: responsum
 
 %% part: verse
 
@@ -58,7 +55,7 @@ t: * úžasná jsou tvoje díla.
 m: c''B c8_( a) a4 |
 t: Dokonale znáš mou duši,
 
-m: r8 bes8 besB a8_ g g g4 ||
+m: r8 bes8 besB a8_ g g g4 r ||
 t: * má podstata ti nezůstala utajena,
 
 %% part: verse

@@ -42,7 +42,7 @@ t: * a po tom toužím:
 
 %% part: verse
 
-m: b'B a8 b cis(_ a) a4 |
+m: b'B a8 b cis(_ a) a4 r |
 t: abych směl přebývat v Hospodinově domě
 
 m: gB fis8 g a8_ fis fis4 r ||
@@ -63,7 +63,7 @@ t: * a patřil na jeho chrám.
 m: r8 b'8 bB a8 b cis_( a) a2 |
 t: Slyš, Hospodine, můj hlas, jak volám,
 
-m: gB fis8 g a_ fis fis4 ||
+m: gB fis8 g a_ fis fis4 r ||
 t: * smiluj se nade mnou, vyslyš mě!
 
 %% part: verse

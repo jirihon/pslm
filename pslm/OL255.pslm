@@ -21,7 +21,7 @@ t: Blahoslavená jsi, Panno Maria, žes nosila Syna věčného Otce.
 
 %% part: verse
 
-m: es'8 g besB bes8 c as_ g g g4 |
+m: es'8 g / besB bes8 c as_ g g g4 |
 t: Velebí má duše Hospodina
 
 m: r8 as8 asB as8 bes g_ f f f4 r ||
@@ -39,7 +39,7 @@ t: Od této chvíle mě budou blahoslavit všechna pokolení.
 
 %% part: verse
 
-m: es'8 g besB bes8 c as_( g) g2 |
+m: es'8 g / besB bes8 c as_( g) g2 |
 t: Že mi učinil veliké věci ten, který je mocný.
 
 m: asB as8 bes g_( f) f4 ||
@@ -48,7 +48,7 @@ t: * Jeho jméno je svaté.
 %% part: verse
 
 m: r8 bes' besB bes8 c as_ g g2 |
-t: jeho milosrdenství trvá od pokolení do pokolení
+t: A jeho milosrdenství trvá od pokolení do pokolení
 
 m: asB as8 bes g_( f) f2 ||
 t: * k těm, kdo se ho bojí.
@@ -57,7 +57,7 @@ t: * k těm, kdo se ho bojí.
 
 %% part: verse
 
-m: es'8 g besB bes8 c as_ g g4 r |
+m: es'8 g / besB bes8 c as_ g g4 r |
 t: Mocně zasáhl svým ramenem,
 
 m: asB as8 bes g_( f) f4 r ||
@@ -76,14 +76,14 @@ t: * a ponížené povýšil,
 m: bes'B bes8 c as(_ g) g4 |
 t: hladové nasytil dobrými věcmi
 
-m: r8 as8 asB as8 bes g(_ f) f4 r ||
+m: r8 as8 asB as8 bes g(_ f) f2 ||
 t: * a bohaté propustil s prázdnou.
 
 %% use: responsum
 
 %% part: verse
 
-m: es'8 g besB bes8 c as_ g g g4 r |
+m: es'8 g / besB bes8 c as_ g g g4 r |
 t: Ujal se svého služebníka Izraele,
 
 m: asB as8 bes g_ f f4 ||

@@ -9,9 +9,9 @@
 
 m: \key f \major
 
-%% part: responsum_short
+%% part: responsum
 
-m: a'8 a g f bes4 c8 a | d, f / g4 g ||
+m: a'8 a g f bes4 c8 a | d, f / g4 g r ||
 t: Hospodin je mé světlo a má spása.
 
 %% part: verse
@@ -30,10 +30,7 @@ t: Mé srdce k tobě mluví,
 m: r8 g gB f8_( g a) a2 ||
 t: * má tvář tě hledá.
 
-%% part: responsum
-
-m: a'8 a g f bes4 c8 a | d, f / g4 g r ||
-t: Hospodin je mé světlo a má spása.
+%% use: responsum
 
 %% part: verse
 

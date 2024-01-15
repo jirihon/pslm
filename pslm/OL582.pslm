@@ -24,10 +24,7 @@ t: Veleben buď Hospodin, má Skála,
 m: r8 g8 gB a8 e g_ f f4 r ||
 t: * on učí mé ruce bojovat, mé prsty zápolit.
 
-%% part: responsum_short
-
-m: f'8 c f g / a g a bes / c4 c4 ||
-t: Veleben buď Hospodin, má Skála!
+%% use: responsum
 
 %% part: verse
 

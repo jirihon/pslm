@@ -11,7 +11,7 @@ m: \key d \major
 
 %% part: responsum
 
-m: d'4 d( e) fis / g8 g fis g / a4 a ||
+m: d'4 d( e) fis / g8 g fis g / a4 a2 ||
 t: Chci kráčet v nevinnosti srdce.
 
 %% part: verse
@@ -63,7 +63,7 @@ t: * toho zahubím.
 m: b'B b_8( a) a4 r |
 t: Pyšného očima a nadutého srdcem,
 
-m: gB fis_8 e e4 ||
+m: gB fis_8 e e4 r ||
 t: * toho nesnesu.
 
 %% use: responsum

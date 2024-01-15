@@ -17,7 +17,7 @@ t: Pane, přijď, a zachraň nás!
 m: as'B bes8 as g_ f f4 r |
 t: Hospodin zachovává věrnost na věky,
 
-m: bes,8 f'B es8 f as_ g g g4 ||
+m: bes,8 f' f es8 f as_ g g g4 ||
 t: * zjednává právo utlačeným,
 
 %% part: verse
@@ -25,7 +25,7 @@ t: * zjednává právo utlačeným,
 m: r8 as' bes8 as g_( f) f2 |
 t: dává chléb lačným.
 
-m: bes,8 f'B es8 f as_( g) g4 r ||
+m: bes,8 f' / fB es8 f as_( g) g4 r ||
 t: * Hospodin vysvobozuje vězně.
 
 %% use: responsum
@@ -35,7 +35,7 @@ t: * Hospodin vysvobozuje vězně.
 m: as'B bes8 as g_( f) f2 |
 t: Hospodin otvírá oči slepým,
 
-m: bes,8 f'B es8 f as_ g g2 ||
+m: bes,8 f' / fB es8 f as_ g g2 ||
 t: * Hospodin napřimuje sklíčené,
 
 %% part: verse
@@ -43,7 +43,7 @@ t: * Hospodin napřimuje sklíčené,
 m: as'B bes8 as g_ f f f2 |
 t: Hospodin miluje spravedlivé,
 
-m: bes,8 f'B es8 f as_ g g4 r ||
+m: bes,8 f' / fB es8 f as_ g g4 r ||
 t: * Hospodin chrání přistěhovalce.
 
 %% use: responsum
@@ -53,7 +53,7 @@ t: * Hospodin chrání přistěhovalce.
 m: as'B bes8 as g_( f) f4 r |
 t: Hospodin podporuje sirotka a vdovu,
 
-m: bes,8 f'B es8 f as_ g g g2 ||
+m: bes,8 f' / fB es8 f as_ g g g2 ||
 t: * ale mate cestu bezbožníků.
 
 %% part: verse
@@ -61,7 +61,7 @@ t: * ale mate cestu bezbožníků.
 m: as'B bes8 as g_ f f4 r |
 t: Hospodin bude vládnout na věky,
 
-m: bes,8 f'B es8 f as_ g g g2 r ||
+m: bes,8 f' / fB es8 f as_ g g g2 ||
 t: * tvůj Bůh, Sióne, po všechna pokolení.
 
 %% use: responsum

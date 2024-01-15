@@ -30,10 +30,7 @@ t: Klamou se navzájem falešnými slovy,
 m: gB fis8 e e_( d) d4 r ||
 t: * hovoří úlisným rtem, dvojakým srdcem.
 
-%% part: responsum_short
-
-m: g'4 d e8 d / e g / a4 a a4 ||
-t: Ty nás, Hospodine, ochráníš.
+%% use: responsum
 
 %% part: verse
 

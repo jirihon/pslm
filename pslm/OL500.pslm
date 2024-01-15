@@ -40,10 +40,7 @@ t: Budu vzývat Hospodina, jemuž náleží chvála,
 m: r8 as8 asB bes8 f as_ g g g4 r ||
 t: * a od svých nepřátel budu vysvobozen.
 
-%% part: responsum_short
-
-m: es'8 es f g as as g f | g( as) bes4 bes ||
-t: Miluji tě, Hospodine, má sílo!
+%% use: responsum
 
 %% part: verse
 

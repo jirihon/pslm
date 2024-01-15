@@ -10,9 +10,9 @@
 
 m: \key es \major
 
-%% part: responsum_short
+%% part: responsum
 
-m: es'8 es c es f es~ es4 | as8 g4 f8 g as bes4 bes ||
+m: es'8 es c es / f es~ es4 | as8 g4 f8 / g as bes4 bes ||
 t: Hospodine, kdo smí prodlévat ve tvém stánku?
 
 %% part: verse
@@ -23,10 +23,7 @@ t: Kdo žije bez vady a koná spravedlnost,
 m: fB es8 f bes_ g es es2 ||
 t: * upřímně smýšlí ve svém srdci, + svým jazykem nepomlouvá.
 
-%% part: responsum
-
-m: es'8 es c es / f es~ es4 | as8 g4 f8 / g as bes4 bes r ||
-t: Hospodine, kdo smí prodlévat ve tvém stánku?
+%% use: responsum
 
 %% part: verse
 

@@ -48,10 +48,7 @@ t: Když sešleš svého ducha, jsou stvořeni,
 m: r8 a8 aB g8 f e_( d) d4 r ||
 t: * a obnovuješ tvář země.
 
-%% part: responsum_short
-
-m: e'8 f g a g4 c, | e8 d d d r4 c | d8 a' a2 b4 | gis e r4 ||
-t: Sešli svého ducha, Hospodine, a obnovíš tvář země.
+%% use: responsum
 
 %% part: verse
 

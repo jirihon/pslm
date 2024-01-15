@@ -9,6 +9,8 @@ define('PSLM_MAX_WIDTH', 732);
 
 require_once dirname(__FILE__).'/vendor/autoload.php';
 
+// regex to fix breves on halfbeats: (m:\s+[^r\s]+8\s+)([^r\s']+)('?)B -> $1$2$3 / $2B
+
 $i = 0;
 define('PSLM_TOKEN_SYLLABLE', $i++);
 define('PSLM_TOKEN_HYPHEN', $i++);
@@ -182,7 +184,7 @@ function pslm_engrave($id, $svg_d) {
     file_put_contents("sh/$id.sh", '');
 
     $psalm = file_get_contents($pslm_f);
-    $psalm = pslm_parse_psalm($psalm);
+    $psalm = pslm_parse_psalm($psalm, $id);
     $skipped = false;
 
     foreach (PSLM_SVG_SIZES as $size) {
@@ -326,7 +328,7 @@ function pslm_midi($psalm) {
     $music = pslm_music_implode($music);
 
     // fold breves back into single half note
-    $music = str_replace(['\>', '\<', '\!', '\accent', '\cadenzaMeasure'], '', $music);
+    $music = str_replace(['\>', '\<', '\!', '\accent', '\cadenzaMeasure', '\squashNotes', '\unSquashNotes'], '', $music);
     $music = preg_replace('#\\\\breve\*1/16 \\\\hideNotes( \\\\breve\*1/16( \\\\bar "")?)+ \\\\unHideNotes#', '2', $music);
 
     $lily = sprintf('\version "2.22.1" \score { { %s } \midi {} }', $music);
@@ -334,7 +336,7 @@ function pslm_midi($psalm) {
 }
 
 
-function pslm_lilypond($psalm, $size, $multiscore = false) {
+function pslm_lilypond($psalm, $size, $multiscore = true) {
     foreach ($psalm['music'] as $key => $music) {
         if (preg_match('#^verse#', $key)) {
             preg_match_all('#\\\\accent#', implode(' ', $psalm['text'][$key]), $m);
@@ -406,7 +408,7 @@ function pslm_lilypond($psalm, $size, $multiscore = false) {
         '\scores',
     ], [
         $size,
-        $multiscore ? '##t' : '##f',
+        '##f', //$multiscore ? '##t' : '##f',
         $scores,
     ], $lily);
 
@@ -414,7 +416,7 @@ function pslm_lilypond($psalm, $size, $multiscore = false) {
 }
 
 
-function pslm_parse_psalm($psalm) {
+function pslm_parse_psalm($psalm, $id) {
     $lines = explode("\n", $psalm);
     
     $lines[] = 'm:';
@@ -455,7 +457,7 @@ function pslm_parse_psalm($psalm) {
                 $text = implode(' ', $text);
                 $original_music = $music;
                 $original_text = $text;
-                list($music, $text) = pslm_process_snippet($music, $text);
+                list($music, $text) = pslm_process_snippet($music, $text, $id);
                 
                 if (!empty($part)) {
                     $psalm['music'][$part][] = $music;
@@ -492,6 +494,10 @@ function pslm_parse_psalm($psalm) {
                 } elseif (isset($line_opts['use'])) {
                     $key = $line_opts['use'];
                     $store_key = sprintf('%s_%s', $key, $use_n);
+                    if (!isset($psalm['music'][$key]) || !isset($psalm['text'][$key])) {
+                        echo "ERROR: undefined part $key\n";
+                        die;
+                    }
                     $psalm['music'][$store_key] = $psalm['music'][$key];
                     $psalm['text'][$store_key] = $psalm['text'][$key];
                     $psalm['original_text'][$store_key] = $psalm['original_text'][$key];
@@ -539,7 +545,7 @@ function pslm_extra_breves($n) {
     }
 }
 
-function pslm_process_snippet($music, $text) {
+function pslm_process_snippet($music, $text, $id) {
     $music_tokens = pslm_parse_music($music);
 
     $note_syllables = pslm_note_syllables($music_tokens);
@@ -613,7 +619,7 @@ function pslm_process_snippet($music, $text) {
             $breve_text_end = $breve_text_start + $breve_len;
         }
         if ($breve_text_end - $breve_text_start < 2) {
-            echo "WARNING: less than two syllables on a breve\n";
+            echo "WARNING: less than two syllables on a breve in psalm $id\n";
             echo implode(' ', array_map(function($token) {
                 return $token[1];
             }, $text_tokens));
@@ -622,11 +628,15 @@ function pslm_process_snippet($music, $text) {
             for ($i = 0; $i < count($text_tokens); ++$i) {
                 if ($text_tokens[$i][0] == PSLM_TOKEN_SYLLABLE) {
                     if ($k === $breve_text_start) {
-                        $text_tokens[$i][1] = sprintf('\left %s', $text_tokens[$i][1]);
+                        // clear possible \unLeftText from previous brevis 
+                        $text_tokens[$i][1] = str_replace('\unLeftText ', '', $text_tokens[$i][1], $count);
+                        if ($count === 0) {
+                            $text_tokens[$i][1] = sprintf('\leftText %s', $text_tokens[$i][1]);
+                        }
                     } else if ($k === $breve_text_start + 1) {
-                        $text_tokens[$i][1] = sprintf('\squash %s', $text_tokens[$i][1]);
+                        $text_tokens[$i][1] = sprintf('\squashText %s', $text_tokens[$i][1]);
                     } else if ($k === $breve_text_end) {
-                        $text_tokens[$i][1] = sprintf('\unLeft \unSquash %s', $text_tokens[$i][1]);
+                        $text_tokens[$i][1] = sprintf('\unLeftText \unSquashText %s', $text_tokens[$i][1]);
                     }
                     ++$k;
                 }
@@ -637,7 +647,6 @@ function pslm_process_snippet($music, $text) {
         return $token[1];
     }, $text_tokens));
 
-    // $music = str_replace('_', '', $music);
     $music = preg_replace('#([^ ]*)_#', '\bar "" $1', $music);
 
     $n_notes_to_add = $n_text_syllables - $n_note_syllables;
@@ -647,11 +656,10 @@ function pslm_process_snippet($music, $text) {
         $extra_breves = pslm_extra_breves(intval($m[2]) - 1);
         $music = str_replace(
             $m[0],
-            sprintf('%s\breve*1/16 \hideNotes %s\unHideNotes', $m[1], $extra_breves),
+            sprintf('\squashNotes %s\breve*1/16 \hideNotes %s\unHideNotes \unSquashNotes', $m[1], $extra_breves),
             $music
         );
     }
-
     preg_match_all('#\\\\breve(?!\*\d+)#', $music, $m, PREG_SET_ORDER);
     if (count($m) > 1) {
         echo "ERROR: More than one automatic breve in a piece of music.\n";
@@ -660,25 +668,13 @@ function pslm_process_snippet($music, $text) {
         $extra_breves = pslm_extra_breves($n_notes_to_add);
         $music = preg_replace(
             '#([^\s]+)\\\\breve(?!\*\d+)#',
-            sprintf('\1\breve*1/16 \hideNotes %s\unHideNotes', $extra_breves),
+            sprintf('\squashNotes \1\breve*1/16 \hideNotes %s\unHideNotes \unSquashNotes', $extra_breves),
             $music
         );
     } elseif ($n_notes_to_add < 0) {
         $n_syllabels_to_add = -$n_notes_to_add;
         $text .= sprintf(' \repeat unfold %d { \skip 1 }', $n_syllabels_to_add);
     }
-    /*
-    if ($double_breve && preg_match('#\\\\unHideNotes +([abcdefgis]+)[,\']*8( +\1)+[24]?#', $music, $m)) {
-        $n_breves = count(preg_split('#\s+#', $m[0])) - 1;
-        $breve = '\breve*1/16';
-        $extra_breves = str_repeat(sprintf('%s \bar "" ', $breve), $n_breves - 1);
-        $music = str_replace(
-            $m[0],
-            sprintf('\unHideNotes %s%s \hideNotes %s\unHideNotes <>8', $m[1], $breve, $extra_breves),
-            $music
-        );
-    }
-    */
     $music = str_replace('\bar "||"', '\bar "||" \break', $music);
     return [$music, $text];
 }
@@ -693,33 +689,48 @@ function pslm_text_to_lyrics($text) {
     }
     $htext = $PSLM_SYLLABLE->hyphenateText($text);
     
-    if ($PSLM_HYPH_EXCEPTIONS === null) {
-        $hyph = file_get_contents(dirname(__FILE__) . '/db/hyphenation.txt');
-        $hyph = preg_split("#\n+#", trim($hyph));
-        
-        $search = str_replace('-', '', $hyph);
-        for ($i = 0; $i < count($search); ++$i) {
-            $search[$i] = '#'.$search[$i].'#ui'; // case-insensitive
-        }
-        $replace = str_replace('-', ' -- ', $hyph);
-        $search[] = '#(?<=[aáeéěiíoóuúůyý])(?=([bdďcčfghjklmnňpqrřsštťvwxzž]|ch|ct|chr|sk|[hkmst]l|[bfkt]r|př|tv|zř|jm|[sš]t|sv|vš|zn)[aáeéěiíoóuúůyý])#ui'; // general pattern for two vowels separated by a consonant or consonant group
-        $replace[] = ' -- ';
-        $PSLM_HYPH_EXCEPTIONS = [$search, $replace];
-    }
-    $htext = preg_replace($PSLM_HYPH_EXCEPTIONS[0], $PSLM_HYPH_EXCEPTIONS[1], $htext);
     $repl = [
         '#\s{2,}#' => ' ', // normalize white-spaces to single space
-        '# -- ([bdďjlrř]) -- #ui' => '\1 -- ', // move some ambiguous consonants to the previous syllable if both options are possible
-        '# -- ([cčfghkmnňpqsštťvwxzž]) -- #ui' => ' -- \1', // move other ambiguous consonants to the next syllable if both options are posible
+        
+        // two vowels separated by a consonant or consonant group
+        '#(?<=[aáeéěiíoóuúůyý])(?=([bdďcčfghjklmnňpqrřsštťvwxzž]|ch|hr|ct|chr|sk|[hkmst]l|[fkpt]r|př|tv|zř|jm|[sš]t|sv|sn|vš|zn)[aáeéěiíoóuúůyý])#ui' => ' -- ',
+
+        '# -- ([bjlť]) -- #ui' => '\1 -- ', // move some ambiguous consonants to the previous syllable if both options are possible
+        '# -- ([cčdďfghkmnňpqrřsštťvwxzž]) -- #ui' => ' -- \1', // move other ambiguous consonants to the next syllable if both options are posible
         '# -- (st|md) -- #ui' => ' -- \1', // move other ambiguous consonants to the next syllable if both options are posible
         '# -- (sť|ls|ch|mž)\b#ui' => '\1', // move unsyllabic parts to the previous syllable
         '#\b(js|lst) -- #ui' => '\1', // move unsyllabic parts to the next syllable
 
-        '#příz -- n#ui' => 'pří -- zn',
+        // fix unbreaked cases
+        '#(?<=e)(?=[aáio])#ui' => ' -- ',
+        '#(?<=a)(?=[eo])#ui' => ' -- ',
+        '#(?<=i)(?=[aáeu])#ui' => ' -- ',
+        '#(?<=ne)(?=u)#ui' => ' -- ',
+        '#(?<=ad)(?=b)#ui' => ' -- ',
+        '#(?<=ez)(?=k)#ui' => ' -- ',
+        '#(?<=se)(?=dm)#ui' => ' -- ',
+        '#(?<=u)(?=(smr|vn))#ui' => ' -- ',
+        '#(?<=em)(?=ž)#ui' => ' -- ',
+        '#(?<=vr)(?=hl)#ui' => ' -- ',
+        '#(?<=[áe])(?=hl)#ui' => ' -- ',
+        '#(?<=ut)(?=k)#ui' => ' -- ',
+        '#(?<=o)(?=sm)#ui' => ' -- ',
+        '#(?<=ob)(?=r)#ui' => ' -- ',
+
+        // fix wrongly breaked cases
+        '#(p)říz -- n#ui' => '\1ří -- zn',
+        '#s -- t#ui' => ' -- st',
+        '#(p)a -- stvi#ui' => '\1ast -- vi',
+        '#\b(u)z -- n#ui' => '\1 -- zn',
+        '#(č)er -- st#ui' => '\1erst --',
+        '#(d)oj -- d#ui' => '\1o -- jd',
+        '#(u)h -- n#ui' => '\1 -- hn',
+        '#(v)ej -- d#ui' => '\1e -- jd',
         
         '#\b[ksvz] [^\s]+#ui' => '"\0"', // join unsyllabic preposition to the next syllable
         '#[^\s]+ \+#ui' => '"\0"', // join + sign to the previous syllable
     ];
+    var_dump($htext);
     $htext = preg_replace(array_keys($repl), array_values($repl), $htext);
     return $htext;
 }

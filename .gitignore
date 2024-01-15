@@ -1,7 +1,9 @@
 node_modules
 vendor
 *.lock
+.~lock*
 upload.sh
+upload_staging.sh
 .vscode
 html/css/sizes.css
 html/css/OL[0-9]*.css
@@ -13,7 +15,8 @@ html/o-projektu.html
 html/mp3
 html/sitemap.xml
 html/svg
-ly
+ly/*
+!ly/*-7.ly
 sh
 all.sh
 midi
@@ -22,7 +25,10 @@ db/*.xml
 db/*.gz
 db/*.pdf
 db/*_zaltar.yml
+db/*.ods
 pslm/*.pdf
 pslm/*.ly
 pslm/*.svg
 tiny_example.*
+OL543_MWE*
+*.txt

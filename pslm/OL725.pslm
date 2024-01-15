@@ -32,10 +32,7 @@ t: Ať se raduje Izrael ze svého tvůrce,
 m: aB g8 f e_( d) d4 r ||
 t: * synové Siónu ať jásají nad svým králem.
 
-%% part: responsum_short
-
-m: e'8 d c d e2 / f8 f f / e g / a4. a8 g4 / a b8 b~ b4 ||
-t: Vytvořil jsi z nás našemu Bohu království a kněze.
+%% use: responsum
 
 %% part: verse
 

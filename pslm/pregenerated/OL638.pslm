@@ -9,7 +9,7 @@ m: \key f \major
 
 %% part: responsum
 
-m: f'8 f g f e d / g g g2 | a8 c c c2 ||
+m: f'8 f g f e d / g g g4 r | a8 c c c4 r ||
 t: Veď mě ve své spravedlnosti, Hospodine!
 
 %% part: verse

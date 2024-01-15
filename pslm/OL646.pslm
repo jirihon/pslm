@@ -32,10 +32,7 @@ t: Úplně ze mě smyj mou vinu
 m: r8 g8 gB f8 g bes_( a) a4 r ||
 t: * a očisť mě od mého hříchu.
 
-%% part: responsum_short
-
-m: c''8 d c bes a r | bes c bes / a g g4 ||
-t: Smiluj se, Pane, neboť jsme zhřešili.
+%% use: responsum
 
 %% part: verse
 
@@ -50,7 +47,7 @@ t: * ve skrytu mě učíš moudrosti!
 m: d'B e8 f a_( g) g2 |
 t: Pokrop mě yzopem, a budu čistý,
 
-m: gB f8 g bes_( a) a2 ||
+m: gB f8 g bes_ a a2 ||
 t: * umyj mě, a budu bělejší než sníh.
 
 %% use: responsum

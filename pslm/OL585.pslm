@@ -17,18 +17,18 @@ t: Bože, obnov nás, rozjasni svou tvář, a budeme spaseni.
 
 %% part: verse
 
-m: f'8( c') cB bes8 as g_ f f4 r |
+m: f'8( c') / cB bes8 as g_ f f4 r |
 t: Slyš, Izraelův pastýři,
 
-m: bes,8 f'B es8 f as_( g) g4 r ||
+m: bes,8 f' / fB es8 f as_( g) g4 r ||
 t: * který vodíš Josefa jak ovce.
 
 %% part: verse
 
-m: f'8 c'B bes8 as g_ f f f4 r |
+m: f'8 c' / cB bes8 as g_ f f f4 r |
 t: Skvěj se září, ty, který trůníš nad cheruby,
 
-m: bes,8 f'B es8 f as_ g g4 r ||
+m: bes,8 f' / fB es8 f as_ g g4 r ||
 t: * před Efraimem, Benjamínem a Manassem,
 
 %% part: verse
@@ -43,7 +43,7 @@ t: * a přijď nás zachránit!
 
 %% part: verse
 
-m: f'8 c'B bes8 as g_( f) f4 r |
+m: f'8 c' / cB bes8 as g_( f) f4 r |
 t: Bože zástupů, jak dlouho budeš dýmat hněvem,
 
 m: bes,8 f'8 es8 f as_( g) g4 r ||
@@ -51,7 +51,7 @@ t: * když se modlí tvůj lid?
 
 %% part: verse
 
-m: f'8 c'B bes8 as g_ f f4 |
+m: f'8 c' / cB bes8 as g_ f f4 |
 t: Nasytils jej chlebem slzavým
 
 m: r8 bes,8 f'B es8 f as_ g g g4 r ||
@@ -59,7 +59,7 @@ t: * a slzami jsi ho napojil vrchovatě.
 
 %% part: verse
 
-m: f'8 c'B bes8 as g_( f) f4 |
+m: f'8 c' / cB bes8 as g_( f) f4 |
 t: Dopouštíš, že se kvůli nám sousedé sváří
 
 m: r8 bes,8 f'B es8 f as_ g g g2 ||
