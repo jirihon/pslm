@@ -295,7 +295,7 @@ function pslm_psalm_title($id, $psalm) {
     return sprintf(
         '%s – %s – %s',
         $id,
-        implode(' ', $psalm['original_text']['responsum']),
+        pslm_original_text_to_plain_text($psalm['original_text']['responsum']),
         pslm_psalm_number($psalm),
     );
 }
@@ -445,13 +445,18 @@ function pslm_update_pregenerated() {
     }
 }
 
+function pslm_original_text_to_plain_text($text) {
+    $text = trim(implode(' ', $text));
+    $text = str_replace(' -- ', '-', $text);
+    $text = preg_replace('#\s+#', ' ', $text);
+    return $text;
+}
+
 function pslm_to_plain_text($psalm) {
     $desc = [];
 
     foreach ($psalm['original_text'] as $part => $text) {
-        $text = trim(implode(' ', $text));
-        $text = str_replace(' -- ', '', $text);
-        $text = preg_replace('#\s+#', ' ', $text);
+        $text = pslm_original_text_to_plain_text($text);
 
         if (preg_match('#^responsum#', $part)) {
             $desc[] = sprintf('R. %s', $text);
@@ -467,9 +472,7 @@ function pslm_to_formatted_text($psalm) {
     $desc = [];
 
     foreach ($psalm['original_text'] as $part => $text) {
-        $text = trim(implode(' ', $text));
-        $text = str_replace(' -- ', '', $text);
-        $text = preg_replace('#\s+#', ' ', $text);
+        $text = pslm_original_text_to_plain_text($text);
 
         if (preg_match('#^responsum#', $part)) {
             $desc[] = sprintf('<p class="responsum-text"><strong>R.</strong> %s</p>', $text);
