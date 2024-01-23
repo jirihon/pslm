@@ -726,12 +726,14 @@ function pslm_text_to_lyrics($text) {
         '#(d)oj -- d#ui' => '\1o -- jd',
         '#(u)h -- n#ui' => '\1 -- hn',
         '#(v)ej -- d#ui' => '\1e -- jd',
+        '#Ja -- a -- ru#u' => 'Jaa -- ru',
         
         '#\b[ksvz] [^\s]+#ui' => '"\0"', // join unsyllabic preposition to the next syllable
         '#[^\s]+ \+#ui' => '"\0"', // join + sign to the previous syllable
     ];
     var_dump($htext);
     $htext = preg_replace(array_keys($repl), array_values($repl), $htext);
+    var_dump($htext);
     return $htext;
 }
 
