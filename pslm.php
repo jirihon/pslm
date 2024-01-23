@@ -693,7 +693,7 @@ function pslm_text_to_lyrics($text) {
         '#\s{2,}#' => ' ', // normalize white-spaces to single space
         
         // two vowels separated by a consonant or consonant group
-        '#(?<=[aáeéěiíoóuúůyý])(?=([bdďcčfghjklmnňpqrřsštťvwxzž]|ch|hr|ct|chr|sk|[hkmst]l|[fkpt]r|př|tv|zř|jm|[sš]t|sv|sn|vš|zn)[aáeéěiíoóuúůyý])#ui' => ' -- ',
+        '#(?<=[aáeéěiíoóuúůyý])(?=([bdďcčfghjklmnňpqrřsštťvwxzž]|ch|hr|ct|chr|sk|[hkmpst]l|[fkpt]r|př|tv|zř|jm|[sš]t|sv|sn|vš|zn)[aáeéěiíoóuúůyý])#ui' => ' -- ',
 
         '# -- ([bjlť]) -- #ui' => '\1 -- ', // move some ambiguous consonants to the previous syllable if both options are possible
         '# -- ([cčdďfghkmnňpqrřsštťvwxzž]) -- #ui' => ' -- \1', // move other ambiguous consonants to the next syllable if both options are posible

@@ -422,9 +422,9 @@ Vzpo -- mí -- ná -- me, Bo -- že, na tvé mi -- lo -- sr -- den -- ství ve t
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key g \major \relative { \squashNotes c''\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes b8 a \bar "" a[( g)] g4 \cadenzaMeasure \bar "|" r8 g8 \squashNotes g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes fis8 e \bar "" e d d2 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key g \major \relative { \squashNotes c''\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes b8 a \bar "" a[( g)] g4 \cadenzaMeasure \bar "|" r8 g8 \squashNotes g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes fis8 e \bar "" e d d2 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "8."
-\leftText Ja -- \squashText ko tvé jmé -- no, Bo -- \breath "že," tak i tvá chvá -- la sa -- há až na \unLeftText \unSquashText ko -- nec \markup \accent ze -- \star mě. Tvá \leftText pra -- \squashText vi -- ce oplý -- vá \unLeftText \unSquashText spra -- ve -- \markup \accent dl -- no -- stí. } }
+\leftText Ja -- \squashText ko tvé jmé -- no, Bo -- \breath "že," tak i tvá chvá -- la sa -- há až na \unLeftText \unSquashText ko -- nec \markup \accent ze -- \star mě. Tvá \leftText pra -- \squashText vi -- ce o -- plý -- vá \unLeftText \unSquashText spra -- ve -- \markup \accent dl -- no -- stí. } }
     >>
     \layout {}
 }

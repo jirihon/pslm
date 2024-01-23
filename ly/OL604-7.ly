@@ -377,9 +377,9 @@ Spra -- ve -- dli -- vý bu -- de, Pa -- ne, pře -- bý -- vat na tvé sva -- t
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key f \major \relative { \squashNotes bes'\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes a8 bes \bar "" c a a4 \cadenzaMeasure \bar "|" r8 g8 \squashNotes g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes f8 g \bar "" a f f f4 \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key f \major \relative { \squashNotes bes'\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes a8 bes \bar "" c a a4 \cadenzaMeasure \bar "|" r8 g8 \squashNotes g\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes f8 g \bar "" a f f f4 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "4."
-\leftText Ne -- \squashText lichva -- ří \unLeftText \unSquashText svý -- mi \markup \accent pe -- ně -- \star zi a \leftText ne -- \squashText be -- re úplat -- ky \unLeftText \unSquashText pro -- ti \markup \accent ne -- vin -- né -- mu. } }
+\leftText Ne -- \squashText lichva -- ří \unLeftText \unSquashText svý -- mi \markup \accent pe -- ně -- \star zi a \leftText ne -- \squashText be -- re ú -- plat -- ky \unLeftText \unSquashText pro -- ti \markup \accent ne -- vin -- né -- mu. } }
     >>
     \layout {}
 }
