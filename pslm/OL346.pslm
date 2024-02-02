@@ -1,0 +1,69 @@
+%% occasion: 'Zmrtvýchvstání Páně, vigilie (po epištole)'
+%% responsum_reference: 'greg. chorál'
+%% verse_reference: 'Ž 118 (117)'
+%% author: olejnik
+%% source: nedelni_zaltar
+%% page: 355
+%% a: "r8 f' g( a) aB g8 a_ f2"
+%% b: "aB f8 g( a) g_ f f2"
+
+m: \key f \major
+
+%% part: responsum
+
+m: r8 f' g a f4 \breathe g8( a) g f d--(c) \breathe f g( a) g( f) f4 ||
+t: Aleluja, aleluja, aleluja.
+
+%% part: verse
+
+m: r8 f' g( a) aB g8 a_ f2 |
+t: Oslavujte Hospodina, neboť je dobrý,
+
+m: aB f8 g( a) g_ f f4 r ||
+t: jeho milosrdenství trvá na věky.
+
+%% part: verse
+
+m: a'B g8 a_ f2 |
+t: Nechť řekne dům Izraelův:
+
+m: aB f8 g( a) g_ f f4 r ||
+t: * „Jeho milosrdenství trvá na věky.“
+
+%% use: responsum
+
+%% part: verse
+
+m: r8 f' g( a) aB g8 a_ f f4 r |
+t: Hospodinova pravice mocně zasáhla,
+
+m: aB f8 g( a) g_ f f4 r ||
+t: * Hospodinova pravice mě pozvedla.
+
+%% part: verse
+
+m: a'B g8 a_ f f4 |
+t: Nezemřu, ale budu žít
+
+m: r8 a8 aB f8 g( a) g_ f4 r ||
+t: * a vypravovat o Hospodinových činech.
+
+%% use: responsum
+
+%% part: verse
+
+m: r8 f' g( a) aB g8 a_ f f4 r |
+t: Kámen, který stavitelé zavrhli,
+
+m: aB f8 g( a) g_ f f2 ||
+t: * stal se kvádrem nárožním.
+
+%% part: verse
+
+m: a'B g8 a_ f4 r |
+t: Hospodinovým řízením se tak stalo,
+
+m: aB f8 g( a) g_ f2 ||
+t: * je to podivuhodné v našich očích.
+
+%% use: responsum

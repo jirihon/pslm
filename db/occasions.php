@@ -2536,6 +2536,10 @@
   array (
     0 => 'OL344',
   ),
+  'Zmrtvýchvstání Páně, vigilie (po epištole)' => 
+  array (
+    0 => 'OL346',
+  ),
   'Pondělí 1. týdne 1' => 
   array (
     0 => 'OL401',
