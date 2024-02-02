@@ -261,6 +261,12 @@ function pslm_save_occasions() {
     file_put_contents(dirname(__FILE__).'/db/psalm_occasions.json', json_encode($psalm_occasions, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
 }
 
+function pslm_footer() {
+?>
+<div class="footer">© <a target="_blank" rel="noopener noreferrer" href="https://www.ado.cz/">Arcibiskupství olomoucké</a></div>
+<?php
+}
+
 
 function pslm_html_page($title, $body, $head = '') {
     ob_start();
@@ -279,6 +285,7 @@ function pslm_html_page($title, $body, $head = '') {
             <h1>Olejníkův žaltář</h1>
         <?php endif ?>
         <?= $body ?>
+        <?php pslm_footer() ?>
     </div>
 </body>
 </html>
@@ -340,13 +347,15 @@ function pslm_render_listing() {
 
 function pslm_render_about() {
     $html = '
-    <p><i>Chtěli bychom mít stále při sobě noty ke všem Olejníkovým žalmům, abychom je mohli zpívat kdykoli a kdekoli.</i></p>
-        
-    <p>Tento žaltář je technickým experimentem, prozatím bez církevního schválení. Cílem je vymyslet způsob, jak žalmy prezentovat na mobilních zařízeních, aby se pohodlně hledaly a zpívaly. Výsledky by mohly přispět ke zlepšení <a href="https://zpevnik.proscholy.cz">Zpěvníku pro scholy</a>.</p>
+    <p>Tento mobilní žaltář je věrnou elektronickou kopií nejnovějšího knižního vydání Olejníkových žalmů. Obsahuje všechny žalmy z publikací <em>Žaltář I: Responzoriální žalmy pro neděle, svátky, obřady a všední dny adventní, vánoční, postní a velikonoční</em> a <em>Žaltář II: Responzoriální žalmy pro všední dny liturgického mezidobí, cyklus 1 a 2</em> vydaných Arcibiskupstvím olomouckým v roce 2021.</p>
 
-    <p>Žaltář čerpá z nejnovějšího tištěného <a href="https://josefolejnik.cz/publikace/vydane/zaltar-2dilny/">Olejníkova dvojdílného Žaltáře</a> připraveného Vladímírem Pavlíkem. Díky této mobilní variantě mohou scholy i jednotlivci ihned využívat tuto nejnovější edici, která opravuje mnoho chyb přechozích vydání.</p>
+    <p>Cílem není nahrazení papírové formy žaltářů, avšak vhodné doplnění tam, kde papírová forma není dostupná.</p>
 
-    <p>Zdrojový kód: <a href="https://github.com/jirihon/pslm/">GitHub</a></p>
+    <p>Knižní vydání žaltářů je možné si objednat na e-mailu <a href="mailto:svecova.marta@ado.cz">svecova.marta@ado.cz</a>. Více informací k žaltářům lze nalézt na stránce <a target="_blank" rel="noopener noreferrer" href="https://josefolejnik.cz/publikace/vydane/zaltar-2dilny/">josefolejnik.cz</a>.</p>
+
+    <p>Mobilní žaltář vznikl pod záštitou webu <a target="_blank" rel="noopener noreferrer" href="https://www.liturgie.cz/">Liturgie.cz</a> a se svolením <a target="_blank" rel="noopener noreferrer" href="https://www.ado.cz/">Arcibiskupství olomouckého</a>, které je držitelem autorských práv k dílu P. Josefa Olejníka.</p>
+    
+    <p>Zdrojový kód projektu je k dispozici na platformě <a target="_blank" rel="noopener noreferrer" href="https://github.com/jirihon/pslm/">GitHub</a>. Mobilní žaltář je dokončený a notový zápis prošel korekturou. Pokud najdete chybu, budeme moc rádi, když nám dáte vědět na adresu <a href="mailto:jiri.hon@gmail.com">jiri.hon@gmail.com</a>, rádi ji opravíme.</p>
 
     <p>Tým Žaltář.cz:</p>
     <ul>
@@ -587,6 +596,7 @@ function pslm_render_psalm_html($id) {
         <?php endif ?>
         
         <p><a href="mailto:jiri.hon@gmail.com?subject=Chyba v žalmu <?= $id ?>">Nahlásit chybu</a></p>
+        <?php pslm_footer() ?>
     </div>
 </body>
 </html>
