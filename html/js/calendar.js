@@ -198,7 +198,7 @@ document.addEventListener("DOMContentLoaded", async function() {
             let list = [];
             const show_occasion = psalms.length > 1;
             for (const p of psalms) {
-                const occasion = p.occasion.replace(/ \([^\)]+\)/, '');
+                const occasion = p.occasion.replace(/ \(([^\)]+)\)/, ', $1');
                 const occasion_html = show_occasion ? `<br /><span>(${occasion})</span>` : '';
                 for (const id of p.psalms) {
                     list.push(`<li><a href="${id}.html">${pslm_titles[id]}</a>${occasion_html}</li>`);
