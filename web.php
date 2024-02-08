@@ -570,7 +570,7 @@ function pslm_render_psalm_html($id) {
         <?php endforeach ?>
             <h3><?= pslm_psalm_number($psalm) ?></h3>
         </div>
-        <p><a href="<?= "pdf/$id.pdf" ?>">Stáhnout noty v PDF</a></p>
+        <p><a href="<?= "pdf/$id.pdf" ?>">Stáhnout varhanní noty</a></p>
         <p><audio controls src="mp3/<?= $id ?>.mp3?ver=<?= filemtime("html/mp3/$id.mp3") ?>"></audio></p>
         <p><a href="#" id="zoom-in-button">Zvětšit</a> – <a href="#" id="zoom-out-button">Zmenšit</a> – <a href="#" id="zoom-reset-button">Resetovat</a></p>
 
