@@ -363,7 +363,7 @@ function pslm_render_about() {
         <li>František Sovadina – sazba (farnost <a target="_blank" rel="noopener noreferrer" href="https://www.farnostopava.cz/">Opava</a>)</li>
         <li>Antonín Salzmann – sazba (farnost <a target="_blank" rel="noopener noreferrer" href="https://www.farnostjaktar.cz/">Opava–Jaktař</a>)</li>
         <li>Vladimír Pavlík – korektury (farnost <a target="_blank" rel="noopener noreferrer" href="http://www.farnostvelkapolom.cz/">Velká Polom</a>)</li>
-        <li>P. Ondřej Talaš – korektury, duchovní podpora (farnost <a target="_blank" rel="noopener noreferrer" href="https://www.farnostzlin.cz/">Zlín</a>)</li>
+        <li>P. Ondřej Talaš – korektury, duchovní podpora (vedoucí <a target="_blank" rel="noopener noreferrer" href="https://www.ado.cz/cemu-se-venujeme/pastorace/centrum-pro-liturgickou-hudbu/">Centra pro liturgickou hudbu Arcibiskupství olomouckého</a>)</li>
     </ul>
     ';
     $html = pslm_html_page('O projektu', $html, '');
