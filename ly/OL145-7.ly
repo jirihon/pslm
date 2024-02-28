@@ -350,9 +350,18 @@ Jdě -- te do ce -- lé -- ho svě -- ta a hlá -- sej -- te e -- van -- ge -- l
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key c \major \relative { \squashNotes d''\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes \bar "" d8[( b)] g g4 \cadenzaMeasure \bar "|" r8 a8 \squashNotes a\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes \bar "" a8[( f)] e d4 r \cadenzaMeasure \bar "||" \break } \bar "|." }
+        \new Voice = "melody" { \cadenzaOn \key c \major \relative { \squashNotes d''\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes \bar "" d8[( b)] g g4 \cadenzaMeasure \bar "|" r8 a8 \squashNotes a\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes \bar "" a8[( f)] e d4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "2."
 \leftText Ne -- \squashText boť moc -- ně vlád -- ne nad ná -- mi je -- ho mi -- lo -- \unLeftText \unSquashText \markup \accent sr -- den -- \star ství a \leftText Ho -- \squashText spo -- di -- no -- va věr -- nost tr -- vá \unLeftText \unSquashText \markup \accent na vě -- ky. } }
+    >>
+    \layout {}
+}
+
+\score {
+    <<
+        \new Voice = "melody" { \cadenzaOn \key c \major \relative { e'4 c f8 f e d \bar "" g e4 \breathe e8 \cadenzaMeasure \bar "|" f f f a b c c c2 \cadenzaMeasure \bar "||" \break } \bar "|." }
+        \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
+Jdě -- te do ce -- lé -- ho svě -- ta a hlá -- sej -- te e -- van -- ge -- li -- um. } }
     >>
     \layout {}
 }

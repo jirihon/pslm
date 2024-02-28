@@ -386,9 +386,18 @@ O -- pa -- truj, Pa -- ne, mou du -- ši ve svém po -- ko -- ji! } }
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key c \major \relative { \squashNotes c'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes f8 e \bar "" e d d d4 \cadenzaMeasure \bar "|" r8 d e8 f \bar "" a g g4 r \cadenzaMeasure \bar "||" \break } \bar "|." }
+        \new Voice = "melody" { \cadenzaOn \key c \major \relative { \squashNotes c'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes f8 e \bar "" e d d d4 \cadenzaMeasure \bar "|" r8 d e8 f \bar "" a g g4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "5."
 \leftText Dou -- \squashText fej, Iz -- ra -- \unLeftText \unSquashText e -- li, \markup \accent "v Ho" -- spo -- di -- \star na ny -- ní i \markup \accent na vě -- ky. } }
+    >>
+    \layout {}
+}
+
+\score {
+    <<
+        \new Voice = "melody" { \cadenzaOn \key c \major \relative { g'8 a g g e g a a r \cadenzaMeasure \bar "|" b a g g g4 \cadenzaMeasure \bar "||" \break } \bar "|." }
+        \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
+O -- pa -- truj, Pa -- ne, mou du -- ši ve svém po -- ko -- ji! } }
     >>
     \layout {}
 }
