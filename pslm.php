@@ -532,6 +532,13 @@ function pslm_parse_psalm($psalm, $id) {
         $line_buffer[] = $line;
     }
     $psalm['opts'] = $opts;
+
+    // check for reponsum at the end of the psalm
+    $text_keys = array_keys($psalm['original_text']);
+    $last_key = array_pop($text_keys);
+    if (!preg_match('#^responsum#', $last_key)) {
+        echo "ERROR: missing responsum at the end of $id\n";
+    }
     return $psalm;
 }
 
