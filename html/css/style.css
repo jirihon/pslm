@@ -68,10 +68,6 @@ a, .back-button {
 a {
     text-decoration: none;
 }
-audio {
-    width: 100%;
-    max-height: 35px;
-}
 .back-button {
     position: absolute;
     width: 18px;
@@ -130,6 +126,18 @@ p.verse-text {
 .footer {
     text-align: center;
     padding-bottom: 20px;
+}
+.audio {
+    display: flex;
+    align-items: center;
+}
+.audio span {
+    padding-right: 10px;
+    flex-shrink: 100;
+}
+.audio audio {
+    flex-grow: 1;
+    max-height: 35px;
 }
 
 @media (prefers-color-scheme: dark) {
