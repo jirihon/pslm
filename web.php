@@ -271,7 +271,7 @@ function pslm_footer() {
 function pslm_html_page($title, $body, $head = '') {
     ob_start();
 ?><!DOCTYPE html>
-<html lang="cs" prefix="og: http://ogp.me/ns#">
+<html lang="cs" prefix="og: http://ogp.me/ns#" class="os-default">
 <head>
     <?php pslm_render_head($title, 'Noty k Olejníkovým žalmům pro každý den liturgického kalendáře.') ?>
     <?= $head ?>
@@ -378,6 +378,7 @@ function pslm_render_index() {
 
     <p><input type="search" class="search-field" placeholder="Hledat..." incremental /></p>
     <div class="search"></div>
+    <p>Režim: <a href="#" id="light-theme">Světlý</a> – <a href="#" id="dark-theme">Tmavý</a> – <a href="#" id="os-default-theme">Výchozí</a></p>
     <div class="calendar"><div class="today"></div><div class="sunday"></div><div class="week"></div></div>
     ';
 
@@ -529,6 +530,7 @@ function pslm_render_head($title, $desc) {
     <meta name="msapplication-TileColor" content="#be1622">
     <!--<meta name="theme-color" content="#ffffff">-->
     <meta name="description" content="<?= $desc ?>">
+    <script src="js/theme.js?ver=<?= filemtime('html/js/theme.js') ?>"></script>
     <?php
 }
 
@@ -553,7 +555,7 @@ function pslm_render_psalm_html($id) {
 
     ob_start();
 ?><!DOCTYPE html>
-<html lang="cs" prefix="og: http://ogp.me/ns#">
+<html lang="cs" prefix="og: http://ogp.me/ns#" class="os-default">
 <head>
     <?php pslm_render_head($title, $desc) ?>
     <script>let pslm_svg_sizes = [<?= implode(', ', PSLM_SVG_SIZES) ?>];</script>

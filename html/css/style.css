@@ -98,6 +98,7 @@ h2.subtitle {
     -webkit-appearance: none;
     border: 1px solid #888888;
     border-radius: 4px;
+    background: #eee;
 }
 p.responsum-text {
     margin: 1em 0;
@@ -140,17 +141,48 @@ p.verse-text {
     max-height: 35px;
 }
 
+.dark {
+    --link-color: #ff0011;
+    background: #000;
+    color: #fff;
+}
+.dark .search-field {
+    background: #333;
+    color: #fff;
+}
+.dark .occasions h3 {
+    background: #444;
+}
+.dark .score {
+    filter: invert(0.9);
+}
+.dark .day li span {
+    color: grey;
+}
+
+.light {
+    background: #fff;
+    color: #000;
+}
+.light .search-field {
+    background: #eee;
+    color: #000;
+}
+
 @media (prefers-color-scheme: dark) {
-    :root {
+    :root:not(.light) {
         --link-color: #ff0011;
     }
-    .occasions h3 {
+    :root:not(.light) .search-field {
+        background: #333;
+    }
+    :root:not(.light) .occasions h3 {
         background: #444;
     }
-    .score {
+    :root:not(.light) .score {
         filter: invert(0.9);
     }
-    .day li span {
+    :root:not(.light) .day li span {
         color: grey;
     }
 }
