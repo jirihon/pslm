@@ -355,7 +355,7 @@ function pslm_render_about() {
 
     <p>Mobilní žaltář vznikl pod záštitou webu <a target="_blank" rel="noopener noreferrer" href="https://www.liturgie.cz/">Liturgie.cz</a> a se svolením <a target="_blank" rel="noopener noreferrer" href="https://www.ado.cz/">Arcibiskupství olomouckého</a>, které je držitelem autorských práv k dílu P. Josefa Olejníka.</p>
     
-    <p>Zdrojový kód projektu je k dispozici na platformě <a target="_blank" rel="noopener noreferrer" href="https://github.com/jirihon/pslm/">GitHub</a>. Mobilní žaltář je dokončený a notový zápis prošel korekturou. Pokud najdete chybu, budeme moc rádi, když nám dáte vědět na adresu <a href="mailto:jiri.hon@gmail.com">jiri.hon@gmail.com</a>, rádi ji opravíme.</p>
+    <p>Zdrojový kód projektu je k dispozici na platformě <a target="_blank" rel="noopener noreferrer" href="https://github.com/jirihon/pslm/">GitHub</a>. Mobilní žaltář je dokončený a notový zápis prošel korekturou. Naleznete-li chybu, dejte nám prosím vědět na adresu <a href="mailto:jiri.hon@gmail.com">jiri.hon@gmail.com</a>, rádi ji opravíme.</p>
 
     <p>Tým Žaltář.cz:</p>
     <ul>
