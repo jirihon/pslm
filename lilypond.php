@@ -167,6 +167,15 @@ if (preg_match('#\.pslm$#', $pslm_f)) {
     $passed_args[] = $lily_f;
 } else {
     // fallback to basic lilypond
+
+    // hyphenate the text in lyricmode
+    $lily = file_get_contents($pslm_f);
+    $n = preg_match_all('#\\\lyricmode \{((\n|.)*?)\}#', $lily, $matches, PREG_SET_ORDER);
+    if ($n > 0) {
+        foreach ($matches as $match) {
+            $hyphenated = pslm_text_to_lyrics($match[1], false);
+        }
+    }
     $passed_args = array_slice($argv, 1);
 }
 $passed_args = array_map(function($arg) { return escapeshellarg($arg); }, $passed_args);

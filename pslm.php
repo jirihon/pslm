@@ -33,7 +33,6 @@ define('PSLM_STATE_LIGATURE', $i++);
 define('PSLM_CRESC_MAX_DIST', 10);
 
 $PSLM_SYLLABLE = null;
-$PSLM_HYPH_EXCEPTIONS = null;
 
 $LILYPOND = '/home/xhonji01/Programy/lilypond-2.24.0/bin/lilypond';
 
@@ -687,18 +686,20 @@ function pslm_process_snippet($music, $text, $id) {
 }
 
 
-function pslm_text_to_lyrics($text) {
-    global $PSLM_SYLLABLE, $PSLM_HYPH_EXCEPTIONS;
+function pslm_text_to_lyrics($text, $normalize = true) {
+    global $PSLM_SYLLABLE;
     if ($PSLM_SYLLABLE === null) {
         Syllable::setCacheDir(dirname(__FILE__) . '/cache');
         Syllable::setLanguageDir(dirname(__FILE__) . '/lang');
         $PSLM_SYLLABLE = new Syllable('cssk', ' -- ');
     }
     $htext = $PSLM_SYLLABLE->hyphenateText($text);
+
+    if ($normalize) {
+        $htext = preg_replace('#\s{2,}#', ' ', $htext);
+    }
     
     $repl = [
-        '#\s{2,}#' => ' ', // normalize white-spaces to single space
-        
         // two vowels separated by a consonant or consonant group
         '#(?<=[aáeéěiíoóuúůyý])(?=([bdďcčfghjklmnňpqrřsštťvwxzž]|ch|hr|ct|chr|sk|[hkmpst]l|[fkpt]r|př|tv|zř|jm|[sš]t|sv|sn|vš|zn)[aáeéěiíoóuúůyý])#ui' => ' -- ',
 
@@ -716,7 +717,7 @@ function pslm_text_to_lyrics($text) {
         '#(?<=ad)(?=b)#ui' => ' -- ',
         '#(?<=ez)(?=k)#ui' => ' -- ',
         '#(?<=se)(?=dm)#ui' => ' -- ',
-        '#(?<=u)(?=(smr|vn))#ui' => ' -- ',
+        '#(?<=u)(?=(e|smr|vn))#ui' => ' -- ',
         '#(?<=em)(?=ž)#ui' => ' -- ',
         '#(?<=vr)(?=hl)#ui' => ' -- ',
         '#(?<=[áe])(?=hl)#ui' => ' -- ',
