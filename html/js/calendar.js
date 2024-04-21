@@ -181,7 +181,11 @@ document.addEventListener("DOMContentLoaded", async function() {
             }
             let day_title = lit_days[i].map(d => {
                 let title;
-                if (ranks[d.rank]) {
+                if (d.key === 'easter_monday' || d.key === 'easter_tuesday' || d.key === 'easter_wednesday' ||
+                    d.key === 'easter_thursday' || d.key === 'easter_friday' || d.key === 'easter_saturday' )
+                {
+                    title = d.name;
+                } else if (ranks[d.rank]) {
                     title = ranks[d.rank] + ' ' + d.name;
                 } else {
                     title = d.name;
