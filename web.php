@@ -13,14 +13,33 @@ $PSLM_AUTHORS = Yaml::parseFile(dirname(__FILE__).'/db/authors.yml');
 $PSLM_SOURCES = Yaml::parseFile(dirname(__FILE__).'/db/sources.yml');
 $PSLM_PSALMS = [];
 
-pslm_render_sizes_css();
 pslm_render_listing();
+pslm_export_responsums();
+pslm_render_sizes_css();
 pslm_render_about();
 pslm_update_pregenerated();
 pslm_save_occasions();
 pslm_occasions_to_romcal();
 pslm_render_index();
 pslm_render_sitemap();
+
+
+function pslm_export_responsums() {
+    global $PSLM_PSALMS;
+
+    $fh = fopen('db/responsums.csv', 'w');
+    fputcsv($fh, ['psalm', 'responsum']);
+
+    foreach ($PSLM_PSALMS as $id => $psalm) {
+        $responsum = implode(" ", $psalm['original_text']['responsum']);
+        if (empty($responsum)) {
+            echo "ERROR: No responsum for psalm $id!\n";
+            exit;
+        }
+        fputcsv($fh, [$id, $responsum]);
+    }
+    fclose($fh);
+}
 
 
 // if (file_exists('upload.sh')) {
