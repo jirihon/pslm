@@ -725,6 +725,7 @@ function pslm_text_to_lyrics($text, $normalize = true) {
         '#(?<=o)(?=sm)#ui' => ' -- ',
         '#(?<=ob)(?=r)#ui' => ' -- ',
         '#(?<=u)(?=tr)#ui' => ' -- ',
+        '#(?<=u)(?=dr)#ui' => ' -- ',
 
         // fix wrongly breaked cases
         '#(p)říz -- n#ui' => '\1ří -- zn',
