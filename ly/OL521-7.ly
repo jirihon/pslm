@@ -359,9 +359,9 @@ Pán mě u -- dr -- žu -- je na -- ži -- vu. } }
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key f \major \relative { r8 bes'8 \squashNotes d\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes \unSquashNotes \bar "" c8 c c2 \cadenzaMeasure \bar "|" \squashNotes g\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes \squashNotes bes\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes \bar "" a8 a a4 r \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key f \major \relative { r8 bes'8 \squashNotes d\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes \unSquashNotes \bar "" c8 c c2 \cadenzaMeasure \bar "|" \squashNotes g\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes \unSquashNotes \squashNotes bes\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes \bar "" a8 a a4 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "3."
-Hle, \leftText Bůh \squashText mi \unLeftText \unSquashText \markup \accent po -- má -- \star há, \leftText Pán \squashText mě u -- \unSquashText dr -- \squashText žu -- je \unLeftText \unSquashText \markup \accent na -- ži -- vu. } }
+Hle, \leftText Bůh \squashText mi \unLeftText \unSquashText \markup \accent po -- má -- \star há, \leftText Pán \squashText mě \unSquashText u -- \squashText dr -- žu -- je \unLeftText \unSquashText \markup \accent na -- ži -- vu. } }
     >>
     \layout {}
 }
