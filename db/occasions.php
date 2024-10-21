@@ -3245,6 +3245,10 @@
   array (
     0 => 'OL520',
   ),
+  'Pondělí 29. týdne 2' => 
+  array (
+    0 => 'OL520',
+  ),
   'Sobota 22. týdne 1' => 
   array (
     0 => 'OL521',
