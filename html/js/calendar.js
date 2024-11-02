@@ -181,8 +181,10 @@ document.addEventListener("DOMContentLoaded", async function() {
             }
             let day_title = lit_days[i].map(d => {
                 let title;
+                console.log(d.key);
                 if (d.key === 'easter_monday' || d.key === 'easter_tuesday' || d.key === 'easter_wednesday' ||
-                    d.key === 'easter_thursday' || d.key === 'easter_friday' || d.key === 'easter_saturday' )
+                    d.key === 'easter_thursday' || d.key === 'easter_friday' || d.key === 'easter_saturday' ||
+                    d.key === 'all_souls')
                 {
                     title = d.name;
                 } else if (ranks[d.rank]) {
