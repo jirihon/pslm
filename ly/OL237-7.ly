@@ -370,7 +370,7 @@ Blíz -- ký je Ho -- spo -- din všem, kdo ho vzý -- va -- jí. } }
     <<
         \new Voice = "melody" { \cadenzaOn \key es \major \relative { \squashNotes as'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes \squashNotes c\breve*1/16 \hideNotes \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes \bar "" bes8 bes r4 \cadenzaMeasure \bar "|" r8 f8 \squashNotes f\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes \squashNotes as\breve*1/16 \hideNotes \breve*1/16 \bar "" \unHideNotes \unSquashNotes \bar "" g8 g r4 \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "4."
-\leftText Dob -- \squashText ro -- ti -- vý je \unSquashText Ho -- \squashText spo -- din \unLeftText \unSquashText \markup \accent ke -- \star všem a \leftText sou -- \squashText cit má se vše -- mi \unSquashText svý -- \squashText mi \unLeftText \unSquashText \markup \accent tvo -- ry. } }
+\leftText Dob -- \squashText ro -- ti -- vý je \unSquashText Ho -- \squashText spo -- din \unLeftText \unSquashText \markup \accent ke \star všem a \leftText sou -- \squashText cit má se vše -- mi \unSquashText svý -- \squashText mi \unLeftText \unSquashText \markup \accent tvo -- ry. } }
     >>
     \layout {}
 }
