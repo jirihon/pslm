@@ -396,7 +396,8 @@ Za -- slech -- ne -- te -- li dnes je -- ho hlas, ne -- za -- tvr -- zuj -- te s
 \score {
     <<
         \new Voice = "melody" { \cadenzaOn \key f \major \relative { \squashNotes g'\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes a8 bes \bar "" c c c2 \cadenzaMeasure \bar "|" \squashNotes a\breve*1/16 \hideNotes \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \bar "" \breve*1/16 \breve*1/16 \bar "" \unHideNotes \unSquashNotes d8 bes \bar "" a[( g)] f4 r \cadenzaMeasure \bar "||" \break } }
-        \new Lyrics \lyricsto "melody" { \lyricmode { \leftText ja -- \squashText ko teh -- dy "v Ma" -- sse na pou -- \breath "šti," kde mě dráž -- di -- li \unLeftText \unSquashText va -- ši \markup \accent ot -- co -- \star vé, \leftText zkou -- \squashText še -- li mě, ač vi -- dě -- \unLeftText \unSquashText li mé \markup \accent či -- ny.“ } }
+        \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = "6."
+\leftText ja -- \squashText ko teh -- dy "v Ma" -- sse na pou -- \breath "šti," kde mě dráž -- di -- li \unLeftText \unSquashText va -- ši \markup \accent ot -- co -- \star vé, \leftText zkou -- \squashText še -- li mě, ač vi -- dě -- \unLeftText \unSquashText li mé \markup \accent či -- ny.“ } }
     >>
     \layout {}
 }
