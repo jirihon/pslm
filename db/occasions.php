@@ -2375,6 +2375,7 @@
   'Sv. Cecílie, panny a mučednice (22. listopadu)' => 
   array (
     0 => 'OL305',
+    1 => 'OL306',
   ),
   'Sv. Kazimíra (4. března)' => 
   array (
