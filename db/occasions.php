@@ -743,34 +743,42 @@
   'Sv. Basila Velikého a Řehoře Naziánského, biskupů a učitelů Církve (2. ledna)' => 
   array (
     0 => 'OL95',
+    1 => 'OL96',
   ),
   'Sv. Anežky Římské, panny a mučednice (21. ledna)' => 
   array (
     0 => 'OL95',
+    1 => 'OL96',
   ),
   'Sv. Jana I., papeže a mučedníka (18. května)' => 
   array (
     0 => 'OL95',
+    1 => 'OL96',
   ),
   'Sv. Norberta, biskupa (6. června)' => 
   array (
     0 => 'OL95',
+    1 => 'OL96',
   ),
   'Sv. Apolináře, biskupa a mučedníka (20. července)' => 
   array (
     0 => 'OL95',
+    1 => 'OL96',
   ),
   'Sv. Radima, biskupa (12. října)' => 
   array (
     0 => 'OL95',
+    1 => 'OL96',
   ),
   'Sv. Markéty Marie Alacoque, panny (16. října)' => 
   array (
     0 => 'OL95',
+    1 => 'OL96',
   ),
   'Sv. Gertrudy Veliké, panny (16. listopadu)' => 
   array (
     0 => 'OL95',
+    1 => 'OL96',
   ),
   'Sv. Silvestra I., papeže (31. prosince)' => 
   array (
@@ -1642,34 +1650,40 @@
     0 => 'OL249',
     1 => 'OL250',
   ),
+  'Sv. Romualda, opata (19. června)' => 
+  array (
+    0 => 'OL249',
+    1 => 'OL250',
+  ),
+  'Sv. Jany Františky de Chantal, řeholnice (12. srpna)' => 
+  array (
+    0 => 'OL249',
+    1 => 'OL250',
+  ),
+  'Sv. Jana Eudese, kněze (19. srpna)' => 
+  array (
+    0 => 'OL249',
+    1 => 'OL250',
+  ),
+  'Sv. Moniky (27. srpna)' => 
+  array (
+    0 => 'OL249',
+    1 => 'OL250',
+  ),
   'Sv. Terezie od Dítěte Ježíše (1. října)' => 
   array (
     0 => 'OL249',
     1 => 'OL250',
   ),
-  'Sv. Romualda, opata (19. června)' => 
-  array (
-    0 => 'OL249',
-  ),
-  'Sv. Jany Františky de Chantal, řeholnice (12. srpna)' => 
-  array (
-    0 => 'OL249',
-  ),
-  'Sv. Jana Eudese, kněze (19. srpna)' => 
-  array (
-    0 => 'OL249',
-  ),
-  'Sv. Moniky (27. srpna)' => 
-  array (
-    0 => 'OL249',
-  ),
   'Sv. Martina de Porres, řeholníka (3. listopadu)' => 
   array (
     0 => 'OL249',
+    1 => 'OL250',
   ),
   'Sv. Jana Didaka Cuauhtlatoatzina (9. prosince)' => 
   array (
     0 => 'OL249',
+    1 => 'OL250',
   ),
   '32. neděle v mezidobí A' => 
   array (
@@ -2371,6 +2385,7 @@
   'Sv. Josefíny Bakhity, panny (8. února)' => 
   array (
     0 => 'OL305',
+    1 => 'OL306',
   ),
   'Sv. Cecílie, panny a mučednice (22. listopadu)' => 
   array (
@@ -2449,10 +2464,12 @@
   'Sv. Františky Římské, řeholnice (9. března)' => 
   array (
     0 => 'OL310',
+    1 => 'OL311',
   ),
   'Sv. Alžběty Uherské, řeholnice (17. listopadu)' => 
   array (
     0 => 'OL310',
+    1 => 'OL311',
   ),
   'Sv. Brigity (23. července)' => 
   array (

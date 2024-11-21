@@ -2604,28 +2604,36 @@
         "OL342"
     ],
     "Sv. Basila Velikého a Řehoře Naziánského, biskupů a učitelů Církve (2. ledna)": [
-        "OL95"
+        "OL95",
+        "OL96"
     ],
     "Sv. Anežky Římské, panny a mučednice (21. ledna)": [
-        "OL95"
+        "OL95",
+        "OL96"
     ],
     "Sv. Jana I., papeže a mučedníka (18. května)": [
-        "OL95"
+        "OL95",
+        "OL96"
     ],
     "Sv. Norberta, biskupa (6. června)": [
-        "OL95"
+        "OL95",
+        "OL96"
     ],
     "Sv. Apolináře, biskupa a mučedníka (20. července)": [
-        "OL95"
+        "OL95",
+        "OL96"
     ],
     "Sv. Radima, biskupa (12. října)": [
-        "OL95"
+        "OL95",
+        "OL96"
     ],
     "Sv. Markéty Marie Alacoque, panny (16. října)": [
-        "OL95"
+        "OL95",
+        "OL96"
     ],
     "Sv. Gertrudy Veliké, panny (16. listopadu)": [
-        "OL95"
+        "OL95",
+        "OL96"
     ],
     "Sv. Silvestra I., papeže (31. prosince)": [
         "OL95"
@@ -3289,27 +3297,33 @@
         "OL249",
         "OL250"
     ],
+    "Sv. Romualda, opata (19. června)": [
+        "OL249",
+        "OL250"
+    ],
+    "Sv. Jany Františky de Chantal, řeholnice (12. srpna)": [
+        "OL249",
+        "OL250"
+    ],
+    "Sv. Jana Eudese, kněze (19. srpna)": [
+        "OL249",
+        "OL250"
+    ],
+    "Sv. Moniky (27. srpna)": [
+        "OL249",
+        "OL250"
+    ],
     "Sv. Terezie od Dítěte Ježíše (1. října)": [
         "OL249",
         "OL250"
     ],
-    "Sv. Romualda, opata (19. června)": [
-        "OL249"
-    ],
-    "Sv. Jany Františky de Chantal, řeholnice (12. srpna)": [
-        "OL249"
-    ],
-    "Sv. Jana Eudese, kněze (19. srpna)": [
-        "OL249"
-    ],
-    "Sv. Moniky (27. srpna)": [
-        "OL249"
-    ],
     "Sv. Martina de Porres, řeholníka (3. listopadu)": [
-        "OL249"
+        "OL249",
+        "OL250"
     ],
     "Sv. Jana Didaka Cuauhtlatoatzina (9. prosince)": [
-        "OL249"
+        "OL249",
+        "OL250"
     ],
     "32. neděle v mezidobí A": [
         "OL251"
@@ -3839,7 +3853,8 @@
         "OL306"
     ],
     "Sv. Josefíny Bakhity, panny (8. února)": [
-        "OL305"
+        "OL305",
+        "OL306"
     ],
     "Sv. Cecílie, panny a mučednice (22. listopadu)": [
         "OL305",
@@ -3898,10 +3913,12 @@
         "OL311"
     ],
     "Sv. Františky Římské, řeholnice (9. března)": [
-        "OL310"
+        "OL310",
+        "OL311"
     ],
     "Sv. Alžběty Uherské, řeholnice (17. listopadu)": [
-        "OL310"
+        "OL310",
+        "OL311"
     ],
     "Sv. Brigity (23. července)": [
         "OL312"

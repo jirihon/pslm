@@ -405,7 +405,15 @@
         "O svatých (v době velikonoční)",
         "Při křtu \/ Při biřmování",
         "Při svěcení jáhnů (v době velikonoční)",
-        "Za zemřelé \/ Při pohřbu"
+        "Za zemřelé \/ Při pohřbu",
+        "Sv. Basila Velikého a Řehoře Naziánského, biskupů a učitelů Církve (2. ledna)",
+        "Sv. Anežky Římské, panny a mučednice (21. ledna)",
+        "Sv. Jana I., papeže a mučedníka (18. května)",
+        "Sv. Norberta, biskupa (6. června)",
+        "Sv. Apolináře, biskupa a mučedníka (20. července)",
+        "Sv. Radima, biskupa (12. října)",
+        "Sv. Markéty Marie Alacoque, panny (16. října)",
+        "Sv. Gertrudy Veliké, panny (16. listopadu)"
     ],
     "OL97": [
         "4. neděle postní B"
@@ -954,19 +962,25 @@
     ],
     "OL249": [
         "31. neděle v mezidobí A",
-        "Sv. Terezie od Dítěte Ježíše (1. října)",
         "O svatých",
         "Sv. Romualda, opata (19. června)",
         "Sv. Jany Františky de Chantal, řeholnice (12. srpna)",
         "Sv. Jana Eudese, kněze (19. srpna)",
         "Sv. Moniky (27. srpna)",
+        "Sv. Terezie od Dítěte Ježíše (1. října)",
         "Sv. Martina de Porres, řeholníka (3. listopadu)",
         "Sv. Jana Didaka Cuauhtlatoatzina (9. prosince)"
     ],
     "OL250": [
         "31. neděle v mezidobí A",
+        "O svatých",
+        "Sv. Romualda, opata (19. června)",
+        "Sv. Jany Františky de Chantal, řeholnice (12. srpna)",
+        "Sv. Jana Eudese, kněze (19. srpna)",
+        "Sv. Moniky (27. srpna)",
         "Sv. Terezie od Dítěte Ježíše (1. října)",
-        "O svatých"
+        "Sv. Martina de Porres, řeholníka (3. listopadu)",
+        "Sv. Jana Didaka Cuauhtlatoatzina (9. prosince)"
     ],
     "OL251": [
         "32. neděle v mezidobí A",
@@ -1277,6 +1291,7 @@
         "O pannách (i v době velikonoční)",
         "Při řeholních slibech (i v době velikonoční)",
         "Sv. Terezie Benedikty od Kříže (9. srpna)",
+        "Sv. Josefíny Bakhity, panny (8. února)",
         "Sv. Cecílie, panny a mučednice (22. listopadu)"
     ],
     "OL307": [
@@ -1313,7 +1328,9 @@
     ],
     "OL311": [
         "O svatých",
-        "Při řeholních slibech (v době velikonoční)"
+        "Při řeholních slibech (v době velikonoční)",
+        "Sv. Františky Římské, řeholnice (9. března)",
+        "Sv. Alžběty Uherské, řeholnice (17. listopadu)"
     ],
     "OL312": [
         "O svatých",
