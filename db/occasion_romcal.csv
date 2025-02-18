@@ -69,7 +69,7 @@ occasion,id,cycle
 "O svatých",,
 "Sv. Zdislavy (30. května)",zdislava_of_lemberk,
 "Sv. Pia z Pietrelciny, kněze (23. září)",pius_of_pietrelcina_priest,
-"Sv. Hedviky, řeholnice (16. října)",16/10,
+"Sv. Hedviky, řeholnice (16. října)",hedwig_of_silesia_religious,
 "Svaté rodiny B (pokud se čte čtení z Gn 15,1-6)",holy_family,B
 "Svaté rodiny C (pokud se čte čtení z 1 Sam 1,20-28)",holy_family,C
 "Pátý den v oktávu Narození Páně (29. prosince)",christmas_octave_day_5,
@@ -534,6 +534,7 @@ occasion,id,cycle
 "Sv. Ambrože, biskupa a učitele Církve (7. prosince)",ambrose_of_milan_bishop,
 "O učitelích Církve (i v době velikonoční)",,
 "Sv. Františka Saleského, biskupa a učitele Církve (24. ledna)",francis_de_sales_bishop,
+"Sv. Řehoře z Nareku, opata a učitele Církve (27. února)",gregory_of_narek_abbot,
 "Sv. Izidora, biskupa a učitele Církve (4. dubna)",isidore_of_seville_bishop,
 "Sv. Atanáše, biskupa a učitele Církve (2. května)",athanasius_of_alexandria_bishop,
 "Sv. Efréma Syrského, jáhna a učitele Církve (9. června)",ephrem_the_syrian_deacon,
@@ -583,7 +584,7 @@ occasion,id,cycle
 "Sv. Alexia a druhů, řeholníků (17. února)",seven_holy_founders_of_the_servite_order,
 "Sv. Anselma, biskupa a mučedníka (21. dubna)",anselm_of_canterbury_bishop,
 "Sv. Filipa Neriho, kněze (26. května)",philip_neri_priest,
-"Sv. Marty (29. července)",29/7,
+"Sv. Marty (29. července)",martha_of_bethany_mary_of_bethany_and_lazarus_of_bethany,
 "Sv. Ignáce z Loyoly, kněze (31. července)",ignatius_of_loyola_priest,
 "Sv. Petra Juliána Eymarda, kněze (2. srpna)",peter_julian_eymard_priest,
 "Sv. Josefa Kalasanského, kněze (25. srpna)",joseph_spouse_of_mary,

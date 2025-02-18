@@ -2285,6 +2285,10 @@
   array (
     0 => 'OL301',
   ),
+  'Sv. Řehoře z Nareku, opata a učitele Církve (27. února)' => 
+  array (
+    0 => 'OL301',
+  ),
   'Sv. Izidora, biskupa a učitele Církve (4. dubna)' => 
   array (
     0 => 'OL301',
