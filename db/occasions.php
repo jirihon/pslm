@@ -750,6 +750,11 @@
     0 => 'OL95',
     1 => 'OL96',
   ),
+  'Sv. Jana z Ávily, kněze a učitele Církve (10. května)' => 
+  array (
+    0 => 'OL95',
+    1 => 'OL96',
+  ),
   'Sv. Jana I., papeže a mučedníka (18. května)' => 
   array (
     0 => 'OL95',
