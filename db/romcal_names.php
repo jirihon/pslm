@@ -198,7 +198,8 @@
   'Sv. Davida, biskupa a patrona Walesu' => 'david_of_wales_bishop_patron_of_wales',
   'Sv. Davnety, panny' => 'davnet_of_sliabh_beagh_virgin',
   'Sv. Deklana, biskupa' => 'declan_of_ardmore_bishop',
-  //'Výročí posvěcení kostela' => 'dedication_of_consecrated_churches',
+  // Covered by a custom regex in pslm_occasions_to_romcal
+  //'Výročí posvěcení kostela' => 'dedication_of_consecrated_churches_on_october_25',
   'Posvěcení římské baziliky Panny Marie' => 'dedication_of_the_basilica_of_saint_mary_major',
   'Posvěcení římských bazilik svatých apoštolů Petra a Pavla' => 'dedication_of_the_basilicas_of_saints_peter_and_paul_apostles',
   'Posvěcení římských bazilik sv. Petra a Pavla' => 'dedication_of_the_basilicas_of_saints_peter_and_paul_apostles',

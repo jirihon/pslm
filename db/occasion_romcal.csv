@@ -178,7 +178,7 @@ occasion,id,cycle
 "4. neděle postní C",lent_4_sunday,C
 "Úterý po 4. neděli postní",lent_4_tuesday,
 "Posvěcení lateránské baziliky (9. listopadu)",dedication_of_the_lateran_basilica,
-"Výročí posvěcení kostela",,
+"Výročí posvěcení kostela",dedication_of_consecrated_churches_on_october_25,
 "Středa po 4. neděli postní",lent_4_wednesday,
 "Čtvrtek po 4. neděli postní",lent_4_thursday,
 "Pátek po 4. neděli postní",lent_4_friday,
@@ -509,7 +509,7 @@ occasion,id,cycle
 "Bl. Marie Restituty Kafkové, panny a mučednice (29. října)",29/10,
 "Sv. Kateřiny Alexandrijské, panny a mučednice (25. listopadu)",catherine_of_alexandria_virgin,
 "Při svěcení oltáře",,
-"Výročí posvěcení kostela (i v době velikonoční)",,
+"Výročí posvěcení kostela (i v době velikonoční)",dedication_of_consecrated_churches_on_october_25,
 "Výročí posvěcení kostela (v době velikonoční)",,
 "Při svěcení oltáře (i v době velikonoční)",,
 "Panny Marie, Prostřednice všech milostí (8. května)",our_lady_mediatrix_of_all_grace,

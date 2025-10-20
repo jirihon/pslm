@@ -122,6 +122,8 @@ function pslm_occasions_to_romcal() {
     }
 
     $time_map = [
+        "#^Výročí posvěcení kostela( \(i v době velikonoční\))?$#u" => 'dedication_of_consecrated_churches_on_october_25',
+        
         "#^$week_rx\. neděle adventní ?$cycle_rx#u" => 'advent_{week}_sunday',
         "#^$dow_rx po $week_rx\. neděli adventní#u" => 'advent_{week}_{dow}',
 
