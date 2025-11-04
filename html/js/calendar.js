@@ -131,7 +131,7 @@ document.addEventListener("DOMContentLoaded", async function() {
             const day_occasion_key = `${day.getDate()}/${day.getMonth()+1}`;
             add_psalms(lit_events.length, day_occasion_key, i);
 
-            if (day_occasion_key === '9/11' && year === 2025) {
+            if (day_occasion_key === '9/11') {
                 // Exception for the Dedication of the lateran basilica.
                 lit_events = [{
                     key: 'dedication_of_the_lateran_basilica',
