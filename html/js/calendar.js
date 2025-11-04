@@ -104,7 +104,7 @@ document.addEventListener("DOMContentLoaded", async function() {
             }
             const calendar = calendars[year];
             const day_key = date_to_key(day);
-            const lit_events = calendar[day_key].filter(d => !d.name.includes('$')); // filter out days with wrong names
+            let lit_events = calendar[day_key].filter(d => !d.name.includes('$')); // filter out days with wrong names
             const lit_event_keys = lit_events.map(e => e.key);
 
             // include also weekday if missing
@@ -128,7 +128,20 @@ document.addEventListener("DOMContentLoaded", async function() {
                 }
             }
             day_psalms[i] = [];
-            add_psalms(lit_events.length, `${day.getDate()}/${day.getMonth()+1}`, i);
+            const day_occasion_key = `${day.getDate()}/${day.getMonth()+1}`;
+            add_psalms(lit_events.length, day_occasion_key, i);
+
+            if (day_occasion_key === '9/11' && year === 2025) {
+                // Exception for the Dedication of the lateran basilica.
+                lit_events = [{
+                    key: 'dedication_of_the_lateran_basilica',
+                    name: 'Svátek Posvěcení lateránské baziliky',
+                    cycles: {
+                        sundayCycle: '',
+                        weekdayCycle: '',
+                    }
+                }];
+            }
 
             for (const [rank, event] of lit_events.entries()) {
                 const key = event.key;
