@@ -104,11 +104,15 @@ document.addEventListener("DOMContentLoaded", async function() {
             }
             const calendar = calendars[year];
             const day_key = date_to_key(day);
-            let lit_events = calendar[day_key].filter(d => !d.name.includes('$')); // filter out days with wrong names
+            let lit_events = calendar[day_key].filter(d => !d.name.includes('$')); // Filter out days with wrong names.
             const lit_event_keys = lit_events.map(e => e.key);
 
-            // include also weekday if missing
+            // Include also weekday if missing.
             for (const event of lit_events) {
+                if (event.key === 'baptism_of_the_lord') {
+                    // Baptism of the Lord should be FEAST, not SOLEMNITY.
+                    event.rank = 'FEAST';
+                }
                 if (event.rank !== 'FEAST' && event.weekday && !lit_event_keys.includes(event.weekday.key)) {
                     lit_events.push(event.weekday);
                 }
@@ -128,19 +132,24 @@ document.addEventListener("DOMContentLoaded", async function() {
                 }
             }
             day_psalms[i] = [];
-            const day_occasion_key = `${day.getDate()}/${day.getMonth()+1}`;
-            add_psalms(lit_events.length, day_occasion_key, i);
 
-            if (day_occasion_key === '9/11') {
-                // Exception for the Dedication of the lateran basilica.
-                lit_events = [{
-                    key: 'dedication_of_the_lateran_basilica',
-                    name: 'Svátek Posvěcení lateránské baziliky',
-                    cycles: {
-                        sundayCycle: '',
-                        weekdayCycle: '',
-                    }
-                }];
+            if (lit_events[0].key !== 'baptism_of_the_lord') {
+                // Do not add day occasion psalms for Baptism of the Lord.
+
+                const day_occasion_key = `${day.getDate()}/${day.getMonth()+1}`;
+                add_psalms(lit_events.length, day_occasion_key, i);
+                
+                if (day_occasion_key === '9/11') {
+                    // Exception for the Dedication of the lateran basilica.
+                    lit_events = [{
+                        key: 'dedication_of_the_lateran_basilica',
+                        name: 'Svátek Posvěcení lateránské baziliky',
+                        cycles: {
+                            sundayCycle: '',
+                            weekdayCycle: '',
+                        }
+                    }];
+                }
             }
 
             for (const [rank, event] of lit_events.entries()) {
@@ -160,7 +169,7 @@ document.addEventListener("DOMContentLoaded", async function() {
         for (const [i, day] of week.entries()) {
             await get_day_psalms_and_lit_days(i, day, day_psalms, lit_days);
         }
-        // delete the extra last day added for finding vigils
+        // Delete the extra last day added for finding vigils.
         day_psalms = day_psalms.slice(0, -1);
         
         for (let [i, psalms] of day_psalms.entries()) {
