@@ -133,10 +133,11 @@ document.addEventListener("DOMContentLoaded", async function() {
             }
             day_psalms[i] = [];
 
-            if (lit_events[0].key !== 'baptism_of_the_lord') {
-                // Do not add day occasion psalms for Baptism of the Lord.
+            const day_occasion_key = `${day.getDate()}/${day.getMonth()+1}`;
 
-                const day_occasion_key = `${day.getDate()}/${day.getMonth()+1}`;
+            if (lit_events[0].key !== 'baptism_of_the_lord' && day_occasion_key !== '15/2') {
+                // Do not add day occasion psalms for Baptism of the Lord and for 15/2 (Bl. Bedřich Bachsteina)
+
                 add_psalms(lit_events.length, day_occasion_key, i);
                 
                 if (day_occasion_key === '9/11') {
