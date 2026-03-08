@@ -323,7 +323,7 @@ optionalBreath = #(define-music-function (syllable)(string?)
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key f \major \relative { a'8 a g a bes a g f \cadenzaMeasure \bar "|" e d \bar "" d[( c)] c4~ c8 r8 \cadenzaMeasure \bar "|" bes' bes c bes a g g[( f)] \cadenzaMeasure \bar "|" f4( f8)] r \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key f \major \relative { a'8 a g a bes a g f \cadenzaMeasure \bar "|" e d \bar "" d[( c)] c4~ c8 r8 \cadenzaMeasure \bar "|" bes' bes c bes a g g[( f)] \cadenzaMeasure \bar "|" f4~ f8 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Kéž by -- ste dnes u -- po -- slech -- li je -- ho hla -- su: „Ne -- za -- tvr -- zuj -- te svá srd -- ce!“ } }
     >>
@@ -350,7 +350,7 @@ Kéž by -- ste dnes u -- po -- slech -- li je -- ho hla -- su: „Ne -- za -- t
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key f \major \relative { a'8 a g a bes a g f \cadenzaMeasure \bar "|" e d \bar "" d[( c)] c4~ c8 r8 \cadenzaMeasure \bar "|" bes' bes c bes a g g[( f)] \cadenzaMeasure \bar "|" f4( f8)] r \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key f \major \relative { a'8 a g a bes a g f \cadenzaMeasure \bar "|" e d \bar "" d[( c)] c4~ c8 r8 \cadenzaMeasure \bar "|" bes' bes c bes a g g[( f)] \cadenzaMeasure \bar "|" f4~ f8 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Kéž by -- ste dnes u -- po -- slech -- li je -- ho hla -- su: „Ne -- za -- tvr -- zuj -- te svá srd -- ce!“ } }
     >>
@@ -377,7 +377,7 @@ Kéž by -- ste dnes u -- po -- slech -- li je -- ho hla -- su: „Ne -- za -- t
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key f \major \relative { a'8 a g a bes a g f \cadenzaMeasure \bar "|" e d \bar "" d[( c)] c4~ c8 r8 \cadenzaMeasure \bar "|" bes' bes c bes a g g[( f)] \cadenzaMeasure \bar "|" f4( f8)] r \cadenzaMeasure \bar "||" \break } }
+        \new Voice = "melody" { \cadenzaOn \key f \major \relative { a'8 a g a bes a g f \cadenzaMeasure \bar "|" e d \bar "" d[( c)] c4~ c8 r8 \cadenzaMeasure \bar "|" bes' bes c bes a g g[( f)] \cadenzaMeasure \bar "|" f4~ f8 r \cadenzaMeasure \bar "||" \break } }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Kéž by -- ste dnes u -- po -- slech -- li je -- ho hla -- su: „Ne -- za -- tvr -- zuj -- te svá srd -- ce!“ } }
     >>
@@ -404,7 +404,7 @@ Kéž by -- ste dnes u -- po -- slech -- li je -- ho hla -- su: „Ne -- za -- t
 
 \score {
     <<
-        \new Voice = "melody" { \cadenzaOn \key f \major \relative { a'8 a g a bes a g f \cadenzaMeasure \bar "|" e d \bar "" d[( c)] c4~ c8 r8 \cadenzaMeasure \bar "|" bes' bes c bes a g g[( f)] \cadenzaMeasure \bar "|" f4( f8)] r \cadenzaMeasure \bar "||" \break } \bar "|." }
+        \new Voice = "melody" { \cadenzaOn \key f \major \relative { a'8 a g a bes a g f \cadenzaMeasure \bar "|" e d \bar "" d[( c)] c4~ c8 r8 \cadenzaMeasure \bar "|" bes' bes c bes a g g[( f)] \cadenzaMeasure \bar "|" f4~ f8 r \cadenzaMeasure \bar "||" \break } \bar "|." }
         \new Lyrics \lyricsto "melody" { \lyricmode { \set stanza = \responsum
 Kéž by -- ste dnes u -- po -- slech -- li je -- ho hla -- su: „Ne -- za -- tvr -- zuj -- te svá srd -- ce!“ } }
     >>
