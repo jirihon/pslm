@@ -145,12 +145,26 @@ document.addEventListener("DOMContentLoaded", async function() {
                     lit_events = [{
                         key: 'dedication_of_the_lateran_basilica',
                         name: 'Svátek Posvěcení lateránské baziliky',
+                        rank: 'FEAST',
                         cycles: {
                             sundayCycle: '',
                             weekdayCycle: '',
                         }
                     }];
                 }
+            }
+
+            if (day_occasion_key === '5/7') {
+                // Force solemnity of the Cyril and Methodius.
+                lit_events = [{
+                    key: 'cyril_the_philosopher_monk_and_methodius_of_thessaloniki_bishop',
+                    name: 'Sv. Cyrila a Metoděje',
+                    rank: 'SOLEMNITY',
+                    cycles: {
+                        sundayCycle: '',
+                        weekdayCycle: '',
+                    }
+                }];
             }
 
             for (const [rank, event] of lit_events.entries()) {
